@@ -1,0 +1,16 @@
+Insurance Policy POL-U89YJB1QX
+Holder: Susan Davis DDS
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-U89YJB1QX",
+  "policy_holder": "Susan Davis DDS",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-01-07",
+  "expiry_date": "2025-01-07",
+  "premium": 2492.73,
+  "coverage_amount": 223583.64,
+  "beneficiary": "Alicia Parker",
+  "sample_id": "insurance_document_0059"
+}

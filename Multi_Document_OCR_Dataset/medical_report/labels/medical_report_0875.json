@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-54K8YWNX",
+  "patient_name": "Lisa Sanders",
+  "visit_date": "2025-06-14",
+  "doctor_name": "Dr. Kimberly Wang",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0875"
+}

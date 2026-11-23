@@ -1,0 +1,14 @@
+Medical Report MED-EWSMORSZ
+Patient: Gary King
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EWSMORSZ",
+  "patient_name": "Gary King",
+  "visit_date": "2026-09-29",
+  "doctor_name": "Dr. Darryl Roberts",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0531"
+}

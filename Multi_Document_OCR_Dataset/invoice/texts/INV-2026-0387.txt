@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0387
+Company: BlueRiver Trading Co.
+Company Address: 29 Gulshan Avenue, Doha, Qatar
+Customer: Trust Finance Office
+Billing Address: 195 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-03-25
+Due Date: 2026-05-09
+Currency: USD
+Subtotal: 15717.15
+Tax: 2239.69
+Total: 17180.98
+Balance Due: 17180.98
+Status: overdue

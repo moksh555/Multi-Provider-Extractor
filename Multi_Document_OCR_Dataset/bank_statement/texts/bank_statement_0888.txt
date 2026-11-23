@@ -1,0 +1,16 @@
+Bank Statement STM-6YBLH4MT
+Holder: Heather Moreno
+Closing Balance: $-947.40
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6YBLH4MT",
+  "account_holder": "Heather Moreno",
+  "account_number_masked": "****1620",
+  "period_start": "2026-12-27",
+  "period_end": "2027-01-26",
+  "opening_balance": 1525.86,
+  "closing_balance": -947.4,
+  "transactions": 8,
+  "sample_id": "bank_statement_0888"
+}

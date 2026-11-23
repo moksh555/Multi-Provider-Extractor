@@ -1,0 +1,26 @@
+Resume
+Brian Villanueva
+Backend Developer
+Skills: FastAPI, SQL, Pandas, AWS, Python, Streamlit, Deep Learning, Computer Vision, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Brian Villanueva",
+  "email": "ysmith@example.org",
+  "phone": "744-696-5502x42182",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "SQL",
+    "Pandas",
+    "AWS",
+    "Python",
+    "Streamlit",
+    "Deep Learning",
+    "Computer Vision",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0847"
+}

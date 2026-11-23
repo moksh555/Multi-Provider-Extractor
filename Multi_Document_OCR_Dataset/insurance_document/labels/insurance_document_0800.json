@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-UV43MCO07",
+  "policy_holder": "Carrie Hall",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-09-07",
+  "expiry_date": "2026-09-07",
+  "premium": 2372.91,
+  "coverage_amount": 142549.12,
+  "beneficiary": "Patricia Cabrera",
+  "sample_id": "insurance_document_0800"
+}

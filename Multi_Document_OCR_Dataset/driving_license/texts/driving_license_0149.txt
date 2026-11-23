@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andre Juarez
+License: DL269520457
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL269520457",
+  "full_name": "Andre Juarez",
+  "date_of_birth": "1994-02-09",
+  "class": "B",
+  "issue_date": "2021-08-28",
+  "expiry_date": "2026-08-28",
+  "address": "84279 Dunn Creek Apt. 485, Port Jenniferside, IL 56226",
+  "sample_id": "driving_license_0149"
+}

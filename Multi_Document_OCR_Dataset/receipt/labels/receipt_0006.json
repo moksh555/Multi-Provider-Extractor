@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IIUC039T",
+  "merchant_name": "Porter, Wilkerson and Day",
+  "date": "2022-05-31",
+  "subtotal": 578.48,
+  "tax": 40.86,
+  "discount": 3.72,
+  "total": 615.62,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$21.94",
+      "line_total": "$43.88"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$74.38",
+      "line_total": "$148.76"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$32.52",
+      "line_total": "$97.56"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$72.07",
+      "line_total": "$288.28"
+    }
+  ],
+  "sample_id": "receipt_0006"
+}

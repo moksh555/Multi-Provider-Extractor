@@ -1,0 +1,14 @@
+Medical Report MED-I6R81P04
+Patient: Emily Hensley
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-I6R81P04",
+  "patient_name": "Emily Hensley",
+  "visit_date": "2024-08-01",
+  "doctor_name": "Dr. Jason Calderon",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0330"
+}

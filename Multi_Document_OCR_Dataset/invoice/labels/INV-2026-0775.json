@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0775",
+  "invoice_number": "INV-2026-0775",
+  "company_name": "Golden Harvest Store",
+  "company_address": "30 Al Barsha, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "187 Road 12, Banani, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-26",
+  "due_date": "2026-04-02",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 7,
+      "unit_price": 552.13,
+      "amount": 3864.91
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 5,
+      "unit_price": 424.13,
+      "amount": 2120.65
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 2,
+      "unit_price": 741.24,
+      "amount": 1482.48
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 579.33,
+      "amount": 5793.3
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 127.84,
+      "amount": 511.36
+    }
+  ],
+  "subtotal": 13772.7,
+  "discount": 1377.27,
+  "tax_rate": 0.1,
+  "tax": 1239.54,
+  "shipping": 25,
+  "total": 13659.97,
+  "amount_paid": 0,
+  "balance_due": 13659.97,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801707233831",
+  "po_number": "PO-35494"
+}

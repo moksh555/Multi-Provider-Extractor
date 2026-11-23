@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL066181258",
+  "full_name": "Andrew Medina",
+  "date_of_birth": "1972-09-21",
+  "class": "B",
+  "issue_date": "2020-01-05",
+  "expiry_date": "2025-01-05",
+  "address": "USS Aguirre, FPO AA 38699",
+  "sample_id": "driving_license_0746"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-I9YTLVHY
+Holder: Mary Morgan
+Closing Balance: $2916.25
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I9YTLVHY",
+  "account_holder": "Mary Morgan",
+  "account_number_masked": "****7901",
+  "period_start": "2024-04-27",
+  "period_end": "2024-05-27",
+  "opening_balance": 2287.92,
+  "closing_balance": 2916.25,
+  "transactions": 11,
+  "sample_id": "bank_statement_1000"
+}

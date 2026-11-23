@@ -1,0 +1,16 @@
+Insurance Policy POL-34KUQAAJ8
+Holder: Sharon Burgess
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-34KUQAAJ8",
+  "policy_holder": "Sharon Burgess",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-09-12",
+  "expiry_date": "2024-09-12",
+  "premium": 1676.07,
+  "coverage_amount": 447416.4,
+  "beneficiary": "Emily Gray",
+  "sample_id": "insurance_document_0477"
+}

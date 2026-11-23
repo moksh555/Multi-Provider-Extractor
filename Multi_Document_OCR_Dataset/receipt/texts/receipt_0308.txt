@@ -1,0 +1,61 @@
+Receipt RCT-VWE77NTT
+Merchant: Huang, Ford and Olsen
+Date: 2026-07-11
+Total: $659.82
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VWE77NTT",
+  "merchant_name": "Huang, Ford and Olsen",
+  "date": "2026-07-11",
+  "subtotal": 604.51,
+  "tax": 63.58,
+  "discount": 8.27,
+  "total": 659.82,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$7.61",
+      "line_total": "$30.44"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$56.54",
+      "line_total": "$113.08"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$1.23",
+      "line_total": "$3.69"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$45.11",
+      "line_total": "$135.33"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$5.71",
+      "line_total": "$5.71"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$68.05",
+      "line_total": "$204.15"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$37.37",
+      "line_total": "$112.11"
+    }
+  ],
+  "sample_id": "receipt_0308"
+}

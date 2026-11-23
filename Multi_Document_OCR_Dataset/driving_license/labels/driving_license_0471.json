@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL903374265",
+  "full_name": "Stephanie Patel",
+  "date_of_birth": "1973-05-12",
+  "class": "B",
+  "issue_date": "2026-07-01",
+  "expiry_date": "2031-07-01",
+  "address": "816 Wallace Rapid, North Kelseyborough, IA 49606",
+  "sample_id": "driving_license_0471"
+}

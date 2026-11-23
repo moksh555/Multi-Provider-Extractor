@@ -1,0 +1,16 @@
+Insurance Policy POL-IEMTMYJ01
+Holder: Krista Barber
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IEMTMYJ01",
+  "policy_holder": "Krista Barber",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-01-26",
+  "expiry_date": "2025-01-26",
+  "premium": 1799.43,
+  "coverage_amount": 499017.9,
+  "beneficiary": "Julie Holland",
+  "sample_id": "insurance_document_0603"
+}

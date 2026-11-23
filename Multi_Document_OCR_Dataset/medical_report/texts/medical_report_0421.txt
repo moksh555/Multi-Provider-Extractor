@@ -1,0 +1,14 @@
+Medical Report MED-OPB37JXT
+Patient: Andres Sutton
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OPB37JXT",
+  "patient_name": "Andres Sutton",
+  "visit_date": "2024-12-19",
+  "doctor_name": "Dr. Pamela Hensley",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0421"
+}

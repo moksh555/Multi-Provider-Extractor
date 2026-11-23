@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0338
+Company: Greenline Logistics
+Company Address: 175 Agrabad C/A, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 155 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-01-16
+Due Date: 2026-01-31
+Currency: QAR
+Subtotal: 7726.04
+Tax: 366.99
+Total: 7711.73
+Balance Due: 5368.35
+Status: partial

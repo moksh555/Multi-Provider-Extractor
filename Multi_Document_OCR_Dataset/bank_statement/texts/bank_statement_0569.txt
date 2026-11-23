@@ -1,0 +1,16 @@
+Bank Statement STM-U72J7IJ6
+Holder: Karen Cooley
+Closing Balance: $2270.33
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-U72J7IJ6",
+  "account_holder": "Karen Cooley",
+  "account_number_masked": "****7254",
+  "period_start": "2025-10-13",
+  "period_end": "2025-11-12",
+  "opening_balance": 2926.34,
+  "closing_balance": 2270.33,
+  "transactions": 13,
+  "sample_id": "bank_statement_0569"
+}

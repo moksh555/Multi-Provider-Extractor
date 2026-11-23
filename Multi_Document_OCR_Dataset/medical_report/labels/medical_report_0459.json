@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-D41TA4AY",
+  "patient_name": "Michael Donovan",
+  "visit_date": "2025-12-11",
+  "doctor_name": "Dr. Regina Johnson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0459"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-F5PXHU2H",
+  "patient_name": "Karen Mcdonald",
+  "visit_date": "2025-03-19",
+  "doctor_name": "Dr. Kyle Bell",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0415"
+}

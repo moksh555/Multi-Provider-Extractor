@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MNG806W8",
+  "account_holder": "John Escobar",
+  "account_number_masked": "****6207",
+  "period_start": "2024-06-25",
+  "period_end": "2024-07-25",
+  "opening_balance": 4964.55,
+  "closing_balance": 5036.5,
+  "transactions": 9,
+  "sample_id": "bank_statement_0049"
+}

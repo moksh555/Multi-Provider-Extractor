@@ -1,0 +1,24 @@
+Resume
+Brian Mclaughlin
+Software Engineer
+Skills: Deep Learning, SQL, AWS, FastAPI, Streamlit, TensorFlow, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Brian Mclaughlin",
+  "email": "brianjohnson@example.org",
+  "phone": "(514)642-6735",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Deep Learning",
+    "SQL",
+    "AWS",
+    "FastAPI",
+    "Streamlit",
+    "TensorFlow",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0444"
+}

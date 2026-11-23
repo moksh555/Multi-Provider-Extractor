@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8EVRC0ER",
+  "merchant_name": "Saunders LLC",
+  "date": "2024-01-18",
+  "subtotal": 602.82,
+  "tax": 42.49,
+  "discount": 6.63,
+  "total": 638.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$67.73",
+      "line_total": "$135.46"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$13.86",
+      "line_total": "$55.44"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$45.04",
+      "line_total": "$135.12"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$5.61",
+      "line_total": "$22.44"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$63.59",
+      "line_total": "$254.36"
+    }
+  ],
+  "sample_id": "receipt_0540"
+}

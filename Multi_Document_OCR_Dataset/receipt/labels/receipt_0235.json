@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XUJJCSEX",
+  "merchant_name": "Vance and Sons",
+  "date": "2023-01-06",
+  "subtotal": 582.98,
+  "tax": 63.21,
+  "discount": 2.81,
+  "total": 643.38,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$7.58",
+      "line_total": "$7.58"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$47.39",
+      "line_total": "$142.17"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$50.28",
+      "line_total": "$201.12"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$77.37",
+      "line_total": "$232.11"
+    }
+  ],
+  "sample_id": "receipt_0235"
+}

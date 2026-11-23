@@ -1,0 +1,14 @@
+Medical Report MED-U585NCXK
+Patient: Robert Sullivan
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-U585NCXK",
+  "patient_name": "Robert Sullivan",
+  "visit_date": "2025-10-28",
+  "doctor_name": "Dr. Aaron Cruz",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0764"
+}

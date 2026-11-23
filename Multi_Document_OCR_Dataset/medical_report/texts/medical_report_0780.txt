@@ -1,0 +1,14 @@
+Medical Report MED-ZHX384S4
+Patient: Luis Robles
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZHX384S4",
+  "patient_name": "Luis Robles",
+  "visit_date": "2025-11-28",
+  "doctor_name": "Dr. Janice Powell",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0780"
+}

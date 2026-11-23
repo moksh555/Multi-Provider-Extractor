@@ -1,0 +1,16 @@
+Bank Statement STM-M4I5VGD1
+Holder: Matthew May
+Closing Balance: $1983.60
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-M4I5VGD1",
+  "account_holder": "Matthew May",
+  "account_number_masked": "****9210",
+  "period_start": "2025-10-13",
+  "period_end": "2025-11-12",
+  "opening_balance": 1759.82,
+  "closing_balance": 1983.6,
+  "transactions": 9,
+  "sample_id": "bank_statement_0721"
+}

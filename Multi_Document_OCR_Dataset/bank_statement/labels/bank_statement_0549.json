@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KT79AAXN",
+  "account_holder": "Melvin Smith",
+  "account_number_masked": "****9089",
+  "period_start": "2025-06-06",
+  "period_end": "2025-07-06",
+  "opening_balance": 4536.68,
+  "closing_balance": 5154.48,
+  "transactions": 9,
+  "sample_id": "bank_statement_0549"
+}

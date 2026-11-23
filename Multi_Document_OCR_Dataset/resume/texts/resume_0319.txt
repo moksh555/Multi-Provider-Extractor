@@ -1,0 +1,25 @@
+Resume
+Jimmy Edwards
+Software Engineer
+Skills: PyTorch, Machine Learning, Python, LangChain, TensorFlow, Computer Vision, Deep Learning, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Jimmy Edwards",
+  "email": "lisa49@example.com",
+  "phone": "(949)903-2234",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "PyTorch",
+    "Machine Learning",
+    "Python",
+    "LangChain",
+    "TensorFlow",
+    "Computer Vision",
+    "Deep Learning",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0319"
+}

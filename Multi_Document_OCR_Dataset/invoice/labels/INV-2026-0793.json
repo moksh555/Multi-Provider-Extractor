@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0793",
+  "invoice_number": "INV-2026-0793",
+  "company_name": "Delta Insurance Services",
+  "company_address": "81 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "37 Sheikh Zayed Road, Doha, Qatar",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-05-08",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 2,
+      "unit_price": 509.12,
+      "amount": 1018.24
+    },
+    {
+      "description": "API Integration",
+      "quantity": 8,
+      "unit_price": 89.41,
+      "amount": 715.28
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 11,
+      "unit_price": 724.79,
+      "amount": 7972.69
+    }
+  ],
+  "subtotal": 9706.21,
+  "discount": 194.12,
+  "tax_rate": 0.075,
+  "tax": 713.41,
+  "shipping": 0,
+  "total": 10225.5,
+  "amount_paid": 0,
+  "balance_due": 10225.5,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801887914600",
+  "po_number": "PO-02623"
+}

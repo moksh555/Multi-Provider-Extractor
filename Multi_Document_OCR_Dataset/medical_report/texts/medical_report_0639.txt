@@ -1,0 +1,14 @@
+Medical Report MED-QNPOUCKT
+Patient: Adriana Smith
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QNPOUCKT",
+  "patient_name": "Adriana Smith",
+  "visit_date": "2025-11-30",
+  "doctor_name": "Dr. Michael White",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0639"
+}

@@ -1,0 +1,55 @@
+Receipt RCT-CU9TD0V2
+Merchant: Jenkins-Pierce
+Date: 2024-03-22
+Total: $588.29
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-CU9TD0V2",
+  "merchant_name": "Jenkins-Pierce",
+  "date": "2024-03-22",
+  "subtotal": 569.79,
+  "tax": 27.73,
+  "discount": 9.23,
+  "total": 588.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$42.51",
+      "line_total": "$127.53"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$49.53",
+      "line_total": "$99.06"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$39.91",
+      "line_total": "$159.64"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$56.98",
+      "line_total": "$113.96"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$10.34",
+      "line_total": "$10.34"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$59.26",
+      "line_total": "$59.26"
+    }
+  ],
+  "sample_id": "receipt_0176"
+}

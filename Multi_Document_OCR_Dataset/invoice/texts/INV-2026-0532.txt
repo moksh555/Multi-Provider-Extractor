@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0532
+Company: UrbanBuild Construction
+Company Address: 43 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 129 Jumeirah Lake Towers, Chattogram, Bangladesh
+Invoice Date: 2026-03-07
+Due Date: 2026-04-06
+Currency: QAR
+Subtotal: 22204.47
+Tax: 3330.67
+Total: 25535.14
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,16 @@
+Bank Statement STM-16COJUQ9
+Holder: Cindy Levy
+Closing Balance: $2862.89
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-16COJUQ9",
+  "account_holder": "Cindy Levy",
+  "account_number_masked": "****5051",
+  "period_start": "2025-08-30",
+  "period_end": "2025-09-29",
+  "opening_balance": 1253.67,
+  "closing_balance": 2862.89,
+  "transactions": 9,
+  "sample_id": "bank_statement_0898"
+}

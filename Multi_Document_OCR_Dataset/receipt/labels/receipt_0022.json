@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-14VE92MP",
+  "merchant_name": "Carpenter LLC",
+  "date": "2025-02-26",
+  "subtotal": 330.89,
+  "tax": 22.9,
+  "discount": 11.01,
+  "total": 342.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$68.12",
+      "line_total": "$68.12"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$35.25",
+      "line_total": "$35.25"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$56.88",
+      "line_total": "$227.52"
+    }
+  ],
+  "sample_id": "receipt_0022"
+}

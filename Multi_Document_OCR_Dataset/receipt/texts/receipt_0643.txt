@@ -1,0 +1,37 @@
+Receipt RCT-TAMY74WX
+Merchant: Hunt-Johnson
+Date: 2021-09-13
+Total: $454.22
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TAMY74WX",
+  "merchant_name": "Hunt-Johnson",
+  "date": "2021-09-13",
+  "subtotal": 442.24,
+  "tax": 20.32,
+  "discount": 8.34,
+  "total": 454.22,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$43.18",
+      "line_total": "$172.72"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$65.99",
+      "line_total": "$131.98"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$68.77",
+      "line_total": "$137.54"
+    }
+  ],
+  "sample_id": "receipt_0643"
+}

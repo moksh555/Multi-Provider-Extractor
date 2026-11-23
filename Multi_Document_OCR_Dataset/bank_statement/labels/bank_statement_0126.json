@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6P9JLAIL",
+  "account_holder": "Christina Wilson",
+  "account_number_masked": "****3942",
+  "period_start": "2025-03-27",
+  "period_end": "2025-04-26",
+  "opening_balance": 2616.17,
+  "closing_balance": 3015.12,
+  "transactions": 8,
+  "sample_id": "bank_statement_0126"
+}

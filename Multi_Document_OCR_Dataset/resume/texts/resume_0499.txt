@@ -1,0 +1,27 @@
+Resume
+Steven Taylor
+Computer Vision Engineer
+Skills: Pandas, FastAPI, TensorFlow, NLP, Docker, Deep Learning, LangChain, SQL, Streamlit, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Steven Taylor",
+  "email": "audreywatson@example.org",
+  "phone": "7893233313",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "FastAPI",
+    "TensorFlow",
+    "NLP",
+    "Docker",
+    "Deep Learning",
+    "LangChain",
+    "SQL",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0499"
+}

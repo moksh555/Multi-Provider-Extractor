@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL071132181",
+  "full_name": "Kenneth Murphy",
+  "date_of_birth": "1986-06-17",
+  "class": "D",
+  "issue_date": "2022-11-28",
+  "expiry_date": "2027-11-28",
+  "address": "089 Young Road Suite 802, North Melissa, AS 04945",
+  "sample_id": "driving_license_0923"
+}

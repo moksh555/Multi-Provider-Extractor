@@ -1,0 +1,14 @@
+Medical Report MED-HQRJEP0U
+Patient: Kenneth Wilson
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HQRJEP0U",
+  "patient_name": "Kenneth Wilson",
+  "visit_date": "2026-09-04",
+  "doctor_name": "Dr. Amy Hopkins",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0962"
+}

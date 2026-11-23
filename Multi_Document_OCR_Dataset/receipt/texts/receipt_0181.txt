@@ -1,0 +1,61 @@
+Receipt RCT-AWSHMLFZ
+Merchant: Taylor-Moore
+Date: 2024-03-06
+Total: $692.27
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AWSHMLFZ",
+  "merchant_name": "Taylor-Moore",
+  "date": "2024-03-06",
+  "subtotal": 636.84,
+  "tax": 62.42,
+  "discount": 6.99,
+  "total": 692.27,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$6.63",
+      "line_total": "$13.26"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$5.01",
+      "line_total": "$20.04"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$72.36",
+      "line_total": "$289.44"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$31.30",
+      "line_total": "$31.30"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$31.96",
+      "line_total": "$127.84"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$25.68",
+      "line_total": "$77.04"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$77.92",
+      "line_total": "$77.92"
+    }
+  ],
+  "sample_id": "receipt_0181"
+}

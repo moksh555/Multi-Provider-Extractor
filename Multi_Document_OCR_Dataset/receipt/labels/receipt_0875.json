@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JF8RQCVM",
+  "merchant_name": "Barnes, Peterson and Castillo",
+  "date": "2024-05-05",
+  "subtotal": 245.0,
+  "tax": 8.38,
+  "discount": 12.77,
+  "total": 240.61,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$60.60",
+      "line_total": "$181.80"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$5.69",
+      "line_total": "$11.38"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$51.82",
+      "line_total": "$51.82"
+    }
+  ],
+  "sample_id": "receipt_0875"
+}

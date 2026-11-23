@@ -1,0 +1,27 @@
+Resume
+Timothy Hill
+Data Analyst
+Skills: PyTorch, SQL, Streamlit, Computer Vision, FastAPI, Docker, Pandas, Deep Learning, Machine Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Timothy Hill",
+  "email": "brookstimothy@example.net",
+  "phone": "925.711.4978",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "SQL",
+    "Streamlit",
+    "Computer Vision",
+    "FastAPI",
+    "Docker",
+    "Pandas",
+    "Deep Learning",
+    "Machine Learning",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0164"
+}

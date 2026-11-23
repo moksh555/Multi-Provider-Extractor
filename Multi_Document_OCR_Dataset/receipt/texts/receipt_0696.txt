@@ -1,0 +1,43 @@
+Receipt RCT-4NK1QBCD
+Merchant: Rodriguez-Sherman
+Date: 2026-03-02
+Total: $324.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4NK1QBCD",
+  "merchant_name": "Rodriguez-Sherman",
+  "date": "2026-03-02",
+  "subtotal": 320.04,
+  "tax": 18.76,
+  "discount": 14.68,
+  "total": 324.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$10.68",
+      "line_total": "$42.72"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$60.62",
+      "line_total": "$181.86"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$39.01",
+      "line_total": "$78.02"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$8.72",
+      "line_total": "$17.44"
+    }
+  ],
+  "sample_id": "receipt_0696"
+}

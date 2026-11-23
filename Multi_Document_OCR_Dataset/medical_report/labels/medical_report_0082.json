@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-21ATJMOV",
+  "patient_name": "Cynthia Taylor",
+  "visit_date": "2025-11-28",
+  "doctor_name": "Dr. Daniel Hunt",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0082"
+}

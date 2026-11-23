@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0158
+Company: Nova Medical Supplies
+Company Address: 155 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 210 Sheikh Zayed Road, Dhaka, Bangladesh
+Invoice Date: 2026-05-16
+Due Date: 2026-05-31
+Currency: BDT
+Subtotal: 6707.14
+Tax: 301.82
+Total: 6338.25
+Balance Due: 3360.33
+Status: partial

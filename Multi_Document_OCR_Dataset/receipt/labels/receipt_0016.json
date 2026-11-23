@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A7TZ0YNC",
+  "merchant_name": "Bryant-Hickman",
+  "date": "2024-09-14",
+  "subtotal": 859.09,
+  "tax": 59.01,
+  "discount": 8.7,
+  "total": 909.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$57.86",
+      "line_total": "$57.86"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$53.68",
+      "line_total": "$161.04"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$56.08",
+      "line_total": "$224.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$34.22",
+      "line_total": "$68.44"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$49.63",
+      "line_total": "$99.26"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$44.29",
+      "line_total": "$177.16"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$23.67",
+      "line_total": "$71.01"
+    }
+  ],
+  "sample_id": "receipt_0016"
+}

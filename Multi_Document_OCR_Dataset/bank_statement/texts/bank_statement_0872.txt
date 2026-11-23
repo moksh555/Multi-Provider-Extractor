@@ -1,0 +1,16 @@
+Bank Statement STM-OMNWKCUT
+Holder: Carolyn Harrison MD
+Closing Balance: $8081.56
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OMNWKCUT",
+  "account_holder": "Carolyn Harrison MD",
+  "account_number_masked": "****4427",
+  "period_start": "2025-10-19",
+  "period_end": "2025-11-18",
+  "opening_balance": 4334.06,
+  "closing_balance": 8081.56,
+  "transactions": 8,
+  "sample_id": "bank_statement_0872"
+}

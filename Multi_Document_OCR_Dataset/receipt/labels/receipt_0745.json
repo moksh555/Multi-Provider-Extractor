@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9C0XFEVM",
+  "merchant_name": "Webster, Garza and Abbott",
+  "date": "2023-03-31",
+  "subtotal": 770.3,
+  "tax": 40.98,
+  "discount": 4.1,
+  "total": 807.18,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$55.99",
+      "line_total": "$223.96"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$68.74",
+      "line_total": "$137.48"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$4.29",
+      "line_total": "$17.16"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$11.51",
+      "line_total": "$11.51"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$73.46",
+      "line_total": "$220.38"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$53.27",
+      "line_total": "$159.81"
+    }
+  ],
+  "sample_id": "receipt_0745"
+}

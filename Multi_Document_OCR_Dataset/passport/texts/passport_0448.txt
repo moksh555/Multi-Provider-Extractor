@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Daniel Edwards
+Passport No: P35512254
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P35512254",
+  "full_name": "Daniel Edwards",
+  "nationality": "CA",
+  "date_of_birth": "1988-10-08",
+  "issue_date": "2024-05-14",
+  "expiry_date": "2034-05-14",
+  "place_of_birth": "Stephaniemouth",
+  "sample_id": "passport_0448"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GLMY62XRW",
+  "policy_holder": "Kevin Johnson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-11-17",
+  "expiry_date": "2025-11-17",
+  "premium": 1220.68,
+  "coverage_amount": 408941.65,
+  "beneficiary": "Jason Walker",
+  "sample_id": "insurance_document_0403"
+}

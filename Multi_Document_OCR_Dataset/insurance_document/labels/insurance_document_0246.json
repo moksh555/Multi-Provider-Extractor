@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5R5RC6ZS6",
+  "policy_holder": "Steven Griffith",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-10-19",
+  "expiry_date": "2027-10-19",
+  "premium": 2458.96,
+  "coverage_amount": 82249.35,
+  "beneficiary": "Erika Gonzalez",
+  "sample_id": "insurance_document_0246"
+}

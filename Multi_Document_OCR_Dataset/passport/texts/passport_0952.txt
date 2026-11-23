@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Natasha Mcdaniel
+Passport No: P35266870
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P35266870",
+  "full_name": "Natasha Mcdaniel",
+  "nationality": "GB",
+  "date_of_birth": "1971-05-03",
+  "issue_date": "2026-07-04",
+  "expiry_date": "2036-07-04",
+  "place_of_birth": "Ramirezview",
+  "sample_id": "passport_0952"
+}

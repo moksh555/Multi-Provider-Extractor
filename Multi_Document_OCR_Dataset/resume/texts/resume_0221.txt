@@ -1,0 +1,26 @@
+Resume
+Daniel Phillips
+Machine Learning Engineer
+Skills: Pandas, FastAPI, Streamlit, Python, PyTorch, Deep Learning, TensorFlow, Computer Vision, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Daniel Phillips",
+  "email": "jonesstephen@example.org",
+  "phone": "+1-542-815-2483x19686",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "FastAPI",
+    "Streamlit",
+    "Python",
+    "PyTorch",
+    "Deep Learning",
+    "TensorFlow",
+    "Computer Vision",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0221"
+}

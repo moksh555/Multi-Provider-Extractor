@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0012
+Company: Metro Print House
+Company Address: 171 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 184 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-05-07
+Due Date: 2026-06-21
+Currency: BDT
+Subtotal: 11001.01
+Tax: 0.0
+Total: 11011.01
+Balance Due: 11011.01
+Status: unpaid

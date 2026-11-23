@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0062",
+  "invoice_number": "INV-2026-0062",
+  "company_name": "Delta Insurance Services",
+  "company_address": "57 Mirpur DOHS, Riyadh, Saudi Arabia",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "169 Motijheel C/A, Dubai, UAE",
+  "invoice_date": "2026-01-08",
+  "due_date": "2026-01-23",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 4,
+      "unit_price": 242.37,
+      "amount": 969.48
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 10,
+      "unit_price": 93.68,
+      "amount": 936.8
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 316.0,
+      "amount": 948.0
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 8,
+      "unit_price": 103.95,
+      "amount": 831.6
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 9,
+      "unit_price": 821.3,
+      "amount": 7391.7
+    },
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 335.23,
+      "amount": 3352.3
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 10,
+      "unit_price": 104.18,
+      "amount": 1041.8
+    }
+  ],
+  "subtotal": 15471.68,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1547.17,
+  "shipping": 5,
+  "total": 17023.85,
+  "amount_paid": 0,
+  "balance_due": 17023.85,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801687260113",
+  "po_number": "PO-16541"
+}

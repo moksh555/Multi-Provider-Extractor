@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0700",
+  "invoice_number": "INV-2026-0700",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "160 Zindabazar Road, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "179 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-08",
+  "due_date": "2026-02-23",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 10,
+      "unit_price": 530.59,
+      "amount": 5305.9
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 728.63,
+      "amount": 4371.78
+    }
+  ],
+  "subtotal": 9677.68,
+  "discount": 193.55,
+  "tax_rate": 0.1,
+  "tax": 948.41,
+  "shipping": 0,
+  "total": 10432.54,
+  "amount_paid": 4281.21,
+  "balance_due": 6151.33,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801804558878",
+  "po_number": "PO-93773"
+}

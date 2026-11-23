@@ -1,0 +1,14 @@
+Medical Report MED-4CW8TAQ5
+Patient: Mrs. Margaret Wilson MD
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4CW8TAQ5",
+  "patient_name": "Mrs. Margaret Wilson MD",
+  "visit_date": "2026-02-25",
+  "doctor_name": "Dr. Michael Miller",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0041"
+}

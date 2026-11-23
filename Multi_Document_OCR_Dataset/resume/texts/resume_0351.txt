@@ -1,0 +1,25 @@
+Resume
+Paul Patton
+Backend Developer
+Skills: SQL, Computer Vision, Pandas, LangChain, TensorFlow, Streamlit, NLP, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Paul Patton",
+  "email": "matthew46@example.com",
+  "phone": "626-283-6843x771",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "SQL",
+    "Computer Vision",
+    "Pandas",
+    "LangChain",
+    "TensorFlow",
+    "Streamlit",
+    "NLP",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0351"
+}

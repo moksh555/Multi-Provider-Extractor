@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XJYKD0FG",
+  "account_holder": "Stephanie Gill",
+  "account_number_masked": "****0900",
+  "period_start": "2024-02-28",
+  "period_end": "2024-03-29",
+  "opening_balance": 781.41,
+  "closing_balance": 3451.73,
+  "transactions": 8,
+  "sample_id": "bank_statement_0783"
+}

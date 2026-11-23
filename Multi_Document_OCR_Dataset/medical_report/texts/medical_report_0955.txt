@@ -1,0 +1,14 @@
+Medical Report MED-9DEYLUI8
+Patient: Jeanne Hicks
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-9DEYLUI8",
+  "patient_name": "Jeanne Hicks",
+  "visit_date": "2025-03-31",
+  "doctor_name": "Dr. Kevin Johnson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0955"
+}

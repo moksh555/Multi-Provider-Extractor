@@ -1,0 +1,16 @@
+Bank Statement STM-808XGBDE
+Holder: Austin Evans
+Closing Balance: $3049.45
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-808XGBDE",
+  "account_holder": "Austin Evans",
+  "account_number_masked": "****4867",
+  "period_start": "2025-07-01",
+  "period_end": "2025-07-31",
+  "opening_balance": 2938.92,
+  "closing_balance": 3049.45,
+  "transactions": 9,
+  "sample_id": "bank_statement_0744"
+}

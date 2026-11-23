@@ -1,0 +1,16 @@
+Bank Statement STM-ZU802NQ5
+Holder: Michael Graham
+Closing Balance: $4396.34
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZU802NQ5",
+  "account_holder": "Michael Graham",
+  "account_number_masked": "****6152",
+  "period_start": "2026-04-16",
+  "period_end": "2026-05-16",
+  "opening_balance": 2186.67,
+  "closing_balance": 4396.34,
+  "transactions": 10,
+  "sample_id": "bank_statement_0016"
+}

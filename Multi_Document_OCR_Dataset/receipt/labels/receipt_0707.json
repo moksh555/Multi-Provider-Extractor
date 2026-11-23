@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-K2W1I5KI",
+  "merchant_name": "Chan PLC",
+  "date": "2022-10-31",
+  "subtotal": 654.27,
+  "tax": 33.92,
+  "discount": 7.45,
+  "total": 680.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$1.57",
+      "line_total": "$3.14"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$45.58",
+      "line_total": "$136.74"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$10.98",
+      "line_total": "$10.98"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$8.15",
+      "line_total": "$24.45"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$62.63",
+      "line_total": "$250.52"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$72.71",
+      "line_total": "$218.13"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$10.31",
+      "line_total": "$10.31"
+    }
+  ],
+  "sample_id": "receipt_0707"
+}

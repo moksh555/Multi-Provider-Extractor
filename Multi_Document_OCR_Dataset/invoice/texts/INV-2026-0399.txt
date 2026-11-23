@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0399
+Company: Eastern Care Pharmacy
+Company Address: 176 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 147 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-05-26
+Due Date: 2026-07-10
+Currency: SAR
+Subtotal: 19064.95
+Tax: 2573.77
+Total: 19742.22
+Balance Due: 0.0
+Status: paid

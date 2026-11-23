@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Stephen Russell",
+  "email": "rgonzalez@example.org",
+  "phone": "(593)477-7569x198",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "PyTorch",
+    "Pandas",
+    "NLP",
+    "Deep Learning",
+    "FastAPI",
+    "Computer Vision",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0022"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-K2ZHDC1R
+Patient: John Cline
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-K2ZHDC1R",
+  "patient_name": "John Cline",
+  "visit_date": "2024-05-18",
+  "doctor_name": "Dr. Wayne Smith",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0673"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2EMY9TWC",
+  "account_holder": "Edward Tucker",
+  "account_number_masked": "****5565",
+  "period_start": "2025-07-03",
+  "period_end": "2025-08-02",
+  "opening_balance": 4703.72,
+  "closing_balance": 5953.44,
+  "transactions": 14,
+  "sample_id": "bank_statement_0035"
+}

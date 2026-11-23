@@ -1,0 +1,16 @@
+Insurance Policy POL-DXC6RIJKQ
+Holder: Amy Cantrell
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DXC6RIJKQ",
+  "policy_holder": "Amy Cantrell",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-12-03",
+  "expiry_date": "2027-12-03",
+  "premium": 733.85,
+  "coverage_amount": 144896.5,
+  "beneficiary": "Jeanne Robinson",
+  "sample_id": "insurance_document_0905"
+}

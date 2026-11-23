@@ -1,0 +1,55 @@
+Receipt RCT-119XP9N5
+Merchant: Sandoval, Jones and Figueroa
+Date: 2025-03-27
+Total: $814.68
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-119XP9N5",
+  "merchant_name": "Sandoval, Jones and Figueroa",
+  "date": "2025-03-27",
+  "subtotal": 779.14,
+  "tax": 40.73,
+  "discount": 5.19,
+  "total": 814.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$52.63",
+      "line_total": "$105.26"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$15.10",
+      "line_total": "$15.10"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$58.50",
+      "line_total": "$117.00"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$60.74",
+      "line_total": "$60.74"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$54.21",
+      "line_total": "$216.84"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$66.05",
+      "line_total": "$264.20"
+    }
+  ],
+  "sample_id": "receipt_0070"
+}

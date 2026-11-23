@@ -1,0 +1,14 @@
+Medical Report MED-3VFJ02LV
+Patient: Kimberly Lynch
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-3VFJ02LV",
+  "patient_name": "Kimberly Lynch",
+  "visit_date": "2026-10-11",
+  "doctor_name": "Dr. Kevin Allen",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0218"
+}

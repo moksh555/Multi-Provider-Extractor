@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jeremiah Rodriguez
+Passport No: P13873866
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P13873866",
+  "full_name": "Jeremiah Rodriguez",
+  "nationality": "AE",
+  "date_of_birth": "1983-08-14",
+  "issue_date": "2021-03-25",
+  "expiry_date": "2031-03-25",
+  "place_of_birth": "Richardstad",
+  "sample_id": "passport_0045"
+}

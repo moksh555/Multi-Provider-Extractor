@@ -1,0 +1,14 @@
+Medical Report MED-AIMG5VVV
+Patient: Erika Morales
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-AIMG5VVV",
+  "patient_name": "Erika Morales",
+  "visit_date": "2026-11-23",
+  "doctor_name": "Dr. Daniel Vargas",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0634"
+}

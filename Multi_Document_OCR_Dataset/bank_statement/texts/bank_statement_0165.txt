@@ -1,0 +1,16 @@
+Bank Statement STM-3BAK73I1
+Holder: Mrs. Tammie Webb
+Closing Balance: $7014.14
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3BAK73I1",
+  "account_holder": "Mrs. Tammie Webb",
+  "account_number_masked": "****5690",
+  "period_start": "2026-10-13",
+  "period_end": "2026-11-12",
+  "opening_balance": 3863.92,
+  "closing_balance": 7014.14,
+  "transactions": 12,
+  "sample_id": "bank_statement_0165"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL757600866",
+  "full_name": "Mary Jones",
+  "date_of_birth": "1991-09-01",
+  "class": "C",
+  "issue_date": "2024-03-21",
+  "expiry_date": "2029-03-21",
+  "address": "USNS Simpson, FPO AP 47288",
+  "sample_id": "driving_license_0614"
+}

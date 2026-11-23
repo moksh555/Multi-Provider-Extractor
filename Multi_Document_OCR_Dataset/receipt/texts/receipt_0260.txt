@@ -1,0 +1,67 @@
+Receipt RCT-AYN2D7KI
+Merchant: Banks, Thompson and Deleon
+Date: 2025-03-06
+Total: $980.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AYN2D7KI",
+  "merchant_name": "Banks, Thompson and Deleon",
+  "date": "2025-03-06",
+  "subtotal": 889.23,
+  "tax": 104.18,
+  "discount": 13.29,
+  "total": 980.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$70.39",
+      "line_total": "$281.56"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$12.41",
+      "line_total": "$12.41"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$16.14",
+      "line_total": "$32.28"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$26.12",
+      "line_total": "$78.36"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$73.76",
+      "line_total": "$147.52"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$63.38",
+      "line_total": "$190.14"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$5.21",
+      "line_total": "$10.42"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$68.27",
+      "line_total": "$136.54"
+    }
+  ],
+  "sample_id": "receipt_0260"
+}

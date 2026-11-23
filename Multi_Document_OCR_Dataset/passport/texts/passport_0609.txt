@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Alexis Moore
+Passport No: P30339362
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P30339362",
+  "full_name": "Alexis Moore",
+  "nationality": "US",
+  "date_of_birth": "1993-02-14",
+  "issue_date": "2023-07-24",
+  "expiry_date": "2033-07-24",
+  "place_of_birth": "Lake Katrina",
+  "sample_id": "passport_0609"
+}

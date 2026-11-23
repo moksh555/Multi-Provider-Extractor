@@ -1,0 +1,16 @@
+Insurance Policy POL-3RIH83J0N
+Holder: John Mathews
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3RIH83J0N",
+  "policy_holder": "John Mathews",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-02-28",
+  "expiry_date": "2025-02-28",
+  "premium": 1548.2,
+  "coverage_amount": 497651.65,
+  "beneficiary": "Sean Arellano",
+  "sample_id": "insurance_document_0520"
+}

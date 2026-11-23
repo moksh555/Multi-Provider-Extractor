@@ -1,0 +1,14 @@
+Medical Report MED-X5E4YWZS
+Patient: Patrick Campos PhD
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-X5E4YWZS",
+  "patient_name": "Patrick Campos PhD",
+  "visit_date": "2024-08-09",
+  "doctor_name": "Dr. Willie Jones",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0397"
+}

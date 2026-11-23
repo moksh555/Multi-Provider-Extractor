@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Mr. Michael Lee Jr.",
+  "email": "moraleshannah@example.net",
+  "phone": "+1-420-431-8676x7448",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "AWS",
+    "LangChain",
+    "Pandas",
+    "FastAPI",
+    "TensorFlow",
+    "Deep Learning",
+    "Streamlit",
+    "SQL",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0848"
+}

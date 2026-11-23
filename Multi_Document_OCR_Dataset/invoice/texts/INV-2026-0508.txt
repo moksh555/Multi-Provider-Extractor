@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0508
+Company: BlueRiver Trading Co.
+Company Address: 50 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 147 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-03-23
+Due Date: 2026-04-22
+Currency: SAR
+Subtotal: 9621.11
+Tax: 481.06
+Total: 10107.17
+Balance Due: 10107.17
+Status: unpaid

@@ -1,0 +1,16 @@
+Bank Statement STM-O5GTX7U4
+Holder: Melissa Clayton
+Closing Balance: $2218.55
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-O5GTX7U4",
+  "account_holder": "Melissa Clayton",
+  "account_number_masked": "****8443",
+  "period_start": "2024-12-17",
+  "period_end": "2025-01-16",
+  "opening_balance": 3177.6,
+  "closing_balance": 2218.55,
+  "transactions": 9,
+  "sample_id": "bank_statement_0174"
+}

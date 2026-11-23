@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0319",
+  "invoice_number": "INV-2026-0319",
+  "company_name": "Summit Agro Foods",
+  "company_address": "65 Al Barsha, Dubai, UAE",
+  "customer_name": "Future School",
+  "billing_address": "80 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-07-22",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 833.31,
+      "amount": 7499.79
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 6,
+      "unit_price": 734.42,
+      "amount": 4406.52
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 607.6,
+      "amount": 607.6
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 10,
+      "unit_price": 108.77,
+      "amount": 1087.7
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 10,
+      "unit_price": 61.58,
+      "amount": 615.8
+    }
+  ],
+  "subtotal": 14217.41,
+  "discount": 1421.74,
+  "tax_rate": 0.15,
+  "tax": 1919.35,
+  "shipping": 10,
+  "total": 14725.02,
+  "amount_paid": 0,
+  "balance_due": 14725.02,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801119798097",
+  "po_number": "PO-30476"
+}

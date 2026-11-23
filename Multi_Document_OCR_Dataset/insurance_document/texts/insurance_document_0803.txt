@@ -1,0 +1,16 @@
+Insurance Policy POL-69NGPCIVI
+Holder: Carlos Miller
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-69NGPCIVI",
+  "policy_holder": "Carlos Miller",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-09",
+  "expiry_date": "2027-03-09",
+  "premium": 228.96,
+  "coverage_amount": 402865.88,
+  "beneficiary": "Joseph Church",
+  "sample_id": "insurance_document_0803"
+}

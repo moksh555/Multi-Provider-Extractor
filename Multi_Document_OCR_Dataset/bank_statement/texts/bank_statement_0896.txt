@@ -1,0 +1,16 @@
+Bank Statement STM-YQX5FIX1
+Holder: Carol Fisher
+Closing Balance: $6540.31
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YQX5FIX1",
+  "account_holder": "Carol Fisher",
+  "account_number_masked": "****8064",
+  "period_start": "2024-07-22",
+  "period_end": "2024-08-21",
+  "opening_balance": 2245.84,
+  "closing_balance": 6540.31,
+  "transactions": 11,
+  "sample_id": "bank_statement_0896"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-LZFFLB7WX
+Holder: Michael Smith
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LZFFLB7WX",
+  "policy_holder": "Michael Smith",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-03-18",
+  "expiry_date": "2027-03-18",
+  "premium": 1429.38,
+  "coverage_amount": 45711.59,
+  "beneficiary": "Corey Cooper",
+  "sample_id": "insurance_document_0295"
+}

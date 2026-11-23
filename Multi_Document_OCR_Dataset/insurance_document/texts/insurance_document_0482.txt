@@ -1,0 +1,16 @@
+Insurance Policy POL-2O7FHS32U
+Holder: Beverly Cook
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2O7FHS32U",
+  "policy_holder": "Beverly Cook",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-12-25",
+  "expiry_date": "2026-12-25",
+  "premium": 1815.86,
+  "coverage_amount": 354109.8,
+  "beneficiary": "Tracy Parker",
+  "sample_id": "insurance_document_0482"
+}

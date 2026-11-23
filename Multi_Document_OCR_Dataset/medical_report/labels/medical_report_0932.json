@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9N12MHTP",
+  "patient_name": "Rebecca Jones",
+  "visit_date": "2024-09-23",
+  "doctor_name": "Dr. Margaret Gray",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0932"
+}

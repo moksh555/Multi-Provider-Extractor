@@ -1,0 +1,14 @@
+Medical Report MED-GJE81DQE
+Patient: Ana Zimmerman
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-GJE81DQE",
+  "patient_name": "Ana Zimmerman",
+  "visit_date": "2026-10-17",
+  "doctor_name": "Dr. Linda Austin",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0045"
+}

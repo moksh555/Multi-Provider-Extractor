@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1I5482Q7",
+  "merchant_name": "Martinez-Sanchez",
+  "date": "2022-04-20",
+  "subtotal": 155.08,
+  "tax": 5.81,
+  "discount": 1.1,
+  "total": 159.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$26.20",
+      "line_total": "$52.40"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$16.68",
+      "line_total": "$66.72"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$35.96",
+      "line_total": "$35.96"
+    }
+  ],
+  "sample_id": "receipt_0824"
+}

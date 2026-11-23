@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AALIRPDG",
+  "merchant_name": "Henry-Frye",
+  "date": "2026-12-05",
+  "subtotal": 166.33,
+  "tax": 6.55,
+  "discount": 12.0,
+  "total": 160.88,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$8.89",
+      "line_total": "$8.89"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$7.78",
+      "line_total": "$15.56"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$26.64",
+      "line_total": "$26.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$19.08",
+      "line_total": "$57.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$14.50",
+      "line_total": "$58.00"
+    }
+  ],
+  "sample_id": "receipt_0779"
+}

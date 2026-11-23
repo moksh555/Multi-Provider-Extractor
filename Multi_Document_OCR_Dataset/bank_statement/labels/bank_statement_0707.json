@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8D5SJ4WL",
+  "account_holder": "Mark Finley",
+  "account_number_masked": "****8142",
+  "period_start": "2024-07-18",
+  "period_end": "2024-08-17",
+  "opening_balance": 1091.99,
+  "closing_balance": 6675.91,
+  "transactions": 12,
+  "sample_id": "bank_statement_0707"
+}

@@ -1,0 +1,49 @@
+Receipt RCT-L8CGN0T6
+Merchant: Coffey-Patton
+Date: 2022-01-17
+Total: $449.26
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-L8CGN0T6",
+  "merchant_name": "Coffey-Patton",
+  "date": "2022-01-17",
+  "subtotal": 438.22,
+  "tax": 16.93,
+  "discount": 5.89,
+  "total": 449.26,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$35.07",
+      "line_total": "$35.07"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$13.41",
+      "line_total": "$53.64"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$17.24",
+      "line_total": "$51.72"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$56.08",
+      "line_total": "$224.32"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$24.49",
+      "line_total": "$73.47"
+    }
+  ],
+  "sample_id": "receipt_0107"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Erika Allen
+License: DL196786161
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL196786161",
+  "full_name": "Erika Allen",
+  "date_of_birth": "1989-10-19",
+  "class": "B",
+  "issue_date": "2025-02-07",
+  "expiry_date": "2030-02-07",
+  "address": "58644 Santiago Field Apt. 435, Jamesmouth, OR 68673",
+  "sample_id": "driving_license_0815"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-SYF8Z1R5
+Holder: Eileen Jones
+Closing Balance: $6920.27
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SYF8Z1R5",
+  "account_holder": "Eileen Jones",
+  "account_number_masked": "****8637",
+  "period_start": "2026-11-10",
+  "period_end": "2026-12-10",
+  "opening_balance": 4458.59,
+  "closing_balance": 6920.27,
+  "transactions": 12,
+  "sample_id": "bank_statement_0555"
+}

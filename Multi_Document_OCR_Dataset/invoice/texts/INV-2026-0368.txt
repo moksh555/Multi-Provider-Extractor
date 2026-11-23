@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0368
+Company: Nova Medical Supplies
+Company Address: 66 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 102 Road 12, Banani, Dubai, UAE
+Invoice Date: 2026-01-13
+Due Date: 2026-01-20
+Currency: AED
+Subtotal: 19527.17
+Tax: 0.0
+Total: 17584.45
+Balance Due: 17584.45
+Status: overdue

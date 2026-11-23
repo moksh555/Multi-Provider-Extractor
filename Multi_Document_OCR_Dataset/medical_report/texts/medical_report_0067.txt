@@ -1,0 +1,14 @@
+Medical Report MED-70SQ8UDG
+Patient: John Ortiz
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-70SQ8UDG",
+  "patient_name": "John Ortiz",
+  "visit_date": "2025-11-10",
+  "doctor_name": "Dr. Nicholas Fuller",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0067"
+}

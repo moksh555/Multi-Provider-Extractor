@@ -1,0 +1,16 @@
+Insurance Policy POL-DE51K8LXE
+Holder: Joseph Peterson
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DE51K8LXE",
+  "policy_holder": "Joseph Peterson",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-10-15",
+  "expiry_date": "2025-10-15",
+  "premium": 1692.26,
+  "coverage_amount": 180313.5,
+  "beneficiary": "Joshua Rowe",
+  "sample_id": "insurance_document_0837"
+}

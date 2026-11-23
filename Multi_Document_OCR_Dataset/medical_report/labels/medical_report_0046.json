@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-2810Z4EM",
+  "patient_name": "Suzanne Howard",
+  "visit_date": "2026-02-13",
+  "doctor_name": "Dr. Douglas Hudson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0046"
+}

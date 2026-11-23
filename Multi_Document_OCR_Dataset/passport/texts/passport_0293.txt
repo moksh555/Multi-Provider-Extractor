@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mary Wilson
+Passport No: P26345522
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P26345522",
+  "full_name": "Mary Wilson",
+  "nationality": "CA",
+  "date_of_birth": "1995-12-22",
+  "issue_date": "2024-05-04",
+  "expiry_date": "2034-05-04",
+  "place_of_birth": "Port Donna",
+  "sample_id": "passport_0293"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL755382944",
+  "full_name": "Jacob Nunez",
+  "date_of_birth": "1960-06-01",
+  "class": "B",
+  "issue_date": "2022-12-05",
+  "expiry_date": "2027-12-05",
+  "address": "71162 Mullen Club, East Joshuaberg, NM 20227",
+  "sample_id": "driving_license_0351"
+}

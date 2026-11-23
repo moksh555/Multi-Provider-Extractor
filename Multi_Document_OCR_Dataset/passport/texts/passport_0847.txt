@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Edward Marshall
+Passport No: P94297874
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P94297874",
+  "full_name": "Edward Marshall",
+  "nationality": "CA",
+  "date_of_birth": "1979-05-17",
+  "issue_date": "2022-11-18",
+  "expiry_date": "2032-11-18",
+  "place_of_birth": "West Aaronfurt",
+  "sample_id": "passport_0847"
+}

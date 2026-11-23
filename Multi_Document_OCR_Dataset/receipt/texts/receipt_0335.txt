@@ -1,0 +1,43 @@
+Receipt RCT-V8URID3U
+Merchant: Andrews-Robertson
+Date: 2024-04-05
+Total: $664.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V8URID3U",
+  "merchant_name": "Andrews-Robertson",
+  "date": "2024-04-05",
+  "subtotal": 637.3,
+  "tax": 33.66,
+  "discount": 6.88,
+  "total": 664.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$62.25",
+      "line_total": "$124.50"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$64.51",
+      "line_total": "$193.53"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$39.76",
+      "line_total": "$159.04"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$53.41",
+      "line_total": "$160.23"
+    }
+  ],
+  "sample_id": "receipt_0335"
+}

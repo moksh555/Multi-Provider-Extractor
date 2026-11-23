@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-948U6B15",
+  "account_holder": "Michael Jimenez",
+  "account_number_masked": "****6035",
+  "period_start": "2024-12-09",
+  "period_end": "2025-01-08",
+  "opening_balance": 1316.9,
+  "closing_balance": 8277.39,
+  "transactions": 14,
+  "sample_id": "bank_statement_0331"
+}

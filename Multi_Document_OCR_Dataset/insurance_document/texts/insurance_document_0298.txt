@@ -1,0 +1,16 @@
+Insurance Policy POL-5N2EJ0AS1
+Holder: Shelly Munoz
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5N2EJ0AS1",
+  "policy_holder": "Shelly Munoz",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-11-07",
+  "expiry_date": "2026-11-07",
+  "premium": 1180.43,
+  "coverage_amount": 31487.31,
+  "beneficiary": "Anthony Shah",
+  "sample_id": "insurance_document_0298"
+}

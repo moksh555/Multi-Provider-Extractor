@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Tommy Goodman
+Passport No: P77978513
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P77978513",
+  "full_name": "Tommy Goodman",
+  "nationality": "US",
+  "date_of_birth": "1995-06-18",
+  "issue_date": "2025-04-14",
+  "expiry_date": "2035-04-14",
+  "place_of_birth": "Donaldbury",
+  "sample_id": "passport_0666"
+}

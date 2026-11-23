@@ -1,0 +1,55 @@
+Receipt RCT-326XPJ2Q
+Merchant: Cook-Austin
+Date: 2023-09-07
+Total: $953.05
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-326XPJ2Q",
+  "merchant_name": "Cook-Austin",
+  "date": "2023-09-07",
+  "subtotal": 901.22,
+  "tax": 56.39,
+  "discount": 4.56,
+  "total": 953.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$56.09",
+      "line_total": "$56.09"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$70.85",
+      "line_total": "$283.40"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$25.10",
+      "line_total": "$75.30"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$54.58",
+      "line_total": "$218.32"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$4.93",
+      "line_total": "$14.79"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$63.33",
+      "line_total": "$253.32"
+    }
+  ],
+  "sample_id": "receipt_0838"
+}

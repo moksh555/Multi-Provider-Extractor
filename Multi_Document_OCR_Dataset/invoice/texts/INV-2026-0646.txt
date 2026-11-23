@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0646
+Company: Greenline Logistics
+Company Address: 125 Road 12, Banani, Dubai, UAE
+Customer: Future School
+Billing Address: 178 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-05-03
+Due Date: 2026-05-18
+Currency: AED
+Subtotal: 5259.78
+Tax: 257.73
+Total: 5412.31
+Balance Due: 0.0
+Status: paid

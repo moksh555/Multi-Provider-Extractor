@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NYZR8Y7S",
+  "patient_name": "Angela Goodwin",
+  "visit_date": "2026-05-25",
+  "doctor_name": "Dr. Bryan Chan",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0297"
+}

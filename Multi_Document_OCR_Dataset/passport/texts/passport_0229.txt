@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Eric Walters
+Passport No: P76357686
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P76357686",
+  "full_name": "Eric Walters",
+  "nationality": "BD",
+  "date_of_birth": "2000-03-12",
+  "issue_date": "2021-11-05",
+  "expiry_date": "2031-11-05",
+  "place_of_birth": "Lake Tara",
+  "sample_id": "passport_0229"
+}

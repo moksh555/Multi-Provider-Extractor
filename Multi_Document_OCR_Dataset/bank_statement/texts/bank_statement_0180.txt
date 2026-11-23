@@ -1,0 +1,16 @@
+Bank Statement STM-YH5HOA7W
+Holder: Scott Wade
+Closing Balance: $9314.73
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YH5HOA7W",
+  "account_holder": "Scott Wade",
+  "account_number_masked": "****0868",
+  "period_start": "2025-08-02",
+  "period_end": "2025-09-01",
+  "opening_balance": 3706.48,
+  "closing_balance": 9314.73,
+  "transactions": 11,
+  "sample_id": "bank_statement_0180"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NGXU8UU01",
+  "policy_holder": "Gary Davis",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-01-03",
+  "expiry_date": "2026-01-03",
+  "premium": 1725.29,
+  "coverage_amount": 354249.7,
+  "beneficiary": "Paula Thomas",
+  "sample_id": "insurance_document_0365"
+}

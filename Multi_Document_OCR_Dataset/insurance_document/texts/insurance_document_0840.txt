@@ -1,0 +1,16 @@
+Insurance Policy POL-5T2D8VET8
+Holder: Thomas Miller
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5T2D8VET8",
+  "policy_holder": "Thomas Miller",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-02-15",
+  "expiry_date": "2026-02-15",
+  "premium": 334.8,
+  "coverage_amount": 355317.96,
+  "beneficiary": "Katrina Greene",
+  "sample_id": "insurance_document_0840"
+}

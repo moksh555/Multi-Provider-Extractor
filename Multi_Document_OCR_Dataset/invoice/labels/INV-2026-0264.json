@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0264",
+  "invoice_number": "INV-2026-0264",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "137 Road 12, Banani, Sylhet, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "72 Sheikh Zayed Road, Dubai, UAE",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-03-25",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 331.89,
+      "amount": 2323.23
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 4,
+      "unit_price": 181.22,
+      "amount": 724.88
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 11,
+      "unit_price": 370.97,
+      "amount": 4080.67
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 11,
+      "unit_price": 264.93,
+      "amount": 2914.23
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 797.14,
+      "amount": 4782.84
+    }
+  ],
+  "subtotal": 14825.85,
+  "discount": 741.29,
+  "tax_rate": 0.15,
+  "tax": 2112.68,
+  "shipping": 25,
+  "total": 16222.24,
+  "amount_paid": 10175.22,
+  "balance_due": 6047.02,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801998573844",
+  "po_number": "PO-77013"
+}

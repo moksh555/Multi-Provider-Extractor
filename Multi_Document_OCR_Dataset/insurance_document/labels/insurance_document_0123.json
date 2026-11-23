@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GZ9389YZT",
+  "policy_holder": "Robert Haynes",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-09-06",
+  "expiry_date": "2025-09-06",
+  "premium": 2146.24,
+  "coverage_amount": 358786.46,
+  "beneficiary": "Emily Nelson",
+  "sample_id": "insurance_document_0123"
+}

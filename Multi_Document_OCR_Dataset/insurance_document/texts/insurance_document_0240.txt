@@ -1,0 +1,16 @@
+Insurance Policy POL-1IQ2BAJDM
+Holder: Jessica Lopez
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1IQ2BAJDM",
+  "policy_holder": "Jessica Lopez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-11-26",
+  "expiry_date": "2024-11-26",
+  "premium": 1862.12,
+  "coverage_amount": 278052.67,
+  "beneficiary": "Alexander Davies",
+  "sample_id": "insurance_document_0240"
+}

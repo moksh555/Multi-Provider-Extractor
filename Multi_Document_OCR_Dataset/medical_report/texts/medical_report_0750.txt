@@ -1,0 +1,14 @@
+Medical Report MED-0D87WV2E
+Patient: Alexander Gibson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0D87WV2E",
+  "patient_name": "Alexander Gibson",
+  "visit_date": "2025-03-24",
+  "doctor_name": "Dr. Anna Mason",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0750"
+}

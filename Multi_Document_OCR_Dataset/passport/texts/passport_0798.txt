@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Amy Harmon
+Passport No: P19207453
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P19207453",
+  "full_name": "Amy Harmon",
+  "nationality": "GB",
+  "date_of_birth": "1984-02-14",
+  "issue_date": "2024-07-19",
+  "expiry_date": "2034-07-19",
+  "place_of_birth": "Tonifort",
+  "sample_id": "passport_0798"
+}

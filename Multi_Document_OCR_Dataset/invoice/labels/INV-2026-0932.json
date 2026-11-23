@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0932",
+  "invoice_number": "INV-2026-0932",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "74 Sheikh Zayed Road, Dubai, UAE",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "209 Mirpur DOHS, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-24",
+  "due_date": "2026-06-08",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 8,
+      "unit_price": 548.87,
+      "amount": 4390.96
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 5,
+      "unit_price": 185.23,
+      "amount": 926.15
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 231.99,
+      "amount": 2319.9
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 628.87,
+      "amount": 3773.22
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 4,
+      "unit_price": 197.25,
+      "amount": 789.0
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 353.97,
+      "amount": 3185.73
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 250.06,
+      "amount": 500.12
+    }
+  ],
+  "subtotal": 15885.08,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1191.38,
+  "shipping": 10,
+  "total": 17086.46,
+  "amount_paid": 9870.51,
+  "balance_due": 7215.95,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801503097268",
+  "po_number": "PO-63035"
+}

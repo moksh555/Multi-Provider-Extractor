@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0077
+Company: Nova Medical Supplies
+Company Address: 154 Gulshan Avenue, Dubai, UAE
+Customer: Sunrise Apparel
+Billing Address: 37 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-20
+Due Date: 2026-02-04
+Currency: AED
+Subtotal: 11989.98
+Tax: 599.5
+Total: 12614.48
+Balance Due: 5355.04
+Status: partial

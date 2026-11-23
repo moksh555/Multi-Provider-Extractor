@@ -1,0 +1,16 @@
+Insurance Policy POL-686XII5P5
+Holder: Calvin Anderson
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-686XII5P5",
+  "policy_holder": "Calvin Anderson",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-06-17",
+  "expiry_date": "2025-06-17",
+  "premium": 1513.66,
+  "coverage_amount": 237242.71,
+  "beneficiary": "Michael Bowers",
+  "sample_id": "insurance_document_0262"
+}

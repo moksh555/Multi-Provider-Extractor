@@ -1,0 +1,16 @@
+Synthetic Driving License
+Spencer Cruz
+License: DL009176565
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL009176565",
+  "full_name": "Spencer Cruz",
+  "date_of_birth": "1962-12-05",
+  "class": "D",
+  "issue_date": "2023-04-02",
+  "expiry_date": "2028-04-02",
+  "address": "87794 Shannon Tunnel Apt. 425, South Johntown, MD 47184",
+  "sample_id": "driving_license_0782"
+}

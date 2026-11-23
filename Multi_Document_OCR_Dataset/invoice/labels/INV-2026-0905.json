@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0905",
+  "invoice_number": "INV-2026-0905",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "171 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "212 Zindabazar Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-10",
+  "due_date": "2026-06-24",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 626.67,
+      "amount": 2506.68
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 11,
+      "unit_price": 122.35,
+      "amount": 1345.85
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 8,
+      "unit_price": 217.87,
+      "amount": 1742.96
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 245.34,
+      "amount": 2453.4
+    }
+  ],
+  "subtotal": 8048.89,
+  "discount": 402.44,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 7656.45,
+  "amount_paid": 0,
+  "balance_due": 7656.45,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801341102795",
+  "po_number": "PO-24131"
+}

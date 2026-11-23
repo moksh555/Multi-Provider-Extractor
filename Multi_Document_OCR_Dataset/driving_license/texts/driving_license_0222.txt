@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jane Hogan
+License: DL506476146
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL506476146",
+  "full_name": "Jane Hogan",
+  "date_of_birth": "1979-06-28",
+  "class": "A",
+  "issue_date": "2020-12-21",
+  "expiry_date": "2025-12-21",
+  "address": "408 Robertson Pass Suite 704, West Willie, CT 22441",
+  "sample_id": "driving_license_0222"
+}

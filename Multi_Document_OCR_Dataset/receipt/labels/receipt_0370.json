@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UNPIOKKZ",
+  "merchant_name": "Gallagher, Peterson and Mckinney",
+  "date": "2026-09-07",
+  "subtotal": 585.73,
+  "tax": 41.14,
+  "discount": 7.15,
+  "total": 619.72,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$79.46",
+      "line_total": "$79.46"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$61.25",
+      "line_total": "$183.75"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$18.70",
+      "line_total": "$74.80"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$61.93",
+      "line_total": "$247.72"
+    }
+  ],
+  "sample_id": "receipt_0370"
+}

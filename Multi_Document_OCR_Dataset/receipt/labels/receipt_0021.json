@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9MX2X18H",
+  "merchant_name": "Walker-Velasquez",
+  "date": "2021-03-25",
+  "subtotal": 718.3,
+  "tax": 75.24,
+  "discount": 3.64,
+  "total": 789.9,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$10.97",
+      "line_total": "$21.94"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$37.74",
+      "line_total": "$75.48"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$14.26",
+      "line_total": "$42.78"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$77.21",
+      "line_total": "$154.42"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$74.38",
+      "line_total": "$74.38"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$75.38",
+      "line_total": "$301.52"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$47.78",
+      "line_total": "$47.78"
+    }
+  ],
+  "sample_id": "receipt_0021"
+}

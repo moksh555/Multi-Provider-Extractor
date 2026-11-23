@@ -1,0 +1,43 @@
+Receipt RCT-T2NBFU7P
+Merchant: Chavez, Flores and Thompson
+Date: 2024-10-17
+Total: $287.59
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-T2NBFU7P",
+  "merchant_name": "Chavez, Flores and Thompson",
+  "date": "2024-10-17",
+  "subtotal": 267.38,
+  "tax": 21.83,
+  "discount": 1.62,
+  "total": 287.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$58.66",
+      "line_total": "$175.98"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$16.88",
+      "line_total": "$33.76"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$1.74",
+      "line_total": "$3.48"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$27.08",
+      "line_total": "$54.16"
+    }
+  ],
+  "sample_id": "receipt_0630"
+}

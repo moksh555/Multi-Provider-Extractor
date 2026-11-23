@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Mary Mack",
+  "email": "robertlopez@example.com",
+  "phone": "3683756707",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Computer Vision",
+    "Deep Learning",
+    "Pandas",
+    "Streamlit",
+    "Docker",
+    "NLP",
+    "FastAPI",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0394"
+}

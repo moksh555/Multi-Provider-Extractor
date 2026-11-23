@@ -1,0 +1,16 @@
+Insurance Policy POL-XBPH5CH3L
+Holder: Adam Johnson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XBPH5CH3L",
+  "policy_holder": "Adam Johnson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-04-27",
+  "expiry_date": "2025-04-27",
+  "premium": 1294.66,
+  "coverage_amount": 404774.42,
+  "beneficiary": "Jason Alexander",
+  "sample_id": "insurance_document_0799"
+}

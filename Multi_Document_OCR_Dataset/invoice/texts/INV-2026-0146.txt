@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0146
+Company: BlueRiver Trading Co.
+Company Address: 175 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 54 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-03-27
+Due Date: 2026-05-11
+Currency: USD
+Subtotal: 6901.34
+Tax: 0.0
+Total: 6221.21
+Balance Due: 0.0
+Status: paid

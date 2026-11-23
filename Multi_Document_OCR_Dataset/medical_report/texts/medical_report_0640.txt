@@ -1,0 +1,14 @@
+Medical Report MED-XHG25US8
+Patient: George Miller DVM
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XHG25US8",
+  "patient_name": "George Miller DVM",
+  "visit_date": "2026-05-05",
+  "doctor_name": "Dr. Christopher Warner",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0640"
+}

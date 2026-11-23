@@ -1,0 +1,23 @@
+Resume
+Amanda Torres
+Backend Developer
+Skills: AWS, Deep Learning, PyTorch, Streamlit, Docker, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Amanda Torres",
+  "email": "brittanywolf@example.org",
+  "phone": "973.287.7583x33647",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "AWS",
+    "Deep Learning",
+    "PyTorch",
+    "Streamlit",
+    "Docker",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0073"
+}

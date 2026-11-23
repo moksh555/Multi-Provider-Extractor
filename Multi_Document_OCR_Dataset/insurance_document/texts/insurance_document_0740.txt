@@ -1,0 +1,16 @@
+Insurance Policy POL-4S0LGUPUO
+Holder: Charles Jones
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4S0LGUPUO",
+  "policy_holder": "Charles Jones",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-08-12",
+  "expiry_date": "2027-08-12",
+  "premium": 1056.1,
+  "coverage_amount": 35274.69,
+  "beneficiary": "George Edwards",
+  "sample_id": "insurance_document_0740"
+}

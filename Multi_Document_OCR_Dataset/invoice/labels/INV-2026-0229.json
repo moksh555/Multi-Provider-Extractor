@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0229",
+  "invoice_number": "INV-2026-0229",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "37 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "210 Dhanmondi 27, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-22",
+  "due_date": "2026-02-06",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 411.24,
+      "amount": 2467.44
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 465.65,
+      "amount": 465.65
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 11,
+      "unit_price": 465.72,
+      "amount": 5122.92
+    }
+  ],
+  "subtotal": 8056.01,
+  "discount": 402.8,
+  "tax_rate": 0.15,
+  "tax": 1147.98,
+  "shipping": 0,
+  "total": 8801.19,
+  "amount_paid": 0,
+  "balance_due": 8801.19,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801125819041",
+  "po_number": "PO-62838"
+}

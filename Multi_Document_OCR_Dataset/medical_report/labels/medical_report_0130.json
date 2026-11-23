@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-J92D3CBI",
+  "patient_name": "Julia Riggs",
+  "visit_date": "2025-12-02",
+  "doctor_name": "Dr. Sarah Barnett",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0130"
+}

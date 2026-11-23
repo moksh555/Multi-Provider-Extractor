@@ -1,0 +1,55 @@
+Receipt RCT-CUYK2VFH
+Merchant: Roman Inc
+Date: 2022-02-15
+Total: $596.09
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-CUYK2VFH",
+  "merchant_name": "Roman Inc",
+  "date": "2022-02-15",
+  "subtotal": 558.28,
+  "tax": 47.54,
+  "discount": 9.73,
+  "total": 596.09,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$42.08",
+      "line_total": "$84.16"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$53.37",
+      "line_total": "$160.11"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$35.76",
+      "line_total": "$107.28"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$30.96",
+      "line_total": "$92.88"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$39.03",
+      "line_total": "$39.03"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$24.94",
+      "line_total": "$74.82"
+    }
+  ],
+  "sample_id": "receipt_0898"
+}

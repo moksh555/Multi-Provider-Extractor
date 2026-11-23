@@ -1,0 +1,26 @@
+Resume
+Nathan James
+Machine Learning Engineer
+Skills: AWS, Computer Vision, Pandas, LangChain, NLP, Streamlit, Machine Learning, SQL, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Nathan James",
+  "email": "ywilliams@example.net",
+  "phone": "+1-750-785-2610x6896",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "AWS",
+    "Computer Vision",
+    "Pandas",
+    "LangChain",
+    "NLP",
+    "Streamlit",
+    "Machine Learning",
+    "SQL",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0861"
+}

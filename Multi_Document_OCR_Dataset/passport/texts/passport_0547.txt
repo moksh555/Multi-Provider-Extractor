@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Alyssa Martin
+Passport No: P91264347
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P91264347",
+  "full_name": "Alyssa Martin",
+  "nationality": "BD",
+  "date_of_birth": "1980-04-19",
+  "issue_date": "2022-11-24",
+  "expiry_date": "2032-11-24",
+  "place_of_birth": "Yoderfurt",
+  "sample_id": "passport_0547"
+}

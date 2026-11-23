@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZP7R1M264",
+  "policy_holder": "Kenneth Walsh",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-07-20",
+  "expiry_date": "2024-07-20",
+  "premium": 1132.66,
+  "coverage_amount": 134713.83,
+  "beneficiary": "Jason Hardy",
+  "sample_id": "insurance_document_0321"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YFM7VH30Q",
+  "policy_holder": "Charles Hayes",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-08-09",
+  "expiry_date": "2026-08-09",
+  "premium": 790.48,
+  "coverage_amount": 69560.21,
+  "beneficiary": "Sandra Shea",
+  "sample_id": "insurance_document_0884"
+}

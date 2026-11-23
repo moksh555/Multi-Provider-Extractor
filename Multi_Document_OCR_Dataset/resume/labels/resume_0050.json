@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Kevin Stewart",
+  "email": "phall@example.com",
+  "phone": "+1-226-729-4206x61549",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Machine Learning",
+    "AWS",
+    "SQL",
+    "Deep Learning",
+    "Streamlit",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0050"
+}

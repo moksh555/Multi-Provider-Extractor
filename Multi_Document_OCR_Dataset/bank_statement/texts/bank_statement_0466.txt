@@ -1,0 +1,16 @@
+Bank Statement STM-LNM2XQQ0
+Holder: Susan Palmer
+Closing Balance: $7353.94
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LNM2XQQ0",
+  "account_holder": "Susan Palmer",
+  "account_number_masked": "****0376",
+  "period_start": "2025-11-08",
+  "period_end": "2025-12-08",
+  "opening_balance": 671.3,
+  "closing_balance": 7353.94,
+  "transactions": 11,
+  "sample_id": "bank_statement_0466"
+}

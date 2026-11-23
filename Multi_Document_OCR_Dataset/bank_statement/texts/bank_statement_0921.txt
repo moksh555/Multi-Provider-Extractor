@@ -1,0 +1,16 @@
+Bank Statement STM-UNIURGKT
+Holder: Jeremy Mcbride
+Closing Balance: $7803.41
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UNIURGKT",
+  "account_holder": "Jeremy Mcbride",
+  "account_number_masked": "****2060",
+  "period_start": "2025-06-28",
+  "period_end": "2025-07-28",
+  "opening_balance": 2284.37,
+  "closing_balance": 7803.41,
+  "transactions": 14,
+  "sample_id": "bank_statement_0921"
+}

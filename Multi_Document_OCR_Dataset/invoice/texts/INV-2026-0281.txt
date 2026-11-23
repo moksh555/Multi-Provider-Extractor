@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0281
+Company: Metro Print House
+Company Address: 180 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 78 Jumeirah Lake Towers, Dhaka, Bangladesh
+Invoice Date: 2026-03-03
+Due Date: 2026-04-17
+Currency: SAR
+Subtotal: 10937.23
+Tax: 1071.85
+Total: 11840.34
+Balance Due: 11840.34
+Status: overdue

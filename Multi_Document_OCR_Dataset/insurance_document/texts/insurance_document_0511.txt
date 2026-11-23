@@ -1,0 +1,16 @@
+Insurance Policy POL-CTZETRIJ2
+Holder: Maurice Carrillo
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CTZETRIJ2",
+  "policy_holder": "Maurice Carrillo",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-01-13",
+  "expiry_date": "2026-01-13",
+  "premium": 1251.03,
+  "coverage_amount": 190192.25,
+  "beneficiary": "Heather Beard",
+  "sample_id": "insurance_document_0511"
+}

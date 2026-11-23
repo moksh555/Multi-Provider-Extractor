@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9OKQBBWB",
+  "merchant_name": "Garza Ltd",
+  "date": "2021-09-26",
+  "subtotal": 639.13,
+  "tax": 46.03,
+  "discount": 4.13,
+  "total": 681.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$12.87",
+      "line_total": "$51.48"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$44.47",
+      "line_total": "$177.88"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$67.55",
+      "line_total": "$202.65"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$53.18",
+      "line_total": "$53.18"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$12.64",
+      "line_total": "$50.56"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$51.69",
+      "line_total": "$103.38"
+    }
+  ],
+  "sample_id": "receipt_0727"
+}

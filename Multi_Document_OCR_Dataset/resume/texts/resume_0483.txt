@@ -1,0 +1,23 @@
+Resume
+Timothy Griffin
+Machine Learning Engineer
+Skills: NLP, Computer Vision, LangChain, Pandas, TensorFlow, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Timothy Griffin",
+  "email": "kimberlygordon@example.com",
+  "phone": "297.700.8307x644",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "NLP",
+    "Computer Vision",
+    "LangChain",
+    "Pandas",
+    "TensorFlow",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0483"
+}

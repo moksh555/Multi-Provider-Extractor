@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-29QDVK6F",
+  "patient_name": "Luis Becker",
+  "visit_date": "2025-06-11",
+  "doctor_name": "Dr. Kelly Smith",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0936"
+}

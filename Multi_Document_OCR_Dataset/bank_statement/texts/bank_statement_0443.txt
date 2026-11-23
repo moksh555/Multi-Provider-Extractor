@@ -1,0 +1,16 @@
+Bank Statement STM-TMRNZMUD
+Holder: Cindy Barnes
+Closing Balance: $4482.16
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TMRNZMUD",
+  "account_holder": "Cindy Barnes",
+  "account_number_masked": "****5642",
+  "period_start": "2024-06-02",
+  "period_end": "2024-07-02",
+  "opening_balance": 1744.16,
+  "closing_balance": 4482.16,
+  "transactions": 11,
+  "sample_id": "bank_statement_0443"
+}

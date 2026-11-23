@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jessica Fox
+Passport No: P71284226
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P71284226",
+  "full_name": "Jessica Fox",
+  "nationality": "CA",
+  "date_of_birth": "1985-09-30",
+  "issue_date": "2022-10-18",
+  "expiry_date": "2032-10-18",
+  "place_of_birth": "Gonzaleztown",
+  "sample_id": "passport_0255"
+}

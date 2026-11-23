@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XT083RWR",
+  "merchant_name": "Campbell PLC",
+  "date": "2023-12-03",
+  "subtotal": 495.16,
+  "tax": 48.65,
+  "discount": 4.23,
+  "total": 539.58,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$74.13",
+      "line_total": "$148.26"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$29.42",
+      "line_total": "$117.68"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$13.17",
+      "line_total": "$52.68"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$27.82",
+      "line_total": "$55.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$13.29",
+      "line_total": "$26.58"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$31.44",
+      "line_total": "$94.32"
+    }
+  ],
+  "sample_id": "receipt_0633"
+}

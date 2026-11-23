@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0278
+Company: SkyNet Office Mart
+Company Address: 96 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 83 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-06-03
+Due Date: 2026-07-18
+Currency: USD
+Subtotal: 10366.78
+Tax: 466.51
+Total: 9796.61
+Balance Due: 6553.48
+Status: partial

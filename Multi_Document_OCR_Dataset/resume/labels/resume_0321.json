@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Holly Phillips",
+  "email": "wgrant@example.org",
+  "phone": "+1-804-255-5595x02635",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Pandas",
+    "SQL",
+    "Streamlit",
+    "PyTorch",
+    "LangChain",
+    "Machine Learning",
+    "NLP",
+    "AWS",
+    "FastAPI",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0321"
+}

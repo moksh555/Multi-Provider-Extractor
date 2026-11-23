@@ -1,0 +1,14 @@
+Medical Report MED-7VEUEDO8
+Patient: Kimberly Rivas
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7VEUEDO8",
+  "patient_name": "Kimberly Rivas",
+  "visit_date": "2026-11-13",
+  "doctor_name": "Dr. Samuel Kidd",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0341"
+}

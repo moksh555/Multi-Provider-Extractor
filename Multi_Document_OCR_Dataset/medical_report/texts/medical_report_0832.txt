@@ -1,0 +1,14 @@
+Medical Report MED-2T07PNGO
+Patient: Angela Fields
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2T07PNGO",
+  "patient_name": "Angela Fields",
+  "visit_date": "2026-08-25",
+  "doctor_name": "Dr. Jeffery Gomez",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0832"
+}

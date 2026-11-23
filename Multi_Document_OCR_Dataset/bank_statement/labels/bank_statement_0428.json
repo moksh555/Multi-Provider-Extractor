@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WE46XAAD",
+  "account_holder": "Sara Hoover",
+  "account_number_masked": "****1182",
+  "period_start": "2026-04-03",
+  "period_end": "2026-05-03",
+  "opening_balance": 3423.27,
+  "closing_balance": 6163.91,
+  "transactions": 9,
+  "sample_id": "bank_statement_0428"
+}

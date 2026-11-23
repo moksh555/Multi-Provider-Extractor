@@ -1,0 +1,14 @@
+Medical Report MED-97OCRVSF
+Patient: Amber Matthews
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-97OCRVSF",
+  "patient_name": "Amber Matthews",
+  "visit_date": "2024-02-18",
+  "doctor_name": "Dr. Carrie Robertson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0451"
+}

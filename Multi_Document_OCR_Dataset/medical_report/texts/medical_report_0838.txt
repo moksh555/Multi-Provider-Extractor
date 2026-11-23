@@ -1,0 +1,14 @@
+Medical Report MED-78PI0YVB
+Patient: Patricia Mckinney
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-78PI0YVB",
+  "patient_name": "Patricia Mckinney",
+  "visit_date": "2026-08-17",
+  "doctor_name": "Dr. Shawn Clark",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0838"
+}

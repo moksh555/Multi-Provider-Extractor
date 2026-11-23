@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brandon Davis
+Passport No: P66505987
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P66505987",
+  "full_name": "Brandon Davis",
+  "nationality": "GB",
+  "date_of_birth": "1985-01-15",
+  "issue_date": "2020-10-31",
+  "expiry_date": "2030-10-31",
+  "place_of_birth": "Tabithafurt",
+  "sample_id": "passport_0151"
+}

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DWYUSAZQ",
+  "merchant_name": "Dunn, Collins and Hunter",
+  "date": "2026-10-09",
+  "subtotal": 1285.8,
+  "tax": 44.79,
+  "discount": 14.62,
+  "total": 1315.97,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$69.91",
+      "line_total": "$279.64"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$14.47",
+      "line_total": "$43.41"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$52.26",
+      "line_total": "$209.04"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$66.33",
+      "line_total": "$265.32"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$18.86",
+      "line_total": "$56.58"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$58.83",
+      "line_total": "$176.49"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$56.25",
+      "line_total": "$225.00"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$7.58",
+      "line_total": "$30.32"
+    }
+  ],
+  "sample_id": "receipt_0987"
+}

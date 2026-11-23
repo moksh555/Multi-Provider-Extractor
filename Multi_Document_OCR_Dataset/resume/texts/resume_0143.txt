@@ -1,0 +1,26 @@
+Resume
+John Harris
+Software Engineer
+Skills: AWS, FastAPI, SQL, Python, Deep Learning, Streamlit, TensorFlow, Computer Vision, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "John Harris",
+  "email": "perryjessica@example.net",
+  "phone": "7662470703",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "AWS",
+    "FastAPI",
+    "SQL",
+    "Python",
+    "Deep Learning",
+    "Streamlit",
+    "TensorFlow",
+    "Computer Vision",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0143"
+}

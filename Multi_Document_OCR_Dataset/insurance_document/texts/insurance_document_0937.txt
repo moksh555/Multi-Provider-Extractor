@@ -1,0 +1,16 @@
+Insurance Policy POL-06B4GASFQ
+Holder: Melissa Smith
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-06B4GASFQ",
+  "policy_holder": "Melissa Smith",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-05-06",
+  "expiry_date": "2024-05-06",
+  "premium": 1538.97,
+  "coverage_amount": 112814.54,
+  "beneficiary": "Joshua Hernandez",
+  "sample_id": "insurance_document_0937"
+}

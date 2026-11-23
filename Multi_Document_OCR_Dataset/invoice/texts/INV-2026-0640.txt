@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0640
+Company: Delta Insurance Services
+Company Address: 140 Uttara Sector 7, Dhaka, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 56 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-05-24
+Due Date: 2026-06-08
+Currency: USD
+Subtotal: 12989.78
+Tax: 876.81
+Total: 12567.61
+Balance Due: 0.0
+Status: paid

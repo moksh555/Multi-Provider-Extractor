@@ -1,0 +1,16 @@
+Bank Statement STM-Q0U75CNX
+Holder: Natalie Owens
+Closing Balance: $4881.30
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Q0U75CNX",
+  "account_holder": "Natalie Owens",
+  "account_number_masked": "****5890",
+  "period_start": "2025-10-03",
+  "period_end": "2025-11-02",
+  "opening_balance": 3273.1,
+  "closing_balance": 4881.3,
+  "transactions": 14,
+  "sample_id": "bank_statement_0706"
+}

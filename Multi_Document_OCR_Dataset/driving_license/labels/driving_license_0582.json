@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL942593261",
+  "full_name": "Michael Lynn",
+  "date_of_birth": "2005-03-02",
+  "class": "A",
+  "issue_date": "2020-05-10",
+  "expiry_date": "2025-05-10",
+  "address": "71130 Lopez Burgs, Stanleymouth, MI 35310",
+  "sample_id": "driving_license_0582"
+}

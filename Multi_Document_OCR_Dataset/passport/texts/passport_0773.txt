@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Tammy Stark
+Passport No: P40346401
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P40346401",
+  "full_name": "Tammy Stark",
+  "nationality": "GB",
+  "date_of_birth": "1969-09-29",
+  "issue_date": "2021-06-27",
+  "expiry_date": "2031-06-27",
+  "place_of_birth": "Atkinschester",
+  "sample_id": "passport_0773"
+}

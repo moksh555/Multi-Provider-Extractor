@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0200",
+  "invoice_number": "INV-2026-0200",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "168 Doha Business Park, Dubai, UAE",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "118 Motijheel C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-16",
+  "due_date": "2026-02-23",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 5,
+      "unit_price": 569.33,
+      "amount": 2846.65
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 619.74,
+      "amount": 7436.88
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 8,
+      "unit_price": 354.3,
+      "amount": 2834.4
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 846.06,
+      "amount": 1692.12
+    }
+  ],
+  "subtotal": 14810.05,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 740.5,
+  "shipping": 0,
+  "total": 15550.55,
+  "amount_paid": 15550.55,
+  "balance_due": 0.0,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801574120066",
+  "po_number": "PO-43310"
+}

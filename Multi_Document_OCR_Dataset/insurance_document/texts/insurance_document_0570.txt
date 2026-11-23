@@ -1,0 +1,16 @@
+Insurance Policy POL-KDF6J76BI
+Holder: Jason Potter
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KDF6J76BI",
+  "policy_holder": "Jason Potter",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-04-15",
+  "expiry_date": "2027-04-15",
+  "premium": 682.85,
+  "coverage_amount": 259224.42,
+  "beneficiary": "Joshua Warren DDS",
+  "sample_id": "insurance_document_0570"
+}

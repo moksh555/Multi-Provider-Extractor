@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7C0Q6ULH",
+  "merchant_name": "Martinez, Miles and Dunn",
+  "date": "2024-02-19",
+  "subtotal": 1166.54,
+  "tax": 77.7,
+  "discount": 2.92,
+  "total": 1241.32,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$71.25",
+      "line_total": "$285.00"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$22.10",
+      "line_total": "$66.30"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$9.88",
+      "line_total": "$9.88"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$69.71",
+      "line_total": "$139.42"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$63.93",
+      "line_total": "$255.72"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$72.49",
+      "line_total": "$144.98"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$11.43",
+      "line_total": "$45.72"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$54.88",
+      "line_total": "$219.52"
+    }
+  ],
+  "sample_id": "receipt_0611"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-TPG97GZA
+Holder: Jerry Doyle
+Closing Balance: $7086.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TPG97GZA",
+  "account_holder": "Jerry Doyle",
+  "account_number_masked": "****4697",
+  "period_start": "2024-03-14",
+  "period_end": "2024-04-13",
+  "opening_balance": 3064.46,
+  "closing_balance": 7086.88,
+  "transactions": 11,
+  "sample_id": "bank_statement_0583"
+}

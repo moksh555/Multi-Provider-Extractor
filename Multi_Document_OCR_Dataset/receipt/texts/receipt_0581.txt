@@ -1,0 +1,67 @@
+Receipt RCT-09Q16A3K
+Merchant: Peterson PLC
+Date: 2024-09-11
+Total: $825.64
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-09Q16A3K",
+  "merchant_name": "Peterson PLC",
+  "date": "2024-09-11",
+  "subtotal": 776.0,
+  "tax": 54.5,
+  "discount": 4.86,
+  "total": 825.64,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$66.89",
+      "line_total": "$267.56"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$72.33",
+      "line_total": "$72.33"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$35.20",
+      "line_total": "$140.80"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$22.23",
+      "line_total": "$88.92"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$72.49",
+      "line_total": "$72.49"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$24.63",
+      "line_total": "$73.89"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$56.62",
+      "line_total": "$56.62"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$1.13",
+      "line_total": "$3.39"
+    }
+  ],
+  "sample_id": "receipt_0581"
+}

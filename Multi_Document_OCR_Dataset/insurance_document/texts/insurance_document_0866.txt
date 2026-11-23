@@ -1,0 +1,16 @@
+Insurance Policy POL-JHSG04AJM
+Holder: Troy Long
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JHSG04AJM",
+  "policy_holder": "Troy Long",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-08-12",
+  "expiry_date": "2026-08-12",
+  "premium": 1472.25,
+  "coverage_amount": 351183.17,
+  "beneficiary": "Ms. Sarah Padilla",
+  "sample_id": "insurance_document_0866"
+}

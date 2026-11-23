@@ -1,0 +1,16 @@
+Insurance Policy POL-M0KJAX57U
+Holder: Susan Ray
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M0KJAX57U",
+  "policy_holder": "Susan Ray",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-09-01",
+  "expiry_date": "2027-09-01",
+  "premium": 732.48,
+  "coverage_amount": 316852.52,
+  "beneficiary": "Angela Mcdaniel DDS",
+  "sample_id": "insurance_document_0697"
+}

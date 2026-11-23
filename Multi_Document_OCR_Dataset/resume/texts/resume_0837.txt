@@ -1,0 +1,25 @@
+Resume
+Whitney Carter
+Backend Developer
+Skills: SQL, Machine Learning, LangChain, AWS, PyTorch, Docker, Computer Vision, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Whitney Carter",
+  "email": "gregory07@example.com",
+  "phone": "001-991-952-8311",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Machine Learning",
+    "LangChain",
+    "AWS",
+    "PyTorch",
+    "Docker",
+    "Computer Vision",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0837"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-O6RHD5E9",
+  "account_holder": "Jeffrey Mccarthy",
+  "account_number_masked": "****1829",
+  "period_start": "2025-06-28",
+  "period_end": "2025-07-28",
+  "opening_balance": 3084.42,
+  "closing_balance": 3516.59,
+  "transactions": 12,
+  "sample_id": "bank_statement_0671"
+}

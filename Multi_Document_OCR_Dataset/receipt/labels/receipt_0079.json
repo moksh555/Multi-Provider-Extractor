@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2FOMD7Q1",
+  "merchant_name": "Wagner and Sons",
+  "date": "2022-02-23",
+  "subtotal": 129.21,
+  "tax": 8.69,
+  "discount": 10.07,
+  "total": 127.83,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$35.05",
+      "line_total": "$70.10"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$3.07",
+      "line_total": "$3.07"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$48.16",
+      "line_total": "$48.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$1.97",
+      "line_total": "$7.88"
+    }
+  ],
+  "sample_id": "receipt_0079"
+}

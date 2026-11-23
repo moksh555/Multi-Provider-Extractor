@@ -1,0 +1,16 @@
+Bank Statement STM-UMNW6L4M
+Holder: Mary Powell
+Closing Balance: $5055.12
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UMNW6L4M",
+  "account_holder": "Mary Powell",
+  "account_number_masked": "****5669",
+  "period_start": "2025-05-08",
+  "period_end": "2025-06-07",
+  "opening_balance": 2896.19,
+  "closing_balance": 5055.12,
+  "transactions": 11,
+  "sample_id": "bank_statement_0055"
+}

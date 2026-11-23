@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QE4PA8HYE",
+  "policy_holder": "Matthew Gonzalez DDS",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-11-22",
+  "expiry_date": "2024-11-22",
+  "premium": 2201.13,
+  "coverage_amount": 439531.57,
+  "beneficiary": "Danielle Jones",
+  "sample_id": "insurance_document_0203"
+}

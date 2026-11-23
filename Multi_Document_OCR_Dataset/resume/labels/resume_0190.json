@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Jeremy Carter",
+  "email": "rmoore@example.net",
+  "phone": "851-704-6250x6929",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Pandas",
+    "Streamlit",
+    "Machine Learning",
+    "Python",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0190"
+}

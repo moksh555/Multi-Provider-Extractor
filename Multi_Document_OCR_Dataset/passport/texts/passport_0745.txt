@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Nicholas Wells
+Passport No: P83378245
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P83378245",
+  "full_name": "Nicholas Wells",
+  "nationality": "GB",
+  "date_of_birth": "1986-02-21",
+  "issue_date": "2021-01-10",
+  "expiry_date": "2031-01-10",
+  "place_of_birth": "Danielbury",
+  "sample_id": "passport_0745"
+}

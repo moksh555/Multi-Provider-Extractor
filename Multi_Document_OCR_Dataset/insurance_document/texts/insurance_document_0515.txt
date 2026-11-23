@@ -1,0 +1,16 @@
+Insurance Policy POL-4Z533ZSMV
+Holder: Jacqueline Perry
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4Z533ZSMV",
+  "policy_holder": "Jacqueline Perry",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-10-31",
+  "expiry_date": "2025-10-31",
+  "premium": 1198.76,
+  "coverage_amount": 23401.94,
+  "beneficiary": "Christopher Mayer",
+  "sample_id": "insurance_document_0515"
+}

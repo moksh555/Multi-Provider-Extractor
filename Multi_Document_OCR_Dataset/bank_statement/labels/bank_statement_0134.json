@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9KP6ASSS",
+  "account_holder": "Mary Gillespie",
+  "account_number_masked": "****7051",
+  "period_start": "2025-11-08",
+  "period_end": "2025-12-08",
+  "opening_balance": 552.85,
+  "closing_balance": 1768.13,
+  "transactions": 11,
+  "sample_id": "bank_statement_0134"
+}

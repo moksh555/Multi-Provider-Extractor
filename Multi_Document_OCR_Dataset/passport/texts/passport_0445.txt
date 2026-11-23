@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christina Webster
+Passport No: P03738278
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P03738278",
+  "full_name": "Christina Webster",
+  "nationality": "CA",
+  "date_of_birth": "1970-03-15",
+  "issue_date": "2022-07-13",
+  "expiry_date": "2032-07-13",
+  "place_of_birth": "East Valerie",
+  "sample_id": "passport_0445"
+}

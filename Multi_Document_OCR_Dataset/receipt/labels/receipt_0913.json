@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SF4VH9T1",
+  "merchant_name": "Berry-Cooper",
+  "date": "2024-05-05",
+  "subtotal": 306.5,
+  "tax": 15.2,
+  "discount": 10.35,
+  "total": 311.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$33.25",
+      "line_total": "$33.25"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$70.95",
+      "line_total": "$141.90"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$38.92",
+      "line_total": "$38.92"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$30.81",
+      "line_total": "$92.43"
+    }
+  ],
+  "sample_id": "receipt_0913"
+}

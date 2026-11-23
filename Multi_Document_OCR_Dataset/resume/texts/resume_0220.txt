@@ -1,0 +1,27 @@
+Resume
+Audrey Fischer
+Software Engineer
+Skills: AWS, Computer Vision, PyTorch, TensorFlow, Python, LangChain, FastAPI, Docker, Pandas, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Audrey Fischer",
+  "email": "bbrady@example.org",
+  "phone": "001-556-212-6678",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "Computer Vision",
+    "PyTorch",
+    "TensorFlow",
+    "Python",
+    "LangChain",
+    "FastAPI",
+    "Docker",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0220"
+}

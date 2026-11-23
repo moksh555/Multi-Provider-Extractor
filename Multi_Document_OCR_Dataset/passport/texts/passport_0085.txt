@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Adam Ray
+Passport No: P10182256
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10182256",
+  "full_name": "Adam Ray",
+  "nationality": "CA",
+  "date_of_birth": "1975-09-26",
+  "issue_date": "2021-02-28",
+  "expiry_date": "2031-02-28",
+  "place_of_birth": "West John",
+  "sample_id": "passport_0085"
+}

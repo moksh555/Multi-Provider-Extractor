@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0384
+Company: BlueRiver Trading Co.
+Company Address: 110 Zindabazar Road, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 32 Jumeirah Lake Towers, Doha, Qatar
+Invoice Date: 2026-01-02
+Due Date: 2026-02-01
+Currency: AED
+Subtotal: 12186.9
+Tax: 1736.63
+Total: 13314.18
+Balance Due: 13314.18
+Status: unpaid

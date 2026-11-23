@@ -1,0 +1,14 @@
+Medical Report MED-FO3776T4
+Patient: Todd Reese
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-FO3776T4",
+  "patient_name": "Todd Reese",
+  "visit_date": "2026-04-06",
+  "doctor_name": "Dr. Linda Williams",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0854"
+}

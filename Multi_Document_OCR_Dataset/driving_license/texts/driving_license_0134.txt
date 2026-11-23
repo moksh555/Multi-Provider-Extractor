@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kathryn Mccann
+License: DL121705385
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL121705385",
+  "full_name": "Kathryn Mccann",
+  "date_of_birth": "1967-09-26",
+  "class": "C",
+  "issue_date": "2020-09-26",
+  "expiry_date": "2025-09-26",
+  "address": "15999 Novak Islands Apt. 477, West Angela, MS 57104",
+  "sample_id": "driving_license_0134"
+}

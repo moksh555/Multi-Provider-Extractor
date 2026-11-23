@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL623696956",
+  "full_name": "Teresa Rhodes",
+  "date_of_birth": "1988-12-02",
+  "class": "C",
+  "issue_date": "2021-04-17",
+  "expiry_date": "2026-04-17",
+  "address": "6810 Randolph Spur, West Steventon, CT 68734",
+  "sample_id": "driving_license_0307"
+}

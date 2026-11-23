@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Samantha Alvarez",
+  "email": "kparrish@example.com",
+  "phone": "(845)628-4135",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Computer Vision",
+    "FastAPI",
+    "Streamlit",
+    "Python",
+    "PyTorch",
+    "NLP",
+    "LangChain",
+    "SQL",
+    "Machine Learning",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0150"
+}

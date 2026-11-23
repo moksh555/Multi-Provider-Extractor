@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0468",
+  "invoice_number": "INV-2026-0468",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "67 Road 12, Banani, Doha, Qatar",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "85 Jumeirah Lake Towers, Dubai, UAE",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-03-19",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 848.07,
+      "amount": 848.07
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 8,
+      "unit_price": 116.69,
+      "amount": 933.52
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 732.47,
+      "amount": 1464.94
+    }
+  ],
+  "subtotal": 3246.53,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 3246.53,
+  "amount_paid": 1589.06,
+  "balance_due": 1657.47,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801851673458",
+  "po_number": "PO-12024"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kelly Torres
+License: DL063724329
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL063724329",
+  "full_name": "Kelly Torres",
+  "date_of_birth": "1978-10-04",
+  "class": "B",
+  "issue_date": "2020-01-30",
+  "expiry_date": "2025-01-30",
+  "address": "2037 Benton Brooks, Huffview, KY 77602",
+  "sample_id": "driving_license_0616"
+}

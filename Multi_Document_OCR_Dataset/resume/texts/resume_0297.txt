@@ -1,0 +1,23 @@
+Resume
+Daniel Johnson
+Computer Vision Engineer
+Skills: SQL, Pandas, Machine Learning, LangChain, Computer Vision, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Daniel Johnson",
+  "email": "bakerlindsay@example.com",
+  "phone": "657-222-7579x407",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "Pandas",
+    "Machine Learning",
+    "LangChain",
+    "Computer Vision",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0297"
+}

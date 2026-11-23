@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-5GRQB7UK",
+  "patient_name": "Julia Hardin",
+  "visit_date": "2025-11-06",
+  "doctor_name": "Dr. Glen Rodriguez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0911"
+}

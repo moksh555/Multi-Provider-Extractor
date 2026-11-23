@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joan Gregory
+License: DL621650795
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL621650795",
+  "full_name": "Joan Gregory",
+  "date_of_birth": "1966-07-24",
+  "class": "A",
+  "issue_date": "2023-04-05",
+  "expiry_date": "2028-04-05",
+  "address": "USS Davis, FPO AP 84049",
+  "sample_id": "driving_license_0325"
+}

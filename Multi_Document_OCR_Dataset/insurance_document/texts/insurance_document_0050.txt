@@ -1,0 +1,16 @@
+Insurance Policy POL-TM9TMQLIZ
+Holder: Kristina Rivera
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TM9TMQLIZ",
+  "policy_holder": "Kristina Rivera",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-09-02",
+  "expiry_date": "2024-09-02",
+  "premium": 1888.06,
+  "coverage_amount": 475930.0,
+  "beneficiary": "Hayden Ortega",
+  "sample_id": "insurance_document_0050"
+}

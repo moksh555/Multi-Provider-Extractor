@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0354
+Company: UrbanBuild Construction
+Company Address: 155 Motijheel C/A, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 69 Road 12, Banani, Dubai, UAE
+Invoice Date: 2026-06-10
+Due Date: 2026-07-25
+Currency: QAR
+Subtotal: 7804.46
+Tax: 741.42
+Total: 8205.66
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,16 @@
+Synthetic Driving License
+April Booth
+License: DL936767910
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL936767910",
+  "full_name": "April Booth",
+  "date_of_birth": "1973-09-02",
+  "class": "B",
+  "issue_date": "2022-09-04",
+  "expiry_date": "2027-09-04",
+  "address": "85977 James Plaza, West Samuel, UT 64033",
+  "sample_id": "driving_license_0046"
+}

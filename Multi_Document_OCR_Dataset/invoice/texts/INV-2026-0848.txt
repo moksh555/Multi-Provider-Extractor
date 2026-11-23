@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0848
+Company: Eastern Care Pharmacy
+Company Address: 100 Agrabad C/A, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 144 Al Barsha, Sylhet, Bangladesh
+Invoice Date: 2026-02-17
+Due Date: 2026-02-24
+Currency: AED
+Subtotal: 12497.07
+Tax: 918.53
+Total: 13175.66
+Balance Due: 6877.48
+Status: partial

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL018298025",
+  "full_name": "Erin Walker",
+  "date_of_birth": "1981-03-20",
+  "class": "D",
+  "issue_date": "2025-07-12",
+  "expiry_date": "2030-07-12",
+  "address": "USNV Myers, FPO AA 09407",
+  "sample_id": "driving_license_0607"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HK89JSNC",
+  "account_holder": "Scott Martinez",
+  "account_number_masked": "****5597",
+  "period_start": "2025-03-14",
+  "period_end": "2025-04-13",
+  "opening_balance": 3203.72,
+  "closing_balance": 5420.49,
+  "transactions": 13,
+  "sample_id": "bank_statement_0353"
+}

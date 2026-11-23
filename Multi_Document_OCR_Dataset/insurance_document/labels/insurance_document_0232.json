@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4GV3Z6BZ8",
+  "policy_holder": "Elizabeth Glover",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-10-19",
+  "expiry_date": "2024-10-19",
+  "premium": 1460.2,
+  "coverage_amount": 102234.5,
+  "beneficiary": "Mark Lane",
+  "sample_id": "insurance_document_0232"
+}

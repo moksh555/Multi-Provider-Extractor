@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0800",
+  "invoice_number": "INV-2026-0800",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "175 Dhanmondi 27, Sylhet, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "235 Al Barsha, Dubai, UAE",
+  "invoice_date": "2026-06-08",
+  "due_date": "2026-06-23",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 11,
+      "unit_price": 290.61,
+      "amount": 3196.71
+    },
+    {
+      "description": "API Integration",
+      "quantity": 2,
+      "unit_price": 709.84,
+      "amount": 1419.68
+    }
+  ],
+  "subtotal": 4616.39,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 461.64,
+  "shipping": 10,
+  "total": 5088.03,
+  "amount_paid": 0,
+  "balance_due": 5088.03,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801461848554",
+  "po_number": "PO-55657"
+}

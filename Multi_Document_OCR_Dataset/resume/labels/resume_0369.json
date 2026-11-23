@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Robert Williams",
+  "email": "jessicacabrera@example.com",
+  "phone": "001-755-586-8190x041",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Pandas",
+    "Machine Learning",
+    "Docker",
+    "Streamlit",
+    "PyTorch",
+    "AWS",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0369"
+}

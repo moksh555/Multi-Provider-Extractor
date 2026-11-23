@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Devin Hardin",
+  "email": "brandonfernandez@example.com",
+  "phone": "290-717-2224",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "PyTorch",
+    "Computer Vision",
+    "AWS",
+    "LangChain",
+    "Docker",
+    "TensorFlow",
+    "Python",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0045"
+}

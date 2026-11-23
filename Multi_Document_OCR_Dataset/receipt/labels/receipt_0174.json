@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5KW3HGBM",
+  "merchant_name": "Pace, Miller and Willis",
+  "date": "2022-08-19",
+  "subtotal": 363.27,
+  "tax": 30.88,
+  "discount": 10.37,
+  "total": 383.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$73.71",
+      "line_total": "$221.13"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$33.94",
+      "line_total": "$33.94"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$54.10",
+      "line_total": "$108.20"
+    }
+  ],
+  "sample_id": "receipt_0174"
+}

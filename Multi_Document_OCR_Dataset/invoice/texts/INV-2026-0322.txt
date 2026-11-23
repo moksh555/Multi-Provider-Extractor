@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0322
+Company: Atlas Engineering Ltd.
+Company Address: 143 Gulshan Avenue, Riyadh, Saudi Arabia
+Customer: Digital Learning Hub
+Billing Address: 168 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-05-25
+Due Date: 2026-07-09
+Currency: QAR
+Subtotal: 3863.97
+Tax: 284.0
+Total: 4070.69
+Balance Due: 4070.69
+Status: unpaid

@@ -1,0 +1,14 @@
+Medical Report MED-6Z99ENFI
+Patient: Melissa Davis
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6Z99ENFI",
+  "patient_name": "Melissa Davis",
+  "visit_date": "2024-10-01",
+  "doctor_name": "Dr. Benjamin Hamilton",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0024"
+}

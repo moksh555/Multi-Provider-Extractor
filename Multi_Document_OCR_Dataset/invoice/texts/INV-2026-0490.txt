@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0490
+Company: BrightStar Electronics
+Company Address: 56 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 79 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-30
+Due Date: 2026-04-14
+Currency: AED
+Subtotal: 9069.52
+Tax: 906.95
+Total: 9981.47
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Kayla Caldwell",
+  "email": "jennifer96@example.com",
+  "phone": "+1-268-329-0525x65995",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "Python",
+    "Deep Learning",
+    "Docker",
+    "Streamlit",
+    "TensorFlow",
+    "Computer Vision",
+    "LangChain",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0240"
+}

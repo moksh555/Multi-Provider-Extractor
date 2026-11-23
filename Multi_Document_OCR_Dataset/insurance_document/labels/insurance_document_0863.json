@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-R513BB6F0",
+  "policy_holder": "Anthony Simmons",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-06-19",
+  "expiry_date": "2024-06-19",
+  "premium": 1118.58,
+  "coverage_amount": 424443.54,
+  "beneficiary": "Bradley Hoffman",
+  "sample_id": "insurance_document_0863"
+}

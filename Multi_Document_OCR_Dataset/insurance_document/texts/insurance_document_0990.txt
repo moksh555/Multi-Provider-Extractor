@@ -1,0 +1,16 @@
+Insurance Policy POL-YB1EYCEF2
+Holder: Brenda Davis
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YB1EYCEF2",
+  "policy_holder": "Brenda Davis",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-01-11",
+  "expiry_date": "2025-01-11",
+  "premium": 1397.92,
+  "coverage_amount": 92009.7,
+  "beneficiary": "Jessica Wright",
+  "sample_id": "insurance_document_0990"
+}

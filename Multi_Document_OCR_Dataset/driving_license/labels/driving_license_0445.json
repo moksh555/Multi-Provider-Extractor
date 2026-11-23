@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL764264282",
+  "full_name": "Emily Myers",
+  "date_of_birth": "1987-04-28",
+  "class": "C",
+  "issue_date": "2024-11-15",
+  "expiry_date": "2029-11-15",
+  "address": "361 James Isle, Bryanville, AK 63411",
+  "sample_id": "driving_license_0445"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0969
+Company: Atlas Engineering Ltd.
+Company Address: 113 Road 12, Banani, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 126 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-06-11
+Due Date: 2026-07-11
+Currency: SAR
+Subtotal: 11304.13
+Tax: 1130.41
+Total: 12444.54
+Balance Due: 12444.54
+Status: unpaid

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL809691466",
+  "full_name": "Alyssa Johnson",
+  "date_of_birth": "1971-03-09",
+  "class": "A",
+  "issue_date": "2024-07-18",
+  "expiry_date": "2029-07-18",
+  "address": "26086 Eric Bridge Suite 316, North Tanyamouth, MT 70850",
+  "sample_id": "driving_license_0715"
+}

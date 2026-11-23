@@ -1,0 +1,14 @@
+Medical Report MED-UOVM7VSP
+Patient: Kevin Espinoza
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-UOVM7VSP",
+  "patient_name": "Kevin Espinoza",
+  "visit_date": "2026-04-09",
+  "doctor_name": "Dr. Emily Herrera",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0992"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-K1QQFVWUO
+Holder: Christopher Krueger
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-K1QQFVWUO",
+  "policy_holder": "Christopher Krueger",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-08-04",
+  "expiry_date": "2025-08-04",
+  "premium": 1444.33,
+  "coverage_amount": 250470.87,
+  "beneficiary": "Christopher Bernard",
+  "sample_id": "insurance_document_0894"
+}

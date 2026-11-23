@@ -1,0 +1,14 @@
+Medical Report MED-SRMOOCXK
+Patient: Melanie Smith
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-SRMOOCXK",
+  "patient_name": "Melanie Smith",
+  "visit_date": "2025-03-10",
+  "doctor_name": "Dr. Martha Lee",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0624"
+}

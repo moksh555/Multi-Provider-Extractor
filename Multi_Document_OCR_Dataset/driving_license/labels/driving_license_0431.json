@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL209685358",
+  "full_name": "Michelle Armstrong",
+  "date_of_birth": "1987-08-28",
+  "class": "A",
+  "issue_date": "2023-07-12",
+  "expiry_date": "2028-07-12",
+  "address": "181 Stephanie Plains Apt. 983, Shawtown, DE 86779",
+  "sample_id": "driving_license_0431"
+}

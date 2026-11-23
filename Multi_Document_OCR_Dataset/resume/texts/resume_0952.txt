@@ -1,0 +1,24 @@
+Resume
+Dillon Rice
+Computer Vision Engineer
+Skills: Streamlit, LangChain, AWS, Python, PyTorch, NLP, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Dillon Rice",
+  "email": "sparksanthony@example.org",
+  "phone": "233-602-1489",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "LangChain",
+    "AWS",
+    "Python",
+    "PyTorch",
+    "NLP",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0952"
+}

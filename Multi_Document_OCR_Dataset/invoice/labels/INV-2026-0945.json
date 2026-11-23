@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0945",
+  "invoice_number": "INV-2026-0945",
+  "company_name": "Delta Insurance Services",
+  "company_address": "48 Motijheel C/A, Chattogram, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "81 Motijheel C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-09",
+  "due_date": "2026-02-23",
+  "currency": "BDT",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 681.88,
+      "amount": 5455.04
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 8,
+      "unit_price": 593.01,
+      "amount": 4744.08
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 2,
+      "unit_price": 737.17,
+      "amount": 1474.34
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 8,
+      "unit_price": 746.85,
+      "amount": 5974.8
+    }
+  ],
+  "subtotal": 17648.26,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1323.62,
+  "shipping": 5,
+  "total": 18976.88,
+  "amount_paid": 10323.06,
+  "balance_due": 8653.82,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801094172850",
+  "po_number": "PO-09411"
+}

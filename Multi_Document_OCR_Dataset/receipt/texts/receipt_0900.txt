@@ -1,0 +1,43 @@
+Receipt RCT-XD8XQ41W
+Merchant: Buck and Sons
+Date: 2023-12-13
+Total: $614.70
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XD8XQ41W",
+  "merchant_name": "Buck and Sons",
+  "date": "2023-12-13",
+  "subtotal": 589.24,
+  "tax": 29.52,
+  "discount": 4.06,
+  "total": 614.7,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$55.84",
+      "line_total": "$167.52"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$14.66",
+      "line_total": "$29.32"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$76.99",
+      "line_total": "$307.96"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$21.11",
+      "line_total": "$84.44"
+    }
+  ],
+  "sample_id": "receipt_0900"
+}

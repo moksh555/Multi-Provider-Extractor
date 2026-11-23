@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JGY8I7LG",
+  "patient_name": "Susan Rogers",
+  "visit_date": "2025-06-25",
+  "doctor_name": "Dr. Jeffrey Mckinney",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0741"
+}

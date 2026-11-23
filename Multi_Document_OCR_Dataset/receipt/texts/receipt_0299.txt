@@ -1,0 +1,37 @@
+Receipt RCT-WDBOLWIM
+Merchant: Chavez Ltd
+Date: 2026-05-17
+Total: $193.35
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WDBOLWIM",
+  "merchant_name": "Chavez Ltd",
+  "date": "2026-05-17",
+  "subtotal": 176.56,
+  "tax": 19.52,
+  "discount": 2.73,
+  "total": 193.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$25.04",
+      "line_total": "$25.04"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$23.16",
+      "line_total": "$69.48"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$20.51",
+      "line_total": "$82.04"
+    }
+  ],
+  "sample_id": "receipt_0299"
+}

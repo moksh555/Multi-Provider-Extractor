@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL936395124",
+  "full_name": "Bradley Mclaughlin",
+  "date_of_birth": "1985-08-31",
+  "class": "B",
+  "issue_date": "2022-07-12",
+  "expiry_date": "2027-07-12",
+  "address": "1200 Thompson Dale Suite 559, North Frederickport, MA 13604",
+  "sample_id": "driving_license_0842"
+}

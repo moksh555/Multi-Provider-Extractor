@@ -1,0 +1,16 @@
+Insurance Policy POL-9E3NWXUJ3
+Holder: Brian Mendoza
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9E3NWXUJ3",
+  "policy_holder": "Brian Mendoza",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-05-13",
+  "expiry_date": "2024-05-13",
+  "premium": 590.65,
+  "coverage_amount": 326533.58,
+  "beneficiary": "Diane Bailey",
+  "sample_id": "insurance_document_0226"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BO551LDQN",
+  "policy_holder": "Lee Stewart",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-02-28",
+  "expiry_date": "2027-02-28",
+  "premium": 1987.13,
+  "coverage_amount": 372392.23,
+  "beneficiary": "Whitney Gomez",
+  "sample_id": "insurance_document_0218"
+}

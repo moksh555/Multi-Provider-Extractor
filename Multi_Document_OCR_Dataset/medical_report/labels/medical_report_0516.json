@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-MSLGELJY",
+  "patient_name": "Stanley Howard",
+  "visit_date": "2024-11-11",
+  "doctor_name": "Dr. Stephen Mueller",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0516"
+}

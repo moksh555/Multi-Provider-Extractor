@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-K6Z0HR9T",
+  "merchant_name": "Miller-Christensen",
+  "date": "2025-02-19",
+  "subtotal": 164.78,
+  "tax": 14.42,
+  "discount": 10.13,
+  "total": 169.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$33.40",
+      "line_total": "$100.20"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$17.38",
+      "line_total": "$52.14"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$3.11",
+      "line_total": "$12.44"
+    }
+  ],
+  "sample_id": "receipt_0268"
+}

@@ -1,0 +1,49 @@
+Receipt RCT-BV2IZSFW
+Merchant: Snyder-Williams
+Date: 2023-07-29
+Total: $338.20
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BV2IZSFW",
+  "merchant_name": "Snyder-Williams",
+  "date": "2023-07-29",
+  "subtotal": 330.75,
+  "tax": 17.5,
+  "discount": 10.05,
+  "total": 338.2,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$1.93",
+      "line_total": "$5.79"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$57.50",
+      "line_total": "$57.50"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$38.46",
+      "line_total": "$153.84"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$67.56",
+      "line_total": "$67.56"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$23.03",
+      "line_total": "$46.06"
+    }
+  ],
+  "sample_id": "receipt_0577"
+}

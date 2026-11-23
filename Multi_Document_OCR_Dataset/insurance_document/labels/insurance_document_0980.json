@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-T873LKMGS",
+  "policy_holder": "Mark Adams",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-10-16",
+  "expiry_date": "2026-10-16",
+  "premium": 579.72,
+  "coverage_amount": 86073.78,
+  "beneficiary": "Tanya Wilson",
+  "sample_id": "insurance_document_0980"
+}

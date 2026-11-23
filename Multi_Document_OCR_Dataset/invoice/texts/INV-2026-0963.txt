@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0963
+Company: BrightStar Electronics
+Company Address: 135 Al Barsha, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 223 Motijheel C/A, Chattogram, Bangladesh
+Invoice Date: 2026-01-02
+Due Date: 2026-01-17
+Currency: BDT
+Subtotal: 9826.11
+Tax: 1473.92
+Total: 11300.03
+Balance Due: 11300.03
+Status: unpaid

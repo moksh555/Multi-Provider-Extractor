@@ -1,0 +1,49 @@
+Receipt RCT-QFPODPEH
+Merchant: Lane Inc
+Date: 2021-11-16
+Total: $1171.88
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QFPODPEH",
+  "merchant_name": "Lane Inc",
+  "date": "2021-11-16",
+  "subtotal": 1096.3,
+  "tax": 83.52,
+  "discount": 7.94,
+  "total": 1171.88,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$69.89",
+      "line_total": "$279.56"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$79.72",
+      "line_total": "$318.88"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$66.08",
+      "line_total": "$264.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$39.30",
+      "line_total": "$78.60"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$77.47",
+      "line_total": "$154.94"
+    }
+  ],
+  "sample_id": "receipt_0245"
+}

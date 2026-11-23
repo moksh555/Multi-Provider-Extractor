@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL059667956",
+  "full_name": "Debra Olson",
+  "date_of_birth": "1967-07-14",
+  "class": "D",
+  "issue_date": "2023-04-05",
+  "expiry_date": "2028-04-05",
+  "address": "USNV Erickson, FPO AP 39078",
+  "sample_id": "driving_license_0569"
+}

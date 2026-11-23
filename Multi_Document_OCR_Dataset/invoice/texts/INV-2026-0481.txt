@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0481
+Company: Delta Insurance Services
+Company Address: 34 Road 12, Banani, Sylhet, Bangladesh
+Customer: Global Mart
+Billing Address: 162 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-02-15
+Due Date: 2026-03-17
+Currency: BDT
+Subtotal: 7059.41
+Tax: 1058.91
+Total: 8128.32
+Balance Due: 8128.32
+Status: unpaid

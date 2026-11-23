@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0801",
+  "invoice_number": "INV-2026-0801",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "144 Dhanmondi 27, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "155 Uttara Sector 7, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-30",
+  "due_date": "2026-05-14",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 5,
+      "unit_price": 752.08,
+      "amount": 3760.4
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 330.22,
+      "amount": 990.66
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 341.11,
+      "amount": 2728.88
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 365.26,
+      "amount": 4017.86
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 10,
+      "unit_price": 339.5,
+      "amount": 3395.0
+    }
+  ],
+  "subtotal": 14892.8,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 744.64,
+  "shipping": 5,
+  "total": 15642.44,
+  "amount_paid": 9661.96,
+  "balance_due": 5980.48,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801473252403",
+  "po_number": "PO-67242"
+}

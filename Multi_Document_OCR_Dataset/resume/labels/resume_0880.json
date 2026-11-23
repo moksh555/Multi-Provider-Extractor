@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Shelley Smith",
+  "email": "rhamilton@example.net",
+  "phone": "001-224-650-5149",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Docker",
+    "Computer Vision",
+    "FastAPI",
+    "Python",
+    "AWS",
+    "Pandas",
+    "LangChain",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0880"
+}

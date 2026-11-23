@@ -1,0 +1,16 @@
+Insurance Policy POL-Z3V6DIXFW
+Holder: Mark Cole
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z3V6DIXFW",
+  "policy_holder": "Mark Cole",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-08-14",
+  "expiry_date": "2027-08-14",
+  "premium": 1732.38,
+  "coverage_amount": 205812.7,
+  "beneficiary": "Isaac Castro",
+  "sample_id": "insurance_document_0185"
+}

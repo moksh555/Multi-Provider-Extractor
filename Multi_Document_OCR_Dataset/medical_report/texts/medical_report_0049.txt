@@ -1,0 +1,14 @@
+Medical Report MED-PD9M9D25
+Patient: Elizabeth Thomas
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-PD9M9D25",
+  "patient_name": "Elizabeth Thomas",
+  "visit_date": "2025-05-06",
+  "doctor_name": "Dr. Joan Ramsey DDS",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0049"
+}

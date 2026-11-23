@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0115
+Company: Eastern Care Pharmacy
+Company Address: 50 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Global Mart
+Billing Address: 176 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-06-10
+Due Date: 2026-06-17
+Currency: USD
+Subtotal: 8727.82
+Tax: 392.75
+Total: 8257.79
+Balance Due: 3166.08
+Status: partial

@@ -1,0 +1,14 @@
+Medical Report MED-MGKLCWSE
+Patient: Connie Simmons
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MGKLCWSE",
+  "patient_name": "Connie Simmons",
+  "visit_date": "2024-07-26",
+  "doctor_name": "Dr. Michael Johnson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0816"
+}

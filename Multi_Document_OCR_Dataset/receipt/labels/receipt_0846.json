@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XCN3ON4F",
+  "merchant_name": "Carter LLC",
+  "date": "2022-12-21",
+  "subtotal": 851.27,
+  "tax": 54.08,
+  "discount": 13.73,
+  "total": 891.62,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$20.46",
+      "line_total": "$20.46"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$29.58",
+      "line_total": "$118.32"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$30.91",
+      "line_total": "$123.64"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$9.71",
+      "line_total": "$9.71"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$47.65",
+      "line_total": "$142.95"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$16.33",
+      "line_total": "$48.99"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$52.10",
+      "line_total": "$104.20"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$70.75",
+      "line_total": "$283.00"
+    }
+  ],
+  "sample_id": "receipt_0846"
+}

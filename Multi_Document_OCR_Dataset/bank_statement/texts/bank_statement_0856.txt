@@ -1,0 +1,16 @@
+Bank Statement STM-C80LNRBD
+Holder: Joshua Padilla
+Closing Balance: $2781.24
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-C80LNRBD",
+  "account_holder": "Joshua Padilla",
+  "account_number_masked": "****2143",
+  "period_start": "2025-12-06",
+  "period_end": "2026-01-05",
+  "opening_balance": 4174.98,
+  "closing_balance": 2781.24,
+  "transactions": 11,
+  "sample_id": "bank_statement_0856"
+}

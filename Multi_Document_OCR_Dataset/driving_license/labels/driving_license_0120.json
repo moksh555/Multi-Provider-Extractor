@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL902196472",
+  "full_name": "Jenna Anderson DVM",
+  "date_of_birth": "1970-12-06",
+  "class": "B",
+  "issue_date": "2020-07-14",
+  "expiry_date": "2025-07-14",
+  "address": "7868 Morrow Gateway, Reedview, ID 95531",
+  "sample_id": "driving_license_0120"
+}

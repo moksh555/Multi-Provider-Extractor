@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0507
+Company: CityBanking Supplies
+Company Address: 64 Uttara Sector 7, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 16 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-05-15
+Due Date: 2026-06-14
+Currency: AED
+Subtotal: 15914.57
+Tax: 1193.59
+Total: 17158.16
+Balance Due: 17158.16
+Status: overdue

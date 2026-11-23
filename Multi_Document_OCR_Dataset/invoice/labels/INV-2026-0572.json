@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0572",
+  "invoice_number": "INV-2026-0572",
+  "company_name": "Metro Print House",
+  "company_address": "83 Jumeirah Lake Towers, Dubai, UAE",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "118 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-04-04",
+  "due_date": "2026-04-11",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 11,
+      "unit_price": 448.1,
+      "amount": 4929.1
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 4,
+      "unit_price": 11.11,
+      "amount": 44.44
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 116.73,
+      "amount": 1400.76
+    },
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 670.41,
+      "amount": 4022.46
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 594.31,
+      "amount": 4160.17
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 488.4,
+      "amount": 976.8
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 4,
+      "unit_price": 552.52,
+      "amount": 2210.08
+    }
+  ],
+  "subtotal": 17743.81,
+  "discount": 887.19,
+  "tax_rate": 0.15,
+  "tax": 2528.49,
+  "shipping": 0,
+  "total": 19385.11,
+  "amount_paid": 19385.11,
+  "balance_due": 0.0,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801947357714",
+  "po_number": "PO-49284"
+}

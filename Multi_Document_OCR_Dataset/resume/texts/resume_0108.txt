@@ -1,0 +1,25 @@
+Resume
+Mr. Mark Green
+Backend Developer
+Skills: SQL, FastAPI, Pandas, Computer Vision, Machine Learning, Docker, Streamlit, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Mr. Mark Green",
+  "email": "nicholasfigueroa@example.org",
+  "phone": "(418)283-4581",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "SQL",
+    "FastAPI",
+    "Pandas",
+    "Computer Vision",
+    "Machine Learning",
+    "Docker",
+    "Streamlit",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0108"
+}

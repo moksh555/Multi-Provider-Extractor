@@ -1,0 +1,25 @@
+Resume
+Diana Rivera
+Backend Developer
+Skills: TensorFlow, Pandas, Streamlit, Docker, NLP, SQL, Deep Learning, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Diana Rivera",
+  "email": "ekim@example.com",
+  "phone": "2068666411",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "Pandas",
+    "Streamlit",
+    "Docker",
+    "NLP",
+    "SQL",
+    "Deep Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0005"
+}

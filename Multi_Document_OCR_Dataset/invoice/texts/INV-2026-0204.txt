@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0204
+Company: Metro Print House
+Company Address: 94 Mirpur DOHS, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 82 Al Barsha, Dhaka, Bangladesh
+Invoice Date: 2026-05-14
+Due Date: 2026-06-28
+Currency: AED
+Subtotal: 16788.87
+Tax: 822.65
+Total: 17325.74
+Balance Due: 0.0
+Status: paid

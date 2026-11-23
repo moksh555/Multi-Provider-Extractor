@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL071636043",
+  "full_name": "Suzanne Lynch",
+  "date_of_birth": "1993-11-04",
+  "class": "D",
+  "issue_date": "2021-05-27",
+  "expiry_date": "2026-05-27",
+  "address": "374 Snow Walk Apt. 394, Bakerhaven, IN 05815",
+  "sample_id": "driving_license_0851"
+}

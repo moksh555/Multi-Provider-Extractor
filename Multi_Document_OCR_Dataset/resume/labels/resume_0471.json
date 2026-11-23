@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Aaron Hill",
+  "email": "jake43@example.com",
+  "phone": "244-232-9691x422",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "LangChain",
+    "Python",
+    "NLP",
+    "AWS",
+    "Docker",
+    "Deep Learning",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0471"
+}

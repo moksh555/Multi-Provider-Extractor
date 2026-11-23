@@ -1,0 +1,16 @@
+Insurance Policy POL-YJHU8MYIK
+Holder: Rachael Alvarez
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YJHU8MYIK",
+  "policy_holder": "Rachael Alvarez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-02-01",
+  "expiry_date": "2025-02-01",
+  "premium": 876.33,
+  "coverage_amount": 230816.53,
+  "beneficiary": "Lisa Gill",
+  "sample_id": "insurance_document_0306"
+}

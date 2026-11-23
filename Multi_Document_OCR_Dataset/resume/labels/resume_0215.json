@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jeffrey Gilbert",
+  "email": "rosemiller@example.org",
+  "phone": "+1-429-877-1150x62917",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Docker",
+    "Python",
+    "FastAPI",
+    "AWS",
+    "PyTorch",
+    "LangChain",
+    "Machine Learning",
+    "Streamlit",
+    "SQL",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0215"
+}

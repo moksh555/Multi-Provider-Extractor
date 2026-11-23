@@ -1,0 +1,67 @@
+Receipt RCT-LIRO7YY0
+Merchant: Key-Montoya
+Date: 2024-05-24
+Total: $984.83
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LIRO7YY0",
+  "merchant_name": "Key-Montoya",
+  "date": "2024-05-24",
+  "subtotal": 946.22,
+  "tax": 42.37,
+  "discount": 3.76,
+  "total": 984.83,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$52.84",
+      "line_total": "$211.36"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$31.87",
+      "line_total": "$63.74"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$4.86",
+      "line_total": "$4.86"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$15.74",
+      "line_total": "$62.96"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$53.01",
+      "line_total": "$212.04"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$36.52",
+      "line_total": "$109.56"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$53.01",
+      "line_total": "$212.04"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$69.66",
+      "line_total": "$69.66"
+    }
+  ],
+  "sample_id": "receipt_0490"
+}

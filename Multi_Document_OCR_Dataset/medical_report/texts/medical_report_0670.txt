@@ -1,0 +1,14 @@
+Medical Report MED-7DE9BXZJ
+Patient: Richard Hall
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7DE9BXZJ",
+  "patient_name": "Richard Hall",
+  "visit_date": "2024-08-22",
+  "doctor_name": "Dr. Angela Bernard",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0670"
+}

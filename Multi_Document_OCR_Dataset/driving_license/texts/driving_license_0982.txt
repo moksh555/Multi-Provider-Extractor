@@ -1,0 +1,16 @@
+Synthetic Driving License
+Patrick Mosley
+License: DL263162391
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL263162391",
+  "full_name": "Patrick Mosley",
+  "date_of_birth": "1972-01-18",
+  "class": "C",
+  "issue_date": "2020-10-30",
+  "expiry_date": "2025-10-30",
+  "address": "USS Barton, FPO AE 92276",
+  "sample_id": "driving_license_0982"
+}

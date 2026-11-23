@@ -1,0 +1,16 @@
+Synthetic Driving License
+Julie Jones
+License: DL544109484
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL544109484",
+  "full_name": "Julie Jones",
+  "date_of_birth": "1966-08-24",
+  "class": "A",
+  "issue_date": "2026-06-21",
+  "expiry_date": "2031-06-21",
+  "address": "685 Krystal Bridge, Amandamouth, MN 88689",
+  "sample_id": "driving_license_0057"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0254
+Company: Nexus Digital Solutions
+Company Address: 74 Mirpur DOHS, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 225 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-06-20
+Due Date: 2026-07-05
+Currency: USD
+Subtotal: 22511.23
+Tax: 1125.56
+Total: 23661.79
+Balance Due: 14070.06
+Status: partial

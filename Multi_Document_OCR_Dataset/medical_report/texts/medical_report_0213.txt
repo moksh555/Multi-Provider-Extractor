@@ -1,0 +1,14 @@
+Medical Report MED-1YMSE6AY
+Patient: Tina Ortiz
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-1YMSE6AY",
+  "patient_name": "Tina Ortiz",
+  "visit_date": "2024-11-25",
+  "doctor_name": "Dr. Joshua Escobar",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0213"
+}

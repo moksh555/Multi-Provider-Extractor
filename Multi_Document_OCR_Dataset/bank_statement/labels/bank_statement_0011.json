@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3LKMGS6R",
+  "account_holder": "Leah Fischer",
+  "account_number_masked": "****0599",
+  "period_start": "2024-11-13",
+  "period_end": "2024-12-13",
+  "opening_balance": 4988.04,
+  "closing_balance": 9721.49,
+  "transactions": 10,
+  "sample_id": "bank_statement_0011"
+}

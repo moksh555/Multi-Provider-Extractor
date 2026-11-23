@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0305
+Company: CityBanking Supplies
+Company Address: 112 Sheikh Zayed Road, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 2 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-01-05
+Due Date: 2026-01-12
+Currency: BDT
+Subtotal: 17673.0
+Tax: 1767.3
+Total: 19440.3
+Balance Due: 12576.47
+Status: partial

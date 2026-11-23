@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-60MDX1ZR",
+  "account_holder": "Sharon Bowen",
+  "account_number_masked": "****1924",
+  "period_start": "2024-01-04",
+  "period_end": "2024-02-03",
+  "opening_balance": 4954.36,
+  "closing_balance": 5191.53,
+  "transactions": 12,
+  "sample_id": "bank_statement_0781"
+}

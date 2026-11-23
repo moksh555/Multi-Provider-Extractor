@@ -1,0 +1,14 @@
+Medical Report MED-AHCZKCHU
+Patient: Gary Garza
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-AHCZKCHU",
+  "patient_name": "Gary Garza",
+  "visit_date": "2024-01-06",
+  "doctor_name": "Dr. Lori Lee",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0277"
+}

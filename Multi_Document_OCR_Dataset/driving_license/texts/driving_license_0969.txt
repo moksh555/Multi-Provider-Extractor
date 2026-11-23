@@ -1,0 +1,16 @@
+Synthetic Driving License
+Melinda Cervantes
+License: DL952985074
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL952985074",
+  "full_name": "Melinda Cervantes",
+  "date_of_birth": "1982-03-31",
+  "class": "C",
+  "issue_date": "2022-09-29",
+  "expiry_date": "2027-09-29",
+  "address": "66123 Mitchell Causeway Suite 794, East Mariah, WV 42748",
+  "sample_id": "driving_license_0969"
+}

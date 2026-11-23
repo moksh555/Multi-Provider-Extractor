@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL503126394",
+  "full_name": "Jorge Wright",
+  "date_of_birth": "1996-07-15",
+  "class": "D",
+  "issue_date": "2023-04-05",
+  "expiry_date": "2028-04-05",
+  "address": "363 Mccarthy Valleys Apt. 892, Port Brittany, SC 19994",
+  "sample_id": "driving_license_0521"
+}

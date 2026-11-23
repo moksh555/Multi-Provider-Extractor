@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL279009134",
+  "full_name": "Kathy Chang",
+  "date_of_birth": "1974-01-29",
+  "class": "C",
+  "issue_date": "2023-03-05",
+  "expiry_date": "2028-03-05",
+  "address": "78688 Alex Ferry Apt. 009, West Kimberlyville, OH 17266",
+  "sample_id": "driving_license_0895"
+}

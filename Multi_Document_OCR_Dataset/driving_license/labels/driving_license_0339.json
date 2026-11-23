@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL241576516",
+  "full_name": "Todd Bishop",
+  "date_of_birth": "2000-09-06",
+  "class": "A",
+  "issue_date": "2026-09-09",
+  "expiry_date": "2031-09-09",
+  "address": "791 Bailey Avenue, East David, NC 13042",
+  "sample_id": "driving_license_0339"
+}

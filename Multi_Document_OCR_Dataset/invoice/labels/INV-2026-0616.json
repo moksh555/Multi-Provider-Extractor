@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0616",
+  "invoice_number": "INV-2026-0616",
+  "company_name": "Golden Harvest Store",
+  "company_address": "199 Doha Business Park, Dhaka, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "43 Dhanmondi 27, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-13",
+  "due_date": "2026-06-12",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 8,
+      "unit_price": 696.91,
+      "amount": 5575.28
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 779.35,
+      "amount": 7014.15
+    }
+  ],
+  "subtotal": 12589.43,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 12599.43,
+  "amount_paid": 0,
+  "balance_due": 12599.43,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801886728897",
+  "po_number": "PO-49918"
+}

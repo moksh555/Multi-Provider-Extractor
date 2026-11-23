@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5G5U6JDZ",
+  "account_holder": "Rebecca Little",
+  "account_number_masked": "****2373",
+  "period_start": "2026-03-19",
+  "period_end": "2026-04-18",
+  "opening_balance": 2022.13,
+  "closing_balance": 4769.27,
+  "transactions": 13,
+  "sample_id": "bank_statement_0691"
+}

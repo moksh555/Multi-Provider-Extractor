@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0005",
+  "invoice_number": "INV-2026-0005",
+  "company_name": "BrightStar Electronics",
+  "company_address": "160 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "151 Agrabad C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-19",
+  "due_date": "2026-01-26",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 4,
+      "unit_price": 242.48,
+      "amount": 969.92
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 462.03,
+      "amount": 1848.12
+    }
+  ],
+  "subtotal": 2818.04,
+  "discount": 56.36,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 2811.68,
+  "amount_paid": 2811.68,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801524406348",
+  "po_number": "PO-06607"
+}

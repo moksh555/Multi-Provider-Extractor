@@ -1,0 +1,16 @@
+Insurance Policy POL-S6E1ZHWY9
+Holder: Jamie Rojas
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-S6E1ZHWY9",
+  "policy_holder": "Jamie Rojas",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-09-09",
+  "expiry_date": "2024-09-09",
+  "premium": 443.03,
+  "coverage_amount": 46285.5,
+  "beneficiary": "Daniel Bird",
+  "sample_id": "insurance_document_0122"
+}

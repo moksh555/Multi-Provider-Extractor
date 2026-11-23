@@ -1,0 +1,16 @@
+Insurance Policy POL-A2FQZTIO4
+Holder: Ann Ortiz
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-A2FQZTIO4",
+  "policy_holder": "Ann Ortiz",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-03-02",
+  "expiry_date": "2025-03-02",
+  "premium": 2361.68,
+  "coverage_amount": 216358.92,
+  "beneficiary": "Allison Fleming DDS",
+  "sample_id": "insurance_document_0999"
+}

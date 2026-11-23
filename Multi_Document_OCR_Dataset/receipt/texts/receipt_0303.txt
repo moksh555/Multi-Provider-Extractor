@@ -1,0 +1,55 @@
+Receipt RCT-EXW8L85J
+Merchant: Lane, Morrison and Rivera
+Date: 2022-07-02
+Total: $702.77
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EXW8L85J",
+  "merchant_name": "Lane, Morrison and Rivera",
+  "date": "2022-07-02",
+  "subtotal": 674.92,
+  "tax": 36.57,
+  "discount": 8.72,
+  "total": 702.77,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$78.84",
+      "line_total": "$236.52"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$18.32",
+      "line_total": "$54.96"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$21.22",
+      "line_total": "$42.44"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$58.09",
+      "line_total": "$58.09"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$69.73",
+      "line_total": "$209.19"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$18.43",
+      "line_total": "$73.72"
+    }
+  ],
+  "sample_id": "receipt_0303"
+}

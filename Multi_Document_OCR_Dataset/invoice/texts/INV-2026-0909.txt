@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0909
+Company: BrightStar Electronics
+Company Address: 188 Motijheel C/A, Dhaka, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 222 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-02-23
+Due Date: 2026-03-25
+Currency: SAR
+Subtotal: 12328.05
+Tax: 616.4
+Total: 12969.45
+Balance Due: 12969.45
+Status: unpaid

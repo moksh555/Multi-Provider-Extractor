@@ -1,0 +1,55 @@
+Receipt RCT-H9H4YN8S
+Merchant: Wilson Ltd
+Date: 2025-07-19
+Total: $718.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-H9H4YN8S",
+  "merchant_name": "Wilson Ltd",
+  "date": "2025-07-19",
+  "subtotal": 697.38,
+  "tax": 30.06,
+  "discount": 9.32,
+  "total": 718.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$31.11",
+      "line_total": "$62.22"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$48.92",
+      "line_total": "$146.76"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$70.26",
+      "line_total": "$281.04"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$45.42",
+      "line_total": "$45.42"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$23.11",
+      "line_total": "$92.44"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$69.50",
+      "line_total": "$69.50"
+    }
+  ],
+  "sample_id": "receipt_0818"
+}

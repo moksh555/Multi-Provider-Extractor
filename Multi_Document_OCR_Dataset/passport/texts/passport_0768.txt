@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Laura Green
+Passport No: P85480218
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P85480218",
+  "full_name": "Laura Green",
+  "nationality": "BD",
+  "date_of_birth": "1992-11-28",
+  "issue_date": "2026-08-18",
+  "expiry_date": "2036-08-18",
+  "place_of_birth": "Danaborough",
+  "sample_id": "passport_0768"
+}

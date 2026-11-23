@@ -1,0 +1,25 @@
+Resume
+Deborah Valenzuela
+Software Engineer
+Skills: NLP, Computer Vision, Docker, AWS, Deep Learning, TensorFlow, Pandas, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Deborah Valenzuela",
+  "email": "carol26@example.org",
+  "phone": "001-820-733-1465",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "Computer Vision",
+    "Docker",
+    "AWS",
+    "Deep Learning",
+    "TensorFlow",
+    "Pandas",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0545"
+}

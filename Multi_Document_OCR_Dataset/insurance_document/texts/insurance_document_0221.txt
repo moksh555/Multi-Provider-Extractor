@@ -1,0 +1,16 @@
+Insurance Policy POL-9ZD76SZN9
+Holder: Thomas Flynn
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9ZD76SZN9",
+  "policy_holder": "Thomas Flynn",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-04-04",
+  "expiry_date": "2027-04-04",
+  "premium": 347.47,
+  "coverage_amount": 75421.79,
+  "beneficiary": "Chase Pittman",
+  "sample_id": "insurance_document_0221"
+}

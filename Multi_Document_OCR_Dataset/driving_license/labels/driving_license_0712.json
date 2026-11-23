@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL267615296",
+  "full_name": "Daniel Davis",
+  "date_of_birth": "1993-03-17",
+  "class": "D",
+  "issue_date": "2022-10-17",
+  "expiry_date": "2027-10-17",
+  "address": "8170 Norman Manor Suite 155, Marychester, PR 85960",
+  "sample_id": "driving_license_0712"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0765
+Company: Nexus Digital Solutions
+Company Address: 38 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: Rahim Traders
+Billing Address: 228 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-06-15
+Due Date: 2026-07-30
+Currency: BDT
+Subtotal: 23401.87
+Tax: 1667.38
+Total: 23899.16
+Balance Due: 9716.78
+Status: partial

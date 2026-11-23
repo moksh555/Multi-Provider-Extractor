@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dr. Bonnie Valencia
+License: DL571888506
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL571888506",
+  "full_name": "Dr. Bonnie Valencia",
+  "date_of_birth": "1976-07-29",
+  "class": "D",
+  "issue_date": "2021-07-29",
+  "expiry_date": "2026-07-29",
+  "address": "271 Brenda Bridge Suite 300, Hunterhaven, WI 54952",
+  "sample_id": "driving_license_0160"
+}

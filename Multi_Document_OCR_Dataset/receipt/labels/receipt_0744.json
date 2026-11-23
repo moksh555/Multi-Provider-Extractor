@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TAN36A6S",
+  "merchant_name": "Mcfarland-Kelley",
+  "date": "2021-07-18",
+  "subtotal": 261.5,
+  "tax": 12.94,
+  "discount": 0.66,
+  "total": 273.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$19.68",
+      "line_total": "$78.72"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$19.86",
+      "line_total": "$79.44"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$4.48",
+      "line_total": "$13.44"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$22.01",
+      "line_total": "$88.04"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$1.86",
+      "line_total": "$1.86"
+    }
+  ],
+  "sample_id": "receipt_0744"
+}

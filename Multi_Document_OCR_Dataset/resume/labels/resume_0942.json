@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Stephanie Klein",
+  "email": "ashley70@example.com",
+  "phone": "+1-895-499-0196x4335",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Streamlit",
+    "Pandas",
+    "FastAPI",
+    "LangChain",
+    "Python",
+    "PyTorch",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0942"
+}

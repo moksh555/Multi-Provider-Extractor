@@ -1,0 +1,16 @@
+Bank Statement STM-3FON8ONG
+Holder: David Avery
+Closing Balance: $7574.34
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3FON8ONG",
+  "account_holder": "David Avery",
+  "account_number_masked": "****6169",
+  "period_start": "2025-12-25",
+  "period_end": "2026-01-24",
+  "opening_balance": 3086.36,
+  "closing_balance": 7574.34,
+  "transactions": 8,
+  "sample_id": "bank_statement_0140"
+}

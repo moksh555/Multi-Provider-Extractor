@@ -1,0 +1,14 @@
+Medical Report MED-4VXFI1VL
+Patient: Thomas Ross
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4VXFI1VL",
+  "patient_name": "Thomas Ross",
+  "visit_date": "2024-04-14",
+  "doctor_name": "Dr. Roberto Murphy",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0692"
+}

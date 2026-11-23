@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RIQ8HKE22",
+  "policy_holder": "Allison Gross",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-06-27",
+  "expiry_date": "2026-06-27",
+  "premium": 1324.27,
+  "coverage_amount": 401522.39,
+  "beneficiary": "Miss Paula Lopez",
+  "sample_id": "insurance_document_0406"
+}

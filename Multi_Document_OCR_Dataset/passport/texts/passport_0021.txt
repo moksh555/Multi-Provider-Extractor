@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Katherine Vasquez
+Passport No: P50353616
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P50353616",
+  "full_name": "Katherine Vasquez",
+  "nationality": "GB",
+  "date_of_birth": "1972-10-30",
+  "issue_date": "2026-06-02",
+  "expiry_date": "2036-06-02",
+  "place_of_birth": "East Andrewburgh",
+  "sample_id": "passport_0021"
+}

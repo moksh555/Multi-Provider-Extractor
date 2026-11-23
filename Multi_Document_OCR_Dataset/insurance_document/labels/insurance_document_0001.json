@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XAJI0Y6DP",
+  "policy_holder": "Allison Hill",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-11",
+  "expiry_date": "2024-07-11",
+  "premium": 640.36,
+  "coverage_amount": 257624.09,
+  "beneficiary": "Noah Rhodes",
+  "sample_id": "insurance_document_0001"
+}

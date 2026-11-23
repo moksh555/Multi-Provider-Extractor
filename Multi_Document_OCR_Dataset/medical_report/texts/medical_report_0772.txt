@@ -1,0 +1,14 @@
+Medical Report MED-5VCPF27Z
+Patient: April Jones
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5VCPF27Z",
+  "patient_name": "April Jones",
+  "visit_date": "2025-07-23",
+  "doctor_name": "Dr. Dr. Scott Valdez",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0772"
+}

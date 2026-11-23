@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Timothy Padilla
+Passport No: P01116460
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P01116460",
+  "full_name": "Timothy Padilla",
+  "nationality": "CA",
+  "date_of_birth": "1980-06-13",
+  "issue_date": "2022-10-25",
+  "expiry_date": "2032-10-25",
+  "place_of_birth": "West Joelbury",
+  "sample_id": "passport_0730"
+}

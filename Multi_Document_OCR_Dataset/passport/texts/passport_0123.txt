@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jennifer Sweeney
+Passport No: P92292919
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P92292919",
+  "full_name": "Jennifer Sweeney",
+  "nationality": "GB",
+  "date_of_birth": "1985-07-18",
+  "issue_date": "2023-02-17",
+  "expiry_date": "2033-02-17",
+  "place_of_birth": "Castrohaven",
+  "sample_id": "passport_0123"
+}

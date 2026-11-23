@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0832
+Company: Delta Insurance Services
+Company Address: 127 Road 12, Banani, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 138 Dhanmondi 27, Sylhet, Bangladesh
+Invoice Date: 2026-01-05
+Due Date: 2026-02-19
+Currency: QAR
+Subtotal: 11420.42
+Tax: 513.92
+Total: 10792.3
+Balance Due: 5369.55
+Status: partial

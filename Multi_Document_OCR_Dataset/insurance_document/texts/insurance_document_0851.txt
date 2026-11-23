@@ -1,0 +1,16 @@
+Insurance Policy POL-WSF5PAE9Z
+Holder: Michelle Ramirez
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WSF5PAE9Z",
+  "policy_holder": "Michelle Ramirez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-12-06",
+  "expiry_date": "2026-12-06",
+  "premium": 887.28,
+  "coverage_amount": 445877.1,
+  "beneficiary": "Brian Crawford",
+  "sample_id": "insurance_document_0851"
+}

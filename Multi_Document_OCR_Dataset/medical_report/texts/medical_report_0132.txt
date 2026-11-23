@@ -1,0 +1,14 @@
+Medical Report MED-UW6F5CRE
+Patient: Joseph Wolfe
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-UW6F5CRE",
+  "patient_name": "Joseph Wolfe",
+  "visit_date": "2025-12-21",
+  "doctor_name": "Dr. Alexander Hall",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0132"
+}

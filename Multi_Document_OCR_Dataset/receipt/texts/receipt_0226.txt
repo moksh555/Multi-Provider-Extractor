@@ -1,0 +1,49 @@
+Receipt RCT-QABXW2EO
+Merchant: Meyer PLC
+Date: 2024-06-05
+Total: $549.37
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QABXW2EO",
+  "merchant_name": "Meyer PLC",
+  "date": "2024-06-05",
+  "subtotal": 517.28,
+  "tax": 34.82,
+  "discount": 2.73,
+  "total": 549.37,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$13.47",
+      "line_total": "$13.47"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$63.62",
+      "line_total": "$254.48"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$38.79",
+      "line_total": "$155.16"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$14.70",
+      "line_total": "$44.10"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$16.69",
+      "line_total": "$50.07"
+    }
+  ],
+  "sample_id": "receipt_0226"
+}

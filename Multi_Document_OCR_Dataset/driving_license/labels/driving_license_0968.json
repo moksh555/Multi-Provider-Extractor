@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL499887522",
+  "full_name": "Andrea Mueller MD",
+  "date_of_birth": "1962-12-12",
+  "class": "A",
+  "issue_date": "2024-06-20",
+  "expiry_date": "2029-06-20",
+  "address": "497 Logan Pines, Fowlerland, ID 61219",
+  "sample_id": "driving_license_0968"
+}

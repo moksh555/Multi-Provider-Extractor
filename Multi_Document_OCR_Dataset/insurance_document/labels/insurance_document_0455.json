@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KDQP1HKF2",
+  "policy_holder": "Brian Mccarthy",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-12-15",
+  "expiry_date": "2024-12-15",
+  "premium": 1495.93,
+  "coverage_amount": 280850.26,
+  "beneficiary": "Jill Reynolds",
+  "sample_id": "insurance_document_0455"
+}

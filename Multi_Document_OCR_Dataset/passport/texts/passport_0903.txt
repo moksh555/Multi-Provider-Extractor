@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christina Taylor
+Passport No: P66962424
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P66962424",
+  "full_name": "Christina Taylor",
+  "nationality": "US",
+  "date_of_birth": "1987-01-26",
+  "issue_date": "2020-11-16",
+  "expiry_date": "2030-11-16",
+  "place_of_birth": "Jenniferport",
+  "sample_id": "passport_0903"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lisa Thomas
+License: DL607994713
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL607994713",
+  "full_name": "Lisa Thomas",
+  "date_of_birth": "1969-06-09",
+  "class": "C",
+  "issue_date": "2025-08-28",
+  "expiry_date": "2030-08-28",
+  "address": "1028 Coleman Mountains, Kevinville, IA 73920",
+  "sample_id": "driving_license_0654"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-VQGUWDF1
+Holder: Crystal Miller
+Closing Balance: $4061.15
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VQGUWDF1",
+  "account_holder": "Crystal Miller",
+  "account_number_masked": "****0150",
+  "period_start": "2026-12-05",
+  "period_end": "2027-01-04",
+  "opening_balance": 3129.54,
+  "closing_balance": 4061.15,
+  "transactions": 14,
+  "sample_id": "bank_statement_0435"
+}

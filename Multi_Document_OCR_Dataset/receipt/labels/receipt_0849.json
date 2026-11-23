@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NHJLA9A1",
+  "merchant_name": "Matthews Inc",
+  "date": "2025-03-26",
+  "subtotal": 830.12,
+  "tax": 30.04,
+  "discount": 10.66,
+  "total": 849.5,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$44.84",
+      "line_total": "$179.36"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$59.84",
+      "line_total": "$119.68"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$70.56",
+      "line_total": "$211.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$40.74",
+      "line_total": "$122.22"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$4.73",
+      "line_total": "$18.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$1.67",
+      "line_total": "$5.01"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$33.24",
+      "line_total": "$99.72"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$24.51",
+      "line_total": "$73.53"
+    }
+  ],
+  "sample_id": "receipt_0849"
+}

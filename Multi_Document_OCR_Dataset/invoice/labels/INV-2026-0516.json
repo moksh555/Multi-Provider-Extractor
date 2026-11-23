@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0516",
+  "invoice_number": "INV-2026-0516",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "195 Mirpur DOHS, Chattogram, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "221 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-13",
+  "due_date": "2026-04-20",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 608.79,
+      "amount": 1217.58
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 52.52,
+      "amount": 367.64
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 4,
+      "unit_price": 145.38,
+      "amount": 581.52
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 2,
+      "unit_price": 508.72,
+      "amount": 1017.44
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 10,
+      "unit_price": 532.48,
+      "amount": 5324.8
+    }
+  ],
+  "subtotal": 8508.98,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 8508.98,
+  "amount_paid": 0,
+  "balance_due": 8508.98,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801029294116",
+  "po_number": "PO-75464"
+}

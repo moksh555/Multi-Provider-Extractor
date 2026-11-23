@@ -1,0 +1,14 @@
+Medical Report MED-LREK6KR4
+Patient: Fernando Chan
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LREK6KR4",
+  "patient_name": "Fernando Chan",
+  "visit_date": "2024-11-18",
+  "doctor_name": "Dr. Charles Miranda",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0061"
+}

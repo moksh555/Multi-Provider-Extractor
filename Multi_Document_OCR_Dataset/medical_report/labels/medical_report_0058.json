@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-P1VTJIC1",
+  "patient_name": "Christopher Lee",
+  "visit_date": "2026-03-22",
+  "doctor_name": "Dr. Ms. Elizabeth Smith MD",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0058"
+}

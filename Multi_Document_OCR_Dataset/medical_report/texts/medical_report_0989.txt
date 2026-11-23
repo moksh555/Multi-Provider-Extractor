@@ -1,0 +1,14 @@
+Medical Report MED-0E0WH724
+Patient: Michael Phillips
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0E0WH724",
+  "patient_name": "Michael Phillips",
+  "visit_date": "2025-01-27",
+  "doctor_name": "Dr. Alyssa Fuller",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0989"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8K6P62J4",
+  "account_holder": "Anthony King",
+  "account_number_masked": "****9213",
+  "period_start": "2026-10-17",
+  "period_end": "2026-11-16",
+  "opening_balance": 718.74,
+  "closing_balance": 4368.82,
+  "transactions": 11,
+  "sample_id": "bank_statement_0119"
+}

@@ -1,0 +1,27 @@
+Resume
+Amanda Shelton
+Backend Developer
+Skills: TensorFlow, SQL, Machine Learning, Python, PyTorch, Streamlit, LangChain, Computer Vision, NLP, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Amanda Shelton",
+  "email": "greenechristina@example.net",
+  "phone": "001-643-711-3266x1158",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "TensorFlow",
+    "SQL",
+    "Machine Learning",
+    "Python",
+    "PyTorch",
+    "Streamlit",
+    "LangChain",
+    "Computer Vision",
+    "NLP",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0134"
+}

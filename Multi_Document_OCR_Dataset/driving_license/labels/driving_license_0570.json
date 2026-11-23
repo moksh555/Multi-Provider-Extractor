@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL494119852",
+  "full_name": "Robert Graham",
+  "date_of_birth": "1964-04-12",
+  "class": "A",
+  "issue_date": "2026-03-06",
+  "expiry_date": "2031-03-06",
+  "address": "USNS Wright, FPO AE 90554",
+  "sample_id": "driving_license_0570"
+}

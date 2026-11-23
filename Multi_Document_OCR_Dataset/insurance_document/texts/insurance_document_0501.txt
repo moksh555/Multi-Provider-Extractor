@@ -1,0 +1,16 @@
+Insurance Policy POL-YHR3YFK8H
+Holder: Andrew Lynch
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YHR3YFK8H",
+  "policy_holder": "Andrew Lynch",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-01-02",
+  "expiry_date": "2027-01-02",
+  "premium": 629.51,
+  "coverage_amount": 139926.0,
+  "beneficiary": "Anna Lee",
+  "sample_id": "insurance_document_0501"
+}

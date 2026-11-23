@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0110",
+  "invoice_number": "INV-2026-0110",
+  "company_name": "Summit Agro Foods",
+  "company_address": "52 Al Barsha, Sylhet, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "108 Al Barsha, Doha, Qatar",
+  "invoice_date": "2026-05-27",
+  "due_date": "2026-07-11",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 557.84,
+      "amount": 3347.04
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 550.79,
+      "amount": 5507.9
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 8,
+      "unit_price": 665.58,
+      "amount": 5324.64
+    }
+  ],
+  "subtotal": 14179.58,
+  "discount": 283.59,
+  "tax_rate": 0.05,
+  "tax": 694.8,
+  "shipping": 5,
+  "total": 14595.79,
+  "amount_paid": 14595.79,
+  "balance_due": 0.0,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801594107697",
+  "po_number": "PO-01108"
+}

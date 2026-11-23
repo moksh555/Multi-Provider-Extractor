@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XRJM4T8BP",
+  "policy_holder": "Andre Lane",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-02-24",
+  "expiry_date": "2026-02-24",
+  "premium": 1191.27,
+  "coverage_amount": 427908.4,
+  "beneficiary": "Michael Wallace",
+  "sample_id": "insurance_document_0495"
+}

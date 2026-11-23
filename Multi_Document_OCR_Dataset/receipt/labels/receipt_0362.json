@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6U4PLLGF",
+  "merchant_name": "Williamson-Robinson",
+  "date": "2023-05-13",
+  "subtotal": 506.8,
+  "tax": 40.39,
+  "discount": 7.63,
+  "total": 539.56,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$8.86",
+      "line_total": "$26.58"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$10.37",
+      "line_total": "$20.74"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$35.67",
+      "line_total": "$142.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$75.20",
+      "line_total": "$225.60"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$74.04",
+      "line_total": "$74.04"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$8.58",
+      "line_total": "$17.16"
+    }
+  ],
+  "sample_id": "receipt_0362"
+}

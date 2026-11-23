@@ -1,0 +1,16 @@
+Bank Statement STM-YR2P6XCW
+Holder: Mitchell King
+Closing Balance: $4042.24
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YR2P6XCW",
+  "account_holder": "Mitchell King",
+  "account_number_masked": "****1760",
+  "period_start": "2024-02-22",
+  "period_end": "2024-03-23",
+  "opening_balance": 3736.51,
+  "closing_balance": 4042.24,
+  "transactions": 10,
+  "sample_id": "bank_statement_0059"
+}

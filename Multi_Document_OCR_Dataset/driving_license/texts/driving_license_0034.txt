@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Turner
+License: DL563651637
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL563651637",
+  "full_name": "Michael Turner",
+  "date_of_birth": "1975-08-12",
+  "class": "C",
+  "issue_date": "2026-11-26",
+  "expiry_date": "2031-11-26",
+  "address": "058 Stanley Cliff, Alexanderchester, GU 64752",
+  "sample_id": "driving_license_0034"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Charles Carter
+Passport No: P61689885
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P61689885",
+  "full_name": "Charles Carter",
+  "nationality": "AE",
+  "date_of_birth": "2003-09-12",
+  "issue_date": "2022-08-22",
+  "expiry_date": "2032-08-22",
+  "place_of_birth": "Port Gabrielburgh",
+  "sample_id": "passport_0659"
+}

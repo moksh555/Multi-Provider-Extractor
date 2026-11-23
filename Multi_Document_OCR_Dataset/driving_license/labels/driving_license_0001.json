@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL602276804",
+  "full_name": "Allison Hill",
+  "date_of_birth": "1962-09-03",
+  "class": "B",
+  "issue_date": "2021-01-18",
+  "expiry_date": "2026-01-18",
+  "address": "819 Johnson Course, East William, AK 74064",
+  "sample_id": "driving_license_0001"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0233",
+  "invoice_number": "INV-2026-0233",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "38 Mirpur DOHS, Dhaka, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "226 Al Barsha, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-04",
+  "due_date": "2026-06-19",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 9,
+      "unit_price": 607.0,
+      "amount": 5463.0
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 430.58,
+      "amount": 4305.8
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 7,
+      "unit_price": 792.28,
+      "amount": 5545.96
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 447.1,
+      "amount": 894.2
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 186.39,
+      "amount": 2236.68
+    }
+  ],
+  "subtotal": 18445.64,
+  "discount": 922.28,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 17548.36,
+  "amount_paid": 0,
+  "balance_due": 17548.36,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801217588436",
+  "po_number": "PO-81861"
+}

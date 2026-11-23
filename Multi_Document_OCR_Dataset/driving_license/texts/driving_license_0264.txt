@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mark Williamson
+License: DL912100628
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL912100628",
+  "full_name": "Mark Williamson",
+  "date_of_birth": "1973-04-07",
+  "class": "C",
+  "issue_date": "2026-09-03",
+  "expiry_date": "2031-09-03",
+  "address": "50208 Jacob Cove Suite 427, East Christophertown, NM 28968",
+  "sample_id": "driving_license_0264"
+}

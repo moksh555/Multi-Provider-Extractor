@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0300
+Company: Metro Print House
+Company Address: 74 Motijheel C/A, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 70 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-15
+Due Date: 2026-03-17
+Currency: QAR
+Subtotal: 14011.74
+Tax: 2059.73
+Total: 15841.24
+Balance Due: 15841.24
+Status: overdue

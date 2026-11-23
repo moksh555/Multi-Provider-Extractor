@@ -1,0 +1,16 @@
+Insurance Policy POL-KOBQ6MYM8
+Holder: Jennifer Schmidt
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KOBQ6MYM8",
+  "policy_holder": "Jennifer Schmidt",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-07-02",
+  "expiry_date": "2026-07-02",
+  "premium": 1985.23,
+  "coverage_amount": 169011.08,
+  "beneficiary": "Michael Howard",
+  "sample_id": "insurance_document_0961"
+}

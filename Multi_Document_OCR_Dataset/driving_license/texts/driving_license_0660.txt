@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kathryn Daniel
+License: DL860908670
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL860908670",
+  "full_name": "Kathryn Daniel",
+  "date_of_birth": "2005-12-23",
+  "class": "C",
+  "issue_date": "2021-03-17",
+  "expiry_date": "2026-03-17",
+  "address": "49386 Cynthia Ville Apt. 448, Davidmouth, OK 91765",
+  "sample_id": "driving_license_0660"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-7WQP3NIPA
+Holder: Mr. Patrick Mcpherson MD
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7WQP3NIPA",
+  "policy_holder": "Mr. Patrick Mcpherson MD",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-04-29",
+  "expiry_date": "2025-04-29",
+  "premium": 1814.87,
+  "coverage_amount": 141932.72,
+  "beneficiary": "Cheryl Blevins",
+  "sample_id": "insurance_document_0423"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-LCP9UW165
+Holder: Michael Garcia
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LCP9UW165",
+  "policy_holder": "Michael Garcia",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-12-08",
+  "expiry_date": "2024-12-08",
+  "premium": 407.48,
+  "coverage_amount": 139054.3,
+  "beneficiary": "Paula Kelly",
+  "sample_id": "insurance_document_0823"
+}

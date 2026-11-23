@@ -1,0 +1,16 @@
+Synthetic Driving License
+Haley Humphrey
+License: DL963526218
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL963526218",
+  "full_name": "Haley Humphrey",
+  "date_of_birth": "1992-12-22",
+  "class": "C",
+  "issue_date": "2021-04-15",
+  "expiry_date": "2026-04-15",
+  "address": "68018 Kevin Estates, Sarahbury, MI 68513",
+  "sample_id": "driving_license_0096"
+}

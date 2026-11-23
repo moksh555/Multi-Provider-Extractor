@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL588986609",
+  "full_name": "Sarah King",
+  "date_of_birth": "1983-12-29",
+  "class": "B",
+  "issue_date": "2020-04-28",
+  "expiry_date": "2025-04-28",
+  "address": "49818 Brittany Prairie Apt. 299, Meganshire, AZ 04219",
+  "sample_id": "driving_license_0097"
+}

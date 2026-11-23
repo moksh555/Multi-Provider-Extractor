@@ -1,0 +1,16 @@
+Insurance Policy POL-TL9TQVDZ4
+Holder: Monica Stuart
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TL9TQVDZ4",
+  "policy_holder": "Monica Stuart",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-03-16",
+  "expiry_date": "2025-03-16",
+  "premium": 1143.57,
+  "coverage_amount": 445164.6,
+  "beneficiary": "Steven West",
+  "sample_id": "insurance_document_0086"
+}

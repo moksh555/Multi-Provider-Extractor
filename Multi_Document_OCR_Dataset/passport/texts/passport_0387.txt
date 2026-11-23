@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Anthony Bernard
+Passport No: P43422614
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P43422614",
+  "full_name": "Anthony Bernard",
+  "nationality": "CA",
+  "date_of_birth": "1967-02-01",
+  "issue_date": "2025-07-22",
+  "expiry_date": "2035-07-22",
+  "place_of_birth": "East Alicia",
+  "sample_id": "passport_0387"
+}

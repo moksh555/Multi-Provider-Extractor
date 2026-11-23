@@ -1,0 +1,16 @@
+Synthetic Driving License
+Travis Wise
+License: DL279311607
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL279311607",
+  "full_name": "Travis Wise",
+  "date_of_birth": "1962-10-01",
+  "class": "B",
+  "issue_date": "2021-01-10",
+  "expiry_date": "2026-01-10",
+  "address": "690 Small Plains, Dawnport, NJ 32597",
+  "sample_id": "driving_license_0098"
+}

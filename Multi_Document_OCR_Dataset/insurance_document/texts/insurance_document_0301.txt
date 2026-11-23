@@ -1,0 +1,16 @@
+Insurance Policy POL-2UUIJNWPA
+Holder: Mary Meyer
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2UUIJNWPA",
+  "policy_holder": "Mary Meyer",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-12-31",
+  "expiry_date": "2026-12-31",
+  "premium": 134.04,
+  "coverage_amount": 362939.98,
+  "beneficiary": "James Becker",
+  "sample_id": "insurance_document_0301"
+}

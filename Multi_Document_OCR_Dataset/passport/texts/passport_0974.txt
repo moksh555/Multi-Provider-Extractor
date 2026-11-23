@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christopher Moore
+Passport No: P24503107
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24503107",
+  "full_name": "Christopher Moore",
+  "nationality": "GB",
+  "date_of_birth": "1997-08-08",
+  "issue_date": "2020-07-12",
+  "expiry_date": "2030-07-12",
+  "place_of_birth": "Olsonton",
+  "sample_id": "passport_0974"
+}

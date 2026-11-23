@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Thomas Erickson",
+  "email": "amberbooker@example.com",
+  "phone": "587-312-0753x13685",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "FastAPI",
+    "Pandas",
+    "Docker",
+    "AWS",
+    "Python",
+    "Computer Vision",
+    "Machine Learning",
+    "SQL",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0381"
+}

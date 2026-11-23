@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL346475307",
+  "full_name": "David Wood",
+  "date_of_birth": "1972-06-25",
+  "class": "C",
+  "issue_date": "2021-09-21",
+  "expiry_date": "2026-09-21",
+  "address": "2118 Jared Overpass Apt. 126, Millsshire, WV 30966",
+  "sample_id": "driving_license_0646"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Raven Meza
+Passport No: P47268170
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P47268170",
+  "full_name": "Raven Meza",
+  "nationality": "CA",
+  "date_of_birth": "1996-05-09",
+  "issue_date": "2024-07-26",
+  "expiry_date": "2034-07-26",
+  "place_of_birth": "North Daniel",
+  "sample_id": "passport_0996"
+}

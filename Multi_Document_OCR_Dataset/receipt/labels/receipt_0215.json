@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-CRNQ0Y4I",
+  "merchant_name": "Pierce Group",
+  "date": "2025-07-27",
+  "subtotal": 287.07,
+  "tax": 31.67,
+  "discount": 2.53,
+  "total": 316.21,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$68.69",
+      "line_total": "$137.38"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$15.16",
+      "line_total": "$45.48"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$32.31",
+      "line_total": "$32.31"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$12.33",
+      "line_total": "$12.33"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$59.57",
+      "line_total": "$59.57"
+    }
+  ],
+  "sample_id": "receipt_0215"
+}

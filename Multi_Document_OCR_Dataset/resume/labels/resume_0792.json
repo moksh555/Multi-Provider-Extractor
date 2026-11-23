@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Jason Conway",
+  "email": "kwilliams@example.com",
+  "phone": "420-714-8760x96737",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "FastAPI",
+    "Computer Vision",
+    "Streamlit",
+    "Machine Learning",
+    "TensorFlow",
+    "Docker",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0792"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Thomas Taylor",
+  "email": "chavezjames@example.net",
+  "phone": "891-584-6550",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "LangChain",
+    "Pandas",
+    "PyTorch",
+    "Computer Vision",
+    "SQL",
+    "Streamlit",
+    "AWS",
+    "Deep Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0802"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-CT498GRU
+Holder: Mr. Richard Boyer
+Closing Balance: $7846.76
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CT498GRU",
+  "account_holder": "Mr. Richard Boyer",
+  "account_number_masked": "****6090",
+  "period_start": "2026-05-06",
+  "period_end": "2026-06-05",
+  "opening_balance": 4858.85,
+  "closing_balance": 7846.76,
+  "transactions": 14,
+  "sample_id": "bank_statement_0792"
+}

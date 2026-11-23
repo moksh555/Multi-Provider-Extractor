@@ -1,0 +1,55 @@
+Receipt RCT-PHB8OOSP
+Merchant: Barber-Harrison
+Date: 2026-05-06
+Total: $487.91
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PHB8OOSP",
+  "merchant_name": "Barber-Harrison",
+  "date": "2026-05-06",
+  "subtotal": 473.21,
+  "tax": 20.99,
+  "discount": 6.29,
+  "total": 487.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$58.00",
+      "line_total": "$116.00"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$6.91",
+      "line_total": "$6.91"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$73.92",
+      "line_total": "$147.84"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$60.66",
+      "line_total": "$60.66"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$38.99",
+      "line_total": "$77.98"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$31.91",
+      "line_total": "$63.82"
+    }
+  ],
+  "sample_id": "receipt_0416"
+}

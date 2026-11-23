@@ -1,0 +1,43 @@
+Receipt RCT-SFLSE45B
+Merchant: French-Lopez
+Date: 2023-03-01
+Total: $445.16
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SFLSE45B",
+  "merchant_name": "French-Lopez",
+  "date": "2023-03-01",
+  "subtotal": 430.22,
+  "tax": 22.27,
+  "discount": 7.33,
+  "total": 445.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$3.61",
+      "line_total": "$7.22"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$56.67",
+      "line_total": "$170.01"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$66.06",
+      "line_total": "$198.18"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$54.81",
+      "line_total": "$54.81"
+    }
+  ],
+  "sample_id": "receipt_0113"
+}

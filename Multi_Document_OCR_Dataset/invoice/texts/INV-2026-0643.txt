@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0643
+Company: BlueRiver Trading Co.
+Company Address: 145 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Future School
+Billing Address: 13 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-06-14
+Due Date: 2026-06-21
+Currency: SAR
+Subtotal: 14185.78
+Tax: 1347.65
+Total: 14849.14
+Balance Due: 0.0
+Status: paid

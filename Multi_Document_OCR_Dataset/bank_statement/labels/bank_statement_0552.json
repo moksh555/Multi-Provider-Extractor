@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0XPOI73T",
+  "account_holder": "Jasmine Smith",
+  "account_number_masked": "****5988",
+  "period_start": "2025-01-18",
+  "period_end": "2025-02-17",
+  "opening_balance": 4000.41,
+  "closing_balance": 7839.25,
+  "transactions": 11,
+  "sample_id": "bank_statement_0552"
+}

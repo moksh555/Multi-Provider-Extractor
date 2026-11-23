@@ -1,0 +1,67 @@
+Receipt RCT-U5WP8MVU
+Merchant: Brown, Lee and Juarez
+Date: 2021-04-29
+Total: $813.03
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-U5WP8MVU",
+  "merchant_name": "Brown, Lee and Juarez",
+  "date": "2021-04-29",
+  "subtotal": 768.12,
+  "tax": 53.33,
+  "discount": 8.42,
+  "total": 813.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$4.81",
+      "line_total": "$4.81"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$19.00",
+      "line_total": "$76.00"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$66.78",
+      "line_total": "$133.56"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$8.52",
+      "line_total": "$17.04"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$53.42",
+      "line_total": "$213.68"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$14.45",
+      "line_total": "$43.35"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$22.88",
+      "line_total": "$91.52"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$47.04",
+      "line_total": "$188.16"
+    }
+  ],
+  "sample_id": "receipt_0658"
+}

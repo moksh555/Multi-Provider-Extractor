@@ -1,0 +1,16 @@
+Insurance Policy POL-EUB4O47EN
+Holder: Edward Richmond
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-EUB4O47EN",
+  "policy_holder": "Edward Richmond",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-10-04",
+  "expiry_date": "2025-10-04",
+  "premium": 1009.37,
+  "coverage_amount": 344278.44,
+  "beneficiary": "Jessica Keith",
+  "sample_id": "insurance_document_0724"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MRRRIS9E",
+  "account_holder": "Meredith Goodwin",
+  "account_number_masked": "****0768",
+  "period_start": "2026-07-10",
+  "period_end": "2026-08-09",
+  "opening_balance": 4072.54,
+  "closing_balance": 7864.39,
+  "transactions": 12,
+  "sample_id": "bank_statement_0927"
+}

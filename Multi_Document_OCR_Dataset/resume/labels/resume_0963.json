@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Tracy Warner",
+  "email": "wrightjason@example.org",
+  "phone": "653-756-2872",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "TensorFlow",
+    "Pandas",
+    "Machine Learning",
+    "Streamlit",
+    "LangChain",
+    "Deep Learning",
+    "AWS",
+    "Python",
+    "SQL",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0963"
+}

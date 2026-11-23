@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0928
+Company: Atlas Engineering Ltd.
+Company Address: 115 Agrabad C/A, Dubai, UAE
+Customer: Future School
+Billing Address: 111 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-05-15
+Due Date: 2026-06-14
+Currency: AED
+Subtotal: 13530.2
+Tax: 1014.76
+Total: 14544.96
+Balance Due: 6299.02
+Status: partial

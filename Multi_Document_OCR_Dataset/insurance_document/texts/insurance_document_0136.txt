@@ -1,0 +1,16 @@
+Insurance Policy POL-Z2SF6F7LO
+Holder: Rhonda Martinez
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z2SF6F7LO",
+  "policy_holder": "Rhonda Martinez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-09-04",
+  "expiry_date": "2025-09-04",
+  "premium": 1533.06,
+  "coverage_amount": 258584.34,
+  "beneficiary": "William Graham",
+  "sample_id": "insurance_document_0136"
+}

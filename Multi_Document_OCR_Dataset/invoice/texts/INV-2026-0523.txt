@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0523
+Company: Delta Insurance Services
+Company Address: 51 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 86 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-06-25
+Due Date: 2026-08-09
+Currency: BDT
+Subtotal: 15245.96
+Tax: 686.07
+Total: 14417.43
+Balance Due: 14417.43
+Status: overdue

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8ES0P4OV",
+  "account_holder": "James Johnson",
+  "account_number_masked": "****9162",
+  "period_start": "2026-06-29",
+  "period_end": "2026-07-29",
+  "opening_balance": 864.87,
+  "closing_balance": 3899.61,
+  "transactions": 12,
+  "sample_id": "bank_statement_0843"
+}

@@ -1,0 +1,43 @@
+Receipt RCT-OC4191HK
+Merchant: Johnson Group
+Date: 2024-05-22
+Total: $343.43
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OC4191HK",
+  "merchant_name": "Johnson Group",
+  "date": "2024-05-22",
+  "subtotal": 318.0,
+  "tax": 27.94,
+  "discount": 2.51,
+  "total": 343.43,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$65.36",
+      "line_total": "$65.36"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$37.36",
+      "line_total": "$37.36"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$76.37",
+      "line_total": "$152.74"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$62.54",
+      "line_total": "$62.54"
+    }
+  ],
+  "sample_id": "receipt_0549"
+}

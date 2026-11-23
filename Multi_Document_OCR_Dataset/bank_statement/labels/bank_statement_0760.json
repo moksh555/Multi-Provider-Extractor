@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XNVELHIY",
+  "account_holder": "Jon Arellano",
+  "account_number_masked": "****8048",
+  "period_start": "2025-12-16",
+  "period_end": "2026-01-15",
+  "opening_balance": 4294.17,
+  "closing_balance": 4766.71,
+  "transactions": 8,
+  "sample_id": "bank_statement_0760"
+}

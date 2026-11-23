@@ -1,0 +1,16 @@
+Synthetic Driving License
+Anthony Vega
+License: DL046507903
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL046507903",
+  "full_name": "Anthony Vega",
+  "date_of_birth": "1971-09-17",
+  "class": "C",
+  "issue_date": "2025-02-01",
+  "expiry_date": "2030-02-01",
+  "address": "0033 Stephanie Dam, Marcusfurt, AK 67380",
+  "sample_id": "driving_license_0788"
+}

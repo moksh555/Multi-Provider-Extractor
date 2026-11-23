@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PHWHM54X",
+  "account_holder": "Vanessa Harris",
+  "account_number_masked": "****3466",
+  "period_start": "2026-09-30",
+  "period_end": "2026-10-30",
+  "opening_balance": 2700.11,
+  "closing_balance": 2430.04,
+  "transactions": 10,
+  "sample_id": "bank_statement_0053"
+}

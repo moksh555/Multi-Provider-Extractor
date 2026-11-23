@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0272
+Company: Atlas Engineering Ltd.
+Company Address: 190 Gulshan Avenue, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 228 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-03-09
+Due Date: 2026-03-16
+Currency: BDT
+Subtotal: 3460.35
+Tax: 0.0
+Total: 3401.14
+Balance Due: 1478.43
+Status: partial

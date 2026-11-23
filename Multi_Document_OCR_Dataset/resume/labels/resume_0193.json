@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Dawn Lowery",
+  "email": "mmcdowell@example.org",
+  "phone": "4856649013",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Pandas",
+    "FastAPI",
+    "Computer Vision",
+    "LangChain",
+    "SQL",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0193"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Diane Gonzalez
+License: DL730788982
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL730788982",
+  "full_name": "Diane Gonzalez",
+  "date_of_birth": "1967-04-21",
+  "class": "A",
+  "issue_date": "2025-04-11",
+  "expiry_date": "2030-04-11",
+  "address": "61789 Jennifer Camp, Wattsfurt, SC 77033",
+  "sample_id": "driving_license_0636"
+}

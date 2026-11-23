@@ -1,0 +1,49 @@
+Receipt RCT-8OKZ1POX
+Merchant: Wright-Wilson
+Date: 2022-09-18
+Total: $200.72
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8OKZ1POX",
+  "merchant_name": "Wright-Wilson",
+  "date": "2022-09-18",
+  "subtotal": 185.74,
+  "tax": 15.81,
+  "discount": 0.83,
+  "total": 200.72,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$7.24",
+      "line_total": "$21.72"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$43.37",
+      "line_total": "$86.74"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$25.50",
+      "line_total": "$25.50"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$5.57",
+      "line_total": "$11.14"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$10.16",
+      "line_total": "$40.64"
+    }
+  ],
+  "sample_id": "receipt_0094"
+}

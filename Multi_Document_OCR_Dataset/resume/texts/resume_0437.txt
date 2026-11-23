@@ -1,0 +1,25 @@
+Resume
+Patrick Duncan
+Software Engineer
+Skills: Pandas, LangChain, SQL, AWS, Deep Learning, Computer Vision, NLP, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Patrick Duncan",
+  "email": "brandonkennedy@example.org",
+  "phone": "+1-923-995-6721x76189",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "LangChain",
+    "SQL",
+    "AWS",
+    "Deep Learning",
+    "Computer Vision",
+    "NLP",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0437"
+}

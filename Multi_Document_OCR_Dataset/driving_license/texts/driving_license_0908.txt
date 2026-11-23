@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dr. Kylie Hamilton
+License: DL650683012
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL650683012",
+  "full_name": "Dr. Kylie Hamilton",
+  "date_of_birth": "1998-03-26",
+  "class": "C",
+  "issue_date": "2026-07-21",
+  "expiry_date": "2031-07-21",
+  "address": "9582 Guerrero Course, Berrystad, MT 83122",
+  "sample_id": "driving_license_0908"
+}

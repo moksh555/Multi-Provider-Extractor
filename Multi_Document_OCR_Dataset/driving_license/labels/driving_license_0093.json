@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL460786772",
+  "full_name": "Tyler Johnson",
+  "date_of_birth": "2000-07-05",
+  "class": "D",
+  "issue_date": "2022-07-24",
+  "expiry_date": "2027-07-24",
+  "address": "144 Lewis Ridge Suite 731, Port Charles, HI 94003",
+  "sample_id": "driving_license_0093"
+}

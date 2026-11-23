@@ -1,0 +1,16 @@
+Insurance Policy POL-25LLO3RBX
+Holder: Richard Hunter
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-25LLO3RBX",
+  "policy_holder": "Richard Hunter",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-01-01",
+  "expiry_date": "2026-01-01",
+  "premium": 2171.89,
+  "coverage_amount": 33423.98,
+  "beneficiary": "Kathryn Perry",
+  "sample_id": "insurance_document_0116"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0634
+Company: BlueRiver Trading Co.
+Company Address: 177 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Sunrise Apparel
+Billing Address: 150 Uttara Sector 7, Dubai, UAE
+Invoice Date: 2026-01-31
+Due Date: 2026-02-07
+Currency: AED
+Subtotal: 9613.28
+Tax: 961.33
+Total: 10599.61
+Balance Due: 0.0
+Status: paid

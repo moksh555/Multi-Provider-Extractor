@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DUQ6DDTBY",
+  "policy_holder": "Wendy Williams",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-02-24",
+  "expiry_date": "2024-02-24",
+  "premium": 564.33,
+  "coverage_amount": 44050.61,
+  "beneficiary": "Rebecca Scott",
+  "sample_id": "insurance_document_0609"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LFDJG09N",
+  "account_holder": "Robin Davis",
+  "account_number_masked": "****8020",
+  "period_start": "2024-07-13",
+  "period_end": "2024-08-12",
+  "opening_balance": 4993.04,
+  "closing_balance": 5621.82,
+  "transactions": 9,
+  "sample_id": "bank_statement_0742"
+}

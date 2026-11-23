@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-S81BXD7I",
+  "merchant_name": "Greene, Sparks and Smith",
+  "date": "2025-07-04",
+  "subtotal": 663.87,
+  "tax": 71.12,
+  "discount": 8.62,
+  "total": 726.37,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$16.48",
+      "line_total": "$65.92"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$74.78",
+      "line_total": "$74.78"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$31.06",
+      "line_total": "$93.18"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$57.83",
+      "line_total": "$57.83"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$49.22",
+      "line_total": "$196.88"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$43.82",
+      "line_total": "$175.28"
+    }
+  ],
+  "sample_id": "receipt_0534"
+}

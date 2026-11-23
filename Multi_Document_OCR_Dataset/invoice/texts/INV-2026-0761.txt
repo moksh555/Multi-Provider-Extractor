@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0761
+Company: Greenline Logistics
+Company Address: 191 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 102 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-19
+Due Date: 2026-03-06
+Currency: BDT
+Subtotal: 11583.64
+Tax: 0.0
+Total: 11356.97
+Balance Due: 0.0
+Status: paid

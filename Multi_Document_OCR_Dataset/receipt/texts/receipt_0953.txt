@@ -1,0 +1,49 @@
+Receipt RCT-PKIXSX09
+Merchant: Briggs PLC
+Date: 2024-11-03
+Total: $820.15
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PKIXSX09",
+  "merchant_name": "Briggs PLC",
+  "date": "2024-11-03",
+  "subtotal": 752.36,
+  "tax": 76.54,
+  "discount": 8.75,
+  "total": 820.15,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$45.84",
+      "line_total": "$91.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$62.32",
+      "line_total": "$249.28"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$58.42",
+      "line_total": "$116.84"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$72.64",
+      "line_total": "$145.28"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$49.76",
+      "line_total": "$149.28"
+    }
+  ],
+  "sample_id": "receipt_0953"
+}

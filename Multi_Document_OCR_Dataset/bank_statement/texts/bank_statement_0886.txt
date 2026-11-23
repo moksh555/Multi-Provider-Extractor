@@ -1,0 +1,16 @@
+Bank Statement STM-345ZN4MO
+Holder: George Clayton
+Closing Balance: $3954.99
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-345ZN4MO",
+  "account_holder": "George Clayton",
+  "account_number_masked": "****2920",
+  "period_start": "2025-11-29",
+  "period_end": "2025-12-29",
+  "opening_balance": 4404.1,
+  "closing_balance": 3954.99,
+  "transactions": 8,
+  "sample_id": "bank_statement_0886"
+}

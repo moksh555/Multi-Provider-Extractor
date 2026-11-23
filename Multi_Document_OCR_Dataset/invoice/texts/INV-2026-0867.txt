@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0867
+Company: Nexus Digital Solutions
+Company Address: 193 Zindabazar Road, Doha, Qatar
+Customer: TechPoint BD
+Billing Address: 67 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-04-27
+Due Date: 2026-06-11
+Currency: USD
+Subtotal: 24751.51
+Tax: 1856.36
+Total: 26657.87
+Balance Due: 7382.76
+Status: partial

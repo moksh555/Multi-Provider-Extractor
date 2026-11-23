@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-BKC8V3L8",
+  "patient_name": "Debbie Boyd",
+  "visit_date": "2025-05-01",
+  "doctor_name": "Dr. Franklin Proctor",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0572"
+}

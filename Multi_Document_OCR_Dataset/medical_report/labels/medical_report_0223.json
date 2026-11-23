@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ZVD2M24B",
+  "patient_name": "Juan Lopez",
+  "visit_date": "2026-05-01",
+  "doctor_name": "Dr. Rodney Lawrence",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0223"
+}

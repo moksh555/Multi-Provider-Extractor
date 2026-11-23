@@ -1,0 +1,27 @@
+Resume
+Maria King
+Computer Vision Engineer
+Skills: TensorFlow, FastAPI, Docker, Pandas, PyTorch, Streamlit, Deep Learning, Computer Vision, LangChain, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Maria King",
+  "email": "joshua07@example.com",
+  "phone": "001-926-726-5434",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "FastAPI",
+    "Docker",
+    "Pandas",
+    "PyTorch",
+    "Streamlit",
+    "Deep Learning",
+    "Computer Vision",
+    "LangChain",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0317"
+}

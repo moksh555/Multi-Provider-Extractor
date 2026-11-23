@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KXGNTUSJ",
+  "merchant_name": "Estrada, Parker and Evans",
+  "date": "2021-07-21",
+  "subtotal": 217.94,
+  "tax": 13.08,
+  "discount": 3.29,
+  "total": 227.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$1.64",
+      "line_total": "$4.92"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$72.89",
+      "line_total": "$145.78"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$67.24",
+      "line_total": "$67.24"
+    }
+  ],
+  "sample_id": "receipt_0894"
+}

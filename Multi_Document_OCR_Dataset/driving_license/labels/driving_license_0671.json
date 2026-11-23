@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL409355133",
+  "full_name": "Suzanne Brewer",
+  "date_of_birth": "1985-05-29",
+  "class": "D",
+  "issue_date": "2024-03-16",
+  "expiry_date": "2029-03-16",
+  "address": "34615 Valdez Manors, West Larry, TX 63501",
+  "sample_id": "driving_license_0671"
+}

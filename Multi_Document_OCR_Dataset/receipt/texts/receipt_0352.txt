@@ -1,0 +1,43 @@
+Receipt RCT-EOXXC7HZ
+Merchant: Schmidt-Phillips
+Date: 2025-01-02
+Total: $527.86
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EOXXC7HZ",
+  "merchant_name": "Schmidt-Phillips",
+  "date": "2025-01-02",
+  "subtotal": 508.09,
+  "tax": 34.03,
+  "discount": 14.26,
+  "total": 527.86,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$75.37",
+      "line_total": "$226.11"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$42.62",
+      "line_total": "$85.24"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$56.12",
+      "line_total": "$168.36"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$28.38",
+      "line_total": "$28.38"
+    }
+  ],
+  "sample_id": "receipt_0352"
+}

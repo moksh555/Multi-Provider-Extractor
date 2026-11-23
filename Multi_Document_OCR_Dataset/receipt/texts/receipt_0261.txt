@@ -1,0 +1,55 @@
+Receipt RCT-022WGN51
+Merchant: Perez-Stewart
+Date: 2025-03-13
+Total: $786.48
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-022WGN51",
+  "merchant_name": "Perez-Stewart",
+  "date": "2025-03-13",
+  "subtotal": 716.27,
+  "tax": 78.78,
+  "discount": 8.57,
+  "total": 786.48,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$26.42",
+      "line_total": "$52.84"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$57.54",
+      "line_total": "$230.16"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$22.20",
+      "line_total": "$88.80"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$17.37",
+      "line_total": "$17.37"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$69.19",
+      "line_total": "$276.76"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$25.17",
+      "line_total": "$50.34"
+    }
+  ],
+  "sample_id": "receipt_0261"
+}

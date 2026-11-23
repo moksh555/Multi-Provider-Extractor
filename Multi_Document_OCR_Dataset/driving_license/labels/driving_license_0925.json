@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL946623957",
+  "full_name": "Judith Patrick",
+  "date_of_birth": "1984-02-16",
+  "class": "B",
+  "issue_date": "2021-01-06",
+  "expiry_date": "2026-01-06",
+  "address": "PSC 7152, Box 3867, APO AA 63101",
+  "sample_id": "driving_license_0925"
+}

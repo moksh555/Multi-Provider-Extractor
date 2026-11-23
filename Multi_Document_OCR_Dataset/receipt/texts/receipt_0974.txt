@@ -1,0 +1,55 @@
+Receipt RCT-HY05Y5FN
+Merchant: Young Ltd
+Date: 2026-09-29
+Total: $1031.72
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HY05Y5FN",
+  "merchant_name": "Young Ltd",
+  "date": "2026-09-29",
+  "subtotal": 951.9,
+  "tax": 83.61,
+  "discount": 3.79,
+  "total": 1031.72,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$62.30",
+      "line_total": "$186.90"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$56.04",
+      "line_total": "$224.16"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$51.96",
+      "line_total": "$51.96"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$40.22",
+      "line_total": "$80.44"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$62.76",
+      "line_total": "$188.28"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$55.04",
+      "line_total": "$220.16"
+    }
+  ],
+  "sample_id": "receipt_0974"
+}

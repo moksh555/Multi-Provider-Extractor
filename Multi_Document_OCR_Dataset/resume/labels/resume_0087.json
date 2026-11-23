@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Ryan Green",
+  "email": "angela61@example.com",
+  "phone": "(882)825-1272x67086",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "NLP",
+    "Docker",
+    "Deep Learning",
+    "LangChain",
+    "PyTorch",
+    "TensorFlow",
+    "AWS",
+    "SQL",
+    "Computer Vision",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0087"
+}

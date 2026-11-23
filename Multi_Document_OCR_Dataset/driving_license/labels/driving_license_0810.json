@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL213861872",
+  "full_name": "Dale Evans",
+  "date_of_birth": "2001-05-06",
+  "class": "C",
+  "issue_date": "2022-02-05",
+  "expiry_date": "2027-02-05",
+  "address": "50801 Richards Branch Suite 253, Solisborough, TN 62728",
+  "sample_id": "driving_license_0810"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-89QSNVYF
+Holder: Karen Cannon
+Closing Balance: $8712.27
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-89QSNVYF",
+  "account_holder": "Karen Cannon",
+  "account_number_masked": "****0912",
+  "period_start": "2025-08-27",
+  "period_end": "2025-09-26",
+  "opening_balance": 3668.72,
+  "closing_balance": 8712.27,
+  "transactions": 11,
+  "sample_id": "bank_statement_0108"
+}

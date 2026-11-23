@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0722
+Company: Summit Agro Foods
+Company Address: 194 Uttara Sector 7, Sylhet, Bangladesh
+Customer: TechPoint BD
+Billing Address: 175 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-01-17
+Due Date: 2026-03-03
+Currency: BDT
+Subtotal: 7301.7
+Tax: 730.17
+Total: 8031.87
+Balance Due: 8031.87
+Status: overdue

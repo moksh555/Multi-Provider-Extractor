@@ -1,0 +1,16 @@
+Bank Statement STM-0IKQ5J67
+Holder: Thomas Atkins
+Closing Balance: $5065.61
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0IKQ5J67",
+  "account_holder": "Thomas Atkins",
+  "account_number_masked": "****1081",
+  "period_start": "2026-01-07",
+  "period_end": "2026-02-06",
+  "opening_balance": 4112.45,
+  "closing_balance": 5065.61,
+  "transactions": 9,
+  "sample_id": "bank_statement_0642"
+}

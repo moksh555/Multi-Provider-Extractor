@@ -1,0 +1,14 @@
+Medical Report MED-6GXUWTC6
+Patient: Sean Sanders
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6GXUWTC6",
+  "patient_name": "Sean Sanders",
+  "visit_date": "2026-04-18",
+  "doctor_name": "Dr. Dr. Glenn Moss",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0645"
+}

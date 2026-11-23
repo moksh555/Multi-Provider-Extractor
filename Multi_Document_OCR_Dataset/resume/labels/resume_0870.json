@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jeremy Russell",
+  "email": "murillojeffrey@example.com",
+  "phone": "(894)395-7603",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "Python",
+    "LangChain",
+    "Streamlit",
+    "Computer Vision",
+    "SQL",
+    "NLP",
+    "Deep Learning",
+    "Docker",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0870"
+}

@@ -1,0 +1,26 @@
+Resume
+Sydney Baker
+Software Engineer
+Skills: Computer Vision, Pandas, Docker, TensorFlow, Machine Learning, SQL, FastAPI, LangChain, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Sydney Baker",
+  "email": "lisa43@example.com",
+  "phone": "728.868.1123x0388",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Computer Vision",
+    "Pandas",
+    "Docker",
+    "TensorFlow",
+    "Machine Learning",
+    "SQL",
+    "FastAPI",
+    "LangChain",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0067"
+}

@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OFTTUK18",
+  "merchant_name": "Perez-Tucker",
+  "date": "2021-09-28",
+  "subtotal": 495.74,
+  "tax": 29.01,
+  "discount": 0.95,
+  "total": 523.8,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$30.86",
+      "line_total": "$92.58"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$55.24",
+      "line_total": "$165.72"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$12.76",
+      "line_total": "$25.52"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$21.60",
+      "line_total": "$21.60"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$47.58",
+      "line_total": "$190.32"
+    }
+  ],
+  "sample_id": "receipt_0778"
+}

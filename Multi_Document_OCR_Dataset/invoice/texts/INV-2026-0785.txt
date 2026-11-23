@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0785
+Company: Summit Agro Foods
+Company Address: 119 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 30 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-29
+Due Date: 2026-05-13
+Currency: QAR
+Subtotal: 7156.76
+Tax: 0.0
+Total: 6466.08
+Balance Due: 0.0
+Status: paid

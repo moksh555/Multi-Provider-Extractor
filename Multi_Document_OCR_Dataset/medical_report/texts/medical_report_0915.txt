@@ -1,0 +1,14 @@
+Medical Report MED-WFHKIUN0
+Patient: Kyle Lane
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WFHKIUN0",
+  "patient_name": "Kyle Lane",
+  "visit_date": "2026-07-21",
+  "doctor_name": "Dr. Matthew Thomas",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0915"
+}

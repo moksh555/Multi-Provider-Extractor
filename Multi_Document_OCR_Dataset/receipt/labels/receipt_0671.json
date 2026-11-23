@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AQWD1BQF",
+  "merchant_name": "Harmon-Wilson",
+  "date": "2022-03-24",
+  "subtotal": 221.75,
+  "tax": 25.05,
+  "discount": 11.6,
+  "total": 235.2,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$59.72",
+      "line_total": "$59.72"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$52.75",
+      "line_total": "$52.75"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$15.67",
+      "line_total": "$31.34"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$25.98",
+      "line_total": "$77.94"
+    }
+  ],
+  "sample_id": "receipt_0671"
+}

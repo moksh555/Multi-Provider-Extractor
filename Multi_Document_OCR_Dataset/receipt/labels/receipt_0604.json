@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NUN446Q1",
+  "merchant_name": "King, Johnson and Brady",
+  "date": "2021-06-16",
+  "subtotal": 989.52,
+  "tax": 46.48,
+  "discount": 3.37,
+  "total": 1032.63,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$74.46",
+      "line_total": "$297.84"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$29.60",
+      "line_total": "$118.40"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$46.92",
+      "line_total": "$140.76"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$52.83",
+      "line_total": "$158.49"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$31.93",
+      "line_total": "$127.72"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$48.77",
+      "line_total": "$146.31"
+    }
+  ],
+  "sample_id": "receipt_0604"
+}

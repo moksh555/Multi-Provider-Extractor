@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1Z82H394",
+  "account_holder": "Jordan Cunningham",
+  "account_number_masked": "****3654",
+  "period_start": "2025-10-08",
+  "period_end": "2025-11-07",
+  "opening_balance": 3936.38,
+  "closing_balance": 5415.23,
+  "transactions": 8,
+  "sample_id": "bank_statement_0326"
+}

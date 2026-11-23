@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-E8RA36P2",
+  "account_holder": "Sarah Carlson",
+  "account_number_masked": "****0447",
+  "period_start": "2025-09-16",
+  "period_end": "2025-10-16",
+  "opening_balance": 2278.71,
+  "closing_balance": 6950.45,
+  "transactions": 10,
+  "sample_id": "bank_statement_0916"
+}

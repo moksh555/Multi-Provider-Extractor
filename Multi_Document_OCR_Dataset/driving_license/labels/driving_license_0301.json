@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL375734060",
+  "full_name": "Kendra Miller",
+  "date_of_birth": "1991-11-11",
+  "class": "C",
+  "issue_date": "2023-04-10",
+  "expiry_date": "2028-04-10",
+  "address": "9548 Ho Ridges Suite 877, New Jesse, LA 25870",
+  "sample_id": "driving_license_0301"
+}

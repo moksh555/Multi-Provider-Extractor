@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Michael Payne",
+  "email": "tracylewis@example.com",
+  "phone": "(676)636-2814",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "LangChain",
+    "Pandas",
+    "FastAPI",
+    "Deep Learning",
+    "NLP",
+    "Docker",
+    "AWS",
+    "PyTorch",
+    "Computer Vision",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0071"
+}

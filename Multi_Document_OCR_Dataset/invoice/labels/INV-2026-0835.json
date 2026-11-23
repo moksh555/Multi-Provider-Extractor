@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0835",
+  "invoice_number": "INV-2026-0835",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "197 Dhanmondi 27, Sylhet, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "32 Agrabad C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-07-07",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 833.6,
+      "amount": 5001.6
+    },
+    {
+      "description": "API Integration",
+      "quantity": 2,
+      "unit_price": 284.8,
+      "amount": 569.6
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 12,
+      "unit_price": 647.09,
+      "amount": 7765.08
+    }
+  ],
+  "subtotal": 13336.28,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1000.22,
+  "shipping": 5,
+  "total": 14341.5,
+  "amount_paid": 0,
+  "balance_due": 14341.5,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801160341037",
+  "po_number": "PO-31051"
+}

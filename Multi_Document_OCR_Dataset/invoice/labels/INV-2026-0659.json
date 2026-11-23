@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0659",
+  "invoice_number": "INV-2026-0659",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "42 Road 12, Banani, Chattogram, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "84 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-03-21",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 6,
+      "unit_price": 843.36,
+      "amount": 5060.16
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 12,
+      "unit_price": 582.21,
+      "amount": 6986.52
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 269.1,
+      "amount": 1883.7
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 8,
+      "unit_price": 262.66,
+      "amount": 2101.28
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 2,
+      "unit_price": 824.21,
+      "amount": 1648.42
+    }
+  ],
+  "subtotal": 17680.08,
+  "discount": 1768.01,
+  "tax_rate": 0.05,
+  "tax": 795.6,
+  "shipping": 5,
+  "total": 16712.67,
+  "amount_paid": 0,
+  "balance_due": 16712.67,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801511519975",
+  "po_number": "PO-02655"
+}

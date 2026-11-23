@@ -1,0 +1,14 @@
+Medical Report MED-SRKI3W70
+Patient: Jesus Figueroa
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-SRKI3W70",
+  "patient_name": "Jesus Figueroa",
+  "visit_date": "2026-12-02",
+  "doctor_name": "Dr. Cynthia Mcbride",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0456"
+}

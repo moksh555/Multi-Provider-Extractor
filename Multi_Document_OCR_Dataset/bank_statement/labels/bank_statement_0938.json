@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-C99HZYZT",
+  "account_holder": "Jacob Thornton",
+  "account_number_masked": "****2412",
+  "period_start": "2024-08-28",
+  "period_end": "2024-09-27",
+  "opening_balance": 3568.8,
+  "closing_balance": 4639.59,
+  "transactions": 8,
+  "sample_id": "bank_statement_0938"
+}

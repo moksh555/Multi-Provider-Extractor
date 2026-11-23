@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0EHRUWA03",
+  "policy_holder": "Richard Morrison",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-04-12",
+  "expiry_date": "2025-04-12",
+  "premium": 1884.48,
+  "coverage_amount": 188144.56,
+  "beneficiary": "Amanda Norman",
+  "sample_id": "insurance_document_0910"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0379
+Company: UrbanBuild Construction
+Company Address: 119 Doha Business Park, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 240 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-05-23
+Due Date: 2026-06-07
+Currency: USD
+Subtotal: 14285.52
+Tax: 2142.83
+Total: 16433.35
+Balance Due: 0.0
+Status: paid

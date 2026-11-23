@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL893834291",
+  "full_name": "Ronald Burke",
+  "date_of_birth": "1969-10-10",
+  "class": "A",
+  "issue_date": "2021-09-28",
+  "expiry_date": "2026-09-28",
+  "address": "842 Nielsen Ranch, East Nicholasberg, CT 02671",
+  "sample_id": "driving_license_0238"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-WPR1Q9Z3
+Holder: Taylor Dixon
+Closing Balance: $5438.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WPR1Q9Z3",
+  "account_holder": "Taylor Dixon",
+  "account_number_masked": "****3716",
+  "period_start": "2025-05-04",
+  "period_end": "2025-06-03",
+  "opening_balance": 1466.09,
+  "closing_balance": 5438.86,
+  "transactions": 14,
+  "sample_id": "bank_statement_0918"
+}

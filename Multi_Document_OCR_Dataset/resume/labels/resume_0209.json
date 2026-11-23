@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Mary Mcintosh",
+  "email": "asoto@example.com",
+  "phone": "966.948.5320",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Python",
+    "Docker",
+    "AWS",
+    "Machine Learning",
+    "SQL",
+    "FastAPI",
+    "Pandas",
+    "NLP",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0209"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0306
+Company: Greenline Logistics
+Company Address: 100 Road 12, Banani, Chattogram, Bangladesh
+Customer: Bengal Motors
+Billing Address: 225 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-04-07
+Due Date: 2026-04-14
+Currency: SAR
+Subtotal: 15220.81
+Tax: 1522.08
+Total: 16752.89
+Balance Due: 16752.89
+Status: unpaid

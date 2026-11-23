@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0530",
+  "invoice_number": "INV-2026-0530",
+  "company_name": "BrightStar Electronics",
+  "company_address": "163 Motijheel C/A, Sylhet, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "233 Sheikh Zayed Road, Doha, Qatar",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-06-22",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 4,
+      "unit_price": 71.36,
+      "amount": 285.44
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 5,
+      "unit_price": 503.09,
+      "amount": 2515.45
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 63.21,
+      "amount": 189.63
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 161.46,
+      "amount": 1130.22
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 11,
+      "unit_price": 86.23,
+      "amount": 948.53
+    }
+  ],
+  "subtotal": 5069.27,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 253.46,
+  "shipping": 0,
+  "total": 5322.73,
+  "amount_paid": 5322.73,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801390130242",
+  "po_number": "PO-49823"
+}

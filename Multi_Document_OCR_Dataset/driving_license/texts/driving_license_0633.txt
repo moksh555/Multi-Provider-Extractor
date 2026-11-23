@@ -1,0 +1,16 @@
+Synthetic Driving License
+Chloe Freeman
+License: DL351089063
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL351089063",
+  "full_name": "Chloe Freeman",
+  "date_of_birth": "1969-12-15",
+  "class": "B",
+  "issue_date": "2023-10-18",
+  "expiry_date": "2028-10-18",
+  "address": "49678 Mariah Hill Apt. 176, Bakerberg, KY 96397",
+  "sample_id": "driving_license_0633"
+}

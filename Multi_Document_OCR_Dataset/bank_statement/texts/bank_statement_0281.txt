@@ -1,0 +1,16 @@
+Bank Statement STM-4VMBLCW0
+Holder: Jason Blackwell
+Closing Balance: $5481.26
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4VMBLCW0",
+  "account_holder": "Jason Blackwell",
+  "account_number_masked": "****1519",
+  "period_start": "2024-07-29",
+  "period_end": "2024-08-28",
+  "opening_balance": 603.09,
+  "closing_balance": 5481.26,
+  "transactions": 8,
+  "sample_id": "bank_statement_0281"
+}

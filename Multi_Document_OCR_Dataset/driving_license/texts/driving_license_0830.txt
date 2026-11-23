@@ -1,0 +1,16 @@
+Synthetic Driving License
+Larry Higgins
+License: DL647580291
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL647580291",
+  "full_name": "Larry Higgins",
+  "date_of_birth": "1968-09-26",
+  "class": "D",
+  "issue_date": "2023-04-05",
+  "expiry_date": "2028-04-05",
+  "address": "628 Martinez Camp Apt. 195, Darrellchester, MS 49776",
+  "sample_id": "driving_license_0830"
+}

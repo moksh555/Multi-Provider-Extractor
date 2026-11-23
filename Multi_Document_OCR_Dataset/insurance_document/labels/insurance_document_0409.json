@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LUL6LGJLP",
+  "policy_holder": "Cheryl Johnson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-07-12",
+  "expiry_date": "2025-07-12",
+  "premium": 475.38,
+  "coverage_amount": 144082.07,
+  "beneficiary": "Jorge Hernandez",
+  "sample_id": "insurance_document_0409"
+}

@@ -1,0 +1,23 @@
+Resume
+Alec Duncan
+Software Engineer
+Skills: LangChain, Machine Learning, SQL, Pandas, Deep Learning, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Alec Duncan",
+  "email": "jonespaul@example.com",
+  "phone": "740.537.8423x3944",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "LangChain",
+    "Machine Learning",
+    "SQL",
+    "Pandas",
+    "Deep Learning",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0016"
+}

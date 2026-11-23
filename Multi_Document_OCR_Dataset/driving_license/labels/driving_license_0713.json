@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL719752498",
+  "full_name": "Zachary Miller",
+  "date_of_birth": "1980-07-10",
+  "class": "A",
+  "issue_date": "2023-06-04",
+  "expiry_date": "2028-06-04",
+  "address": "0450 Melanie Fall Apt. 282, Lake Terry, AZ 08520",
+  "sample_id": "driving_license_0713"
+}

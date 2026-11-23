@@ -1,0 +1,43 @@
+Receipt RCT-MIAV1G8N
+Merchant: Jackson, Jackson and Perry
+Date: 2021-03-13
+Total: $424.67
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MIAV1G8N",
+  "merchant_name": "Jackson, Jackson and Perry",
+  "date": "2021-03-13",
+  "subtotal": 402.52,
+  "tax": 22.2,
+  "discount": 0.05,
+  "total": 424.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$64.95",
+      "line_total": "$194.85"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$20.45",
+      "line_total": "$20.45"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$20.12",
+      "line_total": "$40.24"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$73.49",
+      "line_total": "$146.98"
+    }
+  ],
+  "sample_id": "receipt_0474"
+}

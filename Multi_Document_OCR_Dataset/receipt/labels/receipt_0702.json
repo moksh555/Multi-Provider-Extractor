@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PACQ5AH9",
+  "merchant_name": "Nguyen Ltd",
+  "date": "2025-06-27",
+  "subtotal": 168.48,
+  "tax": 9.29,
+  "discount": 8.66,
+  "total": 169.11,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$71.17",
+      "line_total": "$71.17"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$24.01",
+      "line_total": "$24.01"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$15.60",
+      "line_total": "$31.20"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$21.05",
+      "line_total": "$42.10"
+    }
+  ],
+  "sample_id": "receipt_0702"
+}

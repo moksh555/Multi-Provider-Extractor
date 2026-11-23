@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TCV1LTWBJ",
+  "policy_holder": "William Williams",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-02",
+  "expiry_date": "2027-03-02",
+  "premium": 226.8,
+  "coverage_amount": 493382.05,
+  "beneficiary": "Justin Davis",
+  "sample_id": "insurance_document_0717"
+}

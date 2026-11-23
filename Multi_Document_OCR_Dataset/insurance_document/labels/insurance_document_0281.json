@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Q4QERXDOU",
+  "policy_holder": "Patricia Hebert",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-06",
+  "expiry_date": "2024-07-06",
+  "premium": 2004.44,
+  "coverage_amount": 481953.91,
+  "beneficiary": "Kathleen Walker",
+  "sample_id": "insurance_document_0281"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F3L2N8IJT",
+  "policy_holder": "Richard Johnson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-04-13",
+  "expiry_date": "2026-04-13",
+  "premium": 276.98,
+  "coverage_amount": 323686.97,
+  "beneficiary": "Megan Baker",
+  "sample_id": "insurance_document_0668"
+}

@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0030",
+  "invoice_number": "INV-2026-0030",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "189 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "90 Road 12, Banani, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-06",
+  "due_date": "2026-03-23",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 4,
+      "unit_price": 324.76,
+      "amount": 1299.04
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 6,
+      "unit_price": 140.54,
+      "amount": 843.24
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 281.13,
+      "amount": 3373.56
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 79.53,
+      "amount": 795.3
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 140.54,
+      "amount": 421.62
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 575.48,
+      "amount": 575.48
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 8,
+      "unit_price": 565.35,
+      "amount": 4522.8
+    }
+  ],
+  "subtotal": 11831.04,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 11841.04,
+  "amount_paid": 0,
+  "balance_due": 11841.04,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801427142646",
+  "po_number": "PO-03503"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL708320986",
+  "full_name": "Jessica Brown",
+  "date_of_birth": "1968-02-07",
+  "class": "B",
+  "issue_date": "2024-06-13",
+  "expiry_date": "2029-06-13",
+  "address": "9202 Thomas Gardens, North Ashleychester, FL 24411",
+  "sample_id": "driving_license_0541"
+}

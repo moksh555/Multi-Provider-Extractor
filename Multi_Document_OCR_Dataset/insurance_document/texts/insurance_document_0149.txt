@@ -1,0 +1,16 @@
+Insurance Policy POL-9R7ANQJLU
+Holder: Mr. Adam Davis
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9R7ANQJLU",
+  "policy_holder": "Mr. Adam Davis",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-01-24",
+  "expiry_date": "2024-01-24",
+  "premium": 742.5,
+  "coverage_amount": 186180.52,
+  "beneficiary": "Kenneth Snyder",
+  "sample_id": "insurance_document_0149"
+}

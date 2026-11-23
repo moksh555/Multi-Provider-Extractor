@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LGVWFFOU",
+  "patient_name": "Karen Gregory",
+  "visit_date": "2024-10-18",
+  "doctor_name": "Dr. Alan Thomas",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0280"
+}

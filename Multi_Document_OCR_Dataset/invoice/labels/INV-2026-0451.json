@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0451",
+  "invoice_number": "INV-2026-0451",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "117 Dhanmondi 27, Doha, Qatar",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "155 Doha Business Park, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-29",
+  "due_date": "2026-07-06",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 1,
+      "unit_price": 241.23,
+      "amount": 241.23
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 725.7,
+      "amount": 2902.8
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 377.56,
+      "amount": 4530.72
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 3,
+      "unit_price": 593.57,
+      "amount": 1780.71
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 4,
+      "unit_price": 322.01,
+      "amount": 1288.04
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 1,
+      "unit_price": 764.55,
+      "amount": 764.55
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 86.76,
+      "amount": 780.84
+    }
+  ],
+  "subtotal": 12288.89,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 614.44,
+  "shipping": 5,
+  "total": 12908.33,
+  "amount_paid": 12908.33,
+  "balance_due": 0.0,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801430907594",
+  "po_number": "PO-43562"
+}

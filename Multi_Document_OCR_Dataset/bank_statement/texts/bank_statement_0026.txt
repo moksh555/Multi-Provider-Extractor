@@ -1,0 +1,16 @@
+Bank Statement STM-5SL1YA1R
+Holder: Stanley Gallagher
+Closing Balance: $1991.53
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5SL1YA1R",
+  "account_holder": "Stanley Gallagher",
+  "account_number_masked": "****0221",
+  "period_start": "2026-04-29",
+  "period_end": "2026-05-29",
+  "opening_balance": 2975.14,
+  "closing_balance": 1991.53,
+  "transactions": 8,
+  "sample_id": "bank_statement_0026"
+}

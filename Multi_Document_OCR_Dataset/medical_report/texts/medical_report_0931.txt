@@ -1,0 +1,14 @@
+Medical Report MED-C5VX7OG0
+Patient: Jose Coleman
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-C5VX7OG0",
+  "patient_name": "Jose Coleman",
+  "visit_date": "2024-01-02",
+  "doctor_name": "Dr. Nicholas Sanders",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0931"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-1QJHDDXC",
+  "patient_name": "Danielle Guzman",
+  "visit_date": "2025-12-18",
+  "doctor_name": "Dr. Amanda Webster",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0021"
+}

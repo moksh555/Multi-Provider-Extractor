@@ -1,0 +1,16 @@
+Synthetic Driving License
+Ruth Mcdaniel
+License: DL903303485
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL903303485",
+  "full_name": "Ruth Mcdaniel",
+  "date_of_birth": "1997-10-13",
+  "class": "A",
+  "issue_date": "2022-12-28",
+  "expiry_date": "2027-12-28",
+  "address": "63761 Jessica Valley, New Coryfurt, AK 14923",
+  "sample_id": "driving_license_0532"
+}

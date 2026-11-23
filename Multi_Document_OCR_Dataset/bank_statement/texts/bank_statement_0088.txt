@@ -1,0 +1,16 @@
+Bank Statement STM-0JI1T3UZ
+Holder: James Charles Jr.
+Closing Balance: $9583.68
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0JI1T3UZ",
+  "account_holder": "James Charles Jr.",
+  "account_number_masked": "****4490",
+  "period_start": "2025-07-06",
+  "period_end": "2025-08-05",
+  "opening_balance": 3083.76,
+  "closing_balance": 9583.68,
+  "transactions": 10,
+  "sample_id": "bank_statement_0088"
+}

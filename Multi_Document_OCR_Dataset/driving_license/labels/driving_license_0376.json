@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL379473890",
+  "full_name": "Jeffrey Edwards",
+  "date_of_birth": "1995-03-16",
+  "class": "D",
+  "issue_date": "2020-10-19",
+  "expiry_date": "2025-10-19",
+  "address": "788 Alvarez Walk, New Brian, KS 65341",
+  "sample_id": "driving_license_0376"
+}

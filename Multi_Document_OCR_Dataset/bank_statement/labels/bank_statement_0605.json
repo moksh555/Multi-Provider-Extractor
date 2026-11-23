@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SI7DOCBI",
+  "account_holder": "Elizabeth Rowland",
+  "account_number_masked": "****3253",
+  "period_start": "2026-10-28",
+  "period_end": "2026-11-27",
+  "opening_balance": 1899.09,
+  "closing_balance": 676.32,
+  "transactions": 13,
+  "sample_id": "bank_statement_0605"
+}

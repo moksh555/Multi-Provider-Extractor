@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Local editor and OS files
+.DS_Store
+.cursor/
+
+# Generated extraction output
+Output_Multi_Document_OCR_Dataset/

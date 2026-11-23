@@ -1,0 +1,14 @@
+Medical Report MED-2K2ZEUJ7
+Patient: Morgan Torres
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2K2ZEUJ7",
+  "patient_name": "Morgan Torres",
+  "visit_date": "2026-03-03",
+  "doctor_name": "Dr. Pamela Hernandez",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0593"
+}

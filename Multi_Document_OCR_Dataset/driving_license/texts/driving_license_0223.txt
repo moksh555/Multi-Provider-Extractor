@@ -1,0 +1,16 @@
+Synthetic Driving License
+Patricia Ferguson
+License: DL117347262
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL117347262",
+  "full_name": "Patricia Ferguson",
+  "date_of_birth": "1985-07-24",
+  "class": "C",
+  "issue_date": "2020-04-19",
+  "expiry_date": "2025-04-19",
+  "address": "361 Amanda Squares, Lucasland, WA 90422",
+  "sample_id": "driving_license_0223"
+}

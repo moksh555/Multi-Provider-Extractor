@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0666
+Company: Eastern Care Pharmacy
+Company Address: 196 Agrabad C/A, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 98 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-05-04
+Due Date: 2026-06-03
+Currency: SAR
+Subtotal: 1494.08
+Tax: 201.7
+Total: 1596.37
+Balance Due: 0.0
+Status: paid

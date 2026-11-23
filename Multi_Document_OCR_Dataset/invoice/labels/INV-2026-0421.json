@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0421",
+  "invoice_number": "INV-2026-0421",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "148 Road 12, Banani, Dubai, UAE",
+  "customer_name": "TechPoint BD",
+  "billing_address": "122 Dhanmondi 27, Dubai, UAE",
+  "invoice_date": "2026-06-20",
+  "due_date": "2026-06-27",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 10,
+      "unit_price": 347.52,
+      "amount": 3475.2
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 438.18,
+      "amount": 1314.54
+    }
+  ],
+  "subtotal": 4789.74,
+  "discount": 478.97,
+  "tax_rate": 0.1,
+  "tax": 431.08,
+  "shipping": 10,
+  "total": 4751.85,
+  "amount_paid": 0,
+  "balance_due": 4751.85,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801821655475",
+  "po_number": "PO-99462"
+}

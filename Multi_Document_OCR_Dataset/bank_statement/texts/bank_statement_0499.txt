@@ -1,0 +1,16 @@
+Bank Statement STM-L0GF8E59
+Holder: Mark Murphy
+Closing Balance: $3477.17
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-L0GF8E59",
+  "account_holder": "Mark Murphy",
+  "account_number_masked": "****4436",
+  "period_start": "2025-07-22",
+  "period_end": "2025-08-21",
+  "opening_balance": 1495.65,
+  "closing_balance": 3477.17,
+  "transactions": 9,
+  "sample_id": "bank_statement_0499"
+}

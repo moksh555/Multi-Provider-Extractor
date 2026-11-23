@@ -1,0 +1,14 @@
+Medical Report MED-GNAYSJF3
+Patient: Lisa Fernandez
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-GNAYSJF3",
+  "patient_name": "Lisa Fernandez",
+  "visit_date": "2024-10-15",
+  "doctor_name": "Dr. James Phillips",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0968"
+}

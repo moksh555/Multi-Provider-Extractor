@@ -1,0 +1,16 @@
+Insurance Policy POL-NS8JR1VMY
+Holder: Julie Davis
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NS8JR1VMY",
+  "policy_holder": "Julie Davis",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-10-07",
+  "expiry_date": "2025-10-07",
+  "premium": 2064.1,
+  "coverage_amount": 471085.61,
+  "beneficiary": "Rebecca Martinez",
+  "sample_id": "insurance_document_0642"
+}

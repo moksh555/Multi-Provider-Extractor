@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0834
+Company: BrightStar Electronics
+Company Address: 76 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: Digital Learning Hub
+Billing Address: 13 Doha Business Park, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-13
+Due Date: 2026-02-27
+Currency: USD
+Subtotal: 4632.76
+Tax: 625.42
+Total: 4799.9
+Balance Due: 4799.9
+Status: unpaid

@@ -1,0 +1,14 @@
+Medical Report MED-MLH0RDV4
+Patient: Danielle Morton
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MLH0RDV4",
+  "patient_name": "Danielle Morton",
+  "visit_date": "2025-08-27",
+  "doctor_name": "Dr. Anthony Mcclain",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0771"
+}

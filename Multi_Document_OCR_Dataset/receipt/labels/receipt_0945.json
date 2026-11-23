@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BJ74F55A",
+  "merchant_name": "Martin, Ruiz and Stone",
+  "date": "2021-10-12",
+  "subtotal": 626.31,
+  "tax": 45.49,
+  "discount": 9.17,
+  "total": 662.63,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$4.43",
+      "line_total": "$17.72"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$18.18",
+      "line_total": "$36.36"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$42.65",
+      "line_total": "$170.60"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$39.39",
+      "line_total": "$118.17"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$64.17",
+      "line_total": "$256.68"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$26.78",
+      "line_total": "$26.78"
+    }
+  ],
+  "sample_id": "receipt_0945"
+}

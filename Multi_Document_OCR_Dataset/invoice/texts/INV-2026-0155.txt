@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0155
+Company: Eastern Care Pharmacy
+Company Address: 102 Sheikh Zayed Road, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 145 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-06-10
+Due Date: 2026-07-25
+Currency: USD
+Subtotal: 3870.45
+Tax: 522.51
+Total: 4055.91
+Balance Due: 2767.15
+Status: partial

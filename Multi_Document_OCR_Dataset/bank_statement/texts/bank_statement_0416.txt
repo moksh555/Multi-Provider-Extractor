@@ -1,0 +1,16 @@
+Bank Statement STM-UADGS5HM
+Holder: Melissa Haley
+Closing Balance: $4024.84
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UADGS5HM",
+  "account_holder": "Melissa Haley",
+  "account_number_masked": "****9377",
+  "period_start": "2026-12-28",
+  "period_end": "2027-01-27",
+  "opening_balance": 3953.76,
+  "closing_balance": 4024.84,
+  "transactions": 9,
+  "sample_id": "bank_statement_0416"
+}

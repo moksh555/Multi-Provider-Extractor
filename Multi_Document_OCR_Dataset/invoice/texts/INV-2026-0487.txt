@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0487
+Company: SkyNet Office Mart
+Company Address: 152 Zindabazar Road, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 50 Uttara Sector 7, Doha, Qatar
+Invoice Date: 2026-06-20
+Due Date: 2026-07-20
+Currency: SAR
+Subtotal: 24026.31
+Tax: 3603.95
+Total: 27635.26
+Balance Due: 27635.26
+Status: overdue

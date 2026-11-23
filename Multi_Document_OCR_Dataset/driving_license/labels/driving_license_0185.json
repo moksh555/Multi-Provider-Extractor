@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL447580502",
+  "full_name": "Kristen Randall",
+  "date_of_birth": "2002-08-29",
+  "class": "A",
+  "issue_date": "2023-01-15",
+  "expiry_date": "2028-01-15",
+  "address": "793 Evans Locks Apt. 898, North Stacy, NV 23160",
+  "sample_id": "driving_license_0185"
+}

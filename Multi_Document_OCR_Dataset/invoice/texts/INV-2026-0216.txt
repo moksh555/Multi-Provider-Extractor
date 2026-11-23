@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0216
+Company: Nexus Digital Solutions
+Company Address: 152 Jumeirah Lake Towers, Doha, Qatar
+Customer: Future School
+Billing Address: 126 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-05-30
+Due Date: 2026-06-06
+Currency: BDT
+Subtotal: 9134.22
+Tax: 411.04
+Total: 8681.84
+Balance Due: 0.0
+Status: paid

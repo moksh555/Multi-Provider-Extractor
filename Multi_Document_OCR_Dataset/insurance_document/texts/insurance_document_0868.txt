@@ -1,0 +1,16 @@
+Insurance Policy POL-57LY7500L
+Holder: Lindsey Potter
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-57LY7500L",
+  "policy_holder": "Lindsey Potter",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-12-16",
+  "expiry_date": "2027-12-16",
+  "premium": 803.24,
+  "coverage_amount": 146692.06,
+  "beneficiary": "David Floyd",
+  "sample_id": "insurance_document_0868"
+}

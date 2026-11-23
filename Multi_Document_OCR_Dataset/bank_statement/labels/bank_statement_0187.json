@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-X88GXWDP",
+  "account_holder": "Karen Lindsey",
+  "account_number_masked": "****0845",
+  "period_start": "2024-01-05",
+  "period_end": "2024-02-04",
+  "opening_balance": 2403.42,
+  "closing_balance": 5259.29,
+  "transactions": 12,
+  "sample_id": "bank_statement_0187"
+}

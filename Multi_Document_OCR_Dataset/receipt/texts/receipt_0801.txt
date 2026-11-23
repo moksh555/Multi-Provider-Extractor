@@ -1,0 +1,37 @@
+Receipt RCT-7MR9VQIE
+Merchant: Dunlap, Singh and Sutton
+Date: 2021-03-12
+Total: $298.17
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7MR9VQIE",
+  "merchant_name": "Dunlap, Singh and Sutton",
+  "date": "2021-03-12",
+  "subtotal": 297.3,
+  "tax": 12.3,
+  "discount": 11.43,
+  "total": 298.17,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$9.08",
+      "line_total": "$27.24"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$20.16",
+      "line_total": "$60.48"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$69.86",
+      "line_total": "$209.58"
+    }
+  ],
+  "sample_id": "receipt_0801"
+}

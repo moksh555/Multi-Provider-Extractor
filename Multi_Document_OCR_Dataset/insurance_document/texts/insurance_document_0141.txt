@@ -1,0 +1,16 @@
+Insurance Policy POL-KK791ZYRR
+Holder: Richard Saunders
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KK791ZYRR",
+  "policy_holder": "Richard Saunders",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-14",
+  "expiry_date": "2025-07-14",
+  "premium": 804.94,
+  "coverage_amount": 291003.63,
+  "beneficiary": "Thomas Holland",
+  "sample_id": "insurance_document_0141"
+}

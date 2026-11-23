@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2K20TVDJI",
+  "policy_holder": "Michael Melendez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-07-02",
+  "expiry_date": "2024-07-02",
+  "premium": 168.82,
+  "coverage_amount": 112029.14,
+  "beneficiary": "Sarah Thomas",
+  "sample_id": "insurance_document_0531"
+}

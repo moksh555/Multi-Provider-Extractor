@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1RN22R7B",
+  "account_holder": "Brianna Price",
+  "account_number_masked": "****6287",
+  "period_start": "2026-05-30",
+  "period_end": "2026-06-29",
+  "opening_balance": 1233.67,
+  "closing_balance": 4881.68,
+  "transactions": 10,
+  "sample_id": "bank_statement_0787"
+}

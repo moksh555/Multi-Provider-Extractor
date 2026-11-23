@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-IO7R6FWK",
+  "account_holder": "James Simpson",
+  "account_number_masked": "****7338",
+  "period_start": "2024-04-09",
+  "period_end": "2024-05-09",
+  "opening_balance": 3632.49,
+  "closing_balance": 9265.45,
+  "transactions": 12,
+  "sample_id": "bank_statement_0593"
+}

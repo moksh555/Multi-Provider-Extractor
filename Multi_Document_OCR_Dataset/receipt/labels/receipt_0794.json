@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-F7UXKE4Q",
+  "merchant_name": "Maddox Ltd",
+  "date": "2024-05-10",
+  "subtotal": 726.46,
+  "tax": 84.82,
+  "discount": 0.56,
+  "total": 810.72,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$74.78",
+      "line_total": "$299.12"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$77.61",
+      "line_total": "$155.22"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$39.78",
+      "line_total": "$119.34"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$15.81",
+      "line_total": "$63.24"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$44.77",
+      "line_total": "$89.54"
+    }
+  ],
+  "sample_id": "receipt_0794"
+}

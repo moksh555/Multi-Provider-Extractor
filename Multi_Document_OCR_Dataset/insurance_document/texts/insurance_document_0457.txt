@@ -1,0 +1,16 @@
+Insurance Policy POL-6VFUA9BQ1
+Holder: Tiffany Burton
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6VFUA9BQ1",
+  "policy_holder": "Tiffany Burton",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-05-21",
+  "expiry_date": "2026-05-21",
+  "premium": 1384.07,
+  "coverage_amount": 244841.98,
+  "beneficiary": "Kevin Wiggins",
+  "sample_id": "insurance_document_0457"
+}

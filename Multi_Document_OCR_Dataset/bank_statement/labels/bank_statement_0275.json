@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3A1IOPRA",
+  "account_holder": "Alicia Shaw",
+  "account_number_masked": "****8442",
+  "period_start": "2024-11-03",
+  "period_end": "2024-12-03",
+  "opening_balance": 601.37,
+  "closing_balance": 3906.14,
+  "transactions": 14,
+  "sample_id": "bank_statement_0275"
+}

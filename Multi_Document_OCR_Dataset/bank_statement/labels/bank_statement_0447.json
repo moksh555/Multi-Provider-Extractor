@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-U2U5VGZ3",
+  "account_holder": "Mikayla Jones",
+  "account_number_masked": "****3436",
+  "period_start": "2024-05-21",
+  "period_end": "2024-06-20",
+  "opening_balance": 2055.86,
+  "closing_balance": 8924.09,
+  "transactions": 13,
+  "sample_id": "bank_statement_0447"
+}

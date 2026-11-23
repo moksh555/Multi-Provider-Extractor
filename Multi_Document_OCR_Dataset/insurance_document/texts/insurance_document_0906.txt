@@ -1,0 +1,16 @@
+Insurance Policy POL-BFSA5UZLZ
+Holder: Todd Baldwin
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BFSA5UZLZ",
+  "policy_holder": "Todd Baldwin",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-07-22",
+  "expiry_date": "2027-07-22",
+  "premium": 845.28,
+  "coverage_amount": 359408.63,
+  "beneficiary": "Donald Montoya",
+  "sample_id": "insurance_document_0906"
+}

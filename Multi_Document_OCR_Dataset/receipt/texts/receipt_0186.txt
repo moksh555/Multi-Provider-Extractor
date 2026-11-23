@@ -1,0 +1,61 @@
+Receipt RCT-VPGSTQMG
+Merchant: Payne Inc
+Date: 2021-01-31
+Total: $836.27
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VPGSTQMG",
+  "merchant_name": "Payne Inc",
+  "date": "2021-01-31",
+  "subtotal": 775.64,
+  "tax": 75.04,
+  "discount": 14.41,
+  "total": 836.27,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$57.26",
+      "line_total": "$114.52"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$74.20",
+      "line_total": "$296.80"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$78.28",
+      "line_total": "$78.28"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$9.94",
+      "line_total": "$29.82"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$12.22",
+      "line_total": "$12.22"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$41.84",
+      "line_total": "$167.36"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$38.32",
+      "line_total": "$76.64"
+    }
+  ],
+  "sample_id": "receipt_0186"
+}

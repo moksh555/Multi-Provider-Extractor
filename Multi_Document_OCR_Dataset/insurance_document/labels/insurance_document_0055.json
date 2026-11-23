@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WV08HHXFG",
+  "policy_holder": "Heidi Kim",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-11-17",
+  "expiry_date": "2024-11-17",
+  "premium": 126.37,
+  "coverage_amount": 230746.82,
+  "beneficiary": "Jeffrey Morales",
+  "sample_id": "insurance_document_0055"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0060
+Company: Royal Diagnostics Center
+Company Address: 72 Dhanmondi 27, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 72 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-01-30
+Due Date: 2026-02-14
+Currency: QAR
+Subtotal: 17734.01
+Tax: 2660.1
+Total: 20419.11
+Balance Due: 20419.11
+Status: unpaid

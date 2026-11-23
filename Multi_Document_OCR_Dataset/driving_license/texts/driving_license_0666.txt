@@ -1,0 +1,16 @@
+Synthetic Driving License
+John Lopez
+License: DL267596208
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL267596208",
+  "full_name": "John Lopez",
+  "date_of_birth": "1989-09-20",
+  "class": "B",
+  "issue_date": "2023-11-04",
+  "expiry_date": "2028-11-04",
+  "address": "966 Flowers Glen Suite 957, Evansbury, WV 66949",
+  "sample_id": "driving_license_0666"
+}

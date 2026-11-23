@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-X6DUT076",
+  "merchant_name": "Kelley, Nguyen and Vang",
+  "date": "2022-12-19",
+  "subtotal": 399.98,
+  "tax": 16.05,
+  "discount": 2.44,
+  "total": 413.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$79.78",
+      "line_total": "$79.78"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$15.72",
+      "line_total": "$62.88"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$1.73",
+      "line_total": "$1.73"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$23.48",
+      "line_total": "$70.44"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$68.23",
+      "line_total": "$136.46"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$16.23",
+      "line_total": "$48.69"
+    }
+  ],
+  "sample_id": "receipt_0066"
+}

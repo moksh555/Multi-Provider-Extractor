@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Gabrielle Diaz
+Passport No: P67129492
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P67129492",
+  "full_name": "Gabrielle Diaz",
+  "nationality": "GB",
+  "date_of_birth": "2000-07-28",
+  "issue_date": "2022-05-23",
+  "expiry_date": "2032-05-23",
+  "place_of_birth": "North Kimfurt",
+  "sample_id": "passport_0142"
+}

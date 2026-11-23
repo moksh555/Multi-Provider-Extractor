@@ -1,0 +1,16 @@
+Insurance Policy POL-5RTWIYKID
+Holder: Thomas Henry
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5RTWIYKID",
+  "policy_holder": "Thomas Henry",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-07-21",
+  "expiry_date": "2027-07-21",
+  "premium": 1795.26,
+  "coverage_amount": 59248.55,
+  "beneficiary": "Samuel Hayes",
+  "sample_id": "insurance_document_0069"
+}

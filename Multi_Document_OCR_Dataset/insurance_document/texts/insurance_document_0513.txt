@@ -1,0 +1,16 @@
+Insurance Policy POL-Z6YTIPA87
+Holder: Todd Yang
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z6YTIPA87",
+  "policy_holder": "Todd Yang",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-09-08",
+  "expiry_date": "2025-09-08",
+  "premium": 334.8,
+  "coverage_amount": 413126.79,
+  "beneficiary": "Zachary Perry",
+  "sample_id": "insurance_document_0513"
+}

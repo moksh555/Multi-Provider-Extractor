@@ -1,0 +1,55 @@
+Receipt RCT-5WSEVI9V
+Merchant: Johnson, Schneider and Flores
+Date: 2024-01-23
+Total: $689.71
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5WSEVI9V",
+  "merchant_name": "Johnson, Schneider and Flores",
+  "date": "2024-01-23",
+  "subtotal": 632.42,
+  "tax": 63.33,
+  "discount": 6.04,
+  "total": 689.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$13.48",
+      "line_total": "$26.96"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$49.70",
+      "line_total": "$149.10"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$63.21",
+      "line_total": "$252.84"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$20.69",
+      "line_total": "$62.07"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$14.13",
+      "line_total": "$28.26"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$37.73",
+      "line_total": "$113.19"
+    }
+  ],
+  "sample_id": "receipt_0930"
+}

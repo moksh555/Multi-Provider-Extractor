@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL078573154",
+  "full_name": "Joy Gonzalez",
+  "date_of_birth": "1995-02-10",
+  "class": "D",
+  "issue_date": "2022-02-28",
+  "expiry_date": "2027-02-28",
+  "address": "92501 Mindy Plaza Suite 525, Piercechester, SD 42953",
+  "sample_id": "driving_license_0785"
+}

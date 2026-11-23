@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Q0NJVJPC",
+  "account_holder": "Benjamin Mcgee",
+  "account_number_masked": "****3823",
+  "period_start": "2025-12-25",
+  "period_end": "2026-01-24",
+  "opening_balance": 4288.82,
+  "closing_balance": 4474.27,
+  "transactions": 14,
+  "sample_id": "bank_statement_0388"
+}

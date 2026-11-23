@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL559768584",
+  "full_name": "Nichole Johnson",
+  "date_of_birth": "1961-02-22",
+  "class": "A",
+  "issue_date": "2025-11-11",
+  "expiry_date": "2030-11-11",
+  "address": "3344 Mejia Skyway, West Edwardview, DE 02500",
+  "sample_id": "driving_license_0308"
+}

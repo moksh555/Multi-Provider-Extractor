@@ -1,0 +1,14 @@
+Medical Report MED-L9PVSBLV
+Patient: Alexandra Fisher
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-L9PVSBLV",
+  "patient_name": "Alexandra Fisher",
+  "visit_date": "2026-07-20",
+  "doctor_name": "Dr. Jessica Mata",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0575"
+}

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V60VAIY4",
+  "merchant_name": "Daniels-Perry",
+  "date": "2021-03-26",
+  "subtotal": 1238.37,
+  "tax": 98.46,
+  "discount": 6.82,
+  "total": 1330.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$61.29",
+      "line_total": "$61.29"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$42.00",
+      "line_total": "$168.00"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$15.34",
+      "line_total": "$46.02"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$77.56",
+      "line_total": "$310.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$33.26",
+      "line_total": "$99.78"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$68.76",
+      "line_total": "$68.76"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$55.80",
+      "line_total": "$223.20"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$65.27",
+      "line_total": "$261.08"
+    }
+  ],
+  "sample_id": "receipt_0029"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-02B6LKC86
+Holder: Michael Padilla
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-02B6LKC86",
+  "policy_holder": "Michael Padilla",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-03-23",
+  "expiry_date": "2026-03-23",
+  "premium": 2364.73,
+  "coverage_amount": 364874.88,
+  "beneficiary": "Paul Johnson",
+  "sample_id": "insurance_document_0508"
+}

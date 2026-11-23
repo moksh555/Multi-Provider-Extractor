@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HYLGOGFX",
+  "merchant_name": "Conley Ltd",
+  "date": "2024-08-26",
+  "subtotal": 850.53,
+  "tax": 52.58,
+  "discount": 12.08,
+  "total": 891.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$62.60",
+      "line_total": "$250.40"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$74.69",
+      "line_total": "$149.38"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$30.29",
+      "line_total": "$90.87"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$58.41",
+      "line_total": "$175.23"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$25.33",
+      "line_total": "$101.32"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$1.45",
+      "line_total": "$5.80"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$77.53",
+      "line_total": "$77.53"
+    }
+  ],
+  "sample_id": "receipt_0403"
+}

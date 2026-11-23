@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XNS8EHIV",
+  "account_holder": "Jennifer Reilly",
+  "account_number_masked": "****5251",
+  "period_start": "2025-11-18",
+  "period_end": "2025-12-18",
+  "opening_balance": 4245.82,
+  "closing_balance": 6560.97,
+  "transactions": 11,
+  "sample_id": "bank_statement_0221"
+}

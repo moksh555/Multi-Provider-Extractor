@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL703419729",
+  "full_name": "Wanda Todd",
+  "date_of_birth": "1973-10-08",
+  "class": "B",
+  "issue_date": "2021-10-22",
+  "expiry_date": "2026-10-22",
+  "address": "3861 Marcus Turnpike Apt. 472, South Heather, LA 19483",
+  "sample_id": "driving_license_0498"
+}

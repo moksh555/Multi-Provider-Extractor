@@ -1,0 +1,14 @@
+Medical Report MED-2A5AMLHE
+Patient: Tammy Hernandez
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2A5AMLHE",
+  "patient_name": "Tammy Hernandez",
+  "visit_date": "2024-01-23",
+  "doctor_name": "Dr. Nancy Jackson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0515"
+}

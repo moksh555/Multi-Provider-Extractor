@@ -1,0 +1,16 @@
+Bank Statement STM-0RXCIOFO
+Holder: Natasha Keller
+Closing Balance: $5390.19
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0RXCIOFO",
+  "account_holder": "Natasha Keller",
+  "account_number_masked": "****2149",
+  "period_start": "2025-11-16",
+  "period_end": "2025-12-16",
+  "opening_balance": 3204.41,
+  "closing_balance": 5390.19,
+  "transactions": 8,
+  "sample_id": "bank_statement_0779"
+}

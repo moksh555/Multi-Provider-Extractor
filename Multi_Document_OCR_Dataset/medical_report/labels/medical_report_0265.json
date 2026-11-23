@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-J3OFOWR4",
+  "patient_name": "Sandra Brooks",
+  "visit_date": "2024-04-05",
+  "doctor_name": "Dr. Nathan Booth",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0265"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Julie Edwards
+License: DL433690770
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL433690770",
+  "full_name": "Julie Edwards",
+  "date_of_birth": "1981-07-02",
+  "class": "D",
+  "issue_date": "2022-11-02",
+  "expiry_date": "2027-11-02",
+  "address": "05634 Dan Lake Suite 034, New Daniel, IL 78765",
+  "sample_id": "driving_license_0545"
+}

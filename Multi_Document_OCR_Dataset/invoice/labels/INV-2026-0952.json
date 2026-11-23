@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0952",
+  "invoice_number": "INV-2026-0952",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "14 Mirpur DOHS, Riyadh, Saudi Arabia",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "99 Al Barsha, Doha, Qatar",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-14",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 11,
+      "unit_price": 245.34,
+      "amount": 2698.74
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 69.65,
+      "amount": 696.5
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 3,
+      "unit_price": 807.72,
+      "amount": 2423.16
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 9,
+      "unit_price": 371.06,
+      "amount": 3339.54
+    }
+  ],
+  "subtotal": 9157.94,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 686.85,
+  "shipping": 50,
+  "total": 9894.79,
+  "amount_paid": 0,
+  "balance_due": 9894.79,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801445046924",
+  "po_number": "PO-67706"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0119
+Company: BrightStar Electronics
+Company Address: 133 Mirpur DOHS, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 212 Doha Business Park, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-28
+Due Date: 2026-06-04
+Currency: QAR
+Subtotal: 13907.78
+Tax: 0.0
+Total: 12567.0
+Balance Due: 7021.89
+Status: partial

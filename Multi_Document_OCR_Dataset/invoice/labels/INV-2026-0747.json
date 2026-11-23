@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0747",
+  "invoice_number": "INV-2026-0747",
+  "company_name": "CityBanking Supplies",
+  "company_address": "167 Zindabazar Road, Doha, Qatar",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "8 Dhanmondi 27, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-27",
+  "due_date": "2026-03-13",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 4,
+      "unit_price": 216.88,
+      "amount": 867.52
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 8,
+      "unit_price": 816.51,
+      "amount": 6532.08
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 11,
+      "unit_price": 610.43,
+      "amount": 6714.73
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 2,
+      "unit_price": 460.07,
+      "amount": 920.14
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 5,
+      "unit_price": 259.13,
+      "amount": 1295.65
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 166.34,
+      "amount": 1164.38
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 2,
+      "unit_price": 117.51,
+      "amount": 235.02
+    }
+  ],
+  "subtotal": 17729.52,
+  "discount": 886.48,
+  "tax_rate": 0.05,
+  "tax": 842.15,
+  "shipping": 0,
+  "total": 17685.19,
+  "amount_paid": 0,
+  "balance_due": 17685.19,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801505195794",
+  "po_number": "PO-38383"
+}

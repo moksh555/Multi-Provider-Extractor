@@ -1,0 +1,16 @@
+Bank Statement STM-ILGONJPX
+Holder: Jennifer King
+Closing Balance: $5544.82
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ILGONJPX",
+  "account_holder": "Jennifer King",
+  "account_number_masked": "****4481",
+  "period_start": "2025-05-24",
+  "period_end": "2025-06-23",
+  "opening_balance": 3644.96,
+  "closing_balance": 5544.82,
+  "transactions": 12,
+  "sample_id": "bank_statement_0094"
+}

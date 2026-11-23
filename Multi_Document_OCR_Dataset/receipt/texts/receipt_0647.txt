@@ -1,0 +1,49 @@
+Receipt RCT-OV9CPWRU
+Merchant: Trevino, Haney and Miller
+Date: 2026-02-17
+Total: $381.98
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OV9CPWRU",
+  "merchant_name": "Trevino, Haney and Miller",
+  "date": "2026-02-17",
+  "subtotal": 355.87,
+  "tax": 34.16,
+  "discount": 8.05,
+  "total": 381.98,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$45.17",
+      "line_total": "$135.51"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$22.79",
+      "line_total": "$91.16"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$9.89",
+      "line_total": "$29.67"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$23.83",
+      "line_total": "$47.66"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$17.29",
+      "line_total": "$51.87"
+    }
+  ],
+  "sample_id": "receipt_0647"
+}

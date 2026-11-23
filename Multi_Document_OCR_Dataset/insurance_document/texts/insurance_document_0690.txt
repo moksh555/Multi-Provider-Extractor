@@ -1,0 +1,16 @@
+Insurance Policy POL-B853GQD7W
+Holder: Stacey Stone
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B853GQD7W",
+  "policy_holder": "Stacey Stone",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-08-29",
+  "expiry_date": "2026-08-29",
+  "premium": 2475.35,
+  "coverage_amount": 108979.57,
+  "beneficiary": "John Harris",
+  "sample_id": "insurance_document_0690"
+}

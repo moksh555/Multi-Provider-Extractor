@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0188",
+  "invoice_number": "INV-2026-0188",
+  "company_name": "Golden Harvest Store",
+  "company_address": "55 Doha Business Park, Dhaka, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "32 Uttara Sector 7, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-19",
+  "due_date": "2026-04-05",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 4,
+      "unit_price": 83.75,
+      "amount": 335.0
+    },
+    {
+      "description": "API Integration",
+      "quantity": 11,
+      "unit_price": 263.28,
+      "amount": 2896.08
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 4,
+      "unit_price": 833.26,
+      "amount": 3333.04
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 244.4,
+      "amount": 244.4
+    },
+    {
+      "description": "API Integration",
+      "quantity": 4,
+      "unit_price": 14.01,
+      "amount": 56.04
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 2,
+      "unit_price": 740.47,
+      "amount": 1480.94
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 423.96,
+      "amount": 3815.64
+    }
+  ],
+  "subtotal": 12161.14,
+  "discount": 243.22,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 11942.92,
+  "amount_paid": 0,
+  "balance_due": 11942.92,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801656501025",
+  "po_number": "PO-25716"
+}

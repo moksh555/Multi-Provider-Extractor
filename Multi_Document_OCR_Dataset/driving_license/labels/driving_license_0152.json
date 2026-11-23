@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL125292227",
+  "full_name": "Miss Anna Estes",
+  "date_of_birth": "1988-06-10",
+  "class": "C",
+  "issue_date": "2025-05-19",
+  "expiry_date": "2030-05-19",
+  "address": "2232 Poole Trace, Burnsshire, SC 35722",
+  "sample_id": "driving_license_0152"
+}

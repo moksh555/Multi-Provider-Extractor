@@ -1,0 +1,16 @@
+Bank Statement STM-0KDN3TN6
+Holder: George Edwards
+Closing Balance: $7982.94
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0KDN3TN6",
+  "account_holder": "George Edwards",
+  "account_number_masked": "****5777",
+  "period_start": "2024-10-25",
+  "period_end": "2024-11-24",
+  "opening_balance": 1943.2,
+  "closing_balance": 7982.94,
+  "transactions": 13,
+  "sample_id": "bank_statement_0029"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-H5BZF0ZR",
+  "patient_name": "James Martinez",
+  "visit_date": "2024-12-04",
+  "doctor_name": "Dr. Rachel Salazar",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0843"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-M8J5ECRUY
+Holder: Karla Ramos
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M8J5ECRUY",
+  "policy_holder": "Karla Ramos",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-11-02",
+  "expiry_date": "2024-11-02",
+  "premium": 2050.52,
+  "coverage_amount": 475071.56,
+  "beneficiary": "Paul Wilson",
+  "sample_id": "insurance_document_0053"
+}

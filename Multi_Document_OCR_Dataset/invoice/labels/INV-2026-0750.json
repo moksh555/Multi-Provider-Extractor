@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0750",
+  "invoice_number": "INV-2026-0750",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "153 Agrabad C/A, Sylhet, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "113 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-02",
+  "due_date": "2026-02-16",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 11,
+      "unit_price": 600.96,
+      "amount": 6610.56
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 296.07,
+      "amount": 1184.28
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 3,
+      "unit_price": 170.4,
+      "amount": 511.2
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 428.75,
+      "amount": 3430.0
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 1,
+      "unit_price": 222.45,
+      "amount": 222.45
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 6,
+      "unit_price": 454.88,
+      "amount": 2729.28
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 8,
+      "unit_price": 191.83,
+      "amount": 1534.64
+    }
+  ],
+  "subtotal": 16222.41,
+  "discount": 324.45,
+  "tax_rate": 0.05,
+  "tax": 794.9,
+  "shipping": 0,
+  "total": 16692.86,
+  "amount_paid": 0,
+  "balance_due": 16692.86,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801268139493",
+  "po_number": "PO-12793"
+}

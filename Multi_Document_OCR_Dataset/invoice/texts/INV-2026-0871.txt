@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0871
+Company: Atlas Engineering Ltd.
+Company Address: 161 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 112 Uttara Sector 7, Doha, Qatar
+Invoice Date: 2026-06-05
+Due Date: 2026-06-12
+Currency: USD
+Subtotal: 4953.09
+Tax: 235.27
+Total: 4990.71
+Balance Due: 0.0
+Status: paid

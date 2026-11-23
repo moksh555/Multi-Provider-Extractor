@@ -1,0 +1,16 @@
+Insurance Policy POL-F7I8SKCH8
+Holder: Hailey Cunningham
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F7I8SKCH8",
+  "policy_holder": "Hailey Cunningham",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-09-14",
+  "expiry_date": "2024-09-14",
+  "premium": 1607.55,
+  "coverage_amount": 311069.86,
+  "beneficiary": "Devin Johnson",
+  "sample_id": "insurance_document_0127"
+}

@@ -1,0 +1,27 @@
+Resume
+Robert Martinez
+Backend Developer
+Skills: Computer Vision, FastAPI, Python, NLP, Pandas, Docker, TensorFlow, PyTorch, Machine Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Robert Martinez",
+  "email": "tharris@example.net",
+  "phone": "625-581-9366",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "FastAPI",
+    "Python",
+    "NLP",
+    "Pandas",
+    "Docker",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0632"
+}

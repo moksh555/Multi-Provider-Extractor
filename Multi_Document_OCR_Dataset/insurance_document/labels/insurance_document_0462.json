@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XZU1EMTX0",
+  "policy_holder": "James Washington",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-12-10",
+  "expiry_date": "2027-12-10",
+  "premium": 619.31,
+  "coverage_amount": 375058.19,
+  "beneficiary": "Eric Hall",
+  "sample_id": "insurance_document_0462"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-7TC13H4U
+Patient: Stephanie Conway
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7TC13H4U",
+  "patient_name": "Stephanie Conway",
+  "visit_date": "2026-12-27",
+  "doctor_name": "Dr. Michael White",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0345"
+}

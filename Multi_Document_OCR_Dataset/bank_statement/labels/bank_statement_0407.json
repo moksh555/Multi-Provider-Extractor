@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9MH4QX49",
+  "account_holder": "Jeremiah Robinson",
+  "account_number_masked": "****6988",
+  "period_start": "2026-01-25",
+  "period_end": "2026-02-24",
+  "opening_balance": 530.18,
+  "closing_balance": 4762.66,
+  "transactions": 10,
+  "sample_id": "bank_statement_0407"
+}

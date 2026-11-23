@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL351101887",
+  "full_name": "Alexis Cervantes",
+  "date_of_birth": "1998-08-02",
+  "class": "C",
+  "issue_date": "2023-03-04",
+  "expiry_date": "2028-03-04",
+  "address": "177 Jenkins Knoll Suite 851, South Ross, HI 72951",
+  "sample_id": "driving_license_0559"
+}

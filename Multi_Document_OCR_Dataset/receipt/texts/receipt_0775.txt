@@ -1,0 +1,43 @@
+Receipt RCT-8A906K37
+Merchant: Hines-Edwards
+Date: 2022-07-05
+Total: $635.79
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8A906K37",
+  "merchant_name": "Hines-Edwards",
+  "date": "2022-07-05",
+  "subtotal": 585.91,
+  "tax": 50.12,
+  "discount": 0.24,
+  "total": 635.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$22.22",
+      "line_total": "$44.44"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$72.07",
+      "line_total": "$72.07"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$77.78",
+      "line_total": "$311.12"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$39.57",
+      "line_total": "$158.28"
+    }
+  ],
+  "sample_id": "receipt_0775"
+}

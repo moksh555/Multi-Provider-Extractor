@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3G95P6DWC",
+  "policy_holder": "Sandy Reynolds",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-02-12",
+  "expiry_date": "2026-02-12",
+  "premium": 416.74,
+  "coverage_amount": 41488.59,
+  "beneficiary": "Sandra Moore",
+  "sample_id": "insurance_document_0640"
+}

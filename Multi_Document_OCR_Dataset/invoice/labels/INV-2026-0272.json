@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0272",
+  "invoice_number": "INV-2026-0272",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "190 Gulshan Avenue, Dubai, UAE",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "228 Motijheel C/A, Dubai, UAE",
+  "invoice_date": "2026-03-09",
+  "due_date": "2026-03-16",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 12,
+      "unit_price": 70.6,
+      "amount": 847.2
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 290.35,
+      "amount": 2613.15
+    }
+  ],
+  "subtotal": 3460.35,
+  "discount": 69.21,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 3401.14,
+  "amount_paid": 1922.71,
+  "balance_due": 1478.43,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801606801751",
+  "po_number": "PO-58696"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZHH3O5URT",
+  "policy_holder": "Brenda Velasquez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-10-08",
+  "expiry_date": "2027-10-08",
+  "premium": 1744.07,
+  "coverage_amount": 286918.71,
+  "beneficiary": "Michael Miller",
+  "sample_id": "insurance_document_0580"
+}

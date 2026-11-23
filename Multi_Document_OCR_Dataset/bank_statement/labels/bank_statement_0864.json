@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MMY45LFG",
+  "account_holder": "Mrs. Miranda Johnston",
+  "account_number_masked": "****1143",
+  "period_start": "2026-10-08",
+  "period_end": "2026-11-07",
+  "opening_balance": 2035.75,
+  "closing_balance": 3800.44,
+  "transactions": 8,
+  "sample_id": "bank_statement_0864"
+}

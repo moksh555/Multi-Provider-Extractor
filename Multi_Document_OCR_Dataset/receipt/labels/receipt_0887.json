@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VDM63L95",
+  "merchant_name": "Morton, Willis and Miller",
+  "date": "2021-04-05",
+  "subtotal": 906.78,
+  "tax": 78.99,
+  "discount": 14.58,
+  "total": 971.19,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$2.26",
+      "line_total": "$9.04"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$23.75",
+      "line_total": "$23.75"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$63.51",
+      "line_total": "$127.02"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$2.01",
+      "line_total": "$6.03"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$71.03",
+      "line_total": "$213.09"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$76.41",
+      "line_total": "$305.64"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$4.29",
+      "line_total": "$12.87"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$69.78",
+      "line_total": "$209.34"
+    }
+  ],
+  "sample_id": "receipt_0887"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-7S6FG8YS",
+  "patient_name": "Michael Mills",
+  "visit_date": "2026-11-10",
+  "doctor_name": "Dr. Joseph Spencer DDS",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0259"
+}

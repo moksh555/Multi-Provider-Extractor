@@ -1,0 +1,16 @@
+Insurance Policy POL-YLU6K7P9M
+Holder: Katie Brown
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YLU6K7P9M",
+  "policy_holder": "Katie Brown",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-04-08",
+  "expiry_date": "2027-04-08",
+  "premium": 139.32,
+  "coverage_amount": 493346.61,
+  "beneficiary": "Brent Wong",
+  "sample_id": "insurance_document_0419"
+}

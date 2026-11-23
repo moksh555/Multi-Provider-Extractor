@@ -1,0 +1,16 @@
+Insurance Policy POL-J7HME6P4N
+Holder: Emily Jones
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J7HME6P4N",
+  "policy_holder": "Emily Jones",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-03-03",
+  "expiry_date": "2025-03-03",
+  "premium": 1025.39,
+  "coverage_amount": 228938.07,
+  "beneficiary": "Abigail Hood",
+  "sample_id": "insurance_document_0933"
+}

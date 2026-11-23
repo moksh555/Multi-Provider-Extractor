@@ -1,0 +1,27 @@
+Resume
+Michael Curry
+Backend Developer
+Skills: Pandas, TensorFlow, Streamlit, SQL, AWS, FastAPI, LangChain, NLP, Deep Learning, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Curry",
+  "email": "stephaniewilson@example.org",
+  "phone": "559.363.7311x493",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "Pandas",
+    "TensorFlow",
+    "Streamlit",
+    "SQL",
+    "AWS",
+    "FastAPI",
+    "LangChain",
+    "NLP",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0434"
+}

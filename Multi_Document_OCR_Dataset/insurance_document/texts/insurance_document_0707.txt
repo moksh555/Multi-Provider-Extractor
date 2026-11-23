@@ -1,0 +1,16 @@
+Insurance Policy POL-Q293EP0FL
+Holder: David Taylor
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Q293EP0FL",
+  "policy_holder": "David Taylor",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-01-08",
+  "expiry_date": "2025-01-08",
+  "premium": 1946.73,
+  "coverage_amount": 182778.29,
+  "beneficiary": "Alicia Brown",
+  "sample_id": "insurance_document_0707"
+}

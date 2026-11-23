@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0323
+Company: BrightStar Electronics
+Company Address: 22 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 13 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-02-18
+Due Date: 2026-03-20
+Currency: QAR
+Subtotal: 14087.69
+Tax: 1267.89
+Total: 13946.81
+Balance Due: 0.0
+Status: paid

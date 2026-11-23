@@ -1,0 +1,16 @@
+Insurance Policy POL-KPGGERSDU
+Holder: Christina Phillips
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KPGGERSDU",
+  "policy_holder": "Christina Phillips",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-01-16",
+  "expiry_date": "2025-01-16",
+  "premium": 598.24,
+  "coverage_amount": 377458.71,
+  "beneficiary": "Jerry Montgomery",
+  "sample_id": "insurance_document_0639"
+}

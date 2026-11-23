@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0837",
+  "invoice_number": "INV-2026-0837",
+  "company_name": "CityBanking Supplies",
+  "company_address": "138 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "101 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-09",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 112.93,
+      "amount": 1129.3
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 8,
+      "unit_price": 754.78,
+      "amount": 6038.24
+    },
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 809.29,
+      "amount": 8092.9
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 813.45,
+      "amount": 4067.25
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 846.75,
+      "amount": 1693.5
+    }
+  ],
+  "subtotal": 21021.19,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 3153.18,
+  "shipping": 5,
+  "total": 24179.37,
+  "amount_paid": 24179.37,
+  "balance_due": 0.0,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801775001582",
+  "po_number": "PO-38519"
+}

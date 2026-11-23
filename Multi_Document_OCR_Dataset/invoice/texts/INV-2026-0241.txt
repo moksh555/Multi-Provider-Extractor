@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0241
+Company: CityBanking Supplies
+Company Address: 175 Doha Business Park, Riyadh, Saudi Arabia
+Customer: Digital Learning Hub
+Billing Address: 102 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-02-27
+Due Date: 2026-03-29
+Currency: AED
+Subtotal: 17698.57
+Tax: 1261.02
+Total: 18084.66
+Balance Due: 6071.47
+Status: partial

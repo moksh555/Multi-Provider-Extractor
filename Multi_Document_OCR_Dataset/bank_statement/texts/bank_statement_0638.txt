@@ -1,0 +1,16 @@
+Bank Statement STM-VXHX4NWL
+Holder: Mary Choi
+Closing Balance: $1882.44
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VXHX4NWL",
+  "account_holder": "Mary Choi",
+  "account_number_masked": "****9685",
+  "period_start": "2025-07-26",
+  "period_end": "2025-08-25",
+  "opening_balance": 1235.89,
+  "closing_balance": 1882.44,
+  "transactions": 12,
+  "sample_id": "bank_statement_0638"
+}

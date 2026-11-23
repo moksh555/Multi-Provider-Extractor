@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7FKNDG1JR",
+  "policy_holder": "David Casey",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-06-24",
+  "expiry_date": "2026-06-24",
+  "premium": 1667.7,
+  "coverage_amount": 78819.15,
+  "beneficiary": "Jared James",
+  "sample_id": "insurance_document_0723"
+}

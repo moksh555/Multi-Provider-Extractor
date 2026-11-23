@@ -1,0 +1,26 @@
+Resume
+Sierra Smith
+Data Analyst
+Skills: NLP, TensorFlow, Pandas, PyTorch, Deep Learning, SQL, FastAPI, Streamlit, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Sierra Smith",
+  "email": "robertsonjennifer@example.com",
+  "phone": "778.648.1652x444",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "NLP",
+    "TensorFlow",
+    "Pandas",
+    "PyTorch",
+    "Deep Learning",
+    "SQL",
+    "FastAPI",
+    "Streamlit",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0001"
+}

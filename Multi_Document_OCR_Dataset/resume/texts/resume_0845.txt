@@ -1,0 +1,27 @@
+Resume
+Katherine Gutierrez
+Software Engineer
+Skills: Machine Learning, SQL, NLP, Computer Vision, Pandas, Deep Learning, PyTorch, TensorFlow, LangChain, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Katherine Gutierrez",
+  "email": "millerallen@example.com",
+  "phone": "+1-497-774-0097x0183",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Machine Learning",
+    "SQL",
+    "NLP",
+    "Computer Vision",
+    "Pandas",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow",
+    "LangChain",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0845"
+}

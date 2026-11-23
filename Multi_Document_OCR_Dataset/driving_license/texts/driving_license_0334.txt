@@ -1,0 +1,16 @@
+Synthetic Driving License
+Corey Cortez
+License: DL825163685
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL825163685",
+  "full_name": "Corey Cortez",
+  "date_of_birth": "1993-10-05",
+  "class": "D",
+  "issue_date": "2022-07-01",
+  "expiry_date": "2027-07-01",
+  "address": "1847 Levy Brook Apt. 505, South Davidhaven, NH 89378",
+  "sample_id": "driving_license_0334"
+}

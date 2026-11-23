@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0599",
+  "invoice_number": "INV-2026-0599",
+  "company_name": "CityBanking Supplies",
+  "company_address": "40 Al Barsha, Riyadh, Saudi Arabia",
+  "customer_name": "TechPoint BD",
+  "billing_address": "240 Al Barsha, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-06",
+  "due_date": "2026-05-13",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 22.48,
+      "amount": 202.32
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 1,
+      "unit_price": 761.55,
+      "amount": 761.55
+    }
+  ],
+  "subtotal": 963.87,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 144.58,
+  "shipping": 0,
+  "total": 1108.45,
+  "amount_paid": 0,
+  "balance_due": 1108.45,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801289203775",
+  "po_number": "PO-99244"
+}

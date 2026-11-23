@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7DV7C9HX",
+  "merchant_name": "Gross-Valencia",
+  "date": "2022-06-12",
+  "subtotal": 179.4,
+  "tax": 11.56,
+  "discount": 6.4,
+  "total": 184.56,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$4.37",
+      "line_total": "$4.37"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$14.27",
+      "line_total": "$14.27"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$40.19",
+      "line_total": "$160.76"
+    }
+  ],
+  "sample_id": "receipt_0101"
+}

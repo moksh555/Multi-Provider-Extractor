@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lauren Blackburn
+License: DL780876132
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL780876132",
+  "full_name": "Lauren Blackburn",
+  "date_of_birth": "1973-10-29",
+  "class": "D",
+  "issue_date": "2024-09-29",
+  "expiry_date": "2029-09-29",
+  "address": "168 Gutierrez Ways, East Victoria, MA 54134",
+  "sample_id": "driving_license_0197"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-F6A9XCXB
+Holder: Gabriel Wilkins
+Closing Balance: $943.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F6A9XCXB",
+  "account_holder": "Gabriel Wilkins",
+  "account_number_masked": "****0761",
+  "period_start": "2026-12-31",
+  "period_end": "2027-01-30",
+  "opening_balance": 850.14,
+  "closing_balance": 943.38,
+  "transactions": 10,
+  "sample_id": "bank_statement_0560"
+}

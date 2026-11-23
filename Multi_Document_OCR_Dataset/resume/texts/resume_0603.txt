@@ -1,0 +1,24 @@
+Resume
+Allison Sanchez
+Computer Vision Engineer
+Skills: Python, Deep Learning, SQL, Computer Vision, LangChain, Streamlit, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Allison Sanchez",
+  "email": "jessicarandall@example.com",
+  "phone": "+1-803-377-9170x37930",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Python",
+    "Deep Learning",
+    "SQL",
+    "Computer Vision",
+    "LangChain",
+    "Streamlit",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0603"
+}

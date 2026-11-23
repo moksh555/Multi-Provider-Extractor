@@ -1,0 +1,16 @@
+Bank Statement STM-5NBTI1NC
+Holder: Kristin Hudson
+Closing Balance: $8026.03
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5NBTI1NC",
+  "account_holder": "Kristin Hudson",
+  "account_number_masked": "****8943",
+  "period_start": "2025-12-31",
+  "period_end": "2026-01-30",
+  "opening_balance": 3807.79,
+  "closing_balance": 8026.03,
+  "transactions": 13,
+  "sample_id": "bank_statement_0218"
+}

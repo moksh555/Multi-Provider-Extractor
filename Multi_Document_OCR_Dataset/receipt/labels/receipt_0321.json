@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-O3Z0ANIK",
+  "merchant_name": "Torres, Harding and Graham",
+  "date": "2023-12-20",
+  "subtotal": 340.33,
+  "tax": 22.2,
+  "discount": 9.24,
+  "total": 353.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$1.33",
+      "line_total": "$2.66"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$2.23",
+      "line_total": "$2.23"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$67.42",
+      "line_total": "$202.26"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$14.46",
+      "line_total": "$43.38"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$44.90",
+      "line_total": "$89.80"
+    }
+  ],
+  "sample_id": "receipt_0321"
+}

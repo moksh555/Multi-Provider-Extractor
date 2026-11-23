@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kelly Hughes
+Passport No: P66331355
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P66331355",
+  "full_name": "Kelly Hughes",
+  "nationality": "CA",
+  "date_of_birth": "1991-02-16",
+  "issue_date": "2020-01-07",
+  "expiry_date": "2030-01-07",
+  "place_of_birth": "Savageland",
+  "sample_id": "passport_0203"
+}

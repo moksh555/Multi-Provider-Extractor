@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Austin Duncan
+Passport No: P49238302
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P49238302",
+  "full_name": "Austin Duncan",
+  "nationality": "BD",
+  "date_of_birth": "1974-05-18",
+  "issue_date": "2020-09-15",
+  "expiry_date": "2030-09-15",
+  "place_of_birth": "Amyfort",
+  "sample_id": "passport_0034"
+}

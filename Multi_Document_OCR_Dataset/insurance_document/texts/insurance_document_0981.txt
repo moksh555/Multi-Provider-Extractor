@@ -1,0 +1,16 @@
+Insurance Policy POL-WMQX327YC
+Holder: John Hale
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WMQX327YC",
+  "policy_holder": "John Hale",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-01-18",
+  "expiry_date": "2026-01-18",
+  "premium": 456.49,
+  "coverage_amount": 480589.66,
+  "beneficiary": "Kevin Roth",
+  "sample_id": "insurance_document_0981"
+}

@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Dean Cunningham",
+  "email": "qirwin@example.com",
+  "phone": "(379)508-7018x72600",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Streamlit",
+    "PyTorch",
+    "Docker",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0060"
+}

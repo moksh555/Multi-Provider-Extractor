@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NPMU2YEV",
+  "patient_name": "Joseph Taylor",
+  "visit_date": "2025-01-07",
+  "doctor_name": "Dr. John Marshall",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0219"
+}

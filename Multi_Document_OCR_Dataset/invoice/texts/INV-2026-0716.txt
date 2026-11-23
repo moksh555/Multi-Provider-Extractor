@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0716
+Company: Greenline Logistics
+Company Address: 41 Uttara Sector 7, Doha, Qatar
+Customer: Bengal Motors
+Billing Address: 100 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-04-21
+Due Date: 2026-04-28
+Currency: AED
+Subtotal: 13622.3
+Tax: 2043.34
+Total: 15670.64
+Balance Due: 5875.59
+Status: partial

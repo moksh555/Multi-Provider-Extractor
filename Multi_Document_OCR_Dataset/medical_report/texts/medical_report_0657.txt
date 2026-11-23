@@ -1,0 +1,14 @@
+Medical Report MED-MY2MS9GA
+Patient: Ronald Stevens
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MY2MS9GA",
+  "patient_name": "Ronald Stevens",
+  "visit_date": "2026-11-24",
+  "doctor_name": "Dr. Ashley Conner",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0657"
+}

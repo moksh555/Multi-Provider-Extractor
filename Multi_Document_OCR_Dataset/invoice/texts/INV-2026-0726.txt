@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0726
+Company: Nexus Digital Solutions
+Company Address: 43 Zindabazar Road, Dhaka, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 31 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-03-23
+Due Date: 2026-03-30
+Currency: QAR
+Subtotal: 13150.04
+Tax: 1775.26
+Total: 13660.3
+Balance Due: 13660.3
+Status: overdue

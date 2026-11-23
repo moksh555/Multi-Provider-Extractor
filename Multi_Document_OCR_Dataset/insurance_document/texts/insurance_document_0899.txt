@@ -1,0 +1,16 @@
+Insurance Policy POL-AVFWY8AV2
+Holder: Danielle Anderson
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AVFWY8AV2",
+  "policy_holder": "Danielle Anderson",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-02-04",
+  "expiry_date": "2027-02-04",
+  "premium": 1336.98,
+  "coverage_amount": 104585.47,
+  "beneficiary": "Kathryn Young",
+  "sample_id": "insurance_document_0899"
+}

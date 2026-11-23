@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-07HPNPK2",
+  "merchant_name": "Beck Ltd",
+  "date": "2026-05-23",
+  "subtotal": 1016.46,
+  "tax": 79.61,
+  "discount": 12.36,
+  "total": 1083.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$34.77",
+      "line_total": "$69.54"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$38.22",
+      "line_total": "$76.44"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$78.54",
+      "line_total": "$314.16"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$1.50",
+      "line_total": "$3.00"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$45.32",
+      "line_total": "$181.28"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$77.63",
+      "line_total": "$310.52"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$15.38",
+      "line_total": "$61.52"
+    }
+  ],
+  "sample_id": "receipt_0999"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-2ZJMFWXE
+Patient: Sandra Lewis
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2ZJMFWXE",
+  "patient_name": "Sandra Lewis",
+  "visit_date": "2025-07-11",
+  "doctor_name": "Dr. Sandra Holmes",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0242"
+}

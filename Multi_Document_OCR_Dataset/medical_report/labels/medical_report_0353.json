@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-0EUPZ4SB",
+  "patient_name": "James Brown",
+  "visit_date": "2026-11-07",
+  "doctor_name": "Dr. Cindy Howell",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0353"
+}

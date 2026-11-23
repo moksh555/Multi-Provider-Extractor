@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-Y6ER0UZN",
+  "patient_name": "Gregory Oliver",
+  "visit_date": "2026-03-31",
+  "doctor_name": "Dr. Ana Lee",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0363"
+}

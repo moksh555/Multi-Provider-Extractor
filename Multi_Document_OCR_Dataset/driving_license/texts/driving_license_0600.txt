@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kevin Richardson
+License: DL088284138
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL088284138",
+  "full_name": "Kevin Richardson",
+  "date_of_birth": "1997-06-18",
+  "class": "C",
+  "issue_date": "2025-05-24",
+  "expiry_date": "2030-05-24",
+  "address": "176 Hernandez Haven Suite 196, New Kevinmouth, AZ 46995",
+  "sample_id": "driving_license_0600"
+}

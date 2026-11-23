@@ -1,0 +1,23 @@
+Resume
+Anthony Kennedy
+Data Analyst
+Skills: SQL, NLP, Docker, PyTorch, Machine Learning, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Anthony Kennedy",
+  "email": "ryanmurphy@example.net",
+  "phone": "+1-468-501-9227x166",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "NLP",
+    "Docker",
+    "PyTorch",
+    "Machine Learning",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0978"
+}

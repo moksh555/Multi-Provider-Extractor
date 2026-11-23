@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL477294929",
+  "full_name": "Daniel Mcbride",
+  "date_of_birth": "1985-03-07",
+  "class": "A",
+  "issue_date": "2023-01-28",
+  "expiry_date": "2028-01-28",
+  "address": "8818 Escobar Shoals Suite 160, Samanthachester, CO 86732",
+  "sample_id": "driving_license_0861"
+}

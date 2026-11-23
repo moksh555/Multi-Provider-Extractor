@@ -1,0 +1,24 @@
+Resume
+Leah Brown
+Data Analyst
+Skills: FastAPI, TensorFlow, LangChain, Deep Learning, AWS, NLP, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Leah Brown",
+  "email": "jeffrey62@example.net",
+  "phone": "+1-294-266-4509x999",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "FastAPI",
+    "TensorFlow",
+    "LangChain",
+    "Deep Learning",
+    "AWS",
+    "NLP",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0065"
+}

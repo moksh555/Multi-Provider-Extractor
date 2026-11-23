@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0242",
+  "invoice_number": "INV-2026-0242",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "151 Mirpur DOHS, Sylhet, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "53 Gulshan Avenue, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-07",
+  "due_date": "2026-02-21",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 489.45,
+      "amount": 978.9
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 12,
+      "unit_price": 626.17,
+      "amount": 7514.04
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 539.72,
+      "amount": 5936.92
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 3,
+      "unit_price": 209.85,
+      "amount": 629.55
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 5,
+      "unit_price": 171.2,
+      "amount": 856.0
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 12,
+      "unit_price": 664.78,
+      "amount": 7977.36
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 5,
+      "unit_price": 563.09,
+      "amount": 2815.45
+    }
+  ],
+  "subtotal": 26708.22,
+  "discount": 2670.82,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 24042.4,
+  "amount_paid": 0,
+  "balance_due": 24042.4,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801966514512",
+  "po_number": "PO-80438"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Noah Chavez
+License: DL895694775
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL895694775",
+  "full_name": "Noah Chavez",
+  "date_of_birth": "1966-03-30",
+  "class": "C",
+  "issue_date": "2020-12-13",
+  "expiry_date": "2025-12-13",
+  "address": "745 Smith Knoll Suite 589, Rodriguezhaven, VA 84360",
+  "sample_id": "driving_license_0588"
+}

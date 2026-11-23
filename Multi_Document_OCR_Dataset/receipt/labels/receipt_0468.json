@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GTW4CY4F",
+  "merchant_name": "Sparks, Myers and Colon",
+  "date": "2021-10-06",
+  "subtotal": 521.25,
+  "tax": 54.87,
+  "discount": 3.37,
+  "total": 572.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$20.52",
+      "line_total": "$41.04"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$75.07",
+      "line_total": "$225.21"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$5.71",
+      "line_total": "$22.84"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$69.78",
+      "line_total": "$69.78"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$16.22",
+      "line_total": "$16.22"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$36.54",
+      "line_total": "$146.16"
+    }
+  ],
+  "sample_id": "receipt_0468"
+}

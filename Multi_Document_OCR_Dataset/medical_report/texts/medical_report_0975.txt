@@ -1,0 +1,14 @@
+Medical Report MED-DIRLPTPW
+Patient: Timothy Ritter
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DIRLPTPW",
+  "patient_name": "Timothy Ritter",
+  "visit_date": "2025-10-17",
+  "doctor_name": "Dr. Mrs. Stephanie Smith",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0975"
+}

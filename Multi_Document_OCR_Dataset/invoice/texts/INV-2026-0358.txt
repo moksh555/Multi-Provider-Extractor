@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0358
+Company: PrimeSoft Technologies
+Company Address: 41 Uttara Sector 7, Doha, Qatar
+Customer: Ocean Exporters
+Billing Address: 195 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-15
+Due Date: 2026-03-02
+Currency: QAR
+Subtotal: 8061.6
+Tax: 403.08
+Total: 8464.68
+Balance Due: 8464.68
+Status: unpaid

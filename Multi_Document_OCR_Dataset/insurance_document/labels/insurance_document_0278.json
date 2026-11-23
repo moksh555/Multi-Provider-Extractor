@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LZY1UU9YM",
+  "policy_holder": "Teresa Ruiz",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-11-10",
+  "expiry_date": "2027-11-10",
+  "premium": 1787.38,
+  "coverage_amount": 56668.65,
+  "beneficiary": "Ryan Love",
+  "sample_id": "insurance_document_0278"
+}

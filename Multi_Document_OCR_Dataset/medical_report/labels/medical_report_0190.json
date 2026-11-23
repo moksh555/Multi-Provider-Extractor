@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9L1OTARL",
+  "patient_name": "Allison Clark",
+  "visit_date": "2026-07-29",
+  "doctor_name": "Dr. Tiffany Schwartz",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0190"
+}

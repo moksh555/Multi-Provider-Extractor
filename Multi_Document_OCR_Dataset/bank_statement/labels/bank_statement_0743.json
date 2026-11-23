@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WOCKI4MH",
+  "account_holder": "Phillip Miller",
+  "account_number_masked": "****1683",
+  "period_start": "2026-11-14",
+  "period_end": "2026-12-14",
+  "opening_balance": 3321.19,
+  "closing_balance": 6993.76,
+  "transactions": 13,
+  "sample_id": "bank_statement_0743"
+}

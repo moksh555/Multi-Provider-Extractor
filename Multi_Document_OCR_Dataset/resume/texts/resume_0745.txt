@@ -1,0 +1,26 @@
+Resume
+Heather Jenkins
+Computer Vision Engineer
+Skills: Deep Learning, LangChain, Docker, Python, PyTorch, FastAPI, Computer Vision, Machine Learning, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Heather Jenkins",
+  "email": "tiffany26@example.net",
+  "phone": "(576)580-9405x96470",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "LangChain",
+    "Docker",
+    "Python",
+    "PyTorch",
+    "FastAPI",
+    "Computer Vision",
+    "Machine Learning",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0745"
+}

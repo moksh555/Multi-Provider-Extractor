@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0431",
+  "invoice_number": "INV-2026-0431",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "192 Road 12, Banani, Riyadh, Saudi Arabia",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "139 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-05",
+  "due_date": "2026-07-20",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 1,
+      "unit_price": 333.53,
+      "amount": 333.53
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 6,
+      "unit_price": 613.56,
+      "amount": 3681.36
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 232.62,
+      "amount": 697.86
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 6,
+      "unit_price": 721.82,
+      "amount": 4330.92
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 38.11,
+      "amount": 38.11
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 9,
+      "unit_price": 66.2,
+      "amount": 595.8
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 8,
+      "unit_price": 407.25,
+      "amount": 3258.0
+    }
+  ],
+  "subtotal": 12935.58,
+  "discount": 258.71,
+  "tax_rate": 0.075,
+  "tax": 950.77,
+  "shipping": 5,
+  "total": 13632.64,
+  "amount_paid": 13632.64,
+  "balance_due": 0.0,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801983129924",
+  "po_number": "PO-82530"
+}

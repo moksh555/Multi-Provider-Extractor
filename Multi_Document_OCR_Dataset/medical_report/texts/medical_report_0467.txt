@@ -1,0 +1,14 @@
+Medical Report MED-R9VMMASX
+Patient: Mark Williams
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-R9VMMASX",
+  "patient_name": "Mark Williams",
+  "visit_date": "2025-02-26",
+  "doctor_name": "Dr. Charles Williams",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0467"
+}

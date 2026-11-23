@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-K8P4Q0B8I",
+  "policy_holder": "Sandra Leach",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-08-27",
+  "expiry_date": "2027-08-27",
+  "premium": 215.81,
+  "coverage_amount": 25204.7,
+  "beneficiary": "Crystal Pham",
+  "sample_id": "insurance_document_0042"
+}

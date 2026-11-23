@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Alexandra Smith
+Passport No: P37225493
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P37225493",
+  "full_name": "Alexandra Smith",
+  "nationality": "CA",
+  "date_of_birth": "1974-09-16",
+  "issue_date": "2023-04-25",
+  "expiry_date": "2033-04-25",
+  "place_of_birth": "East Brianaberg",
+  "sample_id": "passport_0726"
+}

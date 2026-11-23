@@ -1,0 +1,37 @@
+Receipt RCT-KUQAAJ84
+Merchant: Dudley, Howard and Ortiz
+Date: 2026-04-20
+Total: $392.15
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KUQAAJ84",
+  "merchant_name": "Dudley, Howard and Ortiz",
+  "date": "2026-04-20",
+  "subtotal": 389.31,
+  "tax": 14.02,
+  "discount": 11.18,
+  "total": 392.15,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$15.17",
+      "line_total": "$60.68"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$10.43",
+      "line_total": "$10.43"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$79.55",
+      "line_total": "$318.20"
+    }
+  ],
+  "sample_id": "receipt_0209"
+}

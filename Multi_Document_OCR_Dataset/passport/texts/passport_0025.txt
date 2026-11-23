@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christina Garrett MD
+Passport No: P73879852
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P73879852",
+  "full_name": "Christina Garrett MD",
+  "nationality": "AE",
+  "date_of_birth": "1975-11-15",
+  "issue_date": "2025-04-25",
+  "expiry_date": "2035-04-25",
+  "place_of_birth": "New Sherry",
+  "sample_id": "passport_0025"
+}

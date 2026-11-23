@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UTPQCMSV",
+  "account_holder": "Michael Ross",
+  "account_number_masked": "****9875",
+  "period_start": "2024-03-16",
+  "period_end": "2024-04-15",
+  "opening_balance": 2633.92,
+  "closing_balance": 3756.19,
+  "transactions": 9,
+  "sample_id": "bank_statement_0513"
+}

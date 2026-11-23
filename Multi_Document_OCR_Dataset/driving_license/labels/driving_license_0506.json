@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL851395395",
+  "full_name": "Carla Bryant",
+  "date_of_birth": "1993-09-17",
+  "class": "A",
+  "issue_date": "2020-12-28",
+  "expiry_date": "2025-12-28",
+  "address": "USCGC Bentley, FPO AE 70743",
+  "sample_id": "driving_license_0506"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-O1Q3DZVW",
+  "account_holder": "Steven Everett",
+  "account_number_masked": "****7922",
+  "period_start": "2024-08-18",
+  "period_end": "2024-09-17",
+  "opening_balance": 4739.36,
+  "closing_balance": 7955.67,
+  "transactions": 10,
+  "sample_id": "bank_statement_0153"
+}

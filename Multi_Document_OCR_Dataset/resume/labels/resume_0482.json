@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Angela Griffin",
+  "email": "rodriguezryan@example.com",
+  "phone": "001-686-429-0251x5386",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "PyTorch",
+    "SQL",
+    "Deep Learning",
+    "TensorFlow",
+    "Computer Vision",
+    "Pandas",
+    "LangChain",
+    "FastAPI",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0482"
+}

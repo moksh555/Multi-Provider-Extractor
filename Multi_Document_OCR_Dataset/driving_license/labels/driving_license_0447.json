@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL120456744",
+  "full_name": "Sandra Underwood",
+  "date_of_birth": "1978-12-13",
+  "class": "D",
+  "issue_date": "2021-12-11",
+  "expiry_date": "2026-12-11",
+  "address": "99717 Christopher Circle, South Lawrenceland, WY 17217",
+  "sample_id": "driving_license_0447"
+}

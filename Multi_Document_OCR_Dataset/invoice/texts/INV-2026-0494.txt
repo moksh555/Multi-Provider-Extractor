@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0494
+Company: Metro Print House
+Company Address: 147 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: Trust Finance Office
+Billing Address: 230 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-19
+Due Date: 2026-02-03
+Currency: AED
+Subtotal: 3127.62
+Tax: 445.69
+Total: 3421.93
+Balance Due: 3421.93
+Status: unpaid

@@ -1,0 +1,16 @@
+Bank Statement STM-W0BRNB84
+Holder: Maria Parsons
+Closing Balance: $240.00
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-W0BRNB84",
+  "account_holder": "Maria Parsons",
+  "account_number_masked": "****8237",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-20",
+  "opening_balance": 1685.92,
+  "closing_balance": 240.0,
+  "transactions": 8,
+  "sample_id": "bank_statement_0687"
+}

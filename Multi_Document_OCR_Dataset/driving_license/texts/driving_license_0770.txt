@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Terry
+License: DL652866672
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL652866672",
+  "full_name": "Michael Terry",
+  "date_of_birth": "1960-09-17",
+  "class": "A",
+  "issue_date": "2021-09-25",
+  "expiry_date": "2026-09-25",
+  "address": "5254 Tracy Grove Apt. 715, North Lisaville, IA 10254",
+  "sample_id": "driving_license_0770"
+}

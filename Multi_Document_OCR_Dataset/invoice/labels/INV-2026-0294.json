@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0294",
+  "invoice_number": "INV-2026-0294",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "102 Al Barsha, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "171 Al Barsha, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-12",
+  "due_date": "2026-07-12",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 5,
+      "unit_price": 703.61,
+      "amount": 3518.05
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 3,
+      "unit_price": 785.93,
+      "amount": 2357.79
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 250.84,
+      "amount": 1755.88
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 650.39,
+      "amount": 3902.34
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 11,
+      "unit_price": 771.93,
+      "amount": 8491.23
+    }
+  ],
+  "subtotal": 20025.29,
+  "discount": 1001.26,
+  "tax_rate": 0.05,
+  "tax": 951.2,
+  "shipping": 10,
+  "total": 19985.23,
+  "amount_paid": 0,
+  "balance_due": 19985.23,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801694661695",
+  "po_number": "PO-79325"
+}

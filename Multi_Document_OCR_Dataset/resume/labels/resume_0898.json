@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Bobby Smith",
+  "email": "davidjones@example.org",
+  "phone": "+1-687-753-4214x4835",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "Docker",
+    "LangChain",
+    "SQL",
+    "Python",
+    "FastAPI",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0898"
+}

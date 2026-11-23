@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0970",
+  "invoice_number": "INV-2026-0970",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "30 Road 12, Banani, Dubai, UAE",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "157 Agrabad C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-16",
+  "due_date": "2026-03-03",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 6,
+      "unit_price": 251.88,
+      "amount": 1511.28
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 288.02,
+      "amount": 288.02
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 11,
+      "unit_price": 74.02,
+      "amount": 814.22
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 428.89,
+      "amount": 3002.23
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 380.23,
+      "amount": 3041.84
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 472.06,
+      "amount": 4720.6
+    }
+  ],
+  "subtotal": 13378.19,
+  "discount": 668.91,
+  "tax_rate": 0.05,
+  "tax": 635.46,
+  "shipping": 50,
+  "total": 13394.74,
+  "amount_paid": 9681.75,
+  "balance_due": 3712.99,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801183087840",
+  "po_number": "PO-55033"
+}

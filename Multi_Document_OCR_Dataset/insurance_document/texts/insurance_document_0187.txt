@@ -1,0 +1,16 @@
+Insurance Policy POL-VSMADO8E7
+Holder: David Manning
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VSMADO8E7",
+  "policy_holder": "David Manning",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-12-14",
+  "expiry_date": "2025-12-14",
+  "premium": 862.3,
+  "coverage_amount": 233112.99,
+  "beneficiary": "Christine Sanders",
+  "sample_id": "insurance_document_0187"
+}

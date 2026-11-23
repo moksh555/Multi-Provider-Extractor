@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4FMPKXVH",
+  "merchant_name": "Rodriguez, Smith and Edwards",
+  "date": "2021-04-16",
+  "subtotal": 470.2,
+  "tax": 30.51,
+  "discount": 5.57,
+  "total": 495.14,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$78.19",
+      "line_total": "$234.57"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$25.36",
+      "line_total": "$25.36"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$39.64",
+      "line_total": "$158.56"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$51.71",
+      "line_total": "$51.71"
+    }
+  ],
+  "sample_id": "receipt_0108"
+}

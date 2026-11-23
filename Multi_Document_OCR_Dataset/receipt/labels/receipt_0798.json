@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OANAABK9",
+  "merchant_name": "Conner-Baldwin",
+  "date": "2024-01-30",
+  "subtotal": 418.29,
+  "tax": 31.82,
+  "discount": 11.67,
+  "total": 438.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$78.96",
+      "line_total": "$78.96"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$69.03",
+      "line_total": "$276.12"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$63.21",
+      "line_total": "$63.21"
+    }
+  ],
+  "sample_id": "receipt_0798"
+}

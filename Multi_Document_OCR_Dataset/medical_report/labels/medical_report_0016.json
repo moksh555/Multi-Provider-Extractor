@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SO2D0CFI",
+  "patient_name": "Renee Mccoy",
+  "visit_date": "2025-07-28",
+  "doctor_name": "Dr. Daniel Hoover",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0016"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-D60UGLBB8
+Holder: Samuel Baker
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-D60UGLBB8",
+  "policy_holder": "Samuel Baker",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-01-21",
+  "expiry_date": "2025-01-21",
+  "premium": 957.2,
+  "coverage_amount": 273504.2,
+  "beneficiary": "Lawrence Johnson",
+  "sample_id": "insurance_document_0985"
+}

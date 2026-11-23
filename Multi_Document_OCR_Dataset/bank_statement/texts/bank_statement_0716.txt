@@ -1,0 +1,16 @@
+Bank Statement STM-DCS1UYSZ
+Holder: Julie Hill
+Closing Balance: $6295.85
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DCS1UYSZ",
+  "account_holder": "Julie Hill",
+  "account_number_masked": "****6873",
+  "period_start": "2024-07-10",
+  "period_end": "2024-08-09",
+  "opening_balance": 2874.96,
+  "closing_balance": 6295.85,
+  "transactions": 8,
+  "sample_id": "bank_statement_0716"
+}

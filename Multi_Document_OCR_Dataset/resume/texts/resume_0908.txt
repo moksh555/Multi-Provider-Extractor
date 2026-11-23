@@ -1,0 +1,26 @@
+Resume
+Andrew Wilson II
+Machine Learning Engineer
+Skills: AWS, PyTorch, Pandas, Deep Learning, Machine Learning, Computer Vision, Python, NLP, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Andrew Wilson II",
+  "email": "angelgonzalez@example.org",
+  "phone": "869-564-7413x31151",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "AWS",
+    "PyTorch",
+    "Pandas",
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision",
+    "Python",
+    "NLP",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0908"
+}

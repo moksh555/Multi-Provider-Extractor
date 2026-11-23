@@ -1,0 +1,14 @@
+Medical Report MED-OG5WJ60L
+Patient: Rebecca Warner
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OG5WJ60L",
+  "patient_name": "Rebecca Warner",
+  "visit_date": "2025-11-11",
+  "doctor_name": "Dr. Amber Brown",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0551"
+}

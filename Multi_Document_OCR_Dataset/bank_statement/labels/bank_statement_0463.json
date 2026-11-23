@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7WAP0O0N",
+  "account_holder": "Brian Andrews",
+  "account_number_masked": "****3796",
+  "period_start": "2026-04-26",
+  "period_end": "2026-05-26",
+  "opening_balance": 1590.56,
+  "closing_balance": 4303.64,
+  "transactions": 11,
+  "sample_id": "bank_statement_0463"
+}

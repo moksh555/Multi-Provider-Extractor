@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KQZJQAMZ",
+  "merchant_name": "Berry-Ramirez",
+  "date": "2021-10-29",
+  "subtotal": 465.53,
+  "tax": 39.3,
+  "discount": 9.28,
+  "total": 495.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$54.79",
+      "line_total": "$164.37"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$1.66",
+      "line_total": "$3.32"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$74.46",
+      "line_total": "$297.84"
+    }
+  ],
+  "sample_id": "receipt_0832"
+}

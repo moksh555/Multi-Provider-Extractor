@@ -1,0 +1,26 @@
+Resume
+Alfred Henry
+Backend Developer
+Skills: PyTorch, TensorFlow, SQL, Deep Learning, Machine Learning, FastAPI, LangChain, Python, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Alfred Henry",
+  "email": "cynthianixon@example.com",
+  "phone": "(991)692-2051x3563",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "PyTorch",
+    "TensorFlow",
+    "SQL",
+    "Deep Learning",
+    "Machine Learning",
+    "FastAPI",
+    "LangChain",
+    "Python",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0418"
+}

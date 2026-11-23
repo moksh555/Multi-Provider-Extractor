@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0172",
+  "invoice_number": "INV-2026-0172",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "105 Sheikh Zayed Road, Dhaka, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "215 Dhanmondi 27, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-08",
+  "due_date": "2026-01-15",
+  "currency": "SAR",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 6,
+      "unit_price": 824.55,
+      "amount": 4947.3
+    },
+    {
+      "description": "API Integration",
+      "quantity": 8,
+      "unit_price": 281.58,
+      "amount": 2252.64
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 185.97,
+      "amount": 557.91
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 11,
+      "unit_price": 246.25,
+      "amount": 2708.75
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 12,
+      "unit_price": 67.55,
+      "amount": 810.6
+    },
+    {
+      "description": "API Integration",
+      "quantity": 7,
+      "unit_price": 85.93,
+      "amount": 601.51
+    }
+  ],
+  "subtotal": 11878.71,
+  "discount": 237.57,
+  "tax_rate": 0.1,
+  "tax": 1164.11,
+  "shipping": 5,
+  "total": 12810.25,
+  "amount_paid": 0,
+  "balance_due": 12810.25,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801273023469",
+  "po_number": "PO-12879"
+}

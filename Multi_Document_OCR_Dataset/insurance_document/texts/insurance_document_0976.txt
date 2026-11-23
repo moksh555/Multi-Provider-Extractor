@@ -1,0 +1,16 @@
+Insurance Policy POL-OZEMDMZ5R
+Holder: Nicole Mayer
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OZEMDMZ5R",
+  "policy_holder": "Nicole Mayer",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-06-17",
+  "expiry_date": "2025-06-17",
+  "premium": 1075.4,
+  "coverage_amount": 121053.7,
+  "beneficiary": "Rebecca Rosales",
+  "sample_id": "insurance_document_0976"
+}

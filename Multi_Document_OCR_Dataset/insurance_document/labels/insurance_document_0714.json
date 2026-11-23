@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SA3Y5T37S",
+  "policy_holder": "Brian Galvan",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-05-17",
+  "expiry_date": "2026-05-17",
+  "premium": 2336.85,
+  "coverage_amount": 143195.53,
+  "beneficiary": "Shannon Hopkins",
+  "sample_id": "insurance_document_0714"
+}

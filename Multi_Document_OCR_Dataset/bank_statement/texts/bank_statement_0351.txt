@@ -1,0 +1,16 @@
+Bank Statement STM-MU9AM6IW
+Holder: Andrew Thomas
+Closing Balance: $5620.95
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MU9AM6IW",
+  "account_holder": "Andrew Thomas",
+  "account_number_masked": "****6293",
+  "period_start": "2024-10-01",
+  "period_end": "2024-10-31",
+  "opening_balance": 3034.15,
+  "closing_balance": 5620.95,
+  "transactions": 13,
+  "sample_id": "bank_statement_0351"
+}

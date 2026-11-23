@@ -1,0 +1,37 @@
+Receipt RCT-HD5MHBCI
+Merchant: Guerrero, Lewis and Cole
+Date: 2023-02-17
+Total: $116.76
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HD5MHBCI",
+  "merchant_name": "Guerrero, Lewis and Cole",
+  "date": "2023-02-17",
+  "subtotal": 109.21,
+  "tax": 12.0,
+  "discount": 4.45,
+  "total": 116.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$1.81",
+      "line_total": "$5.43"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$54.07",
+      "line_total": "$54.07"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$49.71",
+      "line_total": "$49.71"
+    }
+  ],
+  "sample_id": "receipt_0883"
+}

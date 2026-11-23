@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BUXHWRRV",
+  "merchant_name": "Roberts LLC",
+  "date": "2021-01-09",
+  "subtotal": 284.4,
+  "tax": 18.17,
+  "discount": 10.77,
+  "total": 291.8,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$56.99",
+      "line_total": "$113.98"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$8.86",
+      "line_total": "$35.44"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$67.49",
+      "line_total": "$134.98"
+    }
+  ],
+  "sample_id": "receipt_0808"
+}

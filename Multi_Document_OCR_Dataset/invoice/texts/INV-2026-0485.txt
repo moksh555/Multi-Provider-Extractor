@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0485
+Company: SkyNet Office Mart
+Company Address: 80 Gulshan Avenue, Doha, Qatar
+Customer: Future School
+Billing Address: 50 Sheikh Zayed Road, Doha, Qatar
+Invoice Date: 2026-03-19
+Due Date: 2026-03-26
+Currency: SAR
+Subtotal: 16879.55
+Tax: 827.1
+Total: 17394.06
+Balance Due: 17394.06
+Status: overdue

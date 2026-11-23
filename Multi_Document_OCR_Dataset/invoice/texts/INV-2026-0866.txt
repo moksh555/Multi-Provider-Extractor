@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0866
+Company: Nexus Digital Solutions
+Company Address: 93 Zindabazar Road, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 214 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-04-20
+Due Date: 2026-04-27
+Currency: QAR
+Subtotal: 18268.3
+Tax: 1233.11
+Total: 17674.58
+Balance Due: 17674.58
+Status: unpaid

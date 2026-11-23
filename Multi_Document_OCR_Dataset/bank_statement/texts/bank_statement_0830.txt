@@ -1,0 +1,16 @@
+Bank Statement STM-CCE9F1A2
+Holder: Taylor Huang
+Closing Balance: $6685.04
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CCE9F1A2",
+  "account_holder": "Taylor Huang",
+  "account_number_masked": "****5661",
+  "period_start": "2025-03-10",
+  "period_end": "2025-04-09",
+  "opening_balance": 3764.46,
+  "closing_balance": 6685.04,
+  "transactions": 11,
+  "sample_id": "bank_statement_0830"
+}

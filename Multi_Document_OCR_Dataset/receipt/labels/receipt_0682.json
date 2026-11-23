@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EBQGBPAD",
+  "merchant_name": "Douglas-Vega",
+  "date": "2023-09-20",
+  "subtotal": 421.52,
+  "tax": 40.17,
+  "discount": 14.56,
+  "total": 447.13,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$7.85",
+      "line_total": "$31.40"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$16.84",
+      "line_total": "$33.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$6.42",
+      "line_total": "$25.68"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$3.32",
+      "line_total": "$6.64"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$1.91",
+      "line_total": "$5.73"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$60.36",
+      "line_total": "$241.44"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$25.65",
+      "line_total": "$76.95"
+    }
+  ],
+  "sample_id": "receipt_0682"
+}

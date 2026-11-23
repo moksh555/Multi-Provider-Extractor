@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HTP5CH3S",
+  "merchant_name": "Wood PLC",
+  "date": "2023-01-17",
+  "subtotal": 489.93,
+  "tax": 34.33,
+  "discount": 4.59,
+  "total": 519.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$40.98",
+      "line_total": "$163.92"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$28.86",
+      "line_total": "$28.86"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$43.92",
+      "line_total": "$175.68"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$23.53",
+      "line_total": "$23.53"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$25.96",
+      "line_total": "$51.92"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$15.34",
+      "line_total": "$46.02"
+    }
+  ],
+  "sample_id": "receipt_0656"
+}

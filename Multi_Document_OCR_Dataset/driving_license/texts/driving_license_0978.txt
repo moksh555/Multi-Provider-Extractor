@@ -1,0 +1,16 @@
+Synthetic Driving License
+Timothy Carpenter
+License: DL677294831
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL677294831",
+  "full_name": "Timothy Carpenter",
+  "date_of_birth": "1989-12-09",
+  "class": "C",
+  "issue_date": "2023-12-20",
+  "expiry_date": "2028-12-20",
+  "address": "8820 Joseph Locks Apt. 906, West Randall, FL 99184",
+  "sample_id": "driving_license_0978"
+}

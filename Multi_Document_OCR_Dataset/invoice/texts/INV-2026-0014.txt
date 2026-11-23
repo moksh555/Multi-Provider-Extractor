@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0014
+Company: Nexus Digital Solutions
+Company Address: 161 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: Future School
+Billing Address: 7 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-20
+Due Date: 2026-05-05
+Currency: SAR
+Subtotal: 8633.9
+Tax: 0.0
+Total: 8461.22
+Balance Due: 8461.22
+Status: unpaid

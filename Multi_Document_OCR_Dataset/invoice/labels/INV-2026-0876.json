@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0876",
+  "invoice_number": "INV-2026-0876",
+  "company_name": "BrightStar Electronics",
+  "company_address": "32 Road 12, Banani, Dhaka, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "184 Zindabazar Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-04-04",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 4,
+      "unit_price": 701.57,
+      "amount": 2806.28
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 503.3,
+      "amount": 3523.1
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 139.61,
+      "amount": 418.83
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 11,
+      "unit_price": 55.47,
+      "amount": 610.17
+    }
+  ],
+  "subtotal": 7358.38,
+  "discount": 147.17,
+  "tax_rate": 0.1,
+  "tax": 721.12,
+  "shipping": 50,
+  "total": 7982.33,
+  "amount_paid": 0,
+  "balance_due": 7982.33,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801184721585",
+  "po_number": "PO-84561"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joel Jackson
+License: DL756792161
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL756792161",
+  "full_name": "Joel Jackson",
+  "date_of_birth": "1975-08-04",
+  "class": "A",
+  "issue_date": "2025-10-05",
+  "expiry_date": "2030-10-05",
+  "address": "161 Hawkins Cliffs, Amandafurt, OR 54691",
+  "sample_id": "driving_license_0312"
+}

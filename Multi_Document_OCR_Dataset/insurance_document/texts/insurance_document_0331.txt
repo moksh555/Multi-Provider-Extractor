@@ -1,0 +1,16 @@
+Insurance Policy POL-NRIM1Y65R
+Holder: Jerry Hansen
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NRIM1Y65R",
+  "policy_holder": "Jerry Hansen",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-05-19",
+  "expiry_date": "2024-05-19",
+  "premium": 1030.76,
+  "coverage_amount": 396441.45,
+  "beneficiary": "Kenneth Anderson",
+  "sample_id": "insurance_document_0331"
+}

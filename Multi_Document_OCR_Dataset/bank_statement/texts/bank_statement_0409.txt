@@ -1,0 +1,16 @@
+Bank Statement STM-3SXGTT0R
+Holder: Shane Potter
+Closing Balance: $3693.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3SXGTT0R",
+  "account_holder": "Shane Potter",
+  "account_number_masked": "****4142",
+  "period_start": "2026-10-14",
+  "period_end": "2026-11-13",
+  "opening_balance": 1679.63,
+  "closing_balance": 3693.36,
+  "transactions": 11,
+  "sample_id": "bank_statement_0409"
+}

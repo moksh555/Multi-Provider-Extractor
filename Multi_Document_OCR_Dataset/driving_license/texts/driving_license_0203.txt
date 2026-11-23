@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brian Meyer
+License: DL553447616
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL553447616",
+  "full_name": "Brian Meyer",
+  "date_of_birth": "1995-06-28",
+  "class": "B",
+  "issue_date": "2020-04-29",
+  "expiry_date": "2025-04-29",
+  "address": "1891 Wilson Coves, Gonzalezborough, WI 34972",
+  "sample_id": "driving_license_0203"
+}

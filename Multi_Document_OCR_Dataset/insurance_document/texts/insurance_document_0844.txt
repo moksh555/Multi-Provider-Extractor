@@ -1,0 +1,16 @@
+Insurance Policy POL-Z0A0T7DVO
+Holder: Scott Young
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z0A0T7DVO",
+  "policy_holder": "Scott Young",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-10-01",
+  "expiry_date": "2025-10-01",
+  "premium": 1987.76,
+  "coverage_amount": 218324.83,
+  "beneficiary": "Erin Goodman",
+  "sample_id": "insurance_document_0844"
+}

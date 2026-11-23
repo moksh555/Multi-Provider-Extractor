@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL553621743",
+  "full_name": "Courtney Sutton DVM",
+  "date_of_birth": "1970-07-25",
+  "class": "C",
+  "issue_date": "2022-12-08",
+  "expiry_date": "2027-12-08",
+  "address": "66687 Dana Squares, North Vincent, NE 85030",
+  "sample_id": "driving_license_0131"
+}

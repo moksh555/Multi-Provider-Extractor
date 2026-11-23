@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0564
+Company: Metro Print House
+Company Address: 63 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 14 Agrabad C/A, Dubai, UAE
+Invoice Date: 2026-01-09
+Due Date: 2026-02-08
+Currency: QAR
+Subtotal: 21337.2
+Tax: 960.17
+Total: 20168.65
+Balance Due: 10020.39
+Status: partial

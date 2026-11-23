@@ -1,0 +1,24 @@
+Resume
+Bryan Vasquez
+Computer Vision Engineer
+Skills: SQL, LangChain, Computer Vision, PyTorch, FastAPI, TensorFlow, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Bryan Vasquez",
+  "email": "xmartin@example.com",
+  "phone": "(598)251-4486",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "LangChain",
+    "Computer Vision",
+    "PyTorch",
+    "FastAPI",
+    "TensorFlow",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0101"
+}

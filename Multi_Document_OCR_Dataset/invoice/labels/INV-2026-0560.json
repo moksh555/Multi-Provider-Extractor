@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0560",
+  "invoice_number": "INV-2026-0560",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "137 Gulshan Avenue, Sylhet, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "109 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-15",
+  "due_date": "2026-06-29",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 5,
+      "unit_price": 71.19,
+      "amount": 355.95
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 282.83,
+      "amount": 2828.3
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 231.42,
+      "amount": 2314.2
+    }
+  ],
+  "subtotal": 5498.45,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 412.38,
+  "shipping": 50,
+  "total": 5960.83,
+  "amount_paid": 5960.83,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801973086940",
+  "po_number": "PO-71906"
+}

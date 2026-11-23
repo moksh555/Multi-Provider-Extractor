@@ -1,0 +1,16 @@
+Bank Statement STM-CC3ZKGYR
+Holder: Carla Briggs
+Closing Balance: $7749.74
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CC3ZKGYR",
+  "account_holder": "Carla Briggs",
+  "account_number_masked": "****1704",
+  "period_start": "2024-04-16",
+  "period_end": "2024-05-16",
+  "opening_balance": 2069.59,
+  "closing_balance": 7749.74,
+  "transactions": 13,
+  "sample_id": "bank_statement_0245"
+}

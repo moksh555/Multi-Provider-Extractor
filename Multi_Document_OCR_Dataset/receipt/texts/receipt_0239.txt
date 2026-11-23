@@ -1,0 +1,43 @@
+Receipt RCT-MR8FHYDR
+Merchant: Kaufman-Walker
+Date: 2022-12-11
+Total: $304.42
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MR8FHYDR",
+  "merchant_name": "Kaufman-Walker",
+  "date": "2022-12-11",
+  "subtotal": 303.41,
+  "tax": 13.43,
+  "discount": 12.42,
+  "total": 304.42,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$8.97",
+      "line_total": "$35.88"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$24.99",
+      "line_total": "$99.96"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$79.94",
+      "line_total": "$79.94"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$29.21",
+      "line_total": "$87.63"
+    }
+  ],
+  "sample_id": "receipt_0239"
+}

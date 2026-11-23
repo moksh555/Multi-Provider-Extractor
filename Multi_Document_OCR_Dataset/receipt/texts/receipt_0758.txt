@@ -1,0 +1,49 @@
+Receipt RCT-DOAPMLQS
+Merchant: Reynolds LLC
+Date: 2024-02-12
+Total: $486.76
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DOAPMLQS",
+  "merchant_name": "Reynolds LLC",
+  "date": "2024-02-12",
+  "subtotal": 447.83,
+  "tax": 45.15,
+  "discount": 6.22,
+  "total": 486.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$26.48",
+      "line_total": "$105.92"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$28.81",
+      "line_total": "$115.24"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$38.15",
+      "line_total": "$114.45"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$1.54",
+      "line_total": "$1.54"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$27.67",
+      "line_total": "$110.68"
+    }
+  ],
+  "sample_id": "receipt_0758"
+}

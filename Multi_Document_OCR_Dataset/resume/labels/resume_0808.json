@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "David Singleton",
+  "email": "brandon97@example.org",
+  "phone": "(475)745-7690x9414",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Python",
+    "Docker",
+    "Computer Vision",
+    "Streamlit",
+    "Pandas",
+    "SQL",
+    "PyTorch",
+    "AWS",
+    "FastAPI",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0808"
+}

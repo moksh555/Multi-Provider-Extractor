@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL646025362",
+  "full_name": "Jake Mitchell",
+  "date_of_birth": "1983-08-01",
+  "class": "C",
+  "issue_date": "2022-08-29",
+  "expiry_date": "2027-08-29",
+  "address": "137 Lara Heights Apt. 662, East Jaredfort, VI 69353",
+  "sample_id": "driving_license_0359"
+}

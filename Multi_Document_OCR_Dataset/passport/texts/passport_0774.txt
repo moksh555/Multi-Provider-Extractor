@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Katie Galvan
+Passport No: P08647662
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P08647662",
+  "full_name": "Katie Galvan",
+  "nationality": "US",
+  "date_of_birth": "1971-11-02",
+  "issue_date": "2026-06-13",
+  "expiry_date": "2036-06-13",
+  "place_of_birth": "North Ryan",
+  "sample_id": "passport_0774"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-NU31EIWU
+Merchant: Goodwin, Cruz and Wilson
+Date: 2021-10-30
+Total: $603.27
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NU31EIWU",
+  "merchant_name": "Goodwin, Cruz and Wilson",
+  "date": "2021-10-30",
+  "subtotal": 582.52,
+  "tax": 35.57,
+  "discount": 14.82,
+  "total": 603.27,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$23.32",
+      "line_total": "$93.28"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$72.91",
+      "line_total": "$291.64"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$49.40",
+      "line_total": "$197.60"
+    }
+  ],
+  "sample_id": "receipt_0437"
+}

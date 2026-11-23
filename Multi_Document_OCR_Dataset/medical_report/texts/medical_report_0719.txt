@@ -1,0 +1,14 @@
+Medical Report MED-Y14FSDD2
+Patient: David Davila
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Y14FSDD2",
+  "patient_name": "David Davila",
+  "visit_date": "2024-06-26",
+  "doctor_name": "Dr. Christine Murray",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0719"
+}

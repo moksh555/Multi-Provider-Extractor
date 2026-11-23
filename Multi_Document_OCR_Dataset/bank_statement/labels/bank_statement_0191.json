@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZFSI3B79",
+  "account_holder": "Anthony Mueller",
+  "account_number_masked": "****6206",
+  "period_start": "2026-05-26",
+  "period_end": "2026-06-25",
+  "opening_balance": 3238.84,
+  "closing_balance": 9581.74,
+  "transactions": 14,
+  "sample_id": "bank_statement_0191"
+}

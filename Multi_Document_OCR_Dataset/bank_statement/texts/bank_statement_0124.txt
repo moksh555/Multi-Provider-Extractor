@@ -1,0 +1,16 @@
+Bank Statement STM-UYUN9VQR
+Holder: Colleen Raymond
+Closing Balance: $576.09
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UYUN9VQR",
+  "account_holder": "Colleen Raymond",
+  "account_number_masked": "****7632",
+  "period_start": "2025-01-13",
+  "period_end": "2025-02-12",
+  "opening_balance": 770.89,
+  "closing_balance": 576.09,
+  "transactions": 14,
+  "sample_id": "bank_statement_0124"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-R9P6HJB2J",
+  "policy_holder": "Joshua Guerrero",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-12-27",
+  "expiry_date": "2024-12-27",
+  "premium": 1653.42,
+  "coverage_amount": 30693.86,
+  "beneficiary": "Ruth Norris",
+  "sample_id": "insurance_document_0507"
+}

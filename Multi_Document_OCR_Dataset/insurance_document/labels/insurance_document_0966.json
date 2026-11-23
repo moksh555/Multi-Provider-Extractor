@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MEN4052W8",
+  "policy_holder": "Leonard Sosa",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-04-05",
+  "expiry_date": "2025-04-05",
+  "premium": 1173.24,
+  "coverage_amount": 29978.69,
+  "beneficiary": "Eric Palmer",
+  "sample_id": "insurance_document_0966"
+}

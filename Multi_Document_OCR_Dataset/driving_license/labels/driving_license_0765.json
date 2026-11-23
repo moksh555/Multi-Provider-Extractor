@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL606922617",
+  "full_name": "Scott Brown",
+  "date_of_birth": "2005-01-01",
+  "class": "C",
+  "issue_date": "2025-10-15",
+  "expiry_date": "2030-10-15",
+  "address": "3234 Michael Island Suite 752, Kevinside, GA 20426",
+  "sample_id": "driving_license_0765"
+}

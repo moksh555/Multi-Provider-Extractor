@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL137588080",
+  "full_name": "Brian Anderson",
+  "date_of_birth": "1961-09-06",
+  "class": "A",
+  "issue_date": "2025-02-26",
+  "expiry_date": "2030-02-26",
+  "address": "5060 Michael Heights Apt. 687, Marciaville, DC 13173",
+  "sample_id": "driving_license_0102"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0734
+Company: BrightStar Electronics
+Company Address: 122 Doha Business Park, Dubai, UAE
+Customer: Rahim Traders
+Billing Address: 27 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-02-08
+Due Date: 2026-02-23
+Currency: USD
+Subtotal: 10266.41
+Tax: 1006.11
+Total: 11067.19
+Balance Due: 2935.43
+Status: partial

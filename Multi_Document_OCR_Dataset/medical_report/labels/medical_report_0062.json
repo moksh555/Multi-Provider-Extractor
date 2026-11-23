@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SKJ63HW2",
+  "patient_name": "Bonnie Petersen",
+  "visit_date": "2024-06-20",
+  "doctor_name": "Dr. Jessica Wilson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0062"
+}

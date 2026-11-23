@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JUIIYMYRS",
+  "policy_holder": "Austin Lane",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-08-18",
+  "expiry_date": "2026-08-18",
+  "premium": 1814.61,
+  "coverage_amount": 193240.11,
+  "beneficiary": "Diana Davis",
+  "sample_id": "insurance_document_0386"
+}

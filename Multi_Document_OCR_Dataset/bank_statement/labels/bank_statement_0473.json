@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-E6HVOGE6",
+  "account_holder": "Vincent Ortiz",
+  "account_number_masked": "****3836",
+  "period_start": "2024-06-01",
+  "period_end": "2024-07-01",
+  "opening_balance": 2798.42,
+  "closing_balance": 7553.22,
+  "transactions": 10,
+  "sample_id": "bank_statement_0473"
+}

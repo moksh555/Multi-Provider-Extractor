@@ -1,0 +1,16 @@
+Bank Statement STM-YEURANI8
+Holder: Kaitlyn Cooley
+Closing Balance: $6131.76
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YEURANI8",
+  "account_holder": "Kaitlyn Cooley",
+  "account_number_masked": "****5533",
+  "period_start": "2025-04-23",
+  "period_end": "2025-05-23",
+  "opening_balance": 4595.66,
+  "closing_balance": 6131.76,
+  "transactions": 10,
+  "sample_id": "bank_statement_0023"
+}

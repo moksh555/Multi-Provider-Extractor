@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Sean Brown",
+  "email": "lchapman@example.org",
+  "phone": "+1-895-610-8327x8668",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "FastAPI",
+    "AWS",
+    "Computer Vision",
+    "Python",
+    "PyTorch",
+    "Deep Learning",
+    "SQL",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0869"
+}

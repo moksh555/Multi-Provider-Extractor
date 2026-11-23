@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0768",
+  "invoice_number": "INV-2026-0768",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "182 Doha Business Park, Dubai, UAE",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "118 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-08",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 3,
+      "unit_price": 80.87,
+      "amount": 242.61
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 1,
+      "unit_price": 471.61,
+      "amount": 471.61
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 3,
+      "unit_price": 350.0,
+      "amount": 1050.0
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 58.86,
+      "amount": 588.6
+    }
+  ],
+  "subtotal": 2352.82,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 117.64,
+  "shipping": 10,
+  "total": 2480.46,
+  "amount_paid": 1445.91,
+  "balance_due": 1034.55,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801714985259",
+  "po_number": "PO-44485"
+}

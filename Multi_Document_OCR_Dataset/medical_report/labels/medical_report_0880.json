@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-XDCXFCBY",
+  "patient_name": "Taylor Jackson",
+  "visit_date": "2024-12-03",
+  "doctor_name": "Dr. James Wise",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0880"
+}

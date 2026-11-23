@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0084",
+  "invoice_number": "INV-2026-0084",
+  "company_name": "Delta Insurance Services",
+  "company_address": "91 Al Barsha, Chattogram, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "185 Road 12, Banani, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-08",
+  "due_date": "2026-06-07",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 10,
+      "unit_price": 604.19,
+      "amount": 6041.9
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 296.95,
+      "amount": 1187.8
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 458.16,
+      "amount": 5039.76
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 309.85,
+      "amount": 3408.35
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 3,
+      "unit_price": 715.82,
+      "amount": 2147.46
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 255.37,
+      "amount": 766.11
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 3,
+      "unit_price": 631.85,
+      "amount": 1895.55
+    }
+  ],
+  "subtotal": 20486.93,
+  "discount": 1024.35,
+  "tax_rate": 0.1,
+  "tax": 1946.26,
+  "shipping": 50,
+  "total": 21458.84,
+  "amount_paid": 0,
+  "balance_due": 21458.84,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801716303737",
+  "po_number": "PO-32284"
+}

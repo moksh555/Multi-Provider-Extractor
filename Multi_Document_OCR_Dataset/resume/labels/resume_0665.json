@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Daniel Brown",
+  "email": "hansennicole@example.com",
+  "phone": "3692939945",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "SQL",
+    "Deep Learning",
+    "Python",
+    "NLP",
+    "TensorFlow",
+    "PyTorch",
+    "Docker",
+    "AWS",
+    "Pandas",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0665"
+}

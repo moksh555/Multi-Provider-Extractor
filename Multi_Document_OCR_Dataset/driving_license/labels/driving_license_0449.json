@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL691188869",
+  "full_name": "Gina Pace",
+  "date_of_birth": "1976-02-17",
+  "class": "D",
+  "issue_date": "2025-02-04",
+  "expiry_date": "2030-02-04",
+  "address": "593 Curtis Ranch Apt. 939, Lake William, MI 55683",
+  "sample_id": "driving_license_0449"
+}

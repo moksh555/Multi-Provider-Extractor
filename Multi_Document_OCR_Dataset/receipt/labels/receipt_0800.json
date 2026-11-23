@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SMVVBJB1",
+  "merchant_name": "Hunter-Heath",
+  "date": "2024-01-03",
+  "subtotal": 346.05,
+  "tax": 23.98,
+  "discount": 1.76,
+  "total": 368.27,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$30.47",
+      "line_total": "$60.94"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$74.94",
+      "line_total": "$74.94"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$66.26",
+      "line_total": "$66.26"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$26.18",
+      "line_total": "$52.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$14.01",
+      "line_total": "$28.02"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$63.53",
+      "line_total": "$63.53"
+    }
+  ],
+  "sample_id": "receipt_0800"
+}

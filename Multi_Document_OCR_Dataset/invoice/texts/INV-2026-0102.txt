@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0102
+Company: Nexus Digital Solutions
+Company Address: 196 Al Barsha, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 243 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-04-25
+Due Date: 2026-06-09
+Currency: SAR
+Subtotal: 19907.65
+Tax: 945.61
+Total: 19882.88
+Balance Due: 19882.88
+Status: unpaid

@@ -1,0 +1,16 @@
+Insurance Policy POL-2L48C1CQG
+Holder: Karen Fernandez
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2L48C1CQG",
+  "policy_holder": "Karen Fernandez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-02-20",
+  "expiry_date": "2026-02-20",
+  "premium": 2091.24,
+  "coverage_amount": 69761.16,
+  "beneficiary": "Christopher Raymond",
+  "sample_id": "insurance_document_0353"
+}

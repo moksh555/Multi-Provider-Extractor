@@ -1,0 +1,55 @@
+Receipt RCT-ZCA8VI5W
+Merchant: Phillips, Marks and Parker
+Date: 2024-07-05
+Total: $569.41
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZCA8VI5W",
+  "merchant_name": "Phillips, Marks and Parker",
+  "date": "2024-07-05",
+  "subtotal": 545.46,
+  "tax": 30.78,
+  "discount": 6.83,
+  "total": 569.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$8.22",
+      "line_total": "$16.44"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$26.38",
+      "line_total": "$52.76"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$46.94",
+      "line_total": "$46.94"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$43.16",
+      "line_total": "$172.64"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$4.94",
+      "line_total": "$19.76"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$59.23",
+      "line_total": "$236.92"
+    }
+  ],
+  "sample_id": "receipt_0719"
+}

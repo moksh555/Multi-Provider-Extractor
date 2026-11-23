@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G51BXW76",
+  "merchant_name": "Nguyen, Pugh and Carlson",
+  "date": "2023-09-13",
+  "subtotal": 223.04,
+  "tax": 26.63,
+  "discount": 3.51,
+  "total": 246.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$47.92",
+      "line_total": "$47.92"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$20.33",
+      "line_total": "$20.33"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$35.68",
+      "line_total": "$142.72"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$12.07",
+      "line_total": "$12.07"
+    }
+  ],
+  "sample_id": "receipt_0071"
+}

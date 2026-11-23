@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-L6SGW2NR",
+  "account_holder": "Paul Macdonald",
+  "account_number_masked": "****6140",
+  "period_start": "2024-09-27",
+  "period_end": "2024-10-27",
+  "opening_balance": 4366.15,
+  "closing_balance": 4437.72,
+  "transactions": 9,
+  "sample_id": "bank_statement_0128"
+}

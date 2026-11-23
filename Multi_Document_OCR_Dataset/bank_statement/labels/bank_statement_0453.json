@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MSPZPDYJ",
+  "account_holder": "Dawn Berg",
+  "account_number_masked": "****6769",
+  "period_start": "2025-04-11",
+  "period_end": "2025-05-11",
+  "opening_balance": 3629.31,
+  "closing_balance": 6816.26,
+  "transactions": 9,
+  "sample_id": "bank_statement_0453"
+}

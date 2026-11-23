@@ -1,0 +1,16 @@
+Insurance Policy POL-S9YXZ7SXD
+Holder: Jeffrey Garza
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-S9YXZ7SXD",
+  "policy_holder": "Jeffrey Garza",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-06-14",
+  "expiry_date": "2026-06-14",
+  "premium": 308.46,
+  "coverage_amount": 402756.9,
+  "beneficiary": "Zachary Johnson",
+  "sample_id": "insurance_document_0534"
+}

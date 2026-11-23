@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-6CTDB6LR",
+  "patient_name": "Mark Young MD",
+  "visit_date": "2025-10-18",
+  "doctor_name": "Dr. James Myers",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0731"
+}

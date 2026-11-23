@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Sarah Gill",
+  "email": "kbaird@example.org",
+  "phone": "+1-552-817-9705x660",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "LangChain",
+    "AWS",
+    "Python",
+    "Streamlit",
+    "Deep Learning",
+    "Docker",
+    "Computer Vision",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0138"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0316
+Company: Delta Insurance Services
+Company Address: 169 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: Al Noor Clinic
+Billing Address: 48 Motijheel C/A, Chattogram, Bangladesh
+Invoice Date: 2026-03-09
+Due Date: 2026-04-23
+Currency: AED
+Subtotal: 9408.9
+Tax: 922.07
+Total: 10147.79
+Balance Due: 3771.07
+Status: partial

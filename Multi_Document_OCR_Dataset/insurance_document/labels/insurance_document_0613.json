@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QU0K5QZZK",
+  "policy_holder": "Russell Jones",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-12-25",
+  "expiry_date": "2024-12-25",
+  "premium": 1107.83,
+  "coverage_amount": 97993.27,
+  "beneficiary": "Brenda Ford",
+  "sample_id": "insurance_document_0613"
+}

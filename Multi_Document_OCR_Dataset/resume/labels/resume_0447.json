@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Daniel Ford",
+  "email": "kristenochoa@example.net",
+  "phone": "(446)709-1210x407",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Docker",
+    "Machine Learning",
+    "Pandas",
+    "TensorFlow",
+    "Streamlit",
+    "NLP",
+    "LangChain",
+    "AWS",
+    "PyTorch",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0447"
+}

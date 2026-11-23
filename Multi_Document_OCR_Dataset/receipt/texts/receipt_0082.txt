@@ -1,0 +1,55 @@
+Receipt RCT-G1A07H23
+Merchant: Cooke and Sons
+Date: 2021-10-11
+Total: $552.51
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G1A07H23",
+  "merchant_name": "Cooke and Sons",
+  "date": "2021-10-11",
+  "subtotal": 534.5,
+  "tax": 27.98,
+  "discount": 9.97,
+  "total": 552.51,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$51.03",
+      "line_total": "$102.06"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$53.03",
+      "line_total": "$159.09"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$6.84",
+      "line_total": "$27.36"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$43.22",
+      "line_total": "$172.88"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$63.47",
+      "line_total": "$63.47"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$9.64",
+      "line_total": "$9.64"
+    }
+  ],
+  "sample_id": "receipt_0082"
+}

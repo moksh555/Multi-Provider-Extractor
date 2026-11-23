@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Perry
+License: DL595939158
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL595939158",
+  "full_name": "Michael Perry",
+  "date_of_birth": "1981-10-14",
+  "class": "C",
+  "issue_date": "2021-02-21",
+  "expiry_date": "2026-02-21",
+  "address": "78263 Michelle Harbor Suite 584, West Jessicashire, OR 87000",
+  "sample_id": "driving_license_0048"
+}

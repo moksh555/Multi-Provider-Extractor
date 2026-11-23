@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0533",
+  "invoice_number": "INV-2026-0533",
+  "company_name": "CityBanking Supplies",
+  "company_address": "132 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "202 Mirpur DOHS, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-11",
+  "due_date": "2026-06-10",
+  "currency": "SAR",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 5,
+      "unit_price": 785.99,
+      "amount": 3929.95
+    },
+    {
+      "description": "Web Development",
+      "quantity": 12,
+      "unit_price": 322.26,
+      "amount": 3867.12
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 150.11,
+      "amount": 1050.77
+    }
+  ],
+  "subtotal": 8847.84,
+  "discount": 884.78,
+  "tax_rate": 0.05,
+  "tax": 398.15,
+  "shipping": 0,
+  "total": 8361.21,
+  "amount_paid": 0,
+  "balance_due": 8361.21,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801137537947",
+  "po_number": "PO-94517"
+}

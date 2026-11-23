@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL378959512",
+  "full_name": "Jasmine White",
+  "date_of_birth": "1978-03-29",
+  "class": "A",
+  "issue_date": "2023-09-14",
+  "expiry_date": "2028-09-14",
+  "address": "40785 Terri Courts, Lake John, ND 97108",
+  "sample_id": "driving_license_0174"
+}

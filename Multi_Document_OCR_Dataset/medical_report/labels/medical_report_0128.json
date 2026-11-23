@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-E07BLW9M",
+  "patient_name": "Michael Adams",
+  "visit_date": "2024-02-06",
+  "doctor_name": "Dr. Carlos Rodriguez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0128"
+}

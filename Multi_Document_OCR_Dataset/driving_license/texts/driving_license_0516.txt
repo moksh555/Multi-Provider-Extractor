@@ -1,0 +1,16 @@
+Synthetic Driving License
+Amanda Ford
+License: DL770175012
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL770175012",
+  "full_name": "Amanda Ford",
+  "date_of_birth": "1965-12-10",
+  "class": "A",
+  "issue_date": "2023-05-20",
+  "expiry_date": "2028-05-20",
+  "address": "50975 Gomez Avenue Suite 265, North Ryanborough, CO 69850",
+  "sample_id": "driving_license_0516"
+}

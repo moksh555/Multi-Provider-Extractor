@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lindsey Rogers
+License: DL186706365
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL186706365",
+  "full_name": "Lindsey Rogers",
+  "date_of_birth": "1986-08-10",
+  "class": "C",
+  "issue_date": "2024-10-10",
+  "expiry_date": "2029-10-10",
+  "address": "3566 Theresa Well Suite 107, Hardyberg, AK 79394",
+  "sample_id": "driving_license_0489"
+}

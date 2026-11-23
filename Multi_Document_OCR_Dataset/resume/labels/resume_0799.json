@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Kevin Robinson",
+  "email": "brandon33@example.com",
+  "phone": "236.915.9266x86680",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Streamlit",
+    "Deep Learning",
+    "FastAPI",
+    "Machine Learning",
+    "TensorFlow",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0799"
+}

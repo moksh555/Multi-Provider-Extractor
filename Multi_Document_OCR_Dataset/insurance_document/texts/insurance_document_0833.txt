@@ -1,0 +1,16 @@
+Insurance Policy POL-0YCY6BDZS
+Holder: Deborah Escobar
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0YCY6BDZS",
+  "policy_holder": "Deborah Escobar",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-02-17",
+  "expiry_date": "2027-02-17",
+  "premium": 1693.49,
+  "coverage_amount": 440011.03,
+  "beneficiary": "Kevin Willis",
+  "sample_id": "insurance_document_0833"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-IOS5HRQAP
+Holder: Nicolas Powers
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IOS5HRQAP",
+  "policy_holder": "Nicolas Powers",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-05-22",
+  "expiry_date": "2025-05-22",
+  "premium": 898.96,
+  "coverage_amount": 293938.84,
+  "beneficiary": "Michael Mcclain",
+  "sample_id": "insurance_document_0456"
+}

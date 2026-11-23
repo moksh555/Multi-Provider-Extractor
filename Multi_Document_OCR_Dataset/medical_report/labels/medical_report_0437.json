@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-98CE4WCO",
+  "patient_name": "Nicole Chambers",
+  "visit_date": "2026-03-31",
+  "doctor_name": "Dr. Courtney Wagner",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0437"
+}

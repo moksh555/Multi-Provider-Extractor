@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0346
+Company: Atlas Engineering Ltd.
+Company Address: 173 Al Barsha, Dubai, UAE
+Customer: Global Mart
+Billing Address: 40 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-01-01
+Due Date: 2026-01-08
+Currency: SAR
+Subtotal: 4518.54
+Tax: 0.0
+Total: 4433.17
+Balance Due: 4433.17
+Status: unpaid

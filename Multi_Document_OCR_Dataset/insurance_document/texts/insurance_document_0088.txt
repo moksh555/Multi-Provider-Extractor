@@ -1,0 +1,16 @@
+Insurance Policy POL-P0NEC8UYO
+Holder: Jonathan Roberts
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-P0NEC8UYO",
+  "policy_holder": "Jonathan Roberts",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-04-16",
+  "expiry_date": "2024-04-16",
+  "premium": 2424.79,
+  "coverage_amount": 304200.94,
+  "beneficiary": "Monique Flores",
+  "sample_id": "insurance_document_0088"
+}

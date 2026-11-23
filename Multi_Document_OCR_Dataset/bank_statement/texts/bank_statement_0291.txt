@@ -1,0 +1,16 @@
+Bank Statement STM-0RVZ3Y9E
+Holder: Kayla Buck
+Closing Balance: $2639.50
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0RVZ3Y9E",
+  "account_holder": "Kayla Buck",
+  "account_number_masked": "****5960",
+  "period_start": "2025-12-16",
+  "period_end": "2026-01-15",
+  "opening_balance": 3711.4,
+  "closing_balance": 2639.5,
+  "transactions": 12,
+  "sample_id": "bank_statement_0291"
+}

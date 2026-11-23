@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0023",
+  "invoice_number": "INV-2026-0023",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "35 Al Barsha, Riyadh, Saudi Arabia",
+  "customer_name": "Future School",
+  "billing_address": "224 Gulshan Avenue, Dubai, UAE",
+  "invoice_date": "2026-02-12",
+  "due_date": "2026-03-14",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 370.64,
+      "amount": 2223.84
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 9,
+      "unit_price": 354.95,
+      "amount": 3194.55
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 3,
+      "unit_price": 155.41,
+      "amount": 466.23
+    },
+    {
+      "description": "API Integration",
+      "quantity": 7,
+      "unit_price": 529.8,
+      "amount": 3708.6
+    }
+  ],
+  "subtotal": 9593.22,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 719.49,
+  "shipping": 0,
+  "total": 10312.71,
+  "amount_paid": 10312.71,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801914220896",
+  "po_number": "PO-14356"
+}

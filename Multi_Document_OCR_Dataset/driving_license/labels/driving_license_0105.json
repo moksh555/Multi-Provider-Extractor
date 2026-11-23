@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL517396112",
+  "full_name": "Michelle Evans",
+  "date_of_birth": "1975-07-26",
+  "class": "B",
+  "issue_date": "2026-10-03",
+  "expiry_date": "2031-10-03",
+  "address": "1694 Candice Greens Apt. 097, New Cristina, RI 50333",
+  "sample_id": "driving_license_0105"
+}

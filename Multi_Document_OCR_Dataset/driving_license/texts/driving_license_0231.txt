@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kimberly Lutz
+License: DL215725082
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL215725082",
+  "full_name": "Kimberly Lutz",
+  "date_of_birth": "2002-04-28",
+  "class": "D",
+  "issue_date": "2024-01-30",
+  "expiry_date": "2029-01-30",
+  "address": "6394 Steven Pass, South Michaeltown, TN 31811",
+  "sample_id": "driving_license_0231"
+}

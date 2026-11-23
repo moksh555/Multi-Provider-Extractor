@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL373971550",
+  "full_name": "Jim Baker",
+  "date_of_birth": "1972-04-17",
+  "class": "D",
+  "issue_date": "2023-09-26",
+  "expiry_date": "2028-09-26",
+  "address": "696 Michael Vista Suite 924, Lake Dennisville, IA 40527",
+  "sample_id": "driving_license_0146"
+}

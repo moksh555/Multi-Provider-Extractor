@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CWHYZY1O",
+  "patient_name": "Bonnie Lynch",
+  "visit_date": "2026-07-02",
+  "doctor_name": "Dr. Isabel Park",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0860"
+}

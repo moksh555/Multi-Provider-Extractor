@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0715",
+  "invoice_number": "INV-2026-0715",
+  "company_name": "Golden Harvest Store",
+  "company_address": "10 Road 12, Banani, Sylhet, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "159 Doha Business Park, Doha, Qatar",
+  "invoice_date": "2026-05-30",
+  "due_date": "2026-06-14",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 12,
+      "unit_price": 102.02,
+      "amount": 1224.24
+    },
+    {
+      "description": "API Integration",
+      "quantity": 8,
+      "unit_price": 553.27,
+      "amount": 4426.16
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 4,
+      "unit_price": 95.37,
+      "amount": 381.48
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 4,
+      "unit_price": 817.61,
+      "amount": 3270.44
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 592.74,
+      "amount": 4149.18
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 434.53,
+      "amount": 2172.65
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 675.52,
+      "amount": 2702.08
+    }
+  ],
+  "subtotal": 18326.23,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1374.47,
+  "shipping": 25,
+  "total": 19725.7,
+  "amount_paid": 0,
+  "balance_due": 19725.7,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801833681485",
+  "po_number": "PO-62092"
+}

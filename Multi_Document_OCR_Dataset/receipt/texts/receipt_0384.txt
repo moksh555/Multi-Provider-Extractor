@@ -1,0 +1,43 @@
+Receipt RCT-VFFKVZS8
+Merchant: Pittman PLC
+Date: 2022-07-26
+Total: $305.06
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VFFKVZS8",
+  "merchant_name": "Pittman PLC",
+  "date": "2022-07-26",
+  "subtotal": 296.2,
+  "tax": 13.47,
+  "discount": 4.61,
+  "total": 305.06,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$77.66",
+      "line_total": "$77.66"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$64.32",
+      "line_total": "$128.64"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$14.06",
+      "line_total": "$56.24"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$16.83",
+      "line_total": "$33.66"
+    }
+  ],
+  "sample_id": "receipt_0384"
+}

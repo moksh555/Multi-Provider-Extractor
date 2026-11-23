@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5Z8XGQHP",
+  "account_holder": "Anna Walker",
+  "account_number_masked": "****6210",
+  "period_start": "2025-03-20",
+  "period_end": "2025-04-19",
+  "opening_balance": 4666.08,
+  "closing_balance": 10646.58,
+  "transactions": 13,
+  "sample_id": "bank_statement_0080"
+}

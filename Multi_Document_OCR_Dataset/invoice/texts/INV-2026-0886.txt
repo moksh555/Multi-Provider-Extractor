@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0886
+Company: BlueRiver Trading Co.
+Company Address: 32 Agrabad C/A, Dhaka, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 26 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-05-25
+Due Date: 2026-06-24
+Currency: AED
+Subtotal: 15860.64
+Tax: 2379.1
+Total: 18239.74
+Balance Due: 18239.74
+Status: unpaid

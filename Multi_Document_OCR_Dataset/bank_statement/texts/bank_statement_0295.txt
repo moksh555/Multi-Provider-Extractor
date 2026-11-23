@@ -1,0 +1,16 @@
+Bank Statement STM-QR0APXP8
+Holder: Suzanne Jimenez
+Closing Balance: $7516.67
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QR0APXP8",
+  "account_holder": "Suzanne Jimenez",
+  "account_number_masked": "****0479",
+  "period_start": "2025-04-30",
+  "period_end": "2025-05-30",
+  "opening_balance": 3989.66,
+  "closing_balance": 7516.67,
+  "transactions": 11,
+  "sample_id": "bank_statement_0295"
+}

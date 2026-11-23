@@ -1,0 +1,26 @@
+Resume
+Ms. Kaitlyn Warren
+Backend Developer
+Skills: Python, FastAPI, Docker, TensorFlow, Streamlit, Pandas, AWS, LangChain, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Ms. Kaitlyn Warren",
+  "email": "john28@example.net",
+  "phone": "+1-712-523-9657",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Docker",
+    "TensorFlow",
+    "Streamlit",
+    "Pandas",
+    "AWS",
+    "LangChain",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0664"
+}

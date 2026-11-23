@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0247
+Company: BrightStar Electronics
+Company Address: 166 Road 12, Banani, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 77 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-05-07
+Due Date: 2026-05-14
+Currency: AED
+Subtotal: 7703.4
+Tax: 0.0
+Total: 7703.4
+Balance Due: 0.0
+Status: paid

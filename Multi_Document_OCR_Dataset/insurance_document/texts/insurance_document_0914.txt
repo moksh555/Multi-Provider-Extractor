@@ -1,0 +1,16 @@
+Insurance Policy POL-HEDHTHRUU
+Holder: Laura Harris
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HEDHTHRUU",
+  "policy_holder": "Laura Harris",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-06-25",
+  "expiry_date": "2026-06-25",
+  "premium": 1970.2,
+  "coverage_amount": 105451.39,
+  "beneficiary": "Caroline Robertson",
+  "sample_id": "insurance_document_0914"
+}

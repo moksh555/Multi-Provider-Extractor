@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0145",
+  "invoice_number": "INV-2026-0145",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "125 Motijheel C/A, Chattogram, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "241 Mirpur DOHS, Doha, Qatar",
+  "invoice_date": "2026-06-27",
+  "due_date": "2026-07-04",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 360.62,
+      "amount": 2163.72
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 169.58,
+      "amount": 678.32
+    }
+  ],
+  "subtotal": 2842.04,
+  "discount": 284.2,
+  "tax_rate": 0.1,
+  "tax": 255.78,
+  "shipping": 25,
+  "total": 2838.62,
+  "amount_paid": 0,
+  "balance_due": 2838.62,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801689546201",
+  "po_number": "PO-18941"
+}

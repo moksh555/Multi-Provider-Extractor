@@ -1,0 +1,16 @@
+Synthetic Driving License
+Roger Carter
+License: DL508594272
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL508594272",
+  "full_name": "Roger Carter",
+  "date_of_birth": "2004-05-26",
+  "class": "B",
+  "issue_date": "2021-06-05",
+  "expiry_date": "2026-06-05",
+  "address": "443 Jasmine Glens Suite 016, Lake Johnny, DC 76079",
+  "sample_id": "driving_license_0864"
+}

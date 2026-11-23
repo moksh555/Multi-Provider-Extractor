@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0195
+Company: Golden Harvest Store
+Company Address: 142 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 83 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-05-15
+Due Date: 2026-06-29
+Currency: SAR
+Subtotal: 9107.47
+Tax: 614.75
+Total: 8811.47
+Balance Due: 8811.47
+Status: overdue

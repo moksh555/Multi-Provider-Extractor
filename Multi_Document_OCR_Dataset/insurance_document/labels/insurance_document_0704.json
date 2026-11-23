@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7YYZ6R9I8",
+  "policy_holder": "Barbara Clark",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-01-01",
+  "expiry_date": "2026-01-01",
+  "premium": 301.57,
+  "coverage_amount": 173525.15,
+  "beneficiary": "Nancy Gutierrez",
+  "sample_id": "insurance_document_0704"
+}

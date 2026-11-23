@@ -1,0 +1,16 @@
+Insurance Policy POL-LDWQXKE0Q
+Holder: Brandy Roberts
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LDWQXKE0Q",
+  "policy_holder": "Brandy Roberts",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-11-30",
+  "expiry_date": "2025-11-30",
+  "premium": 2203.06,
+  "coverage_amount": 475249.08,
+  "beneficiary": "Amanda Kennedy",
+  "sample_id": "insurance_document_0954"
+}

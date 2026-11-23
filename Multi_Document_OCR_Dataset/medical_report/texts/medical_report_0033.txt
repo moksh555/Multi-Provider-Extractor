@@ -1,0 +1,14 @@
+Medical Report MED-4B4HFAKG
+Patient: Amy Nguyen
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4B4HFAKG",
+  "patient_name": "Amy Nguyen",
+  "visit_date": "2026-05-10",
+  "doctor_name": "Dr. Dr. Stephen Gibbs",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0033"
+}

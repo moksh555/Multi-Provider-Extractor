@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-E307N17L",
+  "patient_name": "Mary Acosta",
+  "visit_date": "2024-12-18",
+  "doctor_name": "Dr. Sabrina Jones",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0961"
+}

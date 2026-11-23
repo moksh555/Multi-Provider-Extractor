@@ -1,0 +1,14 @@
+Medical Report MED-5D6Z98BW
+Patient: Lauren Johnson
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5D6Z98BW",
+  "patient_name": "Lauren Johnson",
+  "visit_date": "2024-03-19",
+  "doctor_name": "Dr. Jonathan Lamb",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0085"
+}

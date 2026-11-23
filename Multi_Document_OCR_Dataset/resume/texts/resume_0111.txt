@@ -1,0 +1,24 @@
+Resume
+David Jones
+Software Engineer
+Skills: AWS, SQL, Python, Pandas, FastAPI, Streamlit, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "David Jones",
+  "email": "andrewsjohn@example.org",
+  "phone": "+1-592-822-4711",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "AWS",
+    "SQL",
+    "Python",
+    "Pandas",
+    "FastAPI",
+    "Streamlit",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0111"
+}

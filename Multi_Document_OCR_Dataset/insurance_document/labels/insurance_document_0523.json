@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-I6978V0BJ",
+  "policy_holder": "Wayne Morales",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-02-19",
+  "expiry_date": "2026-02-19",
+  "premium": 839.97,
+  "coverage_amount": 203401.44,
+  "beneficiary": "Joseph Fisher",
+  "sample_id": "insurance_document_0523"
+}

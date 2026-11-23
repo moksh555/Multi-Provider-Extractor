@@ -1,0 +1,23 @@
+Resume
+Jennifer Howard
+Computer Vision Engineer
+Skills: LangChain, Machine Learning, NLP, TensorFlow, SQL, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Jennifer Howard",
+  "email": "michael26@example.com",
+  "phone": "+1-992-544-8372x687",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "LangChain",
+    "Machine Learning",
+    "NLP",
+    "TensorFlow",
+    "SQL",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0617"
+}

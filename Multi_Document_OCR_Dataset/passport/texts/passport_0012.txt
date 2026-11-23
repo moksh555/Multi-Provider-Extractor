@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Leslie Yu PhD
+Passport No: P98976194
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P98976194",
+  "full_name": "Leslie Yu PhD",
+  "nationality": "AE",
+  "date_of_birth": "1988-09-07",
+  "issue_date": "2021-08-08",
+  "expiry_date": "2031-08-08",
+  "place_of_birth": "West Samuelport",
+  "sample_id": "passport_0012"
+}

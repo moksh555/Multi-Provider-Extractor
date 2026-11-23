@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ITJ19XCQ",
+  "patient_name": "Susan Olson",
+  "visit_date": "2025-12-13",
+  "doctor_name": "Dr. Timothy Bird",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0677"
+}

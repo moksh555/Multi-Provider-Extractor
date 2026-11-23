@@ -1,0 +1,26 @@
+Resume
+Tammy Gonzalez
+Computer Vision Engineer
+Skills: SQL, Computer Vision, LangChain, Pandas, PyTorch, Docker, Machine Learning, Deep Learning, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Tammy Gonzalez",
+  "email": "smithrebecca@example.org",
+  "phone": "502-242-3447",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Computer Vision",
+    "LangChain",
+    "Pandas",
+    "PyTorch",
+    "Docker",
+    "Machine Learning",
+    "Deep Learning",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0198"
+}

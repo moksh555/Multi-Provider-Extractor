@@ -1,0 +1,16 @@
+Insurance Policy POL-JJY94H4KF
+Holder: Travis Price
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JJY94H4KF",
+  "policy_holder": "Travis Price",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-02-27",
+  "expiry_date": "2027-02-27",
+  "premium": 286.45,
+  "coverage_amount": 53960.4,
+  "beneficiary": "William Guzman",
+  "sample_id": "insurance_document_0574"
+}

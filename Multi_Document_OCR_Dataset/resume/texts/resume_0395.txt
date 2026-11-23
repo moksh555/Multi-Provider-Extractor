@@ -1,0 +1,25 @@
+Resume
+Jonathan Smith
+Data Analyst
+Skills: PyTorch, Streamlit, Machine Learning, TensorFlow, LangChain, Pandas, FastAPI, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Jonathan Smith",
+  "email": "burnscarl@example.org",
+  "phone": "+1-665-910-6407x0783",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "Streamlit",
+    "Machine Learning",
+    "TensorFlow",
+    "LangChain",
+    "Pandas",
+    "FastAPI",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0395"
+}

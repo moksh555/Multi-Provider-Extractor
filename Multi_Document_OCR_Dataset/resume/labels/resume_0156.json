@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jorge Gutierrez",
+  "email": "wendylee@example.com",
+  "phone": "001-770-277-3123x155",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Docker",
+    "LangChain",
+    "Computer Vision",
+    "FastAPI",
+    "Deep Learning",
+    "Streamlit",
+    "NLP",
+    "AWS",
+    "Pandas",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0156"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2QPINYSU",
+  "account_holder": "Amanda Singh",
+  "account_number_masked": "****0553",
+  "period_start": "2026-06-27",
+  "period_end": "2026-07-27",
+  "opening_balance": 1937.03,
+  "closing_balance": 3788.18,
+  "transactions": 8,
+  "sample_id": "bank_statement_0853"
+}

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Ryan Anderson",
+  "email": "dturner@example.com",
+  "phone": "001-683-669-2353",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "Computer Vision",
+    "Machine Learning",
+    "SQL",
+    "AWS",
+    "Deep Learning",
+    "TensorFlow",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0080"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-W5UZBIKCI
+Holder: Maria Thomas
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-W5UZBIKCI",
+  "policy_holder": "Maria Thomas",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-02-17",
+  "expiry_date": "2026-02-17",
+  "premium": 781.58,
+  "coverage_amount": 321485.38,
+  "beneficiary": "Patrick Ryan",
+  "sample_id": "insurance_document_0004"
+}

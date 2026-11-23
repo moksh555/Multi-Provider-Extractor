@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0062
+Company: Delta Insurance Services
+Company Address: 57 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Sunrise Apparel
+Billing Address: 169 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-01-08
+Due Date: 2026-01-23
+Currency: SAR
+Subtotal: 15471.68
+Tax: 1547.17
+Total: 17023.85
+Balance Due: 17023.85
+Status: overdue

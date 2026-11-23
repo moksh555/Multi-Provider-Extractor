@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL114689646",
+  "full_name": "Adam Murphy",
+  "date_of_birth": "1992-05-12",
+  "class": "C",
+  "issue_date": "2024-06-05",
+  "expiry_date": "2029-06-05",
+  "address": "81649 Alison Cove Suite 919, Flemingchester, MD 42459",
+  "sample_id": "driving_license_0574"
+}

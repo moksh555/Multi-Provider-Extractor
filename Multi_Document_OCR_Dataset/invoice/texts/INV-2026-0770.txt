@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0770
+Company: Metro Print House
+Company Address: 114 Al Barsha, Chattogram, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 158 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-01-16
+Due Date: 2026-03-02
+Currency: AED
+Subtotal: 9712.01
+Tax: 691.98
+Total: 9943.39
+Balance Due: 6107.99
+Status: partial

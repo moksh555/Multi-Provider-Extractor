@@ -1,0 +1,26 @@
+Resume
+Ana Gonzales MD
+Computer Vision Engineer
+Skills: Docker, LangChain, NLP, Computer Vision, Deep Learning, Streamlit, FastAPI, Pandas, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Ana Gonzales MD",
+  "email": "englishoscar@example.org",
+  "phone": "001-954-871-5433x82541",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Docker",
+    "LangChain",
+    "NLP",
+    "Computer Vision",
+    "Deep Learning",
+    "Streamlit",
+    "FastAPI",
+    "Pandas",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0805"
+}

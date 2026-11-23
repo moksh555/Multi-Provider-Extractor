@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KU2W8ZUVJ",
+  "policy_holder": "Brett Lawrence",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-12-23",
+  "expiry_date": "2026-12-23",
+  "premium": 1251.14,
+  "coverage_amount": 112772.19,
+  "beneficiary": "Elizabeth Smith",
+  "sample_id": "insurance_document_0502"
+}

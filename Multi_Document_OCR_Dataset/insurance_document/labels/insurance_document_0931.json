@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1TXH376ZU",
+  "policy_holder": "Mr. Samuel Davis",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-10-31",
+  "expiry_date": "2024-10-31",
+  "premium": 610.62,
+  "coverage_amount": 98977.49,
+  "beneficiary": "John Gonzalez",
+  "sample_id": "insurance_document_0931"
+}

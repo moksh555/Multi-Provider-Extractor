@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-EJSX0913",
+  "patient_name": "Kayla Duran",
+  "visit_date": "2026-09-27",
+  "doctor_name": "Dr. John Smith",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0427"
+}

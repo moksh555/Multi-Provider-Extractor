@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-14CAZDYO",
+  "account_holder": "Colton Duke",
+  "account_number_masked": "****6100",
+  "period_start": "2025-07-02",
+  "period_end": "2025-08-01",
+  "opening_balance": 4346.62,
+  "closing_balance": 6505.07,
+  "transactions": 10,
+  "sample_id": "bank_statement_0782"
+}

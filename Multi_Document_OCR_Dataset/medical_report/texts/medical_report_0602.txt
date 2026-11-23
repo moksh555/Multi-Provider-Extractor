@@ -1,0 +1,14 @@
+Medical Report MED-GIDDVZZ1
+Patient: Michelle Rhodes
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-GIDDVZZ1",
+  "patient_name": "Michelle Rhodes",
+  "visit_date": "2026-04-02",
+  "doctor_name": "Dr. Crystal Miller",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0602"
+}

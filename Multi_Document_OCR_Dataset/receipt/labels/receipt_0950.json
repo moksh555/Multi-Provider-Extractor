@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ICXBR8IY",
+  "merchant_name": "Duncan Group",
+  "date": "2021-05-29",
+  "subtotal": 516.68,
+  "tax": 17.24,
+  "discount": 13.97,
+  "total": 519.95,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$51.88",
+      "line_total": "$207.52"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$63.16",
+      "line_total": "$252.64"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$18.84",
+      "line_total": "$56.52"
+    }
+  ],
+  "sample_id": "receipt_0950"
+}

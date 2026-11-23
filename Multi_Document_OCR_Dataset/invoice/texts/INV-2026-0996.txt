@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0996
+Company: Royal Diagnostics Center
+Company Address: 175 Sheikh Zayed Road, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 131 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-17
+Due Date: 2026-06-24
+Currency: SAR
+Subtotal: 9618.14
+Tax: 0.0
+Total: 9618.14
+Balance Due: 9618.14
+Status: unpaid

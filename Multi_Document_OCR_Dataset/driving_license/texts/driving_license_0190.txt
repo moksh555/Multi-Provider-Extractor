@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brandy York
+License: DL176731033
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL176731033",
+  "full_name": "Brandy York",
+  "date_of_birth": "1984-03-14",
+  "class": "B",
+  "issue_date": "2021-02-22",
+  "expiry_date": "2026-02-22",
+  "address": "33030 Williams Lake, West Micheal, NH 66708",
+  "sample_id": "driving_license_0190"
+}

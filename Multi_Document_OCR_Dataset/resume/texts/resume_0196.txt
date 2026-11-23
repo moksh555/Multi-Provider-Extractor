@@ -1,0 +1,24 @@
+Resume
+Gregory Murphy
+Software Engineer
+Skills: TensorFlow, NLP, Streamlit, Computer Vision, Pandas, Docker, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Gregory Murphy",
+  "email": "amywright@example.org",
+  "phone": "499.382.4266",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "NLP",
+    "Streamlit",
+    "Computer Vision",
+    "Pandas",
+    "Docker",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0196"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-488M33VI
+Patient: Charles Huerta
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-488M33VI",
+  "patient_name": "Charles Huerta",
+  "visit_date": "2026-12-29",
+  "doctor_name": "Dr. Kerri Taylor",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0804"
+}

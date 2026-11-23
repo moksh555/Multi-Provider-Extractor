@@ -1,0 +1,16 @@
+Synthetic Driving License
+William Brooks
+License: DL654775411
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL654775411",
+  "full_name": "William Brooks",
+  "date_of_birth": "1972-06-01",
+  "class": "A",
+  "issue_date": "2022-10-21",
+  "expiry_date": "2027-10-21",
+  "address": "339 Alicia Pines Suite 191, Port Amyhaven, ID 75566",
+  "sample_id": "driving_license_0116"
+}

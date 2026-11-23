@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0477
+Company: PrimeSoft Technologies
+Company Address: 101 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 5 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-04-13
+Due Date: 2026-05-13
+Currency: QAR
+Subtotal: 5584.55
+Tax: 251.3
+Total: 5287.39
+Balance Due: 0.0
+Status: paid

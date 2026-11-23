@@ -1,0 +1,16 @@
+Bank Statement STM-BVQ8L1S2
+Holder: Kenneth Clark
+Closing Balance: $1661.91
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BVQ8L1S2",
+  "account_holder": "Kenneth Clark",
+  "account_number_masked": "****8286",
+  "period_start": "2024-12-27",
+  "period_end": "2025-01-26",
+  "opening_balance": 1027.6,
+  "closing_balance": 1661.91,
+  "transactions": 8,
+  "sample_id": "bank_statement_0591"
+}

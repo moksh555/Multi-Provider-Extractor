@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL828215006",
+  "full_name": "Danny Bell MD",
+  "date_of_birth": "1972-07-12",
+  "class": "C",
+  "issue_date": "2026-03-29",
+  "expiry_date": "2031-03-29",
+  "address": "00389 Fleming Street, New Timothyfurt, WI 49945",
+  "sample_id": "driving_license_0611"
+}

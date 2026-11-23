@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mary Griffin
+License: DL681193462
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL681193462",
+  "full_name": "Mary Griffin",
+  "date_of_birth": "1995-11-26",
+  "class": "A",
+  "issue_date": "2022-02-08",
+  "expiry_date": "2027-02-08",
+  "address": "Unit 5847 Box 1296, DPO AE 73857",
+  "sample_id": "driving_license_0809"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0310",
+  "invoice_number": "INV-2026-0310",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "122 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "72 Al Barsha, Doha, Qatar",
+  "invoice_date": "2026-03-28",
+  "due_date": "2026-04-27",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 89.26,
+      "amount": 981.86
+    },
+    {
+      "description": "Web Development",
+      "quantity": 9,
+      "unit_price": 229.33,
+      "amount": 2063.97
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 548.81,
+      "amount": 3841.67
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 87.64,
+      "amount": 262.92
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 109.27,
+      "amount": 218.54
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 3,
+      "unit_price": 743.32,
+      "amount": 2229.96
+    }
+  ],
+  "subtotal": 9598.92,
+  "discount": 479.95,
+  "tax_rate": 0.075,
+  "tax": 683.92,
+  "shipping": 5,
+  "total": 9807.89,
+  "amount_paid": 4671.33,
+  "balance_due": 5136.56,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801908539918",
+  "po_number": "PO-20736"
+}

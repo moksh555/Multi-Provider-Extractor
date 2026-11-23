@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Shelby Lewis
+Passport No: P42763516
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P42763516",
+  "full_name": "Shelby Lewis",
+  "nationality": "CA",
+  "date_of_birth": "1993-03-12",
+  "issue_date": "2022-02-11",
+  "expiry_date": "2032-02-11",
+  "place_of_birth": "North Josephmouth",
+  "sample_id": "passport_0858"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0001
+Company: Atlas Engineering Ltd.
+Company Address: 199 Zindabazar Road, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 58 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-27
+Due Date: 2026-02-03
+Currency: QAR
+Subtotal: 3312.82
+Tax: 0.0
+Total: 3362.82
+Balance Due: 3362.82
+Status: overdue

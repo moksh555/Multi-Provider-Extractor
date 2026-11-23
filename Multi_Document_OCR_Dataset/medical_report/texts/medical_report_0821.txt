@@ -1,0 +1,14 @@
+Medical Report MED-E09LG3U5
+Patient: Nathaniel Sanders
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-E09LG3U5",
+  "patient_name": "Nathaniel Sanders",
+  "visit_date": "2024-06-20",
+  "doctor_name": "Dr. Cindy Lee",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0821"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-BIIO3BD4
+Patient: Denise Gibson
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BIIO3BD4",
+  "patient_name": "Denise Gibson",
+  "visit_date": "2026-06-24",
+  "doctor_name": "Dr. Brian Rivera",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0083"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-VQT3G8CD3
+Holder: James Freeman
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VQT3G8CD3",
+  "policy_holder": "James Freeman",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-11-01",
+  "expiry_date": "2025-11-01",
+  "premium": 1296.42,
+  "coverage_amount": 333480.73,
+  "beneficiary": "Robert Gill",
+  "sample_id": "insurance_document_0417"
+}

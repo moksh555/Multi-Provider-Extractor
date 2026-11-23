@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Heidi Ross",
+  "email": "isaiahboyd@example.org",
+  "phone": "911-987-7863x41448",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "Computer Vision",
+    "Streamlit",
+    "Docker",
+    "NLP",
+    "Machine Learning",
+    "SQL",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0932"
+}

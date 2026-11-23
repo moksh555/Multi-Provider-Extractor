@@ -1,0 +1,26 @@
+Resume
+Michael Sanchez
+Data Analyst
+Skills: NLP, Pandas, SQL, Streamlit, AWS, TensorFlow, FastAPI, Computer Vision, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Sanchez",
+  "email": "heidi21@example.com",
+  "phone": "2165426107",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "NLP",
+    "Pandas",
+    "SQL",
+    "Streamlit",
+    "AWS",
+    "TensorFlow",
+    "FastAPI",
+    "Computer Vision",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0094"
+}

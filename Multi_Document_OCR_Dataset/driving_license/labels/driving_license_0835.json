@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL175426946",
+  "full_name": "Mrs. Samantha Rivera DDS",
+  "date_of_birth": "1995-02-04",
+  "class": "A",
+  "issue_date": "2024-04-29",
+  "expiry_date": "2029-04-29",
+  "address": "23196 Foster Canyon Apt. 402, South Ashley, MT 20377",
+  "sample_id": "driving_license_0835"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PBJEK5RBW",
+  "policy_holder": "Fernando Garcia",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-12-24",
+  "expiry_date": "2027-12-24",
+  "premium": 496.94,
+  "coverage_amount": 279911.11,
+  "beneficiary": "Gabriela Thomas",
+  "sample_id": "insurance_document_0062"
+}

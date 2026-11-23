@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0966
+Company: PrimeSoft Technologies
+Company Address: 29 Zindabazar Road, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 244 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-04-26
+Due Date: 2026-05-11
+Currency: SAR
+Subtotal: 17592.11
+Tax: 0.0
+Total: 15842.9
+Balance Due: 15842.9
+Status: overdue

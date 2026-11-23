@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-G5CSOAAZ",
+  "patient_name": "Caroline Flynn",
+  "visit_date": "2024-08-13",
+  "doctor_name": "Dr. Ray Singh",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0296"
+}

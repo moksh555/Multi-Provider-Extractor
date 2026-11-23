@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BG4PDFCO",
+  "account_holder": "Gail Hull",
+  "account_number_masked": "****8131",
+  "period_start": "2026-06-09",
+  "period_end": "2026-07-09",
+  "opening_balance": 1531.66,
+  "closing_balance": 4419.7,
+  "transactions": 14,
+  "sample_id": "bank_statement_0057"
+}

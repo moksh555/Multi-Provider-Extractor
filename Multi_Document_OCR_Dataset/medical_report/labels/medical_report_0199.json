@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-3JPOBMUI",
+  "patient_name": "Linda Young",
+  "visit_date": "2024-05-09",
+  "doctor_name": "Dr. Kelly Acosta",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0199"
+}

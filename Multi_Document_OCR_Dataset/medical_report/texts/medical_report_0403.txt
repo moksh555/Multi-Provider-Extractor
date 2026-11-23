@@ -1,0 +1,14 @@
+Medical Report MED-KLULX3W6
+Patient: James Wells
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KLULX3W6",
+  "patient_name": "James Wells",
+  "visit_date": "2026-09-09",
+  "doctor_name": "Dr. Jasmine Perry",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0403"
+}

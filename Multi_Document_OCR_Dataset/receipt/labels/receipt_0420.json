@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4NS7NVV2",
+  "merchant_name": "Casey, Meza and Colon",
+  "date": "2022-02-08",
+  "subtotal": 1069.37,
+  "tax": 49.48,
+  "discount": 9.46,
+  "total": 1109.39,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$77.37",
+      "line_total": "$77.37"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$46.83",
+      "line_total": "$140.49"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$57.74",
+      "line_total": "$230.96"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$52.12",
+      "line_total": "$156.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$46.29",
+      "line_total": "$185.16"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$65.24",
+      "line_total": "$260.96"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$18.07",
+      "line_total": "$18.07"
+    }
+  ],
+  "sample_id": "receipt_0420"
+}

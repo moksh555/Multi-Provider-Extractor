@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-E9RIVH6T1",
+  "policy_holder": "Kimberly Smith",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-08-12",
+  "expiry_date": "2026-08-12",
+  "premium": 1390.09,
+  "coverage_amount": 186037.18,
+  "beneficiary": "Michael Ayala",
+  "sample_id": "insurance_document_0164"
+}

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0743",
+  "invoice_number": "INV-2026-0743",
+  "company_name": "CityBanking Supplies",
+  "company_address": "56 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "196 Agrabad C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-07",
+  "due_date": "2026-03-24",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 12,
+      "unit_price": 444.22,
+      "amount": 5330.64
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 9,
+      "unit_price": 218.74,
+      "amount": 1968.66
+    }
+  ],
+  "subtotal": 7299.3,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 7349.3,
+  "amount_paid": 7349.3,
+  "balance_due": 0.0,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801866758035",
+  "po_number": "PO-16067"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-OZ1I2TK6
+Patient: Shannon Hayden
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OZ1I2TK6",
+  "patient_name": "Shannon Hayden",
+  "visit_date": "2026-05-13",
+  "doctor_name": "Dr. Michael Prince",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0960"
+}

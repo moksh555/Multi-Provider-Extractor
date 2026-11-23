@@ -1,0 +1,16 @@
+Synthetic Driving License
+David Casey
+License: DL635684050
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL635684050",
+  "full_name": "David Casey",
+  "date_of_birth": "1994-12-25",
+  "class": "A",
+  "issue_date": "2020-03-18",
+  "expiry_date": "2025-03-18",
+  "address": "2265 Brown Locks Suite 995, North Albert, TX 56271",
+  "sample_id": "driving_license_0989"
+}

@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A7SQRF1L",
+  "merchant_name": "Moreno, Price and Scott",
+  "date": "2024-09-17",
+  "subtotal": 595.35,
+  "tax": 44.51,
+  "discount": 9.8,
+  "total": 630.06,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$44.49",
+      "line_total": "$88.98"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$65.55",
+      "line_total": "$262.20"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$36.09",
+      "line_total": "$144.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$68.67",
+      "line_total": "$68.67"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$10.38",
+      "line_total": "$31.14"
+    }
+  ],
+  "sample_id": "receipt_0125"
+}

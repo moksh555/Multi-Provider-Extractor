@@ -1,0 +1,16 @@
+Bank Statement STM-ZT22THW9
+Holder: Craig Morgan
+Closing Balance: $5464.91
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZT22THW9",
+  "account_holder": "Craig Morgan",
+  "account_number_masked": "****2983",
+  "period_start": "2026-06-15",
+  "period_end": "2026-07-15",
+  "opening_balance": 4495.54,
+  "closing_balance": 5464.91,
+  "transactions": 14,
+  "sample_id": "bank_statement_0543"
+}

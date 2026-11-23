@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-33X58PZJ",
+  "account_holder": "Joseph King",
+  "account_number_masked": "****8405",
+  "period_start": "2025-12-02",
+  "period_end": "2026-01-01",
+  "opening_balance": 1295.98,
+  "closing_balance": 3722.1,
+  "transactions": 11,
+  "sample_id": "bank_statement_0338"
+}

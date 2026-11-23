@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GB38I1WR",
+  "merchant_name": "Green-Thomas",
+  "date": "2023-09-21",
+  "subtotal": 508.65,
+  "tax": 50.24,
+  "discount": 5.85,
+  "total": 553.04,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$50.12",
+      "line_total": "$100.24"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$32.98",
+      "line_total": "$98.94"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$55.38",
+      "line_total": "$166.14"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$30.30",
+      "line_total": "$121.20"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$22.13",
+      "line_total": "$22.13"
+    }
+  ],
+  "sample_id": "receipt_0784"
+}

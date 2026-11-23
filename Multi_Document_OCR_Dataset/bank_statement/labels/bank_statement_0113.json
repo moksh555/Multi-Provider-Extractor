@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z117R1Z4",
+  "account_holder": "John Ramirez",
+  "account_number_masked": "****1635",
+  "period_start": "2024-05-17",
+  "period_end": "2024-06-16",
+  "opening_balance": 2963.7,
+  "closing_balance": 3536.11,
+  "transactions": 11,
+  "sample_id": "bank_statement_0113"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Maria Moore
+Passport No: P61884795
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P61884795",
+  "full_name": "Maria Moore",
+  "nationality": "CA",
+  "date_of_birth": "1994-09-08",
+  "issue_date": "2022-01-26",
+  "expiry_date": "2032-01-26",
+  "place_of_birth": "Gonzalezport",
+  "sample_id": "passport_0496"
+}

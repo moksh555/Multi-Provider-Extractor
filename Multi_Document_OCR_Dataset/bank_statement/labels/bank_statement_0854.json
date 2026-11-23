@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LXLSUCXU",
+  "account_holder": "Michael Stanley",
+  "account_number_masked": "****1093",
+  "period_start": "2024-09-16",
+  "period_end": "2024-10-16",
+  "opening_balance": 2919.84,
+  "closing_balance": 5706.16,
+  "transactions": 14,
+  "sample_id": "bank_statement_0854"
+}

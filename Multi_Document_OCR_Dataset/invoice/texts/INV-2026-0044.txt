@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0044
+Company: Royal Diagnostics Center
+Company Address: 147 Road 12, Banani, Dhaka, Bangladesh
+Customer: TechPoint BD
+Billing Address: 111 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-04-04
+Due Date: 2026-05-19
+Currency: AED
+Subtotal: 17725.45
+Tax: 1772.55
+Total: 19498.0
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,16 @@
+Bank Statement STM-OSVN5L6E
+Holder: Victoria Lewis
+Closing Balance: $8288.81
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OSVN5L6E",
+  "account_holder": "Victoria Lewis",
+  "account_number_masked": "****3670",
+  "period_start": "2026-12-05",
+  "period_end": "2027-01-04",
+  "opening_balance": 2722.67,
+  "closing_balance": 8288.81,
+  "transactions": 11,
+  "sample_id": "bank_statement_0839"
+}

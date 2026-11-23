@@ -1,0 +1,16 @@
+Synthetic Driving License
+Cory Johnston
+License: DL507156247
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL507156247",
+  "full_name": "Cory Johnston",
+  "date_of_birth": "1999-11-21",
+  "class": "B",
+  "issue_date": "2022-01-31",
+  "expiry_date": "2027-01-31",
+  "address": "PSC 5353, Box 7513, APO AA 96550",
+  "sample_id": "driving_license_0626"
+}

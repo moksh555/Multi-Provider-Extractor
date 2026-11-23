@@ -1,0 +1,16 @@
+Bank Statement STM-PDD8TAIA
+Holder: Brian Cohen
+Closing Balance: $5352.07
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PDD8TAIA",
+  "account_holder": "Brian Cohen",
+  "account_number_masked": "****8589",
+  "period_start": "2025-01-04",
+  "period_end": "2025-02-03",
+  "opening_balance": 3462.3,
+  "closing_balance": 5352.07,
+  "transactions": 13,
+  "sample_id": "bank_statement_0655"
+}

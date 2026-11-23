@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Erica Hernandez
+Passport No: P82774208
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P82774208",
+  "full_name": "Erica Hernandez",
+  "nationality": "GB",
+  "date_of_birth": "1979-03-27",
+  "issue_date": "2020-03-16",
+  "expiry_date": "2030-03-16",
+  "place_of_birth": "North Kylechester",
+  "sample_id": "passport_0331"
+}

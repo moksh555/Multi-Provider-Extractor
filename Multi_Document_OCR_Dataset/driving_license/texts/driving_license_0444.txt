@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dawn Castro
+License: DL345658360
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL345658360",
+  "full_name": "Dawn Castro",
+  "date_of_birth": "1979-07-10",
+  "class": "A",
+  "issue_date": "2021-07-23",
+  "expiry_date": "2026-07-23",
+  "address": "056 Hill Springs Suite 758, Lake Jeffreyview, PW 55559",
+  "sample_id": "driving_license_0444"
+}

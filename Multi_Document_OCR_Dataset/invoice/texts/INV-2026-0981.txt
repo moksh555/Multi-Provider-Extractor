@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0981
+Company: Royal Diagnostics Center
+Company Address: 173 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 222 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-04-15
+Due Date: 2026-05-15
+Currency: QAR
+Subtotal: 6430.39
+Tax: 482.28
+Total: 6917.67
+Balance Due: 0.0
+Status: paid

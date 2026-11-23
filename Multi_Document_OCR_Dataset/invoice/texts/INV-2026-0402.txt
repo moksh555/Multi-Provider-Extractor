@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0402
+Company: BrightStar Electronics
+Company Address: 52 Zindabazar Road, Dhaka, Bangladesh
+Customer: Future School
+Billing Address: 176 Al Barsha, Sylhet, Bangladesh
+Invoice Date: 2026-02-17
+Due Date: 2026-03-19
+Currency: SAR
+Subtotal: 6724.41
+Tax: 479.11
+Total: 6917.3
+Balance Due: 6917.3
+Status: unpaid

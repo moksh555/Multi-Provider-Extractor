@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dr. Victoria Thomas
+License: DL094459657
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL094459657",
+  "full_name": "Dr. Victoria Thomas",
+  "date_of_birth": "1992-04-03",
+  "class": "A",
+  "issue_date": "2026-01-08",
+  "expiry_date": "2031-01-08",
+  "address": "75250 Shannon Fords, New Kathy, NM 12040",
+  "sample_id": "driving_license_0198"
+}

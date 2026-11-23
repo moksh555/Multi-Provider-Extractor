@@ -1,0 +1,27 @@
+Resume
+Jessica Beck
+Data Analyst
+Skills: FastAPI, Machine Learning, AWS, LangChain, Deep Learning, Pandas, TensorFlow, Docker, NLP, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Jessica Beck",
+  "email": "xgreene@example.org",
+  "phone": "001-353-338-6194",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "Machine Learning",
+    "AWS",
+    "LangChain",
+    "Deep Learning",
+    "Pandas",
+    "TensorFlow",
+    "Docker",
+    "NLP",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0230"
+}

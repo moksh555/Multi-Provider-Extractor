@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WNZE9GHR",
+  "account_holder": "Natasha Silva",
+  "account_number_masked": "****5201",
+  "period_start": "2026-05-23",
+  "period_end": "2026-06-22",
+  "opening_balance": 3258.99,
+  "closing_balance": 6741.22,
+  "transactions": 10,
+  "sample_id": "bank_statement_0762"
+}

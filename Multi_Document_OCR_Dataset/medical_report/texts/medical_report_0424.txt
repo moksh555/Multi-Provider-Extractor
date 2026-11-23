@@ -1,0 +1,14 @@
+Medical Report MED-8LM8MQ1F
+Patient: Pamela Shaw
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8LM8MQ1F",
+  "patient_name": "Pamela Shaw",
+  "visit_date": "2024-03-04",
+  "doctor_name": "Dr. Jennifer Edwards",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0424"
+}

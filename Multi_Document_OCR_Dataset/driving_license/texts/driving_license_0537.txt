@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nathan Floyd
+License: DL865146892
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL865146892",
+  "full_name": "Nathan Floyd",
+  "date_of_birth": "1998-11-29",
+  "class": "A",
+  "issue_date": "2026-05-07",
+  "expiry_date": "2031-05-07",
+  "address": "96421 Cooley Falls, Gomezfort, NE 63584",
+  "sample_id": "driving_license_0537"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0496
+Company: Nexus Digital Solutions
+Company Address: 181 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Bengal Motors
+Billing Address: 33 Al Barsha, Dubai, UAE
+Invoice Date: 2026-01-06
+Due Date: 2026-01-13
+Currency: USD
+Subtotal: 3158.68
+Tax: 473.8
+Total: 3682.48
+Balance Due: 3682.48
+Status: unpaid

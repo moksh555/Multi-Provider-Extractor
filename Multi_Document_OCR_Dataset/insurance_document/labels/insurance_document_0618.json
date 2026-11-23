@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ADKTOC1YF",
+  "policy_holder": "Kathy Schmidt",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-12-31",
+  "expiry_date": "2024-12-31",
+  "premium": 635.68,
+  "coverage_amount": 26877.97,
+  "beneficiary": "Wendy Salazar",
+  "sample_id": "insurance_document_0618"
+}

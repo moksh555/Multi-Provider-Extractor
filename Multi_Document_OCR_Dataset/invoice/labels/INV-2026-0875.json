@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0875",
+  "invoice_number": "INV-2026-0875",
+  "company_name": "BrightStar Electronics",
+  "company_address": "56 Zindabazar Road, Dubai, UAE",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "122 Agrabad C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-30",
+  "due_date": "2026-07-07",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 2,
+      "unit_price": 132.65,
+      "amount": 265.3
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 6,
+      "unit_price": 512.74,
+      "amount": 3076.44
+    }
+  ],
+  "subtotal": 3341.74,
+  "discount": 167.09,
+  "tax_rate": 0.05,
+  "tax": 158.73,
+  "shipping": 25,
+  "total": 3358.38,
+  "amount_paid": 3358.38,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801736021709",
+  "po_number": "PO-11878"
+}

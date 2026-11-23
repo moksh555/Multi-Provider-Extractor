@@ -1,0 +1,25 @@
+Resume
+Amanda Brock
+Computer Vision Engineer
+Skills: Deep Learning, Streamlit, AWS, PyTorch, Pandas, FastAPI, Python, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Amanda Brock",
+  "email": "martincathy@example.com",
+  "phone": "001-309-363-5159",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Deep Learning",
+    "Streamlit",
+    "AWS",
+    "PyTorch",
+    "Pandas",
+    "FastAPI",
+    "Python",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0907"
+}

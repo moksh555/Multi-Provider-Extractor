@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FI7I979K",
+  "patient_name": "James Vargas",
+  "visit_date": "2025-09-30",
+  "doctor_name": "Dr. Jeffrey Wallace",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0215"
+}

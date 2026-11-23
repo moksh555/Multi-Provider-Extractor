@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Sims
+Passport No: P68203116
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P68203116",
+  "full_name": "Michael Sims",
+  "nationality": "US",
+  "date_of_birth": "1988-02-11",
+  "issue_date": "2023-03-08",
+  "expiry_date": "2033-03-08",
+  "place_of_birth": "Lake Rebecca",
+  "sample_id": "passport_0228"
+}

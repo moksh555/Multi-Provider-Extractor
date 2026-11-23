@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PYZR6QCEO",
+  "policy_holder": "Nicholas Olson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-04-29",
+  "expiry_date": "2024-04-29",
+  "premium": 1449.94,
+  "coverage_amount": 339656.18,
+  "beneficiary": "Margaret Hernandez",
+  "sample_id": "insurance_document_0153"
+}

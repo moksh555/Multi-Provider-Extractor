@@ -1,0 +1,14 @@
+Medical Report MED-BNCZPJDJ
+Patient: Lindsay Mendoza
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BNCZPJDJ",
+  "patient_name": "Lindsay Mendoza",
+  "visit_date": "2025-08-15",
+  "doctor_name": "Dr. Anthony Fuller",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0506"
+}

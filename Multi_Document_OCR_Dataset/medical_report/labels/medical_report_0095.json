@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WXBRC7U9",
+  "patient_name": "Cody Williams",
+  "visit_date": "2026-06-01",
+  "doctor_name": "Dr. Kevin Rodriguez",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0095"
+}

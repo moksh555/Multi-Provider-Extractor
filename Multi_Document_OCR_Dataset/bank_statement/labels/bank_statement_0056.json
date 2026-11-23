@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-07R925DS",
+  "account_holder": "Rachel Chandler",
+  "account_number_masked": "****4217",
+  "period_start": "2025-04-14",
+  "period_end": "2025-05-14",
+  "opening_balance": 4661.65,
+  "closing_balance": 8254.19,
+  "transactions": 10,
+  "sample_id": "bank_statement_0056"
+}

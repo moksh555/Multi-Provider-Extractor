@@ -1,0 +1,23 @@
+Resume
+Preston King
+Machine Learning Engineer
+Skills: PyTorch, Computer Vision, FastAPI, Streamlit, Docker, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Preston King",
+  "email": "alyssa01@example.net",
+  "phone": "462.813.4616x4615",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "PyTorch",
+    "Computer Vision",
+    "FastAPI",
+    "Streamlit",
+    "Docker",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0542"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0727
+Company: Eastern Care Pharmacy
+Company Address: 94 Mirpur DOHS, Sylhet, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 82 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-22
+Due Date: 2026-05-07
+Currency: SAR
+Subtotal: 14334.72
+Tax: 1935.19
+Total: 14861.44
+Balance Due: 14861.44
+Status: overdue

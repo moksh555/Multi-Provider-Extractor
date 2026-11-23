@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0676",
+  "invoice_number": "INV-2026-0676",
+  "company_name": "BrightStar Electronics",
+  "company_address": "97 Road 12, Banani, Doha, Qatar",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "183 Agrabad C/A, Dubai, UAE",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-13",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 702.35,
+      "amount": 7023.5
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 73.54,
+      "amount": 73.54
+    }
+  ],
+  "subtotal": 7097.04,
+  "discount": 354.85,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 6747.19,
+  "amount_paid": 6747.19,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801660179472",
+  "po_number": "PO-05715"
+}

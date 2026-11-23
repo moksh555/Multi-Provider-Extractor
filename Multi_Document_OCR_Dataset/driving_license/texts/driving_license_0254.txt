@@ -1,0 +1,16 @@
+Synthetic Driving License
+Robert Thompson
+License: DL917291807
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL917291807",
+  "full_name": "Robert Thompson",
+  "date_of_birth": "1990-02-13",
+  "class": "A",
+  "issue_date": "2025-01-03",
+  "expiry_date": "2030-01-03",
+  "address": "4489 Raymond Spurs Apt. 034, Combsville, NV 98096",
+  "sample_id": "driving_license_0254"
+}

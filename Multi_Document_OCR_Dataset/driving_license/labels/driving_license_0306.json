@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL816858537",
+  "full_name": "Brian Glover",
+  "date_of_birth": "1979-07-01",
+  "class": "B",
+  "issue_date": "2022-04-02",
+  "expiry_date": "2027-04-02",
+  "address": "8078 James Orchard, Kimberlyberg, WI 13379",
+  "sample_id": "driving_license_0306"
+}

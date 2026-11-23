@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL957419591",
+  "full_name": "Brian Hall",
+  "date_of_birth": "1979-01-03",
+  "class": "A",
+  "issue_date": "2024-06-28",
+  "expiry_date": "2029-06-28",
+  "address": "9130 Andrew View, Pinedafurt, LA 90365",
+  "sample_id": "driving_license_0759"
+}

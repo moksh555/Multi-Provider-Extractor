@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HXKEI9UL",
+  "account_holder": "Andrew Jones",
+  "account_number_masked": "****3609",
+  "period_start": "2025-02-14",
+  "period_end": "2025-03-16",
+  "opening_balance": 563.95,
+  "closing_balance": 4276.62,
+  "transactions": 11,
+  "sample_id": "bank_statement_0048"
+}

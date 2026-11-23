@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0202
+Company: Greenline Logistics
+Company Address: 105 Agrabad C/A, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 24 Road 12, Banani, Dubai, UAE
+Invoice Date: 2026-01-08
+Due Date: 2026-01-15
+Currency: AED
+Subtotal: 2671.83
+Tax: 0.0
+Total: 2676.83
+Balance Due: 2676.83
+Status: unpaid

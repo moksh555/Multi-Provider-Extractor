@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OHCU0E0R",
+  "merchant_name": "Gray-Martinez",
+  "date": "2023-11-14",
+  "subtotal": 730.55,
+  "tax": 80.98,
+  "discount": 7.71,
+  "total": 803.82,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$66.94",
+      "line_total": "$267.76"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$55.41",
+      "line_total": "$221.64"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$30.04",
+      "line_total": "$60.08"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$42.52",
+      "line_total": "$85.04"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$61.05",
+      "line_total": "$61.05"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$13.19",
+      "line_total": "$26.38"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$4.30",
+      "line_total": "$8.60"
+    }
+  ],
+  "sample_id": "receipt_0890"
+}

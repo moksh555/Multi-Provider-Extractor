@@ -1,0 +1,16 @@
+Insurance Policy POL-GHGK5BWIK
+Holder: April Thomas
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GHGK5BWIK",
+  "policy_holder": "April Thomas",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-02-01",
+  "expiry_date": "2027-02-01",
+  "premium": 1260.09,
+  "coverage_amount": 52983.56,
+  "beneficiary": "Joseph Price",
+  "sample_id": "insurance_document_0228"
+}

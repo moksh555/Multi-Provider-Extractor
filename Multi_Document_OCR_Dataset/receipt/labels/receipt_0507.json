@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3HOLDU7J",
+  "merchant_name": "Green-Santos",
+  "date": "2025-10-16",
+  "subtotal": 674.94,
+  "tax": 75.66,
+  "discount": 3.06,
+  "total": 747.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$60.51",
+      "line_total": "$181.53"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$59.37",
+      "line_total": "$59.37"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$16.21",
+      "line_total": "$48.63"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$59.26",
+      "line_total": "$118.52"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$66.35",
+      "line_total": "$132.70"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$24.30",
+      "line_total": "$48.60"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$18.82",
+      "line_total": "$75.28"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$10.31",
+      "line_total": "$10.31"
+    }
+  ],
+  "sample_id": "receipt_0507"
+}

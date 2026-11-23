@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ryan Davis
+Passport No: P74296668
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P74296668",
+  "full_name": "Ryan Davis",
+  "nationality": "GB",
+  "date_of_birth": "1988-04-29",
+  "issue_date": "2021-03-04",
+  "expiry_date": "2031-03-04",
+  "place_of_birth": "Lopezbury",
+  "sample_id": "passport_0630"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Wendy Smith
+License: DL345066049
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL345066049",
+  "full_name": "Wendy Smith",
+  "date_of_birth": "1975-07-27",
+  "class": "D",
+  "issue_date": "2024-08-19",
+  "expiry_date": "2029-08-19",
+  "address": "02724 Lee Rapids, West David, MO 63245",
+  "sample_id": "driving_license_0613"
+}

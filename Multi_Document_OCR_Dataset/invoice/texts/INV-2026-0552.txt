@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0552
+Company: Golden Harvest Store
+Company Address: 133 Doha Business Park, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 247 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-05-18
+Due Date: 2026-06-17
+Currency: USD
+Subtotal: 6910.23
+Tax: 492.35
+Total: 7082.07
+Balance Due: 2684.15
+Status: partial

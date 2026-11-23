@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CL7XG33Y",
+  "account_holder": "Todd Hardin",
+  "account_number_masked": "****6566",
+  "period_start": "2025-11-26",
+  "period_end": "2025-12-26",
+  "opening_balance": 3529.22,
+  "closing_balance": 5559.97,
+  "transactions": 12,
+  "sample_id": "bank_statement_0820"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-U9K9XJUY0
+Holder: Jeffrey Washington
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-U9K9XJUY0",
+  "policy_holder": "Jeffrey Washington",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-26",
+  "expiry_date": "2027-05-26",
+  "premium": 1893.51,
+  "coverage_amount": 418091.06,
+  "beneficiary": "Lawrence Edwards",
+  "sample_id": "insurance_document_0073"
+}

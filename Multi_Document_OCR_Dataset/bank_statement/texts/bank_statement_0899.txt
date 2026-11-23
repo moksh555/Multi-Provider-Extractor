@@ -1,0 +1,16 @@
+Bank Statement STM-B77UQNYB
+Holder: Rebecca Davis
+Closing Balance: $1568.99
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B77UQNYB",
+  "account_holder": "Rebecca Davis",
+  "account_number_masked": "****0277",
+  "period_start": "2024-11-23",
+  "period_end": "2024-12-23",
+  "opening_balance": 561.77,
+  "closing_balance": 1568.99,
+  "transactions": 13,
+  "sample_id": "bank_statement_0899"
+}

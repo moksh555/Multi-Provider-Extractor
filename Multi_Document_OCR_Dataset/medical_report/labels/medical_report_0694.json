@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-3X6ZLIM1",
+  "patient_name": "Kevin Burch",
+  "visit_date": "2024-04-23",
+  "doctor_name": "Dr. Melissa Hill",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0694"
+}

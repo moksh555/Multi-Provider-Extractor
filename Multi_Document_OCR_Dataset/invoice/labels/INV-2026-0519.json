@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0519",
+  "invoice_number": "INV-2026-0519",
+  "company_name": "Delta Insurance Services",
+  "company_address": "100 Uttara Sector 7, Sylhet, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "102 Al Barsha, Dubai, UAE",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-02-20",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 4,
+      "unit_price": 494.73,
+      "amount": 1978.92
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 12,
+      "unit_price": 638.29,
+      "amount": 7659.48
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 279.0,
+      "amount": 558.0
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 761.29,
+      "amount": 5329.03
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 69.21,
+      "amount": 484.47
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 191.21,
+      "amount": 191.21
+    }
+  ],
+  "subtotal": 16201.11,
+  "discount": 810.06,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 15396.05,
+  "amount_paid": 4206.36,
+  "balance_due": 11189.69,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801527227152",
+  "po_number": "PO-15200"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NJLVT7RL",
+  "patient_name": "David Hall",
+  "visit_date": "2024-10-31",
+  "doctor_name": "Dr. Laura Lopez",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0431"
+}

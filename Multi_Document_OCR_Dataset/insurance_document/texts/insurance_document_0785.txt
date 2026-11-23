@@ -1,0 +1,16 @@
+Insurance Policy POL-5SIDASO7K
+Holder: Eric Everett
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5SIDASO7K",
+  "policy_holder": "Eric Everett",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-01-12",
+  "expiry_date": "2025-01-12",
+  "premium": 2072.24,
+  "coverage_amount": 422443.19,
+  "beneficiary": "Nicole Jordan",
+  "sample_id": "insurance_document_0785"
+}

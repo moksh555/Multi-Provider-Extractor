@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Victoria Martinez
+Passport No: P19913379
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P19913379",
+  "full_name": "Victoria Martinez",
+  "nationality": "BD",
+  "date_of_birth": "1997-05-10",
+  "issue_date": "2022-07-17",
+  "expiry_date": "2032-07-17",
+  "place_of_birth": "North Michelleport",
+  "sample_id": "passport_0920"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Laura Stone
+License: DL046683841
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL046683841",
+  "full_name": "Laura Stone",
+  "date_of_birth": "2001-11-10",
+  "class": "C",
+  "issue_date": "2025-07-22",
+  "expiry_date": "2030-07-22",
+  "address": "3204 Miller Gateway Suite 596, New Joshuaview, TN 33336",
+  "sample_id": "driving_license_0619"
+}

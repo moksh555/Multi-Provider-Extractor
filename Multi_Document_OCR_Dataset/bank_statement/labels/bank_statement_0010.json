@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XCQDJ5CU",
+  "account_holder": "Antonio Ramsey",
+  "account_number_masked": "****0223",
+  "period_start": "2026-02-03",
+  "period_end": "2026-03-05",
+  "opening_balance": 929.71,
+  "closing_balance": 4504.78,
+  "transactions": 8,
+  "sample_id": "bank_statement_0010"
+}

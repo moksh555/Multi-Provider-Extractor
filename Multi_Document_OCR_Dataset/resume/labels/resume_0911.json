@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Michelle Avery",
+  "email": "gallegosaaron@example.net",
+  "phone": "(371)699-6149x49185",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "SQL",
+    "AWS",
+    "TensorFlow",
+    "PyTorch",
+    "Pandas",
+    "Deep Learning",
+    "Machine Learning",
+    "Docker",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0911"
+}

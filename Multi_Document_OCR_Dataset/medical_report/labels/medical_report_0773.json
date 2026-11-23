@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CLPRNRR2",
+  "patient_name": "Terry Larson",
+  "visit_date": "2026-06-16",
+  "doctor_name": "Dr. Rose Villa",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0773"
+}

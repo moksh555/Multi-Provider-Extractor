@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-03DS0MWKO",
+  "policy_holder": "Tracy Rodriguez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-06-10",
+  "expiry_date": "2025-06-10",
+  "premium": 1837.39,
+  "coverage_amount": 373915.61,
+  "beneficiary": "Richard Moore",
+  "sample_id": "insurance_document_0888"
+}

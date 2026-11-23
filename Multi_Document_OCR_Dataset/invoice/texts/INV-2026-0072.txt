@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0072
+Company: UrbanBuild Construction
+Company Address: 21 Agrabad C/A, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 106 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-04-28
+Due Date: 2026-05-05
+Currency: QAR
+Subtotal: 15111.51
+Tax: 2266.73
+Total: 17378.24
+Balance Due: 0.0
+Status: paid

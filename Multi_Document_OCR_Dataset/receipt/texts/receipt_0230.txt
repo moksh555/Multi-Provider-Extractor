@@ -1,0 +1,49 @@
+Receipt RCT-PJL9R9KM
+Merchant: Smith, Cortez and Brown
+Date: 2025-10-28
+Total: $334.30
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PJL9R9KM",
+  "merchant_name": "Smith, Cortez and Brown",
+  "date": "2025-10-28",
+  "subtotal": 314.04,
+  "tax": 22.71,
+  "discount": 2.45,
+  "total": 334.3,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$41.84",
+      "line_total": "$125.52"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$25.93",
+      "line_total": "$51.86"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$44.90",
+      "line_total": "$89.80"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$15.92",
+      "line_total": "$15.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$15.47",
+      "line_total": "$30.94"
+    }
+  ],
+  "sample_id": "receipt_0230"
+}

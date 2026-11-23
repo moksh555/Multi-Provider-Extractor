@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0891
+Company: Golden Harvest Store
+Company Address: 160 Al Barsha, Riyadh, Saudi Arabia
+Customer: Sunrise Apparel
+Billing Address: 47 Jumeirah Lake Towers, Sylhet, Bangladesh
+Invoice Date: 2026-05-15
+Due Date: 2026-06-29
+Currency: BDT
+Subtotal: 8608.95
+Tax: 1226.78
+Total: 9455.28
+Balance Due: 4127.15
+Status: partial

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Melinda Weiss
+License: DL984839063
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL984839063",
+  "full_name": "Melinda Weiss",
+  "date_of_birth": "2002-04-15",
+  "class": "C",
+  "issue_date": "2020-03-05",
+  "expiry_date": "2025-03-05",
+  "address": "PSC 5080, Box 1963, APO AE 33915",
+  "sample_id": "driving_license_0996"
+}

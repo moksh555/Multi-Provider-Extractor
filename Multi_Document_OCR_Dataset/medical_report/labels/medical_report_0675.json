@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JEPBVSH4",
+  "patient_name": "Joseph Mclaughlin",
+  "visit_date": "2024-12-03",
+  "doctor_name": "Dr. Eric Moore",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0675"
+}

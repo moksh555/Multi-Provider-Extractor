@@ -1,0 +1,16 @@
+Bank Statement STM-0CX5J1II
+Holder: John Ortiz
+Closing Balance: $8254.62
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0CX5J1II",
+  "account_holder": "John Ortiz",
+  "account_number_masked": "****9114",
+  "period_start": "2026-06-03",
+  "period_end": "2026-07-03",
+  "opening_balance": 2584.83,
+  "closing_balance": 8254.62,
+  "transactions": 13,
+  "sample_id": "bank_statement_0510"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WAEHXIZI",
+  "patient_name": "Dominic Bass",
+  "visit_date": "2026-10-08",
+  "doctor_name": "Dr. Cathy Grant",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0343"
+}

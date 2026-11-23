@@ -1,0 +1,14 @@
+Medical Report MED-HO30VLDV
+Patient: Timothy Jackson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HO30VLDV",
+  "patient_name": "Timothy Jackson",
+  "visit_date": "2024-05-11",
+  "doctor_name": "Dr. Daniel Gray",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0867"
+}

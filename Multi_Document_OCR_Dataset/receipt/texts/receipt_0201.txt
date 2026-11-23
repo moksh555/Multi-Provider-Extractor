@@ -1,0 +1,43 @@
+Receipt RCT-TR23QIUA
+Merchant: Hardy-Hansen
+Date: 2025-07-24
+Total: $381.10
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TR23QIUA",
+  "merchant_name": "Hardy-Hansen",
+  "date": "2025-07-24",
+  "subtotal": 375.69,
+  "tax": 15.96,
+  "discount": 10.55,
+  "total": 381.1,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$24.37",
+      "line_total": "$73.11"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$38.90",
+      "line_total": "$38.90"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$56.56",
+      "line_total": "$113.12"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$37.64",
+      "line_total": "$150.56"
+    }
+  ],
+  "sample_id": "receipt_0201"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-8DMLC8XIZ
+Holder: Daniel Reyes
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8DMLC8XIZ",
+  "policy_holder": "Daniel Reyes",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-08-23",
+  "expiry_date": "2026-08-23",
+  "premium": 157.72,
+  "coverage_amount": 482474.89,
+  "beneficiary": "Pamela Rodgers",
+  "sample_id": "insurance_document_0936"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+William Young
+License: DL660535361
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL660535361",
+  "full_name": "William Young",
+  "date_of_birth": "1995-03-31",
+  "class": "A",
+  "issue_date": "2024-12-30",
+  "expiry_date": "2029-12-30",
+  "address": "9710 Anderson Islands, Mcdanielfurt, VT 55982",
+  "sample_id": "driving_license_0396"
+}

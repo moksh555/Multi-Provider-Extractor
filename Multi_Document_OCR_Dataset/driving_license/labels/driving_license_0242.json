@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL836652800",
+  "full_name": "Jessica Diaz",
+  "date_of_birth": "1999-10-13",
+  "class": "A",
+  "issue_date": "2021-06-11",
+  "expiry_date": "2026-06-11",
+  "address": "68872 Hansen Orchard Suite 495, Fitzgeraldville, WA 30617",
+  "sample_id": "driving_license_0242"
+}

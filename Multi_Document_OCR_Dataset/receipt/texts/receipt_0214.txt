@@ -1,0 +1,67 @@
+Receipt RCT-IUDUAHGK
+Merchant: Davidson, Hernandez and Serrano
+Date: 2021-01-18
+Total: $1151.39
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IUDUAHGK",
+  "merchant_name": "Davidson, Hernandez and Serrano",
+  "date": "2021-01-18",
+  "subtotal": 1060.66,
+  "tax": 99.09,
+  "discount": 8.36,
+  "total": 1151.39,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$73.72",
+      "line_total": "$147.44"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$56.15",
+      "line_total": "$168.45"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$54.21",
+      "line_total": "$216.84"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$66.94",
+      "line_total": "$133.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$17.93",
+      "line_total": "$71.72"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$9.91",
+      "line_total": "$39.64"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$37.81",
+      "line_total": "$37.81"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$61.22",
+      "line_total": "$244.88"
+    }
+  ],
+  "sample_id": "receipt_0214"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-LX6B02B7Y
+Holder: Patricia Johnson
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LX6B02B7Y",
+  "policy_holder": "Patricia Johnson",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-02-05",
+  "expiry_date": "2027-02-05",
+  "premium": 1035.56,
+  "coverage_amount": 323085.04,
+  "beneficiary": "Terry Martinez",
+  "sample_id": "insurance_document_0512"
+}

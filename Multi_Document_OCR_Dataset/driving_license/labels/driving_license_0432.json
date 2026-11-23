@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL208383513",
+  "full_name": "Catherine Smith",
+  "date_of_birth": "1963-05-10",
+  "class": "A",
+  "issue_date": "2022-04-07",
+  "expiry_date": "2027-04-07",
+  "address": "971 Morales Cape, Atkinstown, MA 57781",
+  "sample_id": "driving_license_0432"
+}

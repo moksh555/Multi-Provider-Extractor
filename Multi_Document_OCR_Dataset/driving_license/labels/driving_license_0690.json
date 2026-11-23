@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL221351951",
+  "full_name": "Holly Douglas",
+  "date_of_birth": "1988-02-11",
+  "class": "A",
+  "issue_date": "2024-04-06",
+  "expiry_date": "2029-04-06",
+  "address": "3415 Stephen Station, Goodwinview, MA 39205",
+  "sample_id": "driving_license_0690"
+}

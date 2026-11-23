@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SW23OGQ7",
+  "account_holder": "Antonio Porter",
+  "account_number_masked": "****5910",
+  "period_start": "2024-12-22",
+  "period_end": "2025-01-21",
+  "opening_balance": 2774.69,
+  "closing_balance": 3762.22,
+  "transactions": 13,
+  "sample_id": "bank_statement_0568"
+}

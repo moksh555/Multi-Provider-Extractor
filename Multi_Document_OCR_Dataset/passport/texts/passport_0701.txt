@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Terry Tucker
+Passport No: P44414089
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P44414089",
+  "full_name": "Terry Tucker",
+  "nationality": "US",
+  "date_of_birth": "1984-08-12",
+  "issue_date": "2024-02-28",
+  "expiry_date": "2034-02-28",
+  "place_of_birth": "Evansstad",
+  "sample_id": "passport_0701"
+}

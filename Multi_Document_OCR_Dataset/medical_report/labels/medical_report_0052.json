@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-1D81MGQY",
+  "patient_name": "Daniel Hatfield",
+  "visit_date": "2026-04-04",
+  "doctor_name": "Dr. Matthew Woodward",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0052"
+}

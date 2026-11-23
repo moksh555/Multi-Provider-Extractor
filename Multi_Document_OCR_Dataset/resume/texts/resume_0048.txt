@@ -1,0 +1,23 @@
+Resume
+Shawn Reyes
+Software Engineer
+Skills: FastAPI, Docker, Deep Learning, AWS, Machine Learning, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Shawn Reyes",
+  "email": "reginasingh@example.org",
+  "phone": "001-983-734-4470x488",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "Docker",
+    "Deep Learning",
+    "AWS",
+    "Machine Learning",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0048"
+}

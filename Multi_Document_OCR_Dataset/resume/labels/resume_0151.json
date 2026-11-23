@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Matthew Reynolds",
+  "email": "jenniferking@example.org",
+  "phone": "+1-903-515-8925x8490",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "LangChain",
+    "Computer Vision",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0151"
+}

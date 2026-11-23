@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-BDXWR04W",
+  "patient_name": "Lisa Stein",
+  "visit_date": "2025-02-27",
+  "doctor_name": "Dr. Timothy Mckee",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0071"
+}

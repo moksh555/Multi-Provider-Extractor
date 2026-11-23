@@ -1,0 +1,16 @@
+Insurance Policy POL-E6GBPS3Y7
+Holder: John Ray
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-E6GBPS3Y7",
+  "policy_holder": "John Ray",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-01-15",
+  "expiry_date": "2026-01-15",
+  "premium": 1146.49,
+  "coverage_amount": 474948.5,
+  "beneficiary": "Brittany Shepherd",
+  "sample_id": "insurance_document_0030"
+}

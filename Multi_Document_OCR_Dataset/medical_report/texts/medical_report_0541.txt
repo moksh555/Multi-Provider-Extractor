@@ -1,0 +1,14 @@
+Medical Report MED-DE7UAXIR
+Patient: James Watkins
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DE7UAXIR",
+  "patient_name": "James Watkins",
+  "visit_date": "2024-02-27",
+  "doctor_name": "Dr. Madeline Davis",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0541"
+}

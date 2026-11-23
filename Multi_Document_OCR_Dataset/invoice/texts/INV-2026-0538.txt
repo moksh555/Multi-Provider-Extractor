@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0538
+Company: Metro Print House
+Company Address: 60 Jumeirah Lake Towers, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 188 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-01-17
+Due Date: 2026-01-24
+Currency: USD
+Subtotal: 6645.17
+Tax: 299.03
+Total: 6279.68
+Balance Due: 2883.78
+Status: partial

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CATJQB4D",
+  "patient_name": "Taylor Mullen",
+  "visit_date": "2025-10-17",
+  "doctor_name": "Dr. Mr. David Wells",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0969"
+}

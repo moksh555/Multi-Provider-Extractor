@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0512
+Company: Eastern Care Pharmacy
+Company Address: 55 Al Barsha, Sylhet, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 89 Sheikh Zayed Road, Dhaka, Bangladesh
+Invoice Date: 2026-03-15
+Due Date: 2026-04-29
+Currency: USD
+Subtotal: 7616.31
+Tax: 0.0
+Total: 7235.49
+Balance Due: 0.0
+Status: paid

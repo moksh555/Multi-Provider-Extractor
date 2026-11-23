@@ -1,0 +1,23 @@
+Resume
+Thomas Clark
+Software Engineer
+Skills: FastAPI, SQL, TensorFlow, Machine Learning, Deep Learning, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Thomas Clark",
+  "email": "adrianboyle@example.org",
+  "phone": "(860)893-1642",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "FastAPI",
+    "SQL",
+    "TensorFlow",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0587"
+}

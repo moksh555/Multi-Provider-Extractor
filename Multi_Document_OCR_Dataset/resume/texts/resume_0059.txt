@@ -1,0 +1,24 @@
+Resume
+Daniel Hawkins
+Software Engineer
+Skills: LangChain, Machine Learning, TensorFlow, Docker, FastAPI, Streamlit, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Daniel Hawkins",
+  "email": "nancyballard@example.com",
+  "phone": "548.283.9974x1856",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "LangChain",
+    "Machine Learning",
+    "TensorFlow",
+    "Docker",
+    "FastAPI",
+    "Streamlit",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0059"
+}

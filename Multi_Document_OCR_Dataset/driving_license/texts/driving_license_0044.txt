@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Valencia
+License: DL995956048
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL995956048",
+  "full_name": "Michael Valencia",
+  "date_of_birth": "1976-04-20",
+  "class": "C",
+  "issue_date": "2020-07-24",
+  "expiry_date": "2025-07-24",
+  "address": "490 Thomas Run, Moonburgh, OR 57633",
+  "sample_id": "driving_license_0044"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL440227757",
+  "full_name": "Valerie Howard",
+  "date_of_birth": "1976-10-09",
+  "class": "C",
+  "issue_date": "2024-02-07",
+  "expiry_date": "2029-02-07",
+  "address": "87375 Aaron Skyway, North Maryfort, FL 12308",
+  "sample_id": "driving_license_0204"
+}

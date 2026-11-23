@@ -1,0 +1,16 @@
+Insurance Policy POL-05QPAHKZ2
+Holder: James Baker
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-05QPAHKZ2",
+  "policy_holder": "James Baker",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-07-28",
+  "expiry_date": "2024-07-28",
+  "premium": 2022.82,
+  "coverage_amount": 273075.62,
+  "beneficiary": "David Duran",
+  "sample_id": "insurance_document_0190"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-NQ7I11RU
+Patient: Paula Brown
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-NQ7I11RU",
+  "patient_name": "Paula Brown",
+  "visit_date": "2026-11-30",
+  "doctor_name": "Dr. Christina Ellis",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0868"
+}

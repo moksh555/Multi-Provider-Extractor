@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-UCB5DRLZ",
+  "patient_name": "Jonathan Taylor",
+  "visit_date": "2026-07-09",
+  "doctor_name": "Dr. Kenneth Clark",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0185"
+}

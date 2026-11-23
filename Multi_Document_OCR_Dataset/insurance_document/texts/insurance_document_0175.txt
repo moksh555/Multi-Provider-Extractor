@@ -1,0 +1,16 @@
+Insurance Policy POL-90S9BP4M1
+Holder: David Trevino
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-90S9BP4M1",
+  "policy_holder": "David Trevino",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-03-23",
+  "expiry_date": "2026-03-23",
+  "premium": 2426.03,
+  "coverage_amount": 169924.56,
+  "beneficiary": "Shawn Ortiz",
+  "sample_id": "insurance_document_0175"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-VUPRT77GG
+Holder: Christopher Hill
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VUPRT77GG",
+  "policy_holder": "Christopher Hill",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-10-15",
+  "expiry_date": "2024-10-15",
+  "premium": 565.29,
+  "coverage_amount": 422572.75,
+  "beneficiary": "Richard Smith",
+  "sample_id": "insurance_document_0193"
+}

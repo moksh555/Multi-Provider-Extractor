@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B94SARSA",
+  "account_holder": "Jay Reed",
+  "account_number_masked": "****2341",
+  "period_start": "2026-10-24",
+  "period_end": "2026-11-23",
+  "opening_balance": 2814.89,
+  "closing_balance": 6920.64,
+  "transactions": 9,
+  "sample_id": "bank_statement_0817"
+}

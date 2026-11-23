@@ -1,0 +1,14 @@
+Medical Report MED-B2JG50ZB
+Patient: Kristi Rios
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-B2JG50ZB",
+  "patient_name": "Kristi Rios",
+  "visit_date": "2024-06-12",
+  "doctor_name": "Dr. Bryan Pittman",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0036"
+}

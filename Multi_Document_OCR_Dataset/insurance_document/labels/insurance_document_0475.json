@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8P6FVDHR5",
+  "policy_holder": "Nancy Cook",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-05-16",
+  "expiry_date": "2024-05-16",
+  "premium": 2340.9,
+  "coverage_amount": 299432.66,
+  "beneficiary": "Stephanie Hurst",
+  "sample_id": "insurance_document_0475"
+}

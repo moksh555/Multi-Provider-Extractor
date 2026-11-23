@@ -1,0 +1,25 @@
+Resume
+James Frazier
+Machine Learning Engineer
+Skills: NLP, AWS, Streamlit, Computer Vision, Deep Learning, TensorFlow, Docker, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "James Frazier",
+  "email": "rose86@example.com",
+  "phone": "+1-873-874-4966x60723",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "NLP",
+    "AWS",
+    "Streamlit",
+    "Computer Vision",
+    "Deep Learning",
+    "TensorFlow",
+    "Docker",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0530"
+}

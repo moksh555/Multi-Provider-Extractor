@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PRLZKCZYH",
+  "policy_holder": "Ana Jensen MD",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-05-01",
+  "expiry_date": "2027-05-01",
+  "premium": 2403.08,
+  "coverage_amount": 39018.89,
+  "beneficiary": "Kelli Carter",
+  "sample_id": "insurance_document_0951"
+}

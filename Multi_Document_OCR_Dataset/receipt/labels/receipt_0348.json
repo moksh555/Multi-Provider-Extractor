@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A3K3OM5F",
+  "merchant_name": "Wolf and Sons",
+  "date": "2024-03-25",
+  "subtotal": 148.21,
+  "tax": 10.07,
+  "discount": 2.97,
+  "total": 155.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$32.54",
+      "line_total": "$97.62"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$47.04",
+      "line_total": "$47.04"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$3.55",
+      "line_total": "$3.55"
+    }
+  ],
+  "sample_id": "receipt_0348"
+}

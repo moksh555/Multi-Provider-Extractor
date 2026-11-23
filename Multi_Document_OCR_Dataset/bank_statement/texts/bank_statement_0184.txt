@@ -1,0 +1,16 @@
+Bank Statement STM-LAYKE3ZC
+Holder: Shannon Knight DDS
+Closing Balance: $3898.03
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LAYKE3ZC",
+  "account_holder": "Shannon Knight DDS",
+  "account_number_masked": "****3739",
+  "period_start": "2026-05-15",
+  "period_end": "2026-06-14",
+  "opening_balance": 3942.47,
+  "closing_balance": 3898.03,
+  "transactions": 14,
+  "sample_id": "bank_statement_0184"
+}

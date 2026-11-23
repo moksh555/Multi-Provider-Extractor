@@ -1,0 +1,23 @@
+Resume
+Kathy Snow
+Backend Developer
+Skills: Machine Learning, Python, Deep Learning, Pandas, Docker, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Kathy Snow",
+  "email": "nkennedy@example.net",
+  "phone": "001-312-499-0371",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "Python",
+    "Deep Learning",
+    "Pandas",
+    "Docker",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0470"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0721",
+  "invoice_number": "INV-2026-0721",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "132 Sheikh Zayed Road, Dhaka, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "44 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-01-26",
+  "due_date": "2026-02-10",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 355.29,
+      "amount": 710.58
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 7,
+      "unit_price": 618.32,
+      "amount": 4328.24
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 3,
+      "unit_price": 168.2,
+      "amount": 504.6
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 69.01,
+      "amount": 345.05
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 3,
+      "unit_price": 532.14,
+      "amount": 1596.42
+    }
+  ],
+  "subtotal": 7484.89,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 748.49,
+  "shipping": 5,
+  "total": 8238.38,
+  "amount_paid": 4769.59,
+  "balance_due": 3468.79,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801547797189",
+  "po_number": "PO-83356"
+}

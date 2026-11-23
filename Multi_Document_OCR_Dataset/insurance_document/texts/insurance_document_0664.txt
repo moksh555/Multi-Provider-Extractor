@@ -1,0 +1,16 @@
+Insurance Policy POL-NTP8AK8S2
+Holder: Ronald Khan
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NTP8AK8S2",
+  "policy_holder": "Ronald Khan",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-06-30",
+  "expiry_date": "2026-06-30",
+  "premium": 452.86,
+  "coverage_amount": 250316.98,
+  "beneficiary": "Renee Edwards",
+  "sample_id": "insurance_document_0664"
+}

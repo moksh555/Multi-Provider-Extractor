@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL435416636",
+  "full_name": "Christina Taylor",
+  "date_of_birth": "1984-03-21",
+  "class": "B",
+  "issue_date": "2026-12-25",
+  "expiry_date": "2031-12-25",
+  "address": "2925 Angela Stravenue, East Lonnieberg, VA 04365",
+  "sample_id": "driving_license_0288"
+}

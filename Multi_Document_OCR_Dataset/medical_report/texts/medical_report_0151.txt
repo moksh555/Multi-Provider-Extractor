@@ -1,0 +1,14 @@
+Medical Report MED-HRLFVWHW
+Patient: Denise Brewer
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HRLFVWHW",
+  "patient_name": "Denise Brewer",
+  "visit_date": "2024-12-12",
+  "doctor_name": "Dr. Jimmy Bell",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0151"
+}

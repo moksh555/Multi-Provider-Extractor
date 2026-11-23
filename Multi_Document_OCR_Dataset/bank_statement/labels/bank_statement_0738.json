@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MW8PNDSE",
+  "account_holder": "Lindsay Nicholson",
+  "account_number_masked": "****4987",
+  "period_start": "2026-06-14",
+  "period_end": "2026-07-14",
+  "opening_balance": 3890.55,
+  "closing_balance": 1547.72,
+  "transactions": 11,
+  "sample_id": "bank_statement_0738"
+}

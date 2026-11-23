@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Erik Harris",
+  "email": "rothxavier@example.org",
+  "phone": "001-276-596-5959x6560",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Machine Learning",
+    "Streamlit",
+    "FastAPI",
+    "PyTorch",
+    "Pandas",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0473"
+}

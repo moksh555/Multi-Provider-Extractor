@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-L6CAWQ3M",
+  "patient_name": "Erica Fisher DDS",
+  "visit_date": "2026-03-30",
+  "doctor_name": "Dr. Kyle Farmer",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0197"
+}

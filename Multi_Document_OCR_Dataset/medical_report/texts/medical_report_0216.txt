@@ -1,0 +1,14 @@
+Medical Report MED-XLWNG9J4
+Patient: Kayla Hudson
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XLWNG9J4",
+  "patient_name": "Kayla Hudson",
+  "visit_date": "2025-03-23",
+  "doctor_name": "Dr. Jillian Sanders",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0216"
+}

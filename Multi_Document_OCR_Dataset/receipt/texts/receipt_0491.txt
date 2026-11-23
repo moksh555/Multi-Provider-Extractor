@@ -1,0 +1,55 @@
+Receipt RCT-R9F5IV86
+Merchant: Drake-Smith
+Date: 2023-01-10
+Total: $1028.74
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-R9F5IV86",
+  "merchant_name": "Drake-Smith",
+  "date": "2023-01-10",
+  "subtotal": 939.33,
+  "tax": 90.0,
+  "discount": 0.59,
+  "total": 1028.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$50.89",
+      "line_total": "$50.89"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$27.64",
+      "line_total": "$82.92"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$61.95",
+      "line_total": "$247.80"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$12.68",
+      "line_total": "$25.36"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$71.28",
+      "line_total": "$285.12"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$61.81",
+      "line_total": "$247.24"
+    }
+  ],
+  "sample_id": "receipt_0491"
+}

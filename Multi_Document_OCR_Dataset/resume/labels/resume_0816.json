@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Ryan Mcguire",
+  "email": "ufranklin@example.org",
+  "phone": "(864)541-1935x472",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "LangChain",
+    "Computer Vision",
+    "AWS",
+    "Machine Learning",
+    "Pandas",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0816"
+}

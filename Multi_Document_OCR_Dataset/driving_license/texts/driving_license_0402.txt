@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Becker
+License: DL569663952
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL569663952",
+  "full_name": "Michael Becker",
+  "date_of_birth": "1965-05-23",
+  "class": "B",
+  "issue_date": "2023-03-09",
+  "expiry_date": "2028-03-09",
+  "address": "2017 Gibson Grove, West Taramouth, MD 96386",
+  "sample_id": "driving_license_0402"
+}

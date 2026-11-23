@@ -1,0 +1,16 @@
+Insurance Policy POL-ECJTR0M6H
+Holder: Justin White
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ECJTR0M6H",
+  "policy_holder": "Justin White",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-01-21",
+  "expiry_date": "2026-01-21",
+  "premium": 1976.9,
+  "coverage_amount": 153414.87,
+  "beneficiary": "Scott Hernandez",
+  "sample_id": "insurance_document_0805"
+}

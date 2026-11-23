@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nathaniel Brown
+License: DL363758901
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL363758901",
+  "full_name": "Nathaniel Brown",
+  "date_of_birth": "1966-12-14",
+  "class": "B",
+  "issue_date": "2024-03-18",
+  "expiry_date": "2029-03-18",
+  "address": "090 Kaiser Prairie Apt. 449, North Jennifer, NV 33956",
+  "sample_id": "driving_license_0903"
+}

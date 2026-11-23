@@ -1,0 +1,23 @@
+Resume
+Suzanne Mueller
+Data Analyst
+Skills: NLP, PyTorch, Streamlit, LangChain, TensorFlow, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Suzanne Mueller",
+  "email": "heidi08@example.com",
+  "phone": "(790)469-6904",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "PyTorch",
+    "Streamlit",
+    "LangChain",
+    "TensorFlow",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0181"
+}

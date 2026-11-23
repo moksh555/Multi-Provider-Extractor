@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Henry
+License: DL065674646
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL065674646",
+  "full_name": "Michael Henry",
+  "date_of_birth": "1985-12-26",
+  "class": "D",
+  "issue_date": "2023-05-22",
+  "expiry_date": "2028-05-22",
+  "address": "6465 Sarah Flats, Lake Katrina, AK 95818",
+  "sample_id": "driving_license_0139"
+}

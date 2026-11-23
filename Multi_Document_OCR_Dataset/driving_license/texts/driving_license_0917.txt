@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Dixon
+License: DL448780081
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL448780081",
+  "full_name": "James Dixon",
+  "date_of_birth": "1975-11-14",
+  "class": "A",
+  "issue_date": "2021-06-23",
+  "expiry_date": "2026-06-23",
+  "address": "Unit 1644 Box 0373, DPO AP 33285",
+  "sample_id": "driving_license_0917"
+}

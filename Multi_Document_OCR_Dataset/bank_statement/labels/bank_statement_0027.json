@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1HEND7H1",
+  "account_holder": "Kristin Salas",
+  "account_number_masked": "****4496",
+  "period_start": "2025-09-03",
+  "period_end": "2025-10-03",
+  "opening_balance": 4248.18,
+  "closing_balance": 7277.39,
+  "transactions": 13,
+  "sample_id": "bank_statement_0027"
+}

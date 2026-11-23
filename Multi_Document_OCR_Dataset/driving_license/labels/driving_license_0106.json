@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL761747749",
+  "full_name": "Michael Johnson",
+  "date_of_birth": "1988-12-29",
+  "class": "B",
+  "issue_date": "2023-07-18",
+  "expiry_date": "2028-07-18",
+  "address": "USS Lee, FPO AA 41617",
+  "sample_id": "driving_license_0106"
+}

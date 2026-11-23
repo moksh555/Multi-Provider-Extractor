@@ -1,0 +1,16 @@
+Synthetic Driving License
+Karen Thomas
+License: DL275189374
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL275189374",
+  "full_name": "Karen Thomas",
+  "date_of_birth": "1995-07-05",
+  "class": "C",
+  "issue_date": "2020-02-01",
+  "expiry_date": "2025-02-01",
+  "address": "5983 Susan Ranch Apt. 403, Johnfurt, NE 92336",
+  "sample_id": "driving_license_0783"
+}

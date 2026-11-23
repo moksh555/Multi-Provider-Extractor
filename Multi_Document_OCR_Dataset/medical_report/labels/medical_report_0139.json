@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-23F4CG41",
+  "patient_name": "Dorothy Hull",
+  "visit_date": "2024-07-26",
+  "doctor_name": "Dr. Robert Mejia",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0139"
+}

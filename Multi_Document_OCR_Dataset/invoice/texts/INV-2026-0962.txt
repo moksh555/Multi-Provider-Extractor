@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0962
+Company: Summit Agro Foods
+Company Address: 73 Agrabad C/A, Riyadh, Saudi Arabia
+Customer: MediLife Hospital
+Billing Address: 212 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-02-02
+Due Date: 2026-03-19
+Currency: QAR
+Subtotal: 9364.06
+Tax: 917.68
+Total: 10094.46
+Balance Due: 10094.46
+Status: unpaid

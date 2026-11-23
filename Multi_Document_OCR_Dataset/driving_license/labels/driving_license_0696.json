@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL037809365",
+  "full_name": "Sylvia Escobar",
+  "date_of_birth": "1999-08-23",
+  "class": "C",
+  "issue_date": "2025-05-30",
+  "expiry_date": "2030-05-30",
+  "address": "33399 Marshall Plain Apt. 513, Wilsonland, NJ 26374",
+  "sample_id": "driving_license_0696"
+}

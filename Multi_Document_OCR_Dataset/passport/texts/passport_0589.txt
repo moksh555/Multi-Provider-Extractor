@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kevin Schwartz
+Passport No: P70378767
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P70378767",
+  "full_name": "Kevin Schwartz",
+  "nationality": "CA",
+  "date_of_birth": "1969-06-23",
+  "issue_date": "2020-11-25",
+  "expiry_date": "2030-11-25",
+  "place_of_birth": "Jamesside",
+  "sample_id": "passport_0589"
+}

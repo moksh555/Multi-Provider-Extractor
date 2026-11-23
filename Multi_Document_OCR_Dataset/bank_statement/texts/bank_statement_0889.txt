@@ -1,0 +1,16 @@
+Bank Statement STM-Z5RX7RWW
+Holder: Shelby Mcdonald
+Closing Balance: $5221.63
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z5RX7RWW",
+  "account_holder": "Shelby Mcdonald",
+  "account_number_masked": "****5079",
+  "period_start": "2025-02-11",
+  "period_end": "2025-03-13",
+  "opening_balance": 3279.47,
+  "closing_balance": 5221.63,
+  "transactions": 14,
+  "sample_id": "bank_statement_0889"
+}

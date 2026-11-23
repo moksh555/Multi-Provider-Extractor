@@ -1,0 +1,16 @@
+Synthetic Driving License
+Stephanie Costa
+License: DL113352689
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL113352689",
+  "full_name": "Stephanie Costa",
+  "date_of_birth": "2001-06-05",
+  "class": "B",
+  "issue_date": "2023-03-10",
+  "expiry_date": "2028-03-10",
+  "address": "14364 Amber Court Apt. 000, Davidburgh, GU 89693",
+  "sample_id": "driving_license_0801"
+}

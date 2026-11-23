@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ORAC8CYN",
+  "merchant_name": "Munoz, Simmons and White",
+  "date": "2024-07-08",
+  "subtotal": 814.67,
+  "tax": 32.86,
+  "discount": 3.25,
+  "total": 844.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$15.20",
+      "line_total": "$30.40"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$53.11",
+      "line_total": "$106.22"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$78.10",
+      "line_total": "$78.10"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$79.60",
+      "line_total": "$318.40"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$42.22",
+      "line_total": "$84.44"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$16.23",
+      "line_total": "$16.23"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$41.92",
+      "line_total": "$41.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$69.48",
+      "line_total": "$138.96"
+    }
+  ],
+  "sample_id": "receipt_0324"
+}

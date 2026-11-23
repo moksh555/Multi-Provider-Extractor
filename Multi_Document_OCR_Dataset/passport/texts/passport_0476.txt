@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Barbara Smith
+Passport No: P34691648
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P34691648",
+  "full_name": "Barbara Smith",
+  "nationality": "CA",
+  "date_of_birth": "1987-10-06",
+  "issue_date": "2020-04-17",
+  "expiry_date": "2030-04-17",
+  "place_of_birth": "Kathyborough",
+  "sample_id": "passport_0476"
+}

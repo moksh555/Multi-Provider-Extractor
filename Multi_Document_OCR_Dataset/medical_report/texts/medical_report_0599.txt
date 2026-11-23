@@ -1,0 +1,14 @@
+Medical Report MED-91NOK9BS
+Patient: Leslie Clark
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-91NOK9BS",
+  "patient_name": "Leslie Clark",
+  "visit_date": "2026-07-26",
+  "doctor_name": "Dr. Justin Wilson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0599"
+}

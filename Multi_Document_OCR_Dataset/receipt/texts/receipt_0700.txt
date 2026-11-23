@@ -1,0 +1,55 @@
+Receipt RCT-R40E0GZG
+Merchant: Clark Ltd
+Date: 2022-08-27
+Total: $560.78
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-R40E0GZG",
+  "merchant_name": "Clark Ltd",
+  "date": "2022-08-27",
+  "subtotal": 512.82,
+  "tax": 54.02,
+  "discount": 6.06,
+  "total": 560.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$61.16",
+      "line_total": "$61.16"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$52.45",
+      "line_total": "$157.35"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$48.93",
+      "line_total": "$195.72"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$34.41",
+      "line_total": "$34.41"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$13.45",
+      "line_total": "$40.35"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$23.83",
+      "line_total": "$23.83"
+    }
+  ],
+  "sample_id": "receipt_0700"
+}

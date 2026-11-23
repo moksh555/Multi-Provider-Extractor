@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-T939AYQ6",
+  "merchant_name": "Arnold, Smith and Moreno",
+  "date": "2023-09-26",
+  "subtotal": 451.52,
+  "tax": 46.95,
+  "discount": 5.62,
+  "total": 492.85,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$73.36",
+      "line_total": "$293.44"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$21.27",
+      "line_total": "$85.08"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$73.00",
+      "line_total": "$73.00"
+    }
+  ],
+  "sample_id": "receipt_0131"
+}

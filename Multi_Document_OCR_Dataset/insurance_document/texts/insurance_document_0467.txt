@@ -1,0 +1,16 @@
+Insurance Policy POL-2RXTTQU6L
+Holder: Joel Mayer
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2RXTTQU6L",
+  "policy_holder": "Joel Mayer",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-04-09",
+  "expiry_date": "2025-04-09",
+  "premium": 1272.5,
+  "coverage_amount": 485654.78,
+  "beneficiary": "Michelle Phelps",
+  "sample_id": "insurance_document_0467"
+}

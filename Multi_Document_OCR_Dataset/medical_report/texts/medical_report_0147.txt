@@ -1,0 +1,14 @@
+Medical Report MED-8I5EX5SH
+Patient: Steven Baldwin
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8I5EX5SH",
+  "patient_name": "Steven Baldwin",
+  "visit_date": "2026-04-07",
+  "doctor_name": "Dr. Maria Fernandez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0147"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL484841461",
+  "full_name": "Elizabeth Knapp",
+  "date_of_birth": "1996-12-28",
+  "class": "A",
+  "issue_date": "2020-05-26",
+  "expiry_date": "2025-05-26",
+  "address": "24999 Tammy Summit Suite 014, Miguelfurt, GU 09370",
+  "sample_id": "driving_license_0299"
+}

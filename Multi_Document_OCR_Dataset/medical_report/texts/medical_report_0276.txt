@@ -1,0 +1,14 @@
+Medical Report MED-4SJ8HRAB
+Patient: Ivan Watson
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4SJ8HRAB",
+  "patient_name": "Ivan Watson",
+  "visit_date": "2026-05-20",
+  "doctor_name": "Dr. Cody Lynch",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0276"
+}

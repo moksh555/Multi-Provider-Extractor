@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Amy George",
+  "email": "kimberly74@example.com",
+  "phone": "511.428.2699x34517",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "LangChain",
+    "Docker",
+    "NLP",
+    "Machine Learning",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0420"
+}

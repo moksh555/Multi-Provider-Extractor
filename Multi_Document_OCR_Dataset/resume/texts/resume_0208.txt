@@ -1,0 +1,23 @@
+Resume
+Marilyn Henderson
+Data Analyst
+Skills: TensorFlow, PyTorch, SQL, Computer Vision, Machine Learning, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Marilyn Henderson",
+  "email": "jacqueline97@example.com",
+  "phone": "874.705.7144",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "SQL",
+    "Computer Vision",
+    "Machine Learning",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0208"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4FP4V8Z3",
+  "account_holder": "Scott Browning",
+  "account_number_masked": "****6951",
+  "period_start": "2026-01-18",
+  "period_end": "2026-02-17",
+  "opening_balance": 4767.26,
+  "closing_balance": 7545.45,
+  "transactions": 14,
+  "sample_id": "bank_statement_0483"
+}

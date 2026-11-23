@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0269
+Company: Summit Agro Foods
+Company Address: 76 Zindabazar Road, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 81 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-04-15
+Due Date: 2026-05-30
+Currency: QAR
+Subtotal: 14967.89
+Tax: 2132.92
+Total: 16357.42
+Balance Due: 16357.42
+Status: unpaid

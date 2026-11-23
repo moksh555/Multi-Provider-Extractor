@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Renee Clarke",
+  "email": "fryjason@example.org",
+  "phone": "811-572-3035x82172",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "TensorFlow",
+    "NLP",
+    "LangChain",
+    "Machine Learning",
+    "Pandas",
+    "Docker",
+    "Python",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0712"
+}

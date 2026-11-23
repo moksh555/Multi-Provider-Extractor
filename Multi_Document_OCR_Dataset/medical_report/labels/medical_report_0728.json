@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NW60WJNJ",
+  "patient_name": "Brian Baker",
+  "visit_date": "2025-01-22",
+  "doctor_name": "Dr. Troy Moses",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0728"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0846",
+  "invoice_number": "INV-2026-0846",
+  "company_name": "Golden Harvest Store",
+  "company_address": "26 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "123 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-20",
+  "due_date": "2026-02-04",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 8,
+      "unit_price": 549.59,
+      "amount": 4396.72
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 241.85,
+      "amount": 241.85
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 40.7,
+      "amount": 162.8
+    }
+  ],
+  "subtotal": 4801.37,
+  "discount": 480.14,
+  "tax_rate": 0.15,
+  "tax": 648.18,
+  "shipping": 5,
+  "total": 4974.41,
+  "amount_paid": 4974.41,
+  "balance_due": 0.0,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801537458678",
+  "po_number": "PO-21564"
+}

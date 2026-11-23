@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9WX1VAD5",
+  "merchant_name": "Woods, Villa and Melton",
+  "date": "2024-10-24",
+  "subtotal": 671.93,
+  "tax": 50.3,
+  "discount": 2.93,
+  "total": 719.3,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$51.86",
+      "line_total": "$51.86"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$39.98",
+      "line_total": "$39.98"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$32.72",
+      "line_total": "$32.72"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$79.64",
+      "line_total": "$159.28"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$68.23",
+      "line_total": "$136.46"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$65.85",
+      "line_total": "$131.70"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$14.28",
+      "line_total": "$57.12"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$62.81",
+      "line_total": "$62.81"
+    }
+  ],
+  "sample_id": "receipt_0837"
+}

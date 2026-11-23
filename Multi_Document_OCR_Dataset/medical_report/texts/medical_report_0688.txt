@@ -1,0 +1,14 @@
+Medical Report MED-MX8OHU0D
+Patient: Kayla Mcclain
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MX8OHU0D",
+  "patient_name": "Kayla Mcclain",
+  "visit_date": "2024-08-12",
+  "doctor_name": "Dr. Timothy Hall",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0688"
+}

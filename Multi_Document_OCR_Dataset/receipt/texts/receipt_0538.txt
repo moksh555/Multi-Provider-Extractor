@@ -1,0 +1,61 @@
+Receipt RCT-ZNAXS88U
+Merchant: Barry Ltd
+Date: 2021-03-06
+Total: $798.61
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZNAXS88U",
+  "merchant_name": "Barry Ltd",
+  "date": "2021-03-06",
+  "subtotal": 784.98,
+  "tax": 26.21,
+  "discount": 12.58,
+  "total": 798.61,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$62.07",
+      "line_total": "$248.28"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$18.71",
+      "line_total": "$56.13"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$50.62",
+      "line_total": "$151.86"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$74.18",
+      "line_total": "$74.18"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$48.32",
+      "line_total": "$193.28"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$16.73",
+      "line_total": "$16.73"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$22.26",
+      "line_total": "$44.52"
+    }
+  ],
+  "sample_id": "receipt_0538"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0128
+Company: Delta Insurance Services
+Company Address: 27 Motijheel C/A, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 17 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-02-04
+Due Date: 2026-02-11
+Currency: AED
+Subtotal: 11433.8
+Tax: 1629.32
+Total: 12491.43
+Balance Due: 5531.89
+Status: partial

@@ -1,0 +1,16 @@
+Bank Statement STM-92HA6ELO
+Holder: Jill Garner
+Closing Balance: $2526.05
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-92HA6ELO",
+  "account_holder": "Jill Garner",
+  "account_number_masked": "****8480",
+  "period_start": "2026-07-05",
+  "period_end": "2026-08-04",
+  "opening_balance": 1709.0,
+  "closing_balance": 2526.05,
+  "transactions": 8,
+  "sample_id": "bank_statement_0539"
+}

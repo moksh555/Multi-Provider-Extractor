@@ -1,0 +1,16 @@
+Synthetic Driving License
+Maria Fisher
+License: DL307310948
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL307310948",
+  "full_name": "Maria Fisher",
+  "date_of_birth": "2002-01-31",
+  "class": "A",
+  "issue_date": "2025-01-11",
+  "expiry_date": "2030-01-11",
+  "address": "Unit 6766 Box 1825, DPO AE 23893",
+  "sample_id": "driving_license_0119"
+}

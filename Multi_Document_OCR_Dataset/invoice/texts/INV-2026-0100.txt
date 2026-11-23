@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0100
+Company: PrimeSoft Technologies
+Company Address: 141 Mirpur DOHS, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 41 Mirpur DOHS, Doha, Qatar
+Invoice Date: 2026-05-25
+Due Date: 2026-06-09
+Currency: SAR
+Subtotal: 4283.45
+Tax: 0.0
+Total: 4308.45
+Balance Due: 1866.49
+Status: partial

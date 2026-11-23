@@ -1,0 +1,16 @@
+Synthetic Driving License
+Zachary Robinson
+License: DL980712668
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL980712668",
+  "full_name": "Zachary Robinson",
+  "date_of_birth": "1976-11-17",
+  "class": "B",
+  "issue_date": "2026-08-03",
+  "expiry_date": "2031-08-03",
+  "address": "2239 Drake Square Suite 905, New Stacy, MP 65018",
+  "sample_id": "driving_license_0175"
+}

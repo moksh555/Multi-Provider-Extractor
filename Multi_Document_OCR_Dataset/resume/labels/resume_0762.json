@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Travis Price",
+  "email": "millsyolanda@example.com",
+  "phone": "+1-386-702-9653x283",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "AWS",
+    "PyTorch",
+    "Computer Vision",
+    "Python",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0762"
+}

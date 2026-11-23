@@ -1,0 +1,26 @@
+Resume
+Michael Oneill
+Computer Vision Engineer
+Skills: Deep Learning, PyTorch, TensorFlow, AWS, Streamlit, SQL, Python, Pandas, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Oneill",
+  "email": "xharrington@example.net",
+  "phone": "(467)262-5906",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow",
+    "AWS",
+    "Streamlit",
+    "SQL",
+    "Python",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0144"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL672383971",
+  "full_name": "Kimberly James",
+  "date_of_birth": "1999-06-22",
+  "class": "B",
+  "issue_date": "2020-08-05",
+  "expiry_date": "2025-08-05",
+  "address": "491 Linda Cove Apt. 096, South Karenside, CT 83538",
+  "sample_id": "driving_license_0560"
+}

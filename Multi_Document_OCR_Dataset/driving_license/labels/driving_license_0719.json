@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL752396804",
+  "full_name": "Tricia Sullivan",
+  "date_of_birth": "2003-10-21",
+  "class": "C",
+  "issue_date": "2020-08-23",
+  "expiry_date": "2025-08-23",
+  "address": "Unit 7948 Box 7148, DPO AA 44705",
+  "sample_id": "driving_license_0719"
+}

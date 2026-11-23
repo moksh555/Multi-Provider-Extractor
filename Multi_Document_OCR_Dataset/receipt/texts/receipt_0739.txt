@@ -1,0 +1,61 @@
+Receipt RCT-5VCMGJVC
+Merchant: Houston Inc
+Date: 2024-12-21
+Total: $334.16
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5VCMGJVC",
+  "merchant_name": "Houston Inc",
+  "date": "2024-12-21",
+  "subtotal": 311.79,
+  "tax": 34.39,
+  "discount": 12.02,
+  "total": 334.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$28.36",
+      "line_total": "$85.08"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$26.36",
+      "line_total": "$26.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$22.43",
+      "line_total": "$67.29"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$20.66",
+      "line_total": "$61.98"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$4.70",
+      "line_total": "$18.80"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$1.21",
+      "line_total": "$4.84"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$47.44",
+      "line_total": "$47.44"
+    }
+  ],
+  "sample_id": "receipt_0739"
+}

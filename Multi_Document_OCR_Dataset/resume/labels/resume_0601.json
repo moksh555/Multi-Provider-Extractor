@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Patrick Hall",
+  "email": "davislaura@example.com",
+  "phone": "6492462455",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "Docker",
+    "Computer Vision",
+    "Machine Learning",
+    "FastAPI",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0601"
+}

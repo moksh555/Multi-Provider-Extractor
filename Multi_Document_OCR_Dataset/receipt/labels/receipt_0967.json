@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4U5EOOE4",
+  "merchant_name": "Simmons-Jordan",
+  "date": "2025-10-13",
+  "subtotal": 652.14,
+  "tax": 39.01,
+  "discount": 0.41,
+  "total": 690.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$58.42",
+      "line_total": "$233.68"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$20.65",
+      "line_total": "$20.65"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$30.53",
+      "line_total": "$91.59"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$75.49",
+      "line_total": "$75.49"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$35.44",
+      "line_total": "$35.44"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$1.34",
+      "line_total": "$5.36"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$63.31",
+      "line_total": "$189.93"
+    }
+  ],
+  "sample_id": "receipt_0967"
+}

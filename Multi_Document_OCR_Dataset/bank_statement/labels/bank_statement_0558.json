@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7W683O3F",
+  "account_holder": "Krista Price",
+  "account_number_masked": "****3201",
+  "period_start": "2026-04-11",
+  "period_end": "2026-05-11",
+  "opening_balance": 3201.91,
+  "closing_balance": 6628.93,
+  "transactions": 9,
+  "sample_id": "bank_statement_0558"
+}

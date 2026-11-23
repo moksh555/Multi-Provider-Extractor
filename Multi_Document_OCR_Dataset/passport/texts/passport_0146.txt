@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ryan Reid
+Passport No: P07324892
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P07324892",
+  "full_name": "Ryan Reid",
+  "nationality": "AE",
+  "date_of_birth": "1997-10-03",
+  "issue_date": "2026-03-28",
+  "expiry_date": "2036-03-28",
+  "place_of_birth": "Port Keithberg",
+  "sample_id": "passport_0146"
+}

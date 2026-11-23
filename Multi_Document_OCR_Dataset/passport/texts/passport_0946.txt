@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Albert Ramirez
+Passport No: P73160929
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P73160929",
+  "full_name": "Albert Ramirez",
+  "nationality": "US",
+  "date_of_birth": "1983-02-13",
+  "issue_date": "2020-05-04",
+  "expiry_date": "2030-05-04",
+  "place_of_birth": "East Johnfort",
+  "sample_id": "passport_0946"
+}

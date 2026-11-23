@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PUSDDTV25",
+  "policy_holder": "Tara Holmes",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-08-20",
+  "expiry_date": "2025-08-20",
+  "premium": 1104.87,
+  "coverage_amount": 391792.86,
+  "beneficiary": "Richard Dixon",
+  "sample_id": "insurance_document_0178"
+}

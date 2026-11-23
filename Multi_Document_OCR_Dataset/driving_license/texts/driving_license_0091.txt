@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sergio Gomez
+License: DL426796360
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL426796360",
+  "full_name": "Sergio Gomez",
+  "date_of_birth": "2002-12-21",
+  "class": "D",
+  "issue_date": "2024-07-03",
+  "expiry_date": "2029-07-03",
+  "address": "Unit 4016 Box 5820, DPO AE 80136",
+  "sample_id": "driving_license_0091"
+}

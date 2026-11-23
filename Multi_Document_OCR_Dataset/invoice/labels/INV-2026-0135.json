@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0135",
+  "invoice_number": "INV-2026-0135",
+  "company_name": "Summit Agro Foods",
+  "company_address": "48 Uttara Sector 7, Doha, Qatar",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "75 Motijheel C/A, Doha, Qatar",
+  "invoice_date": "2026-05-28",
+  "due_date": "2026-07-12",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 612.38,
+      "amount": 4286.66
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 2,
+      "unit_price": 498.66,
+      "amount": 997.32
+    },
+    {
+      "description": "API Integration",
+      "quantity": 9,
+      "unit_price": 348.33,
+      "amount": 3134.97
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 60.55,
+      "amount": 302.75
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 1,
+      "unit_price": 8.71,
+      "amount": 8.71
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 100.37,
+      "amount": 602.22
+    }
+  ],
+  "subtotal": 9332.63,
+  "discount": 186.65,
+  "tax_rate": 0.075,
+  "tax": 685.95,
+  "shipping": 5,
+  "total": 9836.93,
+  "amount_paid": 0,
+  "balance_due": 9836.93,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801273333564",
+  "po_number": "PO-13981"
+}

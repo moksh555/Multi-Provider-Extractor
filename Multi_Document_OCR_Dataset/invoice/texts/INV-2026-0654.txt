@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0654
+Company: BlueRiver Trading Co.
+Company Address: 118 Agrabad C/A, Sylhet, Bangladesh
+Customer: Global Mart
+Billing Address: 78 Al Barsha, Sylhet, Bangladesh
+Invoice Date: 2026-02-24
+Due Date: 2026-03-26
+Currency: SAR
+Subtotal: 1932.34
+Tax: 96.62
+Total: 2038.96
+Balance Due: 2038.96
+Status: overdue

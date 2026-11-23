@@ -1,0 +1,43 @@
+Receipt RCT-3RIH83J0
+Merchant: Ferguson, Sims and Clark
+Date: 2025-04-14
+Total: $295.79
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3RIH83J0",
+  "merchant_name": "Ferguson, Sims and Clark",
+  "date": "2025-04-14",
+  "subtotal": 271.06,
+  "tax": 30.27,
+  "discount": 5.54,
+  "total": 295.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$48.41",
+      "line_total": "$96.82"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$34.05",
+      "line_total": "$68.10"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$3.27",
+      "line_total": "$6.54"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$49.80",
+      "line_total": "$99.60"
+    }
+  ],
+  "sample_id": "receipt_0228"
+}

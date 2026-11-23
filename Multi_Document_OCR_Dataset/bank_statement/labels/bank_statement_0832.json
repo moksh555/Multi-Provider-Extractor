@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Q22TS2OW",
+  "account_holder": "Nathan Dillon",
+  "account_number_masked": "****2252",
+  "period_start": "2025-09-27",
+  "period_end": "2025-10-27",
+  "opening_balance": 1855.46,
+  "closing_balance": 3294.58,
+  "transactions": 10,
+  "sample_id": "bank_statement_0832"
+}

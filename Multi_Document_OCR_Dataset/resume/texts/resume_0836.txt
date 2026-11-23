@@ -1,0 +1,27 @@
+Resume
+Tricia Huff
+Computer Vision Engineer
+Skills: Streamlit, Deep Learning, SQL, Machine Learning, Computer Vision, FastAPI, Docker, NLP, Pandas, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Tricia Huff",
+  "email": "glennchloe@example.org",
+  "phone": "+1-673-616-3324x30872",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Streamlit",
+    "Deep Learning",
+    "SQL",
+    "Machine Learning",
+    "Computer Vision",
+    "FastAPI",
+    "Docker",
+    "NLP",
+    "Pandas",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0836"
+}

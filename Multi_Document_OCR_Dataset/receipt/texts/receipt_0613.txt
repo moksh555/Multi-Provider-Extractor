@@ -1,0 +1,43 @@
+Receipt RCT-GQ4HPVIU
+Merchant: Sanders, Sandoval and Douglas
+Date: 2022-05-21
+Total: $349.92
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GQ4HPVIU",
+  "merchant_name": "Sanders, Sandoval and Douglas",
+  "date": "2022-05-21",
+  "subtotal": 341.28,
+  "tax": 22.24,
+  "discount": 13.6,
+  "total": 349.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$40.06",
+      "line_total": "$40.06"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$16.68",
+      "line_total": "$16.68"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$50.17",
+      "line_total": "$200.68"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$41.93",
+      "line_total": "$83.86"
+    }
+  ],
+  "sample_id": "receipt_0613"
+}

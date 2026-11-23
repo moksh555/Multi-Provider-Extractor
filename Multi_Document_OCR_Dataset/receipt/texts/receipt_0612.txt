@@ -1,0 +1,37 @@
+Receipt RCT-E6XB1Z33
+Merchant: Burgess-Beasley
+Date: 2021-09-15
+Total: $452.52
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-E6XB1Z33",
+  "merchant_name": "Burgess-Beasley",
+  "date": "2021-09-15",
+  "subtotal": 434.44,
+  "tax": 20.0,
+  "discount": 1.92,
+  "total": 452.52,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$52.28",
+      "line_total": "$156.84"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$3.00",
+      "line_total": "$3.00"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$68.65",
+      "line_total": "$274.60"
+    }
+  ],
+  "sample_id": "receipt_0612"
+}

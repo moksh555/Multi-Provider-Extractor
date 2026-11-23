@@ -1,0 +1,16 @@
+Bank Statement STM-R20UWQD6
+Holder: Angela Christensen
+Closing Balance: $3567.76
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-R20UWQD6",
+  "account_holder": "Angela Christensen",
+  "account_number_masked": "****4407",
+  "period_start": "2025-11-16",
+  "period_end": "2025-12-16",
+  "opening_balance": 2163.16,
+  "closing_balance": 3567.76,
+  "transactions": 14,
+  "sample_id": "bank_statement_0793"
+}

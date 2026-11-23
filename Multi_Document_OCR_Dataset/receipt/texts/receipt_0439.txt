@@ -1,0 +1,61 @@
+Receipt RCT-Q8QMXETI
+Merchant: Delgado-Jackson
+Date: 2023-02-22
+Total: $816.03
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Q8QMXETI",
+  "merchant_name": "Delgado-Jackson",
+  "date": "2023-02-22",
+  "subtotal": 793.62,
+  "tax": 25.51,
+  "discount": 3.1,
+  "total": 816.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$72.13",
+      "line_total": "$216.39"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$51.88",
+      "line_total": "$155.64"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$12.17",
+      "line_total": "$48.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$24.73",
+      "line_total": "$98.92"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$16.75",
+      "line_total": "$16.75"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$53.11",
+      "line_total": "$106.22"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$75.51",
+      "line_total": "$151.02"
+    }
+  ],
+  "sample_id": "receipt_0439"
+}

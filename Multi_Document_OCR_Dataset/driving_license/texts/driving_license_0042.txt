@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Harrison
+License: DL837908549
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL837908549",
+  "full_name": "Michael Harrison",
+  "date_of_birth": "1986-10-15",
+  "class": "D",
+  "issue_date": "2024-05-16",
+  "expiry_date": "2029-05-16",
+  "address": "471 Sandra Turnpike Apt. 618, Lake Edward, KY 19144",
+  "sample_id": "driving_license_0042"
+}

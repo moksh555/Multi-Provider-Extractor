@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL857069509",
+  "full_name": "Luis Wu",
+  "date_of_birth": "1998-09-17",
+  "class": "D",
+  "issue_date": "2025-11-08",
+  "expiry_date": "2030-11-08",
+  "address": "082 Kristen Oval, North Pattymouth, OR 76491",
+  "sample_id": "driving_license_0341"
+}

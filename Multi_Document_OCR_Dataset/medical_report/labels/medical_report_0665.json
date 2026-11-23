@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-J226W0VQ",
+  "patient_name": "Christopher Moon",
+  "visit_date": "2024-06-25",
+  "doctor_name": "Dr. Robert Nelson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0665"
+}

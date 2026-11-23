@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ACDNRWRC",
+  "patient_name": "Angelica Doyle",
+  "visit_date": "2025-03-31",
+  "doctor_name": "Dr. Marissa Moore",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0504"
+}

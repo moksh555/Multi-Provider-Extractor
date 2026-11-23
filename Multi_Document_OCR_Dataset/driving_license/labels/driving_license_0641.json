@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL856790002",
+  "full_name": "Larry Smith",
+  "date_of_birth": "1977-08-22",
+  "class": "C",
+  "issue_date": "2023-09-10",
+  "expiry_date": "2028-09-10",
+  "address": "55810 Michael Flat Apt. 863, Lauriestad, MA 54685",
+  "sample_id": "driving_license_0641"
+}

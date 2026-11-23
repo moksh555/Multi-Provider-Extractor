@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0103
+Company: CityBanking Supplies
+Company Address: 117 Dhanmondi 27, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 179 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-02-28
+Due Date: 2026-04-14
+Currency: SAR
+Subtotal: 1159.92
+Tax: 156.59
+Total: 1225.52
+Balance Due: 668.74
+Status: partial

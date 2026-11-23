@@ -1,0 +1,23 @@
+Resume
+Antonio Taylor
+Machine Learning Engineer
+Skills: Computer Vision, Streamlit, LangChain, TensorFlow, PyTorch, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Antonio Taylor",
+  "email": "jenniferclark@example.org",
+  "phone": "587-536-6271x35896",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Computer Vision",
+    "Streamlit",
+    "LangChain",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0069"
+}

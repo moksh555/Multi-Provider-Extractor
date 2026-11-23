@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0197
+Company: Delta Insurance Services
+Company Address: 68 Doha Business Park, Riyadh, Saudi Arabia
+Customer: Global Mart
+Billing Address: 54 Uttara Sector 7, Chattogram, Bangladesh
+Invoice Date: 2026-05-13
+Due Date: 2026-06-27
+Currency: SAR
+Subtotal: 10875.72
+Tax: 0.0
+Total: 10658.21
+Balance Due: 6365.23
+Status: partial

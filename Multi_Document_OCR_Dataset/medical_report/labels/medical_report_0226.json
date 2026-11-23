@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-PN6J25QG",
+  "patient_name": "April Morrison",
+  "visit_date": "2025-07-07",
+  "doctor_name": "Dr. Kristopher Little",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0226"
+}

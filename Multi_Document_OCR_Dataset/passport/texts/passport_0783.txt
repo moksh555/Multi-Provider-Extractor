@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jackson Gomez
+Passport No: P44979792
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P44979792",
+  "full_name": "Jackson Gomez",
+  "nationality": "GB",
+  "date_of_birth": "1971-10-20",
+  "issue_date": "2021-10-30",
+  "expiry_date": "2031-10-30",
+  "place_of_birth": "Codyside",
+  "sample_id": "passport_0783"
+}

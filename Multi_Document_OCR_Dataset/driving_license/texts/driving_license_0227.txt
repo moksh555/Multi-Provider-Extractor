@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joshua Miller
+License: DL651009913
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL651009913",
+  "full_name": "Joshua Miller",
+  "date_of_birth": "1965-12-06",
+  "class": "D",
+  "issue_date": "2023-06-24",
+  "expiry_date": "2028-06-24",
+  "address": "68222 Christina Glen Apt. 129, Port Karenside, NH 84999",
+  "sample_id": "driving_license_0227"
+}

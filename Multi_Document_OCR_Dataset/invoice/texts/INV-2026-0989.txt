@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0989
+Company: Atlas Engineering Ltd.
+Company Address: 111 Motijheel C/A, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 191 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-02-13
+Due Date: 2026-03-15
+Currency: QAR
+Subtotal: 9521.97
+Tax: 466.58
+Total: 9823.11
+Balance Due: 9823.11
+Status: unpaid

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0ICFMQ0Y",
+  "merchant_name": "Houston PLC",
+  "date": "2021-10-31",
+  "subtotal": 555.58,
+  "tax": 41.2,
+  "discount": 9.17,
+  "total": 587.61,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$35.24",
+      "line_total": "$35.24"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$67.47",
+      "line_total": "$134.94"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$20.43",
+      "line_total": "$20.43"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$54.19",
+      "line_total": "$108.38"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$12.96",
+      "line_total": "$51.84"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$23.33",
+      "line_total": "$93.32"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$76.12",
+      "line_total": "$76.12"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$35.31",
+      "line_total": "$35.31"
+    }
+  ],
+  "sample_id": "receipt_0364"
+}

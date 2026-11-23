@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6JXNNNGBP",
+  "policy_holder": "Karen Martinez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-04-08",
+  "expiry_date": "2025-04-08",
+  "premium": 2112.25,
+  "coverage_amount": 286480.83,
+  "beneficiary": "Devin Cole",
+  "sample_id": "insurance_document_0244"
+}

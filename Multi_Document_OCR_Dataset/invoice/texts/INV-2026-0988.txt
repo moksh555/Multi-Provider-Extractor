@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0988
+Company: UrbanBuild Construction
+Company Address: 95 Gulshan Avenue, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 171 Al Barsha, Doha, Qatar
+Invoice Date: 2026-04-03
+Due Date: 2026-04-10
+Currency: QAR
+Subtotal: 8007.19
+Tax: 1201.08
+Total: 9218.27
+Balance Due: 0.0
+Status: paid

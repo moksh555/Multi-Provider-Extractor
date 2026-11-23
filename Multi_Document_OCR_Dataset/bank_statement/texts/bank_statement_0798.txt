@@ -1,0 +1,16 @@
+Bank Statement STM-32A4TMZE
+Holder: Susan Smith
+Closing Balance: $7213.61
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-32A4TMZE",
+  "account_holder": "Susan Smith",
+  "account_number_masked": "****4257",
+  "period_start": "2025-01-24",
+  "period_end": "2025-02-23",
+  "opening_balance": 3565.68,
+  "closing_balance": 7213.61,
+  "transactions": 13,
+  "sample_id": "bank_statement_0798"
+}

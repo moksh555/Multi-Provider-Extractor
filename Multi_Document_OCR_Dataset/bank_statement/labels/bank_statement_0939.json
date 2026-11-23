@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TXR2VB4J",
+  "account_holder": "Christopher Davis",
+  "account_number_masked": "****4052",
+  "period_start": "2026-01-07",
+  "period_end": "2026-02-06",
+  "opening_balance": 1871.98,
+  "closing_balance": -1739.63,
+  "transactions": 12,
+  "sample_id": "bank_statement_0939"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joseph Rhodes
+License: DL564727757
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL564727757",
+  "full_name": "Joseph Rhodes",
+  "date_of_birth": "1993-07-09",
+  "class": "D",
+  "issue_date": "2022-02-11",
+  "expiry_date": "2027-02-11",
+  "address": "9121 Hester Junction Apt. 961, Port Roger, NM 37006",
+  "sample_id": "driving_license_0372"
+}

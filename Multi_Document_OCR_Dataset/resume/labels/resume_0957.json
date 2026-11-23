@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Sandra Chambers",
+  "email": "butlerjacob@example.net",
+  "phone": "+1-215-643-4491x9747",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "LangChain",
+    "FastAPI",
+    "Streamlit",
+    "Machine Learning",
+    "TensorFlow",
+    "Deep Learning",
+    "Docker",
+    "PyTorch",
+    "Python",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0957"
+}

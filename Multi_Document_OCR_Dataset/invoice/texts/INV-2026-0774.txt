@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0774
+Company: Nova Medical Supplies
+Company Address: 168 Al Barsha, Chattogram, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 112 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-03-24
+Due Date: 2026-04-08
+Currency: BDT
+Subtotal: 23092.82
+Tax: 1039.18
+Total: 21847.72
+Balance Due: 21847.72
+Status: overdue

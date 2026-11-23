@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0170
+Company: Golden Harvest Store
+Company Address: 181 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: MediLife Hospital
+Billing Address: 192 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-03-06
+Due Date: 2026-04-20
+Currency: AED
+Subtotal: 13622.03
+Tax: 1021.65
+Total: 14648.68
+Balance Due: 14648.68
+Status: overdue

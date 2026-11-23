@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0118",
+  "invoice_number": "INV-2026-0118",
+  "company_name": "Golden Harvest Store",
+  "company_address": "150 Dhanmondi 27, Sylhet, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "106 Al Barsha, Dubai, UAE",
+  "invoice_date": "2026-03-24",
+  "due_date": "2026-04-08",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 6,
+      "unit_price": 817.71,
+      "amount": 4906.26
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 8.16,
+      "amount": 57.12
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 5,
+      "unit_price": 509.63,
+      "amount": 2548.15
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 844.45,
+      "amount": 2533.35
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 260.88,
+      "amount": 260.88
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 4,
+      "unit_price": 728.52,
+      "amount": 2914.08
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 12,
+      "unit_price": 700.41,
+      "amount": 8404.92
+    }
+  ],
+  "subtotal": 21624.76,
+  "discount": 2162.48,
+  "tax_rate": 0.1,
+  "tax": 1946.23,
+  "shipping": 25,
+  "total": 21433.51,
+  "amount_paid": 0,
+  "balance_due": 21433.51,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801591031352",
+  "po_number": "PO-80397"
+}

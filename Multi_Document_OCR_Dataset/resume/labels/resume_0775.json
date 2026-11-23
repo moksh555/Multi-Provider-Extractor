@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Holly Bailey",
+  "email": "tracy61@example.com",
+  "phone": "+1-206-780-3040",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "AWS",
+    "Streamlit",
+    "Machine Learning",
+    "LangChain",
+    "Python",
+    "FastAPI",
+    "NLP",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0775"
+}

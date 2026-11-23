@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-X6ZDCUJQ",
+  "merchant_name": "Perry and Sons",
+  "date": "2026-08-01",
+  "subtotal": 349.62,
+  "tax": 37.05,
+  "discount": 11.71,
+  "total": 374.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$53.50",
+      "line_total": "$53.50"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$56.30",
+      "line_total": "$112.60"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$41.72",
+      "line_total": "$41.72"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$35.45",
+      "line_total": "$141.80"
+    }
+  ],
+  "sample_id": "receipt_0192"
+}

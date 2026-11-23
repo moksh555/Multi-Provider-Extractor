@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-185GCO04",
+  "patient_name": "Debbie Miller",
+  "visit_date": "2026-06-30",
+  "doctor_name": "Dr. Dana Ray",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0786"
+}

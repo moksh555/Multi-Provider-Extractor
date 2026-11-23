@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0405
+Company: CityBanking Supplies
+Company Address: 125 Jumeirah Lake Towers, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 72 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-02-05
+Due Date: 2026-03-22
+Currency: AED
+Subtotal: 16533.61
+Tax: 1116.02
+Total: 16001.27
+Balance Due: 9020.69
+Status: partial

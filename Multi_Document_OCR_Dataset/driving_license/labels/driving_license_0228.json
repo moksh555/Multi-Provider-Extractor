@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL780044637",
+  "full_name": "Donna Jones",
+  "date_of_birth": "1975-10-04",
+  "class": "A",
+  "issue_date": "2021-05-04",
+  "expiry_date": "2026-05-04",
+  "address": "5231 Harvey Fields Suite 775, Heatherberg, OK 74800",
+  "sample_id": "driving_license_0228"
+}

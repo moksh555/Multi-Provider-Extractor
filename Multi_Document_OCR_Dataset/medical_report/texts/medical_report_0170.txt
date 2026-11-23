@@ -1,0 +1,14 @@
+Medical Report MED-0VQ2Q6YH
+Patient: Michelle Jackson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0VQ2Q6YH",
+  "patient_name": "Michelle Jackson",
+  "visit_date": "2024-02-11",
+  "doctor_name": "Dr. Mr. Jesus Burgess",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0170"
+}

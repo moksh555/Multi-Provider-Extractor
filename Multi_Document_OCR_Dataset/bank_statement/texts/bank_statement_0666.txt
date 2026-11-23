@@ -1,0 +1,16 @@
+Bank Statement STM-GFPQEQQR
+Holder: Michael Williams
+Closing Balance: $4727.99
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GFPQEQQR",
+  "account_holder": "Michael Williams",
+  "account_number_masked": "****4889",
+  "period_start": "2024-06-23",
+  "period_end": "2024-07-23",
+  "opening_balance": 2036.2,
+  "closing_balance": 4727.99,
+  "transactions": 11,
+  "sample_id": "bank_statement_0666"
+}

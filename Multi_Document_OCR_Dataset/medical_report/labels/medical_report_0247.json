@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WIFRPU63",
+  "patient_name": "Elizabeth Marsh",
+  "visit_date": "2026-09-17",
+  "doctor_name": "Dr. Nathan Carlson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0247"
+}

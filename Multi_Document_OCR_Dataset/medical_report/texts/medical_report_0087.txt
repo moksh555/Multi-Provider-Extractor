@@ -1,0 +1,14 @@
+Medical Report MED-YVUPYVYP
+Patient: Lisa Morgan
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YVUPYVYP",
+  "patient_name": "Lisa Morgan",
+  "visit_date": "2024-07-22",
+  "doctor_name": "Dr. Heather Galvan",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0087"
+}

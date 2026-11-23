@@ -1,0 +1,37 @@
+Receipt RCT-JC5QPH6G
+Merchant: Jones Inc
+Date: 2021-08-09
+Total: $455.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JC5QPH6G",
+  "merchant_name": "Jones Inc",
+  "date": "2021-08-09",
+  "subtotal": 418.95,
+  "tax": 38.54,
+  "discount": 2.41,
+  "total": 455.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$77.11",
+      "line_total": "$231.33"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$16.69",
+      "line_total": "$33.38"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$38.56",
+      "line_total": "$154.24"
+    }
+  ],
+  "sample_id": "receipt_0317"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0815
+Company: Eastern Care Pharmacy
+Company Address: 146 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 136 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-04-26
+Due Date: 2026-05-03
+Currency: SAR
+Subtotal: 3696.54
+Tax: 351.17
+Total: 3912.88
+Balance Due: 3912.88
+Status: overdue

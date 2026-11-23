@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-Y7JOA9WA",
+  "patient_name": "Christian Thomas",
+  "visit_date": "2026-05-25",
+  "doctor_name": "Dr. Dana Evans",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0274"
+}

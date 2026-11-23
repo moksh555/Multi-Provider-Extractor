@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RQD41PH3",
+  "patient_name": "Matthew Williams",
+  "visit_date": "2025-09-11",
+  "doctor_name": "Dr. Stacey Taylor",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0479"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL889987854",
+  "full_name": "Joann Taylor",
+  "date_of_birth": "1982-06-23",
+  "class": "D",
+  "issue_date": "2021-05-07",
+  "expiry_date": "2026-05-07",
+  "address": "292 Smith Union Apt. 776, East Arianaland, WI 35044",
+  "sample_id": "driving_license_0913"
+}

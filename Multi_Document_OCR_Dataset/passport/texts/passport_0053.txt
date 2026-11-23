@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Veronica Oconnor
+Passport No: P56441028
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P56441028",
+  "full_name": "Veronica Oconnor",
+  "nationality": "GB",
+  "date_of_birth": "2000-02-22",
+  "issue_date": "2020-12-08",
+  "expiry_date": "2030-12-08",
+  "place_of_birth": "South Danielle",
+  "sample_id": "passport_0053"
+}

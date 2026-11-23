@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-8JAHOV99",
+  "patient_name": "Phillip Ellis",
+  "visit_date": "2024-06-06",
+  "doctor_name": "Dr. Kaitlyn Adams",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0760"
+}

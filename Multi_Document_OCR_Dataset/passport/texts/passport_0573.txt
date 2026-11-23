@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: John Jackson
+Passport No: P10872851
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10872851",
+  "full_name": "John Jackson",
+  "nationality": "BD",
+  "date_of_birth": "1992-05-10",
+  "issue_date": "2021-07-28",
+  "expiry_date": "2031-07-28",
+  "place_of_birth": "South Amyfurt",
+  "sample_id": "passport_0573"
+}

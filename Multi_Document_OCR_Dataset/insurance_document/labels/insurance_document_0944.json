@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F0402W29A",
+  "policy_holder": "Briana Taylor",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-05-02",
+  "expiry_date": "2025-05-02",
+  "premium": 505.29,
+  "coverage_amount": 168040.87,
+  "beneficiary": "Gina Barker",
+  "sample_id": "insurance_document_0944"
+}

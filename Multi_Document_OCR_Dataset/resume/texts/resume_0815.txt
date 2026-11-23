@@ -1,0 +1,26 @@
+Resume
+Marisa Mcconnell
+Machine Learning Engineer
+Skills: NLP, Streamlit, Deep Learning, Machine Learning, Python, FastAPI, Pandas, LangChain, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Marisa Mcconnell",
+  "email": "kruegerjade@example.com",
+  "phone": "882-518-2160",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "NLP",
+    "Streamlit",
+    "Deep Learning",
+    "Machine Learning",
+    "Python",
+    "FastAPI",
+    "Pandas",
+    "LangChain",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0815"
+}

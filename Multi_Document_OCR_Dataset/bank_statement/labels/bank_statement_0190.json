@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ISB8363D",
+  "account_holder": "Adam Keller",
+  "account_number_masked": "****1943",
+  "period_start": "2025-02-13",
+  "period_end": "2025-03-15",
+  "opening_balance": 3214.05,
+  "closing_balance": 5142.87,
+  "transactions": 13,
+  "sample_id": "bank_statement_0190"
+}

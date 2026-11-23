@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kristin Sullivan
+Passport No: P07635262
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P07635262",
+  "full_name": "Kristin Sullivan",
+  "nationality": "US",
+  "date_of_birth": "1991-12-08",
+  "issue_date": "2023-01-21",
+  "expiry_date": "2033-01-21",
+  "place_of_birth": "South Melissaville",
+  "sample_id": "passport_0752"
+}

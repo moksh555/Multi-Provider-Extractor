@@ -1,0 +1,16 @@
+Synthetic Driving License
+Bryan Kent
+License: DL412690762
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL412690762",
+  "full_name": "Bryan Kent",
+  "date_of_birth": "1966-09-23",
+  "class": "D",
+  "issue_date": "2021-09-16",
+  "expiry_date": "2026-09-16",
+  "address": "431 Regina Court Apt. 267, Woodstown, OR 90694",
+  "sample_id": "driving_license_0766"
+}

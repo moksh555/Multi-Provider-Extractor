@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL532144494",
+  "full_name": "Mercedes Garcia",
+  "date_of_birth": "1979-07-18",
+  "class": "A",
+  "issue_date": "2024-07-31",
+  "expiry_date": "2029-07-31",
+  "address": "22836 Erin Wells Suite 937, North Russell, RI 87910",
+  "sample_id": "driving_license_0863"
+}

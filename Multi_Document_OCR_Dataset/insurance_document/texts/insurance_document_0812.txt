@@ -1,0 +1,16 @@
+Insurance Policy POL-KUBJJJX1A
+Holder: Logan Patel
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KUBJJJX1A",
+  "policy_holder": "Logan Patel",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-03-10",
+  "expiry_date": "2027-03-10",
+  "premium": 1692.65,
+  "coverage_amount": 419639.9,
+  "beneficiary": "Ashley Oconnor",
+  "sample_id": "insurance_document_0812"
+}

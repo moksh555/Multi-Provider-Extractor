@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Joseph Cantrell
+Passport No: P02091036
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P02091036",
+  "full_name": "Joseph Cantrell",
+  "nationality": "AE",
+  "date_of_birth": "1997-02-08",
+  "issue_date": "2021-05-03",
+  "expiry_date": "2031-05-03",
+  "place_of_birth": "Williamsonview",
+  "sample_id": "passport_0256"
+}

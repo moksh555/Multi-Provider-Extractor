@@ -1,0 +1,55 @@
+Receipt RCT-6JBP33GI
+Merchant: Erickson, Jackson and Bernard
+Date: 2022-12-25
+Total: $518.58
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6JBP33GI",
+  "merchant_name": "Erickson, Jackson and Bernard",
+  "date": "2022-12-25",
+  "subtotal": 503.01,
+  "tax": 24.58,
+  "discount": 9.01,
+  "total": 518.58,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$28.14",
+      "line_total": "$84.42"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$17.13",
+      "line_total": "$51.39"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$13.88",
+      "line_total": "$41.64"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$70.45",
+      "line_total": "$211.35"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$20.65",
+      "line_total": "$20.65"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$23.39",
+      "line_total": "$93.56"
+    }
+  ],
+  "sample_id": "receipt_0867"
+}

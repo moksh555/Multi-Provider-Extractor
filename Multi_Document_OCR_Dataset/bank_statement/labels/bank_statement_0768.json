@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5BS3VOPP",
+  "account_holder": "Thomas Grant",
+  "account_number_masked": "****9432",
+  "period_start": "2026-12-27",
+  "period_end": "2027-01-26",
+  "opening_balance": 2160.4,
+  "closing_balance": -433.48,
+  "transactions": 12,
+  "sample_id": "bank_statement_0768"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Terry Adams
+Passport No: P87535759
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P87535759",
+  "full_name": "Terry Adams",
+  "nationality": "CA",
+  "date_of_birth": "1994-12-19",
+  "issue_date": "2021-01-17",
+  "expiry_date": "2031-01-17",
+  "place_of_birth": "Edwardmouth",
+  "sample_id": "passport_0789"
+}

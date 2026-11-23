@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL024547821",
+  "full_name": "Chad Harrison",
+  "date_of_birth": "1980-06-07",
+  "class": "B",
+  "issue_date": "2021-02-05",
+  "expiry_date": "2026-02-05",
+  "address": "08576 Bentley Summit, Patrickport, SD 77611",
+  "sample_id": "driving_license_0481"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-Z7FZ4X26
+Holder: Michele Wright
+Closing Balance: $3099.39
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z7FZ4X26",
+  "account_holder": "Michele Wright",
+  "account_number_masked": "****8339",
+  "period_start": "2025-06-23",
+  "period_end": "2025-07-23",
+  "opening_balance": 3364.31,
+  "closing_balance": 3099.39,
+  "transactions": 8,
+  "sample_id": "bank_statement_0726"
+}

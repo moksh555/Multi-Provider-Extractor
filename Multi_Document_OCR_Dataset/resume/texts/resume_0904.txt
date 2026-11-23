@@ -1,0 +1,27 @@
+Resume
+Richard Curry
+Backend Developer
+Skills: Deep Learning, LangChain, FastAPI, Machine Learning, AWS, PyTorch, Streamlit, TensorFlow, Python, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Richard Curry",
+  "email": "smithmichael@example.com",
+  "phone": "203-702-7596",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Deep Learning",
+    "LangChain",
+    "FastAPI",
+    "Machine Learning",
+    "AWS",
+    "PyTorch",
+    "Streamlit",
+    "TensorFlow",
+    "Python",
+    "Pandas"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0904"
+}

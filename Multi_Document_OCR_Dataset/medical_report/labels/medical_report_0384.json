@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CKY6KDJL",
+  "patient_name": "Joshua Riley",
+  "visit_date": "2025-02-04",
+  "doctor_name": "Dr. Jason Rodriguez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0384"
+}

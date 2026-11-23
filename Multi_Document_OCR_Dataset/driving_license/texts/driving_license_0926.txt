@@ -1,0 +1,16 @@
+Synthetic Driving License
+Randy Douglas
+License: DL240161153
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL240161153",
+  "full_name": "Randy Douglas",
+  "date_of_birth": "1993-11-26",
+  "class": "A",
+  "issue_date": "2026-08-07",
+  "expiry_date": "2031-08-07",
+  "address": "6191 Simpson Place Suite 682, Wagnerberg, MP 17473",
+  "sample_id": "driving_license_0926"
+}

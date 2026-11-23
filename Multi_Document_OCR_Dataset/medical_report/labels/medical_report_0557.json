@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-EIYPPFPQ",
+  "patient_name": "Sarah Vance",
+  "visit_date": "2024-02-08",
+  "doctor_name": "Dr. Anthony Bryant",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0557"
+}

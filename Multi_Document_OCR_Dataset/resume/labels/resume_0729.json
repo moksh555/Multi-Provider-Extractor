@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Aaron Meyers",
+  "email": "nathan56@example.org",
+  "phone": "001-537-906-9511x81961",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "PyTorch",
+    "Docker",
+    "Deep Learning",
+    "AWS",
+    "Machine Learning",
+    "Pandas",
+    "Streamlit",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0729"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joseph Benson
+License: DL277675235
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL277675235",
+  "full_name": "Joseph Benson",
+  "date_of_birth": "1992-05-30",
+  "class": "A",
+  "issue_date": "2025-02-03",
+  "expiry_date": "2030-02-03",
+  "address": "5676 Murray Points Apt. 612, Kristinshire, NY 49405",
+  "sample_id": "driving_license_0595"
+}

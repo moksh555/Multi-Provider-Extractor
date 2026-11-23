@@ -1,0 +1,16 @@
+Bank Statement STM-BB7N5WRK
+Holder: Sean Harper
+Closing Balance: $6939.54
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BB7N5WRK",
+  "account_holder": "Sean Harper",
+  "account_number_masked": "****0156",
+  "period_start": "2026-09-15",
+  "period_end": "2026-10-15",
+  "opening_balance": 4546.07,
+  "closing_balance": 6939.54,
+  "transactions": 10,
+  "sample_id": "bank_statement_0811"
+}

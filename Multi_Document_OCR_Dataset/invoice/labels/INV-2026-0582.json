@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0582",
+  "invoice_number": "INV-2026-0582",
+  "company_name": "Summit Agro Foods",
+  "company_address": "87 Zindabazar Road, Dubai, UAE",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "31 Zindabazar Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-07",
+  "due_date": "2026-01-22",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 772.51,
+      "amount": 5407.57
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 125.97,
+      "amount": 629.85
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 100.66,
+      "amount": 100.66
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 4,
+      "unit_price": 420.26,
+      "amount": 1681.04
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 191.71,
+      "amount": 1341.97
+    }
+  ],
+  "subtotal": 9161.09,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 687.08,
+  "shipping": 25,
+  "total": 9873.17,
+  "amount_paid": 0,
+  "balance_due": 9873.17,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801739363511",
+  "po_number": "PO-63882"
+}

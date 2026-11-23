@@ -1,0 +1,16 @@
+Bank Statement STM-9DKLWAZJ
+Holder: Sarah George
+Closing Balance: $1400.10
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9DKLWAZJ",
+  "account_holder": "Sarah George",
+  "account_number_masked": "****7746",
+  "period_start": "2026-05-23",
+  "period_end": "2026-06-22",
+  "opening_balance": 2076.24,
+  "closing_balance": 1400.1,
+  "transactions": 14,
+  "sample_id": "bank_statement_0852"
+}

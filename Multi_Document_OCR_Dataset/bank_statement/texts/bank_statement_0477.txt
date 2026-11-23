@@ -1,0 +1,16 @@
+Bank Statement STM-ZU368UUJ
+Holder: Eddie Klein
+Closing Balance: $6418.35
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZU368UUJ",
+  "account_holder": "Eddie Klein",
+  "account_number_masked": "****3866",
+  "period_start": "2025-08-30",
+  "period_end": "2025-09-29",
+  "opening_balance": 1353.7,
+  "closing_balance": 6418.35,
+  "transactions": 14,
+  "sample_id": "bank_statement_0477"
+}

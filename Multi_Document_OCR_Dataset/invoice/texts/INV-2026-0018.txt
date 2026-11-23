@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0018
+Company: SkyNet Office Mart
+Company Address: 73 Gulshan Avenue, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 196 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-06-02
+Due Date: 2026-06-17
+Currency: QAR
+Subtotal: 5355.9
+Tax: 508.81
+Total: 5596.91
+Balance Due: 5596.91
+Status: overdue

@@ -1,0 +1,61 @@
+Receipt RCT-9Q2L48C1
+Merchant: Beck, Howard and Brown
+Date: 2021-10-20
+Total: $724.52
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9Q2L48C1",
+  "merchant_name": "Beck, Howard and Brown",
+  "date": "2021-10-20",
+  "subtotal": 671.53,
+  "tax": 64.16,
+  "discount": 11.17,
+  "total": 724.52,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$16.18",
+      "line_total": "$32.36"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$66.43",
+      "line_total": "$265.72"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$31.40",
+      "line_total": "$62.80"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$59.27",
+      "line_total": "$118.54"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$37.41",
+      "line_total": "$74.82"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$38.35",
+      "line_total": "$76.70"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$13.53",
+      "line_total": "$40.59"
+    }
+  ],
+  "sample_id": "receipt_0155"
+}

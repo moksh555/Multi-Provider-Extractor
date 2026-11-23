@@ -1,0 +1,16 @@
+Bank Statement STM-LFVGPIRE
+Holder: Ashley Gilbert
+Closing Balance: $1527.81
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LFVGPIRE",
+  "account_holder": "Ashley Gilbert",
+  "account_number_masked": "****8176",
+  "period_start": "2026-11-06",
+  "period_end": "2026-12-06",
+  "opening_balance": 2549.05,
+  "closing_balance": 1527.81,
+  "transactions": 12,
+  "sample_id": "bank_statement_0541"
+}

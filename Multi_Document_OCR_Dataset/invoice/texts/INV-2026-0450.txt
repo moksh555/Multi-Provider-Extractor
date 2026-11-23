@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0450
+Company: Greenline Logistics
+Company Address: 150 Motijheel C/A, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 242 Mirpur DOHS, Doha, Qatar
+Invoice Date: 2026-05-29
+Due Date: 2026-07-13
+Currency: BDT
+Subtotal: 1145.61
+Tax: 84.2
+Total: 1206.9
+Balance Due: 572.55
+Status: partial

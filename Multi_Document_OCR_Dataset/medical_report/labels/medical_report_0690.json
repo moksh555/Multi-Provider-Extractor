@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-V1ZY9HW4",
+  "patient_name": "Ryan Hernandez",
+  "visit_date": "2025-01-26",
+  "doctor_name": "Dr. Taylor Smith",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0690"
+}

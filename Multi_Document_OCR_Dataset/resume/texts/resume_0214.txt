@@ -1,0 +1,26 @@
+Resume
+Amanda Shaw
+Computer Vision Engineer
+Skills: Computer Vision, FastAPI, SQL, Pandas, TensorFlow, AWS, LangChain, PyTorch, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Amanda Shaw",
+  "email": "sandovaldebra@example.org",
+  "phone": "(459)536-4502",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Computer Vision",
+    "FastAPI",
+    "SQL",
+    "Pandas",
+    "TensorFlow",
+    "AWS",
+    "LangChain",
+    "PyTorch",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0214"
+}

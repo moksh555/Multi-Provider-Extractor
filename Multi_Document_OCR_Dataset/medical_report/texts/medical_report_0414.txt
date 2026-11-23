@@ -1,0 +1,14 @@
+Medical Report MED-NV5X6UM6
+Patient: John Grant
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-NV5X6UM6",
+  "patient_name": "John Grant",
+  "visit_date": "2024-11-27",
+  "doctor_name": "Dr. Derek Hernandez",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0414"
+}

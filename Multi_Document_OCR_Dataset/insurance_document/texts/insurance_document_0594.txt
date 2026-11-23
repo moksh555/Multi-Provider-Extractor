@@ -1,0 +1,16 @@
+Insurance Policy POL-AMTFPW6M9
+Holder: Timothy Pierce PhD
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AMTFPW6M9",
+  "policy_holder": "Timothy Pierce PhD",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-02-10",
+  "expiry_date": "2025-02-10",
+  "premium": 796.16,
+  "coverage_amount": 117283.07,
+  "beneficiary": "Jennifer Baker",
+  "sample_id": "insurance_document_0594"
+}

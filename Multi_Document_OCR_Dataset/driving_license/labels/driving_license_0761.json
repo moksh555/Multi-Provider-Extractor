@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL861106802",
+  "full_name": "Joe Page",
+  "date_of_birth": "1969-07-20",
+  "class": "B",
+  "issue_date": "2020-09-24",
+  "expiry_date": "2025-09-24",
+  "address": "2536 Stephenson Mount, Wallacefurt, NH 48153",
+  "sample_id": "driving_license_0761"
+}

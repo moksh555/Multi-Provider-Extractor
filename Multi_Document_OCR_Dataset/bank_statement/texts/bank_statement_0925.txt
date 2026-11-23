@@ -1,0 +1,16 @@
+Bank Statement STM-4I36422I
+Holder: Rodney Baker
+Closing Balance: $6077.17
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4I36422I",
+  "account_holder": "Rodney Baker",
+  "account_number_masked": "****9076",
+  "period_start": "2024-07-04",
+  "period_end": "2024-08-03",
+  "opening_balance": 3547.94,
+  "closing_balance": 6077.17,
+  "transactions": 13,
+  "sample_id": "bank_statement_0925"
+}

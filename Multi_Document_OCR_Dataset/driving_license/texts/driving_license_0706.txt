@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michele Scott
+License: DL128962316
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL128962316",
+  "full_name": "Michele Scott",
+  "date_of_birth": "1966-09-02",
+  "class": "C",
+  "issue_date": "2026-03-02",
+  "expiry_date": "2031-03-02",
+  "address": "16667 Marie Circle, Allenchester, AZ 66589",
+  "sample_id": "driving_license_0706"
+}

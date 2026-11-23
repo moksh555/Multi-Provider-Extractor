@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0195",
+  "invoice_number": "INV-2026-0195",
+  "company_name": "Golden Harvest Store",
+  "company_address": "142 Uttara Sector 7, Chattogram, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "83 Doha Business Park, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-15",
+  "due_date": "2026-06-29",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 11,
+      "unit_price": 38.82,
+      "amount": 427.02
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 4,
+      "unit_price": 388.65,
+      "amount": 1554.6
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 7,
+      "unit_price": 192.06,
+      "amount": 1344.42
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 489.09,
+      "amount": 3423.63
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 5,
+      "unit_price": 471.56,
+      "amount": 2357.8
+    }
+  ],
+  "subtotal": 9107.47,
+  "discount": 910.75,
+  "tax_rate": 0.075,
+  "tax": 614.75,
+  "shipping": 0,
+  "total": 8811.47,
+  "amount_paid": 0,
+  "balance_due": 8811.47,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801252053443",
+  "po_number": "PO-42042"
+}

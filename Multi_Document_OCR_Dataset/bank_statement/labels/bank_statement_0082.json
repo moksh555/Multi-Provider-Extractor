@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BA9INCU2",
+  "account_holder": "Brianna Ward",
+  "account_number_masked": "****7978",
+  "period_start": "2025-10-18",
+  "period_end": "2025-11-17",
+  "opening_balance": 992.66,
+  "closing_balance": 7116.86,
+  "transactions": 8,
+  "sample_id": "bank_statement_0082"
+}

@@ -1,0 +1,25 @@
+Resume
+Alexander Jones
+Software Engineer
+Skills: PyTorch, TensorFlow, Computer Vision, Streamlit, FastAPI, Pandas, SQL, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Alexander Jones",
+  "email": "wstephenson@example.org",
+  "phone": "616.537.0500",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "TensorFlow",
+    "Computer Vision",
+    "Streamlit",
+    "FastAPI",
+    "Pandas",
+    "SQL",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0102"
+}

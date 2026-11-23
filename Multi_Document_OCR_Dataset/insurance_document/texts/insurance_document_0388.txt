@@ -1,0 +1,16 @@
+Insurance Policy POL-95RLQIOB0
+Holder: Elizabeth Thomas
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-95RLQIOB0",
+  "policy_holder": "Elizabeth Thomas",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-10-02",
+  "expiry_date": "2025-10-02",
+  "premium": 1058.08,
+  "coverage_amount": 470178.18,
+  "beneficiary": "Valerie Durham",
+  "sample_id": "insurance_document_0388"
+}

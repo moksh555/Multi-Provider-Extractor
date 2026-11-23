@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL529205460",
+  "full_name": "Abigail West",
+  "date_of_birth": "2005-11-30",
+  "class": "B",
+  "issue_date": "2024-06-03",
+  "expiry_date": "2029-06-03",
+  "address": "93218 York Bypass, North Williamstad, ND 22993",
+  "sample_id": "driving_license_0503"
+}

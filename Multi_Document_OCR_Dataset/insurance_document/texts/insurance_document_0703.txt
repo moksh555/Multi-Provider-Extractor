@@ -1,0 +1,16 @@
+Insurance Policy POL-ABTD5OAII
+Holder: Donna Wright
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ABTD5OAII",
+  "policy_holder": "Donna Wright",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-10-29",
+  "expiry_date": "2024-10-29",
+  "premium": 960.88,
+  "coverage_amount": 150554.64,
+  "beneficiary": "Luis Velez",
+  "sample_id": "insurance_document_0703"
+}

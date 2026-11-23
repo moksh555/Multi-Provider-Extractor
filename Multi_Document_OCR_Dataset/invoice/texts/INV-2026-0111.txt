@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0111
+Company: BlueRiver Trading Co.
+Company Address: 111 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Rahim Traders
+Billing Address: 27 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-02-09
+Due Date: 2026-02-16
+Currency: SAR
+Subtotal: 26306.48
+Tax: 1315.32
+Total: 27671.8
+Balance Due: 11956.28
+Status: partial

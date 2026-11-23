@@ -1,0 +1,14 @@
+Medical Report MED-LMBGCN9L
+Patient: Sean Duffy
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LMBGCN9L",
+  "patient_name": "Sean Duffy",
+  "visit_date": "2026-06-06",
+  "doctor_name": "Dr. Veronica Martinez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0996"
+}

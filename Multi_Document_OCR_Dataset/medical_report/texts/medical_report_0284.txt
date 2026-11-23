@@ -1,0 +1,14 @@
+Medical Report MED-MLSSLQ99
+Patient: Brent Pierce
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MLSSLQ99",
+  "patient_name": "Brent Pierce",
+  "visit_date": "2024-02-15",
+  "doctor_name": "Dr. Steven Buchanan",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0284"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0270
+Company: Metro Print House
+Company Address: 121 Zindabazar Road, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 180 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-16
+Due Date: 2026-02-23
+Currency: BDT
+Subtotal: 8191.1
+Tax: 1105.8
+Total: 8502.79
+Balance Due: 0.0
+Status: paid

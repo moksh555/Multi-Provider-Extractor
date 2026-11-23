@@ -1,0 +1,16 @@
+Bank Statement STM-7XOLXCY6
+Holder: David Smith
+Closing Balance: $7986.10
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7XOLXCY6",
+  "account_holder": "David Smith",
+  "account_number_masked": "****4684",
+  "period_start": "2024-11-15",
+  "period_end": "2024-12-15",
+  "opening_balance": 2073.09,
+  "closing_balance": 7986.1,
+  "transactions": 13,
+  "sample_id": "bank_statement_0580"
+}

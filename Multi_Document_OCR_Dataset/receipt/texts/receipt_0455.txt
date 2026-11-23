@@ -1,0 +1,43 @@
+Receipt RCT-2ZTDHF15
+Merchant: Guerrero-Pugh
+Date: 2023-07-21
+Total: $269.05
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2ZTDHF15",
+  "merchant_name": "Guerrero-Pugh",
+  "date": "2023-07-21",
+  "subtotal": 254.18,
+  "tax": 24.92,
+  "discount": 10.05,
+  "total": 269.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$5.15",
+      "line_total": "$5.15"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$4.35",
+      "line_total": "$17.40"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$76.05",
+      "line_total": "$152.10"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$26.51",
+      "line_total": "$79.53"
+    }
+  ],
+  "sample_id": "receipt_0455"
+}

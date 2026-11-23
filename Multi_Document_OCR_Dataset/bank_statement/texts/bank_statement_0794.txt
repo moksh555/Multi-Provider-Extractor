@@ -1,0 +1,16 @@
+Bank Statement STM-9T3IO39W
+Holder: Gina Sanchez
+Closing Balance: $4612.48
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9T3IO39W",
+  "account_holder": "Gina Sanchez",
+  "account_number_masked": "****8016",
+  "period_start": "2025-05-24",
+  "period_end": "2025-06-23",
+  "opening_balance": 2112.47,
+  "closing_balance": 4612.48,
+  "transactions": 12,
+  "sample_id": "bank_statement_0794"
+}

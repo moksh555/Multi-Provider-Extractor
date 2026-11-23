@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0241",
+  "invoice_number": "INV-2026-0241",
+  "company_name": "CityBanking Supplies",
+  "company_address": "175 Doha Business Park, Riyadh, Saudi Arabia",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "102 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-03-29",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 765.96,
+      "amount": 765.96
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 1,
+      "unit_price": 21.08,
+      "amount": 21.08
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 715.93,
+      "amount": 4295.58
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 513.15,
+      "amount": 6157.8
+    },
+    {
+      "description": "Web Development",
+      "quantity": 3,
+      "unit_price": 815.61,
+      "amount": 2446.83
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 475.93,
+      "amount": 1903.72
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 4,
+      "unit_price": 526.9,
+      "amount": 2107.6
+    }
+  ],
+  "subtotal": 17698.57,
+  "discount": 884.93,
+  "tax_rate": 0.075,
+  "tax": 1261.02,
+  "shipping": 10,
+  "total": 18084.66,
+  "amount_paid": 12013.19,
+  "balance_due": 6071.47,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801493743127",
+  "po_number": "PO-11537"
+}

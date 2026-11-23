@@ -1,0 +1,14 @@
+Medical Report MED-QPI6NPDH
+Patient: Austin Adams
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QPI6NPDH",
+  "patient_name": "Austin Adams",
+  "visit_date": "2024-04-04",
+  "doctor_name": "Dr. Rebecca Robinson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0674"
+}

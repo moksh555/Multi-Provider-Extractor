@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BYCZNYRB",
+  "account_holder": "Kathleen Jefferson",
+  "account_number_masked": "****2299",
+  "period_start": "2025-06-30",
+  "period_end": "2025-07-30",
+  "opening_balance": 2164.08,
+  "closing_balance": 3865.48,
+  "transactions": 11,
+  "sample_id": "bank_statement_0117"
+}

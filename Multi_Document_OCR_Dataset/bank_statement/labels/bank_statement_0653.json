@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7ZJC3WSF",
+  "account_holder": "Travis Walker",
+  "account_number_masked": "****2089",
+  "period_start": "2026-07-14",
+  "period_end": "2026-08-13",
+  "opening_balance": 4736.72,
+  "closing_balance": 6332.8,
+  "transactions": 8,
+  "sample_id": "bank_statement_0653"
+}

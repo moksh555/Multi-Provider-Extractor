@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0794
+Company: Royal Diagnostics Center
+Company Address: 199 Doha Business Park, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 180 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-04-16
+Due Date: 2026-04-23
+Currency: QAR
+Subtotal: 14684.75
+Tax: 1321.63
+Total: 14542.9
+Balance Due: 0.0
+Status: paid

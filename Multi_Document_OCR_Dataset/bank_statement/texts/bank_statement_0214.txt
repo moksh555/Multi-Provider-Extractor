@@ -1,0 +1,16 @@
+Bank Statement STM-0SZKBNSH
+Holder: Jessica Rodriguez
+Closing Balance: $5305.81
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0SZKBNSH",
+  "account_holder": "Jessica Rodriguez",
+  "account_number_masked": "****6566",
+  "period_start": "2024-06-05",
+  "period_end": "2024-07-05",
+  "opening_balance": 1901.13,
+  "closing_balance": 5305.81,
+  "transactions": 10,
+  "sample_id": "bank_statement_0214"
+}

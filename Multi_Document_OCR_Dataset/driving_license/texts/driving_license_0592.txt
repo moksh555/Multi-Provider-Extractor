@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mary Torres
+License: DL537855253
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL537855253",
+  "full_name": "Mary Torres",
+  "date_of_birth": "1990-07-26",
+  "class": "A",
+  "issue_date": "2021-10-17",
+  "expiry_date": "2026-10-17",
+  "address": "70349 Brian Inlet Apt. 650, West Devinport, WY 66298",
+  "sample_id": "driving_license_0592"
+}

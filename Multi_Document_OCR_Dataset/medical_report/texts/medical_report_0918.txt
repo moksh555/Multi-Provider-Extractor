@@ -1,0 +1,14 @@
+Medical Report MED-6IJT8WN4
+Patient: Catherine Chan
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6IJT8WN4",
+  "patient_name": "Catherine Chan",
+  "visit_date": "2026-04-30",
+  "doctor_name": "Dr. Marc Nguyen",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0918"
+}

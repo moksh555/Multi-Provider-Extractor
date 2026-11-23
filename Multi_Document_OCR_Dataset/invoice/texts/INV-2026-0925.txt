@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0925
+Company: Metro Print House
+Company Address: 187 Mirpur DOHS, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 135 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-02-18
+Due Date: 2026-02-25
+Currency: QAR
+Subtotal: 17746.33
+Tax: 798.59
+Total: 16820.29
+Balance Due: 16820.29
+Status: unpaid

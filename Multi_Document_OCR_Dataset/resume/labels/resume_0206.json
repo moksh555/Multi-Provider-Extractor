@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Steven Norman",
+  "email": "timothy93@example.net",
+  "phone": "929-356-5188",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "NLP",
+    "LangChain",
+    "Computer Vision",
+    "Streamlit",
+    "Docker",
+    "TensorFlow",
+    "Pandas",
+    "Deep Learning",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0206"
+}

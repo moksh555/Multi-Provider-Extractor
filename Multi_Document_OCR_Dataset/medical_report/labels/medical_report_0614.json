@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LNCE01LU",
+  "patient_name": "Nathaniel Daniel",
+  "visit_date": "2026-11-21",
+  "doctor_name": "Dr. Sean Santos",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0614"
+}

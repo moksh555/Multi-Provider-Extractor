@@ -1,0 +1,16 @@
+Bank Statement STM-FXY1JXCD
+Holder: Kristen Perry DVM
+Closing Balance: $5265.60
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FXY1JXCD",
+  "account_holder": "Kristen Perry DVM",
+  "account_number_masked": "****4381",
+  "period_start": "2025-08-05",
+  "period_end": "2025-09-04",
+  "opening_balance": 1008.53,
+  "closing_balance": 5265.6,
+  "transactions": 14,
+  "sample_id": "bank_statement_0341"
+}

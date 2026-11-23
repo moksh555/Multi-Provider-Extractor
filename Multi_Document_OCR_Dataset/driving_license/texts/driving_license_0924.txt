@@ -1,0 +1,16 @@
+Synthetic Driving License
+Melissa Hall
+License: DL245364680
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL245364680",
+  "full_name": "Melissa Hall",
+  "date_of_birth": "1994-08-07",
+  "class": "B",
+  "issue_date": "2021-09-29",
+  "expiry_date": "2026-09-29",
+  "address": "948 Wong Hills Suite 988, Lake Christopherstad, NV 82560",
+  "sample_id": "driving_license_0924"
+}

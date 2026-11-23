@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-S5CG01XG",
+  "patient_name": "Matthew Johnson",
+  "visit_date": "2026-08-14",
+  "doctor_name": "Dr. Stephanie Hendricks",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0620"
+}

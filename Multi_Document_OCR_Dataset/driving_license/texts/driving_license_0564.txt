@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lynn Mueller
+License: DL359810864
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL359810864",
+  "full_name": "Lynn Mueller",
+  "date_of_birth": "1984-02-29",
+  "class": "A",
+  "issue_date": "2026-08-30",
+  "expiry_date": "2031-08-30",
+  "address": "253 Christopher Mews Apt. 920, New Patrickberg, NH 83661",
+  "sample_id": "driving_license_0564"
+}

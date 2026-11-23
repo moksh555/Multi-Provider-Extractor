@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Mark Richmond",
+  "email": "smithpaul@example.org",
+  "phone": "(967)853-1805",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "LangChain",
+    "NLP",
+    "Deep Learning",
+    "Docker",
+    "Streamlit",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0298"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-VHPLHW4OQ
+Holder: Amanda Taylor
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VHPLHW4OQ",
+  "policy_holder": "Amanda Taylor",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-01-24",
+  "expiry_date": "2026-01-24",
+  "premium": 473.04,
+  "coverage_amount": 244713.37,
+  "beneficiary": "Patrick Rice",
+  "sample_id": "insurance_document_0698"
+}

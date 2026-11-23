@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XMO5BXXC",
+  "merchant_name": "Peterson, Carter and Moore",
+  "date": "2024-10-21",
+  "subtotal": 183.64,
+  "tax": 20.77,
+  "discount": 6.65,
+  "total": 197.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$16.03",
+      "line_total": "$32.06"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$34.33",
+      "line_total": "$68.66"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$20.73",
+      "line_total": "$82.92"
+    }
+  ],
+  "sample_id": "receipt_0008"
+}

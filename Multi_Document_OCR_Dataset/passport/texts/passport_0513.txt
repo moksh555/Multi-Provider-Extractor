@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Thomas
+Passport No: P14618346
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P14618346",
+  "full_name": "Michael Thomas",
+  "nationality": "US",
+  "date_of_birth": "1994-10-28",
+  "issue_date": "2021-06-25",
+  "expiry_date": "2031-06-25",
+  "place_of_birth": "Matthewsville",
+  "sample_id": "passport_0513"
+}

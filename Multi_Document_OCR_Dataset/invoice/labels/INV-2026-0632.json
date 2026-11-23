@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0632",
+  "invoice_number": "INV-2026-0632",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "118 Road 12, Banani, Doha, Qatar",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "66 Jumeirah Lake Towers, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-11",
+  "due_date": "2026-06-25",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 7,
+      "unit_price": 488.8,
+      "amount": 3421.6
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 10,
+      "unit_price": 708.76,
+      "amount": 7087.6
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 673.26,
+      "amount": 673.26
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 511.27,
+      "amount": 5112.7
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 7,
+      "unit_price": 635.06,
+      "amount": 4445.42
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 5,
+      "unit_price": 290.56,
+      "amount": 1452.8
+    }
+  ],
+  "subtotal": 22193.38,
+  "discount": 2219.34,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 20024.04,
+  "amount_paid": 0,
+  "balance_due": 20024.04,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801785916746",
+  "po_number": "PO-01722"
+}

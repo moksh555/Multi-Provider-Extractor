@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0046",
+  "invoice_number": "INV-2026-0046",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "106 Dhanmondi 27, Chattogram, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "118 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-20",
+  "due_date": "2026-06-19",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 5,
+      "unit_price": 197.34,
+      "amount": 986.7
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 5,
+      "unit_price": 601.53,
+      "amount": 3007.65
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 6,
+      "unit_price": 411.99,
+      "amount": 2471.94
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 12,
+      "unit_price": 238.25,
+      "amount": 2859.0
+    }
+  ],
+  "subtotal": 9325.29,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 466.26,
+  "shipping": 0,
+  "total": 9791.55,
+  "amount_paid": 0,
+  "balance_due": 9791.55,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801639898227",
+  "po_number": "PO-34242"
+}

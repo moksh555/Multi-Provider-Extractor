@@ -1,0 +1,14 @@
+Medical Report MED-31MB74L3
+Patient: David Hubbard
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-31MB74L3",
+  "patient_name": "David Hubbard",
+  "visit_date": "2026-02-17",
+  "doctor_name": "Dr. William Doyle",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0958"
+}

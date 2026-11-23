@@ -1,0 +1,16 @@
+Bank Statement STM-SLAUJ1U6
+Holder: David Huber
+Closing Balance: $6545.50
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SLAUJ1U6",
+  "account_holder": "David Huber",
+  "account_number_masked": "****3840",
+  "period_start": "2025-06-28",
+  "period_end": "2025-07-28",
+  "opening_balance": 4108.39,
+  "closing_balance": 6545.5,
+  "transactions": 8,
+  "sample_id": "bank_statement_0412"
+}

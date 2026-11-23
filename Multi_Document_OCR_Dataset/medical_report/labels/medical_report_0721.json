@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-F72D4PUR",
+  "patient_name": "Joanna Jones",
+  "visit_date": "2024-05-30",
+  "doctor_name": "Dr. Pamela Barry",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0721"
+}

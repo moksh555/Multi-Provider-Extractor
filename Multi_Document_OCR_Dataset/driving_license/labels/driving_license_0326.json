@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL215936220",
+  "full_name": "Ryan Bishop",
+  "date_of_birth": "1977-05-11",
+  "class": "D",
+  "issue_date": "2023-07-25",
+  "expiry_date": "2028-07-25",
+  "address": "4414 Murray Spring Apt. 938, Ericaburgh, MD 72277",
+  "sample_id": "driving_license_0326"
+}

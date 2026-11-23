@@ -1,0 +1,55 @@
+Receipt RCT-ZR5SWK8T
+Merchant: Mendez Ltd
+Date: 2022-06-25
+Total: $826.31
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZR5SWK8T",
+  "merchant_name": "Mendez Ltd",
+  "date": "2022-06-25",
+  "subtotal": 804.46,
+  "tax": 33.69,
+  "discount": 11.84,
+  "total": 826.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$36.06",
+      "line_total": "$144.24"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$15.94",
+      "line_total": "$47.82"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$66.96",
+      "line_total": "$133.92"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$46.72",
+      "line_total": "$186.88"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$47.88",
+      "line_total": "$191.52"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$25.02",
+      "line_total": "$100.08"
+    }
+  ],
+  "sample_id": "receipt_0204"
+}

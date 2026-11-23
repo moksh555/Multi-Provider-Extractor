@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-E50K61FT",
+  "merchant_name": "Ross-Hernandez",
+  "date": "2023-02-15",
+  "subtotal": 234.83,
+  "tax": 26.68,
+  "discount": 1.22,
+  "total": 260.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$41.54",
+      "line_total": "$124.62"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$74.61",
+      "line_total": "$74.61"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$8.90",
+      "line_total": "$35.60"
+    }
+  ],
+  "sample_id": "receipt_0914"
+}

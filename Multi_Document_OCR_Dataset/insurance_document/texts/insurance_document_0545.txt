@@ -1,0 +1,16 @@
+Insurance Policy POL-7XMR8FHYD
+Holder: Joseph Johnson
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7XMR8FHYD",
+  "policy_holder": "Joseph Johnson",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-09-22",
+  "expiry_date": "2024-09-22",
+  "premium": 532.43,
+  "coverage_amount": 86593.91,
+  "beneficiary": "Brian Johnson",
+  "sample_id": "insurance_document_0545"
+}

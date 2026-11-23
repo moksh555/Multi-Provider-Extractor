@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4T9N44FB",
+  "merchant_name": "Campbell, Martin and Klein",
+  "date": "2025-01-14",
+  "subtotal": 556.37,
+  "tax": 33.61,
+  "discount": 14.15,
+  "total": 575.83,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$33.67",
+      "line_total": "$134.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$9.49",
+      "line_total": "$9.49"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$31.98",
+      "line_total": "$127.92"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$23.90",
+      "line_total": "$71.70"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$27.97",
+      "line_total": "$111.88"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$12.98",
+      "line_total": "$51.92"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$24.39",
+      "line_total": "$48.78"
+    }
+  ],
+  "sample_id": "receipt_0917"
+}

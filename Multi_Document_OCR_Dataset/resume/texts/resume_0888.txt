@@ -1,0 +1,25 @@
+Resume
+Amanda Barrett
+Software Engineer
+Skills: Streamlit, Machine Learning, AWS, NLP, Deep Learning, LangChain, SQL, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Amanda Barrett",
+  "email": "samantha00@example.org",
+  "phone": "001-358-795-3815x750",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "Machine Learning",
+    "AWS",
+    "NLP",
+    "Deep Learning",
+    "LangChain",
+    "SQL",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0888"
+}

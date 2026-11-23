@@ -1,0 +1,23 @@
+Resume
+Tracy Patterson
+Software Engineer
+Skills: AWS, Machine Learning, Docker, Python, Deep Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Tracy Patterson",
+  "email": "christina42@example.net",
+  "phone": "+1-939-503-9799",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "Docker",
+    "Python",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0363"
+}

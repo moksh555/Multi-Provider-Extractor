@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL368539972",
+  "full_name": "Sarah Duncan",
+  "date_of_birth": "1990-10-04",
+  "class": "D",
+  "issue_date": "2023-04-19",
+  "expiry_date": "2028-04-19",
+  "address": "5046 Tyler Freeway, Shannonport, IL 69326",
+  "sample_id": "driving_license_0305"
+}

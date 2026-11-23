@@ -1,0 +1,14 @@
+Medical Report MED-MO3GD83J
+Patient: David Stanton
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MO3GD83J",
+  "patient_name": "David Stanton",
+  "visit_date": "2026-09-24",
+  "doctor_name": "Dr. Thomas Barnes",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0022"
+}

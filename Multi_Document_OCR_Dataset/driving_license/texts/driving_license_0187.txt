@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kelly Stark
+License: DL255865377
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL255865377",
+  "full_name": "Kelly Stark",
+  "date_of_birth": "1967-01-13",
+  "class": "C",
+  "issue_date": "2025-08-13",
+  "expiry_date": "2030-08-13",
+  "address": "62299 Sara Port Apt. 485, Bakerfort, OK 80318",
+  "sample_id": "driving_license_0187"
+}

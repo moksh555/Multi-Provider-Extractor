@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0999
+Company: UrbanBuild Construction
+Company Address: 83 Doha Business Park, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 225 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-02-24
+Due Date: 2026-03-11
+Currency: BDT
+Subtotal: 9880.68
+Tax: 494.03
+Total: 10384.71
+Balance Due: 10384.71
+Status: unpaid

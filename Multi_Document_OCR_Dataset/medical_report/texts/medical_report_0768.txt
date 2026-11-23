@@ -1,0 +1,14 @@
+Medical Report MED-E9651JS7
+Patient: Darrell Johnson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-E9651JS7",
+  "patient_name": "Darrell Johnson",
+  "visit_date": "2024-02-07",
+  "doctor_name": "Dr. Alison Campbell",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0768"
+}

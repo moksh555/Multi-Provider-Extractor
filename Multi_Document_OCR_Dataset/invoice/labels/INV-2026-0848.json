@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0848",
+  "invoice_number": "INV-2026-0848",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "100 Agrabad C/A, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "144 Al Barsha, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-17",
+  "due_date": "2026-02-24",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 5,
+      "unit_price": 245.79,
+      "amount": 1228.95
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 8,
+      "unit_price": 646.95,
+      "amount": 5175.6
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 507.71,
+      "amount": 6092.52
+    }
+  ],
+  "subtotal": 12497.07,
+  "discount": 249.94,
+  "tax_rate": 0.075,
+  "tax": 918.53,
+  "shipping": 10,
+  "total": 13175.66,
+  "amount_paid": 6298.18,
+  "balance_due": 6877.48,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801985891779",
+  "po_number": "PO-77007"
+}

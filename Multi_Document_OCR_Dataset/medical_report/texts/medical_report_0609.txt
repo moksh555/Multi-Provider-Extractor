@@ -1,0 +1,14 @@
+Medical Report MED-IN5NAUZK
+Patient: John Collier
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-IN5NAUZK",
+  "patient_name": "John Collier",
+  "visit_date": "2025-08-24",
+  "doctor_name": "Dr. Anthony Ashley",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0609"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0775
+Company: Golden Harvest Store
+Company Address: 30 Al Barsha, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 187 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-03-26
+Due Date: 2026-04-02
+Currency: SAR
+Subtotal: 13772.7
+Tax: 1239.54
+Total: 13659.97
+Balance Due: 13659.97
+Status: overdue

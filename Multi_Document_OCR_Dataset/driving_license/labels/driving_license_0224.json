@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL261367723",
+  "full_name": "Joe Rivera",
+  "date_of_birth": "1981-08-17",
+  "class": "A",
+  "issue_date": "2025-08-08",
+  "expiry_date": "2030-08-08",
+  "address": "48193 Russell Mission, Hamiltontown, MS 88751",
+  "sample_id": "driving_license_0224"
+}

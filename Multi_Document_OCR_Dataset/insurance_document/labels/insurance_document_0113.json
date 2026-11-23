@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FPWIOXD9C",
+  "policy_holder": "James Cross",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-01-19",
+  "expiry_date": "2027-01-19",
+  "premium": 1327.44,
+  "coverage_amount": 494282.43,
+  "beneficiary": "Erik Ibarra",
+  "sample_id": "insurance_document_0113"
+}

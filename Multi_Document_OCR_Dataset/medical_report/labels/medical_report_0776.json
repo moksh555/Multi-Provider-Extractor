@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-8GY75MYC",
+  "patient_name": "Brandon Bonilla",
+  "visit_date": "2025-06-24",
+  "doctor_name": "Dr. Samuel Henderson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0776"
+}

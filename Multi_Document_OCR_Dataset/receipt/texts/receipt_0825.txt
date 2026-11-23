@@ -1,0 +1,67 @@
+Receipt RCT-ZKGYR58M
+Merchant: Garcia Inc
+Date: 2026-06-04
+Total: $716.42
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZKGYR58M",
+  "merchant_name": "Garcia Inc",
+  "date": "2026-06-04",
+  "subtotal": 656.83,
+  "tax": 61.88,
+  "discount": 2.29,
+  "total": 716.42,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$8.42",
+      "line_total": "$33.68"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$54.55",
+      "line_total": "$54.55"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$30.72",
+      "line_total": "$30.72"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$61.98",
+      "line_total": "$185.94"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$33.13",
+      "line_total": "$132.52"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$42.40",
+      "line_total": "$169.60"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$23.72",
+      "line_total": "$47.44"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$2.38",
+      "line_total": "$2.38"
+    }
+  ],
+  "sample_id": "receipt_0825"
+}

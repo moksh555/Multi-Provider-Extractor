@@ -1,0 +1,16 @@
+Insurance Policy POL-P12SPFHV5
+Holder: Michael Chen
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-P12SPFHV5",
+  "policy_holder": "Michael Chen",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-08-06",
+  "expiry_date": "2027-08-06",
+  "premium": 1263.81,
+  "coverage_amount": 191893.93,
+  "beneficiary": "Charles Clark",
+  "sample_id": "insurance_document_0108"
+}

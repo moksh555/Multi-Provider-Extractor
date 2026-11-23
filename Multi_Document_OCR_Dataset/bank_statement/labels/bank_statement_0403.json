@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B7AR00NH",
+  "account_holder": "David Simmons",
+  "account_number_masked": "****2398",
+  "period_start": "2026-05-26",
+  "period_end": "2026-06-25",
+  "opening_balance": 845.65,
+  "closing_balance": 5424.3,
+  "transactions": 12,
+  "sample_id": "bank_statement_0403"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jill Sims
+License: DL474661886
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL474661886",
+  "full_name": "Jill Sims",
+  "date_of_birth": "1961-01-16",
+  "class": "D",
+  "issue_date": "2021-10-04",
+  "expiry_date": "2026-10-04",
+  "address": "09407 Foley Plains, New Nicolebury, IL 77684",
+  "sample_id": "driving_license_0297"
+}

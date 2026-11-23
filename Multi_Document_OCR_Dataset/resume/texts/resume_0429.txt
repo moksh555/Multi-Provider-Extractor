@@ -1,0 +1,25 @@
+Resume
+Angela Cole
+Computer Vision Engineer
+Skills: FastAPI, Pandas, AWS, LangChain, Python, PyTorch, Machine Learning, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Angela Cole",
+  "email": "gregory40@example.org",
+  "phone": "630.951.0972",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "Pandas",
+    "AWS",
+    "LangChain",
+    "Python",
+    "PyTorch",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0429"
+}

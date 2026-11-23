@@ -1,0 +1,16 @@
+Insurance Policy POL-RE9QDI3G1
+Holder: Cameron Torres
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RE9QDI3G1",
+  "policy_holder": "Cameron Torres",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-05-10",
+  "expiry_date": "2025-05-10",
+  "premium": 1157.56,
+  "coverage_amount": 191741.93,
+  "beneficiary": "Elizabeth Brock",
+  "sample_id": "insurance_document_0992"
+}

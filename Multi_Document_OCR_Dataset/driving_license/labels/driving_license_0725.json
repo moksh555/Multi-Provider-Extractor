@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL450420467",
+  "full_name": "Emily Leblanc",
+  "date_of_birth": "1976-10-06",
+  "class": "C",
+  "issue_date": "2022-10-18",
+  "expiry_date": "2027-10-18",
+  "address": "62272 Peter Estate, Myersborough, IA 46429",
+  "sample_id": "driving_license_0725"
+}

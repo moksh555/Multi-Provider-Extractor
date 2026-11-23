@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HAGMB362",
+  "merchant_name": "Smith LLC",
+  "date": "2024-11-10",
+  "subtotal": 487.16,
+  "tax": 40.08,
+  "discount": 12.2,
+  "total": 515.04,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$79.16",
+      "line_total": "$158.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$63.90",
+      "line_total": "$191.70"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$68.57",
+      "line_total": "$137.14"
+    }
+  ],
+  "sample_id": "receipt_0706"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0127
+Company: Royal Diagnostics Center
+Company Address: 137 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 156 Uttara Sector 7, Chattogram, Bangladesh
+Invoice Date: 2026-02-25
+Due Date: 2026-04-11
+Currency: SAR
+Subtotal: 8391.73
+Tax: 839.17
+Total: 9230.9
+Balance Due: 9230.9
+Status: overdue

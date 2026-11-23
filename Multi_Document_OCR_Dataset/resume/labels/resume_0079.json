@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Heather Reyes",
+  "email": "danielandrews@example.org",
+  "phone": "889-812-6864x98647",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "Streamlit",
+    "FastAPI",
+    "Python",
+    "Docker",
+    "Computer Vision",
+    "SQL",
+    "PyTorch",
+    "NLP",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0079"
+}

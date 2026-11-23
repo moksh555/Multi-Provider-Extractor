@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-P43S87SO",
+  "patient_name": "Steven Davis",
+  "visit_date": "2025-10-11",
+  "doctor_name": "Dr. Susan Holmes",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0959"
+}

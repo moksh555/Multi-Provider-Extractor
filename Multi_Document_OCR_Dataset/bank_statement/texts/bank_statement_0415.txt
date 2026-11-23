@@ -1,0 +1,16 @@
+Bank Statement STM-JEDAD38Y
+Holder: Robert Scott
+Closing Balance: $7834.34
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JEDAD38Y",
+  "account_holder": "Robert Scott",
+  "account_number_masked": "****1259",
+  "period_start": "2026-03-23",
+  "period_end": "2026-04-22",
+  "opening_balance": 4555.76,
+  "closing_balance": 7834.34,
+  "transactions": 12,
+  "sample_id": "bank_statement_0415"
+}

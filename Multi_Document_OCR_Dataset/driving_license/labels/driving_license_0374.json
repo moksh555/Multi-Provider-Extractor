@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL481266261",
+  "full_name": "Sandra Jimenez",
+  "date_of_birth": "1961-09-27",
+  "class": "A",
+  "issue_date": "2021-09-15",
+  "expiry_date": "2026-09-15",
+  "address": "9524 Kathleen Shore, Sparksborough, LA 87282",
+  "sample_id": "driving_license_0374"
+}

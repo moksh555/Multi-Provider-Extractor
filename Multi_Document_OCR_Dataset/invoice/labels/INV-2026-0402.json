@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0402",
+  "invoice_number": "INV-2026-0402",
+  "company_name": "BrightStar Electronics",
+  "company_address": "52 Zindabazar Road, Dhaka, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "176 Al Barsha, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-17",
+  "due_date": "2026-03-19",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 347.87,
+      "amount": 1043.61
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 739.14,
+      "amount": 2956.56
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 6,
+      "unit_price": 454.04,
+      "amount": 2724.24
+    }
+  ],
+  "subtotal": 6724.41,
+  "discount": 336.22,
+  "tax_rate": 0.075,
+  "tax": 479.11,
+  "shipping": 50,
+  "total": 6917.3,
+  "amount_paid": 0,
+  "balance_due": 6917.3,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801189173065",
+  "po_number": "PO-99503"
+}

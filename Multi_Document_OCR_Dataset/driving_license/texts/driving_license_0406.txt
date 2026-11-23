@@ -1,0 +1,16 @@
+Synthetic Driving License
+William Sutton
+License: DL992023999
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL992023999",
+  "full_name": "William Sutton",
+  "date_of_birth": "1985-02-19",
+  "class": "B",
+  "issue_date": "2022-07-12",
+  "expiry_date": "2027-07-12",
+  "address": "649 Andrea Cape, New Rogerville, NH 87120",
+  "sample_id": "driving_license_0406"
+}

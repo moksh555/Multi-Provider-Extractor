@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Matthew Bauer
+Passport No: P65077409
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P65077409",
+  "full_name": "Matthew Bauer",
+  "nationality": "AE",
+  "date_of_birth": "1992-03-06",
+  "issue_date": "2026-06-25",
+  "expiry_date": "2036-06-25",
+  "place_of_birth": "Jeremyville",
+  "sample_id": "passport_0098"
+}

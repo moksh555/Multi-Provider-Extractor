@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL363422015",
+  "full_name": "Craig Williams",
+  "date_of_birth": "1962-04-30",
+  "class": "C",
+  "issue_date": "2022-06-24",
+  "expiry_date": "2027-06-24",
+  "address": "73510 Ward Pines, Travisborough, AS 53010",
+  "sample_id": "driving_license_0963"
+}

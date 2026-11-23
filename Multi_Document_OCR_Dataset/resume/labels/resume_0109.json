@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Mitchell Wade",
+  "email": "hhill@example.com",
+  "phone": "+1-485-288-3825x6726",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "Docker",
+    "Machine Learning",
+    "Streamlit",
+    "Computer Vision",
+    "FastAPI",
+    "TensorFlow",
+    "Python",
+    "Deep Learning",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0109"
+}

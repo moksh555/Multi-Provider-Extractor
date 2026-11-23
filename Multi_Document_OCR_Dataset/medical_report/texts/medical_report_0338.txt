@@ -1,0 +1,14 @@
+Medical Report MED-ZOBQMFW0
+Patient: Kenneth Webster
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZOBQMFW0",
+  "patient_name": "Kenneth Webster",
+  "visit_date": "2026-12-23",
+  "doctor_name": "Dr. Michael Davenport",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0338"
+}

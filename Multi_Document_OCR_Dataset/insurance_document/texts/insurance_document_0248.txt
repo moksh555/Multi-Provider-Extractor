@@ -1,0 +1,16 @@
+Insurance Policy POL-L03DUT4S7
+Holder: Garrett Riley
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-L03DUT4S7",
+  "policy_holder": "Garrett Riley",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-12-05",
+  "expiry_date": "2027-12-05",
+  "premium": 1602.88,
+  "coverage_amount": 266055.39,
+  "beneficiary": "Leslie Hernandez",
+  "sample_id": "insurance_document_0248"
+}

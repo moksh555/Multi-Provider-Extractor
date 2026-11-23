@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-D2V1L1VJ3",
+  "policy_holder": "Emma Reynolds",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-10-01",
+  "expiry_date": "2027-10-01",
+  "premium": 2283.97,
+  "coverage_amount": 112560.29,
+  "beneficiary": "Scott Jackson",
+  "sample_id": "insurance_document_0856"
+}

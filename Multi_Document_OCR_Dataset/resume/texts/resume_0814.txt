@@ -1,0 +1,25 @@
+Resume
+Grace Duncan
+Software Engineer
+Skills: NLP, SQL, Python, PyTorch, FastAPI, Machine Learning, Pandas, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Grace Duncan",
+  "email": "clarkkelly@example.org",
+  "phone": "2828413016",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "NLP",
+    "SQL",
+    "Python",
+    "PyTorch",
+    "FastAPI",
+    "Machine Learning",
+    "Pandas",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0814"
+}

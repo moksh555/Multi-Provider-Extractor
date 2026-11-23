@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL429628875",
+  "full_name": "Erika Montgomery",
+  "date_of_birth": "2001-02-15",
+  "class": "A",
+  "issue_date": "2020-06-15",
+  "expiry_date": "2025-06-15",
+  "address": "8316 Andrea Falls Suite 172, South Graceborough, NV 94505",
+  "sample_id": "driving_license_0943"
+}

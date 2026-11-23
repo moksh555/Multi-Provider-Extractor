@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J93RVUV5Y",
+  "policy_holder": "Joel Gordon",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-17",
+  "expiry_date": "2027-05-17",
+  "premium": 376.56,
+  "coverage_amount": 420720.77,
+  "beneficiary": "Ryan Schroeder MD",
+  "sample_id": "insurance_document_0958"
+}

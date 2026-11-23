@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0905
+Company: Atlas Engineering Ltd.
+Company Address: 171 Gulshan Avenue, Riyadh, Saudi Arabia
+Customer: Al Noor Clinic
+Billing Address: 212 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-05-10
+Due Date: 2026-06-24
+Currency: SAR
+Subtotal: 8048.89
+Tax: 0.0
+Total: 7656.45
+Balance Due: 7656.45
+Status: unpaid

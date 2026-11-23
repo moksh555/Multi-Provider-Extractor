@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0644
+Company: Nova Medical Supplies
+Company Address: 163 Sheikh Zayed Road, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 195 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-05-04
+Due Date: 2026-06-03
+Currency: BDT
+Subtotal: 21288.54
+Tax: 1043.14
+Total: 21910.91
+Balance Due: 21910.91
+Status: unpaid

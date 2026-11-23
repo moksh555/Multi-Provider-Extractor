@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0251
+Company: Royal Diagnostics Center
+Company Address: 88 Doha Business Park, Chattogram, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 44 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-18
+Due Date: 2026-02-02
+Currency: BDT
+Subtotal: 5774.99
+Tax: 577.5
+Total: 6352.49
+Balance Due: 2607.05
+Status: partial

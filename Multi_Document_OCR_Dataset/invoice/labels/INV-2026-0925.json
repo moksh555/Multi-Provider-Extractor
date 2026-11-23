@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0925",
+  "invoice_number": "INV-2026-0925",
+  "company_name": "Metro Print House",
+  "company_address": "187 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "135 Gulshan Avenue, Doha, Qatar",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-02-25",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 818.86,
+      "amount": 9826.32
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 3,
+      "unit_price": 437.78,
+      "amount": 1313.34
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 164.13,
+      "amount": 1148.91
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 496.16,
+      "amount": 5457.76
+    }
+  ],
+  "subtotal": 17746.33,
+  "discount": 1774.63,
+  "tax_rate": 0.05,
+  "tax": 798.59,
+  "shipping": 50,
+  "total": 16820.29,
+  "amount_paid": 0,
+  "balance_due": 16820.29,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801933286388",
+  "po_number": "PO-90702"
+}

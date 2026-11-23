@@ -1,0 +1,14 @@
+Medical Report MED-XGBEAKFK
+Patient: Jessica Martinez
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XGBEAKFK",
+  "patient_name": "Jessica Martinez",
+  "visit_date": "2024-01-20",
+  "doctor_name": "Dr. Lynn Rodriguez",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0176"
+}

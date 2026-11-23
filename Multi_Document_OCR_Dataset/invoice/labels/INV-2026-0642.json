@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0642",
+  "invoice_number": "INV-2026-0642",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "38 Zindabazar Road, Doha, Qatar",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "219 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-17",
+  "due_date": "2026-05-17",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 372.31,
+      "amount": 372.31
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 540.01,
+      "amount": 2160.04
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 733.44,
+      "amount": 5134.08
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 176.5,
+      "amount": 1235.5
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 3,
+      "unit_price": 510.15,
+      "amount": 1530.45
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 385.75,
+      "amount": 2314.5
+    }
+  ],
+  "subtotal": 12746.88,
+  "discount": 1274.69,
+  "tax_rate": 0.15,
+  "tax": 1720.83,
+  "shipping": 0,
+  "total": 13193.02,
+  "amount_paid": 13193.02,
+  "balance_due": 0.0,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801844344505",
+  "po_number": "PO-85655"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JOA21A6XV",
+  "policy_holder": "James Randall",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-04-03",
+  "expiry_date": "2025-04-03",
+  "premium": 720.69,
+  "coverage_amount": 404491.93,
+  "beneficiary": "Brandon Brown",
+  "sample_id": "insurance_document_0256"
+}

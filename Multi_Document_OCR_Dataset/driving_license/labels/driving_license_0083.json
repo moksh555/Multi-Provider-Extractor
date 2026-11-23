@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL983705466",
+  "full_name": "Denise Whitehead",
+  "date_of_birth": "1994-03-08",
+  "class": "A",
+  "issue_date": "2024-03-01",
+  "expiry_date": "2029-03-01",
+  "address": "37506 Randy Landing Apt. 615, North Lucas, CT 94178",
+  "sample_id": "driving_license_0083"
+}

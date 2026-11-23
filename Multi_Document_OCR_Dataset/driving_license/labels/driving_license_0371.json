@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL584323088",
+  "full_name": "Garrett Wilson",
+  "date_of_birth": "1990-11-07",
+  "class": "D",
+  "issue_date": "2023-03-20",
+  "expiry_date": "2028-03-20",
+  "address": "738 Roberts Walk Suite 317, Harryfort, TX 14286",
+  "sample_id": "driving_license_0371"
+}

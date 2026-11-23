@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JJHB0NA7",
+  "patient_name": "Jennifer Barnes",
+  "visit_date": "2025-01-08",
+  "doctor_name": "Dr. Jason Freeman",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0332"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-FLUR8FF6
+Patient: Jennifer Butler
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-FLUR8FF6",
+  "patient_name": "Jennifer Butler",
+  "visit_date": "2025-10-06",
+  "doctor_name": "Dr. Thomas Kidd",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0028"
+}

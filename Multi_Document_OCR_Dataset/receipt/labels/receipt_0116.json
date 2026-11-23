@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KF1622VX",
+  "merchant_name": "Hendricks, Phillips and Mendez",
+  "date": "2022-07-28",
+  "subtotal": 1360.21,
+  "tax": 68.01,
+  "discount": 3.35,
+  "total": 1424.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$79.80",
+      "line_total": "$319.20"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$32.96",
+      "line_total": "$131.84"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$28.11",
+      "line_total": "$56.22"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$72.62",
+      "line_total": "$290.48"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$67.79",
+      "line_total": "$203.37"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$8.71",
+      "line_total": "$26.13"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$58.29",
+      "line_total": "$174.87"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$52.70",
+      "line_total": "$158.10"
+    }
+  ],
+  "sample_id": "receipt_0116"
+}

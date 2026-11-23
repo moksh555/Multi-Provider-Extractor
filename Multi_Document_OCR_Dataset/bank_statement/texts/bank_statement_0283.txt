@@ -1,0 +1,16 @@
+Bank Statement STM-A768O3BT
+Holder: Thomas Friedman
+Closing Balance: $2448.14
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-A768O3BT",
+  "account_holder": "Thomas Friedman",
+  "account_number_masked": "****3988",
+  "period_start": "2024-12-21",
+  "period_end": "2025-01-20",
+  "opening_balance": 4060.83,
+  "closing_balance": 2448.14,
+  "transactions": 14,
+  "sample_id": "bank_statement_0283"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-UDOJY6G1
+Holder: Amber Gomez
+Closing Balance: $3577.87
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UDOJY6G1",
+  "account_holder": "Amber Gomez",
+  "account_number_masked": "****2959",
+  "period_start": "2026-09-16",
+  "period_end": "2026-10-16",
+  "opening_balance": 1300.54,
+  "closing_balance": 3577.87,
+  "transactions": 10,
+  "sample_id": "bank_statement_0075"
+}

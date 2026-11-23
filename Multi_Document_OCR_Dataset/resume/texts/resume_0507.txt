@@ -1,0 +1,27 @@
+Resume
+Melissa Hernandez
+Software Engineer
+Skills: Deep Learning, FastAPI, Pandas, Streamlit, LangChain, Docker, SQL, NLP, TensorFlow, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Melissa Hernandez",
+  "email": "maryfernandez@example.net",
+  "phone": "(395)986-2185x31112",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Deep Learning",
+    "FastAPI",
+    "Pandas",
+    "Streamlit",
+    "LangChain",
+    "Docker",
+    "SQL",
+    "NLP",
+    "TensorFlow",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0507"
+}

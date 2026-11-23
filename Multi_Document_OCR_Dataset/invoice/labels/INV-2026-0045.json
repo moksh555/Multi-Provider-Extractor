@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0045",
+  "invoice_number": "INV-2026-0045",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "96 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "137 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-25",
+  "due_date": "2026-06-24",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 499.48,
+      "amount": 3496.36
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 10,
+      "unit_price": 407.6,
+      "amount": 4076.0
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 199.59,
+      "amount": 1995.9
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 10,
+      "unit_price": 412.54,
+      "amount": 4125.4
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 11,
+      "unit_price": 615.24,
+      "amount": 6767.64
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 3,
+      "unit_price": 699.84,
+      "amount": 2099.52
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 490.1,
+      "amount": 490.1
+    }
+  ],
+  "subtotal": 23050.92,
+  "discount": 461.02,
+  "tax_rate": 0.075,
+  "tax": 1694.24,
+  "shipping": 50,
+  "total": 24334.14,
+  "amount_paid": 24334.14,
+  "balance_due": 0.0,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801144425648",
+  "po_number": "PO-77559"
+}

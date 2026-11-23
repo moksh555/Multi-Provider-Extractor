@@ -1,0 +1,27 @@
+Resume
+John Blake
+Data Analyst
+Skills: Deep Learning, LangChain, SQL, Pandas, FastAPI, Python, Machine Learning, TensorFlow, Streamlit, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "John Blake",
+  "email": "rebecca28@example.net",
+  "phone": "6048177073",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "LangChain",
+    "SQL",
+    "Pandas",
+    "FastAPI",
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0502"
+}

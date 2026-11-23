@@ -1,0 +1,16 @@
+Bank Statement STM-08YUW2NW
+Holder: Robert Villarreal
+Closing Balance: $4963.19
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-08YUW2NW",
+  "account_holder": "Robert Villarreal",
+  "account_number_masked": "****1072",
+  "period_start": "2026-08-03",
+  "period_end": "2026-09-02",
+  "opening_balance": 927.9,
+  "closing_balance": 4963.19,
+  "transactions": 9,
+  "sample_id": "bank_statement_0948"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-IL9YQ8OCU
+Holder: Mrs. Brenda Ellis
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IL9YQ8OCU",
+  "policy_holder": "Mrs. Brenda Ellis",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-01-11",
+  "expiry_date": "2026-01-11",
+  "premium": 1674.93,
+  "coverage_amount": 306557.11,
+  "beneficiary": "Dylan Guzman",
+  "sample_id": "insurance_document_0821"
+}

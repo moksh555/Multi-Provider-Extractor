@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-XFLZKXVC",
+  "patient_name": "Chad Sanchez",
+  "visit_date": "2025-06-12",
+  "doctor_name": "Dr. Joshua Horton",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0409"
+}

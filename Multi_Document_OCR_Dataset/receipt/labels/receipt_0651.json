@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EVBRX8U7",
+  "merchant_name": "Villa-Hoffman",
+  "date": "2025-03-13",
+  "subtotal": 561.03,
+  "tax": 55.62,
+  "discount": 2.76,
+  "total": 613.89,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$30.85",
+      "line_total": "$30.85"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$26.56",
+      "line_total": "$26.56"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$69.91",
+      "line_total": "$279.64"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$74.66",
+      "line_total": "$223.98"
+    }
+  ],
+  "sample_id": "receipt_0651"
+}

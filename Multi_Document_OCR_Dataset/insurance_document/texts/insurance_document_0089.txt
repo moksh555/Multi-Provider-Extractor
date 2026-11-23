@@ -1,0 +1,16 @@
+Insurance Policy POL-MUHXID4N1
+Holder: Joseph Price
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MUHXID4N1",
+  "policy_holder": "Joseph Price",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-04-08",
+  "expiry_date": "2025-04-08",
+  "premium": 2041.19,
+  "coverage_amount": 424126.03,
+  "beneficiary": "Gary Miller",
+  "sample_id": "insurance_document_0089"
+}

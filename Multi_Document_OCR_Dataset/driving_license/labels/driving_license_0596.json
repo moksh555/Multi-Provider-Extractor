@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL144041206",
+  "full_name": "Joshua Cunningham",
+  "date_of_birth": "1996-02-18",
+  "class": "D",
+  "issue_date": "2026-08-06",
+  "expiry_date": "2031-08-06",
+  "address": "60787 Christopher Groves Apt. 591, Arianamouth, VI 08478",
+  "sample_id": "driving_license_0596"
+}

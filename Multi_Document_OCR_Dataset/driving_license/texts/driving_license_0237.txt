@@ -1,0 +1,16 @@
+Synthetic Driving License
+Monica Nicholson
+License: DL900180549
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL900180549",
+  "full_name": "Monica Nicholson",
+  "date_of_birth": "1981-03-29",
+  "class": "C",
+  "issue_date": "2023-04-09",
+  "expiry_date": "2028-04-09",
+  "address": "USNS Cole, FPO AA 63634",
+  "sample_id": "driving_license_0237"
+}

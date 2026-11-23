@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0733
+Company: UrbanBuild Construction
+Company Address: 186 Road 12, Banani, Chattogram, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 36 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-03-10
+Due Date: 2026-04-24
+Currency: SAR
+Subtotal: 10784.87
+Tax: 768.42
+Total: 11019.05
+Balance Due: 0.0
+Status: paid

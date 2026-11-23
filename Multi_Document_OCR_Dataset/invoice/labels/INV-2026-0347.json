@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0347",
+  "invoice_number": "INV-2026-0347",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "167 Sheikh Zayed Road, Dhaka, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "174 Uttara Sector 7, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-08",
+  "due_date": "2026-06-07",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 363.91,
+      "amount": 727.82
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 749.5,
+      "amount": 7495.0
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 327.93,
+      "amount": 327.93
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 2,
+      "unit_price": 407.84,
+      "amount": 815.68
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 77.86,
+      "amount": 155.72
+    }
+  ],
+  "subtotal": 9522.15,
+  "discount": 476.11,
+  "tax_rate": 0.075,
+  "tax": 678.45,
+  "shipping": 50,
+  "total": 9774.49,
+  "amount_paid": 9774.49,
+  "balance_due": 0.0,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801603364357",
+  "po_number": "PO-46065"
+}

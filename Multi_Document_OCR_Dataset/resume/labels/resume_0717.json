@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Brittany Taylor",
+  "email": "obullock@example.org",
+  "phone": "(558)612-8766",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "PyTorch",
+    "FastAPI",
+    "Machine Learning",
+    "Streamlit",
+    "Python",
+    "Deep Learning",
+    "LangChain",
+    "Computer Vision",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0717"
+}

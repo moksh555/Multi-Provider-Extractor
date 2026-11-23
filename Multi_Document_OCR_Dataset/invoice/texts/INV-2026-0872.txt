@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0872
+Company: Delta Insurance Services
+Company Address: 88 Doha Business Park, Sylhet, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 107 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-02-08
+Due Date: 2026-02-15
+Currency: USD
+Subtotal: 14558.45
+Tax: 1037.29
+Total: 14917.82
+Balance Due: 14917.82
+Status: overdue

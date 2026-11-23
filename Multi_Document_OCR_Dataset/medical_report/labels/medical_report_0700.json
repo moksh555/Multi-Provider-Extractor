@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-05ER5RED",
+  "patient_name": "Julie Cook",
+  "visit_date": "2024-07-20",
+  "doctor_name": "Dr. Peter Howard DVM",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0700"
+}

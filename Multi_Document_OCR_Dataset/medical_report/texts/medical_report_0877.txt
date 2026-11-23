@@ -1,0 +1,14 @@
+Medical Report MED-Z7ORMFME
+Patient: Maria Ruiz
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Z7ORMFME",
+  "patient_name": "Maria Ruiz",
+  "visit_date": "2025-08-25",
+  "doctor_name": "Dr. Dustin Aguilar DDS",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0877"
+}

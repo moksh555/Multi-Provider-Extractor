@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JK8JV7OJ",
+  "account_holder": "Dr. James Joseph DDS",
+  "account_number_masked": "****2360",
+  "period_start": "2025-12-03",
+  "period_end": "2026-01-02",
+  "opening_balance": 4796.11,
+  "closing_balance": 8850.69,
+  "transactions": 12,
+  "sample_id": "bank_statement_0143"
+}

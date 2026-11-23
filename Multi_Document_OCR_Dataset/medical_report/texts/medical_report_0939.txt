@@ -1,0 +1,14 @@
+Medical Report MED-86ALYJ5W
+Patient: Dustin Mitchell
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-86ALYJ5W",
+  "patient_name": "Dustin Mitchell",
+  "visit_date": "2025-06-02",
+  "doctor_name": "Dr. William Riley",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0939"
+}

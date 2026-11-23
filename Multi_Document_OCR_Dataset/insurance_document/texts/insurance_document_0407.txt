@@ -1,0 +1,16 @@
+Insurance Policy POL-6FMR5LL1D
+Holder: Ashley Stevens
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6FMR5LL1D",
+  "policy_holder": "Ashley Stevens",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-10-17",
+  "expiry_date": "2027-10-17",
+  "premium": 2482.67,
+  "coverage_amount": 110541.68,
+  "beneficiary": "Ashley Campbell",
+  "sample_id": "insurance_document_0407"
+}

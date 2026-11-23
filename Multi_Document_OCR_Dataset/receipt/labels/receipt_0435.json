@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EBNDYCPN",
+  "merchant_name": "Petty PLC",
+  "date": "2022-08-08",
+  "subtotal": 588.13,
+  "tax": 29.57,
+  "discount": 9.41,
+  "total": 608.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$61.72",
+      "line_total": "$123.44"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$45.94",
+      "line_total": "$45.94"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$68.90",
+      "line_total": "$206.70"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$28.66",
+      "line_total": "$57.32"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$31.91",
+      "line_total": "$31.91"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$40.94",
+      "line_total": "$122.82"
+    }
+  ],
+  "sample_id": "receipt_0435"
+}

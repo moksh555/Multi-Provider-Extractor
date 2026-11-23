@@ -1,0 +1,55 @@
+Receipt RCT-BHKVJZ09
+Merchant: Acosta-Lopez
+Date: 2025-07-21
+Total: $602.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BHKVJZ09",
+  "merchant_name": "Acosta-Lopez",
+  "date": "2025-07-21",
+  "subtotal": 576.33,
+  "tax": 28.0,
+  "discount": 2.25,
+  "total": 602.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$51.86",
+      "line_total": "$155.58"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$30.86",
+      "line_total": "$92.58"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$69.79",
+      "line_total": "$139.58"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$39.24",
+      "line_total": "$78.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$53.83",
+      "line_total": "$53.83"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$18.76",
+      "line_total": "$56.28"
+    }
+  ],
+  "sample_id": "receipt_0398"
+}

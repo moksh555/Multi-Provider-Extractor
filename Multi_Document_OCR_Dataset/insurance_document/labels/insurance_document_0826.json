@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QOQ4KREG1",
+  "policy_holder": "Elizabeth Mcguire",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-21",
+  "expiry_date": "2024-06-21",
+  "premium": 482.37,
+  "coverage_amount": 13814.04,
+  "beneficiary": "Eric Lester",
+  "sample_id": "insurance_document_0826"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-DE9GZHGB",
+  "patient_name": "Devin Brown",
+  "visit_date": "2024-07-06",
+  "doctor_name": "Dr. Michelle Crawford",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0853"
+}

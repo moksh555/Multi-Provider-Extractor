@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZF4LUR02",
+  "account_holder": "Ariel Ramos",
+  "account_number_masked": "****1695",
+  "period_start": "2026-12-25",
+  "period_end": "2027-01-24",
+  "opening_balance": 1932.14,
+  "closing_balance": 5854.06,
+  "transactions": 12,
+  "sample_id": "bank_statement_0074"
+}

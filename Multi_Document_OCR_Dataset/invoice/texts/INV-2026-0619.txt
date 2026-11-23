@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0619
+Company: Nova Medical Supplies
+Company Address: 190 Road 12, Banani, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 6 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-14
+Due Date: 2026-04-28
+Currency: BDT
+Subtotal: 5932.93
+Tax: 0.0
+Total: 5957.93
+Balance Due: 5957.93
+Status: overdue

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-83GY1FKOL",
+  "policy_holder": "Lauren Reeves",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-12-07",
+  "expiry_date": "2026-12-07",
+  "premium": 1688.16,
+  "coverage_amount": 31450.86,
+  "beneficiary": "Becky Mullins",
+  "sample_id": "insurance_document_0361"
+}

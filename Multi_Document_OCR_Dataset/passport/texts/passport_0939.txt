@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jared Lee
+Passport No: P58396407
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P58396407",
+  "full_name": "Jared Lee",
+  "nationality": "AE",
+  "date_of_birth": "1971-10-05",
+  "issue_date": "2024-10-02",
+  "expiry_date": "2034-10-02",
+  "place_of_birth": "Port Carolyn",
+  "sample_id": "passport_0939"
+}

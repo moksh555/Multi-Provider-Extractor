@@ -1,0 +1,16 @@
+Synthetic Driving License
+Laurie Sanchez
+License: DL393760633
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL393760633",
+  "full_name": "Laurie Sanchez",
+  "date_of_birth": "1994-09-05",
+  "class": "C",
+  "issue_date": "2023-03-09",
+  "expiry_date": "2028-03-09",
+  "address": "301 Rivera Mountains, Lake Kellitown, OH 21202",
+  "sample_id": "driving_license_0110"
+}

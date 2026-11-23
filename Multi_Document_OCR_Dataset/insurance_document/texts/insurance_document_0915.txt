@@ -1,0 +1,16 @@
+Insurance Policy POL-3WQA1VRGS
+Holder: Stephanie Smith
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3WQA1VRGS",
+  "policy_holder": "Stephanie Smith",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-08-04",
+  "expiry_date": "2025-08-04",
+  "premium": 2384.42,
+  "coverage_amount": 156822.26,
+  "beneficiary": "Robert Perkins",
+  "sample_id": "insurance_document_0915"
+}

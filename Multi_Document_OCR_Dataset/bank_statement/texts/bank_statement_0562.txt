@@ -1,0 +1,16 @@
+Bank Statement STM-Z0OIC67W
+Holder: Juan Flores
+Closing Balance: $5530.15
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z0OIC67W",
+  "account_holder": "Juan Flores",
+  "account_number_masked": "****0046",
+  "period_start": "2024-08-04",
+  "period_end": "2024-09-03",
+  "opening_balance": 1931.18,
+  "closing_balance": 5530.15,
+  "transactions": 11,
+  "sample_id": "bank_statement_0562"
+}

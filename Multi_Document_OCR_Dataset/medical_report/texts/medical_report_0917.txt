@@ -1,0 +1,14 @@
+Medical Report MED-KQNHVYMQ
+Patient: Stephanie Martinez
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KQNHVYMQ",
+  "patient_name": "Stephanie Martinez",
+  "visit_date": "2026-05-26",
+  "doctor_name": "Dr. David Ford",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0917"
+}

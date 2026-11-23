@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-1ZE6B899",
+  "patient_name": "Jessica Rodriguez",
+  "visit_date": "2026-11-06",
+  "doctor_name": "Dr. Audrey Parker",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0815"
+}

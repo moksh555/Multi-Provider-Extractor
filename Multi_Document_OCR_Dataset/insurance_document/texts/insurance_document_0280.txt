@@ -1,0 +1,16 @@
+Insurance Policy POL-5CRI8BIXO
+Holder: Maria Sims
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5CRI8BIXO",
+  "policy_holder": "Maria Sims",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-06-11",
+  "expiry_date": "2024-06-11",
+  "premium": 1212.65,
+  "coverage_amount": 402618.03,
+  "beneficiary": "Valerie Gonzalez",
+  "sample_id": "insurance_document_0280"
+}

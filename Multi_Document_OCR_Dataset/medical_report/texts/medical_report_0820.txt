@@ -1,0 +1,14 @@
+Medical Report MED-KV5AA7UA
+Patient: Nicholas Blevins
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KV5AA7UA",
+  "patient_name": "Nicholas Blevins",
+  "visit_date": "2025-09-17",
+  "doctor_name": "Dr. Julie Wilson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0820"
+}

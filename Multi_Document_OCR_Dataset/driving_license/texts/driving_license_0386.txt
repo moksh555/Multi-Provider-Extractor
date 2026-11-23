@@ -1,0 +1,16 @@
+Synthetic Driving License
+Misty Taylor
+License: DL110634650
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL110634650",
+  "full_name": "Misty Taylor",
+  "date_of_birth": "1979-10-20",
+  "class": "A",
+  "issue_date": "2026-10-17",
+  "expiry_date": "2031-10-17",
+  "address": "984 Wilkerson Freeway, Port Lindsaymouth, MP 77089",
+  "sample_id": "driving_license_0386"
+}

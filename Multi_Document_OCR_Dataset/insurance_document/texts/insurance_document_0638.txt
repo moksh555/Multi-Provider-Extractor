@@ -1,0 +1,16 @@
+Insurance Policy POL-MF07OL93A
+Holder: Willie Flynn PhD
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MF07OL93A",
+  "policy_holder": "Willie Flynn PhD",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-11-27",
+  "expiry_date": "2027-11-27",
+  "premium": 1114.46,
+  "coverage_amount": 214252.74,
+  "beneficiary": "Jonathan Perez",
+  "sample_id": "insurance_document_0638"
+}

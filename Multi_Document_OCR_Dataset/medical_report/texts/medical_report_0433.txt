@@ -1,0 +1,14 @@
+Medical Report MED-DT59ODOF
+Patient: Carrie Moore
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DT59ODOF",
+  "patient_name": "Carrie Moore",
+  "visit_date": "2026-06-05",
+  "doctor_name": "Dr. Henry Robinson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0433"
+}

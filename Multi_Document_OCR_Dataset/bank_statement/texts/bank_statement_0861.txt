@@ -1,0 +1,16 @@
+Bank Statement STM-S3GW8X3K
+Holder: Amy Palmer
+Closing Balance: $5385.87
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S3GW8X3K",
+  "account_holder": "Amy Palmer",
+  "account_number_masked": "****3979",
+  "period_start": "2024-07-12",
+  "period_end": "2024-08-11",
+  "opening_balance": 2569.95,
+  "closing_balance": 5385.87,
+  "transactions": 8,
+  "sample_id": "bank_statement_0861"
+}

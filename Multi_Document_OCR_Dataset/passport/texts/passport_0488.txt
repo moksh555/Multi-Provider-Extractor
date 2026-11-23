@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Catherine Lee DDS
+Passport No: P55047486
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P55047486",
+  "full_name": "Catherine Lee DDS",
+  "nationality": "GB",
+  "date_of_birth": "1976-12-28",
+  "issue_date": "2021-04-20",
+  "expiry_date": "2031-04-20",
+  "place_of_birth": "Port Kristinemouth",
+  "sample_id": "passport_0488"
+}

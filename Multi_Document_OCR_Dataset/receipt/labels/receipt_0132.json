@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QB6GS8G8",
+  "merchant_name": "Perez, Sutton and Abbott",
+  "date": "2026-12-25",
+  "subtotal": 584.32,
+  "tax": 66.95,
+  "discount": 11.2,
+  "total": 640.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$53.96",
+      "line_total": "$107.92"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$67.02",
+      "line_total": "$268.08"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$52.08",
+      "line_total": "$208.32"
+    }
+  ],
+  "sample_id": "receipt_0132"
+}

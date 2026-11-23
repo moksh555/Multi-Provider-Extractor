@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0516
+Company: UrbanBuild Construction
+Company Address: 195 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 221 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-04-13
+Due Date: 2026-04-20
+Currency: AED
+Subtotal: 8508.98
+Tax: 0.0
+Total: 8508.98
+Balance Due: 8508.98
+Status: overdue

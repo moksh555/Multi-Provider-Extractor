@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GFQTG7HZ",
+  "account_holder": "Megan Moore",
+  "account_number_masked": "****4489",
+  "period_start": "2025-10-18",
+  "period_end": "2025-11-17",
+  "opening_balance": 1372.48,
+  "closing_balance": 3217.87,
+  "transactions": 8,
+  "sample_id": "bank_statement_0790"
+}

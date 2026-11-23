@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NGFLYRJ8",
+  "merchant_name": "Adams-Mitchell",
+  "date": "2023-01-06",
+  "subtotal": 513.65,
+  "tax": 41.98,
+  "discount": 5.76,
+  "total": 549.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$37.73",
+      "line_total": "$37.73"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$55.20",
+      "line_total": "$165.60"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$64.48",
+      "line_total": "$257.92"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$26.20",
+      "line_total": "$52.40"
+    }
+  ],
+  "sample_id": "receipt_0387"
+}

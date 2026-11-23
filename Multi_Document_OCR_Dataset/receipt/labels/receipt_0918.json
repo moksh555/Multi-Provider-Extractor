@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AHAS8N40",
+  "merchant_name": "Cunningham PLC",
+  "date": "2021-02-16",
+  "subtotal": 866.72,
+  "tax": 85.04,
+  "discount": 3.08,
+  "total": 948.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$73.85",
+      "line_total": "$147.70"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$18.26",
+      "line_total": "$18.26"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$62.76",
+      "line_total": "$251.04"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$50.36",
+      "line_total": "$50.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$71.34",
+      "line_total": "$285.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$38.00",
+      "line_total": "$114.00"
+    }
+  ],
+  "sample_id": "receipt_0918"
+}

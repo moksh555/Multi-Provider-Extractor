@@ -1,0 +1,14 @@
+Medical Report MED-G8GN7GR6
+Patient: Nathan Martinez
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-G8GN7GR6",
+  "patient_name": "Nathan Martinez",
+  "visit_date": "2025-09-27",
+  "doctor_name": "Dr. Mary Taylor",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0056"
+}

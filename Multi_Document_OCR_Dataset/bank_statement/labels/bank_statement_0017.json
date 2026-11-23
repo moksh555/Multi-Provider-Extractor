@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WBDCA75L",
+  "account_holder": "Jenna Watson",
+  "account_number_masked": "****4675",
+  "period_start": "2024-07-03",
+  "period_end": "2024-08-02",
+  "opening_balance": 1909.82,
+  "closing_balance": 1657.77,
+  "transactions": 10,
+  "sample_id": "bank_statement_0017"
+}

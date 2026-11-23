@@ -1,0 +1,25 @@
+Resume
+Leonard Craig
+Data Analyst
+Skills: NLP, TensorFlow, Deep Learning, AWS, Streamlit, Machine Learning, Docker, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Leonard Craig",
+  "email": "louislandry@example.org",
+  "phone": "(301)409-9931x91400",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "NLP",
+    "TensorFlow",
+    "Deep Learning",
+    "AWS",
+    "Streamlit",
+    "Machine Learning",
+    "Docker",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0751"
+}

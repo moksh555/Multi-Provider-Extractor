@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7F00TERKM",
+  "policy_holder": "April Brown",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-09-27",
+  "expiry_date": "2027-09-27",
+  "premium": 638.34,
+  "coverage_amount": 65334.95,
+  "beneficiary": "Sarah Whitney",
+  "sample_id": "insurance_document_0355"
+}

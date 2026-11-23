@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H0OK3SKV",
+  "account_holder": "Dominique Logan",
+  "account_number_masked": "****3710",
+  "period_start": "2026-04-04",
+  "period_end": "2026-05-04",
+  "opening_balance": 2284.28,
+  "closing_balance": 8268.66,
+  "transactions": 14,
+  "sample_id": "bank_statement_0615"
+}

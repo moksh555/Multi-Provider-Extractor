@@ -1,0 +1,14 @@
+Medical Report MED-PHHO682P
+Patient: Tracy Young
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-PHHO682P",
+  "patient_name": "Tracy Young",
+  "visit_date": "2026-02-17",
+  "doctor_name": "Dr. Thomas Howe",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0974"
+}

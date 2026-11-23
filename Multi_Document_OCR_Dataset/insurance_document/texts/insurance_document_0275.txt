@@ -1,0 +1,16 @@
+Insurance Policy POL-MPW5D3GO8
+Holder: Paul Young
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MPW5D3GO8",
+  "policy_holder": "Paul Young",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-02-28",
+  "expiry_date": "2026-02-28",
+  "premium": 1761.97,
+  "coverage_amount": 244340.06,
+  "beneficiary": "Charles Thompson",
+  "sample_id": "insurance_document_0275"
+}

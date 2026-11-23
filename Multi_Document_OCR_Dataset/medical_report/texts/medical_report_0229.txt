@@ -1,0 +1,14 @@
+Medical Report MED-HTYZJPIY
+Patient: Adam Schneider
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HTYZJPIY",
+  "patient_name": "Adam Schneider",
+  "visit_date": "2024-10-16",
+  "doctor_name": "Dr. Mario Snyder",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0229"
+}

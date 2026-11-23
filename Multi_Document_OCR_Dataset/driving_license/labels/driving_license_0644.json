@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL274577747",
+  "full_name": "Patrick Turner",
+  "date_of_birth": "1988-02-01",
+  "class": "D",
+  "issue_date": "2022-02-08",
+  "expiry_date": "2027-02-08",
+  "address": "9764 Davis Lodge, Timothyside, NY 32563",
+  "sample_id": "driving_license_0644"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0225
+Company: Delta Insurance Services
+Company Address: 37 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Karim Enterprise
+Billing Address: 191 Sheikh Zayed Road, Dhaka, Bangladesh
+Invoice Date: 2026-01-11
+Due Date: 2026-01-26
+Currency: BDT
+Subtotal: 20281.25
+Tax: 0.0
+Total: 20291.25
+Balance Due: 20291.25
+Status: overdue

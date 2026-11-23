@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FT07X5IC",
+  "merchant_name": "Ramirez-Blair",
+  "date": "2021-05-25",
+  "subtotal": 709.98,
+  "tax": 75.6,
+  "discount": 14.57,
+  "total": 771.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$48.25",
+      "line_total": "$193.00"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$75.78",
+      "line_total": "$303.12"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$9.22",
+      "line_total": "$9.22"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$52.38",
+      "line_total": "$104.76"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$24.97",
+      "line_total": "$99.88"
+    }
+  ],
+  "sample_id": "receipt_0349"
+}

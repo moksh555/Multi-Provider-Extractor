@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Shannon Austin",
+  "email": "jjensen@example.com",
+  "phone": "462-311-6700x6208",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "AWS",
+    "Pandas",
+    "LangChain",
+    "PyTorch",
+    "Streamlit",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0830"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-17ETMYSB
+Holder: Debra Hanson
+Closing Balance: $4868.44
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-17ETMYSB",
+  "account_holder": "Debra Hanson",
+  "account_number_masked": "****0682",
+  "period_start": "2026-09-10",
+  "period_end": "2026-10-10",
+  "opening_balance": 1922.41,
+  "closing_balance": 4868.44,
+  "transactions": 13,
+  "sample_id": "bank_statement_0515"
+}

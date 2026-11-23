@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PAIIUCUI",
+  "account_holder": "Jamie Dominguez",
+  "account_number_masked": "****9608",
+  "period_start": "2025-01-02",
+  "period_end": "2025-02-01",
+  "opening_balance": 4898.8,
+  "closing_balance": 11072.27,
+  "transactions": 9,
+  "sample_id": "bank_statement_0324"
+}

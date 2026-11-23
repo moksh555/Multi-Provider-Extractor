@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0066
+Company: Golden Harvest Store
+Company Address: 26 Jumeirah Lake Towers, Dubai, UAE
+Customer: Digital Learning Hub
+Billing Address: 56 Motijheel C/A, Chattogram, Bangladesh
+Invoice Date: 2026-05-07
+Due Date: 2026-06-06
+Currency: AED
+Subtotal: 22113.11
+Tax: 1492.63
+Total: 21394.43
+Balance Due: 6609.3
+Status: partial

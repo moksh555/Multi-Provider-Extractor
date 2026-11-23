@@ -1,0 +1,16 @@
+Insurance Policy POL-23QVDJNV0
+Holder: Elizabeth Hernandez
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-23QVDJNV0",
+  "policy_holder": "Elizabeth Hernandez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-06-11",
+  "expiry_date": "2027-06-11",
+  "premium": 1681.7,
+  "coverage_amount": 150369.92,
+  "beneficiary": "Mark Ramirez",
+  "sample_id": "insurance_document_0326"
+}

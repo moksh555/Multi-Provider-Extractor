@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0434",
+  "invoice_number": "INV-2026-0434",
+  "company_name": "Delta Insurance Services",
+  "company_address": "121 Motijheel C/A, Dhaka, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "12 Road 12, Banani, Doha, Qatar",
+  "invoice_date": "2026-06-11",
+  "due_date": "2026-07-26",
+  "currency": "SAR",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 4,
+      "unit_price": 321.79,
+      "amount": 1287.16
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 59.96,
+      "amount": 299.8
+    }
+  ],
+  "subtotal": 1586.96,
+  "discount": 158.7,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 1478.26,
+  "amount_paid": 1478.26,
+  "balance_due": 0.0,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801823295772",
+  "po_number": "PO-77513"
+}

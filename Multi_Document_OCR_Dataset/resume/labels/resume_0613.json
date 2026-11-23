@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Felicia Key",
+  "email": "stephanie07@example.org",
+  "phone": "672.482.7695x8870",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "Deep Learning",
+    "TensorFlow",
+    "AWS",
+    "NLP",
+    "PyTorch",
+    "Streamlit",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0613"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-BTA5B205
+Patient: Patricia Guerrero
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BTA5B205",
+  "patient_name": "Patricia Guerrero",
+  "visit_date": "2026-05-06",
+  "doctor_name": "Dr. Shawn Williams",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0861"
+}

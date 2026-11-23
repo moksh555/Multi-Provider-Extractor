@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0527
+Company: BrightStar Electronics
+Company Address: 188 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 189 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-02-02
+Due Date: 2026-03-19
+Currency: BDT
+Subtotal: 2276.78
+Tax: 102.45
+Total: 2151.55
+Balance Due: 2151.55
+Status: overdue

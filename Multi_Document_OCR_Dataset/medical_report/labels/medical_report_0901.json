@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JSYYJWYW",
+  "patient_name": "Nicholas Garcia",
+  "visit_date": "2025-03-12",
+  "doctor_name": "Dr. Sean Escobar",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0901"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-2W37D4IVS
+Holder: Jeffrey Roberson
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2W37D4IVS",
+  "policy_holder": "Jeffrey Roberson",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-09-27",
+  "expiry_date": "2025-09-27",
+  "premium": 1895.02,
+  "coverage_amount": 118570.31,
+  "beneficiary": "Randy Friedman",
+  "sample_id": "insurance_document_0096"
+}

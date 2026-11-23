@@ -1,0 +1,16 @@
+Bank Statement STM-QB6TWNVJ
+Holder: Scott Long
+Closing Balance: $2773.06
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QB6TWNVJ",
+  "account_holder": "Scott Long",
+  "account_number_masked": "****1546",
+  "period_start": "2026-07-19",
+  "period_end": "2026-08-18",
+  "opening_balance": 1882.65,
+  "closing_balance": 2773.06,
+  "transactions": 11,
+  "sample_id": "bank_statement_0145"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-LQNKKVBE
+Patient: Kristin Lopez
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LQNKKVBE",
+  "patient_name": "Kristin Lopez",
+  "visit_date": "2024-11-02",
+  "doctor_name": "Dr. Nicole Long",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0790"
+}

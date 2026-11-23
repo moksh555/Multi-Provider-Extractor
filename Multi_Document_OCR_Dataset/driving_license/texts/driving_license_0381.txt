@@ -1,0 +1,16 @@
+Synthetic Driving License
+Keith Schmidt
+License: DL996067712
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL996067712",
+  "full_name": "Keith Schmidt",
+  "date_of_birth": "1991-02-27",
+  "class": "B",
+  "issue_date": "2024-12-01",
+  "expiry_date": "2029-12-01",
+  "address": "48468 Gonzalez Locks Suite 987, North Courtney, NC 24951",
+  "sample_id": "driving_license_0381"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JGXJ8ECC",
+  "patient_name": "Tyler Robles",
+  "visit_date": "2024-07-17",
+  "doctor_name": "Dr. Carolyn Navarro",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0956"
+}

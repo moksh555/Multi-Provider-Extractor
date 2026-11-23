@@ -1,0 +1,14 @@
+Medical Report MED-KENCPON4
+Patient: Stephanie Solis
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KENCPON4",
+  "patient_name": "Stephanie Solis",
+  "visit_date": "2026-12-30",
+  "doctor_name": "Dr. Tyler Richard",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0395"
+}

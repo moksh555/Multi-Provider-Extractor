@@ -1,0 +1,37 @@
+Receipt RCT-0IV1TOPI
+Merchant: Murphy and Sons
+Date: 2022-05-31
+Total: $318.41
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0IV1TOPI",
+  "merchant_name": "Murphy and Sons",
+  "date": "2022-05-31",
+  "subtotal": 296.64,
+  "tax": 26.29,
+  "discount": 4.52,
+  "total": 318.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$30.42",
+      "line_total": "$91.26"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$39.36",
+      "line_total": "$157.44"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$47.94",
+      "line_total": "$47.94"
+    }
+  ],
+  "sample_id": "receipt_0570"
+}

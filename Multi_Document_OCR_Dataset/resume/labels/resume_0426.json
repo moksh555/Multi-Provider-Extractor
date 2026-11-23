@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Annette Brooks",
+  "email": "kdunn@example.org",
+  "phone": "001-452-649-2219x114",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "FastAPI",
+    "Machine Learning",
+    "Docker",
+    "LangChain",
+    "TensorFlow",
+    "Python",
+    "NLP",
+    "PyTorch",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0426"
+}

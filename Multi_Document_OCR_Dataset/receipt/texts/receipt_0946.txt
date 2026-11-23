@@ -1,0 +1,49 @@
+Receipt RCT-34KKAF9Y
+Merchant: Montgomery PLC
+Date: 2022-09-04
+Total: $428.13
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-34KKAF9Y",
+  "merchant_name": "Montgomery PLC",
+  "date": "2022-09-04",
+  "subtotal": 407.66,
+  "tax": 26.18,
+  "discount": 5.71,
+  "total": 428.13,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$58.21",
+      "line_total": "$116.42"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$19.54",
+      "line_total": "$78.16"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$29.99",
+      "line_total": "$89.97"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$67.17",
+      "line_total": "$67.17"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$55.94",
+      "line_total": "$55.94"
+    }
+  ],
+  "sample_id": "receipt_0946"
+}

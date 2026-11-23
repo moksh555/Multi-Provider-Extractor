@@ -1,0 +1,14 @@
+Medical Report MED-BR3RNXXI
+Patient: Dwayne Delacruz
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BR3RNXXI",
+  "patient_name": "Dwayne Delacruz",
+  "visit_date": "2025-04-16",
+  "doctor_name": "Dr. Dana Jones",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0065"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL510258604",
+  "full_name": "Denise Alvarado",
+  "date_of_birth": "1985-05-25",
+  "class": "A",
+  "issue_date": "2021-08-09",
+  "expiry_date": "2026-08-09",
+  "address": "65337 Avery Mews, West Aaronmouth, GA 08549",
+  "sample_id": "driving_license_0867"
+}

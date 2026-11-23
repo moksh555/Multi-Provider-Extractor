@@ -1,0 +1,43 @@
+Receipt RCT-PHT6O6A1
+Merchant: Todd Inc
+Date: 2023-10-22
+Total: $561.10
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PHT6O6A1",
+  "merchant_name": "Todd Inc",
+  "date": "2023-10-22",
+  "subtotal": 511.46,
+  "tax": 49.73,
+  "discount": 0.09,
+  "total": 561.1,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$30.57",
+      "line_total": "$122.28"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$71.48",
+      "line_total": "$285.92"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$79.16",
+      "line_total": "$79.16"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$12.05",
+      "line_total": "$24.10"
+    }
+  ],
+  "sample_id": "receipt_0296"
+}

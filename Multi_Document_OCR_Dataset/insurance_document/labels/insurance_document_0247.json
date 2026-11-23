@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8Q8GHGBCY",
+  "policy_holder": "Amy Taylor",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-07-08",
+  "expiry_date": "2027-07-08",
+  "premium": 471.95,
+  "coverage_amount": 301573.35,
+  "beneficiary": "Judy Jackson",
+  "sample_id": "insurance_document_0247"
+}

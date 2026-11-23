@@ -1,0 +1,43 @@
+Receipt RCT-AG77Q9VJ
+Merchant: Myers, Jones and Gallagher
+Date: 2025-09-19
+Total: $195.40
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AG77Q9VJ",
+  "merchant_name": "Myers, Jones and Gallagher",
+  "date": "2025-09-19",
+  "subtotal": 178.04,
+  "tax": 18.18,
+  "discount": 0.82,
+  "total": 195.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$78.54",
+      "line_total": "$78.54"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$38.63",
+      "line_total": "$38.63"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$10.44",
+      "line_total": "$31.32"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$29.55",
+      "line_total": "$29.55"
+    }
+  ],
+  "sample_id": "receipt_0472"
+}

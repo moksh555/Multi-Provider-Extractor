@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-OZLR9GGE",
+  "patient_name": "Peggy Blevins",
+  "visit_date": "2024-07-30",
+  "doctor_name": "Dr. Cory Nelson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0464"
+}

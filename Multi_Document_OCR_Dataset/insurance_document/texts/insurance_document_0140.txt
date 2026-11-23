@@ -1,0 +1,16 @@
+Insurance Policy POL-LXSLG6MM1
+Holder: John Griffin
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LXSLG6MM1",
+  "policy_holder": "John Griffin",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-06-03",
+  "expiry_date": "2027-06-03",
+  "premium": 1272.35,
+  "coverage_amount": 479095.32,
+  "beneficiary": "Karen Arnold",
+  "sample_id": "insurance_document_0140"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0555
+Company: Delta Insurance Services
+Company Address: 35 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 138 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-03-28
+Due Date: 2026-04-04
+Currency: AED
+Subtotal: 7587.14
+Tax: 758.71
+Total: 8345.85
+Balance Due: 8345.85
+Status: unpaid

@@ -1,0 +1,14 @@
+Medical Report MED-HJOKFF6O
+Patient: Jennifer Diaz
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HJOKFF6O",
+  "patient_name": "Jennifer Diaz",
+  "visit_date": "2026-09-25",
+  "doctor_name": "Dr. Brenda Long",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0191"
+}

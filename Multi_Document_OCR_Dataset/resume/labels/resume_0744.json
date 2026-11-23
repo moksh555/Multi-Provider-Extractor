@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Aaron Smith",
+  "email": "esawyer@example.net",
+  "phone": "(594)784-6747x52914",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "NLP",
+    "AWS",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0744"
+}

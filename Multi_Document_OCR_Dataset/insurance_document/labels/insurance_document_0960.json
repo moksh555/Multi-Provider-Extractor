@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Q5BO20P6H",
+  "policy_holder": "James Anderson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-02-19",
+  "expiry_date": "2024-02-19",
+  "premium": 1620.64,
+  "coverage_amount": 171191.5,
+  "beneficiary": "Frank Santana",
+  "sample_id": "insurance_document_0960"
+}

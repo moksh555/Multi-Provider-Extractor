@@ -1,0 +1,43 @@
+Receipt RCT-669UGNEK
+Merchant: Grant Group
+Date: 2026-07-13
+Total: $462.18
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-669UGNEK",
+  "merchant_name": "Grant Group",
+  "date": "2026-07-13",
+  "subtotal": 442.71,
+  "tax": 21.07,
+  "discount": 1.6,
+  "total": 462.18,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$35.34",
+      "line_total": "$70.68"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$39.25",
+      "line_total": "$117.75"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$20.88",
+      "line_total": "$62.64"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$47.91",
+      "line_total": "$191.64"
+    }
+  ],
+  "sample_id": "receipt_0080"
+}

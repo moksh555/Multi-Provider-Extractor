@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9PO2FKNV",
+  "account_holder": "David Armstrong",
+  "account_number_masked": "****9603",
+  "period_start": "2024-07-06",
+  "period_end": "2024-08-05",
+  "opening_balance": 2796.19,
+  "closing_balance": 7136.68,
+  "transactions": 10,
+  "sample_id": "bank_statement_0610"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0745",
+  "invoice_number": "INV-2026-0745",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "77 Motijheel C/A, Dhaka, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "118 Mirpur DOHS, Dubai, UAE",
+  "invoice_date": "2026-03-28",
+  "due_date": "2026-04-04",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 735.72,
+      "amount": 5885.76
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 10,
+      "unit_price": 782.2,
+      "amount": 7822.0
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 11,
+      "unit_price": 528.91,
+      "amount": 5818.01
+    }
+  ],
+  "subtotal": 19525.77,
+  "discount": 1952.58,
+  "tax_rate": 0.05,
+  "tax": 878.66,
+  "shipping": 25,
+  "total": 18476.85,
+  "amount_paid": 13794.36,
+  "balance_due": 4682.49,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801442324202",
+  "po_number": "PO-16975"
+}

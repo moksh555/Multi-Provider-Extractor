@@ -1,0 +1,61 @@
+Receipt RCT-JDXO100V
+Merchant: Foster Ltd
+Date: 2023-03-10
+Total: $381.97
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JDXO100V",
+  "merchant_name": "Foster Ltd",
+  "date": "2023-03-10",
+  "subtotal": 379.34,
+  "tax": 15.48,
+  "discount": 12.85,
+  "total": 381.97,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$25.75",
+      "line_total": "$51.50"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$66.70",
+      "line_total": "$66.70"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$8.72",
+      "line_total": "$34.88"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$28.77",
+      "line_total": "$115.08"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$16.25",
+      "line_total": "$48.75"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$5.49",
+      "line_total": "$5.49"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$56.94",
+      "line_total": "$56.94"
+    }
+  ],
+  "sample_id": "receipt_0190"
+}

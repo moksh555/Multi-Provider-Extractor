@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0589",
+  "invoice_number": "INV-2026-0589",
+  "company_name": "BrightStar Electronics",
+  "company_address": "73 Mirpur DOHS, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "52 Doha Business Park, Dubai, UAE",
+  "invoice_date": "2026-05-07",
+  "due_date": "2026-05-22",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 11,
+      "unit_price": 393.36,
+      "amount": 4326.96
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 635.25,
+      "amount": 2541.0
+    }
+  ],
+  "subtotal": 6867.96,
+  "discount": 343.4,
+  "tax_rate": 0.075,
+  "tax": 489.34,
+  "shipping": 25,
+  "total": 7038.9,
+  "amount_paid": 7038.9,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801326437254",
+  "po_number": "PO-17155"
+}

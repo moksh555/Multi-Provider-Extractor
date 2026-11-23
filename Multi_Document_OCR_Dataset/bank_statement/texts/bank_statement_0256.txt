@@ -1,0 +1,16 @@
+Bank Statement STM-Y3NPZ5GP
+Holder: Jesse Martin
+Closing Balance: $5243.92
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Y3NPZ5GP",
+  "account_holder": "Jesse Martin",
+  "account_number_masked": "****2088",
+  "period_start": "2024-07-26",
+  "period_end": "2024-08-25",
+  "opening_balance": 1282.1,
+  "closing_balance": 5243.92,
+  "transactions": 11,
+  "sample_id": "bank_statement_0256"
+}

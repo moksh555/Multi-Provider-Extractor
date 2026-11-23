@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0800
+Company: Atlas Engineering Ltd.
+Company Address: 175 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 235 Al Barsha, Dubai, UAE
+Invoice Date: 2026-06-08
+Due Date: 2026-06-23
+Currency: BDT
+Subtotal: 4616.39
+Tax: 461.64
+Total: 5088.03
+Balance Due: 5088.03
+Status: overdue

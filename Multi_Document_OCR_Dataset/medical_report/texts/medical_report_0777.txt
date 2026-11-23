@@ -1,0 +1,14 @@
+Medical Report MED-TAQDWXFE
+Patient: David Wade
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TAQDWXFE",
+  "patient_name": "David Wade",
+  "visit_date": "2025-12-16",
+  "doctor_name": "Dr. Mary Cross",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0777"
+}

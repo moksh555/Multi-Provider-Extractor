@@ -1,0 +1,37 @@
+Receipt RCT-RL8XKGYG
+Merchant: Yates-Harper
+Date: 2026-06-25
+Total: $108.03
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RL8XKGYG",
+  "merchant_name": "Yates-Harper",
+  "date": "2026-06-25",
+  "subtotal": 101.71,
+  "tax": 6.43,
+  "discount": 0.11,
+  "total": 108.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$6.49",
+      "line_total": "$12.98"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$17.27",
+      "line_total": "$51.81"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$36.92",
+      "line_total": "$36.92"
+    }
+  ],
+  "sample_id": "receipt_0265"
+}

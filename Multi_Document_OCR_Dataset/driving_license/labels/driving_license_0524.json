@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL187275276",
+  "full_name": "Dustin Ramirez",
+  "date_of_birth": "1995-11-27",
+  "class": "D",
+  "issue_date": "2023-12-29",
+  "expiry_date": "2028-12-29",
+  "address": "47554 Collin Bridge Apt. 555, Johnview, IL 77089",
+  "sample_id": "driving_license_0524"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0171
+Company: Metro Print House
+Company Address: 58 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Rahim Traders
+Billing Address: 59 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-05-01
+Due Date: 2026-05-31
+Currency: BDT
+Subtotal: 17121.71
+Tax: 1712.17
+Total: 18883.88
+Balance Due: 18883.88
+Status: overdue

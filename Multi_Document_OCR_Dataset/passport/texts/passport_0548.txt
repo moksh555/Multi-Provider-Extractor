@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Alexandra Lowery
+Passport No: P23659563
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P23659563",
+  "full_name": "Alexandra Lowery",
+  "nationality": "US",
+  "date_of_birth": "1981-01-22",
+  "issue_date": "2023-09-10",
+  "expiry_date": "2033-09-10",
+  "place_of_birth": "North Mary",
+  "sample_id": "passport_0548"
+}

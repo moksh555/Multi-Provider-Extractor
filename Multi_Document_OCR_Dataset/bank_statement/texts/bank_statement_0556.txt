@@ -1,0 +1,16 @@
+Bank Statement STM-C7PP7KO2
+Holder: Lindsay Pacheco
+Closing Balance: $4659.43
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-C7PP7KO2",
+  "account_holder": "Lindsay Pacheco",
+  "account_number_masked": "****7272",
+  "period_start": "2025-10-12",
+  "period_end": "2025-11-11",
+  "opening_balance": 634.84,
+  "closing_balance": 4659.43,
+  "transactions": 12,
+  "sample_id": "bank_statement_0556"
+}

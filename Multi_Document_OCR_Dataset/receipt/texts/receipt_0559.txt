@@ -1,0 +1,61 @@
+Receipt RCT-2BVXEJAX
+Merchant: Montes, Davis and Robinson
+Date: 2023-08-25
+Total: $1138.91
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2BVXEJAX",
+  "merchant_name": "Montes, Davis and Robinson",
+  "date": "2023-08-25",
+  "subtotal": 1095.32,
+  "tax": 52.44,
+  "discount": 8.85,
+  "total": 1138.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$46.36",
+      "line_total": "$139.08"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$53.75",
+      "line_total": "$107.50"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$62.97",
+      "line_total": "$188.91"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$49.23",
+      "line_total": "$147.69"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$52.08",
+      "line_total": "$156.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$62.88",
+      "line_total": "$251.52"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$52.19",
+      "line_total": "$104.38"
+    }
+  ],
+  "sample_id": "receipt_0559"
+}

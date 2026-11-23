@@ -1,0 +1,14 @@
+Medical Report MED-A2EDY6CQ
+Patient: Amy Bowman
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-A2EDY6CQ",
+  "patient_name": "Amy Bowman",
+  "visit_date": "2026-02-28",
+  "doctor_name": "Dr. Stephen Deleon",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0818"
+}

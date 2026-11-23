@@ -1,0 +1,25 @@
+Resume
+Mikayla Cook
+Data Analyst
+Skills: Streamlit, PyTorch, Python, TensorFlow, Computer Vision, Machine Learning, NLP, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Mikayla Cook",
+  "email": "kfranco@example.com",
+  "phone": "973-962-9245",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Streamlit",
+    "PyTorch",
+    "Python",
+    "TensorFlow",
+    "Computer Vision",
+    "Machine Learning",
+    "NLP",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0741"
+}

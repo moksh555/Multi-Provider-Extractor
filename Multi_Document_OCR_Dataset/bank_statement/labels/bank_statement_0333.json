@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WZUB3ZUP",
+  "account_holder": "Dylan Ellis",
+  "account_number_masked": "****9263",
+  "period_start": "2026-11-02",
+  "period_end": "2026-12-02",
+  "opening_balance": 4347.82,
+  "closing_balance": 7354.4,
+  "transactions": 11,
+  "sample_id": "bank_statement_0333"
+}

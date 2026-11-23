@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0383
+Company: UrbanBuild Construction
+Company Address: 106 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Global Mart
+Billing Address: 88 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-05-13
+Due Date: 2026-06-12
+Currency: QAR
+Subtotal: 14959.4
+Tax: 1421.14
+Total: 15642.57
+Balance Due: 15642.57
+Status: unpaid

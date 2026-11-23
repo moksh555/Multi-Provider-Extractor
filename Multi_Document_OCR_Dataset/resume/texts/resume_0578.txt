@@ -1,0 +1,26 @@
+Resume
+Katelyn Keller
+Computer Vision Engineer
+Skills: TensorFlow, Python, SQL, Streamlit, NLP, FastAPI, Computer Vision, AWS, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Katelyn Keller",
+  "email": "collinsjose@example.com",
+  "phone": "7267135342",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "TensorFlow",
+    "Python",
+    "SQL",
+    "Streamlit",
+    "NLP",
+    "FastAPI",
+    "Computer Vision",
+    "AWS",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0578"
+}

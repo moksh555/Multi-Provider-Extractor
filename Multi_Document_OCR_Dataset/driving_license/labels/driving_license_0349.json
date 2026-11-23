@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL426820552",
+  "full_name": "Andrew Richardson",
+  "date_of_birth": "1975-03-16",
+  "class": "C",
+  "issue_date": "2020-05-27",
+  "expiry_date": "2025-05-27",
+  "address": "325 Amber Run, Mclaughlinshire, VI 92624",
+  "sample_id": "driving_license_0349"
+}

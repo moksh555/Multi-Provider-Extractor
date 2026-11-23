@@ -1,0 +1,14 @@
+Medical Report MED-RI0PRCPH
+Patient: Dawn Watson
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RI0PRCPH",
+  "patient_name": "Dawn Watson",
+  "visit_date": "2026-03-05",
+  "doctor_name": "Dr. Nathaniel Campbell",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0238"
+}

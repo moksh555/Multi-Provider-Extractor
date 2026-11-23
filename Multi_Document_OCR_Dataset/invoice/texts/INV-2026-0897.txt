@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0897
+Company: SkyNet Office Mart
+Company Address: 105 Road 12, Banani, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 159 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-06-08
+Due Date: 2026-07-23
+Currency: QAR
+Subtotal: 1071.06
+Tax: 53.55
+Total: 1124.61
+Balance Due: 482.66
+Status: partial

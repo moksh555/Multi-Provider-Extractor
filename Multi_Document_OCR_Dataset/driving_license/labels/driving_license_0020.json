@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL295570558",
+  "full_name": "Jennifer Oliver",
+  "date_of_birth": "1974-02-14",
+  "class": "A",
+  "issue_date": "2020-08-20",
+  "expiry_date": "2025-08-20",
+  "address": "26025 Pham Way, West Erik, UT 14669",
+  "sample_id": "driving_license_0020"
+}

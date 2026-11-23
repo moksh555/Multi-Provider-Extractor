@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-072HUN8F",
+  "account_holder": "Daniel Reynolds",
+  "account_number_masked": "****3493",
+  "period_start": "2025-05-02",
+  "period_end": "2025-06-01",
+  "opening_balance": 3599.58,
+  "closing_balance": 3859.72,
+  "transactions": 9,
+  "sample_id": "bank_statement_0304"
+}

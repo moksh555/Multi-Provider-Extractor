@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-YP6GY3QE",
+  "patient_name": "Hannah Rivera",
+  "visit_date": "2025-02-18",
+  "doctor_name": "Dr. Cynthia Harrison",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0725"
+}

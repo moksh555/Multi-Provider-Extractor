@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jessica Burch
+License: DL954952043
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL954952043",
+  "full_name": "Jessica Burch",
+  "date_of_birth": "1993-06-09",
+  "class": "A",
+  "issue_date": "2026-02-16",
+  "expiry_date": "2031-02-16",
+  "address": "26003 Abigail Ford, Peterland, GU 04075",
+  "sample_id": "driving_license_0899"
+}

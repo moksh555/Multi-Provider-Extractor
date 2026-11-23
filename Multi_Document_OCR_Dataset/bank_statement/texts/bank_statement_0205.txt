@@ -1,0 +1,16 @@
+Bank Statement STM-Z53C5DWU
+Holder: Erin Lopez
+Closing Balance: $5509.35
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z53C5DWU",
+  "account_holder": "Erin Lopez",
+  "account_number_masked": "****3115",
+  "period_start": "2025-11-26",
+  "period_end": "2025-12-26",
+  "opening_balance": 1525.9,
+  "closing_balance": 5509.35,
+  "transactions": 8,
+  "sample_id": "bank_statement_0205"
+}

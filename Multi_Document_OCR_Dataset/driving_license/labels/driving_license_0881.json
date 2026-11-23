@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL212482997",
+  "full_name": "Chad White",
+  "date_of_birth": "1980-10-13",
+  "class": "B",
+  "issue_date": "2023-02-15",
+  "expiry_date": "2028-02-15",
+  "address": "31829 Jones Stravenue, Lake Kathleenmouth, GA 89805",
+  "sample_id": "driving_license_0881"
+}

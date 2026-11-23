@@ -1,0 +1,16 @@
+Insurance Policy POL-2STN7E36H
+Holder: Jason Garza
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2STN7E36H",
+  "policy_holder": "Jason Garza",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-11-03",
+  "expiry_date": "2024-11-03",
+  "premium": 511.6,
+  "coverage_amount": 428698.14,
+  "beneficiary": "Meghan White",
+  "sample_id": "insurance_document_0152"
+}

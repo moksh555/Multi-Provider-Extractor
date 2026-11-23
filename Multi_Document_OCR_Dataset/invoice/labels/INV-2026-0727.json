@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0727",
+  "invoice_number": "INV-2026-0727",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "94 Mirpur DOHS, Sylhet, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "82 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-22",
+  "due_date": "2026-05-07",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 42.0,
+      "amount": 294.0
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 240.7,
+      "amount": 1925.6
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 824.21,
+      "amount": 824.21
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 5,
+      "unit_price": 772.94,
+      "amount": 3864.7
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 9,
+      "unit_price": 758.13,
+      "amount": 6823.17
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 1,
+      "unit_price": 603.04,
+      "amount": 603.04
+    }
+  ],
+  "subtotal": 14334.72,
+  "discount": 1433.47,
+  "tax_rate": 0.15,
+  "tax": 1935.19,
+  "shipping": 25,
+  "total": 14861.44,
+  "amount_paid": 0,
+  "balance_due": 14861.44,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801150888168",
+  "po_number": "PO-37976"
+}

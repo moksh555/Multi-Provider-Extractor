@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jamie Duran
+License: DL415592822
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL415592822",
+  "full_name": "Jamie Duran",
+  "date_of_birth": "2005-02-17",
+  "class": "D",
+  "issue_date": "2023-06-18",
+  "expiry_date": "2028-06-18",
+  "address": "794 Carol Manors, South Jessica, MO 76338",
+  "sample_id": "driving_license_0974"
+}

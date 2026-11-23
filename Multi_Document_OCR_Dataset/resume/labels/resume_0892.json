@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Kenneth Barnes",
+  "email": "vreed@example.com",
+  "phone": "399.206.1834x4251",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Pandas",
+    "SQL",
+    "NLP",
+    "Docker",
+    "AWS",
+    "Machine Learning",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0892"
+}

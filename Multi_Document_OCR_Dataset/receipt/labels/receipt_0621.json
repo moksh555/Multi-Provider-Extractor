@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XYB8Z8TR",
+  "merchant_name": "Martinez-Mccoy",
+  "date": "2025-09-18",
+  "subtotal": 393.97,
+  "tax": 16.95,
+  "discount": 2.38,
+  "total": 408.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$75.32",
+      "line_total": "$150.64"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$10.11",
+      "line_total": "$20.22"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$26.98",
+      "line_total": "$107.92"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$76.35",
+      "line_total": "$76.35"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$19.42",
+      "line_total": "$38.84"
+    }
+  ],
+  "sample_id": "receipt_0621"
+}

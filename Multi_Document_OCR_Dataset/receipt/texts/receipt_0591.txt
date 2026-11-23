@@ -1,0 +1,43 @@
+Receipt RCT-B76LBWLA
+Merchant: Tucker-Brown
+Date: 2022-02-21
+Total: $390.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-B76LBWLA",
+  "merchant_name": "Tucker-Brown",
+  "date": "2022-02-21",
+  "subtotal": 387.13,
+  "tax": 13.49,
+  "discount": 10.54,
+  "total": 390.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$79.75",
+      "line_total": "$79.75"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$8.49",
+      "line_total": "$33.96"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$26.95",
+      "line_total": "$53.90"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$54.88",
+      "line_total": "$219.52"
+    }
+  ],
+  "sample_id": "receipt_0591"
+}

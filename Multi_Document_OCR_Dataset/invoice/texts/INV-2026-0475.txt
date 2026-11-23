@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0475
+Company: Royal Diagnostics Center
+Company Address: 187 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 239 Agrabad C/A, Doha, Qatar
+Invoice Date: 2026-02-08
+Due Date: 2026-03-10
+Currency: USD
+Subtotal: 18602.57
+Tax: 1395.19
+Total: 20002.76
+Balance Due: 13505.33
+Status: partial

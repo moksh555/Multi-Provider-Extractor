@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-W7N0S6WS",
+  "account_holder": "Michelle Mcdonald",
+  "account_number_masked": "****2879",
+  "period_start": "2026-12-27",
+  "period_end": "2027-01-26",
+  "opening_balance": 4986.02,
+  "closing_balance": 4788.65,
+  "transactions": 13,
+  "sample_id": "bank_statement_0540"
+}

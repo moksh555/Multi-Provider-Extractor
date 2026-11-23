@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0930
+Company: Eastern Care Pharmacy
+Company Address: 27 Al Barsha, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 176 Uttara Sector 7, Chattogram, Bangladesh
+Invoice Date: 2026-06-07
+Due Date: 2026-07-07
+Currency: USD
+Subtotal: 12384.44
+Tax: 619.22
+Total: 13008.66
+Balance Due: 13008.66
+Status: unpaid

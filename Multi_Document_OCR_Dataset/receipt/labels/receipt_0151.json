@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0SQG4EIJ",
+  "merchant_name": "Newton, Cannon and Dunn",
+  "date": "2021-11-24",
+  "subtotal": 405.17,
+  "tax": 17.82,
+  "discount": 9.82,
+  "total": 413.17,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$9.14",
+      "line_total": "$36.56"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$44.33",
+      "line_total": "$177.32"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$42.39",
+      "line_total": "$169.56"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$21.73",
+      "line_total": "$21.73"
+    }
+  ],
+  "sample_id": "receipt_0151"
+}

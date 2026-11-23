@@ -1,0 +1,67 @@
+Receipt RCT-TGWJ7PUM
+Merchant: Sandoval, Parrish and Crosby
+Date: 2026-07-06
+Total: $1216.73
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TGWJ7PUM",
+  "merchant_name": "Sandoval, Parrish and Crosby",
+  "date": "2026-07-06",
+  "subtotal": 1144.74,
+  "tax": 85.49,
+  "discount": 13.5,
+  "total": 1216.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$60.87",
+      "line_total": "$121.74"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$70.25",
+      "line_total": "$140.50"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$33.27",
+      "line_total": "$99.81"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$46.22",
+      "line_total": "$92.44"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$39.93",
+      "line_total": "$39.93"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$54.78",
+      "line_total": "$219.12"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$38.79",
+      "line_total": "$155.16"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$69.01",
+      "line_total": "$276.04"
+    }
+  ],
+  "sample_id": "receipt_0531"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-G5FABZ3K
+Patient: Victor Fuller
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-G5FABZ3K",
+  "patient_name": "Victor Fuller",
+  "visit_date": "2024-12-12",
+  "doctor_name": "Dr. Kristin Dixon MD",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0830"
+}

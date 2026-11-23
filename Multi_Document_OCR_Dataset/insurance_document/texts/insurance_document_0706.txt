@@ -1,0 +1,16 @@
+Insurance Policy POL-D6X73ZCA7
+Holder: Michael Johnson
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-D6X73ZCA7",
+  "policy_holder": "Michael Johnson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-09-05",
+  "expiry_date": "2027-09-05",
+  "premium": 468.88,
+  "coverage_amount": 82412.29,
+  "beneficiary": "Catherine Schmidt",
+  "sample_id": "insurance_document_0706"
+}

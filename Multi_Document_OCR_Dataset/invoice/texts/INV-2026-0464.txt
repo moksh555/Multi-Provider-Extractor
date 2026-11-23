@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0464
+Company: Nexus Digital Solutions
+Company Address: 53 Motijheel C/A, Chattogram, Bangladesh
+Customer: TechPoint BD
+Billing Address: 171 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-06-09
+Due Date: 2026-07-24
+Currency: USD
+Subtotal: 11449.74
+Tax: 0.0
+Total: 11474.74
+Balance Due: 11474.74
+Status: unpaid

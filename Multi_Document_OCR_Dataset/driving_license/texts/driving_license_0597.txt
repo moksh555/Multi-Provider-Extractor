@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kevin Dixon
+License: DL856969741
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL856969741",
+  "full_name": "Kevin Dixon",
+  "date_of_birth": "2005-05-17",
+  "class": "D",
+  "issue_date": "2021-06-04",
+  "expiry_date": "2026-06-04",
+  "address": "287 Jeffrey Spring, West Courtney, VA 01346",
+  "sample_id": "driving_license_0597"
+}

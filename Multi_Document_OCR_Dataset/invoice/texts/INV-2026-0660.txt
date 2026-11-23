@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0660
+Company: PrimeSoft Technologies
+Company Address: 40 Uttara Sector 7, Doha, Qatar
+Customer: Trust Finance Office
+Billing Address: 155 Dhanmondi 27, Sylhet, Bangladesh
+Invoice Date: 2026-06-09
+Due Date: 2026-06-16
+Currency: QAR
+Subtotal: 10093.14
+Tax: 0.0
+Total: 10143.14
+Balance Due: 3725.43
+Status: partial

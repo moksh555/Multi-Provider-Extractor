@@ -1,0 +1,14 @@
+Medical Report MED-Y830X7Q3
+Patient: Ann Moore
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Y830X7Q3",
+  "patient_name": "Ann Moore",
+  "visit_date": "2024-07-10",
+  "doctor_name": "Dr. Dr. Kyle Calderon",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0090"
+}

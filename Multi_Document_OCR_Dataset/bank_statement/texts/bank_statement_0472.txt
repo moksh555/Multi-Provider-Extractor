@@ -1,0 +1,16 @@
+Bank Statement STM-ZPYDDXAR
+Holder: Debra Blackburn
+Closing Balance: $6748.16
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZPYDDXAR",
+  "account_holder": "Debra Blackburn",
+  "account_number_masked": "****9062",
+  "period_start": "2024-09-18",
+  "period_end": "2024-10-18",
+  "opening_balance": 4108.51,
+  "closing_balance": 6748.16,
+  "transactions": 13,
+  "sample_id": "bank_statement_0472"
+}

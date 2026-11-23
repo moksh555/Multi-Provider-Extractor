@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Briana Robinson
+Passport No: P60583990
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P60583990",
+  "full_name": "Briana Robinson",
+  "nationality": "GB",
+  "date_of_birth": "1984-01-17",
+  "issue_date": "2025-07-23",
+  "expiry_date": "2035-07-23",
+  "place_of_birth": "East Jacqueline",
+  "sample_id": "passport_0514"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brian Pearson
+License: DL390323177
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL390323177",
+  "full_name": "Brian Pearson",
+  "date_of_birth": "1971-08-15",
+  "class": "C",
+  "issue_date": "2021-02-02",
+  "expiry_date": "2026-02-02",
+  "address": "33582 Giles Meadows Apt. 703, Bradleyburgh, KY 98277",
+  "sample_id": "driving_license_0763"
+}

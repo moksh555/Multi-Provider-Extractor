@@ -1,0 +1,16 @@
+Synthetic Driving License
+Gregory Chen
+License: DL155866387
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL155866387",
+  "full_name": "Gregory Chen",
+  "date_of_birth": "1967-01-17",
+  "class": "B",
+  "issue_date": "2025-03-22",
+  "expiry_date": "2030-03-22",
+  "address": "28914 Randall Crossing Apt. 846, New William, AS 42221",
+  "sample_id": "driving_license_0438"
+}

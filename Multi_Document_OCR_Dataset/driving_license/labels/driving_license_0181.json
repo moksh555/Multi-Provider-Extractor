@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL482705366",
+  "full_name": "Stephen Martin",
+  "date_of_birth": "2003-05-08",
+  "class": "A",
+  "issue_date": "2025-06-21",
+  "expiry_date": "2030-06-21",
+  "address": "9970 Dunlap Expressway, Mooreville, MA 27442",
+  "sample_id": "driving_license_0181"
+}

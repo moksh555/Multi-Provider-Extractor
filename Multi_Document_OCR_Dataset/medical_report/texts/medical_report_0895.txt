@@ -1,0 +1,14 @@
+Medical Report MED-LCKSA65M
+Patient: John Jones
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LCKSA65M",
+  "patient_name": "John Jones",
+  "visit_date": "2025-07-13",
+  "doctor_name": "Dr. Logan Mercado",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0895"
+}

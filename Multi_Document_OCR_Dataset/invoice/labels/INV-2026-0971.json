@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0971",
+  "invoice_number": "INV-2026-0971",
+  "company_name": "Greenline Logistics",
+  "company_address": "150 Road 12, Banani, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "51 Doha Business Park, Dubai, UAE",
+  "invoice_date": "2026-03-28",
+  "due_date": "2026-05-12",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 655.85,
+      "amount": 655.85
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 6,
+      "unit_price": 77.1,
+      "amount": 462.6
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 1,
+      "unit_price": 352.16,
+      "amount": 352.16
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 160.97,
+      "amount": 1287.76
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 97.89,
+      "amount": 881.01
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 9,
+      "unit_price": 212.04,
+      "amount": 1908.36
+    }
+  ],
+  "subtotal": 5547.74,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 832.16,
+  "shipping": 10,
+  "total": 6389.9,
+  "amount_paid": 0,
+  "balance_due": 6389.9,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801818534851",
+  "po_number": "PO-29532"
+}

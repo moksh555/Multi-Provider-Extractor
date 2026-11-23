@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-OGKNENC9",
+  "patient_name": "Julie Schultz",
+  "visit_date": "2024-09-17",
+  "doctor_name": "Dr. Melissa Donovan",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0872"
+}

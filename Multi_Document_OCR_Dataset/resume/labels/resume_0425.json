@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "George Jones",
+  "email": "singhaaron@example.org",
+  "phone": "(241)775-6168",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "TensorFlow",
+    "FastAPI",
+    "SQL",
+    "Streamlit",
+    "Python",
+    "Deep Learning",
+    "Machine Learning",
+    "LangChain",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0425"
+}

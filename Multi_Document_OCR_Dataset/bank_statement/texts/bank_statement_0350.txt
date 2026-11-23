@@ -1,0 +1,16 @@
+Bank Statement STM-B4ISYI8R
+Holder: Javier Barrera
+Closing Balance: $195.60
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B4ISYI8R",
+  "account_holder": "Javier Barrera",
+  "account_number_masked": "****5209",
+  "period_start": "2026-02-08",
+  "period_end": "2026-03-10",
+  "opening_balance": 1147.01,
+  "closing_balance": 195.6,
+  "transactions": 9,
+  "sample_id": "bank_statement_0350"
+}

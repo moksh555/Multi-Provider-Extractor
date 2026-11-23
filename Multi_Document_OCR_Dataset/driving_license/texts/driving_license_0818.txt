@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kayla Fisher
+License: DL374792430
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL374792430",
+  "full_name": "Kayla Fisher",
+  "date_of_birth": "1991-08-20",
+  "class": "C",
+  "issue_date": "2023-05-18",
+  "expiry_date": "2028-05-18",
+  "address": "791 Kim Island Apt. 221, Kathleenton, AZ 09712",
+  "sample_id": "driving_license_0818"
+}

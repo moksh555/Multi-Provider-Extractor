@@ -1,0 +1,23 @@
+Resume
+Katie Parsons
+Backend Developer
+Skills: NLP, Python, AWS, Machine Learning, SQL, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Katie Parsons",
+  "email": "lisa24@example.org",
+  "phone": "001-782-269-2855x0743",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "NLP",
+    "Python",
+    "AWS",
+    "Machine Learning",
+    "SQL",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0231"
+}

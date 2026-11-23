@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0255
+Company: CityBanking Supplies
+Company Address: 45 Jumeirah Lake Towers, Dubai, UAE
+Customer: Karim Enterprise
+Billing Address: 178 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-06-25
+Due Date: 2026-07-25
+Currency: SAR
+Subtotal: 8604.61
+Tax: 817.44
+Total: 9016.82
+Balance Due: 4313.33
+Status: partial

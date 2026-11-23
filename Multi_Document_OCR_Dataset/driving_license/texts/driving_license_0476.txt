@@ -1,0 +1,16 @@
+Synthetic Driving License
+Amy Brooks
+License: DL704010684
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL704010684",
+  "full_name": "Amy Brooks",
+  "date_of_birth": "2002-09-14",
+  "class": "B",
+  "issue_date": "2021-06-03",
+  "expiry_date": "2026-06-03",
+  "address": "3039 Stevenson Isle, West Lonnie, WY 05692",
+  "sample_id": "driving_license_0476"
+}

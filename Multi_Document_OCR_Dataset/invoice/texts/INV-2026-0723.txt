@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0723
+Company: Summit Agro Foods
+Company Address: 129 Agrabad C/A, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 205 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-05-01
+Due Date: 2026-05-16
+Currency: USD
+Subtotal: 16229.78
+Tax: 1622.98
+Total: 17852.76
+Balance Due: 17852.76
+Status: unpaid

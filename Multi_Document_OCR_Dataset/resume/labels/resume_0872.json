@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Mitchell White",
+  "email": "laurensharp@example.org",
+  "phone": "934-824-1471",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "Docker",
+    "Python",
+    "AWS",
+    "NLP",
+    "Pandas",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0872"
+}

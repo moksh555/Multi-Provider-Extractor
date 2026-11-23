@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0215",
+  "invoice_number": "INV-2026-0215",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "128 Al Barsha, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "71 Al Barsha, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-24",
+  "due_date": "2026-05-24",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 571.12,
+      "amount": 6282.32
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 4,
+      "unit_price": 27.39,
+      "amount": 109.56
+    }
+  ],
+  "subtotal": 6391.88,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 6416.88,
+  "amount_paid": 6416.88,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801460539721",
+  "po_number": "PO-37854"
+}

@@ -1,0 +1,25 @@
+Resume
+Shelby Ward
+Data Analyst
+Skills: Deep Learning, Docker, Pandas, Streamlit, Python, PyTorch, Computer Vision, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Shelby Ward",
+  "email": "taylorpamela@example.net",
+  "phone": "001-235-706-6566x05059",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "Docker",
+    "Pandas",
+    "Streamlit",
+    "Python",
+    "PyTorch",
+    "Computer Vision",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0886"
+}

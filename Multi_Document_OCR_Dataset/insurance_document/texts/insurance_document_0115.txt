@@ -1,0 +1,16 @@
+Insurance Policy POL-BT3G2QZW3
+Holder: Todd Johnson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BT3G2QZW3",
+  "policy_holder": "Todd Johnson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-07-26",
+  "expiry_date": "2026-07-26",
+  "premium": 208.02,
+  "coverage_amount": 108779.59,
+  "beneficiary": "Sheri Harris",
+  "sample_id": "insurance_document_0115"
+}

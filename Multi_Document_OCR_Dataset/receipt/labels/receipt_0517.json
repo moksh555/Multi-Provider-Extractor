@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BOBCD11R",
+  "merchant_name": "Brooks-Diaz",
+  "date": "2024-09-03",
+  "subtotal": 623.68,
+  "tax": 37.45,
+  "discount": 9.55,
+  "total": 651.58,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$76.90",
+      "line_total": "$307.60"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$1.84",
+      "line_total": "$1.84"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$65.81",
+      "line_total": "$131.62"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$27.43",
+      "line_total": "$27.43"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$44.43",
+      "line_total": "$44.43"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$55.38",
+      "line_total": "$110.76"
+    }
+  ],
+  "sample_id": "receipt_0517"
+}

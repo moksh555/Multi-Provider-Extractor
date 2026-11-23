@@ -1,0 +1,16 @@
+Bank Statement STM-BA3IC4WZ
+Holder: Casey Rasmussen
+Closing Balance: $6891.22
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BA3IC4WZ",
+  "account_holder": "Casey Rasmussen",
+  "account_number_masked": "****5607",
+  "period_start": "2025-07-19",
+  "period_end": "2025-08-18",
+  "opening_balance": 4210.49,
+  "closing_balance": 6891.22,
+  "transactions": 12,
+  "sample_id": "bank_statement_0806"
+}

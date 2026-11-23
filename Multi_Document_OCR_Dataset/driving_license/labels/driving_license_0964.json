@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL573753761",
+  "full_name": "Michael Johnson",
+  "date_of_birth": "1971-07-14",
+  "class": "C",
+  "issue_date": "2021-08-23",
+  "expiry_date": "2026-08-23",
+  "address": "8857 Warner Ranch, Tylerborough, DE 74066",
+  "sample_id": "driving_license_0964"
+}

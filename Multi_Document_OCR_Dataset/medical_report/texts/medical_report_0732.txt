@@ -1,0 +1,14 @@
+Medical Report MED-TLT4RYXS
+Patient: Robert Ingram
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TLT4RYXS",
+  "patient_name": "Robert Ingram",
+  "visit_date": "2026-09-13",
+  "doctor_name": "Dr. Daniel Lambert",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0732"
+}

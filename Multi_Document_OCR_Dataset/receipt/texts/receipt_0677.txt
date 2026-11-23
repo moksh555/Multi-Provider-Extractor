@@ -1,0 +1,37 @@
+Receipt RCT-ZOIEASU2
+Merchant: George-Daugherty
+Date: 2022-01-04
+Total: $286.47
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZOIEASU2",
+  "merchant_name": "George-Daugherty",
+  "date": "2022-01-04",
+  "subtotal": 263.28,
+  "tax": 25.47,
+  "discount": 2.28,
+  "total": 286.47,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$33.09",
+      "line_total": "$33.09"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$46.79",
+      "line_total": "$46.79"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$45.85",
+      "line_total": "$183.40"
+    }
+  ],
+  "sample_id": "receipt_0677"
+}

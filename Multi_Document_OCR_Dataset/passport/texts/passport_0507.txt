@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Laura Roberts
+Passport No: P47306639
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P47306639",
+  "full_name": "Laura Roberts",
+  "nationality": "BD",
+  "date_of_birth": "1995-06-14",
+  "issue_date": "2026-10-28",
+  "expiry_date": "2036-10-28",
+  "place_of_birth": "Katrinatown",
+  "sample_id": "passport_0507"
+}

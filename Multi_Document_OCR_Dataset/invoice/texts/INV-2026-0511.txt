@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0511
+Company: Nexus Digital Solutions
+Company Address: 45 Doha Business Park, Doha, Qatar
+Customer: Bengal Motors
+Billing Address: 234 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-10
+Due Date: 2026-05-25
+Currency: BDT
+Subtotal: 20654.86
+Tax: 2943.32
+Total: 22575.44
+Balance Due: 22575.44
+Status: unpaid

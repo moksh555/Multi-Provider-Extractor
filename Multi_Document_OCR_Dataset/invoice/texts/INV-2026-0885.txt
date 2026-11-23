@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0885
+Company: Atlas Engineering Ltd.
+Company Address: 129 Al Barsha, Dhaka, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 230 Doha Business Park, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-22
+Due Date: 2026-07-06
+Currency: USD
+Subtotal: 5576.56
+Tax: 557.66
+Total: 6184.22
+Balance Due: 6184.22
+Status: unpaid

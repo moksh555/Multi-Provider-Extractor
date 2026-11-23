@@ -1,0 +1,16 @@
+Synthetic Driving License
+Paul Carpenter
+License: DL665631557
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL665631557",
+  "full_name": "Paul Carpenter",
+  "date_of_birth": "1979-12-24",
+  "class": "A",
+  "issue_date": "2020-01-15",
+  "expiry_date": "2025-01-15",
+  "address": "99062 Kelly Vista Suite 655, Nelsonland, ID 18341",
+  "sample_id": "driving_license_0168"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-G45OK930
+Patient: Christina Lester
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-G45OK930",
+  "patient_name": "Christina Lester",
+  "visit_date": "2024-08-18",
+  "doctor_name": "Dr. Patricia Nichols",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0441"
+}

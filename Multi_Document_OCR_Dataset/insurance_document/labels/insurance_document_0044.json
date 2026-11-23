@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z2FLU7U6N",
+  "policy_holder": "Michael Chambers",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-06-05",
+  "expiry_date": "2024-06-05",
+  "premium": 1529.19,
+  "coverage_amount": 416980.1,
+  "beneficiary": "Samantha Bentley",
+  "sample_id": "insurance_document_0044"
+}

@@ -1,0 +1,24 @@
+Resume
+David Smith
+Data Analyst
+Skills: Machine Learning, PyTorch, FastAPI, Pandas, Streamlit, SQL, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "David Smith",
+  "email": "lopezzachary@example.org",
+  "phone": "511.248.2414",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "PyTorch",
+    "FastAPI",
+    "Pandas",
+    "Streamlit",
+    "SQL",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0919"
+}

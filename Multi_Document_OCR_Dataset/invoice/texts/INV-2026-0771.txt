@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0771
+Company: Delta Insurance Services
+Company Address: 75 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 244 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-02-27
+Due Date: 2026-03-14
+Currency: USD
+Subtotal: 3830.26
+Tax: 375.37
+Total: 4179.02
+Balance Due: 0.0
+Status: paid

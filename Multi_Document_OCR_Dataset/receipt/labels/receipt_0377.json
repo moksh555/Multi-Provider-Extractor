@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-541MPW57",
+  "merchant_name": "Hardy-Ramirez",
+  "date": "2023-02-22",
+  "subtotal": 545.57,
+  "tax": 35.92,
+  "discount": 14.94,
+  "total": 566.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$74.72",
+      "line_total": "$149.44"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$35.92",
+      "line_total": "$71.84"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$47.31",
+      "line_total": "$47.31"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$72.97",
+      "line_total": "$72.97"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$48.94",
+      "line_total": "$48.94"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$51.69",
+      "line_total": "$155.07"
+    }
+  ],
+  "sample_id": "receipt_0377"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0327",
+  "invoice_number": "INV-2026-0327",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "167 Motijheel C/A, Dubai, UAE",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "234 Doha Business Park, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-08-08",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 459.69,
+      "amount": 3677.52
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 4,
+      "unit_price": 129.59,
+      "amount": 518.36
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 849.28,
+      "amount": 5944.96
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 6,
+      "unit_price": 631.08,
+      "amount": 3786.48
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 129.23,
+      "amount": 646.15
+    }
+  ],
+  "subtotal": 14573.47,
+  "discount": 728.67,
+  "tax_rate": 0.075,
+  "tax": 1038.36,
+  "shipping": 10,
+  "total": 14893.16,
+  "amount_paid": 6779.15,
+  "balance_due": 8114.01,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801891624844",
+  "po_number": "PO-94361"
+}

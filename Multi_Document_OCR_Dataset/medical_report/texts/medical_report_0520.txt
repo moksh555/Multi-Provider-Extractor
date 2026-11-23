@@ -1,0 +1,14 @@
+Medical Report MED-QGCHGRG2
+Patient: Paula Johnson
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QGCHGRG2",
+  "patient_name": "Paula Johnson",
+  "visit_date": "2025-09-08",
+  "doctor_name": "Dr. Mr. Melvin English",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0520"
+}

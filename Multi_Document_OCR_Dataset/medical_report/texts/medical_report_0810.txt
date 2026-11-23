@@ -1,0 +1,14 @@
+Medical Report MED-GWYLXJDI
+Patient: Mary Madden
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-GWYLXJDI",
+  "patient_name": "Mary Madden",
+  "visit_date": "2026-06-20",
+  "doctor_name": "Dr. Steven Hernandez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0810"
+}

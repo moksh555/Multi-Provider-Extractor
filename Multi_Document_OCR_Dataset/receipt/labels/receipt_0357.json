@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IXGSPLTI",
+  "merchant_name": "Fisher-Rojas",
+  "date": "2023-11-28",
+  "subtotal": 288.89,
+  "tax": 19.76,
+  "discount": 4.25,
+  "total": 304.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$43.69",
+      "line_total": "$131.07"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$28.63",
+      "line_total": "$57.26"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$9.94",
+      "line_total": "$39.76"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$17.12",
+      "line_total": "$34.24"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$6.64",
+      "line_total": "$26.56"
+    }
+  ],
+  "sample_id": "receipt_0357"
+}

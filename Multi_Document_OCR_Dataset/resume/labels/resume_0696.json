@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Cynthia Silva",
+  "email": "chelsea44@example.com",
+  "phone": "942.870.7254x452",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "LangChain",
+    "TensorFlow",
+    "Streamlit",
+    "Deep Learning",
+    "Computer Vision",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0696"
+}

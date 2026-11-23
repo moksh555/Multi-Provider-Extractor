@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0594",
+  "invoice_number": "INV-2026-0594",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "149 Motijheel C/A, Dhaka, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "21 Dhanmondi 27, Dubai, UAE",
+  "invoice_date": "2026-01-26",
+  "due_date": "2026-02-02",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 10,
+      "unit_price": 582.11,
+      "amount": 5821.1
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 3,
+      "unit_price": 263.51,
+      "amount": 790.53
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 738.38,
+      "amount": 8122.18
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 475.85,
+      "amount": 4282.65
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 85.48,
+      "amount": 427.4
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 394.8,
+      "amount": 3553.2
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 123.12,
+      "amount": 738.72
+    }
+  ],
+  "subtotal": 23735.78,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 1186.79,
+  "shipping": 10,
+  "total": 24932.57,
+  "amount_paid": 24932.57,
+  "balance_due": 0.0,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801092483381",
+  "po_number": "PO-05906"
+}

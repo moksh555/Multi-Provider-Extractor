@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL164366060",
+  "full_name": "Angela Hernandez",
+  "date_of_birth": "1974-03-03",
+  "class": "C",
+  "issue_date": "2023-01-26",
+  "expiry_date": "2028-01-26",
+  "address": "49128 Rivera Trail Suite 973, North Krista, IL 12472",
+  "sample_id": "driving_license_0653"
+}

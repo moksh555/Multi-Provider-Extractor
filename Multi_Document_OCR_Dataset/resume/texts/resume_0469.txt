@@ -1,0 +1,25 @@
+Resume
+Gail Collins
+Backend Developer
+Skills: Deep Learning, Streamlit, AWS, FastAPI, Machine Learning, Docker, TensorFlow, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Gail Collins",
+  "email": "robertssharon@example.org",
+  "phone": "(966)215-3939x2942",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "Streamlit",
+    "AWS",
+    "FastAPI",
+    "Machine Learning",
+    "Docker",
+    "TensorFlow",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0469"
+}

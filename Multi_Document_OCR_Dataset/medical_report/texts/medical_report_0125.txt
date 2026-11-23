@@ -1,0 +1,14 @@
+Medical Report MED-N7M9U59W
+Patient: Jennifer Reyes
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-N7M9U59W",
+  "patient_name": "Jennifer Reyes",
+  "visit_date": "2026-07-04",
+  "doctor_name": "Dr. Shannon Thomas",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0125"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-JSRD9Q46N
+Holder: Susan Russell
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JSRD9Q46N",
+  "policy_holder": "Susan Russell",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-04-04",
+  "expiry_date": "2024-04-04",
+  "premium": 1458.81,
+  "coverage_amount": 118424.31,
+  "beneficiary": "Jared Stewart",
+  "sample_id": "insurance_document_0165"
+}

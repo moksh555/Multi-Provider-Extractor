@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-J3TRP0J4",
+  "merchant_name": "Mclaughlin, Gonzalez and Reynolds",
+  "date": "2021-12-21",
+  "subtotal": 334.91,
+  "tax": 15.81,
+  "discount": 3.62,
+  "total": 347.1,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$60.29",
+      "line_total": "$120.58"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$3.27",
+      "line_total": "$9.81"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$39.52",
+      "line_total": "$79.04"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$27.89",
+      "line_total": "$83.67"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$41.81",
+      "line_total": "$41.81"
+    }
+  ],
+  "sample_id": "receipt_0023"
+}

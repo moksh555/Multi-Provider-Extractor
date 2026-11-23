@@ -1,0 +1,14 @@
+Medical Report MED-Q9W2IN2I
+Patient: Jillian Conley
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Q9W2IN2I",
+  "patient_name": "Jillian Conley",
+  "visit_date": "2026-11-18",
+  "doctor_name": "Dr. Mark Riddle DDS",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0227"
+}

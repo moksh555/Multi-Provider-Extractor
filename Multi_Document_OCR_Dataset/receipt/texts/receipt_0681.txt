@@ -1,0 +1,49 @@
+Receipt RCT-JLEI6WGL
+Merchant: Mccoy-Beck
+Date: 2023-06-30
+Total: $521.78
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JLEI6WGL",
+  "merchant_name": "Mccoy-Beck",
+  "date": "2023-06-30",
+  "subtotal": 515.47,
+  "tax": 16.29,
+  "discount": 9.98,
+  "total": 521.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$1.67",
+      "line_total": "$1.67"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$49.96",
+      "line_total": "$99.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$9.47",
+      "line_total": "$28.41"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$75.12",
+      "line_total": "$300.48"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$28.33",
+      "line_total": "$84.99"
+    }
+  ],
+  "sample_id": "receipt_0681"
+}

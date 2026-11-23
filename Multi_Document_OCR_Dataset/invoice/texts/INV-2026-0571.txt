@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0571
+Company: Nexus Digital Solutions
+Company Address: 92 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: MediLife Hospital
+Billing Address: 164 Agrabad C/A, Doha, Qatar
+Invoice Date: 2026-03-06
+Due Date: 2026-03-13
+Currency: AED
+Subtotal: 7997.73
+Tax: 379.89
+Total: 7977.73
+Balance Due: 0.0
+Status: paid

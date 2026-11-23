@@ -1,0 +1,16 @@
+Bank Statement STM-YGRAW0TW
+Holder: John Schaefer
+Closing Balance: $4177.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YGRAW0TW",
+  "account_holder": "John Schaefer",
+  "account_number_masked": "****6190",
+  "period_start": "2026-05-14",
+  "period_end": "2026-06-13",
+  "opening_balance": 1913.28,
+  "closing_balance": 4177.38,
+  "transactions": 10,
+  "sample_id": "bank_statement_0842"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Carlos Ramos
+Passport No: P30098461
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P30098461",
+  "full_name": "Carlos Ramos",
+  "nationality": "US",
+  "date_of_birth": "1979-07-13",
+  "issue_date": "2020-09-20",
+  "expiry_date": "2030-09-20",
+  "place_of_birth": "Krausetown",
+  "sample_id": "passport_0214"
+}

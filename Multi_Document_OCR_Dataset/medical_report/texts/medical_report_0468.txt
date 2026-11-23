@@ -1,0 +1,14 @@
+Medical Report MED-S9QSZ4A1
+Patient: Julie Bruce
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S9QSZ4A1",
+  "patient_name": "Julie Bruce",
+  "visit_date": "2025-01-02",
+  "doctor_name": "Dr. Lisa Moss",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0468"
+}

@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0PVN9ER1",
+  "merchant_name": "Mejia Inc",
+  "date": "2022-03-26",
+  "subtotal": 672.82,
+  "tax": 52.7,
+  "discount": 4.0,
+  "total": 721.52,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$48.12",
+      "line_total": "$192.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$48.08",
+      "line_total": "$192.32"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$77.72",
+      "line_total": "$233.16"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$54.86",
+      "line_total": "$54.86"
+    }
+  ],
+  "sample_id": "receipt_0004"
+}

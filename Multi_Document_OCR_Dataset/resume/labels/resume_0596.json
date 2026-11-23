@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Nicholas Myers",
+  "email": "sandersjamie@example.net",
+  "phone": "+1-424-916-1195x406",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "LangChain",
+    "Streamlit",
+    "FastAPI",
+    "Docker",
+    "PyTorch",
+    "Computer Vision",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0596"
+}

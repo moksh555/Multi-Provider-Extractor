@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0413
+Company: Atlas Engineering Ltd.
+Company Address: 82 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 24 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-05-23
+Due Date: 2026-07-07
+Currency: QAR
+Subtotal: 17278.39
+Tax: 1295.88
+Total: 18599.27
+Balance Due: 18599.27
+Status: unpaid

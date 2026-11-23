@@ -1,0 +1,16 @@
+Bank Statement STM-V1F070VK
+Holder: Kathleen Schmidt
+Closing Balance: $6645.07
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-V1F070VK",
+  "account_holder": "Kathleen Schmidt",
+  "account_number_masked": "****6032",
+  "period_start": "2026-07-02",
+  "period_end": "2026-08-01",
+  "opening_balance": 4090.26,
+  "closing_balance": 6645.07,
+  "transactions": 11,
+  "sample_id": "bank_statement_0156"
+}

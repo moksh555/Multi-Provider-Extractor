@@ -1,0 +1,14 @@
+Medical Report MED-JBA0BUVM
+Patient: Tracy Garcia
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JBA0BUVM",
+  "patient_name": "Tracy Garcia",
+  "visit_date": "2025-09-23",
+  "doctor_name": "Dr. Michael Cole",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0982"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kristin Norris
+License: DL740649869
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL740649869",
+  "full_name": "Kristin Norris",
+  "date_of_birth": "1997-11-04",
+  "class": "D",
+  "issue_date": "2026-11-13",
+  "expiry_date": "2031-11-13",
+  "address": "USS Butler, FPO AE 15779",
+  "sample_id": "driving_license_0365"
+}

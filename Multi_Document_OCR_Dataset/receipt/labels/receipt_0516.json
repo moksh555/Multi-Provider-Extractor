@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-I6H1M3JL",
+  "merchant_name": "Rodriguez-Bailey",
+  "date": "2022-05-16",
+  "subtotal": 635.62,
+  "tax": 42.24,
+  "discount": 4.85,
+  "total": 673.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$64.67",
+      "line_total": "$129.34"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$57.19",
+      "line_total": "$57.19"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$57.98",
+      "line_total": "$231.92"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$48.91",
+      "line_total": "$48.91"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$47.87",
+      "line_total": "$95.74"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$18.13",
+      "line_total": "$72.52"
+    }
+  ],
+  "sample_id": "receipt_0516"
+}

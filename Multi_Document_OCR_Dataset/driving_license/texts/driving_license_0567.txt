@@ -1,0 +1,16 @@
+Synthetic Driving License
+John Garrett
+License: DL346912879
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL346912879",
+  "full_name": "John Garrett",
+  "date_of_birth": "1971-10-12",
+  "class": "A",
+  "issue_date": "2024-01-10",
+  "expiry_date": "2029-01-10",
+  "address": "5722 Smith Fall Apt. 155, Cooleyside, AL 21261",
+  "sample_id": "driving_license_0567"
+}

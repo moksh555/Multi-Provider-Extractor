@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9SM9X5AN",
+  "patient_name": "Daniel Smith",
+  "visit_date": "2026-08-17",
+  "doctor_name": "Dr. Carl Morris",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0839"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Katherine Smith
+Passport No: P96811377
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P96811377",
+  "full_name": "Katherine Smith",
+  "nationality": "AE",
+  "date_of_birth": "1966-09-09",
+  "issue_date": "2021-11-24",
+  "expiry_date": "2031-11-24",
+  "place_of_birth": "Shelbyport",
+  "sample_id": "passport_0521"
+}

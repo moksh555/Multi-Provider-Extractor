@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0139",
+  "invoice_number": "INV-2026-0139",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "131 Doha Business Park, Doha, Qatar",
+  "customer_name": "TechPoint BD",
+  "billing_address": "60 Motijheel C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-30",
+  "due_date": "2026-08-14",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 5,
+      "unit_price": 788.72,
+      "amount": 3943.6
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 579.29,
+      "amount": 4055.03
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 11,
+      "unit_price": 812.84,
+      "amount": 8941.24
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 9,
+      "unit_price": 544.71,
+      "amount": 4902.39
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 10,
+      "unit_price": 780.99,
+      "amount": 7809.9
+    }
+  ],
+  "subtotal": 29652.16,
+  "discount": 2965.22,
+  "tax_rate": 0.05,
+  "tax": 1334.35,
+  "shipping": 5,
+  "total": 28026.29,
+  "amount_paid": 11700.52,
+  "balance_due": 16325.77,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801825462675",
+  "po_number": "PO-69300"
+}

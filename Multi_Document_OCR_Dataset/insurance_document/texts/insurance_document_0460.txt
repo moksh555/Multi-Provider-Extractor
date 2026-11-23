@@ -1,0 +1,16 @@
+Insurance Policy POL-QW4C6LBPJ
+Holder: Thomas Adams
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QW4C6LBPJ",
+  "policy_holder": "Thomas Adams",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-01-15",
+  "expiry_date": "2027-01-15",
+  "premium": 1489.05,
+  "coverage_amount": 111501.75,
+  "beneficiary": "Gina Cardenas",
+  "sample_id": "insurance_document_0460"
+}

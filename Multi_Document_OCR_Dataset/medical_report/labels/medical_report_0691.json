@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-2IA0AR7H",
+  "patient_name": "Jacqueline Klein",
+  "visit_date": "2025-10-11",
+  "doctor_name": "Dr. Anthony Hall",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0691"
+}

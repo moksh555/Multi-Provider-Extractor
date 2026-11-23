@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0526
+Company: Eastern Care Pharmacy
+Company Address: 118 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Rahim Traders
+Billing Address: 223 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-04-29
+Due Date: 2026-05-06
+Currency: BDT
+Subtotal: 11198.83
+Tax: 1119.88
+Total: 12318.71
+Balance Due: 0.0
+Status: paid

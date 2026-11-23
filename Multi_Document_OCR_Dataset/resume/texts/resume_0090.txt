@@ -1,0 +1,26 @@
+Resume
+Angela Barber
+Software Engineer
+Skills: Pandas, PyTorch, Machine Learning, Deep Learning, FastAPI, Docker, Python, LangChain, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Angela Barber",
+  "email": "michellewilson@example.com",
+  "phone": "3498860372",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Pandas",
+    "PyTorch",
+    "Machine Learning",
+    "Deep Learning",
+    "FastAPI",
+    "Docker",
+    "Python",
+    "LangChain",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0090"
+}

@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TXLQ0ZI2",
+  "merchant_name": "Ferguson, Vincent and Castro",
+  "date": "2024-08-26",
+  "subtotal": 401.18,
+  "tax": 15.81,
+  "discount": 10.42,
+  "total": 406.57,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$48.21",
+      "line_total": "$96.42"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$33.12",
+      "line_total": "$66.24"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$13.06",
+      "line_total": "$39.18"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$55.07",
+      "line_total": "$165.21"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$34.13",
+      "line_total": "$34.13"
+    }
+  ],
+  "sample_id": "receipt_0884"
+}

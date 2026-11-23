@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0584
+Company: Nova Medical Supplies
+Company Address: 136 Al Barsha, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 109 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-02-19
+Due Date: 2026-02-26
+Currency: QAR
+Subtotal: 7456.44
+Tax: 1118.47
+Total: 8574.91
+Balance Due: 3934.61
+Status: partial

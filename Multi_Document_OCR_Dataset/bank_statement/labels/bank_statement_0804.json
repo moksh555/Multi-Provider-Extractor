@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-A8N5D34G",
+  "account_holder": "Laura Horton",
+  "account_number_masked": "****0148",
+  "period_start": "2024-09-22",
+  "period_end": "2024-10-22",
+  "opening_balance": 4385.94,
+  "closing_balance": 6652.62,
+  "transactions": 13,
+  "sample_id": "bank_statement_0804"
+}

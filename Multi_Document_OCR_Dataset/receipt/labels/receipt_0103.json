@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-C9T199DX",
+  "merchant_name": "Landry PLC",
+  "date": "2023-12-28",
+  "subtotal": 982.97,
+  "tax": 32.85,
+  "discount": 0.84,
+  "total": 1014.98,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$46.48",
+      "line_total": "$92.96"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$74.88",
+      "line_total": "$224.64"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$19.69",
+      "line_total": "$39.38"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$73.20",
+      "line_total": "$219.60"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$75.86",
+      "line_total": "$227.58"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$67.10",
+      "line_total": "$134.20"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$14.87",
+      "line_total": "$44.61"
+    }
+  ],
+  "sample_id": "receipt_0103"
+}

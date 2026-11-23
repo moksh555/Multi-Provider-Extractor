@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Hernandez
+License: DL279986650
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL279986650",
+  "full_name": "James Hernandez",
+  "date_of_birth": "1976-11-01",
+  "class": "B",
+  "issue_date": "2024-09-17",
+  "expiry_date": "2029-09-17",
+  "address": "6248 Perez Oval, Reynoldsburgh, NM 87767",
+  "sample_id": "driving_license_0778"
+}

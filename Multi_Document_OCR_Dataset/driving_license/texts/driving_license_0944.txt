@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tammy Rios
+License: DL306781573
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL306781573",
+  "full_name": "Tammy Rios",
+  "date_of_birth": "1987-02-03",
+  "class": "D",
+  "issue_date": "2024-09-26",
+  "expiry_date": "2029-09-26",
+  "address": "Unit 0522 Box 2999, DPO AE 97624",
+  "sample_id": "driving_license_0944"
+}

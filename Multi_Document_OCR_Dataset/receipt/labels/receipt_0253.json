@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XT63QE8N",
+  "merchant_name": "Ross Ltd",
+  "date": "2025-01-06",
+  "subtotal": 210.99,
+  "tax": 15.69,
+  "discount": 10.56,
+  "total": 216.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$10.86",
+      "line_total": "$10.86"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$36.12",
+      "line_total": "$72.24"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$60.92",
+      "line_total": "$60.92"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$8.11",
+      "line_total": "$16.22"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$19.51",
+      "line_total": "$39.02"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$3.91",
+      "line_total": "$11.73"
+    }
+  ],
+  "sample_id": "receipt_0253"
+}

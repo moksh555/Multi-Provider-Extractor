@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VNXIV9IW6",
+  "policy_holder": "Robert Hartman",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-04-29",
+  "expiry_date": "2025-04-29",
+  "premium": 1876.23,
+  "coverage_amount": 381050.41,
+  "beneficiary": "Danielle Herrera",
+  "sample_id": "insurance_document_0625"
+}

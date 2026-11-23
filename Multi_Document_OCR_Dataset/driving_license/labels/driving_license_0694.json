@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL178927978",
+  "full_name": "Rachel Santos",
+  "date_of_birth": "1995-02-24",
+  "class": "B",
+  "issue_date": "2023-05-10",
+  "expiry_date": "2028-05-10",
+  "address": "083 Michael Bypass Suite 158, West Angelaside, PR 97659",
+  "sample_id": "driving_license_0694"
+}

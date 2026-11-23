@@ -1,0 +1,67 @@
+Receipt RCT-0EBKJF4A
+Merchant: Brown-Little
+Date: 2026-03-26
+Total: $749.30
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0EBKJF4A",
+  "merchant_name": "Brown-Little",
+  "date": "2026-03-26",
+  "subtotal": 722.77,
+  "tax": 40.78,
+  "discount": 14.25,
+  "total": 749.3,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$13.14",
+      "line_total": "$13.14"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$62.12",
+      "line_total": "$62.12"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$63.40",
+      "line_total": "$253.60"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$62.94",
+      "line_total": "$62.94"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$76.60",
+      "line_total": "$153.20"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$33.86",
+      "line_total": "$67.72"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$28.60",
+      "line_total": "$28.60"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$27.15",
+      "line_total": "$81.45"
+    }
+  ],
+  "sample_id": "receipt_0130"
+}

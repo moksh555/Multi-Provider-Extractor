@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ann Freeman
+Passport No: P10961187
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10961187",
+  "full_name": "Ann Freeman",
+  "nationality": "US",
+  "date_of_birth": "1975-07-20",
+  "issue_date": "2023-03-14",
+  "expiry_date": "2033-03-14",
+  "place_of_birth": "North Michaelbury",
+  "sample_id": "passport_0790"
+}

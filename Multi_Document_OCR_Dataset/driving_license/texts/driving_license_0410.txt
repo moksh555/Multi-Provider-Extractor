@@ -1,0 +1,16 @@
+Synthetic Driving License
+Chelsea Johnson
+License: DL937867111
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL937867111",
+  "full_name": "Chelsea Johnson",
+  "date_of_birth": "1962-05-08",
+  "class": "C",
+  "issue_date": "2026-11-11",
+  "expiry_date": "2031-11-11",
+  "address": "368 Christopher Trail, Hernandezchester, AK 15765",
+  "sample_id": "driving_license_0410"
+}

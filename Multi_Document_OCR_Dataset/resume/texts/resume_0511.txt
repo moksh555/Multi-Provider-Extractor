@@ -1,0 +1,27 @@
+Resume
+Holly Boyle
+Computer Vision Engineer
+Skills: TensorFlow, AWS, Docker, SQL, Deep Learning, Computer Vision, PyTorch, LangChain, Pandas, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Holly Boyle",
+  "email": "patricksmith@example.org",
+  "phone": "001-741-527-0661",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "AWS",
+    "Docker",
+    "SQL",
+    "Deep Learning",
+    "Computer Vision",
+    "PyTorch",
+    "LangChain",
+    "Pandas",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0511"
+}

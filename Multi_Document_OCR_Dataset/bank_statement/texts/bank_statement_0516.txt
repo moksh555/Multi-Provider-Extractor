@@ -1,0 +1,16 @@
+Bank Statement STM-SWCAHKTW
+Holder: Anthony Clark
+Closing Balance: $4142.16
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SWCAHKTW",
+  "account_holder": "Anthony Clark",
+  "account_number_masked": "****7948",
+  "period_start": "2025-05-16",
+  "period_end": "2025-06-15",
+  "opening_balance": 1797.35,
+  "closing_balance": 4142.16,
+  "transactions": 10,
+  "sample_id": "bank_statement_0516"
+}

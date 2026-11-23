@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0231
+Company: Summit Agro Foods
+Company Address: 92 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 197 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-03-23
+Due Date: 2026-05-07
+Currency: SAR
+Subtotal: 21410.21
+Tax: 1926.92
+Total: 21201.11
+Balance Due: 21201.11
+Status: overdue

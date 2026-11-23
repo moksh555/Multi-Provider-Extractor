@@ -1,0 +1,25 @@
+Resume
+Mrs. Alisha Ross
+Backend Developer
+Skills: Computer Vision, Python, Pandas, NLP, Docker, Streamlit, FastAPI, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Mrs. Alisha Ross",
+  "email": "samantha47@example.com",
+  "phone": "992.502.4440",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Computer Vision",
+    "Python",
+    "Pandas",
+    "NLP",
+    "Docker",
+    "Streamlit",
+    "FastAPI",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0707"
+}

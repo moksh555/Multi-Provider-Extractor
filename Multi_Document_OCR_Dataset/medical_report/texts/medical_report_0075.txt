@@ -1,0 +1,14 @@
+Medical Report MED-9FE36EPC
+Patient: Amber Evans
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-9FE36EPC",
+  "patient_name": "Amber Evans",
+  "visit_date": "2024-09-06",
+  "doctor_name": "Dr. Kelly Owen",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0075"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0562
+Company: PrimeSoft Technologies
+Company Address: 153 Mirpur DOHS, Sylhet, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 62 Mirpur DOHS, Dubai, UAE
+Invoice Date: 2026-04-28
+Due Date: 2026-06-12
+Currency: QAR
+Subtotal: 9191.14
+Tax: 689.34
+Total: 9930.48
+Balance Due: 9930.48
+Status: unpaid

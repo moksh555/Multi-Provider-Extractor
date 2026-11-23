@@ -1,0 +1,16 @@
+Synthetic Driving License
+Eric Lloyd
+License: DL378055859
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL378055859",
+  "full_name": "Eric Lloyd",
+  "date_of_birth": "1961-02-09",
+  "class": "D",
+  "issue_date": "2026-12-27",
+  "expiry_date": "2031-12-27",
+  "address": "Unit 7051 Box 2046, DPO AE 71698",
+  "sample_id": "driving_license_0265"
+}

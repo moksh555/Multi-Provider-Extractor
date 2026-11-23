@@ -1,0 +1,16 @@
+Bank Statement STM-JE1OK30T
+Holder: Kara Stein
+Closing Balance: $3313.60
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JE1OK30T",
+  "account_holder": "Kara Stein",
+  "account_number_masked": "****4617",
+  "period_start": "2026-06-17",
+  "period_end": "2026-07-17",
+  "opening_balance": 2971.8,
+  "closing_balance": 3313.6,
+  "transactions": 10,
+  "sample_id": "bank_statement_0993"
+}

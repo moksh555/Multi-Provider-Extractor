@@ -1,0 +1,16 @@
+Insurance Policy POL-CRGB93WKC
+Holder: Clifford Patton
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CRGB93WKC",
+  "policy_holder": "Clifford Patton",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-07",
+  "expiry_date": "2024-06-07",
+  "premium": 2146.44,
+  "coverage_amount": 146145.91,
+  "beneficiary": "Anne Rose",
+  "sample_id": "insurance_document_0427"
+}

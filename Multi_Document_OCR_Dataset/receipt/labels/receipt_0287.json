@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8WOBIRY8",
+  "merchant_name": "Farrell, Rodriguez and Brown",
+  "date": "2025-03-18",
+  "subtotal": 862.41,
+  "tax": 33.59,
+  "discount": 0.95,
+  "total": 895.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$69.33",
+      "line_total": "$277.32"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$50.95",
+      "line_total": "$152.85"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$1.92",
+      "line_total": "$5.76"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$10.64",
+      "line_total": "$10.64"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$47.36",
+      "line_total": "$47.36"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$55.80",
+      "line_total": "$167.40"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$31.33",
+      "line_total": "$62.66"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$46.14",
+      "line_total": "$138.42"
+    }
+  ],
+  "sample_id": "receipt_0287"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0888",
+  "invoice_number": "INV-2026-0888",
+  "company_name": "Delta Insurance Services",
+  "company_address": "178 Zindabazar Road, Dhaka, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "87 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-24",
+  "due_date": "2026-04-23",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 8,
+      "unit_price": 547.92,
+      "amount": 4383.36
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 4,
+      "unit_price": 790.93,
+      "amount": 3163.72
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 165.79,
+      "amount": 1492.11
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 2,
+      "unit_price": 720.96,
+      "amount": 1441.92
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 117.83,
+      "amount": 471.32
+    }
+  ],
+  "subtotal": 10952.43,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1095.24,
+  "shipping": 5,
+  "total": 12052.67,
+  "amount_paid": 12052.67,
+  "balance_due": 0.0,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801018241308",
+  "po_number": "PO-53103"
+}

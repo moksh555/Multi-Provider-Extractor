@@ -1,0 +1,16 @@
+Bank Statement STM-J67OHXNR
+Holder: Katelyn Yang
+Closing Balance: $5519.73
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-J67OHXNR",
+  "account_holder": "Katelyn Yang",
+  "account_number_masked": "****4246",
+  "period_start": "2026-06-06",
+  "period_end": "2026-07-06",
+  "opening_balance": 4330.99,
+  "closing_balance": 5519.73,
+  "transactions": 12,
+  "sample_id": "bank_statement_0943"
+}

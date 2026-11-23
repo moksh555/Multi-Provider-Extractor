@@ -1,0 +1,26 @@
+Resume
+Charles Berg
+Software Engineer
+Skills: TensorFlow, Computer Vision, FastAPI, Python, LangChain, AWS, Machine Learning, SQL, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Charles Berg",
+  "email": "smithkimberly@example.net",
+  "phone": "(384)522-4170",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "FastAPI",
+    "Python",
+    "LangChain",
+    "AWS",
+    "Machine Learning",
+    "SQL",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0829"
+}

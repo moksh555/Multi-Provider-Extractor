@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0199
+Company: CityBanking Supplies
+Company Address: 50 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 138 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-01-18
+Due Date: 2026-03-04
+Currency: BDT
+Subtotal: 11601.69
+Tax: 568.48
+Total: 11963.14
+Balance Due: 11963.14
+Status: unpaid

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KAPILQME",
+  "account_holder": "Hannah Lee",
+  "account_number_masked": "****4352",
+  "period_start": "2026-03-10",
+  "period_end": "2026-04-09",
+  "opening_balance": 1044.23,
+  "closing_balance": 3326.58,
+  "transactions": 12,
+  "sample_id": "bank_statement_0611"
+}

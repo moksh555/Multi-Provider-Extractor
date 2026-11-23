@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0991
+Company: Eastern Care Pharmacy
+Company Address: 113 Gulshan Avenue, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 8 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-02-22
+Due Date: 2026-03-01
+Currency: USD
+Subtotal: 11835.41
+Tax: 562.18
+Total: 11805.82
+Balance Due: 0.0
+Status: paid

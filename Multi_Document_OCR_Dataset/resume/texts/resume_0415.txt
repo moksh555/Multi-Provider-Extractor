@@ -1,0 +1,24 @@
+Resume
+Joel Poole
+Machine Learning Engineer
+Skills: TensorFlow, PyTorch, Deep Learning, AWS, SQL, LangChain, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Joel Poole",
+  "email": "scott12@example.com",
+  "phone": "001-892-383-3971x785",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "Deep Learning",
+    "AWS",
+    "SQL",
+    "LangChain",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0415"
+}

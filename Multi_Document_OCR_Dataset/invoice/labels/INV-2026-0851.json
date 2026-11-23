@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0851",
+  "invoice_number": "INV-2026-0851",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "128 Dhanmondi 27, Doha, Qatar",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "21 Uttara Sector 7, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-01-21",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 755.95,
+      "amount": 4535.7
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 5,
+      "unit_price": 31.86,
+      "amount": 159.3
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 327.91,
+      "amount": 1311.64
+    }
+  ],
+  "subtotal": 6006.64,
+  "discount": 120.13,
+  "tax_rate": 0.1,
+  "tax": 588.65,
+  "shipping": 5,
+  "total": 6480.16,
+  "amount_paid": 0,
+  "balance_due": 6480.16,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801862031059",
+  "po_number": "PO-01342"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0508",
+  "invoice_number": "INV-2026-0508",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "50 Gulshan Avenue, Chattogram, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "147 Jumeirah Lake Towers, Dubai, UAE",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-04-22",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 175.81,
+      "amount": 527.43
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 798.47,
+      "amount": 8783.17
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 1,
+      "unit_price": 310.51,
+      "amount": 310.51
+    }
+  ],
+  "subtotal": 9621.11,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 481.06,
+  "shipping": 5,
+  "total": 10107.17,
+  "amount_paid": 0,
+  "balance_due": 10107.17,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801870053779",
+  "po_number": "PO-45605"
+}

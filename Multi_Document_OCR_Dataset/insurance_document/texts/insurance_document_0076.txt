@@ -1,0 +1,16 @@
+Insurance Policy POL-3J3R30ME8
+Holder: Larry Robertson
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3J3R30ME8",
+  "policy_holder": "Larry Robertson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-04-07",
+  "expiry_date": "2025-04-07",
+  "premium": 2167.13,
+  "coverage_amount": 364866.19,
+  "beneficiary": "Louis Martin",
+  "sample_id": "insurance_document_0076"
+}

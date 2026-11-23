@@ -1,0 +1,16 @@
+Synthetic Driving License
+Matthew Gardner
+License: DL265774428
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL265774428",
+  "full_name": "Matthew Gardner",
+  "date_of_birth": "1974-04-28",
+  "class": "C",
+  "issue_date": "2024-09-27",
+  "expiry_date": "2029-09-27",
+  "address": "26542 Susan Junction Apt. 161, Melanieview, AS 06196",
+  "sample_id": "driving_license_0002"
+}

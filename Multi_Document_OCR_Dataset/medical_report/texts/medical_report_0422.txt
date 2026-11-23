@@ -1,0 +1,14 @@
+Medical Report MED-5Y5I4DFA
+Patient: John Foley
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5Y5I4DFA",
+  "patient_name": "John Foley",
+  "visit_date": "2025-08-08",
+  "doctor_name": "Dr. Angela Brown",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0422"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-92JN67LM8",
+  "policy_holder": "Connie Wells",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-10-20",
+  "expiry_date": "2025-10-20",
+  "premium": 2166.67,
+  "coverage_amount": 493265.34,
+  "beneficiary": "Jonathan Riley",
+  "sample_id": "insurance_document_0969"
+}

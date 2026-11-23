@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CFZW0LDAL",
+  "policy_holder": "Tiffany Garcia",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-07-06",
+  "expiry_date": "2025-07-06",
+  "premium": 363.31,
+  "coverage_amount": 52775.64,
+  "beneficiary": "Rachel Owen",
+  "sample_id": "insurance_document_0177"
+}

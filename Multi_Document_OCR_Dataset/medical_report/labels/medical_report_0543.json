@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-UGH9VWID",
+  "patient_name": "Belinda Bailey",
+  "visit_date": "2024-06-11",
+  "doctor_name": "Dr. Gerald Williams",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0543"
+}

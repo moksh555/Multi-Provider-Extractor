@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0W52713T8",
+  "policy_holder": "Joshua Price",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-12-31",
+  "expiry_date": "2026-12-31",
+  "premium": 1223.14,
+  "coverage_amount": 290575.25,
+  "beneficiary": "Nicole Hood DDS",
+  "sample_id": "insurance_document_0810"
+}

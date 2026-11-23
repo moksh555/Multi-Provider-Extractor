@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0993
+Company: BrightStar Electronics
+Company Address: 26 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 109 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-02-18
+Due Date: 2026-03-05
+Currency: USD
+Subtotal: 15799.53
+Tax: 1066.47
+Total: 15336.05
+Balance Due: 15336.05
+Status: overdue

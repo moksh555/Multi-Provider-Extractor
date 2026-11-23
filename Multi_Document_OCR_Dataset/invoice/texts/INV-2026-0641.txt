@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0641
+Company: Summit Agro Foods
+Company Address: 34 Gulshan Avenue, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 116 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-05-12
+Due Date: 2026-05-27
+Currency: AED
+Subtotal: 7492.83
+Tax: 0.0
+Total: 6753.55
+Balance Due: 6753.55
+Status: overdue

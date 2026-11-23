@@ -1,0 +1,16 @@
+Insurance Policy POL-VEDN9UNFV
+Holder: Tracie Mcdaniel
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VEDN9UNFV",
+  "policy_holder": "Tracie Mcdaniel",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-10-21",
+  "expiry_date": "2026-10-21",
+  "premium": 215.81,
+  "coverage_amount": 29067.84,
+  "beneficiary": "Laura Young",
+  "sample_id": "insurance_document_0135"
+}

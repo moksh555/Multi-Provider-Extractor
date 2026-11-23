@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Cheryl Bennett
+Passport No: P73209968
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P73209968",
+  "full_name": "Cheryl Bennett",
+  "nationality": "GB",
+  "date_of_birth": "1992-12-08",
+  "issue_date": "2021-03-08",
+  "expiry_date": "2031-03-08",
+  "place_of_birth": "West Tiffany",
+  "sample_id": "passport_0062"
+}

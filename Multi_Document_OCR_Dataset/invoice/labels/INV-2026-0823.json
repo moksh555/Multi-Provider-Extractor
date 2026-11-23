@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0823",
+  "invoice_number": "INV-2026-0823",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "158 Zindabazar Road, Chattogram, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "38 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-16",
+  "due_date": "2026-05-31",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 7,
+      "unit_price": 639.4,
+      "amount": 4475.8
+    },
+    {
+      "description": "Web Development",
+      "quantity": 11,
+      "unit_price": 790.09,
+      "amount": 8690.99
+    },
+    {
+      "description": "Web Development",
+      "quantity": 12,
+      "unit_price": 100.93,
+      "amount": 1211.16
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 3,
+      "unit_price": 614.87,
+      "amount": 1844.61
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 2,
+      "unit_price": 728.92,
+      "amount": 1457.84
+    }
+  ],
+  "subtotal": 17680.4,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1326.03,
+  "shipping": 50,
+  "total": 19056.43,
+  "amount_paid": 0,
+  "balance_due": 19056.43,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801335706133",
+  "po_number": "PO-29223"
+}

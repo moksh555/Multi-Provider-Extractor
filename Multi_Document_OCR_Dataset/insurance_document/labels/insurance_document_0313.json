@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QQB9LZS34",
+  "policy_holder": "William Peterson",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-03-31",
+  "expiry_date": "2027-03-31",
+  "premium": 1415.55,
+  "coverage_amount": 95186.41,
+  "beneficiary": "Kyle Smith",
+  "sample_id": "insurance_document_0313"
+}

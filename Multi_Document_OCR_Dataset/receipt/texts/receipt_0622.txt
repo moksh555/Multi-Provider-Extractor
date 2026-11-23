@@ -1,0 +1,55 @@
+Receipt RCT-C41RN9UQ
+Merchant: Gregory LLC
+Date: 2024-03-09
+Total: $841.96
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-C41RN9UQ",
+  "merchant_name": "Gregory LLC",
+  "date": "2024-03-09",
+  "subtotal": 801.97,
+  "tax": 54.85,
+  "discount": 14.86,
+  "total": 841.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$1.09",
+      "line_total": "$1.09"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$32.26",
+      "line_total": "$129.04"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$40.22",
+      "line_total": "$160.88"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$47.85",
+      "line_total": "$191.40"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$34.16",
+      "line_total": "$34.16"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$71.35",
+      "line_total": "$285.40"
+    }
+  ],
+  "sample_id": "receipt_0622"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL315986624",
+  "full_name": "Mary Fox",
+  "date_of_birth": "1961-10-19",
+  "class": "D",
+  "issue_date": "2020-02-06",
+  "expiry_date": "2025-02-06",
+  "address": "53910 Diana Village Apt. 705, Shortton, GU 81363",
+  "sample_id": "driving_license_0273"
+}

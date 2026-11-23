@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-02F2LD52",
+  "account_holder": "Jessica King",
+  "account_number_masked": "****4257",
+  "period_start": "2026-07-31",
+  "period_end": "2026-08-30",
+  "opening_balance": 3517.68,
+  "closing_balance": 6852.19,
+  "transactions": 12,
+  "sample_id": "bank_statement_0520"
+}

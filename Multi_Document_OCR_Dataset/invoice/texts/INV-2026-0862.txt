@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0862
+Company: CityBanking Supplies
+Company Address: 140 Doha Business Park, Riyadh, Saudi Arabia
+Customer: MediLife Hospital
+Billing Address: 230 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-03-22
+Due Date: 2026-05-06
+Currency: AED
+Subtotal: 17943.74
+Tax: 0.0
+Total: 17943.74
+Balance Due: 0.0
+Status: paid

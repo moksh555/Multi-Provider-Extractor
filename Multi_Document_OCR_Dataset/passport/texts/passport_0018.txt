@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jeremy Little
+Passport No: P63063654
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P63063654",
+  "full_name": "Jeremy Little",
+  "nationality": "US",
+  "date_of_birth": "1987-11-11",
+  "issue_date": "2021-08-04",
+  "expiry_date": "2031-08-04",
+  "place_of_birth": "Heathermouth",
+  "sample_id": "passport_0018"
+}

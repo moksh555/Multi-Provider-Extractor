@@ -1,0 +1,16 @@
+Insurance Policy POL-FJP6MKT7S
+Holder: Erica Garcia
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FJP6MKT7S",
+  "policy_holder": "Erica Garcia",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-07-13",
+  "expiry_date": "2024-07-13",
+  "premium": 1545.05,
+  "coverage_amount": 91896.6,
+  "beneficiary": "Steven Moore",
+  "sample_id": "insurance_document_0480"
+}

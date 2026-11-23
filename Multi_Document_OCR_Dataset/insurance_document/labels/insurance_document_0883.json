@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WV2QNRMTN",
+  "policy_holder": "Nicole Olson DDS",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-05-18",
+  "expiry_date": "2026-05-18",
+  "premium": 1385.47,
+  "coverage_amount": 197901.19,
+  "beneficiary": "John Parker",
+  "sample_id": "insurance_document_0883"
+}

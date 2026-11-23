@@ -1,0 +1,14 @@
+Medical Report MED-47MS2PSR
+Patient: Stephen Stark
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-47MS2PSR",
+  "patient_name": "Stephen Stark",
+  "visit_date": "2025-04-08",
+  "doctor_name": "Dr. Steven Howell",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0633"
+}

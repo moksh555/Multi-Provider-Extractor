@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL752639960",
+  "full_name": "Alexandra Green",
+  "date_of_birth": "1997-03-11",
+  "class": "A",
+  "issue_date": "2020-05-13",
+  "expiry_date": "2025-05-13",
+  "address": "61572 Garrett Point, New Sean, MD 14623",
+  "sample_id": "driving_license_0784"
+}

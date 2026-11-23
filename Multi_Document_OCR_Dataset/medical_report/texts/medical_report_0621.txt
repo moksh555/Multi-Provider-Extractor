@@ -1,0 +1,14 @@
+Medical Report MED-JEOREVBG
+Patient: Christopher Lee
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JEOREVBG",
+  "patient_name": "Christopher Lee",
+  "visit_date": "2025-01-20",
+  "doctor_name": "Dr. Dana French",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0621"
+}

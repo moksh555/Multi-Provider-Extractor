@@ -1,0 +1,23 @@
+Resume
+Kelly Reyes
+Software Engineer
+Skills: SQL, Python, Pandas, Streamlit, TensorFlow, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Kelly Reyes",
+  "email": "jessica20@example.com",
+  "phone": "+1-705-378-4622x16346",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "Python",
+    "Pandas",
+    "Streamlit",
+    "TensorFlow",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0933"
+}

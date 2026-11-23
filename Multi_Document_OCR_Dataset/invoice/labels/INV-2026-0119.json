@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0119",
+  "invoice_number": "INV-2026-0119",
+  "company_name": "BrightStar Electronics",
+  "company_address": "133 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "212 Doha Business Park, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-28",
+  "due_date": "2026-06-04",
+  "currency": "QAR",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 1,
+      "unit_price": 784.22,
+      "amount": 784.22
+    },
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 748.79,
+      "amount": 4492.74
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 791.27,
+      "amount": 5538.89
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 4,
+      "unit_price": 637.55,
+      "amount": 2550.2
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 541.73,
+      "amount": 541.73
+    }
+  ],
+  "subtotal": 13907.78,
+  "discount": 1390.78,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 12567.0,
+  "amount_paid": 5545.11,
+  "balance_due": 7021.89,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801535361699",
+  "po_number": "PO-75047"
+}

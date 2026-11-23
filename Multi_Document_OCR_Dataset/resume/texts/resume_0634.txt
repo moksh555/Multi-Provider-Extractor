@@ -1,0 +1,26 @@
+Resume
+Marissa Price
+Data Analyst
+Skills: TensorFlow, FastAPI, Streamlit, Docker, Machine Learning, PyTorch, Python, LangChain, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Marissa Price",
+  "email": "stevenwoods@example.net",
+  "phone": "+1-266-436-8053x738",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "FastAPI",
+    "Streamlit",
+    "Docker",
+    "Machine Learning",
+    "PyTorch",
+    "Python",
+    "LangChain",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0634"
+}

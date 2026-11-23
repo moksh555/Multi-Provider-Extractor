@@ -1,0 +1,14 @@
+Medical Report MED-ROO811K4
+Patient: Carlos Dominguez
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ROO811K4",
+  "patient_name": "Carlos Dominguez",
+  "visit_date": "2024-06-05",
+  "doctor_name": "Dr. Dr. Victoria Sanders",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0793"
+}

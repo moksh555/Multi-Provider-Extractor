@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BRWR965R9",
+  "policy_holder": "Stephen Medina",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-27",
+  "expiry_date": "2025-07-27",
+  "premium": 1066.95,
+  "coverage_amount": 377583.0,
+  "beneficiary": "Andrea Barber",
+  "sample_id": "insurance_document_0335"
+}

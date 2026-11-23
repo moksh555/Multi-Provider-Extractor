@@ -1,0 +1,16 @@
+Bank Statement STM-2EEV7INR
+Holder: Tyler Moore
+Closing Balance: $3445.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2EEV7INR",
+  "account_holder": "Tyler Moore",
+  "account_number_masked": "****8901",
+  "period_start": "2026-10-15",
+  "period_end": "2026-11-14",
+  "opening_balance": 1687.49,
+  "closing_balance": 3445.86,
+  "transactions": 10,
+  "sample_id": "bank_statement_0063"
+}

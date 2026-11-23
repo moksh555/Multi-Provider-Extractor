@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0173
+Company: Summit Agro Foods
+Company Address: 180 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 132 Agrabad C/A, Dubai, UAE
+Invoice Date: 2026-04-25
+Due Date: 2026-06-09
+Currency: SAR
+Subtotal: 14276.92
+Tax: 1927.38
+Total: 14826.61
+Balance Due: 7230.36
+Status: partial

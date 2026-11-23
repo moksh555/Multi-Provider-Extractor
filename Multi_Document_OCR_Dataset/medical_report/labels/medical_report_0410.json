@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-3AB1ABME",
+  "patient_name": "Stephanie Spencer",
+  "visit_date": "2026-08-30",
+  "doctor_name": "Dr. Katherine Simpson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0410"
+}

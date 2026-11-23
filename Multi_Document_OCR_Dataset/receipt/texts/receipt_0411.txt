@@ -1,0 +1,43 @@
+Receipt RCT-SFQBVH0K
+Merchant: Burgess PLC
+Date: 2025-08-27
+Total: $194.45
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SFQBVH0K",
+  "merchant_name": "Burgess PLC",
+  "date": "2025-08-27",
+  "subtotal": 194.69,
+  "tax": 12.38,
+  "discount": 12.62,
+  "total": 194.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$14.80",
+      "line_total": "$29.60"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$29.84",
+      "line_total": "$59.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$3.37",
+      "line_total": "$6.74"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$32.89",
+      "line_total": "$98.67"
+    }
+  ],
+  "sample_id": "receipt_0411"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0630
+Company: Golden Harvest Store
+Company Address: 100 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Karim Enterprise
+Billing Address: 34 Doha Business Park, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-12
+Due Date: 2026-06-19
+Currency: AED
+Subtotal: 7296.96
+Tax: 0.0
+Total: 7346.96
+Balance Due: 4214.98
+Status: partial

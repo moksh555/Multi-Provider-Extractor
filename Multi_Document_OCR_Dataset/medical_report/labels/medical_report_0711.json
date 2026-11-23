@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-772QWGOR",
+  "patient_name": "Ashley Rasmussen",
+  "visit_date": "2026-05-19",
+  "doctor_name": "Dr. Joseph Gomez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0711"
+}

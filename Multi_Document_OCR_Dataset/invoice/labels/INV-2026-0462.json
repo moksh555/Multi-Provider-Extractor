@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0462",
+  "invoice_number": "INV-2026-0462",
+  "company_name": "BrightStar Electronics",
+  "company_address": "105 Al Barsha, Dhaka, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "231 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-12",
+  "due_date": "2026-07-27",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 7,
+      "unit_price": 583.65,
+      "amount": 4085.55
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 5,
+      "unit_price": 96.02,
+      "amount": 480.1
+    }
+  ],
+  "subtotal": 4565.65,
+  "discount": 456.57,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 4109.08,
+  "amount_paid": 4109.08,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801438976306",
+  "po_number": "PO-23407"
+}

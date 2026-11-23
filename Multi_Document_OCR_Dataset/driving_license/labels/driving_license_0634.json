@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL328699988",
+  "full_name": "Tracy Lara",
+  "date_of_birth": "1965-11-12",
+  "class": "B",
+  "issue_date": "2021-04-30",
+  "expiry_date": "2026-04-30",
+  "address": "152 Hill Roads, Lake Haileyton, NE 13665",
+  "sample_id": "driving_license_0634"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-ZEYQQCXZP
+Holder: Dr. Charles Henson
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZEYQQCXZP",
+  "policy_holder": "Dr. Charles Henson",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-07-25",
+  "expiry_date": "2025-07-25",
+  "premium": 2122.92,
+  "coverage_amount": 93588.66,
+  "beneficiary": "Larry Krueger",
+  "sample_id": "insurance_document_0617"
+}

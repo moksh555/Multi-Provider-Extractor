@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0852",
+  "invoice_number": "INV-2026-0852",
+  "company_name": "Delta Insurance Services",
+  "company_address": "159 Agrabad C/A, Dhaka, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "201 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-02-17",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 558.66,
+      "amount": 4469.28
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 12,
+      "unit_price": 642.97,
+      "amount": 7715.64
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 9,
+      "unit_price": 231.56,
+      "amount": 2084.04
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 660.51,
+      "amount": 3963.06
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 2,
+      "unit_price": 708.98,
+      "amount": 1417.96
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 11,
+      "unit_price": 271.27,
+      "amount": 2983.97
+    },
+    {
+      "description": "API Integration",
+      "quantity": 10,
+      "unit_price": 610.39,
+      "amount": 6103.9
+    }
+  ],
+  "subtotal": 28737.85,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 2155.34,
+  "shipping": 5,
+  "total": 30898.19,
+  "amount_paid": 11897.88,
+  "balance_due": 19000.31,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801475832793",
+  "po_number": "PO-94163"
+}

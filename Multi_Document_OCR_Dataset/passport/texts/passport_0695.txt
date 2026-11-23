@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christina Sanchez
+Passport No: P43728422
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P43728422",
+  "full_name": "Christina Sanchez",
+  "nationality": "BD",
+  "date_of_birth": "2002-12-08",
+  "issue_date": "2023-01-18",
+  "expiry_date": "2033-01-18",
+  "place_of_birth": "Robertbury",
+  "sample_id": "passport_0695"
+}

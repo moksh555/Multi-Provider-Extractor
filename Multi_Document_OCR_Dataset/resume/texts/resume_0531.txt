@@ -1,0 +1,27 @@
+Resume
+Abigail Robinson
+Machine Learning Engineer
+Skills: SQL, Computer Vision, Machine Learning, Docker, FastAPI, NLP, Python, Deep Learning, LangChain, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Abigail Robinson",
+  "email": "kimwilson@example.org",
+  "phone": "(869)657-7526",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "SQL",
+    "Computer Vision",
+    "Machine Learning",
+    "Docker",
+    "FastAPI",
+    "NLP",
+    "Python",
+    "Deep Learning",
+    "LangChain",
+    "Pandas"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0531"
+}

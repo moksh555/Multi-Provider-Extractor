@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PRS82GJ8K",
+  "policy_holder": "Erika Thompson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-05-05",
+  "expiry_date": "2024-05-05",
+  "premium": 2010.65,
+  "coverage_amount": 349963.63,
+  "beneficiary": "Latasha Mendez",
+  "sample_id": "insurance_document_0692"
+}

@@ -1,0 +1,26 @@
+Resume
+Terry Robinson
+Backend Developer
+Skills: AWS, NLP, Pandas, TensorFlow, Computer Vision, Docker, Streamlit, PyTorch, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Terry Robinson",
+  "email": "robert32@example.org",
+  "phone": "351-482-5696x192",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "NLP",
+    "Pandas",
+    "TensorFlow",
+    "Computer Vision",
+    "Docker",
+    "Streamlit",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0504"
+}

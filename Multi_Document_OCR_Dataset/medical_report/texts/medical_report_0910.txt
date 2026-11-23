@@ -1,0 +1,14 @@
+Medical Report MED-65BBRK99
+Patient: Megan Morales
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-65BBRK99",
+  "patient_name": "Megan Morales",
+  "visit_date": "2024-08-15",
+  "doctor_name": "Dr. Larry Reynolds",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0910"
+}

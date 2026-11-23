@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL652656047",
+  "full_name": "Tyler Harris",
+  "date_of_birth": "1969-01-07",
+  "class": "A",
+  "issue_date": "2021-07-17",
+  "expiry_date": "2026-07-17",
+  "address": "424 Diamond Glen, West Elizabethburgh, AR 52450",
+  "sample_id": "driving_license_0155"
+}

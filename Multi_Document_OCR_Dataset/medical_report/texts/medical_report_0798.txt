@@ -1,0 +1,14 @@
+Medical Report MED-E2UV3JFW
+Patient: Lori Miller
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-E2UV3JFW",
+  "patient_name": "Lori Miller",
+  "visit_date": "2024-08-23",
+  "doctor_name": "Dr. Savannah Smith",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0798"
+}

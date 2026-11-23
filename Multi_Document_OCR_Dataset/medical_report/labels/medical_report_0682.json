@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-F6ROLVM6",
+  "patient_name": "Omar Nguyen",
+  "visit_date": "2025-02-14",
+  "doctor_name": "Dr. Todd Klein",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0682"
+}

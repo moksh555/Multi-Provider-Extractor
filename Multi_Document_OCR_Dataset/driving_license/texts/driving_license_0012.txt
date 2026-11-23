@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brent Jordan
+License: DL988308904
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL988308904",
+  "full_name": "Brent Jordan",
+  "date_of_birth": "1966-03-17",
+  "class": "B",
+  "issue_date": "2025-12-21",
+  "expiry_date": "2030-12-21",
+  "address": "010 Chandler Union Apt. 333, Taylorburgh, KY 61138",
+  "sample_id": "driving_license_0012"
+}

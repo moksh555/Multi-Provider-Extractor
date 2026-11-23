@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Kline",
+  "email": "velliott@example.net",
+  "phone": "(485)874-9110x667",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "FastAPI",
+    "Python",
+    "Computer Vision",
+    "SQL",
+    "Pandas",
+    "AWS",
+    "Docker",
+    "TensorFlow",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0457"
+}

@@ -1,0 +1,61 @@
+Receipt RCT-6RIJKQ2Z
+Merchant: Smith PLC
+Date: 2024-02-02
+Total: $831.60
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6RIJKQ2Z",
+  "merchant_name": "Smith PLC",
+  "date": "2024-02-02",
+  "subtotal": 754.49,
+  "tax": 80.97,
+  "discount": 3.86,
+  "total": 831.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$12.69",
+      "line_total": "$25.38"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$18.46",
+      "line_total": "$18.46"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$57.39",
+      "line_total": "$172.17"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$45.84",
+      "line_total": "$91.68"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$57.33",
+      "line_total": "$229.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$59.75",
+      "line_total": "$119.50"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$48.99",
+      "line_total": "$97.98"
+    }
+  ],
+  "sample_id": "receipt_0397"
+}

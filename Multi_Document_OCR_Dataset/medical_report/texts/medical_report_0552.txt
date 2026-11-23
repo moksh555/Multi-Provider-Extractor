@@ -1,0 +1,14 @@
+Medical Report MED-D5OTW4GR
+Patient: Joseph Lewis
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-D5OTW4GR",
+  "patient_name": "Joseph Lewis",
+  "visit_date": "2025-11-08",
+  "doctor_name": "Dr. Tracy Hall",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0552"
+}

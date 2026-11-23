@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YRO1WODG",
+  "merchant_name": "Clements, Moreno and Sanders",
+  "date": "2022-02-14",
+  "subtotal": 169.39,
+  "tax": 12.95,
+  "discount": 5.94,
+  "total": 176.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$43.14",
+      "line_total": "$129.42"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$1.48",
+      "line_total": "$1.48"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$38.49",
+      "line_total": "$38.49"
+    }
+  ],
+  "sample_id": "receipt_0573"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0037
+Company: Nova Medical Supplies
+Company Address: 116 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: MediLife Hospital
+Billing Address: 172 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-04-03
+Due Date: 2026-04-10
+Currency: QAR
+Subtotal: 5361.0
+Tax: 509.3
+Total: 5607.25
+Balance Due: 0.0
+Status: paid

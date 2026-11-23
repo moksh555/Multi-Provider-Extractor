@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0865",
+  "invoice_number": "INV-2026-0865",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "183 Sheikh Zayed Road, Dubai, UAE",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "222 Doha Business Park, Dubai, UAE",
+  "invoice_date": "2026-01-08",
+  "due_date": "2026-02-22",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 7,
+      "unit_price": 91.62,
+      "amount": 641.34
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 4,
+      "unit_price": 216.41,
+      "amount": 865.64
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 843.99,
+      "amount": 843.99
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 12,
+      "unit_price": 505.84,
+      "amount": 6070.08
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 5,
+      "unit_price": 758.84,
+      "amount": 3794.2
+    }
+  ],
+  "subtotal": 12215.25,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 12220.25,
+  "amount_paid": 0,
+  "balance_due": 12220.25,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801346683574",
+  "po_number": "PO-89877"
+}

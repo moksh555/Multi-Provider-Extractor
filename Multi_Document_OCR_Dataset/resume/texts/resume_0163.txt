@@ -1,0 +1,25 @@
+Resume
+Heather Conway
+Machine Learning Engineer
+Skills: PyTorch, Computer Vision, NLP, Python, Machine Learning, Pandas, Streamlit, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Heather Conway",
+  "email": "oenglish@example.com",
+  "phone": "(292)527-7641x490",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "Computer Vision",
+    "NLP",
+    "Python",
+    "Machine Learning",
+    "Pandas",
+    "Streamlit",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0163"
+}

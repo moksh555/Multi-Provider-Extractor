@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NZOVYUBE",
+  "patient_name": "Amanda Tran",
+  "visit_date": "2024-01-02",
+  "doctor_name": "Dr. Timothy White",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0472"
+}

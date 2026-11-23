@@ -1,0 +1,43 @@
+Receipt RCT-K7UJJ31W
+Merchant: Garcia LLC
+Date: 2022-04-23
+Total: $328.77
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-K7UJJ31W",
+  "merchant_name": "Garcia LLC",
+  "date": "2022-04-23",
+  "subtotal": 323.45,
+  "tax": 15.94,
+  "discount": 10.62,
+  "total": 328.77,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$1.21",
+      "line_total": "$4.84"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$6.52",
+      "line_total": "$26.08"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$20.47",
+      "line_total": "$61.41"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$57.78",
+      "line_total": "$231.12"
+    }
+  ],
+  "sample_id": "receipt_0547"
+}

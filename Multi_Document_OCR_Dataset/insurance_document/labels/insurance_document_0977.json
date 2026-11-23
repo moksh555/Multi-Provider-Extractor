@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9WM1SAV9C",
+  "policy_holder": "William Brock",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-07-15",
+  "expiry_date": "2024-07-15",
+  "premium": 521.06,
+  "coverage_amount": 482163.88,
+  "beneficiary": "Heather Hunt",
+  "sample_id": "insurance_document_0977"
+}

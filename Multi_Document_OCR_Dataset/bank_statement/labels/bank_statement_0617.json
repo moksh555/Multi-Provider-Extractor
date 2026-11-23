@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-X5RIGO3H",
+  "account_holder": "Joshua Reed",
+  "account_number_masked": "****0250",
+  "period_start": "2026-05-26",
+  "period_end": "2026-06-25",
+  "opening_balance": 2162.55,
+  "closing_balance": 7314.84,
+  "transactions": 10,
+  "sample_id": "bank_statement_0617"
+}

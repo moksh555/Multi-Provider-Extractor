@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GNZRQ5TE",
+  "patient_name": "Anthony Tran",
+  "visit_date": "2024-06-07",
+  "doctor_name": "Dr. Kimberly Vaughn",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0569"
+}

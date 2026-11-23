@@ -1,0 +1,16 @@
+Synthetic Driving License
+Norma Jones DVM
+License: DL707964920
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL707964920",
+  "full_name": "Norma Jones DVM",
+  "date_of_birth": "1975-09-03",
+  "class": "C",
+  "issue_date": "2020-06-10",
+  "expiry_date": "2025-06-10",
+  "address": "Unit 9757 Box 3660, DPO AP 96882",
+  "sample_id": "driving_license_0291"
+}

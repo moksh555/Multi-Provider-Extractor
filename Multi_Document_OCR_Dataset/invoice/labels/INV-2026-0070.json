@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0070",
+  "invoice_number": "INV-2026-0070",
+  "company_name": "Summit Agro Foods",
+  "company_address": "78 Doha Business Park, Dhaka, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "198 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-20",
+  "due_date": "2026-05-20",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 391.28,
+      "amount": 3130.24
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 428.67,
+      "amount": 428.67
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 317.59,
+      "amount": 952.77
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 760.97,
+      "amount": 1521.94
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 4,
+      "unit_price": 631.74,
+      "amount": 2526.96
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 731.02,
+      "amount": 731.02
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 4,
+      "unit_price": 46.72,
+      "amount": 186.88
+    }
+  ],
+  "subtotal": 9478.48,
+  "discount": 947.85,
+  "tax_rate": 0.075,
+  "tax": 639.8,
+  "shipping": 5,
+  "total": 9175.43,
+  "amount_paid": 9175.43,
+  "balance_due": 0.0,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801919087622",
+  "po_number": "PO-93851"
+}

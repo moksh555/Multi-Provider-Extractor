@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Dawn Martinez",
+  "email": "omiller@example.com",
+  "phone": "(764)471-0793x52756",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Deep Learning",
+    "TensorFlow",
+    "AWS",
+    "FastAPI",
+    "PyTorch",
+    "Python",
+    "NLP",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0708"
+}

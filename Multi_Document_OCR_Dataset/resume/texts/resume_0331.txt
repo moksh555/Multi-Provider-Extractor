@@ -1,0 +1,27 @@
+Resume
+Emily Dickson
+Software Engineer
+Skills: PyTorch, Machine Learning, FastAPI, Streamlit, TensorFlow, AWS, LangChain, NLP, SQL, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Emily Dickson",
+  "email": "davisdarryl@example.net",
+  "phone": "7855184668",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "Machine Learning",
+    "FastAPI",
+    "Streamlit",
+    "TensorFlow",
+    "AWS",
+    "LangChain",
+    "NLP",
+    "SQL",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0331"
+}

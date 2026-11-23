@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Paula Edwards",
+  "email": "robert07@example.net",
+  "phone": "+1-677-455-4261x903",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "FastAPI",
+    "LangChain",
+    "SQL",
+    "Streamlit",
+    "NLP",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0100"
+}

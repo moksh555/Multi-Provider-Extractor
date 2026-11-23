@@ -1,0 +1,16 @@
+Insurance Policy POL-4884Z4UR2
+Holder: Daniel Hamilton
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4884Z4UR2",
+  "policy_holder": "Daniel Hamilton",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-02-16",
+  "expiry_date": "2027-02-16",
+  "premium": 2261.43,
+  "coverage_amount": 329525.14,
+  "beneficiary": "Miranda Sanchez",
+  "sample_id": "insurance_document_0859"
+}

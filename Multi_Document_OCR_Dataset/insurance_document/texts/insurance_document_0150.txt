@@ -1,0 +1,16 @@
+Insurance Policy POL-IYQFY751Y
+Holder: Robert Edwards
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IYQFY751Y",
+  "policy_holder": "Robert Edwards",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-01-22",
+  "expiry_date": "2026-01-22",
+  "premium": 1582.81,
+  "coverage_amount": 117373.01,
+  "beneficiary": "Anna Chang",
+  "sample_id": "insurance_document_0150"
+}

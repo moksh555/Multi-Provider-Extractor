@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0109",
+  "invoice_number": "INV-2026-0109",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "12 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "128 Mirpur DOHS, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-13",
+  "due_date": "2026-06-12",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 7,
+      "unit_price": 91.34,
+      "amount": 639.38
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 189.42,
+      "amount": 189.42
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 8,
+      "unit_price": 714.41,
+      "amount": 5715.28
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 8,
+      "unit_price": 634.95,
+      "amount": 5079.6
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 6,
+      "unit_price": 311.38,
+      "amount": 1868.28
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 5,
+      "unit_price": 297.77,
+      "amount": 1488.85
+    }
+  ],
+  "subtotal": 14980.81,
+  "discount": 1498.08,
+  "tax_rate": 0.075,
+  "tax": 1011.2,
+  "shipping": 10,
+  "total": 14503.93,
+  "amount_paid": 4505.19,
+  "balance_due": 9998.74,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801915617364",
+  "po_number": "PO-78326"
+}

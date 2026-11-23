@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dawn Martinez
+License: DL854845478
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL854845478",
+  "full_name": "Dawn Martinez",
+  "date_of_birth": "1976-09-19",
+  "class": "D",
+  "issue_date": "2024-11-13",
+  "expiry_date": "2029-11-13",
+  "address": "823 Wilson Forge, West Dillonland, VA 91150",
+  "sample_id": "driving_license_0568"
+}

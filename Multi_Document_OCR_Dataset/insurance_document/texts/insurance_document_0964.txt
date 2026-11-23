@@ -1,0 +1,16 @@
+Insurance Policy POL-JZM3618LE
+Holder: Elizabeth Rocha
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JZM3618LE",
+  "policy_holder": "Elizabeth Rocha",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-09-27",
+  "expiry_date": "2025-09-27",
+  "premium": 2283.02,
+  "coverage_amount": 353111.87,
+  "beneficiary": "Hector Carrillo",
+  "sample_id": "insurance_document_0964"
+}

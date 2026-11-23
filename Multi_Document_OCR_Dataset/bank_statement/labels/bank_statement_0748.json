@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T2S2FS8H",
+  "account_holder": "Brandi Vargas",
+  "account_number_masked": "****1445",
+  "period_start": "2026-06-07",
+  "period_end": "2026-07-07",
+  "opening_balance": 4850.44,
+  "closing_balance": 4277.51,
+  "transactions": 8,
+  "sample_id": "bank_statement_0748"
+}

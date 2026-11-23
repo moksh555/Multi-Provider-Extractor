@@ -1,0 +1,16 @@
+Insurance Policy POL-83RLKTE42
+Holder: Randy Adkins
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-83RLKTE42",
+  "policy_holder": "Randy Adkins",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-04-05",
+  "expiry_date": "2024-04-05",
+  "premium": 356.99,
+  "coverage_amount": 394105.98,
+  "beneficiary": "Tanya Walters",
+  "sample_id": "insurance_document_0202"
+}

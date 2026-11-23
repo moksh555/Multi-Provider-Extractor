@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0031
+Company: Greenline Logistics
+Company Address: 45 Zindabazar Road, Sylhet, Bangladesh
+Customer: Bengal Motors
+Billing Address: 84 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-05-08
+Due Date: 2026-06-22
+Currency: BDT
+Subtotal: 13792.93
+Tax: 1241.36
+Total: 13680.0
+Balance Due: 13680.0
+Status: unpaid

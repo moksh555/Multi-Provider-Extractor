@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CY3Q69FLG",
+  "policy_holder": "Todd Bentley",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-11-26",
+  "expiry_date": "2025-11-26",
+  "premium": 1200.63,
+  "coverage_amount": 392745.33,
+  "beneficiary": "Kimberly Kaufman",
+  "sample_id": "insurance_document_0929"
+}

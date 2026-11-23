@@ -1,0 +1,16 @@
+Insurance Policy POL-CIKPTK93T
+Holder: Daniel Fisher
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CIKPTK93T",
+  "policy_holder": "Daniel Fisher",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-09-05",
+  "expiry_date": "2025-09-05",
+  "premium": 2337.58,
+  "coverage_amount": 60757.39,
+  "beneficiary": "Lauren Dominguez",
+  "sample_id": "insurance_document_0022"
+}

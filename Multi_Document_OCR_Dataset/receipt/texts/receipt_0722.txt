@@ -1,0 +1,55 @@
+Receipt RCT-H3Q26TE0
+Merchant: Taylor-Castillo
+Date: 2025-09-19
+Total: $836.13
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-H3Q26TE0",
+  "merchant_name": "Taylor-Castillo",
+  "date": "2025-09-19",
+  "subtotal": 822.34,
+  "tax": 26.45,
+  "discount": 12.66,
+  "total": 836.13,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$62.31",
+      "line_total": "$186.93"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$41.14",
+      "line_total": "$164.56"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$18.22",
+      "line_total": "$54.66"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$31.59",
+      "line_total": "$31.59"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$17.14",
+      "line_total": "$68.56"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$79.01",
+      "line_total": "$316.04"
+    }
+  ],
+  "sample_id": "receipt_0722"
+}

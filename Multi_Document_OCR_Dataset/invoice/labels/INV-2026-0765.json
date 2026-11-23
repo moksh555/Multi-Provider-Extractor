@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0765",
+  "invoice_number": "INV-2026-0765",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "38 Motijheel C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Rahim Traders",
+  "billing_address": "228 Doha Business Park, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-15",
+  "due_date": "2026-07-30",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 640.56,
+      "amount": 7686.72
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 205.23,
+      "amount": 615.69
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 607.17,
+      "amount": 4250.19
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 701.23,
+      "amount": 2804.92
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 773.75,
+      "amount": 3868.75
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 10,
+      "unit_price": 417.56,
+      "amount": 4175.6
+    }
+  ],
+  "subtotal": 23401.87,
+  "discount": 1170.09,
+  "tax_rate": 0.075,
+  "tax": 1667.38,
+  "shipping": 0,
+  "total": 23899.16,
+  "amount_paid": 14182.38,
+  "balance_due": 9716.78,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801804491666",
+  "po_number": "PO-34070"
+}

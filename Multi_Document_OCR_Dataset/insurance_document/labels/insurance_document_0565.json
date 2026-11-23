@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YF0DWWN6M",
+  "policy_holder": "Luke Carr",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-10-05",
+  "expiry_date": "2027-10-05",
+  "premium": 2238.3,
+  "coverage_amount": 370597.27,
+  "beneficiary": "Kendra Peterson",
+  "sample_id": "insurance_document_0565"
+}

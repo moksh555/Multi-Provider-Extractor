@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-24ZBL5KZ",
+  "merchant_name": "Bauer, Davis and Ayala",
+  "date": "2023-04-27",
+  "subtotal": 635.24,
+  "tax": 54.88,
+  "discount": 8.17,
+  "total": 681.95,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$74.68",
+      "line_total": "$224.04"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$30.95",
+      "line_total": "$61.90"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$73.29",
+      "line_total": "$146.58"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$55.53",
+      "line_total": "$111.06"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$17.51",
+      "line_total": "$35.02"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$56.64",
+      "line_total": "$56.64"
+    }
+  ],
+  "sample_id": "receipt_0662"
+}

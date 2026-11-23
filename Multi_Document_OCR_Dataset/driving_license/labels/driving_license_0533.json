@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL659335816",
+  "full_name": "Pamela Newman",
+  "date_of_birth": "1990-02-20",
+  "class": "C",
+  "issue_date": "2025-07-27",
+  "expiry_date": "2030-07-27",
+  "address": "42900 Amy Viaduct, Melissaland, ID 18750",
+  "sample_id": "driving_license_0533"
+}

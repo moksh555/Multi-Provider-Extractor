@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-5R6GWQJY",
+  "patient_name": "Melissa Nelson",
+  "visit_date": "2025-08-24",
+  "doctor_name": "Dr. Thomas Freeman",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0135"
+}

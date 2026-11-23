@@ -1,0 +1,16 @@
+Synthetic Driving License
+Eric Kidd
+License: DL454737221
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL454737221",
+  "full_name": "Eric Kidd",
+  "date_of_birth": "1977-04-11",
+  "class": "A",
+  "issue_date": "2023-07-16",
+  "expiry_date": "2028-07-16",
+  "address": "69594 Johnson Village, Hillshire, VI 90390",
+  "sample_id": "driving_license_0054"
+}

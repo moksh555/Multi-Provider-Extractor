@@ -1,0 +1,14 @@
+Medical Report MED-K6Q6GHO3
+Patient: Frank Barrett
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-K6Q6GHO3",
+  "patient_name": "Frank Barrett",
+  "visit_date": "2026-04-04",
+  "doctor_name": "Dr. Elizabeth Riddle DDS",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0729"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0133
+Company: Metro Print House
+Company Address: 126 Zindabazar Road, Riyadh, Saudi Arabia
+Customer: Karim Enterprise
+Billing Address: 165 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-05-01
+Due Date: 2026-05-16
+Currency: BDT
+Subtotal: 8116.62
+Tax: 1193.14
+Total: 9147.43
+Balance Due: 9147.43
+Status: unpaid

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0887",
+  "invoice_number": "INV-2026-0887",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "53 Road 12, Banani, Doha, Qatar",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "147 Zindabazar Road, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 2,
+      "unit_price": 520.22,
+      "amount": 1040.44
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 59.07,
+      "amount": 118.14
+    },
+    {
+      "description": "Web Development",
+      "quantity": 1,
+      "unit_price": 384.68,
+      "amount": 384.68
+    },
+    {
+      "description": "Web Development",
+      "quantity": 1,
+      "unit_price": 452.25,
+      "amount": 452.25
+    }
+  ],
+  "subtotal": 1995.51,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 149.66,
+  "shipping": 25,
+  "total": 2170.17,
+  "amount_paid": 2170.17,
+  "balance_due": 0.0,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801129424244",
+  "po_number": "PO-75796"
+}

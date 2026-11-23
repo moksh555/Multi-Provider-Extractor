@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-G541MPW57",
+  "policy_holder": "Diamond Jenkins",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-02-22",
+  "expiry_date": "2026-02-22",
+  "premium": 1010.61,
+  "coverage_amount": 467264.3,
+  "beneficiary": "James Andrews",
+  "sample_id": "insurance_document_0860"
+}

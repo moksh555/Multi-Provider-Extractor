@@ -1,0 +1,27 @@
+Resume
+Lori Flynn
+Computer Vision Engineer
+Skills: Docker, AWS, Python, LangChain, Machine Learning, Deep Learning, Streamlit, PyTorch, SQL, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Lori Flynn",
+  "email": "zfranco@example.com",
+  "phone": "328.416.8960x06688",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Docker",
+    "AWS",
+    "Python",
+    "LangChain",
+    "Machine Learning",
+    "Deep Learning",
+    "Streamlit",
+    "PyTorch",
+    "SQL",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0635"
+}

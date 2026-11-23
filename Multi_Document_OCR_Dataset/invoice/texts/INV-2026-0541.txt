@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0541
+Company: Royal Diagnostics Center
+Company Address: 16 Doha Business Park, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 205 Al Barsha, Sylhet, Bangladesh
+Invoice Date: 2026-01-06
+Due Date: 2026-02-05
+Currency: QAR
+Subtotal: 26852.46
+Tax: 1342.62
+Total: 28195.08
+Balance Due: 28195.08
+Status: unpaid

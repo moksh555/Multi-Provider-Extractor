@@ -1,0 +1,16 @@
+Bank Statement STM-5MUBZU2U
+Holder: Daniel Dominguez
+Closing Balance: $5314.39
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5MUBZU2U",
+  "account_holder": "Daniel Dominguez",
+  "account_number_masked": "****8588",
+  "period_start": "2025-08-26",
+  "period_end": "2025-09-25",
+  "opening_balance": 901.38,
+  "closing_balance": 5314.39,
+  "transactions": 8,
+  "sample_id": "bank_statement_0700"
+}

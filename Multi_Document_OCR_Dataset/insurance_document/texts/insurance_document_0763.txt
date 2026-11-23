@@ -1,0 +1,16 @@
+Insurance Policy POL-7NQWHOCPY
+Holder: Mark Irwin
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7NQWHOCPY",
+  "policy_holder": "Mark Irwin",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-08-20",
+  "expiry_date": "2027-08-20",
+  "premium": 362.91,
+  "coverage_amount": 235867.52,
+  "beneficiary": "Miguel Hernandez",
+  "sample_id": "insurance_document_0763"
+}

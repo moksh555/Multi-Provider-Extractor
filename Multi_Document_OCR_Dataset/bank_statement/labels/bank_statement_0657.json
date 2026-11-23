@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LQXXEGLZ",
+  "account_holder": "Alexandra Armstrong",
+  "account_number_masked": "****4618",
+  "period_start": "2025-05-22",
+  "period_end": "2025-06-21",
+  "opening_balance": 4204.59,
+  "closing_balance": 7675.67,
+  "transactions": 11,
+  "sample_id": "bank_statement_0657"
+}

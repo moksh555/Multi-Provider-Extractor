@@ -1,0 +1,16 @@
+Synthetic Driving License
+Zachary Ortiz
+License: DL962192970
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL962192970",
+  "full_name": "Zachary Ortiz",
+  "date_of_birth": "1999-06-11",
+  "class": "D",
+  "issue_date": "2021-05-19",
+  "expiry_date": "2026-05-19",
+  "address": "612 Samantha Center, New John, WA 63248",
+  "sample_id": "driving_license_0992"
+}

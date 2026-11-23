@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-W7W0K26B",
+  "patient_name": "Jill Jones",
+  "visit_date": "2026-06-08",
+  "doctor_name": "Dr. Emily Sanchez",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0294"
+}

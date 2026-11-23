@@ -1,0 +1,14 @@
+Medical Report MED-66YNQNXW
+Patient: Joe Elliott
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-66YNQNXW",
+  "patient_name": "Joe Elliott",
+  "visit_date": "2026-05-03",
+  "doctor_name": "Dr. Isaiah Parker",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0485"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-UG94MDRD",
+  "patient_name": "Daniel Byrd",
+  "visit_date": "2026-01-05",
+  "doctor_name": "Dr. Patrick Webb",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0174"
+}

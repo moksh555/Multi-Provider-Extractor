@@ -1,0 +1,23 @@
+Resume
+Natalie Holmes
+Software Engineer
+Skills: TensorFlow, Docker, Pandas, Streamlit, LangChain, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Natalie Holmes",
+  "email": "englishkatie@example.net",
+  "phone": "001-275-990-8268x009",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "Pandas",
+    "Streamlit",
+    "LangChain",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0453"
+}

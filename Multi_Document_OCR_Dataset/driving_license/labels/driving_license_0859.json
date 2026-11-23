@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL140353068",
+  "full_name": "Gina Weber",
+  "date_of_birth": "1983-07-21",
+  "class": "B",
+  "issue_date": "2026-08-17",
+  "expiry_date": "2031-08-17",
+  "address": "48640 Brian Hills Apt. 462, Matthewchester, CA 70095",
+  "sample_id": "driving_license_0859"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Molly White
+License: DL962404125
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL962404125",
+  "full_name": "Molly White",
+  "date_of_birth": "1988-07-17",
+  "class": "B",
+  "issue_date": "2021-02-01",
+  "expiry_date": "2026-02-01",
+  "address": "29271 Brian Gateway Suite 871, South Jean, GU 43345",
+  "sample_id": "driving_license_0947"
+}

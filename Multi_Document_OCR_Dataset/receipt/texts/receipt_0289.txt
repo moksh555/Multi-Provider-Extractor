@@ -1,0 +1,49 @@
+Receipt RCT-9SNTP8AK
+Merchant: Escobar, Rose and Scott
+Date: 2026-10-29
+Total: $529.90
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9SNTP8AK",
+  "merchant_name": "Escobar, Rose and Scott",
+  "date": "2026-10-29",
+  "subtotal": 506.89,
+  "tax": 25.02,
+  "discount": 2.01,
+  "total": 529.9,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$46.59",
+      "line_total": "$93.18"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$48.89",
+      "line_total": "$146.67"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$53.35",
+      "line_total": "$53.35"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$3.90",
+      "line_total": "$7.80"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$68.63",
+      "line_total": "$205.89"
+    }
+  ],
+  "sample_id": "receipt_0289"
+}

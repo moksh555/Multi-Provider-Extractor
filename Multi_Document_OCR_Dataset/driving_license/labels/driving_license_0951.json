@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL654772793",
+  "full_name": "Amy Morrow",
+  "date_of_birth": "1971-10-25",
+  "class": "A",
+  "issue_date": "2024-03-30",
+  "expiry_date": "2029-03-30",
+  "address": "PSC 9671, Box 3971, APO AP 15596",
+  "sample_id": "driving_license_0951"
+}

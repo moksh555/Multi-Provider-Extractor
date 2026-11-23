@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0321",
+  "invoice_number": "INV-2026-0321",
+  "company_name": "Greenline Logistics",
+  "company_address": "34 Al Barsha, Chattogram, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "154 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-04-01",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 9,
+      "unit_price": 755.89,
+      "amount": 6803.01
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 5,
+      "unit_price": 795.3,
+      "amount": 3976.5
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 583.11,
+      "amount": 3498.66
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 148.94,
+      "amount": 1340.46
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 8,
+      "unit_price": 170.64,
+      "amount": 1365.12
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 10,
+      "unit_price": 782.64,
+      "amount": 7826.4
+    }
+  ],
+  "subtotal": 24810.15,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 2481.02,
+  "shipping": 10,
+  "total": 27301.17,
+  "amount_paid": 0,
+  "balance_due": 27301.17,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801534153328",
+  "po_number": "PO-14399"
+}

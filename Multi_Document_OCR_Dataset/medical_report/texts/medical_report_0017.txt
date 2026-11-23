@@ -1,0 +1,14 @@
+Medical Report MED-K1W7GR7Y
+Patient: Ryan Miller
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-K1W7GR7Y",
+  "patient_name": "Ryan Miller",
+  "visit_date": "2026-06-06",
+  "doctor_name": "Dr. Catherine Gutierrez",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0017"
+}

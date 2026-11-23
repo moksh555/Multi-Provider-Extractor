@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL398209264",
+  "full_name": "Maria Sanford",
+  "date_of_birth": "1961-08-10",
+  "class": "D",
+  "issue_date": "2020-01-24",
+  "expiry_date": "2025-01-24",
+  "address": "25625 Charles Shoals, Nathanmouth, DE 01763",
+  "sample_id": "driving_license_0573"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Hubbard
+License: DL205813426
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL205813426",
+  "full_name": "James Hubbard",
+  "date_of_birth": "2003-02-03",
+  "class": "A",
+  "issue_date": "2022-03-28",
+  "expiry_date": "2027-03-28",
+  "address": "216 Perez Street Suite 722, North Austin, MI 43125",
+  "sample_id": "driving_license_0259"
+}

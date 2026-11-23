@@ -1,0 +1,16 @@
+Insurance Policy POL-QYDSHLV76
+Holder: Andrew Dominguez
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QYDSHLV76",
+  "policy_holder": "Andrew Dominguez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-03-25",
+  "expiry_date": "2026-03-25",
+  "premium": 472.11,
+  "coverage_amount": 428363.99,
+  "beneficiary": "Mario Maddox",
+  "sample_id": "insurance_document_0473"
+}

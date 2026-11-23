@@ -1,0 +1,16 @@
+Synthetic Driving License
+Adam Jones
+License: DL463553340
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL463553340",
+  "full_name": "Adam Jones",
+  "date_of_birth": "1982-01-31",
+  "class": "D",
+  "issue_date": "2022-06-26",
+  "expiry_date": "2027-06-26",
+  "address": "753 King Bypass, New Christopherborough, PA 84135",
+  "sample_id": "driving_license_0327"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-O3FESYAXY
+Holder: Nicholas Smith
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-O3FESYAXY",
+  "policy_holder": "Nicholas Smith",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-04-22",
+  "expiry_date": "2024-04-22",
+  "premium": 841.03,
+  "coverage_amount": 136738.03,
+  "beneficiary": "Edward Chang",
+  "sample_id": "insurance_document_0882"
+}

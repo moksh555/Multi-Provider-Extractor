@@ -1,0 +1,27 @@
+Resume
+Kimberly Schmitt
+Machine Learning Engineer
+Skills: FastAPI, LangChain, SQL, Streamlit, Docker, Python, TensorFlow, Pandas, AWS, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Kimberly Schmitt",
+  "email": "uhenderson@example.com",
+  "phone": "001-512-968-1307",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "FastAPI",
+    "LangChain",
+    "SQL",
+    "Streamlit",
+    "Docker",
+    "Python",
+    "TensorFlow",
+    "Pandas",
+    "AWS",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0732"
+}

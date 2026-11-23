@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL133260830",
+  "full_name": "Betty Fletcher",
+  "date_of_birth": "1964-05-26",
+  "class": "D",
+  "issue_date": "2026-10-19",
+  "expiry_date": "2031-10-19",
+  "address": "528 Debbie Manors Suite 054, East Matthew, WI 64237",
+  "sample_id": "driving_license_0079"
+}

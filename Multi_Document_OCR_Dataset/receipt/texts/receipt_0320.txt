@@ -1,0 +1,67 @@
+Receipt RCT-9M7QNTFP
+Merchant: Clay Ltd
+Date: 2024-03-13
+Total: $894.25
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9M7QNTFP",
+  "merchant_name": "Clay Ltd",
+  "date": "2024-03-13",
+  "subtotal": 835.73,
+  "tax": 60.39,
+  "discount": 1.87,
+  "total": 894.25,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$56.47",
+      "line_total": "$169.41"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$64.67",
+      "line_total": "$64.67"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$52.32",
+      "line_total": "$52.32"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$40.22",
+      "line_total": "$40.22"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$40.77",
+      "line_total": "$163.08"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$68.28",
+      "line_total": "$204.84"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$62.37",
+      "line_total": "$124.74"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$16.45",
+      "line_total": "$16.45"
+    }
+  ],
+  "sample_id": "receipt_0320"
+}

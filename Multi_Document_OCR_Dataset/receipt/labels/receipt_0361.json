@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VDZC786W",
+  "merchant_name": "Gould LLC",
+  "date": "2025-11-20",
+  "subtotal": 486.97,
+  "tax": 36.23,
+  "discount": 0.72,
+  "total": 522.48,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$58.94",
+      "line_total": "$117.88"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$71.75",
+      "line_total": "$143.50"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$30.97",
+      "line_total": "$123.88"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$41.18",
+      "line_total": "$82.36"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$19.35",
+      "line_total": "$19.35"
+    }
+  ],
+  "sample_id": "receipt_0361"
+}

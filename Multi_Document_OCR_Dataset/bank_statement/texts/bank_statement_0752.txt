@@ -1,0 +1,16 @@
+Bank Statement STM-A7S5F8BM
+Holder: Debbie Bullock
+Closing Balance: $2411.19
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-A7S5F8BM",
+  "account_holder": "Debbie Bullock",
+  "account_number_masked": "****3835",
+  "period_start": "2024-01-14",
+  "period_end": "2024-02-13",
+  "opening_balance": 745.99,
+  "closing_balance": 2411.19,
+  "transactions": 11,
+  "sample_id": "bank_statement_0752"
+}

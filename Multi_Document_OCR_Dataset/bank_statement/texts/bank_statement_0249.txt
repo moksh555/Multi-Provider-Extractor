@@ -1,0 +1,16 @@
+Bank Statement STM-U2691456
+Holder: Craig Ortiz
+Closing Balance: $6286.84
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-U2691456",
+  "account_holder": "Craig Ortiz",
+  "account_number_masked": "****4088",
+  "period_start": "2025-03-27",
+  "period_end": "2025-04-26",
+  "opening_balance": 831.43,
+  "closing_balance": 6286.84,
+  "transactions": 14,
+  "sample_id": "bank_statement_0249"
+}

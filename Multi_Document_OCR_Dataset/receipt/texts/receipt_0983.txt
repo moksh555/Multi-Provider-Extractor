@@ -1,0 +1,55 @@
+Receipt RCT-KURT6267
+Merchant: Alvarez Group
+Date: 2021-09-12
+Total: $756.84
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KURT6267",
+  "merchant_name": "Alvarez Group",
+  "date": "2021-09-12",
+  "subtotal": 723.63,
+  "tax": 39.34,
+  "discount": 6.13,
+  "total": 756.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$13.54",
+      "line_total": "$27.08"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$78.49",
+      "line_total": "$78.49"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$78.11",
+      "line_total": "$312.44"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$21.44",
+      "line_total": "$64.32"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$40.76",
+      "line_total": "$122.28"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$59.51",
+      "line_total": "$119.02"
+    }
+  ],
+  "sample_id": "receipt_0983"
+}

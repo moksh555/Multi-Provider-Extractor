@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tyler Miller
+License: DL236344741
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL236344741",
+  "full_name": "Tyler Miller",
+  "date_of_birth": "1967-05-10",
+  "class": "B",
+  "issue_date": "2023-02-23",
+  "expiry_date": "2028-02-23",
+  "address": "921 Jon Mountain Apt. 746, Jonathanland, KY 08678",
+  "sample_id": "driving_license_0328"
+}

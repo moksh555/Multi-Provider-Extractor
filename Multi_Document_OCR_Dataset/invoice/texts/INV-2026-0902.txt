@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0902
+Company: PrimeSoft Technologies
+Company Address: 79 Road 12, Banani, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 91 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-04-12
+Due Date: 2026-04-27
+Currency: BDT
+Subtotal: 5818.34
+Tax: 581.83
+Total: 6425.17
+Balance Due: 4242.03
+Status: partial

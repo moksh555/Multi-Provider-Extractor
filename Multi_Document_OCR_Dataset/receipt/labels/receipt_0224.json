@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TZETRIJ2",
+  "merchant_name": "Manning and Sons",
+  "date": "2022-08-17",
+  "subtotal": 504.83,
+  "tax": 25.88,
+  "discount": 6.64,
+  "total": 524.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$65.89",
+      "line_total": "$197.67"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$67.48",
+      "line_total": "$67.48"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$20.99",
+      "line_total": "$41.98"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$51.48",
+      "line_total": "$154.44"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$43.26",
+      "line_total": "$43.26"
+    }
+  ],
+  "sample_id": "receipt_0224"
+}

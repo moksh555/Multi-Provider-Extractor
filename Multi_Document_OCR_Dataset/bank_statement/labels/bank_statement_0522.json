@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MS12WBAK",
+  "account_holder": "Ashley Page",
+  "account_number_masked": "****9851",
+  "period_start": "2024-08-21",
+  "period_end": "2024-09-20",
+  "opening_balance": 573.87,
+  "closing_balance": -1758.88,
+  "transactions": 10,
+  "sample_id": "bank_statement_0522"
+}

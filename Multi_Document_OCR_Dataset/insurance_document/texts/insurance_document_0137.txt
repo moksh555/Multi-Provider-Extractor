@@ -1,0 +1,16 @@
+Insurance Policy POL-SRURALDOL
+Holder: Richard Floyd
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SRURALDOL",
+  "policy_holder": "Richard Floyd",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-07",
+  "expiry_date": "2027-05-07",
+  "premium": 1249.52,
+  "coverage_amount": 483864.64,
+  "beneficiary": "Sheryl Humphrey",
+  "sample_id": "insurance_document_0137"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL092179830",
+  "full_name": "Nicolas Salas",
+  "date_of_birth": "1972-09-15",
+  "class": "C",
+  "issue_date": "2021-03-30",
+  "expiry_date": "2026-03-30",
+  "address": "95211 Emma Shore, Austinside, AZ 63715",
+  "sample_id": "driving_license_0250"
+}

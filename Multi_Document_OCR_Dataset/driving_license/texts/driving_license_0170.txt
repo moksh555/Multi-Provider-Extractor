@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Schmitt
+License: DL698205468
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL698205468",
+  "full_name": "Michael Schmitt",
+  "date_of_birth": "1981-12-15",
+  "class": "D",
+  "issue_date": "2020-06-30",
+  "expiry_date": "2025-06-30",
+  "address": "442 Stephanie Walk, Hawkinsside, IA 12916",
+  "sample_id": "driving_license_0170"
+}

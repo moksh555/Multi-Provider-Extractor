@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0752
+Company: CityBanking Supplies
+Company Address: 68 Agrabad C/A, Chattogram, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 183 Mirpur DOHS, Doha, Qatar
+Invoice Date: 2026-01-19
+Due Date: 2026-02-03
+Currency: AED
+Subtotal: 11516.29
+Tax: 777.35
+Total: 11142.01
+Balance Due: 5636.8
+Status: partial

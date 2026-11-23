@@ -1,0 +1,16 @@
+Synthetic Driving License
+Keith Mooney
+License: DL481213506
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL481213506",
+  "full_name": "Keith Mooney",
+  "date_of_birth": "1999-11-16",
+  "class": "C",
+  "issue_date": "2020-06-23",
+  "expiry_date": "2025-06-23",
+  "address": "04713 Herman Expressway, Wilsonmouth, AS 45424",
+  "sample_id": "driving_license_0836"
+}

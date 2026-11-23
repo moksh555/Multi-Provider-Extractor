@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1TEFO1S9",
+  "merchant_name": "Maxwell PLC",
+  "date": "2024-03-23",
+  "subtotal": 221.45,
+  "tax": 20.4,
+  "discount": 6.55,
+  "total": 235.3,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$5.99",
+      "line_total": "$23.96"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$13.29",
+      "line_total": "$13.29"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$61.40",
+      "line_total": "$184.20"
+    }
+  ],
+  "sample_id": "receipt_0959"
+}

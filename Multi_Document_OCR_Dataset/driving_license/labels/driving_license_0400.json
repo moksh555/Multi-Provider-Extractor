@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL649261707",
+  "full_name": "Christopher Mcdonald",
+  "date_of_birth": "1981-10-21",
+  "class": "B",
+  "issue_date": "2026-12-18",
+  "expiry_date": "2031-12-18",
+  "address": "75877 Rodriguez Stravenue Apt. 151, Port Justin, MP 22559",
+  "sample_id": "driving_license_0400"
+}

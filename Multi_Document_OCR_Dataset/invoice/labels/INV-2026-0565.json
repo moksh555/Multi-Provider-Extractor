@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0565",
+  "invoice_number": "INV-2026-0565",
+  "company_name": "Delta Insurance Services",
+  "company_address": "77 Motijheel C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "19 Zindabazar Road, Doha, Qatar",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-05-25",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 4,
+      "unit_price": 833.95,
+      "amount": 3335.8
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 11,
+      "unit_price": 415.87,
+      "amount": 4574.57
+    }
+  ],
+  "subtotal": 7910.37,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 1186.56,
+  "shipping": 25,
+  "total": 9121.93,
+  "amount_paid": 0,
+  "balance_due": 9121.93,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801785057456",
+  "po_number": "PO-33858"
+}

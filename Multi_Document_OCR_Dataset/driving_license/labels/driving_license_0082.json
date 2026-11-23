@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL828487319",
+  "full_name": "Travis Joyce",
+  "date_of_birth": "1972-08-17",
+  "class": "D",
+  "issue_date": "2022-07-13",
+  "expiry_date": "2027-07-13",
+  "address": "8862 Laurie Dam Suite 075, Lake Meghanville, LA 11494",
+  "sample_id": "driving_license_0082"
+}

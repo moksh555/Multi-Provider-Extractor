@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0284",
+  "invoice_number": "INV-2026-0284",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "12 Agrabad C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "96 Uttara Sector 7, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-05",
+  "due_date": "2026-04-04",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 3,
+      "unit_price": 242.89,
+      "amount": 728.67
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 6,
+      "unit_price": 356.57,
+      "amount": 2139.42
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 5,
+      "unit_price": 751.96,
+      "amount": 3759.8
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 5,
+      "unit_price": 226.38,
+      "amount": 1131.9
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 5,
+      "unit_price": 85.81,
+      "amount": 429.05
+    }
+  ],
+  "subtotal": 8188.84,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 614.16,
+  "shipping": 5,
+  "total": 8808.0,
+  "amount_paid": 0,
+  "balance_due": 8808.0,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801375861951",
+  "po_number": "PO-59466"
+}

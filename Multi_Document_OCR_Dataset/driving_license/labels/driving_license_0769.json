@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL943246645",
+  "full_name": "Taylor Williams II",
+  "date_of_birth": "1988-02-20",
+  "class": "A",
+  "issue_date": "2024-03-10",
+  "expiry_date": "2029-03-10",
+  "address": "5047 Mason Bypass Apt. 909, West Oscarfort, MS 51408",
+  "sample_id": "driving_license_0769"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MSG0G1ZZ",
+  "account_holder": "Adrian Martinez",
+  "account_number_masked": "****0567",
+  "period_start": "2026-09-05",
+  "period_end": "2026-10-05",
+  "opening_balance": 1107.39,
+  "closing_balance": 3884.87,
+  "transactions": 14,
+  "sample_id": "bank_statement_0178"
+}

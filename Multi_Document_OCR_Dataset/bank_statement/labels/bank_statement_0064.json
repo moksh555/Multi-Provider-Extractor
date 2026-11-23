@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JB00ET7B",
+  "account_holder": "Felicia Cannon",
+  "account_number_masked": "****2230",
+  "period_start": "2026-01-21",
+  "period_end": "2026-02-20",
+  "opening_balance": 3337.15,
+  "closing_balance": 5875.33,
+  "transactions": 14,
+  "sample_id": "bank_statement_0064"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-D3I4Z4YI
+Holder: Kenneth Ballard
+Closing Balance: $6198.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-D3I4Z4YI",
+  "account_holder": "Kenneth Ballard",
+  "account_number_masked": "****7620",
+  "period_start": "2024-07-13",
+  "period_end": "2024-08-12",
+  "opening_balance": 774.78,
+  "closing_balance": 6198.88,
+  "transactions": 13,
+  "sample_id": "bank_statement_0487"
+}

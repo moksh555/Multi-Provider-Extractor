@@ -1,0 +1,16 @@
+Synthetic Driving License
+William Ramos
+License: DL253153722
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL253153722",
+  "full_name": "William Ramos",
+  "date_of_birth": "1966-08-05",
+  "class": "C",
+  "issue_date": "2020-12-02",
+  "expiry_date": "2025-12-02",
+  "address": "691 Scott View Suite 785, New Laceyland, ME 93505",
+  "sample_id": "driving_license_0189"
+}

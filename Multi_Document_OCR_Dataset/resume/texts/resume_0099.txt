@@ -1,0 +1,27 @@
+Resume
+Jonathan Alvarez
+Backend Developer
+Skills: FastAPI, TensorFlow, SQL, Machine Learning, Python, NLP, LangChain, Pandas, Deep Learning, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Jonathan Alvarez",
+  "email": "russellemily@example.org",
+  "phone": "288-769-3205x534",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "FastAPI",
+    "TensorFlow",
+    "SQL",
+    "Machine Learning",
+    "Python",
+    "NLP",
+    "LangChain",
+    "Pandas",
+    "Deep Learning",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0099"
+}

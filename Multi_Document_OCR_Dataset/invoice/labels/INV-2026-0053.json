@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0053",
+  "invoice_number": "INV-2026-0053",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "191 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "TechPoint BD",
+  "billing_address": "235 Road 12, Banani, Doha, Qatar",
+  "invoice_date": "2026-04-16",
+  "due_date": "2026-05-31",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 6,
+      "unit_price": 552.53,
+      "amount": 3315.18
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 6,
+      "unit_price": 85.85,
+      "amount": 515.1
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 1,
+      "unit_price": 234.04,
+      "amount": 234.04
+    },
+    {
+      "description": "API Integration",
+      "quantity": 10,
+      "unit_price": 41.3,
+      "amount": 413.0
+    }
+  ],
+  "subtotal": 4477.32,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 447.73,
+  "shipping": 0,
+  "total": 4925.05,
+  "amount_paid": 0,
+  "balance_due": 4925.05,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801856229392",
+  "po_number": "PO-17779"
+}

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0204",
+  "invoice_number": "INV-2026-0204",
+  "company_name": "Metro Print House",
+  "company_address": "94 Mirpur DOHS, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "82 Al Barsha, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-14",
+  "due_date": "2026-06-28",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 4,
+      "unit_price": 462.1,
+      "amount": 1848.4
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 594.27,
+      "amount": 6536.97
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 742.82,
+      "amount": 7428.2
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 162.55,
+      "amount": 975.3
+    }
+  ],
+  "subtotal": 16788.87,
+  "discount": 335.78,
+  "tax_rate": 0.05,
+  "tax": 822.65,
+  "shipping": 50,
+  "total": 17325.74,
+  "amount_paid": 17325.74,
+  "balance_due": 0.0,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801049099115",
+  "po_number": "PO-72544"
+}

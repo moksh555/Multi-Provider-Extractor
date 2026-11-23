@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EB8753AY",
+  "merchant_name": "Tanner, Wise and Johnson",
+  "date": "2022-04-01",
+  "subtotal": 320.41,
+  "tax": 17.8,
+  "discount": 11.84,
+  "total": 326.37,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$2.80",
+      "line_total": "$11.20"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$17.10",
+      "line_total": "$34.20"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$50.22",
+      "line_total": "$200.88"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$30.75",
+      "line_total": "$30.75"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$14.46",
+      "line_total": "$43.38"
+    }
+  ],
+  "sample_id": "receipt_0165"
+}

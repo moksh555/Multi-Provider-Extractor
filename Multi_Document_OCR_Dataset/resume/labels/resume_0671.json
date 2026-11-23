@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Troy Page",
+  "email": "eanderson@example.org",
+  "phone": "594-461-7305x1513",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Streamlit",
+    "Docker",
+    "NLP",
+    "Pandas",
+    "AWS",
+    "FastAPI",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0671"
+}

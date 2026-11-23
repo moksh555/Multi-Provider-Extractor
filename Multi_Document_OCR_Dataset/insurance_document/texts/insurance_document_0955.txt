@@ -1,0 +1,16 @@
+Insurance Policy POL-B4JWPGZ5R
+Holder: Sarah Jordan
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B4JWPGZ5R",
+  "policy_holder": "Sarah Jordan",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-04-05",
+  "expiry_date": "2025-04-05",
+  "premium": 1364.36,
+  "coverage_amount": 53400.75,
+  "beneficiary": "Ryan Sanchez",
+  "sample_id": "insurance_document_0955"
+}

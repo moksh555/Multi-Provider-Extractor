@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-U3YF15Z08",
+  "policy_holder": "Reginald Cordova",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-07-02",
+  "expiry_date": "2026-07-02",
+  "premium": 1898.51,
+  "coverage_amount": 115258.28,
+  "beneficiary": "Kevin Anderson",
+  "sample_id": "insurance_document_0925"
+}

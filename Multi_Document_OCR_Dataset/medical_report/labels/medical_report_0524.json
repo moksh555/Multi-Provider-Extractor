@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FLJWI7N5",
+  "patient_name": "Dana Norman",
+  "visit_date": "2025-12-20",
+  "doctor_name": "Dr. Kelly Nelson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0524"
+}

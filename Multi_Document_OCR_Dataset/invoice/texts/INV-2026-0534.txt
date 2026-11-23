@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0534
+Company: PrimeSoft Technologies
+Company Address: 13 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 203 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-03-12
+Due Date: 2026-03-19
+Currency: AED
+Subtotal: 8839.62
+Tax: 1325.94
+Total: 10175.56
+Balance Due: 10175.56
+Status: unpaid

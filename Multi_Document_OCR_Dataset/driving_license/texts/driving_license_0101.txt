@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michelle Lee
+License: DL035032123
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL035032123",
+  "full_name": "Michelle Lee",
+  "date_of_birth": "1960-09-10",
+  "class": "D",
+  "issue_date": "2025-07-30",
+  "expiry_date": "2030-07-30",
+  "address": "4701 Wagner Garden Apt. 950, West Troyfort, LA 70846",
+  "sample_id": "driving_license_0101"
+}

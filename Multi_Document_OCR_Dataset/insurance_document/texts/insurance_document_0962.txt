@@ -1,0 +1,16 @@
+Insurance Policy POL-ZW1FU5X01
+Holder: Tyler Russell
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZW1FU5X01",
+  "policy_holder": "Tyler Russell",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-10-20",
+  "expiry_date": "2026-10-20",
+  "premium": 2158.82,
+  "coverage_amount": 173544.0,
+  "beneficiary": "Marcus Patrick",
+  "sample_id": "insurance_document_0962"
+}

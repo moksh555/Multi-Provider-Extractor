@@ -1,0 +1,61 @@
+Receipt RCT-3UZ3AOEA
+Merchant: Reynolds Inc
+Date: 2025-08-20
+Total: $1122.96
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3UZ3AOEA",
+  "merchant_name": "Reynolds Inc",
+  "date": "2025-08-20",
+  "subtotal": 1067.16,
+  "tax": 57.88,
+  "discount": 2.08,
+  "total": 1122.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$26.83",
+      "line_total": "$107.32"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$12.30",
+      "line_total": "$12.30"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$61.51",
+      "line_total": "$246.04"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$57.17",
+      "line_total": "$228.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$59.44",
+      "line_total": "$118.88"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$47.16",
+      "line_total": "$188.64"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$55.10",
+      "line_total": "$165.30"
+    }
+  ],
+  "sample_id": "receipt_0815"
+}

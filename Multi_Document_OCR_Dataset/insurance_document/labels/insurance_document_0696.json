@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MVNCZTZOW",
+  "policy_holder": "Dr. Christina Ramirez MD",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-04-28",
+  "expiry_date": "2024-04-28",
+  "premium": 1609.77,
+  "coverage_amount": 15100.01,
+  "beneficiary": "Maria Briggs",
+  "sample_id": "insurance_document_0696"
+}

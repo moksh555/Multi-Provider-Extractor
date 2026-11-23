@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-957K4VB2",
+  "patient_name": "Dr. Tyler Hill",
+  "visit_date": "2026-07-30",
+  "doctor_name": "Dr. Diana Petersen",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0023"
+}

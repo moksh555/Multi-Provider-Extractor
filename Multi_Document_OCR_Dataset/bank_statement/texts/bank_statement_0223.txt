@@ -1,0 +1,16 @@
+Bank Statement STM-HW7LHXOL
+Holder: Deborah Fox
+Closing Balance: $3105.78
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HW7LHXOL",
+  "account_holder": "Deborah Fox",
+  "account_number_masked": "****6864",
+  "period_start": "2026-05-28",
+  "period_end": "2026-06-27",
+  "opening_balance": 1608.58,
+  "closing_balance": 3105.78,
+  "transactions": 12,
+  "sample_id": "bank_statement_0223"
+}

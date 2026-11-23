@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christopher Daniel
+Passport No: P06189884
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P06189884",
+  "full_name": "Christopher Daniel",
+  "nationality": "BD",
+  "date_of_birth": "1975-02-26",
+  "issue_date": "2021-02-15",
+  "expiry_date": "2031-02-15",
+  "place_of_birth": "East Beth",
+  "sample_id": "passport_0859"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-1I9695R4",
+  "patient_name": "Michael Martinez",
+  "visit_date": "2024-10-19",
+  "doctor_name": "Dr. Bill Green",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0181"
+}

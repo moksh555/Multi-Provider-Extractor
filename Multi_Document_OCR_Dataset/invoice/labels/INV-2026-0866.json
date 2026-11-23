@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0866",
+  "invoice_number": "INV-2026-0866",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "93 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "214 Jumeirah Lake Towers, Dubai, UAE",
+  "invoice_date": "2026-04-20",
+  "due_date": "2026-04-27",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 5,
+      "unit_price": 64.47,
+      "amount": 322.35
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 8,
+      "unit_price": 433.97,
+      "amount": 3471.76
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 61.48,
+      "amount": 676.28
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 12,
+      "unit_price": 626.04,
+      "amount": 7512.48
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 9,
+      "unit_price": 403.85,
+      "amount": 3634.65
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 604.81,
+      "amount": 2419.24
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 77.18,
+      "amount": 231.54
+    }
+  ],
+  "subtotal": 18268.3,
+  "discount": 1826.83,
+  "tax_rate": 0.075,
+  "tax": 1233.11,
+  "shipping": 0,
+  "total": 17674.58,
+  "amount_paid": 0,
+  "balance_due": 17674.58,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801228858915",
+  "po_number": "PO-04829"
+}

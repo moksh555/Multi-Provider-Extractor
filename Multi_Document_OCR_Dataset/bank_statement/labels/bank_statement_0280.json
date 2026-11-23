@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-K9KOHD5M",
+  "account_holder": "Kara Norton",
+  "account_number_masked": "****1519",
+  "period_start": "2025-02-04",
+  "period_end": "2025-03-06",
+  "opening_balance": 4320.39,
+  "closing_balance": 6993.2,
+  "transactions": 8,
+  "sample_id": "bank_statement_0280"
+}

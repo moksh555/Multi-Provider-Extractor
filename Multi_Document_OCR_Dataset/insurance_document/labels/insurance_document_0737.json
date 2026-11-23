@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OR17DPUBK",
+  "policy_holder": "Leah Kim",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-03-09",
+  "expiry_date": "2025-03-09",
+  "premium": 650.45,
+  "coverage_amount": 232768.64,
+  "beneficiary": "Alejandro Barker",
+  "sample_id": "insurance_document_0737"
+}

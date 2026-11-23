@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-J2TJ20SA",
+  "account_holder": "Misty Hernandez MD",
+  "account_number_masked": "****1510",
+  "period_start": "2026-10-17",
+  "period_end": "2026-11-16",
+  "opening_balance": 694.4,
+  "closing_balance": 1843.02,
+  "transactions": 9,
+  "sample_id": "bank_statement_0840"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-NHQNJVDPN
+Holder: Taylor Flores
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NHQNJVDPN",
+  "policy_holder": "Taylor Flores",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-06-08",
+  "expiry_date": "2026-06-08",
+  "premium": 1621.03,
+  "coverage_amount": 55544.26,
+  "beneficiary": "Tyler Taylor",
+  "sample_id": "insurance_document_0533"
+}

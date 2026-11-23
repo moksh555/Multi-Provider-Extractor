@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SB65PDB1",
+  "patient_name": "Joseph Dominguez",
+  "visit_date": "2026-12-24",
+  "doctor_name": "Dr. James Matthews",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0748"
+}

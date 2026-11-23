@@ -1,0 +1,16 @@
+Synthetic Driving License
+Erin Ryan
+License: DL261496912
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL261496912",
+  "full_name": "Erin Ryan",
+  "date_of_birth": "1984-03-02",
+  "class": "C",
+  "issue_date": "2022-02-28",
+  "expiry_date": "2027-02-28",
+  "address": "119 Terri Tunnel Apt. 828, New Sandraborough, WV 10080",
+  "sample_id": "driving_license_0707"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-S894F7BA
+Patient: Cynthia Jones
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S894F7BA",
+  "patient_name": "Cynthia Jones",
+  "visit_date": "2025-03-08",
+  "doctor_name": "Dr. Deborah Herrera",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0532"
+}

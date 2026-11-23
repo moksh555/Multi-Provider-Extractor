@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Thomas Goodwin
+Passport No: P12984565
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P12984565",
+  "full_name": "Thomas Goodwin",
+  "nationality": "CA",
+  "date_of_birth": "1980-08-03",
+  "issue_date": "2025-06-26",
+  "expiry_date": "2035-06-26",
+  "place_of_birth": "East Ericachester",
+  "sample_id": "passport_0518"
+}

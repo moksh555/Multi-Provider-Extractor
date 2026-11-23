@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL675221771",
+  "full_name": "Nicole Marquez",
+  "date_of_birth": "1992-06-06",
+  "class": "B",
+  "issue_date": "2025-09-14",
+  "expiry_date": "2030-09-14",
+  "address": "2939 Rhodes Plains, Patrickberg, WY 90850",
+  "sample_id": "driving_license_0133"
+}

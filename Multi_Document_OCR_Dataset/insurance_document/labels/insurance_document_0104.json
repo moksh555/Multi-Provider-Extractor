@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-V7LN23Y30",
+  "policy_holder": "Donald Padilla",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-07-11",
+  "expiry_date": "2024-07-11",
+  "premium": 1657.54,
+  "coverage_amount": 217469.12,
+  "beneficiary": "Laura Lloyd",
+  "sample_id": "insurance_document_0104"
+}

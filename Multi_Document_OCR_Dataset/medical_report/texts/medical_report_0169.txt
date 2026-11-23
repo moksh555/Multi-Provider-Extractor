@@ -1,0 +1,14 @@
+Medical Report MED-W6JPHXRV
+Patient: Beth Bowen
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-W6JPHXRV",
+  "patient_name": "Beth Bowen",
+  "visit_date": "2025-05-05",
+  "doctor_name": "Dr. Jesus Poole",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0169"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mason Powell
+License: DL511783807
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL511783807",
+  "full_name": "Mason Powell",
+  "date_of_birth": "1979-08-10",
+  "class": "A",
+  "issue_date": "2024-10-07",
+  "expiry_date": "2029-10-07",
+  "address": "9717 Stewart Parks Apt. 166, New Andrealand, WY 79695",
+  "sample_id": "driving_license_0210"
+}

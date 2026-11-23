@@ -1,0 +1,14 @@
+Medical Report MED-CNMIKEXP
+Patient: Mr. Michael Lewis
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-CNMIKEXP",
+  "patient_name": "Mr. Michael Lewis",
+  "visit_date": "2024-11-28",
+  "doctor_name": "Dr. Andrew Green",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0753"
+}

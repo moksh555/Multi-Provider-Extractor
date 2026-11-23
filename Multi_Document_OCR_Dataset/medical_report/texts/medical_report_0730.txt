@@ -1,0 +1,14 @@
+Medical Report MED-I6OU87QO
+Patient: Amanda Elliott
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-I6OU87QO",
+  "patient_name": "Amanda Elliott",
+  "visit_date": "2025-08-03",
+  "doctor_name": "Dr. Sarah Bradley",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0730"
+}

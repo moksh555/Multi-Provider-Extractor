@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Alyssa Brooks",
+  "email": "erinjones@example.org",
+  "phone": "+1-416-471-5605x87905",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "SQL",
+    "LangChain",
+    "AWS",
+    "FastAPI",
+    "Python",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0139"
+}

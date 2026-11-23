@@ -1,0 +1,14 @@
+Medical Report MED-8GIJY80U
+Patient: Calvin Holmes
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8GIJY80U",
+  "patient_name": "Calvin Holmes",
+  "visit_date": "2025-05-15",
+  "doctor_name": "Dr. Jessica Donaldson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0167"
+}

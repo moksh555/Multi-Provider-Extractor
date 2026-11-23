@@ -1,0 +1,16 @@
+Insurance Policy POL-ID033TAYB
+Holder: Cassidy Smith
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ID033TAYB",
+  "policy_holder": "Cassidy Smith",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-08-15",
+  "expiry_date": "2024-08-15",
+  "premium": 234.25,
+  "coverage_amount": 159102.15,
+  "beneficiary": "Judith Gomez",
+  "sample_id": "insurance_document_0758"
+}

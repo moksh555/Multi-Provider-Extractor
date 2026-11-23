@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL779291308",
+  "full_name": "Brittany Martinez",
+  "date_of_birth": "1984-11-19",
+  "class": "C",
+  "issue_date": "2026-07-02",
+  "expiry_date": "2031-07-02",
+  "address": "437 Brooks Lakes, Mcclainside, AS 35822",
+  "sample_id": "driving_license_0517"
+}

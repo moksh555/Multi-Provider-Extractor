@@ -1,0 +1,14 @@
+Medical Report MED-QIPN9JTI
+Patient: Daniel Perez
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QIPN9JTI",
+  "patient_name": "Daniel Perez",
+  "visit_date": "2024-07-12",
+  "doctor_name": "Dr. Terry Carlson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0254"
+}

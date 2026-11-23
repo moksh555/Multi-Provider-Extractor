@@ -1,0 +1,26 @@
+Resume
+Shannon Morris
+Backend Developer
+Skills: SQL, Docker, TensorFlow, Computer Vision, PyTorch, Streamlit, Deep Learning, Machine Learning, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Shannon Morris",
+  "email": "donald32@example.net",
+  "phone": "001-586-259-1819x8052",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "SQL",
+    "Docker",
+    "TensorFlow",
+    "Computer Vision",
+    "PyTorch",
+    "Streamlit",
+    "Deep Learning",
+    "Machine Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0678"
+}

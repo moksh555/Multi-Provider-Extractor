@@ -1,0 +1,16 @@
+Bank Statement STM-F3WO9EKL
+Holder: Austin Schmitt
+Closing Balance: $2073.04
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F3WO9EKL",
+  "account_holder": "Austin Schmitt",
+  "account_number_masked": "****3221",
+  "period_start": "2026-08-30",
+  "period_end": "2026-09-29",
+  "opening_balance": 978.81,
+  "closing_balance": 2073.04,
+  "transactions": 13,
+  "sample_id": "bank_statement_0766"
+}

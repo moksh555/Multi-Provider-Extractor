@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QKPNN8XC",
+  "merchant_name": "Thompson, Turner and Lang",
+  "date": "2025-10-09",
+  "subtotal": 811.68,
+  "tax": 85.61,
+  "discount": 4.39,
+  "total": 892.9,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$16.92",
+      "line_total": "$33.84"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$63.15",
+      "line_total": "$189.45"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$9.38",
+      "line_total": "$28.14"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$20.33",
+      "line_total": "$40.66"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$77.71",
+      "line_total": "$155.42"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$59.21",
+      "line_total": "$59.21"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$57.60",
+      "line_total": "$230.40"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$37.28",
+      "line_total": "$74.56"
+    }
+  ],
+  "sample_id": "receipt_0763"
+}

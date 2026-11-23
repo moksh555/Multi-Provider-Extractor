@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0644",
+  "invoice_number": "INV-2026-0644",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "163 Sheikh Zayed Road, Doha, Qatar",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "195 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-06-03",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 8,
+      "unit_price": 688.94,
+      "amount": 5511.52
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 10,
+      "unit_price": 597.87,
+      "amount": 5978.7
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 6,
+      "unit_price": 477.54,
+      "amount": 2865.24
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 11,
+      "unit_price": 630.28,
+      "amount": 6933.08
+    }
+  ],
+  "subtotal": 21288.54,
+  "discount": 425.77,
+  "tax_rate": 0.05,
+  "tax": 1043.14,
+  "shipping": 5,
+  "total": 21910.91,
+  "amount_paid": 0,
+  "balance_due": 21910.91,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801889171181",
+  "po_number": "PO-52530"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0567
+Company: SkyNet Office Mart
+Company Address: 173 Mirpur DOHS, Sylhet, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 102 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-05-10
+Due Date: 2026-06-24
+Currency: USD
+Subtotal: 8202.53
+Tax: 410.13
+Total: 8662.66
+Balance Due: 8662.66
+Status: unpaid

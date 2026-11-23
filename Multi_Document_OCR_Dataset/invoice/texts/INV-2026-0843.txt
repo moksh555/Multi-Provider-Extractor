@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0843
+Company: Nova Medical Supplies
+Company Address: 88 Al Barsha, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 190 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-23
+Due Date: 2026-04-07
+Currency: USD
+Subtotal: 16995.97
+Tax: 807.31
+Total: 17003.48
+Balance Due: 0.0
+Status: paid

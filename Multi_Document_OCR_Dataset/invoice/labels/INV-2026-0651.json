@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0651",
+  "invoice_number": "INV-2026-0651",
+  "company_name": "CityBanking Supplies",
+  "company_address": "125 Sheikh Zayed Road, Doha, Qatar",
+  "customer_name": "Future School",
+  "billing_address": "157 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-27",
+  "due_date": "2026-05-04",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 79.57,
+      "amount": 79.57
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 378.75,
+      "amount": 3787.5
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 2,
+      "unit_price": 30.16,
+      "amount": 60.32
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 9,
+      "unit_price": 227.52,
+      "amount": 2047.68
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 291.52,
+      "amount": 583.04
+    }
+  ],
+  "subtotal": 6558.11,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 655.81,
+  "shipping": 10,
+  "total": 7223.92,
+  "amount_paid": 7223.92,
+  "balance_due": 0.0,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801470355963",
+  "po_number": "PO-62862"
+}

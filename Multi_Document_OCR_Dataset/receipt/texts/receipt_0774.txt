@@ -1,0 +1,61 @@
+Receipt RCT-V3HRQA9V
+Merchant: Cooper-Quinn
+Date: 2022-05-29
+Total: $623.38
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V3HRQA9V",
+  "merchant_name": "Cooper-Quinn",
+  "date": "2022-05-29",
+  "subtotal": 591.75,
+  "tax": 37.86,
+  "discount": 6.23,
+  "total": 623.38,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$53.49",
+      "line_total": "$160.47"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$61.88",
+      "line_total": "$123.76"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$34.56",
+      "line_total": "$69.12"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$46.44",
+      "line_total": "$46.44"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$10.21",
+      "line_total": "$20.42"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$30.79",
+      "line_total": "$123.16"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$48.38",
+      "line_total": "$48.38"
+    }
+  ],
+  "sample_id": "receipt_0774"
+}

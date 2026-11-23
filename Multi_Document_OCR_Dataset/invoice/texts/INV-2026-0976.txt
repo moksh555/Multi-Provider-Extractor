@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0976
+Company: CityBanking Supplies
+Company Address: 171 Mirpur DOHS, Sylhet, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 27 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-06-25
+Due Date: 2026-08-09
+Currency: USD
+Subtotal: 18961.79
+Tax: 0.0
+Total: 17075.61
+Balance Due: 17075.61
+Status: overdue

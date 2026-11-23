@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3UB2RC0H",
+  "account_holder": "Aaron Harrison",
+  "account_number_masked": "****8270",
+  "period_start": "2026-02-24",
+  "period_end": "2026-03-26",
+  "opening_balance": 2224.12,
+  "closing_balance": 7256.83,
+  "transactions": 11,
+  "sample_id": "bank_statement_0967"
+}

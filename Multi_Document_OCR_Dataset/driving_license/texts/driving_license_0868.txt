@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sandra Goodman
+License: DL373464961
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL373464961",
+  "full_name": "Sandra Goodman",
+  "date_of_birth": "1964-01-01",
+  "class": "B",
+  "issue_date": "2023-04-06",
+  "expiry_date": "2028-04-06",
+  "address": "1424 Thompson Trafficway, South Kristihaven, CA 77372",
+  "sample_id": "driving_license_0868"
+}

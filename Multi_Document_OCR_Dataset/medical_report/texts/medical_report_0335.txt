@@ -1,0 +1,14 @@
+Medical Report MED-RB7036VK
+Patient: Phillip Day
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RB7036VK",
+  "patient_name": "Phillip Day",
+  "visit_date": "2024-10-02",
+  "doctor_name": "Dr. Billy Ritter",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0335"
+}

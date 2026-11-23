@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-YB2DQLOB",
+  "patient_name": "Alyssa White",
+  "visit_date": "2025-05-25",
+  "doctor_name": "Dr. Kevin Anderson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0632"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-3KKV9RFTM
+Holder: Mike Acevedo
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3KKV9RFTM",
+  "policy_holder": "Mike Acevedo",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-01-17",
+  "expiry_date": "2027-01-17",
+  "premium": 1017.76,
+  "coverage_amount": 467097.61,
+  "beneficiary": "Dakota Moody",
+  "sample_id": "insurance_document_0065"
+}

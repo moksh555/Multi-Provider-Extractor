@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sharon Murphy
+License: DL443672701
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL443672701",
+  "full_name": "Sharon Murphy",
+  "date_of_birth": "1996-11-07",
+  "class": "D",
+  "issue_date": "2024-10-16",
+  "expiry_date": "2029-10-16",
+  "address": "011 Jennifer Springs Apt. 075, Lake Sarah, FM 91565",
+  "sample_id": "driving_license_0985"
+}

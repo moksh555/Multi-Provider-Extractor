@@ -1,0 +1,55 @@
+Receipt RCT-JYGSBOGK
+Merchant: Wells-Sanchez
+Date: 2021-01-21
+Total: $585.75
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JYGSBOGK",
+  "merchant_name": "Wells-Sanchez",
+  "date": "2021-01-21",
+  "subtotal": 547.02,
+  "tax": 43.87,
+  "discount": 5.14,
+  "total": 585.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$62.78",
+      "line_total": "$62.78"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$22.10",
+      "line_total": "$66.30"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$18.48",
+      "line_total": "$18.48"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$18.46",
+      "line_total": "$55.38"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$47.45",
+      "line_total": "$189.80"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$38.57",
+      "line_total": "$154.28"
+    }
+  ],
+  "sample_id": "receipt_0391"
+}

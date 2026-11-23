@@ -1,0 +1,27 @@
+Resume
+Elizabeth Valentine
+Machine Learning Engineer
+Skills: PyTorch, FastAPI, Docker, Pandas, AWS, LangChain, Machine Learning, Deep Learning, TensorFlow, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Elizabeth Valentine",
+  "email": "qbrown@example.net",
+  "phone": "+1-967-211-0187",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "FastAPI",
+    "Docker",
+    "Pandas",
+    "AWS",
+    "LangChain",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0441"
+}

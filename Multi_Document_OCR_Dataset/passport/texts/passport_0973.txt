@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Rachel Carroll
+Passport No: P59494614
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P59494614",
+  "full_name": "Rachel Carroll",
+  "nationality": "GB",
+  "date_of_birth": "2002-11-18",
+  "issue_date": "2020-07-29",
+  "expiry_date": "2030-07-29",
+  "place_of_birth": "Kimberlystad",
+  "sample_id": "passport_0973"
+}

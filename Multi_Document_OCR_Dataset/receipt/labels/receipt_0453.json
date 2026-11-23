@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DJJZQFE8",
+  "merchant_name": "Howard PLC",
+  "date": "2022-05-23",
+  "subtotal": 395.15,
+  "tax": 23.47,
+  "discount": 12.54,
+  "total": 406.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$30.14",
+      "line_total": "$120.56"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$44.46",
+      "line_total": "$177.84"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$32.25",
+      "line_total": "$96.75"
+    }
+  ],
+  "sample_id": "receipt_0453"
+}

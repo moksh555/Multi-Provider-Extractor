@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "John Bean",
+  "email": "mariajohnson@example.org",
+  "phone": "(278)821-5392x66937",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "PyTorch",
+    "Computer Vision",
+    "Deep Learning",
+    "Streamlit",
+    "Docker",
+    "TensorFlow",
+    "NLP",
+    "Machine Learning",
+    "LangChain",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0184"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0389",
+  "invoice_number": "INV-2026-0389",
+  "company_name": "CityBanking Supplies",
+  "company_address": "21 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "25 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-03-19",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 6,
+      "unit_price": 336.88,
+      "amount": 2021.28
+    },
+    {
+      "description": "API Integration",
+      "quantity": 2,
+      "unit_price": 696.9,
+      "amount": 1393.8
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 137.66,
+      "amount": 963.62
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 277.76,
+      "amount": 555.52
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 2,
+      "unit_price": 810.25,
+      "amount": 1620.5
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 5,
+      "unit_price": 763.69,
+      "amount": 3818.45
+    }
+  ],
+  "subtotal": 10373.17,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 518.66,
+  "shipping": 5,
+  "total": 10896.83,
+  "amount_paid": 10896.83,
+  "balance_due": 0.0,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801851548459",
+  "po_number": "PO-69829"
+}

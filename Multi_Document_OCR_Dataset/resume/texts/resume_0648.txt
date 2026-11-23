@@ -1,0 +1,27 @@
+Resume
+Amanda Palmer
+Data Analyst
+Skills: NLP, Machine Learning, Streamlit, Computer Vision, SQL, Python, FastAPI, Deep Learning, LangChain, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Amanda Palmer",
+  "email": "scottmiddleton@example.com",
+  "phone": "652.739.9963x6918",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "Machine Learning",
+    "Streamlit",
+    "Computer Vision",
+    "SQL",
+    "Python",
+    "FastAPI",
+    "Deep Learning",
+    "LangChain",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0648"
+}

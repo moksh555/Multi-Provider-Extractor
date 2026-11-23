@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0288
+Company: Nexus Digital Solutions
+Company Address: 165 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 95 Dhanmondi 27, Sylhet, Bangladesh
+Invoice Date: 2026-05-09
+Due Date: 2026-05-16
+Currency: QAR
+Subtotal: 2538.36
+Tax: 0.0
+Total: 2538.36
+Balance Due: 2538.36
+Status: overdue

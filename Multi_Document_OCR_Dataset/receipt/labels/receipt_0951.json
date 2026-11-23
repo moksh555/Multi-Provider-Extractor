@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-CP8OV5NW",
+  "merchant_name": "Bautista, Stone and Anderson",
+  "date": "2026-10-27",
+  "subtotal": 796.45,
+  "tax": 88.94,
+  "discount": 8.93,
+  "total": 876.46,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$41.82",
+      "line_total": "$125.46"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$71.96",
+      "line_total": "$71.96"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$64.84",
+      "line_total": "$259.36"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$73.79",
+      "line_total": "$73.79"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$1.31",
+      "line_total": "$5.24"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$39.42",
+      "line_total": "$157.68"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$25.74",
+      "line_total": "$102.96"
+    }
+  ],
+  "sample_id": "receipt_0951"
+}

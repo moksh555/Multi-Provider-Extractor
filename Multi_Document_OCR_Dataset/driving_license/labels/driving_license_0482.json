@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL783244819",
+  "full_name": "Stephen Riddle",
+  "date_of_birth": "2000-10-26",
+  "class": "D",
+  "issue_date": "2021-12-30",
+  "expiry_date": "2026-12-30",
+  "address": "64587 Horton Run, Housebury, IA 63117",
+  "sample_id": "driving_license_0482"
+}

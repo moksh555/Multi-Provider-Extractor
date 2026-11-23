@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0543",
+  "invoice_number": "INV-2026-0543",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "72 Road 12, Banani, Riyadh, Saudi Arabia",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "38 Doha Business Park, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-20",
+  "due_date": "2026-03-06",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 541.84,
+      "amount": 3792.88
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 11,
+      "unit_price": 194.75,
+      "amount": 2142.25
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 751.51,
+      "amount": 4509.06
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 10,
+      "unit_price": 735.23,
+      "amount": 7352.3
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 327.63,
+      "amount": 655.26
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 783.49,
+      "amount": 7834.9
+    }
+  ],
+  "subtotal": 26286.65,
+  "discount": 1314.33,
+  "tax_rate": 0.1,
+  "tax": 2497.23,
+  "shipping": 50,
+  "total": 27519.55,
+  "amount_paid": 27519.55,
+  "balance_due": 0.0,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801960097105",
+  "po_number": "PO-16082"
+}

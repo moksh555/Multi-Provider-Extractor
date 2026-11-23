@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-559QY8B5",
+  "account_holder": "Amber Young",
+  "account_number_masked": "****5718",
+  "period_start": "2025-01-01",
+  "period_end": "2025-01-31",
+  "opening_balance": 1075.23,
+  "closing_balance": 1129.44,
+  "transactions": 8,
+  "sample_id": "bank_statement_0799"
+}

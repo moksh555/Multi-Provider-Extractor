@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0597
+Company: Nova Medical Supplies
+Company Address: 106 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: Rahim Traders
+Billing Address: 245 Motijheel C/A, Chattogram, Bangladesh
+Invoice Date: 2026-03-08
+Due Date: 2026-03-15
+Currency: QAR
+Subtotal: 5854.36
+Tax: 0.0
+Total: 5854.36
+Balance Due: 5854.36
+Status: overdue

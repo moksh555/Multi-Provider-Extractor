@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kyle Cross
+Passport No: P33897317
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P33897317",
+  "full_name": "Kyle Cross",
+  "nationality": "GB",
+  "date_of_birth": "1984-05-19",
+  "issue_date": "2021-12-08",
+  "expiry_date": "2031-12-08",
+  "place_of_birth": "South James",
+  "sample_id": "passport_0586"
+}

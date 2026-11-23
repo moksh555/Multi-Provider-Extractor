@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andrew Phelps
+License: DL050697943
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL050697943",
+  "full_name": "Andrew Phelps",
+  "date_of_birth": "1998-07-12",
+  "class": "C",
+  "issue_date": "2023-10-10",
+  "expiry_date": "2028-10-10",
+  "address": "Unit 7851 Box 3854, DPO AA 98917",
+  "sample_id": "driving_license_0681"
+}

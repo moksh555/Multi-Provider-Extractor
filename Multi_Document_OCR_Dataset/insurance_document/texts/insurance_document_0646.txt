@@ -1,0 +1,16 @@
+Insurance Policy POL-0KHFSU4SE
+Holder: Donna Carter
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0KHFSU4SE",
+  "policy_holder": "Donna Carter",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-09-09",
+  "expiry_date": "2025-09-09",
+  "premium": 2101.0,
+  "coverage_amount": 498189.32,
+  "beneficiary": "Joshua Hernandez",
+  "sample_id": "insurance_document_0646"
+}

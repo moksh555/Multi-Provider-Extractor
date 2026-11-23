@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-UPJ53AZ0",
+  "patient_name": "Alexis Johnson",
+  "visit_date": "2026-12-11",
+  "doctor_name": "Dr. Amy Turner",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0680"
+}

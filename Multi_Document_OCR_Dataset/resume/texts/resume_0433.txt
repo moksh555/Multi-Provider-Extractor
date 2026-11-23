@@ -1,0 +1,25 @@
+Resume
+Brian Hall
+Data Analyst
+Skills: SQL, NLP, LangChain, Computer Vision, Machine Learning, Streamlit, AWS, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Brian Hall",
+  "email": "wperez@example.com",
+  "phone": "001-690-450-4173x7223",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "NLP",
+    "LangChain",
+    "Computer Vision",
+    "Machine Learning",
+    "Streamlit",
+    "AWS",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0433"
+}

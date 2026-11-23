@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Gregory Glass",
+  "email": "marypatrick@example.net",
+  "phone": "399.743.1095",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "Computer Vision",
+    "TensorFlow",
+    "SQL",
+    "Machine Learning",
+    "NLP",
+    "LangChain",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0705"
+}

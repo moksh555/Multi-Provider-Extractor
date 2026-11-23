@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-B04W0MMK",
+  "patient_name": "Tina James",
+  "visit_date": "2025-05-21",
+  "doctor_name": "Dr. Natalie Smith",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0613"
+}

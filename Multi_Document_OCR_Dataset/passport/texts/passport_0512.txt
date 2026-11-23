@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Gregory Elliott
+Passport No: P45901443
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P45901443",
+  "full_name": "Gregory Elliott",
+  "nationality": "GB",
+  "date_of_birth": "1996-02-03",
+  "issue_date": "2020-06-15",
+  "expiry_date": "2030-06-15",
+  "place_of_birth": "West Jim",
+  "sample_id": "passport_0512"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-WPNXZDZB5
+Holder: Jordan Carter
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WPNXZDZB5",
+  "policy_holder": "Jordan Carter",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-07-14",
+  "expiry_date": "2025-07-14",
+  "premium": 2220.48,
+  "coverage_amount": 273491.4,
+  "beneficiary": "Jennifer Roman",
+  "sample_id": "insurance_document_0614"
+}

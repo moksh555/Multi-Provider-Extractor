@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0315
+Company: CityBanking Supplies
+Company Address: 16 Agrabad C/A, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 47 Road 12, Banani, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-26
+Due Date: 2026-04-02
+Currency: AED
+Subtotal: 8108.05
+Tax: 0.0
+Total: 7727.65
+Balance Due: 7727.65
+Status: overdue

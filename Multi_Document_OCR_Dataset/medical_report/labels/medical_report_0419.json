@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QP3WQ371",
+  "patient_name": "Gwendolyn Fox",
+  "visit_date": "2024-11-29",
+  "doctor_name": "Dr. Felicia Sandoval",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0419"
+}

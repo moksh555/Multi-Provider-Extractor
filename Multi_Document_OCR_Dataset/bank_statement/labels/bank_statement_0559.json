@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1DEU3DB8",
+  "account_holder": "Sean Mendez",
+  "account_number_masked": "****8871",
+  "period_start": "2024-02-13",
+  "period_end": "2024-03-14",
+  "opening_balance": 4762.63,
+  "closing_balance": 5036.2,
+  "transactions": 12,
+  "sample_id": "bank_statement_0559"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Johnson
+License: DL678877040
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL678877040",
+  "full_name": "Jennifer Johnson",
+  "date_of_birth": "2001-11-17",
+  "class": "D",
+  "issue_date": "2021-11-19",
+  "expiry_date": "2026-11-19",
+  "address": "715 Julia Turnpike, Arnoldborough, PR 21653",
+  "sample_id": "driving_license_0686"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0175
+Company: Royal Diagnostics Center
+Company Address: 187 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: Smart Retail LLC
+Billing Address: 248 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-05-05
+Due Date: 2026-06-04
+Currency: QAR
+Subtotal: 653.1
+Tax: 64.0
+Total: 704.04
+Balance Due: 225.64
+Status: partial

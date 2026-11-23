@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-UOIH06D6",
+  "patient_name": "Shannon Ware",
+  "visit_date": "2026-12-11",
+  "doctor_name": "Dr. Jessica Brooks",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0616"
+}

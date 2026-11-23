@@ -1,0 +1,14 @@
+Medical Report MED-U16RIV8M
+Patient: Jeffery Haas
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-U16RIV8M",
+  "patient_name": "Jeffery Haas",
+  "visit_date": "2026-02-06",
+  "doctor_name": "Dr. Loretta Young",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0478"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-D3CMRYNH",
+  "account_holder": "John Rowe",
+  "account_number_masked": "****7402",
+  "period_start": "2024-10-17",
+  "period_end": "2024-11-16",
+  "opening_balance": 4512.26,
+  "closing_balance": 6895.21,
+  "transactions": 14,
+  "sample_id": "bank_statement_0733"
+}

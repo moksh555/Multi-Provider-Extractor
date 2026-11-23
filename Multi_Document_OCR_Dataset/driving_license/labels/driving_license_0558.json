@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL333955259",
+  "full_name": "Virginia Harding",
+  "date_of_birth": "2001-12-29",
+  "class": "A",
+  "issue_date": "2021-06-24",
+  "expiry_date": "2026-06-24",
+  "address": "910 Julie Field Suite 829, Robinsonborough, ID 89581",
+  "sample_id": "driving_license_0558"
+}

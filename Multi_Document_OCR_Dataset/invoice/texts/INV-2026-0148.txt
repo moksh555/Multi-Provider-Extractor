@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0148
+Company: Metro Print House
+Company Address: 13 Doha Business Park, Dubai, UAE
+Customer: TechPoint BD
+Billing Address: 189 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-03-25
+Due Date: 2026-05-09
+Currency: QAR
+Subtotal: 25901.62
+Tax: 3885.24
+Total: 29836.86
+Balance Due: 29836.86
+Status: unpaid

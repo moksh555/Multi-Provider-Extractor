@@ -1,0 +1,14 @@
+Medical Report MED-M6PY3LTU
+Patient: Kevin Suarez PhD
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-M6PY3LTU",
+  "patient_name": "Kevin Suarez PhD",
+  "visit_date": "2025-02-17",
+  "doctor_name": "Dr. Andrea Floyd",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0618"
+}

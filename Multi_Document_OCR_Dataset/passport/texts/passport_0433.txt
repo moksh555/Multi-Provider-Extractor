@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Patrick Chavez
+Passport No: P76036143
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P76036143",
+  "full_name": "Patrick Chavez",
+  "nationality": "GB",
+  "date_of_birth": "1996-04-06",
+  "issue_date": "2025-06-30",
+  "expiry_date": "2035-06-30",
+  "place_of_birth": "Hallfurt",
+  "sample_id": "passport_0433"
+}

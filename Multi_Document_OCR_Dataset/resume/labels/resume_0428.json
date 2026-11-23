@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Ian Poole",
+  "email": "paigeyoung@example.org",
+  "phone": "+1-940-322-4626",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "Machine Learning",
+    "NLP",
+    "Python",
+    "TensorFlow",
+    "Docker",
+    "AWS",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0428"
+}

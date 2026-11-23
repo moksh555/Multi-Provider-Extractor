@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RAM4BE52",
+  "merchant_name": "Price-Sparks",
+  "date": "2026-08-19",
+  "subtotal": 796.7,
+  "tax": 38.21,
+  "discount": 2.04,
+  "total": 832.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$57.34",
+      "line_total": "$57.34"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$35.13",
+      "line_total": "$70.26"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$18.29",
+      "line_total": "$54.87"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$20.65",
+      "line_total": "$61.95"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$32.53",
+      "line_total": "$130.12"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$73.70",
+      "line_total": "$221.10"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$45.55",
+      "line_total": "$91.10"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$54.98",
+      "line_total": "$109.96"
+    }
+  ],
+  "sample_id": "receipt_0338"
+}

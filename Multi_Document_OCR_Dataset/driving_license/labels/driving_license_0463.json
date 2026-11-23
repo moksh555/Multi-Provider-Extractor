@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL376811126",
+  "full_name": "Robert Flowers",
+  "date_of_birth": "1966-10-17",
+  "class": "C",
+  "issue_date": "2025-01-31",
+  "expiry_date": "2030-01-31",
+  "address": "6845 Ashley Bypass Apt. 259, Bairdborough, MO 08851",
+  "sample_id": "driving_license_0463"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0593
+Company: Eastern Care Pharmacy
+Company Address: 16 Road 12, Banani, Sylhet, Bangladesh
+Customer: Bengal Motors
+Billing Address: 168 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-02-08
+Due Date: 2026-03-25
+Currency: SAR
+Subtotal: 5798.55
+Tax: 521.87
+Total: 5740.56
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,55 @@
+Receipt RCT-UK5X6G2K
+Merchant: Wyatt-Harrison
+Date: 2026-07-15
+Total: $733.18
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UK5X6G2K",
+  "merchant_name": "Wyatt-Harrison",
+  "date": "2026-07-15",
+  "subtotal": 690.55,
+  "tax": 55.24,
+  "discount": 12.61,
+  "total": 733.18,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$72.95",
+      "line_total": "$218.85"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$68.78",
+      "line_total": "$275.12"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$10.18",
+      "line_total": "$30.54"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$37.26",
+      "line_total": "$37.26"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$52.33",
+      "line_total": "$104.66"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$24.12",
+      "line_total": "$24.12"
+    }
+  ],
+  "sample_id": "receipt_0816"
+}

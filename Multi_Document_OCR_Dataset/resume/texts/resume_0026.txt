@@ -1,0 +1,24 @@
+Resume
+Mary Diaz
+Machine Learning Engineer
+Skills: AWS, Machine Learning, NLP, Python, PyTorch, Computer Vision, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Mary Diaz",
+  "email": "jeffreygreen@example.org",
+  "phone": "7316158760",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "NLP",
+    "Python",
+    "PyTorch",
+    "Computer Vision",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0026"
+}

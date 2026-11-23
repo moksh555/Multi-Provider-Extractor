@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brittany Oliver
+Passport No: P12302196
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P12302196",
+  "full_name": "Brittany Oliver",
+  "nationality": "AE",
+  "date_of_birth": "1987-05-06",
+  "issue_date": "2022-02-08",
+  "expiry_date": "2032-02-08",
+  "place_of_birth": "New Kenneth",
+  "sample_id": "passport_0951"
+}

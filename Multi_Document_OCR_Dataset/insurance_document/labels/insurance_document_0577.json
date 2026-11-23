@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YO6Z1T2XC",
+  "policy_holder": "Justin Brown",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-10-07",
+  "expiry_date": "2027-10-07",
+  "premium": 1179.52,
+  "coverage_amount": 70473.64,
+  "beneficiary": "Cindy Sanders",
+  "sample_id": "insurance_document_0577"
+}

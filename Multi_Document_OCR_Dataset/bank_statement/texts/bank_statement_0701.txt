@@ -1,0 +1,16 @@
+Bank Statement STM-F9WTDNAP
+Holder: Ray Rosario
+Closing Balance: $6658.59
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F9WTDNAP",
+  "account_holder": "Ray Rosario",
+  "account_number_masked": "****8917",
+  "period_start": "2025-01-20",
+  "period_end": "2025-02-19",
+  "opening_balance": 3060.4,
+  "closing_balance": 6658.59,
+  "transactions": 9,
+  "sample_id": "bank_statement_0701"
+}

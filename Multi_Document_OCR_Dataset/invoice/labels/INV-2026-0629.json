@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0629",
+  "invoice_number": "INV-2026-0629",
+  "company_name": "Golden Harvest Store",
+  "company_address": "195 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "205 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-09",
+  "due_date": "2026-01-24",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 393.54,
+      "amount": 393.54
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 780.76,
+      "amount": 2342.28
+    },
+    {
+      "description": "API Integration",
+      "quantity": 4,
+      "unit_price": 485.54,
+      "amount": 1942.16
+    }
+  ],
+  "subtotal": 4677.98,
+  "discount": 233.9,
+  "tax_rate": 0.1,
+  "tax": 444.41,
+  "shipping": 50,
+  "total": 4938.49,
+  "amount_paid": 2388.85,
+  "balance_due": 2549.64,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801941936969",
+  "po_number": "PO-05043"
+}

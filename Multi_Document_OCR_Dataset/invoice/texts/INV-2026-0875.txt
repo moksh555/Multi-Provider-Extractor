@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0875
+Company: BrightStar Electronics
+Company Address: 56 Zindabazar Road, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 122 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-06-30
+Due Date: 2026-07-07
+Currency: BDT
+Subtotal: 3341.74
+Tax: 158.73
+Total: 3358.38
+Balance Due: 0.0
+Status: paid

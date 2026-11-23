@@ -1,0 +1,16 @@
+Insurance Policy POL-PIR7NZBXF
+Holder: Patricia Barnes
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PIR7NZBXF",
+  "policy_holder": "Patricia Barnes",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-07-21",
+  "expiry_date": "2026-07-21",
+  "premium": 2367.35,
+  "coverage_amount": 82210.02,
+  "beneficiary": "John Lopez",
+  "sample_id": "insurance_document_0635"
+}

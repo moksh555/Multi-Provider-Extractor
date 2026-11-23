@@ -1,0 +1,16 @@
+Synthetic Driving License
+Pamela Wheeler
+License: DL842768206
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL842768206",
+  "full_name": "Pamela Wheeler",
+  "date_of_birth": "1984-05-22",
+  "class": "C",
+  "issue_date": "2023-03-12",
+  "expiry_date": "2028-03-12",
+  "address": "7967 Hernandez Motorway Apt. 147, Hallberg, AK 13556",
+  "sample_id": "driving_license_0373"
+}

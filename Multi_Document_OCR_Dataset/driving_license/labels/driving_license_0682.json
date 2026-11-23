@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL633233698",
+  "full_name": "Michael Johnson",
+  "date_of_birth": "1968-12-26",
+  "class": "D",
+  "issue_date": "2020-01-13",
+  "expiry_date": "2025-01-13",
+  "address": "596 Forbes Brooks, Angelafort, IA 49690",
+  "sample_id": "driving_license_0682"
+}

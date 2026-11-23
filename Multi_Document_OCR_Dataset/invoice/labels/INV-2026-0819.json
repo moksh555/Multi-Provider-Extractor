@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0819",
+  "invoice_number": "INV-2026-0819",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "67 Dhanmondi 27, Doha, Qatar",
+  "customer_name": "Global Mart",
+  "billing_address": "82 Road 12, Banani, Doha, Qatar",
+  "invoice_date": "2026-01-23",
+  "due_date": "2026-02-22",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 353.86,
+      "amount": 2477.02
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 3,
+      "unit_price": 727.24,
+      "amount": 2181.72
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 12,
+      "unit_price": 611.43,
+      "amount": 7337.16
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 182.47,
+      "amount": 547.41
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 9.32,
+      "amount": 18.64
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 12,
+      "unit_price": 681.94,
+      "amount": 8183.28
+    }
+  ],
+  "subtotal": 20745.23,
+  "discount": 2074.52,
+  "tax_rate": 0.05,
+  "tax": 933.54,
+  "shipping": 25,
+  "total": 19629.25,
+  "amount_paid": 0,
+  "balance_due": 19629.25,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801740165396",
+  "po_number": "PO-82846"
+}

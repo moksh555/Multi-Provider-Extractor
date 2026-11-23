@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sarah Ochoa
+License: DL113159013
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL113159013",
+  "full_name": "Sarah Ochoa",
+  "date_of_birth": "1966-03-19",
+  "class": "C",
+  "issue_date": "2023-09-03",
+  "expiry_date": "2028-09-03",
+  "address": "08017 Olson Park Apt. 312, Scotttown, AS 36309",
+  "sample_id": "driving_license_0991"
+}

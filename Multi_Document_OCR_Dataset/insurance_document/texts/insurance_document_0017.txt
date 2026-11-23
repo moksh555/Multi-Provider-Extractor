@@ -1,0 +1,16 @@
+Insurance Policy POL-4874FRHOC
+Holder: April Frost
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4874FRHOC",
+  "policy_holder": "April Frost",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-01-05",
+  "expiry_date": "2024-01-05",
+  "premium": 2465.04,
+  "coverage_amount": 139949.5,
+  "beneficiary": "Michelle Harmon",
+  "sample_id": "insurance_document_0017"
+}

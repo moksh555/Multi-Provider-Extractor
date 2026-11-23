@@ -1,0 +1,16 @@
+Synthetic Driving License
+Rodney Bennett
+License: DL328341193
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL328341193",
+  "full_name": "Rodney Bennett",
+  "date_of_birth": "1972-07-02",
+  "class": "D",
+  "issue_date": "2023-04-22",
+  "expiry_date": "2028-04-22",
+  "address": "4906 Heather Mission, Lake Hannah, CA 84072",
+  "sample_id": "driving_license_0754"
+}

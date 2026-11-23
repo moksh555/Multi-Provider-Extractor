@@ -1,0 +1,16 @@
+Insurance Policy POL-RJNM2L44Y
+Holder: Anthony Watson
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RJNM2L44Y",
+  "policy_holder": "Anthony Watson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-10-03",
+  "expiry_date": "2024-10-03",
+  "premium": 835.14,
+  "coverage_amount": 374424.58,
+  "beneficiary": "Jonathan Gallegos",
+  "sample_id": "insurance_document_0251"
+}

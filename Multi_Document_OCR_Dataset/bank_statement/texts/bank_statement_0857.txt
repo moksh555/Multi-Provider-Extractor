@@ -1,0 +1,16 @@
+Bank Statement STM-S7YS7W07
+Holder: Luis Hart
+Closing Balance: $3634.59
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S7YS7W07",
+  "account_holder": "Luis Hart",
+  "account_number_masked": "****2218",
+  "period_start": "2026-03-17",
+  "period_end": "2026-04-16",
+  "opening_balance": 2433.36,
+  "closing_balance": 3634.59,
+  "transactions": 10,
+  "sample_id": "bank_statement_0857"
+}

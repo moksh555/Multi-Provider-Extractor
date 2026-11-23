@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0961
+Company: BlueRiver Trading Co.
+Company Address: 86 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 24 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-17
+Due Date: 2026-07-17
+Currency: BDT
+Subtotal: 9575.05
+Tax: 430.88
+Total: 9073.42
+Balance Due: 9073.42
+Status: overdue

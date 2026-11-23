@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0651
+Company: CityBanking Supplies
+Company Address: 125 Sheikh Zayed Road, Doha, Qatar
+Customer: Future School
+Billing Address: 157 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-04-27
+Due Date: 2026-05-04
+Currency: SAR
+Subtotal: 6558.11
+Tax: 655.81
+Total: 7223.92
+Balance Due: 0.0
+Status: paid

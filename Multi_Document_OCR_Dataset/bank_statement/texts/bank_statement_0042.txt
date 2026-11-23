@@ -1,0 +1,16 @@
+Bank Statement STM-20UC87NX
+Holder: Cynthia Taylor
+Closing Balance: $2810.26
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-20UC87NX",
+  "account_holder": "Cynthia Taylor",
+  "account_number_masked": "****4470",
+  "period_start": "2026-06-19",
+  "period_end": "2026-07-19",
+  "opening_balance": 3791.52,
+  "closing_balance": 2810.26,
+  "transactions": 13,
+  "sample_id": "bank_statement_0042"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL880614025",
+  "full_name": "Samantha Elliott",
+  "date_of_birth": "1978-04-14",
+  "class": "C",
+  "issue_date": "2026-02-16",
+  "expiry_date": "2031-02-16",
+  "address": "089 Robert Club, Port Tyler, CT 43578",
+  "sample_id": "driving_license_0401"
+}

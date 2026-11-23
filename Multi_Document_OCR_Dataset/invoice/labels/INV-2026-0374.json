@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0374",
+  "invoice_number": "INV-2026-0374",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "192 Road 12, Banani, Chattogram, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "64 Doha Business Park, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-19",
+  "due_date": "2026-03-05",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 11,
+      "unit_price": 184.99,
+      "amount": 2034.89
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 12,
+      "unit_price": 19.59,
+      "amount": 235.08
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 181.73,
+      "amount": 1090.38
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 3,
+      "unit_price": 617.87,
+      "amount": 1853.61
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 281.74,
+      "amount": 1690.44
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 563.32,
+      "amount": 3943.24
+    }
+  ],
+  "subtotal": 10847.64,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 813.57,
+  "shipping": 50,
+  "total": 11711.21,
+  "amount_paid": 0,
+  "balance_due": 11711.21,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801426238864",
+  "po_number": "PO-94241"
+}

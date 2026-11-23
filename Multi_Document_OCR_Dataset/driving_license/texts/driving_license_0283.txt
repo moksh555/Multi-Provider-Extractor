@@ -1,0 +1,16 @@
+Synthetic Driving License
+Angelica Singh
+License: DL470664930
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL470664930",
+  "full_name": "Angelica Singh",
+  "date_of_birth": "1977-11-21",
+  "class": "A",
+  "issue_date": "2024-03-08",
+  "expiry_date": "2029-03-08",
+  "address": "0514 Ruiz Isle, Lake Amanda, IL 72121",
+  "sample_id": "driving_license_0283"
+}

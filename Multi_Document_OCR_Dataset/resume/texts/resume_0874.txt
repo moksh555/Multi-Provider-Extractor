@@ -1,0 +1,25 @@
+Resume
+Kevin Ponce
+Machine Learning Engineer
+Skills: FastAPI, NLP, SQL, AWS, Python, Computer Vision, Streamlit, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Kevin Ponce",
+  "email": "vasquezjennifer@example.com",
+  "phone": "4706022796",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "FastAPI",
+    "NLP",
+    "SQL",
+    "AWS",
+    "Python",
+    "Computer Vision",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0874"
+}

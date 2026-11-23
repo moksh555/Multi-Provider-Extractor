@@ -1,0 +1,16 @@
+Synthetic Driving License
+Katherine Davis
+License: DL323737820
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL323737820",
+  "full_name": "Katherine Davis",
+  "date_of_birth": "1961-09-27",
+  "class": "A",
+  "issue_date": "2026-01-18",
+  "expiry_date": "2031-01-18",
+  "address": "1256 Roberts Locks Apt. 715, Marcusfurt, VI 67950",
+  "sample_id": "driving_license_0045"
+}

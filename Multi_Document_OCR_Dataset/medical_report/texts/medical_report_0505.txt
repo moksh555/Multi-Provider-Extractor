@@ -1,0 +1,14 @@
+Medical Report MED-NC41J6RW
+Patient: Brianna Warren
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-NC41J6RW",
+  "patient_name": "Brianna Warren",
+  "visit_date": "2024-05-30",
+  "doctor_name": "Dr. Rebecca Lewis",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0505"
+}

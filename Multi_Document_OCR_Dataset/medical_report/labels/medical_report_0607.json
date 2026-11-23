@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GQ32MUZ2",
+  "patient_name": "Gregory Smith",
+  "visit_date": "2025-09-16",
+  "doctor_name": "Dr. Dylan Webb",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0607"
+}

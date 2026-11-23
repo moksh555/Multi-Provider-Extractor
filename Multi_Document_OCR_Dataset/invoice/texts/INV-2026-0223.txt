@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0223
+Company: Nexus Digital Solutions
+Company Address: 132 Zindabazar Road, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 125 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-03-05
+Due Date: 2026-03-20
+Currency: QAR
+Subtotal: 4223.32
+Tax: 206.94
+Total: 4345.79
+Balance Due: 4345.79
+Status: unpaid

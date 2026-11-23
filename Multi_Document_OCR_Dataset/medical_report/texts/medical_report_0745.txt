@@ -1,0 +1,14 @@
+Medical Report MED-J4X4P7ZA
+Patient: Eric Smith
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-J4X4P7ZA",
+  "patient_name": "Eric Smith",
+  "visit_date": "2026-04-09",
+  "doctor_name": "Dr. William Benson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0745"
+}

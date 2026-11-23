@@ -1,0 +1,16 @@
+Bank Statement STM-0JW7KZKA
+Holder: Joshua Martinez
+Closing Balance: $7965.95
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0JW7KZKA",
+  "account_holder": "Joshua Martinez",
+  "account_number_masked": "****4479",
+  "period_start": "2024-01-28",
+  "period_end": "2024-02-27",
+  "opening_balance": 4266.01,
+  "closing_balance": 7965.95,
+  "transactions": 8,
+  "sample_id": "bank_statement_0801"
+}

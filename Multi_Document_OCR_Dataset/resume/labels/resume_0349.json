@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Stephanie Blevins",
+  "email": "maynardsamantha@example.net",
+  "phone": "(536)878-8387",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "NLP",
+    "Machine Learning",
+    "TensorFlow",
+    "Streamlit",
+    "Deep Learning",
+    "Pandas",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0349"
+}

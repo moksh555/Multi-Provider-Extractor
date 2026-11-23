@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B9O4ML15",
+  "account_holder": "Diana Owens",
+  "account_number_masked": "****3905",
+  "period_start": "2024-08-03",
+  "period_end": "2024-09-02",
+  "opening_balance": 660.25,
+  "closing_balance": 3561.69,
+  "transactions": 14,
+  "sample_id": "bank_statement_0905"
+}

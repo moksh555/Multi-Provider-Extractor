@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mary Galloway
+Passport No: P71119491
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P71119491",
+  "full_name": "Mary Galloway",
+  "nationality": "GB",
+  "date_of_birth": "1984-12-21",
+  "issue_date": "2022-04-19",
+  "expiry_date": "2032-04-19",
+  "place_of_birth": "Mullinsfort",
+  "sample_id": "passport_0257"
+}

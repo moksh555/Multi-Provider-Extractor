@@ -1,0 +1,55 @@
+Receipt RCT-NSMW5GYR
+Merchant: Little Group
+Date: 2023-01-15
+Total: $800.19
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NSMW5GYR",
+  "merchant_name": "Little Group",
+  "date": "2023-01-15",
+  "subtotal": 758.32,
+  "tax": 50.01,
+  "discount": 8.14,
+  "total": 800.19,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$13.64",
+      "line_total": "$27.28"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$19.42",
+      "line_total": "$77.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$73.78",
+      "line_total": "$295.12"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$63.79",
+      "line_total": "$191.37"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$45.81",
+      "line_total": "$137.43"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$7.36",
+      "line_total": "$29.44"
+    }
+  ],
+  "sample_id": "receipt_0637"
+}

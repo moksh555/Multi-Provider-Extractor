@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YFR3OP2L",
+  "account_holder": "Jonathan Potter",
+  "account_number_masked": "****8261",
+  "period_start": "2024-07-09",
+  "period_end": "2024-08-08",
+  "opening_balance": 3573.95,
+  "closing_balance": 5275.41,
+  "transactions": 12,
+  "sample_id": "bank_statement_0399"
+}

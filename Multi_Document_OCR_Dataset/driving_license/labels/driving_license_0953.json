@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL453318973",
+  "full_name": "Amanda Williamson",
+  "date_of_birth": "1995-03-08",
+  "class": "D",
+  "issue_date": "2022-07-11",
+  "expiry_date": "2027-07-11",
+  "address": "587 James Road, North Kelly, ID 57051",
+  "sample_id": "driving_license_0953"
+}

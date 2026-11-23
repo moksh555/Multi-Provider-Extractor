@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0955
+Company: Royal Diagnostics Center
+Company Address: 84 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: MediLife Hospital
+Billing Address: 114 Al Barsha, Dubai, UAE
+Invoice Date: 2026-05-15
+Due Date: 2026-05-22
+Currency: QAR
+Subtotal: 20271.72
+Tax: 962.91
+Total: 20231.04
+Balance Due: 20231.04
+Status: overdue

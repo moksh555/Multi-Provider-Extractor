@@ -1,0 +1,16 @@
+Bank Statement STM-FLVQARJZ
+Holder: Robert Brown PhD
+Closing Balance: $4719.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FLVQARJZ",
+  "account_holder": "Robert Brown PhD",
+  "account_number_masked": "****2469",
+  "period_start": "2025-08-29",
+  "period_end": "2025-09-28",
+  "opening_balance": 2661.11,
+  "closing_balance": 4719.88,
+  "transactions": 13,
+  "sample_id": "bank_statement_0196"
+}

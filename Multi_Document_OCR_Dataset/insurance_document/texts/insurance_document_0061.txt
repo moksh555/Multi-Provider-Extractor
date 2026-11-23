@@ -1,0 +1,16 @@
+Insurance Policy POL-JE153A5QB
+Holder: Kristen Garcia
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JE153A5QB",
+  "policy_holder": "Kristen Garcia",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-01-10",
+  "expiry_date": "2026-01-10",
+  "premium": 1601.87,
+  "coverage_amount": 254261.62,
+  "beneficiary": "Sarah Mitchell",
+  "sample_id": "insurance_document_0061"
+}

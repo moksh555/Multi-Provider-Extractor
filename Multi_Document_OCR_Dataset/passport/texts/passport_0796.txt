@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jonathan Mason
+Passport No: P65599031
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P65599031",
+  "full_name": "Jonathan Mason",
+  "nationality": "AE",
+  "date_of_birth": "1987-07-28",
+  "issue_date": "2022-01-03",
+  "expiry_date": "2032-01-03",
+  "place_of_birth": "North Timothy",
+  "sample_id": "passport_0796"
+}

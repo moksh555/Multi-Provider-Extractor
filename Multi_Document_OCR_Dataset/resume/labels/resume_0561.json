@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Daniel Richardson",
+  "email": "hannahmorris@example.com",
+  "phone": "+1-906-930-2282x93352",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "FastAPI",
+    "Machine Learning",
+    "Computer Vision",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0561"
+}

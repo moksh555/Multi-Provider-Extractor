@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL610248401",
+  "full_name": "Sheila Mendoza",
+  "date_of_birth": "1996-04-17",
+  "class": "B",
+  "issue_date": "2025-06-04",
+  "expiry_date": "2030-06-04",
+  "address": "8201 Julie Points, Brianhaven, IL 83164",
+  "sample_id": "driving_license_0833"
+}

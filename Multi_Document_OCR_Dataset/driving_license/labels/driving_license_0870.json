@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL617699959",
+  "full_name": "Jacob Scott",
+  "date_of_birth": "1997-07-04",
+  "class": "A",
+  "issue_date": "2026-01-16",
+  "expiry_date": "2031-01-16",
+  "address": "601 John Haven Suite 389, Lake Tyler, NC 00942",
+  "sample_id": "driving_license_0870"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0181",
+  "invoice_number": "INV-2026-0181",
+  "company_name": "Golden Harvest Store",
+  "company_address": "170 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "32 Road 12, Banani, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-01",
+  "due_date": "2026-03-18",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 609.73,
+      "amount": 6097.3
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 10,
+      "unit_price": 204.89,
+      "amount": 2048.9
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 5,
+      "unit_price": 569.55,
+      "amount": 2847.75
+    }
+  ],
+  "subtotal": 10993.95,
+  "discount": 219.88,
+  "tax_rate": 0.1,
+  "tax": 1077.41,
+  "shipping": 50,
+  "total": 11901.48,
+  "amount_paid": 11901.48,
+  "balance_due": 0.0,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801675235830",
+  "po_number": "PO-78008"
+}

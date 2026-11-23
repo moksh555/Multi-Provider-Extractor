@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0431
+Company: Royal Diagnostics Center
+Company Address: 192 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Al Noor Clinic
+Billing Address: 139 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-06-05
+Due Date: 2026-07-20
+Currency: BDT
+Subtotal: 12935.58
+Tax: 950.77
+Total: 13632.64
+Balance Due: 0.0
+Status: paid

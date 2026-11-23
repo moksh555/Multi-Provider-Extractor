@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL972248115",
+  "full_name": "Kathryn Rodriguez",
+  "date_of_birth": "2004-02-19",
+  "class": "C",
+  "issue_date": "2021-01-05",
+  "expiry_date": "2026-01-05",
+  "address": "37100 Camacho Mountains Suite 164, Lake Kimberlyside, VT 03610",
+  "sample_id": "driving_license_0688"
+}

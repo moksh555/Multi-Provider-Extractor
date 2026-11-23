@@ -1,0 +1,27 @@
+Resume
+Ralph Wallace MD
+Software Engineer
+Skills: Docker, Machine Learning, Pandas, TensorFlow, FastAPI, SQL, LangChain, Computer Vision, PyTorch, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Ralph Wallace MD",
+  "email": "qmccoy@example.org",
+  "phone": "463.801.1220x08484",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Docker",
+    "Machine Learning",
+    "Pandas",
+    "TensorFlow",
+    "FastAPI",
+    "SQL",
+    "LangChain",
+    "Computer Vision",
+    "PyTorch",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0192"
+}

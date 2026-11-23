@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J0YXIYQBV",
+  "policy_holder": "Sara Cruz",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-22",
+  "expiry_date": "2025-07-22",
+  "premium": 337.43,
+  "coverage_amount": 103106.94,
+  "beneficiary": "David Jenkins",
+  "sample_id": "insurance_document_0912"
+}

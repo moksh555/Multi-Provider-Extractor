@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SPM0OS2C",
+  "account_holder": "Kristi Golden",
+  "account_number_masked": "****0380",
+  "period_start": "2026-04-02",
+  "period_end": "2026-05-02",
+  "opening_balance": 2201.0,
+  "closing_balance": 4467.17,
+  "transactions": 11,
+  "sample_id": "bank_statement_0339"
+}

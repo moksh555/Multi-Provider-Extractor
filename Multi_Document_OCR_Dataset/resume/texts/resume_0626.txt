@@ -1,0 +1,24 @@
+Resume
+Tristan Mcgee
+Machine Learning Engineer
+Skills: LangChain, TensorFlow, Deep Learning, Docker, NLP, Python, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Tristan Mcgee",
+  "email": "mnichols@example.com",
+  "phone": "640.989.1205x994",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "LangChain",
+    "TensorFlow",
+    "Deep Learning",
+    "Docker",
+    "NLP",
+    "Python",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0626"
+}

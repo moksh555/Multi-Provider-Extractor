@@ -1,0 +1,14 @@
+Medical Report MED-L7LOBQZ8
+Patient: Bobby Hale
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-L7LOBQZ8",
+  "patient_name": "Bobby Hale",
+  "visit_date": "2024-06-20",
+  "doctor_name": "Dr. Anthony Wells",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0301"
+}

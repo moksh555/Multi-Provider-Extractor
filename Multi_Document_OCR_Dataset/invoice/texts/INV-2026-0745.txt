@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0745
+Company: PrimeSoft Technologies
+Company Address: 77 Motijheel C/A, Dhaka, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 118 Mirpur DOHS, Dubai, UAE
+Invoice Date: 2026-03-28
+Due Date: 2026-04-04
+Currency: AED
+Subtotal: 19525.77
+Tax: 878.66
+Total: 18476.85
+Balance Due: 4682.49
+Status: partial

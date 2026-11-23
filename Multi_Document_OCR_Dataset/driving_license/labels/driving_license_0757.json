@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL058117762",
+  "full_name": "Amanda Smith",
+  "date_of_birth": "1996-12-01",
+  "class": "D",
+  "issue_date": "2023-10-13",
+  "expiry_date": "2028-10-13",
+  "address": "57306 Hernandez Highway Apt. 323, Dianemouth, AK 58242",
+  "sample_id": "driving_license_0757"
+}

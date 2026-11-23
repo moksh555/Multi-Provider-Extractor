@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL597476754",
+  "full_name": "Julie Sharp",
+  "date_of_birth": "2000-05-13",
+  "class": "B",
+  "issue_date": "2025-01-13",
+  "expiry_date": "2030-01-13",
+  "address": "8835 Palmer Extensions, West Diana, OK 44972",
+  "sample_id": "driving_license_0601"
+}

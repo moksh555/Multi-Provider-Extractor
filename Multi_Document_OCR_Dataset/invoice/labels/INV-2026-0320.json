@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0320",
+  "invoice_number": "INV-2026-0320",
+  "company_name": "CityBanking Supplies",
+  "company_address": "188 Uttara Sector 7, Chattogram, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "217 Dhanmondi 27, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-25",
+  "due_date": "2026-02-24",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 227.35,
+      "amount": 682.05
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 4,
+      "unit_price": 303.71,
+      "amount": 1214.84
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 388.35,
+      "amount": 2330.1
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 9,
+      "unit_price": 225.04,
+      "amount": 2025.36
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 834.85,
+      "amount": 834.85
+    }
+  ],
+  "subtotal": 7087.2,
+  "discount": 141.74,
+  "tax_rate": 0.1,
+  "tax": 694.55,
+  "shipping": 0,
+  "total": 7640.01,
+  "amount_paid": 0,
+  "balance_due": 7640.01,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801319503095",
+  "po_number": "PO-89161"
+}

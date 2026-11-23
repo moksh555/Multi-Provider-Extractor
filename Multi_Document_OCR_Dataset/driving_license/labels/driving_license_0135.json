@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL374445130",
+  "full_name": "Kevin James",
+  "date_of_birth": "2001-10-16",
+  "class": "C",
+  "issue_date": "2025-10-20",
+  "expiry_date": "2030-10-20",
+  "address": "11426 Jodi Island Suite 110, Seanview, CT 17868",
+  "sample_id": "driving_license_0135"
+}

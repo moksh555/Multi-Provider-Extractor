@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jonathan Ramirez
+Passport No: P77155949
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P77155949",
+  "full_name": "Jonathan Ramirez",
+  "nationality": "AE",
+  "date_of_birth": "1992-08-18",
+  "issue_date": "2023-03-03",
+  "expiry_date": "2033-03-03",
+  "place_of_birth": "Butlerfort",
+  "sample_id": "passport_0618"
+}

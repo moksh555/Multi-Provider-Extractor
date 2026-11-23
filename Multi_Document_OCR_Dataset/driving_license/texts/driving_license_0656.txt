@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jessica Bailey
+License: DL027164406
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL027164406",
+  "full_name": "Jessica Bailey",
+  "date_of_birth": "1999-04-09",
+  "class": "D",
+  "issue_date": "2021-07-28",
+  "expiry_date": "2026-07-28",
+  "address": "5639 Patrick Fall Apt. 375, North Brenda, MA 12835",
+  "sample_id": "driving_license_0656"
+}

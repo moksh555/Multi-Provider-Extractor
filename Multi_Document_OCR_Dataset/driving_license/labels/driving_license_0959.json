@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL707645437",
+  "full_name": "Carlos Heath",
+  "date_of_birth": "1983-04-30",
+  "class": "A",
+  "issue_date": "2026-01-09",
+  "expiry_date": "2031-01-09",
+  "address": "5420 Jacqueline Way, Antonioton, DE 02710",
+  "sample_id": "driving_license_0959"
+}

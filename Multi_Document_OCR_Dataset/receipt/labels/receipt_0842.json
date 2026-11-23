@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AGULM5FQ",
+  "merchant_name": "Contreras Ltd",
+  "date": "2023-12-21",
+  "subtotal": 671.38,
+  "tax": 51.78,
+  "discount": 7.44,
+  "total": 715.72,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$60.30",
+      "line_total": "$120.60"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$7.21",
+      "line_total": "$14.42"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$12.24",
+      "line_total": "$12.24"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$22.71",
+      "line_total": "$22.71"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$29.28",
+      "line_total": "$117.12"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$12.77",
+      "line_total": "$38.31"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$72.58",
+      "line_total": "$290.32"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$55.66",
+      "line_total": "$55.66"
+    }
+  ],
+  "sample_id": "receipt_0842"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Terry Williams
+License: DL092971585
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL092971585",
+  "full_name": "Terry Williams",
+  "date_of_birth": "2003-12-04",
+  "class": "C",
+  "issue_date": "2021-01-26",
+  "expiry_date": "2026-01-26",
+  "address": "55333 Martin Groves Apt. 350, South David, MS 03833",
+  "sample_id": "driving_license_0710"
+}

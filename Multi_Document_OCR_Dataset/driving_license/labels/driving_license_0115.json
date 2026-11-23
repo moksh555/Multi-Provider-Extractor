@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL379677229",
+  "full_name": "Elizabeth Sharp",
+  "date_of_birth": "2002-01-28",
+  "class": "C",
+  "issue_date": "2022-03-05",
+  "expiry_date": "2027-03-05",
+  "address": "301 Parker Lodge Suite 145, East Susan, NJ 20579",
+  "sample_id": "driving_license_0115"
+}

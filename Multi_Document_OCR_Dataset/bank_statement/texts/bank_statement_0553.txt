@@ -1,0 +1,16 @@
+Bank Statement STM-RCWFBYAC
+Holder: Todd Li
+Closing Balance: $7434.55
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RCWFBYAC",
+  "account_holder": "Todd Li",
+  "account_number_masked": "****0304",
+  "period_start": "2025-03-17",
+  "period_end": "2025-04-16",
+  "opening_balance": 3893.96,
+  "closing_balance": 7434.55,
+  "transactions": 13,
+  "sample_id": "bank_statement_0553"
+}

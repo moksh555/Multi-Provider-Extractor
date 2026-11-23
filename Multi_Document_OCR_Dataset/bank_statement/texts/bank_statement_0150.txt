@@ -1,0 +1,16 @@
+Bank Statement STM-TH1FPHMZ
+Holder: Scott Allen
+Closing Balance: $4845.46
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TH1FPHMZ",
+  "account_holder": "Scott Allen",
+  "account_number_masked": "****4997",
+  "period_start": "2026-04-01",
+  "period_end": "2026-05-01",
+  "opening_balance": 3057.57,
+  "closing_balance": 4845.46,
+  "transactions": 9,
+  "sample_id": "bank_statement_0150"
+}

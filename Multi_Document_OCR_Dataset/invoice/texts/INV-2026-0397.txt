@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0397
+Company: BlueRiver Trading Co.
+Company Address: 34 Motijheel C/A, Sylhet, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 73 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-04-26
+Due Date: 2026-05-11
+Currency: AED
+Subtotal: 13804.62
+Tax: 1311.44
+Total: 14430.83
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0878",
+  "invoice_number": "INV-2026-0878",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "26 Dhanmondi 27, Sylhet, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "192 Motijheel C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-21",
+  "due_date": "2026-03-23",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 696.44,
+      "amount": 1392.88
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 99.13,
+      "amount": 594.78
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 487.0,
+      "amount": 3409.0
+    }
+  ],
+  "subtotal": 5396.66,
+  "discount": 269.83,
+  "tax_rate": 0.075,
+  "tax": 384.51,
+  "shipping": 10,
+  "total": 5521.34,
+  "amount_paid": 0,
+  "balance_due": 5521.34,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801759470767",
+  "po_number": "PO-97431"
+}

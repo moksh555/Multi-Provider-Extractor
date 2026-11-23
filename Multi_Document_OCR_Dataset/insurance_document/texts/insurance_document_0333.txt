@@ -1,0 +1,16 @@
+Insurance Policy POL-TGLHUG07G
+Holder: Eddie Warren
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TGLHUG07G",
+  "policy_holder": "Eddie Warren",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-04-25",
+  "expiry_date": "2025-04-25",
+  "premium": 1870.32,
+  "coverage_amount": 437643.82,
+  "beneficiary": "Jacob Smith",
+  "sample_id": "insurance_document_0333"
+}

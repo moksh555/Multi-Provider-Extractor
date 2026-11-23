@@ -1,0 +1,23 @@
+Resume
+Eric Roman
+Data Analyst
+Skills: Deep Learning, Docker, Python, LangChain, NLP, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Eric Roman",
+  "email": "tonyamorris@example.net",
+  "phone": "(599)701-8511x15673",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "Docker",
+    "Python",
+    "LangChain",
+    "NLP",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0518"
+}

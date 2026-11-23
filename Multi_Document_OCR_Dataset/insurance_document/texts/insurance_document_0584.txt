@@ -1,0 +1,16 @@
+Insurance Policy POL-9IY87HLCW
+Holder: Jonathan Ford
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9IY87HLCW",
+  "policy_holder": "Jonathan Ford",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-09-09",
+  "expiry_date": "2026-09-09",
+  "premium": 1148.04,
+  "coverage_amount": 21771.53,
+  "beneficiary": "Jasmine Buckley",
+  "sample_id": "insurance_document_0584"
+}

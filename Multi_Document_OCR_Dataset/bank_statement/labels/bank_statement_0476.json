@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H0XFJM4Q",
+  "account_holder": "Daniel Brown",
+  "account_number_masked": "****8426",
+  "period_start": "2025-11-06",
+  "period_end": "2025-12-06",
+  "opening_balance": 2365.48,
+  "closing_balance": 3414.61,
+  "transactions": 14,
+  "sample_id": "bank_statement_0476"
+}

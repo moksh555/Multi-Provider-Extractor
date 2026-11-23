@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QAOPKSS9",
+  "patient_name": "Alexander Lamb",
+  "visit_date": "2024-01-24",
+  "doctor_name": "Dr. Richard Davis DDS",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0235"
+}

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0052",
+  "invoice_number": "INV-2026-0052",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "21 Motijheel C/A, Dubai, UAE",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "60 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-15",
+  "due_date": "2026-01-30",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 658.48,
+      "amount": 6584.8
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 262.09,
+      "amount": 1048.36
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 11,
+      "unit_price": 446.89,
+      "amount": 4915.79
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 239.68,
+      "amount": 1198.4
+    }
+  ],
+  "subtotal": 13747.35,
+  "discount": 1374.74,
+  "tax_rate": 0.05,
+  "tax": 618.63,
+  "shipping": 25,
+  "total": 13016.24,
+  "amount_paid": 9427.14,
+  "balance_due": 3589.1,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801964499673",
+  "po_number": "PO-41374"
+}

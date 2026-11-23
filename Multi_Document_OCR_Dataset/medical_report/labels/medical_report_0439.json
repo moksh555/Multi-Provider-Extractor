@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-V8V9WY6I",
+  "patient_name": "Jennifer Frost",
+  "visit_date": "2025-06-06",
+  "doctor_name": "Dr. Karen Davis",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0439"
+}

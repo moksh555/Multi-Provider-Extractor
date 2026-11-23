@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0734",
+  "invoice_number": "INV-2026-0734",
+  "company_name": "BrightStar Electronics",
+  "company_address": "122 Doha Business Park, Dubai, UAE",
+  "customer_name": "Rahim Traders",
+  "billing_address": "27 Mirpur DOHS, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-08",
+  "due_date": "2026-02-23",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 9,
+      "unit_price": 593.17,
+      "amount": 5338.53
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 11.68,
+      "amount": 128.48
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 6,
+      "unit_price": 319.3,
+      "amount": 1915.8
+    },
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 288.36,
+      "amount": 2883.6
+    }
+  ],
+  "subtotal": 10266.41,
+  "discount": 205.33,
+  "tax_rate": 0.1,
+  "tax": 1006.11,
+  "shipping": 0,
+  "total": 11067.19,
+  "amount_paid": 8131.76,
+  "balance_due": 2935.43,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801744458372",
+  "po_number": "PO-14956"
+}

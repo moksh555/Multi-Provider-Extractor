@@ -1,0 +1,16 @@
+Insurance Policy POL-4DPJA1WJ0
+Holder: Marissa Webster
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4DPJA1WJ0",
+  "policy_holder": "Marissa Webster",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-12-16",
+  "expiry_date": "2027-12-16",
+  "premium": 1137.89,
+  "coverage_amount": 14738.15,
+  "beneficiary": "Christina Smith",
+  "sample_id": "insurance_document_0024"
+}

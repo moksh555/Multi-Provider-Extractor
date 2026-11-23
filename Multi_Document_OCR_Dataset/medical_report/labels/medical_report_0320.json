@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GLKEMHLW",
+  "patient_name": "Brianna Friedman",
+  "visit_date": "2026-02-11",
+  "doctor_name": "Dr. Linda Stanley MD",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0320"
+}

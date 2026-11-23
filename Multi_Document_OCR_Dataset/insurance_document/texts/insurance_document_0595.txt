@@ -1,0 +1,16 @@
+Insurance Policy POL-JG4IHGJD3
+Holder: George Weber
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JG4IHGJD3",
+  "policy_holder": "George Weber",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-02-15",
+  "expiry_date": "2026-02-15",
+  "premium": 1678.59,
+  "coverage_amount": 443655.65,
+  "beneficiary": "Jeffrey Hall",
+  "sample_id": "insurance_document_0595"
+}

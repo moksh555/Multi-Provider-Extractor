@@ -1,0 +1,14 @@
+Medical Report MED-Z2SJ8XXL
+Patient: Craig Blanchard
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Z2SJ8XXL",
+  "patient_name": "Craig Blanchard",
+  "visit_date": "2025-07-27",
+  "doctor_name": "Dr. Jennifer Smith",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0685"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LMMI9XDU",
+  "patient_name": "Anna Gross",
+  "visit_date": "2026-03-18",
+  "doctor_name": "Dr. Christine Moore",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0995"
+}

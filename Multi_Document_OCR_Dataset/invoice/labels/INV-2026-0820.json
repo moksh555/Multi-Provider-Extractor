@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0820",
+  "invoice_number": "INV-2026-0820",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "43 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "181 Mirpur DOHS, Sylhet, Bangladesh",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-07-22",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 4,
+      "unit_price": 45.68,
+      "amount": 182.72
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 11,
+      "unit_price": 415.51,
+      "amount": 4570.61
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 2,
+      "unit_price": 193.93,
+      "amount": 387.86
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 17.13,
+      "amount": 34.26
+    }
+  ],
+  "subtotal": 5175.45,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 388.16,
+  "shipping": 0,
+  "total": 5563.61,
+  "amount_paid": 5563.61,
+  "balance_due": 0.0,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801154398192",
+  "po_number": "PO-80264"
+}

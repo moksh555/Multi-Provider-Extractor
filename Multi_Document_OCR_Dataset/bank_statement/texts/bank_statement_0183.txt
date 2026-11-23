@@ -1,0 +1,16 @@
+Bank Statement STM-PSHOXXAO
+Holder: Alice Rodriguez
+Closing Balance: $7108.92
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PSHOXXAO",
+  "account_holder": "Alice Rodriguez",
+  "account_number_masked": "****8222",
+  "period_start": "2024-09-03",
+  "period_end": "2024-10-03",
+  "opening_balance": 2965.97,
+  "closing_balance": 7108.92,
+  "transactions": 9,
+  "sample_id": "bank_statement_0183"
+}

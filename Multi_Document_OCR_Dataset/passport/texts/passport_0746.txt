@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brittany Williams
+Passport No: P61533857
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P61533857",
+  "full_name": "Brittany Williams",
+  "nationality": "US",
+  "date_of_birth": "1989-07-02",
+  "issue_date": "2023-07-06",
+  "expiry_date": "2033-07-06",
+  "place_of_birth": "Perezfort",
+  "sample_id": "passport_0746"
+}

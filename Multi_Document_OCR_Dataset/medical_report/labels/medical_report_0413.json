@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-KMSNU42S",
+  "patient_name": "Rachel Humphrey",
+  "visit_date": "2026-09-28",
+  "doctor_name": "Dr. Tonya Bowers",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0413"
+}

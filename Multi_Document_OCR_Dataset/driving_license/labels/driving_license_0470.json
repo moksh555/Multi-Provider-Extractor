@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL067117540",
+  "full_name": "Joel Miller",
+  "date_of_birth": "1987-08-10",
+  "class": "D",
+  "issue_date": "2025-08-08",
+  "expiry_date": "2030-08-08",
+  "address": "74220 Gregory Crossing Suite 210, Ericstad, HI 28900",
+  "sample_id": "driving_license_0470"
+}

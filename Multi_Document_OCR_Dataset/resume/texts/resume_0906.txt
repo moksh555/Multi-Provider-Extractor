@@ -1,0 +1,23 @@
+Resume
+Melissa Lyons
+Computer Vision Engineer
+Skills: Streamlit, Deep Learning, TensorFlow, SQL, AWS, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Melissa Lyons",
+  "email": "justinlewis@example.net",
+  "phone": "(504)824-0817x4425",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "Deep Learning",
+    "TensorFlow",
+    "SQL",
+    "AWS",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0906"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "James Ross",
+  "email": "dguerra@example.com",
+  "phone": "(526)643-8500x95372",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "AWS",
+    "PyTorch",
+    "Computer Vision",
+    "Docker",
+    "Pandas",
+    "Machine Learning",
+    "NLP",
+    "SQL",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0112"
+}

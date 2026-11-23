@@ -1,0 +1,16 @@
+Insurance Policy POL-BIR1AJ8X2
+Holder: Tara Nolan
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BIR1AJ8X2",
+  "policy_holder": "Tara Nolan",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-18",
+  "expiry_date": "2024-07-18",
+  "premium": 622.34,
+  "coverage_amount": 397975.4,
+  "beneficiary": "Victoria Mercado",
+  "sample_id": "insurance_document_0641"
+}

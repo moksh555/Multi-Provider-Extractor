@@ -1,0 +1,16 @@
+Insurance Policy POL-NJ48VFCX7
+Holder: Samuel Wong
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NJ48VFCX7",
+  "policy_holder": "Samuel Wong",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-09-05",
+  "expiry_date": "2027-09-05",
+  "premium": 1782.38,
+  "coverage_amount": 202059.41,
+  "beneficiary": "Carly Riggs",
+  "sample_id": "insurance_document_0103"
+}

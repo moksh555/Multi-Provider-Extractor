@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HCYOU25VW",
+  "policy_holder": "Nancy Schmidt",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-11-12",
+  "expiry_date": "2027-11-12",
+  "premium": 2335.86,
+  "coverage_amount": 249875.12,
+  "beneficiary": "Tracy King",
+  "sample_id": "insurance_document_0560"
+}

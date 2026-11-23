@@ -1,0 +1,14 @@
+Medical Report MED-M9HWGIYQ
+Patient: Jennifer Martin
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-M9HWGIYQ",
+  "patient_name": "Jennifer Martin",
+  "visit_date": "2025-08-31",
+  "doctor_name": "Dr. Amber Gonzalez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0248"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0683
+Company: Nova Medical Supplies
+Company Address: 104 Jumeirah Lake Towers, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 194 Jumeirah Lake Towers, Sylhet, Bangladesh
+Invoice Date: 2026-02-19
+Due Date: 2026-02-26
+Currency: USD
+Subtotal: 9682.8
+Tax: 689.9
+Total: 9888.56
+Balance Due: 9888.56
+Status: overdue

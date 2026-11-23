@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL449926325",
+  "full_name": "Kevin Little",
+  "date_of_birth": "1999-01-01",
+  "class": "C",
+  "issue_date": "2020-02-18",
+  "expiry_date": "2025-02-18",
+  "address": "33736 Kevin Lane, Port Neil, OH 11610",
+  "sample_id": "driving_license_0458"
+}

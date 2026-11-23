@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RXYJ38XR",
+  "merchant_name": "Wilson, Hicks and Bullock",
+  "date": "2022-11-21",
+  "subtotal": 623.37,
+  "tax": 56.11,
+  "discount": 9.25,
+  "total": 670.23,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$12.06",
+      "line_total": "$24.12"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$73.44",
+      "line_total": "$146.88"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$67.29",
+      "line_total": "$67.29"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$61.38",
+      "line_total": "$61.38"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$67.56",
+      "line_total": "$135.12"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$56.87",
+      "line_total": "$56.87"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$40.95",
+      "line_total": "$81.90"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$49.81",
+      "line_total": "$49.81"
+    }
+  ],
+  "sample_id": "receipt_0075"
+}

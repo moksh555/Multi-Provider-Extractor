@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0280
+Company: SkyNet Office Mart
+Company Address: 169 Motijheel C/A, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 144 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-18
+Due Date: 2026-07-03
+Currency: USD
+Subtotal: 12306.18
+Tax: 0.0
+Total: 12356.18
+Balance Due: 12356.18
+Status: unpaid

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0751",
+  "invoice_number": "INV-2026-0751",
+  "company_name": "BrightStar Electronics",
+  "company_address": "115 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "TechPoint BD",
+  "billing_address": "186 Doha Business Park, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-04-13",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 825.64,
+      "amount": 6605.12
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 310.85,
+      "amount": 621.7
+    }
+  ],
+  "subtotal": 7226.82,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 542.01,
+  "shipping": 25,
+  "total": 7793.83,
+  "amount_paid": 7793.83,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801683623783",
+  "po_number": "PO-09268"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL593510435",
+  "full_name": "James Anderson",
+  "date_of_birth": "2001-09-27",
+  "class": "C",
+  "issue_date": "2025-09-29",
+  "expiry_date": "2030-09-29",
+  "address": "630 Adams Forge Suite 085, Emilychester, MO 58428",
+  "sample_id": "driving_license_0639"
+}

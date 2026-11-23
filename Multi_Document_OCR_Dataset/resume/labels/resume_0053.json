@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Kim Flynn",
+  "email": "campbelltodd@example.net",
+  "phone": "001-611-379-7269",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Python",
+    "NLP",
+    "LangChain",
+    "Machine Learning",
+    "Pandas",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0053"
+}

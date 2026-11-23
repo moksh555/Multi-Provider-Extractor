@@ -1,0 +1,25 @@
+Resume
+Wayne Mitchell
+Computer Vision Engineer
+Skills: AWS, FastAPI, Docker, SQL, Streamlit, LangChain, Pandas, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Wayne Mitchell",
+  "email": "nguyenjill@example.org",
+  "phone": "321-969-4353x286",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "AWS",
+    "FastAPI",
+    "Docker",
+    "SQL",
+    "Streamlit",
+    "LangChain",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0540"
+}

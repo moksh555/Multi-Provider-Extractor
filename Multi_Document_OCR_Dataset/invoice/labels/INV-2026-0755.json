@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0755",
+  "invoice_number": "INV-2026-0755",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "61 Road 12, Banani, Doha, Qatar",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "188 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-03-25",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 629.25,
+      "amount": 1887.75
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 5,
+      "unit_price": 16.09,
+      "amount": 80.45
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 176.63,
+      "amount": 1766.3
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 251.81,
+      "amount": 1007.24
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 10,
+      "unit_price": 218.93,
+      "amount": 2189.3
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 12,
+      "unit_price": 82.56,
+      "amount": 990.72
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 1,
+      "unit_price": 312.55,
+      "amount": 312.55
+    }
+  ],
+  "subtotal": 8234.31,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 411.72,
+  "shipping": 50,
+  "total": 8696.03,
+  "amount_paid": 2890.41,
+  "balance_due": 5805.62,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801550094908",
+  "po_number": "PO-69340"
+}

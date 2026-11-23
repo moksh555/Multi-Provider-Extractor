@@ -1,0 +1,16 @@
+Bank Statement STM-CWD7X2N8
+Holder: Rachel Howard
+Closing Balance: $2394.20
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CWD7X2N8",
+  "account_holder": "Rachel Howard",
+  "account_number_masked": "****9525",
+  "period_start": "2025-10-09",
+  "period_end": "2025-11-08",
+  "opening_balance": 2855.78,
+  "closing_balance": 2394.2,
+  "transactions": 8,
+  "sample_id": "bank_statement_0639"
+}

@@ -1,0 +1,24 @@
+Resume
+Anthony Neal
+Backend Developer
+Skills: LangChain, FastAPI, AWS, Docker, Deep Learning, TensorFlow, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Anthony Neal",
+  "email": "etran@example.net",
+  "phone": "001-246-670-1412",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "LangChain",
+    "FastAPI",
+    "AWS",
+    "Docker",
+    "Deep Learning",
+    "TensorFlow",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0687"
+}

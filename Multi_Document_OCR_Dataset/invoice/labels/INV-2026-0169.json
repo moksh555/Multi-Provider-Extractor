@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0169",
+  "invoice_number": "INV-2026-0169",
+  "company_name": "Delta Insurance Services",
+  "company_address": "120 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "56 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-23",
+  "due_date": "2026-07-08",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 5,
+      "unit_price": 206.28,
+      "amount": 1031.4
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 4,
+      "unit_price": 319.23,
+      "amount": 1276.92
+    }
+  ],
+  "subtotal": 2308.32,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 230.83,
+  "shipping": 50,
+  "total": 2589.15,
+  "amount_paid": 0,
+  "balance_due": 2589.15,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801401366777",
+  "po_number": "PO-20032"
+}

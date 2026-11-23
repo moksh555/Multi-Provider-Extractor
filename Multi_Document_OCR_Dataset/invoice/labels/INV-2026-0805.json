@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0805",
+  "invoice_number": "INV-2026-0805",
+  "company_name": "BrightStar Electronics",
+  "company_address": "177 Dhanmondi 27, Sylhet, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "181 Uttara Sector 7, Doha, Qatar",
+  "invoice_date": "2026-06-01",
+  "due_date": "2026-06-16",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 648.36,
+      "amount": 1945.08
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 12,
+      "unit_price": 347.74,
+      "amount": 4172.88
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 289.33,
+      "amount": 2314.64
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 412.91,
+      "amount": 412.91
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 11,
+      "unit_price": 801.44,
+      "amount": 8815.84
+    }
+  ],
+  "subtotal": 17661.35,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1324.6,
+  "shipping": 0,
+  "total": 18985.95,
+  "amount_paid": 18985.95,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801183021143",
+  "po_number": "PO-65266"
+}

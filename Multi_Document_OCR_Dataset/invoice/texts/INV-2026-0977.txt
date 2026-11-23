@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0977
+Company: Metro Print House
+Company Address: 161 Jumeirah Lake Towers, Dubai, UAE
+Customer: Future School
+Billing Address: 102 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-05-30
+Due Date: 2026-06-29
+Currency: SAR
+Subtotal: 8228.37
+Tax: 806.38
+Total: 8875.18
+Balance Due: 3221.66
+Status: partial

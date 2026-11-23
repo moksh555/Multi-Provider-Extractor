@@ -1,0 +1,16 @@
+Bank Statement STM-9I7ZFCTY
+Holder: Andrea Knight
+Closing Balance: $3545.71
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9I7ZFCTY",
+  "account_holder": "Andrea Knight",
+  "account_number_masked": "****3359",
+  "period_start": "2026-02-22",
+  "period_end": "2026-03-24",
+  "opening_balance": 2271.45,
+  "closing_balance": 3545.71,
+  "transactions": 9,
+  "sample_id": "bank_statement_0194"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GTX7U4GB",
+  "merchant_name": "Nielsen, Bishop and Kaiser",
+  "date": "2023-02-02",
+  "subtotal": 264.53,
+  "tax": 11.67,
+  "discount": 14.36,
+  "total": 261.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$70.69",
+      "line_total": "$212.07"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$23.08",
+      "line_total": "$23.08"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$14.69",
+      "line_total": "$29.38"
+    }
+  ],
+  "sample_id": "receipt_0705"
+}

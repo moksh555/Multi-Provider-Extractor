@@ -1,0 +1,27 @@
+Resume
+Christine Conley
+Backend Developer
+Skills: PyTorch, Streamlit, Computer Vision, SQL, LangChain, Pandas, AWS, FastAPI, TensorFlow, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Christine Conley",
+  "email": "traceyreynolds@example.com",
+  "phone": "+1-871-556-9220x94907",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "Streamlit",
+    "Computer Vision",
+    "SQL",
+    "LangChain",
+    "Pandas",
+    "AWS",
+    "FastAPI",
+    "TensorFlow",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0257"
+}

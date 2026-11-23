@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0296
+Company: CityBanking Supplies
+Company Address: 143 Uttara Sector 7, Dubai, UAE
+Customer: Digital Learning Hub
+Billing Address: 19 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-05-18
+Due Date: 2026-05-25
+Currency: QAR
+Subtotal: 23282.17
+Tax: 2211.81
+Total: 24329.87
+Balance Due: 0.0
+Status: paid

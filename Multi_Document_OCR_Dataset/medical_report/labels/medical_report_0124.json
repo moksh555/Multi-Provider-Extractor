@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ZJWLNM58",
+  "patient_name": "Eric Garrett",
+  "visit_date": "2026-10-24",
+  "doctor_name": "Dr. Tyler Lane",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0124"
+}

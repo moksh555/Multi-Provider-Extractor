@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0791",
+  "invoice_number": "INV-2026-0791",
+  "company_name": "Metro Print House",
+  "company_address": "98 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "TechPoint BD",
+  "billing_address": "55 Doha Business Park, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-09",
+  "due_date": "2026-05-24",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 164.34,
+      "amount": 1972.08
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 283.28,
+      "amount": 1133.12
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 824.74,
+      "amount": 6597.92
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 474.08,
+      "amount": 1422.24
+    }
+  ],
+  "subtotal": 11125.36,
+  "discount": 222.51,
+  "tax_rate": 0.05,
+  "tax": 545.14,
+  "shipping": 5,
+  "total": 11452.99,
+  "amount_paid": 0,
+  "balance_due": 11452.99,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801923555402",
+  "po_number": "PO-34975"
+}

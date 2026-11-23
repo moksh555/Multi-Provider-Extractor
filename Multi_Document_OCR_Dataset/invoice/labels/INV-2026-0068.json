@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0068",
+  "invoice_number": "INV-2026-0068",
+  "company_name": "Delta Insurance Services",
+  "company_address": "119 Dhanmondi 27, Chattogram, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "64 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-22",
+  "due_date": "2026-02-06",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 10,
+      "unit_price": 437.02,
+      "amount": 4370.2
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 5,
+      "unit_price": 552.07,
+      "amount": 2760.35
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 8,
+      "unit_price": 332.92,
+      "amount": 2663.36
+    }
+  ],
+  "subtotal": 9793.91,
+  "discount": 195.88,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 9598.03,
+  "amount_paid": 4797.01,
+  "balance_due": 4801.02,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801080333845",
+  "po_number": "PO-14905"
+}

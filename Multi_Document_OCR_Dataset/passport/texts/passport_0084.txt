@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Megan Hudson
+Passport No: P77914544
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P77914544",
+  "full_name": "Megan Hudson",
+  "nationality": "BD",
+  "date_of_birth": "1975-03-29",
+  "issue_date": "2022-09-09",
+  "expiry_date": "2032-09-09",
+  "place_of_birth": "Sarahtown",
+  "sample_id": "passport_0084"
+}

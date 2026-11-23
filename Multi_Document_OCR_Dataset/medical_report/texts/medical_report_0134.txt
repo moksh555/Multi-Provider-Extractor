@@ -1,0 +1,14 @@
+Medical Report MED-OSNP8DCW
+Patient: Patricia Lee
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OSNP8DCW",
+  "patient_name": "Patricia Lee",
+  "visit_date": "2024-06-15",
+  "doctor_name": "Dr. Shirley Steele",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0134"
+}

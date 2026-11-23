@@ -1,0 +1,16 @@
+Synthetic Driving License
+Loretta Gonzalez
+License: DL717812479
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL717812479",
+  "full_name": "Loretta Gonzalez",
+  "date_of_birth": "1993-02-18",
+  "class": "D",
+  "issue_date": "2021-05-01",
+  "expiry_date": "2026-05-01",
+  "address": "181 James Mountains, Port Williamfurt, AR 16467",
+  "sample_id": "driving_license_0598"
+}

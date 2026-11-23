@@ -1,0 +1,16 @@
+Synthetic Driving License
+Patricia Hawkins
+License: DL304888036
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL304888036",
+  "full_name": "Patricia Hawkins",
+  "date_of_birth": "1974-09-17",
+  "class": "A",
+  "issue_date": "2021-05-21",
+  "expiry_date": "2026-05-21",
+  "address": "PSC 8910, Box 7711, APO AP 80409",
+  "sample_id": "driving_license_0417"
+}

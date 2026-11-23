@@ -1,0 +1,14 @@
+Medical Report MED-DPCB79R4
+Patient: Travis Carter
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DPCB79R4",
+  "patient_name": "Travis Carter",
+  "visit_date": "2024-03-28",
+  "doctor_name": "Dr. Christine Johnson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0828"
+}

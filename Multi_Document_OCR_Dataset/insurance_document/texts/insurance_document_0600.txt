@@ -1,0 +1,16 @@
+Insurance Policy POL-W2XH6QIHP
+Holder: Natalie Roberts
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-W2XH6QIHP",
+  "policy_holder": "Natalie Roberts",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-03-16",
+  "expiry_date": "2027-03-16",
+  "premium": 494.16,
+  "coverage_amount": 422791.48,
+  "beneficiary": "Jay Jackson",
+  "sample_id": "insurance_document_0600"
+}

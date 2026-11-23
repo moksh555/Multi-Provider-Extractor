@@ -1,0 +1,16 @@
+Bank Statement STM-6KYLOQM1
+Holder: Kristin Riddle
+Closing Balance: $8076.07
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6KYLOQM1",
+  "account_holder": "Kristin Riddle",
+  "account_number_masked": "****8393",
+  "period_start": "2024-08-17",
+  "period_end": "2024-09-16",
+  "opening_balance": 4870.12,
+  "closing_balance": 8076.07,
+  "transactions": 14,
+  "sample_id": "bank_statement_0784"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL204293069",
+  "full_name": "Michael Woods",
+  "date_of_birth": "2004-04-29",
+  "class": "A",
+  "issue_date": "2021-09-02",
+  "expiry_date": "2026-09-02",
+  "address": "526 Wells Estates Apt. 306, West Stephaniebury, WA 88494",
+  "sample_id": "driving_license_0290"
+}

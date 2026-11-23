@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-327KSAUA",
+  "patient_name": "Mark Cannon",
+  "visit_date": "2026-09-06",
+  "doctor_name": "Dr. Gina Wright",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0001"
+}

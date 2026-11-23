@@ -1,0 +1,14 @@
+Medical Report MED-ZULNB4X5
+Patient: Kayla Zhang
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZULNB4X5",
+  "patient_name": "Kayla Zhang",
+  "visit_date": "2024-02-18",
+  "doctor_name": "Dr. Melissa Jones",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0929"
+}

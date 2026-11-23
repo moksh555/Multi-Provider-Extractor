@@ -1,0 +1,14 @@
+Medical Report MED-TI909N78
+Patient: Travis Miller
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TI909N78",
+  "patient_name": "Travis Miller",
+  "visit_date": "2026-05-27",
+  "doctor_name": "Dr. Richard Rios",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0008"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0015
+Company: Atlas Engineering Ltd.
+Company Address: 51 Zindabazar Road, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 149 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-05-28
+Due Date: 2026-07-12
+Currency: SAR
+Subtotal: 19164.58
+Tax: 0.0
+Total: 17253.12
+Balance Due: 17253.12
+Status: unpaid

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Joshua Horne",
+  "email": "morgan69@example.net",
+  "phone": "001-769-988-2904",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Deep Learning",
+    "FastAPI",
+    "SQL",
+    "AWS",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0002"
+}

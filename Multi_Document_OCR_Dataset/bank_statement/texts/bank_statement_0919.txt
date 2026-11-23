@@ -1,0 +1,16 @@
+Bank Statement STM-LQX5T2WF
+Holder: Angel Reeves
+Closing Balance: $5491.73
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LQX5T2WF",
+  "account_holder": "Angel Reeves",
+  "account_number_masked": "****1320",
+  "period_start": "2024-09-15",
+  "period_end": "2024-10-15",
+  "opening_balance": 4395.73,
+  "closing_balance": 5491.73,
+  "transactions": 8,
+  "sample_id": "bank_statement_0919"
+}

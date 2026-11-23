@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0877
+Company: Greenline Logistics
+Company Address: 148 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 11 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-05-31
+Due Date: 2026-06-07
+Currency: USD
+Subtotal: 17871.73
+Tax: 893.59
+Total: 18790.32
+Balance Due: 18790.32
+Status: overdue

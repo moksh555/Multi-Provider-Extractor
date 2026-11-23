@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Claudia Stark",
+  "email": "austin35@example.net",
+  "phone": "001-882-671-7320x31066",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Streamlit",
+    "Machine Learning",
+    "NLP",
+    "Pandas",
+    "Computer Vision",
+    "Python",
+    "SQL",
+    "TensorFlow",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0868"
+}

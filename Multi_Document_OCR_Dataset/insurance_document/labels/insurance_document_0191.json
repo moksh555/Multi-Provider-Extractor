@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NHEYR8LNO",
+  "policy_holder": "Yolanda Ford",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-12-13",
+  "expiry_date": "2025-12-13",
+  "premium": 957.72,
+  "coverage_amount": 234351.69,
+  "beneficiary": "Erin Bridges",
+  "sample_id": "insurance_document_0191"
+}

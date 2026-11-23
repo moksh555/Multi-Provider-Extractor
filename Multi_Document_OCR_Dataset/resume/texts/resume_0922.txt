@@ -1,0 +1,26 @@
+Resume
+Jessica Colon
+Machine Learning Engineer
+Skills: Machine Learning, Computer Vision, Python, AWS, Deep Learning, NLP, LangChain, TensorFlow, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Jessica Colon",
+  "email": "csanchez@example.org",
+  "phone": "285-689-3584",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Machine Learning",
+    "Computer Vision",
+    "Python",
+    "AWS",
+    "Deep Learning",
+    "NLP",
+    "LangChain",
+    "TensorFlow",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0922"
+}

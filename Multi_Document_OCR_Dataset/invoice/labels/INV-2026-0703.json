@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0703",
+  "invoice_number": "INV-2026-0703",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "147 Doha Business Park, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "23 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-01",
+  "due_date": "2026-05-16",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 289.29,
+      "amount": 2025.03
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 9,
+      "unit_price": 459.57,
+      "amount": 4136.13
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 411.01,
+      "amount": 2877.07
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 1,
+      "unit_price": 18.13,
+      "amount": 18.13
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 419.13,
+      "amount": 5029.56
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 12,
+      "unit_price": 545.46,
+      "amount": 6545.52
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 574.86,
+      "amount": 1149.72
+    }
+  ],
+  "subtotal": 21781.16,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1633.59,
+  "shipping": 5,
+  "total": 23419.75,
+  "amount_paid": 23419.75,
+  "balance_due": 0.0,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801112405770",
+  "po_number": "PO-50448"
+}

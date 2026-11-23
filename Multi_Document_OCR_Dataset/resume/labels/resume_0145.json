@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Diane West",
+  "email": "brooke93@example.org",
+  "phone": "239.797.9849x14986",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "Streamlit",
+    "AWS",
+    "SQL",
+    "LangChain",
+    "Docker",
+    "Python",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0145"
+}

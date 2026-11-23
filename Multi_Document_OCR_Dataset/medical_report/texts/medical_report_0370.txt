@@ -1,0 +1,14 @@
+Medical Report MED-ADGI8YA7
+Patient: Lisa Smith
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ADGI8YA7",
+  "patient_name": "Lisa Smith",
+  "visit_date": "2024-07-28",
+  "doctor_name": "Dr. Crystal Bauer",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0370"
+}

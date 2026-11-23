@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FLUL1RSRL",
+  "policy_holder": "Ronald Kramer",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-04",
+  "expiry_date": "2024-07-04",
+  "premium": 2369.65,
+  "coverage_amount": 257667.79,
+  "beneficiary": "Olivia Perez",
+  "sample_id": "insurance_document_0132"
+}

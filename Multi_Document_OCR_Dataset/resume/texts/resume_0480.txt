@@ -1,0 +1,25 @@
+Resume
+Jennifer Johnston
+Software Engineer
+Skills: Computer Vision, Docker, Streamlit, Machine Learning, PyTorch, Deep Learning, SQL, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Jennifer Johnston",
+  "email": "smithadam@example.org",
+  "phone": "+1-591-976-5324x4834",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Computer Vision",
+    "Docker",
+    "Streamlit",
+    "Machine Learning",
+    "PyTorch",
+    "Deep Learning",
+    "SQL",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0480"
+}

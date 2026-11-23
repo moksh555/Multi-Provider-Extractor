@@ -1,0 +1,14 @@
+Medical Report MED-1MBWCGH5
+Patient: Katherine Lawrence
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-1MBWCGH5",
+  "patient_name": "Katherine Lawrence",
+  "visit_date": "2026-11-16",
+  "doctor_name": "Dr. Renee Steele",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0542"
+}

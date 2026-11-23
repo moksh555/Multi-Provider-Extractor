@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LXK01KKI",
+  "patient_name": "Andrea Stone",
+  "visit_date": "2025-09-18",
+  "doctor_name": "Dr. Rachael Alvarez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0615"
+}

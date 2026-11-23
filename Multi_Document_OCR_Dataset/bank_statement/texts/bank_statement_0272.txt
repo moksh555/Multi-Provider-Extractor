@@ -1,0 +1,16 @@
+Bank Statement STM-8N59UL59
+Holder: Brian Thompson
+Closing Balance: $7056.77
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8N59UL59",
+  "account_holder": "Brian Thompson",
+  "account_number_masked": "****8626",
+  "period_start": "2025-07-23",
+  "period_end": "2025-08-22",
+  "opening_balance": 1958.92,
+  "closing_balance": 7056.77,
+  "transactions": 8,
+  "sample_id": "bank_statement_0272"
+}

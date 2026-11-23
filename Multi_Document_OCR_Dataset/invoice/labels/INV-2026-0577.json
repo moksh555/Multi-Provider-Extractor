@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0577",
+  "invoice_number": "INV-2026-0577",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "21 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "131 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-27",
+  "due_date": "2026-02-03",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 3,
+      "unit_price": 796.29,
+      "amount": 2388.87
+    },
+    {
+      "description": "Web Development",
+      "quantity": 1,
+      "unit_price": 175.1,
+      "amount": 175.1
+    }
+  ],
+  "subtotal": 2563.97,
+  "discount": 128.2,
+  "tax_rate": 0.075,
+  "tax": 182.68,
+  "shipping": 25,
+  "total": 2643.45,
+  "amount_paid": 2643.45,
+  "balance_due": 0.0,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801163950068",
+  "po_number": "PO-44082"
+}

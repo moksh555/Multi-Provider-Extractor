@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Todd Joseph
+Passport No: P04140736
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P04140736",
+  "full_name": "Todd Joseph",
+  "nationality": "BD",
+  "date_of_birth": "1990-08-19",
+  "issue_date": "2026-03-08",
+  "expiry_date": "2036-03-08",
+  "place_of_birth": "South Scottport",
+  "sample_id": "passport_0217"
+}

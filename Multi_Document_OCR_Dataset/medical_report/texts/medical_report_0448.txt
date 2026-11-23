@@ -1,0 +1,14 @@
+Medical Report MED-KB363AFZ
+Patient: Amanda Brown
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KB363AFZ",
+  "patient_name": "Amanda Brown",
+  "visit_date": "2026-06-08",
+  "doctor_name": "Dr. Joseph Fuentes",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0448"
+}

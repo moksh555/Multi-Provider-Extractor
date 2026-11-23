@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL281793028",
+  "full_name": "April Pace",
+  "date_of_birth": "1975-08-07",
+  "class": "D",
+  "issue_date": "2020-05-07",
+  "expiry_date": "2025-05-07",
+  "address": "650 Perez Unions Suite 659, South Dennisfort, WI 30976",
+  "sample_id": "driving_license_0240"
+}

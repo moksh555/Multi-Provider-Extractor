@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0233
+Company: Nexus Digital Solutions
+Company Address: 38 Mirpur DOHS, Dhaka, Bangladesh
+Customer: TechPoint BD
+Billing Address: 226 Al Barsha, Dhaka, Bangladesh
+Invoice Date: 2026-06-04
+Due Date: 2026-06-19
+Currency: QAR
+Subtotal: 18445.64
+Tax: 0.0
+Total: 17548.36
+Balance Due: 17548.36
+Status: unpaid

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL935215883",
+  "full_name": "Robert Peterson",
+  "date_of_birth": "1972-02-18",
+  "class": "B",
+  "issue_date": "2024-10-27",
+  "expiry_date": "2029-10-27",
+  "address": "PSC 2321, Box 9416, APO AP 02849",
+  "sample_id": "driving_license_0408"
+}

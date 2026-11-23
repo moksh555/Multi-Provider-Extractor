@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z6US7RP42",
+  "policy_holder": "Richard Walter",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-01-11",
+  "expiry_date": "2027-01-11",
+  "premium": 657.52,
+  "coverage_amount": 198367.7,
+  "beneficiary": "Timothy Johnson",
+  "sample_id": "insurance_document_0439"
+}

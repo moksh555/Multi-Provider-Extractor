@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SNWYWRRAT",
+  "policy_holder": "Casey Obrien",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-02-04",
+  "expiry_date": "2024-02-04",
+  "premium": 1380.01,
+  "coverage_amount": 144622.96,
+  "beneficiary": "Shannon Taylor",
+  "sample_id": "insurance_document_0169"
+}

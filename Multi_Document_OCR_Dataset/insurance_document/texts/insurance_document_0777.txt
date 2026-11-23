@@ -1,0 +1,16 @@
+Insurance Policy POL-E52S8U8ZF
+Holder: Patricia Robinson
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-E52S8U8ZF",
+  "policy_holder": "Patricia Robinson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-06-03",
+  "expiry_date": "2026-06-03",
+  "premium": 1512.84,
+  "coverage_amount": 49551.79,
+  "beneficiary": "Robert Benson",
+  "sample_id": "insurance_document_0777"
+}

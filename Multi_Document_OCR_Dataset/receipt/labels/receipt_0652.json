@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EAI7XK2J",
+  "merchant_name": "Johnston-Castaneda",
+  "date": "2024-06-12",
+  "subtotal": 623.94,
+  "tax": 30.97,
+  "discount": 2.49,
+  "total": 652.42,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$43.75",
+      "line_total": "$131.25"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$48.19",
+      "line_total": "$144.57"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$14.49",
+      "line_total": "$43.47"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$25.69",
+      "line_total": "$51.38"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$77.59",
+      "line_total": "$77.59"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$58.56",
+      "line_total": "$175.68"
+    }
+  ],
+  "sample_id": "receipt_0652"
+}

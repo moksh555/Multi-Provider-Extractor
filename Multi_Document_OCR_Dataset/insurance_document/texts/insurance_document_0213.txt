@@ -1,0 +1,16 @@
+Insurance Policy POL-4CDPQVL00
+Holder: Kevin Shannon
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4CDPQVL00",
+  "policy_holder": "Kevin Shannon",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-01-26",
+  "expiry_date": "2024-01-26",
+  "premium": 1804.8,
+  "coverage_amount": 353734.81,
+  "beneficiary": "Jenna Morris",
+  "sample_id": "insurance_document_0213"
+}

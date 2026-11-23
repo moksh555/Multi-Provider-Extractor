@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0246",
+  "invoice_number": "INV-2026-0246",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "21 Zindabazar Road, Dubai, UAE",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "31 Gulshan Avenue, Dubai, UAE",
+  "invoice_date": "2026-02-13",
+  "due_date": "2026-03-15",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 549.97,
+      "amount": 549.97
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 775.6,
+      "amount": 775.6
+    }
+  ],
+  "subtotal": 1325.57,
+  "discount": 132.56,
+  "tax_rate": 0.05,
+  "tax": 59.65,
+  "shipping": 5,
+  "total": 1257.66,
+  "amount_paid": 0,
+  "balance_due": 1257.66,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801848906008",
+  "po_number": "PO-72745"
+}

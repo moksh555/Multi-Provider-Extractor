@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0270",
+  "invoice_number": "INV-2026-0270",
+  "company_name": "Metro Print House",
+  "company_address": "121 Zindabazar Road, Dubai, UAE",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "180 Mirpur DOHS, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-16",
+  "due_date": "2026-02-23",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 277.81,
+      "amount": 1944.67
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 616.37,
+      "amount": 5547.33
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 203.57,
+      "amount": 407.14
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 6,
+      "unit_price": 48.66,
+      "amount": 291.96
+    }
+  ],
+  "subtotal": 8191.1,
+  "discount": 819.11,
+  "tax_rate": 0.15,
+  "tax": 1105.8,
+  "shipping": 25,
+  "total": 8502.79,
+  "amount_paid": 8502.79,
+  "balance_due": 0.0,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801584331187",
+  "po_number": "PO-92556"
+}

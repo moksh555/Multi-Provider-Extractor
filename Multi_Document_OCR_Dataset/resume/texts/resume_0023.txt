@@ -1,0 +1,23 @@
+Resume
+Colleen Raymond
+Backend Developer
+Skills: PyTorch, Machine Learning, NLP, Computer Vision, TensorFlow, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Colleen Raymond",
+  "email": "bakermegan@example.net",
+  "phone": "+1-341-596-6229",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "PyTorch",
+    "Machine Learning",
+    "NLP",
+    "Computer Vision",
+    "TensorFlow",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0023"
+}

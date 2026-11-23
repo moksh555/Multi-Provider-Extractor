@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0210
+Company: BrightStar Electronics
+Company Address: 172 Dhanmondi 27, Dhaka, Bangladesh
+Customer: Rahim Traders
+Billing Address: 249 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-06-23
+Due Date: 2026-08-07
+Currency: BDT
+Subtotal: 13617.45
+Tax: 1225.57
+Total: 13481.27
+Balance Due: 13481.27
+Status: overdue

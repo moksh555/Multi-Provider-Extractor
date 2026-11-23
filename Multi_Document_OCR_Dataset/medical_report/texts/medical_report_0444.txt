@@ -1,0 +1,14 @@
+Medical Report MED-O2VS0JYV
+Patient: Kelly Mccarthy
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-O2VS0JYV",
+  "patient_name": "Kelly Mccarthy",
+  "visit_date": "2024-12-13",
+  "doctor_name": "Dr. Valerie Rangel",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0444"
+}

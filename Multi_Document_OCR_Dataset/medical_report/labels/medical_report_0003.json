@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9I1H54OW",
+  "patient_name": "Brad Davidson",
+  "visit_date": "2026-03-18",
+  "doctor_name": "Dr. Melissa Barnes",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0003"
+}

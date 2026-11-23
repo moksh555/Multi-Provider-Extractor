@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: David Hall
+Passport No: P39229953
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P39229953",
+  "full_name": "David Hall",
+  "nationality": "AE",
+  "date_of_birth": "1997-11-11",
+  "issue_date": "2023-10-11",
+  "expiry_date": "2033-10-11",
+  "place_of_birth": "New Jason",
+  "sample_id": "passport_0010"
+}

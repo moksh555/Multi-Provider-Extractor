@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0141
+Company: Metro Print House
+Company Address: 119 Doha Business Park, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 198 Dhanmondi 27, Sylhet, Bangladesh
+Invoice Date: 2026-02-11
+Due Date: 2026-02-18
+Currency: AED
+Subtotal: 11932.87
+Tax: 1133.62
+Total: 12469.85
+Balance Due: 0.0
+Status: paid

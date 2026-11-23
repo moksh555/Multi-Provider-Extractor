@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4AZYTJXEP",
+  "policy_holder": "Robert Chase",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-01-07",
+  "expiry_date": "2024-01-07",
+  "premium": 2390.08,
+  "coverage_amount": 439167.94,
+  "beneficiary": "Matthew Fernandez",
+  "sample_id": "insurance_document_0009"
+}

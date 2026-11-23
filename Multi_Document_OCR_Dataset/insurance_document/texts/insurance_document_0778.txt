@@ -1,0 +1,16 @@
+Insurance Policy POL-HRM3WP8DJ
+Holder: Mary Lewis
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HRM3WP8DJ",
+  "policy_holder": "Mary Lewis",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-05-07",
+  "expiry_date": "2027-05-07",
+  "premium": 859.55,
+  "coverage_amount": 286314.73,
+  "beneficiary": "Christopher Bowman",
+  "sample_id": "insurance_document_0778"
+}

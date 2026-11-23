@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9T2D5EM2V",
+  "policy_holder": "Michael Lopez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-12-23",
+  "expiry_date": "2024-12-23",
+  "premium": 751.57,
+  "coverage_amount": 72111.69,
+  "beneficiary": "Franklin Wright",
+  "sample_id": "insurance_document_0083"
+}

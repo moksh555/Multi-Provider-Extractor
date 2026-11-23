@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0756",
+  "invoice_number": "INV-2026-0756",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "39 Agrabad C/A, Sylhet, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "190 Doha Business Park, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-09",
+  "due_date": "2026-04-08",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 7,
+      "unit_price": 590.58,
+      "amount": 4134.06
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 468.46,
+      "amount": 3279.22
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 423.58,
+      "amount": 1270.74
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 3,
+      "unit_price": 105.65,
+      "amount": 316.95
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 3,
+      "unit_price": 29.82,
+      "amount": 89.46
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 80.68,
+      "amount": 806.8
+    }
+  ],
+  "subtotal": 9897.23,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 494.86,
+  "shipping": 50,
+  "total": 10442.09,
+  "amount_paid": 10442.09,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801202053069",
+  "po_number": "PO-05503"
+}

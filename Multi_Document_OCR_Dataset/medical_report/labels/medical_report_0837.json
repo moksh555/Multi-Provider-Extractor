@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-MNPVNU0V",
+  "patient_name": "Alicia Cox",
+  "visit_date": "2026-01-12",
+  "doctor_name": "Dr. Jose Montgomery",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0837"
+}

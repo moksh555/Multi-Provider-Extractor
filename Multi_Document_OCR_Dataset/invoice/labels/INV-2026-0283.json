@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0283",
+  "invoice_number": "INV-2026-0283",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "34 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "219 Agrabad C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-06-14",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 9,
+      "unit_price": 19.93,
+      "amount": 179.37
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 7,
+      "unit_price": 713.36,
+      "amount": 4993.52
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 170.46,
+      "amount": 340.92
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 621.78,
+      "amount": 1865.34
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 381.34,
+      "amount": 1144.02
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 175.29,
+      "amount": 1752.9
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 153.64,
+      "amount": 1075.48
+    }
+  ],
+  "subtotal": 11351.55,
+  "discount": 1135.15,
+  "tax_rate": 0.05,
+  "tax": 510.82,
+  "shipping": 50,
+  "total": 10777.22,
+  "amount_paid": 7232.18,
+  "balance_due": 3545.04,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801351480909",
+  "po_number": "PO-10360"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-08ZZKK4J1
+Holder: Bernard Chang
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-08ZZKK4J1",
+  "policy_holder": "Bernard Chang",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-02-18",
+  "expiry_date": "2025-02-18",
+  "premium": 2381.5,
+  "coverage_amount": 281827.49,
+  "beneficiary": "Eric Walker",
+  "sample_id": "insurance_document_0991"
+}

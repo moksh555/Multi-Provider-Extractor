@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DD7R1930I",
+  "policy_holder": "Antonio Thompson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-02-25",
+  "expiry_date": "2026-02-25",
+  "premium": 1918.84,
+  "coverage_amount": 215827.52,
+  "beneficiary": "Pamela Mendoza",
+  "sample_id": "insurance_document_0792"
+}

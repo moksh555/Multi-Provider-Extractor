@@ -1,0 +1,16 @@
+Insurance Policy POL-UCJG8VUAZ
+Holder: Spencer Aguirre
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-UCJG8VUAZ",
+  "policy_holder": "Spencer Aguirre",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-06-25",
+  "expiry_date": "2024-06-25",
+  "premium": 635.49,
+  "coverage_amount": 307197.69,
+  "beneficiary": "Courtney Norris DVM",
+  "sample_id": "insurance_document_0317"
+}

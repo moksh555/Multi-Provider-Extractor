@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL820039907",
+  "full_name": "Jessica King",
+  "date_of_birth": "1994-07-27",
+  "class": "B",
+  "issue_date": "2022-02-15",
+  "expiry_date": "2027-02-15",
+  "address": "515 Wells Gateway Suite 257, Loritown, SD 79906",
+  "sample_id": "driving_license_0388"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0003
+Company: Metro Print House
+Company Address: 77 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 191 Jumeirah Lake Towers, Doha, Qatar
+Invoice Date: 2026-03-09
+Due Date: 2026-04-23
+Currency: QAR
+Subtotal: 4947.84
+Tax: 371.09
+Total: 5318.93
+Balance Due: 5318.93
+Status: overdue

@@ -1,0 +1,25 @@
+Resume
+Margaret Mcmahon
+Backend Developer
+Skills: TensorFlow, Pandas, AWS, Machine Learning, FastAPI, Python, Computer Vision, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Margaret Mcmahon",
+  "email": "cramirez@example.net",
+  "phone": "3987971733",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "Pandas",
+    "AWS",
+    "Machine Learning",
+    "FastAPI",
+    "Python",
+    "Computer Vision",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0576"
+}

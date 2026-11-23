@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0446
+Company: Delta Insurance Services
+Company Address: 18 Road 12, Banani, Dubai, UAE
+Customer: Karim Enterprise
+Billing Address: 247 Uttara Sector 7, Doha, Qatar
+Invoice Date: 2026-05-28
+Due Date: 2026-06-04
+Currency: USD
+Subtotal: 19664.93
+Tax: 2802.25
+Total: 21488.93
+Balance Due: 21488.93
+Status: overdue

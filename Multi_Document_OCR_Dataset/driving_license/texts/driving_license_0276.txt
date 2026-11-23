@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Schultz
+License: DL210968278
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL210968278",
+  "full_name": "Jennifer Schultz",
+  "date_of_birth": "1986-10-21",
+  "class": "B",
+  "issue_date": "2022-02-10",
+  "expiry_date": "2027-02-10",
+  "address": "398 Nicholas Plaza Suite 577, Smithton, LA 78588",
+  "sample_id": "driving_license_0276"
+}

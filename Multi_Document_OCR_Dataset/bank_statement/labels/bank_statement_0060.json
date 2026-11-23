@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-O2S9NBLG",
+  "account_holder": "Tracy Stewart",
+  "account_number_masked": "****2131",
+  "period_start": "2026-02-07",
+  "period_end": "2026-03-09",
+  "opening_balance": 3783.2,
+  "closing_balance": 7728.56,
+  "transactions": 12,
+  "sample_id": "bank_statement_0060"
+}

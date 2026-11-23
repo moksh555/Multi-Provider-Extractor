@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TOUBMMZH",
+  "account_holder": "Caroline Moore",
+  "account_number_masked": "****2254",
+  "period_start": "2025-02-18",
+  "period_end": "2025-03-20",
+  "opening_balance": 4583.48,
+  "closing_balance": 6439.69,
+  "transactions": 8,
+  "sample_id": "bank_statement_0643"
+}

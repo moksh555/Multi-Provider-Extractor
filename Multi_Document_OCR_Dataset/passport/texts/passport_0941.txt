@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Eric Johnson
+Passport No: P90137764
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P90137764",
+  "full_name": "Eric Johnson",
+  "nationality": "CA",
+  "date_of_birth": "1970-01-29",
+  "issue_date": "2025-02-26",
+  "expiry_date": "2035-02-26",
+  "place_of_birth": "East Christopherborough",
+  "sample_id": "passport_0941"
+}

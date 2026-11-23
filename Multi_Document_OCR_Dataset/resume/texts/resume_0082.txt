@@ -1,0 +1,24 @@
+Resume
+Jesus Decker
+Computer Vision Engineer
+Skills: Streamlit, SQL, NLP, Python, TensorFlow, Deep Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Jesus Decker",
+  "email": "nsingh@example.org",
+  "phone": "(208)254-8186x7463",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "SQL",
+    "NLP",
+    "Python",
+    "TensorFlow",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0082"
+}

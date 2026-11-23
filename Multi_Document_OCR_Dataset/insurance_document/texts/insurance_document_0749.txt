@@ -1,0 +1,16 @@
+Insurance Policy POL-TK0RSOGGY
+Holder: Ariel Miller
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TK0RSOGGY",
+  "policy_holder": "Ariel Miller",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-03-15",
+  "expiry_date": "2026-03-15",
+  "premium": 364.89,
+  "coverage_amount": 398645.08,
+  "beneficiary": "Richard Pugh",
+  "sample_id": "insurance_document_0749"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dr. Samantha Watson
+License: DL545207578
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL545207578",
+  "full_name": "Dr. Samantha Watson",
+  "date_of_birth": "1979-09-05",
+  "class": "B",
+  "issue_date": "2020-12-23",
+  "expiry_date": "2025-12-23",
+  "address": "29394 Becker Station, Jamieview, MT 90977",
+  "sample_id": "driving_license_0753"
+}

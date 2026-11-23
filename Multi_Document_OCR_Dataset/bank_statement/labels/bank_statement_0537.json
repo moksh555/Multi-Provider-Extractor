@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P9K02PSO",
+  "account_holder": "Lori Jones",
+  "account_number_masked": "****5190",
+  "period_start": "2025-04-04",
+  "period_end": "2025-05-04",
+  "opening_balance": 2833.34,
+  "closing_balance": 2253.53,
+  "transactions": 12,
+  "sample_id": "bank_statement_0537"
+}

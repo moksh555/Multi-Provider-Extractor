@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0560
+Company: Eastern Care Pharmacy
+Company Address: 137 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 109 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-05-15
+Due Date: 2026-06-29
+Currency: QAR
+Subtotal: 5498.45
+Tax: 412.38
+Total: 5960.83
+Balance Due: 0.0
+Status: paid

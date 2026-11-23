@@ -1,0 +1,27 @@
+Resume
+Robert Solomon
+Machine Learning Engineer
+Skills: PyTorch, Python, Computer Vision, TensorFlow, Streamlit, LangChain, Machine Learning, FastAPI, Pandas, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Robert Solomon",
+  "email": "robinsonpaul@example.com",
+  "phone": "8502630663",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "Python",
+    "Computer Vision",
+    "TensorFlow",
+    "Streamlit",
+    "LangChain",
+    "Machine Learning",
+    "FastAPI",
+    "Pandas",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0136"
+}

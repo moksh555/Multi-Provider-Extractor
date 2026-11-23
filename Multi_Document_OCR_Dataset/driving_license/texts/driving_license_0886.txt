@@ -1,0 +1,16 @@
+Synthetic Driving License
+Christopher Ray
+License: DL962582144
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL962582144",
+  "full_name": "Christopher Ray",
+  "date_of_birth": "1976-10-14",
+  "class": "C",
+  "issue_date": "2025-07-27",
+  "expiry_date": "2030-07-27",
+  "address": "706 John Rapids, Montgomerytown, WI 82342",
+  "sample_id": "driving_license_0886"
+}

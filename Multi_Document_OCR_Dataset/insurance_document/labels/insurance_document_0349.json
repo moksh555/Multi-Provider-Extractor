@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RAPKIANOU",
+  "policy_holder": "Paul Lamb",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-05-26",
+  "expiry_date": "2025-05-26",
+  "premium": 508.58,
+  "coverage_amount": 371187.75,
+  "beneficiary": "William Savage",
+  "sample_id": "insurance_document_0349"
+}

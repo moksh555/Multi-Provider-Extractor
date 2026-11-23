@@ -1,0 +1,16 @@
+Insurance Policy POL-TLCQFMUIW
+Holder: Jennifer Mendoza
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TLCQFMUIW",
+  "policy_holder": "Jennifer Mendoza",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-07-16",
+  "expiry_date": "2025-07-16",
+  "premium": 796.37,
+  "coverage_amount": 456640.25,
+  "beneficiary": "Shawn Hooper",
+  "sample_id": "insurance_document_0854"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FLC0ZO9V",
+  "patient_name": "Patricia Sanchez",
+  "visit_date": "2024-05-15",
+  "doctor_name": "Dr. Kristy Terry",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0113"
+}

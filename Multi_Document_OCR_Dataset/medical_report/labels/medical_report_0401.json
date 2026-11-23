@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FOWOZMLB",
+  "patient_name": "Gavin Rasmussen",
+  "visit_date": "2025-06-27",
+  "doctor_name": "Dr. Christine Malone",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0401"
+}

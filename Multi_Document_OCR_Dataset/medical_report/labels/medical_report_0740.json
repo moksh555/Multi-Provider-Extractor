@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IRUQ9478",
+  "patient_name": "Samantha Garcia",
+  "visit_date": "2024-05-20",
+  "doctor_name": "Dr. Lori Barton",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0740"
+}

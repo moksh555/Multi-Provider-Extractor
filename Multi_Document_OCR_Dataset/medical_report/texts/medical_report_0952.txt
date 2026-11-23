@@ -1,0 +1,14 @@
+Medical Report MED-LNGL8TVF
+Patient: Jennifer Berry
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LNGL8TVF",
+  "patient_name": "Jennifer Berry",
+  "visit_date": "2025-04-28",
+  "doctor_name": "Dr. Lisa Gray",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0952"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-RNYUYR3U
+Patient: Jaclyn Harmon
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RNYUYR3U",
+  "patient_name": "Jaclyn Harmon",
+  "visit_date": "2025-07-13",
+  "doctor_name": "Dr. Allen Jones",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0221"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0591
+Company: UrbanBuild Construction
+Company Address: 46 Doha Business Park, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 213 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-04-10
+Due Date: 2026-05-10
+Currency: AED
+Subtotal: 19152.34
+Tax: 957.62
+Total: 20159.96
+Balance Due: 20159.96
+Status: overdue

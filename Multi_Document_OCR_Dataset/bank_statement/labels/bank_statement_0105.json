@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1AC27X1C",
+  "account_holder": "Jessica Mejia",
+  "account_number_masked": "****0959",
+  "period_start": "2024-08-25",
+  "period_end": "2024-09-24",
+  "opening_balance": 3084.62,
+  "closing_balance": 7686.32,
+  "transactions": 8,
+  "sample_id": "bank_statement_0105"
+}

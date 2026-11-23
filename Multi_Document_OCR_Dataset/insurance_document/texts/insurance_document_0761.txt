@@ -1,0 +1,16 @@
+Insurance Policy POL-CU5X0HC8C
+Holder: Lauren Nolan
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CU5X0HC8C",
+  "policy_holder": "Lauren Nolan",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-10-05",
+  "expiry_date": "2027-10-05",
+  "premium": 634.4,
+  "coverage_amount": 411070.61,
+  "beneficiary": "Desiree Ali",
+  "sample_id": "insurance_document_0761"
+}

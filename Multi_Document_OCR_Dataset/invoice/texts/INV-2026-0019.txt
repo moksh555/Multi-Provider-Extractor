@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0019
+Company: Greenline Logistics
+Company Address: 39 Jumeirah Lake Towers, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 166 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-02-06
+Due Date: 2026-02-13
+Currency: USD
+Subtotal: 20175.11
+Tax: 1361.82
+Total: 19544.42
+Balance Due: 19544.42
+Status: unpaid

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL039728558",
+  "full_name": "Michael Welch",
+  "date_of_birth": "1980-11-25",
+  "class": "B",
+  "issue_date": "2023-09-07",
+  "expiry_date": "2028-09-07",
+  "address": "704 Bradley Flats, West Sarahhaven, MO 71677",
+  "sample_id": "driving_license_0088"
+}

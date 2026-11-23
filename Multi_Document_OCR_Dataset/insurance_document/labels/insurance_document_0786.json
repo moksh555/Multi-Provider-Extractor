@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-T3Y4WPWG3",
+  "policy_holder": "Stephanie Wolfe",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-12-16",
+  "expiry_date": "2024-12-16",
+  "premium": 1337.41,
+  "coverage_amount": 352818.04,
+  "beneficiary": "Brian Davis",
+  "sample_id": "insurance_document_0786"
+}

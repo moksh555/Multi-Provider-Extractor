@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ALL2UNCG",
+  "merchant_name": "Maxwell, Wiggins and Silva",
+  "date": "2026-08-03",
+  "subtotal": 297.3,
+  "tax": 33.94,
+  "discount": 13.32,
+  "total": 317.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$8.66",
+      "line_total": "$25.98"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$46.34",
+      "line_total": "$139.02"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$41.08",
+      "line_total": "$82.16"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$50.14",
+      "line_total": "$50.14"
+    }
+  ],
+  "sample_id": "receipt_0428"
+}

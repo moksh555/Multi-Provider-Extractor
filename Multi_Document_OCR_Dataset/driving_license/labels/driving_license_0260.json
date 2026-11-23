@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL012083346",
+  "full_name": "Julie Pitts",
+  "date_of_birth": "1968-03-05",
+  "class": "D",
+  "issue_date": "2026-02-06",
+  "expiry_date": "2031-02-06",
+  "address": "USCGC Taylor, FPO AP 71186",
+  "sample_id": "driving_license_0260"
+}

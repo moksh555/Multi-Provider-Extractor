@@ -1,0 +1,25 @@
+Resume
+Pamela Smith
+Software Engineer
+Skills: Machine Learning, NLP, PyTorch, Pandas, TensorFlow, Streamlit, AWS, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Pamela Smith",
+  "email": "matthew17@example.com",
+  "phone": "+1-205-284-9688x144",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "NLP",
+    "PyTorch",
+    "Pandas",
+    "TensorFlow",
+    "Streamlit",
+    "AWS",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0330"
+}

@@ -1,0 +1,26 @@
+Resume
+David Davis
+Data Analyst
+Skills: Python, Deep Learning, Docker, LangChain, Streamlit, AWS, TensorFlow, PyTorch, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "David Davis",
+  "email": "twade@example.com",
+  "phone": "(953)570-6272x816",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "Python",
+    "Deep Learning",
+    "Docker",
+    "LangChain",
+    "Streamlit",
+    "AWS",
+    "TensorFlow",
+    "PyTorch",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0212"
+}

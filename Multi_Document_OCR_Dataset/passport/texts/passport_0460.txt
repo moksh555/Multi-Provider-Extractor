@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Davis
+Passport No: P84920250
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P84920250",
+  "full_name": "Michael Davis",
+  "nationality": "CA",
+  "date_of_birth": "1985-11-09",
+  "issue_date": "2020-06-11",
+  "expiry_date": "2030-06-11",
+  "place_of_birth": "Floresside",
+  "sample_id": "passport_0460"
+}

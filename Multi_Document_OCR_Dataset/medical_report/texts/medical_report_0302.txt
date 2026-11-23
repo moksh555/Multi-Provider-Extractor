@@ -1,0 +1,14 @@
+Medical Report MED-UI3PD1JG
+Patient: Brian Allen
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-UI3PD1JG",
+  "patient_name": "Brian Allen",
+  "visit_date": "2024-09-26",
+  "doctor_name": "Dr. Shelby Johnson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0302"
+}

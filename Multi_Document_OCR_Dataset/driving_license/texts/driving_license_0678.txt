@@ -1,0 +1,16 @@
+Synthetic Driving License
+Whitney Gilbert
+License: DL074424111
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL074424111",
+  "full_name": "Whitney Gilbert",
+  "date_of_birth": "2003-08-23",
+  "class": "A",
+  "issue_date": "2022-01-15",
+  "expiry_date": "2027-01-15",
+  "address": "059 Lewis Mews, Julieburgh, KY 66241",
+  "sample_id": "driving_license_0678"
+}

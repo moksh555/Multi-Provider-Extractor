@@ -1,0 +1,16 @@
+Insurance Policy POL-M08TV4REA
+Holder: Susan Figueroa
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M08TV4REA",
+  "policy_holder": "Susan Figueroa",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-12-31",
+  "expiry_date": "2027-12-31",
+  "premium": 490.07,
+  "coverage_amount": 71920.5,
+  "beneficiary": "Mr. Thomas Jones PhD",
+  "sample_id": "insurance_document_0671"
+}

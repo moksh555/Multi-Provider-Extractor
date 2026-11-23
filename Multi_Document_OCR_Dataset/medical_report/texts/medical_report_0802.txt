@@ -1,0 +1,14 @@
+Medical Report MED-S2DBBF9N
+Patient: Maurice Moreno
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S2DBBF9N",
+  "patient_name": "Maurice Moreno",
+  "visit_date": "2025-10-08",
+  "doctor_name": "Dr. Stephen Werner DVM",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0802"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2H2ZQU7E",
+  "merchant_name": "Moore, Campbell and Clark",
+  "date": "2022-07-01",
+  "subtotal": 859.48,
+  "tax": 51.76,
+  "discount": 13.4,
+  "total": 897.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$49.40",
+      "line_total": "$197.60"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$71.88",
+      "line_total": "$287.52"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$21.48",
+      "line_total": "$85.92"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$61.50",
+      "line_total": "$184.50"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$22.69",
+      "line_total": "$45.38"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$19.52",
+      "line_total": "$58.56"
+    }
+  ],
+  "sample_id": "receipt_0018"
+}

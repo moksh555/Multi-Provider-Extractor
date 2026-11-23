@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0850",
+  "invoice_number": "INV-2026-0850",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "17 Uttara Sector 7, Chattogram, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "35 Zindabazar Road, Dubai, UAE",
+  "invoice_date": "2026-06-18",
+  "due_date": "2026-08-02",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 4,
+      "unit_price": 546.11,
+      "amount": 2184.44
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 5,
+      "unit_price": 680.0,
+      "amount": 3400.0
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 9,
+      "unit_price": 835.36,
+      "amount": 7518.24
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 8,
+      "unit_price": 533.68,
+      "amount": 4269.44
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 10,
+      "unit_price": 490.82,
+      "amount": 4908.2
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 7,
+      "unit_price": 716.53,
+      "amount": 5015.71
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 5,
+      "unit_price": 401.31,
+      "amount": 2006.55
+    }
+  ],
+  "subtotal": 29302.58,
+  "discount": 2930.26,
+  "tax_rate": 0.075,
+  "tax": 1977.92,
+  "shipping": 5,
+  "total": 28355.24,
+  "amount_paid": 0,
+  "balance_due": 28355.24,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801196057210",
+  "po_number": "PO-23335"
+}

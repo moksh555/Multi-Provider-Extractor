@@ -1,0 +1,16 @@
+Bank Statement STM-HCZTGZOH
+Holder: Kelly Brock
+Closing Balance: $5349.49
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HCZTGZOH",
+  "account_holder": "Kelly Brock",
+  "account_number_masked": "****9905",
+  "period_start": "2024-05-28",
+  "period_end": "2024-06-27",
+  "opening_balance": 1502.7,
+  "closing_balance": 5349.49,
+  "transactions": 12,
+  "sample_id": "bank_statement_0129"
+}

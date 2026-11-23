@@ -1,0 +1,14 @@
+Medical Report MED-7YXKSHPH
+Patient: Mark Gonzalez
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7YXKSHPH",
+  "patient_name": "Mark Gonzalez",
+  "visit_date": "2026-11-13",
+  "doctor_name": "Dr. Shannon Dean",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0662"
+}

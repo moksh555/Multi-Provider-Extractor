@@ -1,0 +1,49 @@
+Receipt RCT-P6U3U6H0
+Merchant: Oliver PLC
+Date: 2022-08-16
+Total: $639.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-P6U3U6H0",
+  "merchant_name": "Oliver PLC",
+  "date": "2022-08-16",
+  "subtotal": 585.85,
+  "tax": 62.78,
+  "discount": 9.51,
+  "total": 639.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$12.89",
+      "line_total": "$12.89"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$40.46",
+      "line_total": "$80.92"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$63.57",
+      "line_total": "$63.57"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$42.13",
+      "line_total": "$126.39"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$75.52",
+      "line_total": "$302.08"
+    }
+  ],
+  "sample_id": "receipt_0318"
+}

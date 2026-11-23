@@ -1,0 +1,37 @@
+Receipt RCT-VIJZX4XV
+Merchant: Richardson-Hunt
+Date: 2026-02-04
+Total: $293.15
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VIJZX4XV",
+  "merchant_name": "Richardson-Hunt",
+  "date": "2026-02-04",
+  "subtotal": 285.01,
+  "tax": 13.45,
+  "discount": 5.31,
+  "total": 293.15,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$4.49",
+      "line_total": "$13.47"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$37.36",
+      "line_total": "$112.08"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$79.73",
+      "line_total": "$159.46"
+    }
+  ],
+  "sample_id": "receipt_0768"
+}

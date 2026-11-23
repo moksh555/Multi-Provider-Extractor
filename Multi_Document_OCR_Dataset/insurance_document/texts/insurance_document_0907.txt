@@ -1,0 +1,16 @@
+Insurance Policy POL-YF2EV4JI4
+Holder: William Fuentes
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YF2EV4JI4",
+  "policy_holder": "William Fuentes",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-09-12",
+  "expiry_date": "2025-09-12",
+  "premium": 473.1,
+  "coverage_amount": 15912.69,
+  "beneficiary": "Rhonda Kennedy",
+  "sample_id": "insurance_document_0907"
+}

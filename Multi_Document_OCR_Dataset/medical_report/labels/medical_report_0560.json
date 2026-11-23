@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IY6A9WSL",
+  "patient_name": "Steven Ruiz",
+  "visit_date": "2025-04-30",
+  "doctor_name": "Dr. Deborah Osborne",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0560"
+}

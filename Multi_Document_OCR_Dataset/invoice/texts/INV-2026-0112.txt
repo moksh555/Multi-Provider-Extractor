@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0112
+Company: SkyNet Office Mart
+Company Address: 146 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Smart Retail LLC
+Billing Address: 237 Uttara Sector 7, Dubai, UAE
+Invoice Date: 2026-03-18
+Due Date: 2026-03-25
+Currency: SAR
+Subtotal: 3383.34
+Tax: 507.5
+Total: 3890.84
+Balance Due: 1527.28
+Status: partial

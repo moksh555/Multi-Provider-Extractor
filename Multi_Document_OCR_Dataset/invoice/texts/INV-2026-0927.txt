@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0927
+Company: PrimeSoft Technologies
+Company Address: 15 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 218 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-04-23
+Due Date: 2026-05-08
+Currency: QAR
+Subtotal: 12080.2
+Tax: 1147.62
+Total: 12648.81
+Balance Due: 4266.62
+Status: partial

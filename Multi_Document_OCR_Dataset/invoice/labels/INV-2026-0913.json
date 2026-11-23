@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0913",
+  "invoice_number": "INV-2026-0913",
+  "company_name": "Greenline Logistics",
+  "company_address": "172 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "171 Doha Business Park, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-18",
+  "due_date": "2026-07-03",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 12,
+      "unit_price": 285.88,
+      "amount": 3430.56
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 498.08,
+      "amount": 996.16
+    },
+    {
+      "description": "Web Development",
+      "quantity": 1,
+      "unit_price": 692.79,
+      "amount": 692.79
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 318.83,
+      "amount": 318.83
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 475.69,
+      "amount": 3805.52
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 113.93,
+      "amount": 227.86
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 6,
+      "unit_price": 135.78,
+      "amount": 814.68
+    }
+  ],
+  "subtotal": 10286.4,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 771.48,
+  "shipping": 25,
+  "total": 11082.88,
+  "amount_paid": 4389.43,
+  "balance_due": 6693.45,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801651792510",
+  "po_number": "PO-73244"
+}

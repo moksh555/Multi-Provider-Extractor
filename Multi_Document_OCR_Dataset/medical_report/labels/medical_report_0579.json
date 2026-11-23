@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-50VSM7M2",
+  "patient_name": "Amanda Mercado",
+  "visit_date": "2024-10-27",
+  "doctor_name": "Dr. Jasmine Evans",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0579"
+}

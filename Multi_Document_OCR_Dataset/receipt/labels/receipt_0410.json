@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MJEQA2O4",
+  "merchant_name": "Richards-Mack",
+  "date": "2024-12-23",
+  "subtotal": 664.1,
+  "tax": 34.81,
+  "discount": 8.47,
+  "total": 690.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$35.30",
+      "line_total": "$35.30"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$79.98",
+      "line_total": "$159.96"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$70.20",
+      "line_total": "$280.80"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$58.64",
+      "line_total": "$175.92"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$12.12",
+      "line_total": "$12.12"
+    }
+  ],
+  "sample_id": "receipt_0410"
+}

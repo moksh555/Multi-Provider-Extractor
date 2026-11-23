@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AGS1KWQJ",
+  "account_holder": "Robert Williams",
+  "account_number_masked": "****9866",
+  "period_start": "2025-10-17",
+  "period_end": "2025-11-16",
+  "opening_balance": 3894.79,
+  "closing_balance": 7539.34,
+  "transactions": 10,
+  "sample_id": "bank_statement_0152"
+}

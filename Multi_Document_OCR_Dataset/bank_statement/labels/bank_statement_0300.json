@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MP4NVV78",
+  "account_holder": "Daniel Kaufman",
+  "account_number_masked": "****6265",
+  "period_start": "2026-04-15",
+  "period_end": "2026-05-15",
+  "opening_balance": 804.56,
+  "closing_balance": 4932.33,
+  "transactions": 12,
+  "sample_id": "bank_statement_0300"
+}

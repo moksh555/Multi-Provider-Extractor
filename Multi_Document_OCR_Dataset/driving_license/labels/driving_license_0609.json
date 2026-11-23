@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL340629397",
+  "full_name": "Jason Gonzalez",
+  "date_of_birth": "1998-01-06",
+  "class": "D",
+  "issue_date": "2026-03-23",
+  "expiry_date": "2031-03-23",
+  "address": "38503 Jones Port, West Tinachester, PA 97401",
+  "sample_id": "driving_license_0609"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-C8J6E07FP",
+  "policy_holder": "Susan Vasquez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-11-01",
+  "expiry_date": "2025-11-01",
+  "premium": 145.63,
+  "coverage_amount": 67473.09,
+  "beneficiary": "Daniel Crosby",
+  "sample_id": "insurance_document_0953"
+}

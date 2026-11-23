@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL549687892",
+  "full_name": "Kevin Anderson",
+  "date_of_birth": "2002-04-17",
+  "class": "B",
+  "issue_date": "2025-05-26",
+  "expiry_date": "2030-05-26",
+  "address": "07100 Sara Squares Suite 672, East Danielle, NC 59538",
+  "sample_id": "driving_license_0338"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7NL8J31W",
+  "account_holder": "Ashley Thomas",
+  "account_number_masked": "****0502",
+  "period_start": "2025-10-18",
+  "period_end": "2025-11-17",
+  "opening_balance": 1439.75,
+  "closing_balance": 5271.28,
+  "transactions": 11,
+  "sample_id": "bank_statement_0298"
+}

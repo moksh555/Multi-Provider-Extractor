@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LDS7GOWH",
+  "patient_name": "Denise Leon",
+  "visit_date": "2025-11-25",
+  "doctor_name": "Dr. Elijah Smith",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0508"
+}

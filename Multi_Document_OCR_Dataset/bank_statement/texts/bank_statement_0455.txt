@@ -1,0 +1,16 @@
+Bank Statement STM-NCKRPEQW
+Holder: Jason Lucero
+Closing Balance: $578.01
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-NCKRPEQW",
+  "account_holder": "Jason Lucero",
+  "account_number_masked": "****2894",
+  "period_start": "2026-07-15",
+  "period_end": "2026-08-14",
+  "opening_balance": 548.58,
+  "closing_balance": 578.01,
+  "transactions": 11,
+  "sample_id": "bank_statement_0455"
+}

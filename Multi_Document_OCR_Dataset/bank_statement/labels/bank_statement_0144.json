@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LMDZ5VAI",
+  "account_holder": "Gabriela Gonzalez",
+  "account_number_masked": "****3401",
+  "period_start": "2024-09-18",
+  "period_end": "2024-10-18",
+  "opening_balance": 3462.85,
+  "closing_balance": 5821.34,
+  "transactions": 8,
+  "sample_id": "bank_statement_0144"
+}

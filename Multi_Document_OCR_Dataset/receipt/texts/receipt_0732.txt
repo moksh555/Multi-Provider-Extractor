@@ -1,0 +1,37 @@
+Receipt RCT-6EBJVNFO
+Merchant: Castro, Sherman and Medina
+Date: 2022-06-12
+Total: $405.33
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6EBJVNFO",
+  "merchant_name": "Castro, Sherman and Medina",
+  "date": "2022-06-12",
+  "subtotal": 386.56,
+  "tax": 32.12,
+  "discount": 13.35,
+  "total": 405.33,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$32.45",
+      "line_total": "$129.80"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$14.98",
+      "line_total": "$59.92"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$49.21",
+      "line_total": "$196.84"
+    }
+  ],
+  "sample_id": "receipt_0732"
+}

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-APBS22RU",
+  "merchant_name": "Drake, Collins and Cohen",
+  "date": "2021-10-02",
+  "subtotal": 801.66,
+  "tax": 45.25,
+  "discount": 9.36,
+  "total": 837.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$77.96",
+      "line_total": "$77.96"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$64.09",
+      "line_total": "$128.18"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$49.19",
+      "line_total": "$196.76"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$61.60",
+      "line_total": "$61.60"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$37.79",
+      "line_total": "$113.37"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$6.77",
+      "line_total": "$20.31"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$42.69",
+      "line_total": "$170.76"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$32.72",
+      "line_total": "$32.72"
+    }
+  ],
+  "sample_id": "receipt_0407"
+}

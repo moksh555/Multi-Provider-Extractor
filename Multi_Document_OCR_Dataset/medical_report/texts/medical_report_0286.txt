@@ -1,0 +1,14 @@
+Medical Report MED-2O8MY4C3
+Patient: Katherine Ramos
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2O8MY4C3",
+  "patient_name": "Katherine Ramos",
+  "visit_date": "2026-06-15",
+  "doctor_name": "Dr. Samuel Yang",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0286"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OPEYP78B",
+  "account_holder": "Latasha Washington",
+  "account_number_masked": "****6433",
+  "period_start": "2026-02-25",
+  "period_end": "2026-03-27",
+  "opening_balance": 2189.75,
+  "closing_balance": 880.3,
+  "transactions": 12,
+  "sample_id": "bank_statement_0734"
+}

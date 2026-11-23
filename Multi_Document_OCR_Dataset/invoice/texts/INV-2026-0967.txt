@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0967
+Company: Eastern Care Pharmacy
+Company Address: 72 Sheikh Zayed Road, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 47 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-03-06
+Due Date: 2026-04-20
+Currency: SAR
+Subtotal: 12304.61
+Tax: 922.85
+Total: 13237.46
+Balance Due: 13237.46
+Status: overdue

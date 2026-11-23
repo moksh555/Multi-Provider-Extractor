@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3C6SCIVUQ",
+  "policy_holder": "Catherine White",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-04-15",
+  "expiry_date": "2024-04-15",
+  "premium": 878.88,
+  "coverage_amount": 320613.79,
+  "beneficiary": "Scott Pruitt",
+  "sample_id": "insurance_document_0913"
+}

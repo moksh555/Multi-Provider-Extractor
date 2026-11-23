@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0283
+Company: BlueRiver Trading Co.
+Company Address: 34 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 219 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-07
+Due Date: 2026-06-14
+Currency: AED
+Subtotal: 11351.55
+Tax: 510.82
+Total: 10777.22
+Balance Due: 3545.04
+Status: partial

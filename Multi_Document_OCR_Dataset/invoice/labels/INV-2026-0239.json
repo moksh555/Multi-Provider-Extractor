@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0239",
+  "invoice_number": "INV-2026-0239",
+  "company_name": "BrightStar Electronics",
+  "company_address": "48 Uttara Sector 7, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "128 Dhanmondi 27, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-08-06",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 824.28,
+      "amount": 9067.08
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 192.08,
+      "amount": 192.08
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 7,
+      "unit_price": 594.41,
+      "amount": 4160.87
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 325.9,
+      "amount": 3259.0
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 4,
+      "unit_price": 809.9,
+      "amount": 3239.6
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 319.76,
+      "amount": 319.76
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 262.24,
+      "amount": 262.24
+    }
+  ],
+  "subtotal": 20500.63,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 2050.06,
+  "shipping": 5,
+  "total": 22555.69,
+  "amount_paid": 22555.69,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801814943849",
+  "po_number": "PO-39435"
+}

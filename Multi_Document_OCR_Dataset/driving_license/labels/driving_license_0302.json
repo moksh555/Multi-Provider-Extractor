@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL701177161",
+  "full_name": "Alexander Garrett",
+  "date_of_birth": "1995-04-01",
+  "class": "D",
+  "issue_date": "2022-06-02",
+  "expiry_date": "2027-06-02",
+  "address": "660 Bailey Valley, North Danielle, UT 37414",
+  "sample_id": "driving_license_0302"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OEKNTBZ3M",
+  "policy_holder": "Nicholas Suarez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-03-05",
+  "expiry_date": "2024-03-05",
+  "premium": 679.87,
+  "coverage_amount": 354088.72,
+  "beneficiary": "Daniel Floyd",
+  "sample_id": "insurance_document_0420"
+}

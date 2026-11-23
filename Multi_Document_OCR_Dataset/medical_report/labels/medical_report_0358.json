@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-B0Z6MU2O",
+  "patient_name": "Eric Smith",
+  "visit_date": "2025-08-20",
+  "doctor_name": "Dr. Ariel Gibbs",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0358"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Charles Doyle
+License: DL193688824
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL193688824",
+  "full_name": "Charles Doyle",
+  "date_of_birth": "1983-10-02",
+  "class": "A",
+  "issue_date": "2022-05-22",
+  "expiry_date": "2027-05-22",
+  "address": "032 Douglas Bypass Apt. 265, New Timothystad, ID 82907",
+  "sample_id": "driving_license_0718"
+}

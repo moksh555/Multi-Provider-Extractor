@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-S4F6APFX",
+  "merchant_name": "Wilson Group",
+  "date": "2023-07-15",
+  "subtotal": 465.94,
+  "tax": 18.34,
+  "discount": 13.74,
+  "total": 470.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$39.85",
+      "line_total": "$39.85"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$9.04",
+      "line_total": "$18.08"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$7.03",
+      "line_total": "$21.09"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$29.48",
+      "line_total": "$29.48"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$48.76",
+      "line_total": "$48.76"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$42.91",
+      "line_total": "$171.64"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$12.87",
+      "line_total": "$51.48"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$28.52",
+      "line_total": "$85.56"
+    }
+  ],
+  "sample_id": "receipt_0306"
+}

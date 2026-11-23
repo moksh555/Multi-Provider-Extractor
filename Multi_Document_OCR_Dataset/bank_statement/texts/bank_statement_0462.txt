@@ -1,0 +1,16 @@
+Bank Statement STM-RV6XKV59
+Holder: Brandi Gould
+Closing Balance: $2443.77
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RV6XKV59",
+  "account_holder": "Brandi Gould",
+  "account_number_masked": "****6192",
+  "period_start": "2024-12-21",
+  "period_end": "2025-01-20",
+  "opening_balance": 1639.34,
+  "closing_balance": 2443.77,
+  "transactions": 13,
+  "sample_id": "bank_statement_0462"
+}

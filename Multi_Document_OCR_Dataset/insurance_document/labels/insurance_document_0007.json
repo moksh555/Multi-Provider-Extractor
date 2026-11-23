@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XO6QJIUJV",
+  "policy_holder": "Joseph Martinez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-03-28",
+  "expiry_date": "2026-03-28",
+  "premium": 981.55,
+  "coverage_amount": 498689.63,
+  "beneficiary": "George Chapman",
+  "sample_id": "insurance_document_0007"
+}

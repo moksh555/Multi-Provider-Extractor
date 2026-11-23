@@ -1,0 +1,16 @@
+Bank Statement STM-LCEQ4XYP
+Holder: Trevor Frank
+Closing Balance: $4893.37
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LCEQ4XYP",
+  "account_holder": "Trevor Frank",
+  "account_number_masked": "****6284",
+  "period_start": "2026-06-01",
+  "period_end": "2026-07-01",
+  "opening_balance": 3536.3,
+  "closing_balance": 4893.37,
+  "transactions": 8,
+  "sample_id": "bank_statement_0582"
+}

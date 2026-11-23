@@ -1,0 +1,27 @@
+Resume
+James Johnson
+Data Analyst
+Skills: Pandas, AWS, Machine Learning, FastAPI, Deep Learning, Python, LangChain, TensorFlow, PyTorch, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "James Johnson",
+  "email": "nrodriguez@example.net",
+  "phone": "(697)837-2530x315",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "AWS",
+    "Machine Learning",
+    "FastAPI",
+    "Deep Learning",
+    "Python",
+    "LangChain",
+    "TensorFlow",
+    "PyTorch",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0703"
+}

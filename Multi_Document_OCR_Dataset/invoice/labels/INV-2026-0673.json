@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0673",
+  "invoice_number": "INV-2026-0673",
+  "company_name": "BrightStar Electronics",
+  "company_address": "182 Gulshan Avenue, Dubai, UAE",
+  "customer_name": "Global Mart",
+  "billing_address": "235 Zindabazar Road, Doha, Qatar",
+  "invoice_date": "2026-05-19",
+  "due_date": "2026-06-03",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 8,
+      "unit_price": 237.12,
+      "amount": 1896.96
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 303.13,
+      "amount": 2121.91
+    },
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 764.02,
+      "amount": 7640.2
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 312.5,
+      "amount": 312.5
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 523.94,
+      "amount": 6287.28
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 11,
+      "unit_price": 711.36,
+      "amount": 7824.96
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 7,
+      "unit_price": 460.19,
+      "amount": 3221.33
+    }
+  ],
+  "subtotal": 29305.14,
+  "discount": 586.1,
+  "tax_rate": 0.15,
+  "tax": 4307.86,
+  "shipping": 50,
+  "total": 33076.9,
+  "amount_paid": 0,
+  "balance_due": 33076.9,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801188110578",
+  "po_number": "PO-04928"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Julie Scott
+License: DL586971499
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL586971499",
+  "full_name": "Julie Scott",
+  "date_of_birth": "1988-02-29",
+  "class": "C",
+  "issue_date": "2021-05-25",
+  "expiry_date": "2026-05-25",
+  "address": "41904 Sanders Stravenue, North Brittany, MP 82714",
+  "sample_id": "driving_license_0033"
+}

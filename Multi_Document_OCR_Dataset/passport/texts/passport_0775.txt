@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Joshua Perez
+Passport No: P16836122
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P16836122",
+  "full_name": "Joshua Perez",
+  "nationality": "CA",
+  "date_of_birth": "1992-03-04",
+  "issue_date": "2024-03-24",
+  "expiry_date": "2034-03-24",
+  "place_of_birth": "Lake Hectorberg",
+  "sample_id": "passport_0775"
+}

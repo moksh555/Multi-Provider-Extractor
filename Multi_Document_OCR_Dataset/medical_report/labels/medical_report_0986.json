@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-XJ1IU5E1",
+  "patient_name": "Billy Stephens",
+  "visit_date": "2025-06-16",
+  "doctor_name": "Dr. Joshua Lopez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0986"
+}

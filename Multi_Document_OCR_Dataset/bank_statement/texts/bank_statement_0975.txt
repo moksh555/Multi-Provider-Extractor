@@ -1,0 +1,16 @@
+Bank Statement STM-4FDEPCVS
+Holder: Mark Landry
+Closing Balance: $4545.50
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4FDEPCVS",
+  "account_holder": "Mark Landry",
+  "account_number_masked": "****9106",
+  "period_start": "2026-08-29",
+  "period_end": "2026-09-28",
+  "opening_balance": 1131.43,
+  "closing_balance": 4545.5,
+  "transactions": 8,
+  "sample_id": "bank_statement_0975"
+}

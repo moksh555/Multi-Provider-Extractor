@@ -1,0 +1,14 @@
+Medical Report MED-Y0PE7RUD
+Patient: Kelli Hoffman
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Y0PE7RUD",
+  "patient_name": "Kelli Hoffman",
+  "visit_date": "2025-07-05",
+  "doctor_name": "Dr. Ashley Price",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0578"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WNL2URQN",
+  "account_holder": "Tara Thomas",
+  "account_number_masked": "****1793",
+  "period_start": "2025-01-05",
+  "period_end": "2025-02-04",
+  "opening_balance": 687.02,
+  "closing_balance": 2367.79,
+  "transactions": 13,
+  "sample_id": "bank_statement_0723"
+}

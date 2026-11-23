@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mark Hall
+License: DL136978131
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL136978131",
+  "full_name": "Mark Hall",
+  "date_of_birth": "1977-12-19",
+  "class": "D",
+  "issue_date": "2026-09-02",
+  "expiry_date": "2031-09-02",
+  "address": "86041 Cox Keys Suite 350, North Aaron, TN 98117",
+  "sample_id": "driving_license_0523"
+}

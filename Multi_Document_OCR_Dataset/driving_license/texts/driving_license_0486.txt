@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Butler
+License: DL851509047
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL851509047",
+  "full_name": "Jennifer Butler",
+  "date_of_birth": "1963-01-06",
+  "class": "D",
+  "issue_date": "2024-10-09",
+  "expiry_date": "2029-10-09",
+  "address": "25223 White Creek Suite 932, North Karen, AS 25651",
+  "sample_id": "driving_license_0486"
+}

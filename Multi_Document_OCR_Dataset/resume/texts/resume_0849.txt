@@ -1,0 +1,23 @@
+Resume
+Susan Walsh
+Data Analyst
+Skills: SQL, Docker, PyTorch, NLP, LangChain, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Susan Walsh",
+  "email": "laura71@example.com",
+  "phone": "595-945-8446x5771",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Docker",
+    "PyTorch",
+    "NLP",
+    "LangChain",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0849"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-LPOWQH01
+Patient: Michael Carr
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LPOWQH01",
+  "patient_name": "Michael Carr",
+  "visit_date": "2026-02-16",
+  "doctor_name": "Dr. Philip Jones",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0699"
+}

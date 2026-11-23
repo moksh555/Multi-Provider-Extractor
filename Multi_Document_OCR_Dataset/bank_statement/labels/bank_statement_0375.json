@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7PRDDTBX",
+  "account_holder": "Darrell Burnett",
+  "account_number_masked": "****9958",
+  "period_start": "2024-06-16",
+  "period_end": "2024-07-16",
+  "opening_balance": 4546.48,
+  "closing_balance": 10833.28,
+  "transactions": 13,
+  "sample_id": "bank_statement_0375"
+}

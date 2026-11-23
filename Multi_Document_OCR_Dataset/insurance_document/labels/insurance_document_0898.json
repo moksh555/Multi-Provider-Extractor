@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DUPPGBIVS",
+  "policy_holder": "David Rivera",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-12",
+  "expiry_date": "2027-05-12",
+  "premium": 1477.99,
+  "coverage_amount": 210299.88,
+  "beneficiary": "Brandon Clark",
+  "sample_id": "insurance_document_0898"
+}

@@ -1,0 +1,24 @@
+Resume
+Katrina Shaw
+Machine Learning Engineer
+Skills: Docker, TensorFlow, FastAPI, SQL, Streamlit, NLP, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Katrina Shaw",
+  "email": "rcuevas@example.com",
+  "phone": "495.800.3452x2026",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "TensorFlow",
+    "FastAPI",
+    "SQL",
+    "Streamlit",
+    "NLP",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0359"
+}

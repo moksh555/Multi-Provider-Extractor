@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RUTSBC23",
+  "patient_name": "Thomas Lang",
+  "visit_date": "2025-04-01",
+  "doctor_name": "Dr. John Callahan",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0337"
+}

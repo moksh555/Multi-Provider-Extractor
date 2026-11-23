@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S6LD2T8Y",
+  "account_holder": "Daniel Combs",
+  "account_number_masked": "****2926",
+  "period_start": "2024-10-28",
+  "period_end": "2024-11-27",
+  "opening_balance": 646.73,
+  "closing_balance": 3035.24,
+  "transactions": 12,
+  "sample_id": "bank_statement_0694"
+}

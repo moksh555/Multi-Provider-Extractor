@@ -1,0 +1,16 @@
+Synthetic Driving License
+David Oliver
+License: DL880306606
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL880306606",
+  "full_name": "David Oliver",
+  "date_of_birth": "1981-01-02",
+  "class": "A",
+  "issue_date": "2024-10-24",
+  "expiry_date": "2029-10-24",
+  "address": "59893 Kelly Fall Apt. 228, South Billyview, OH 35135",
+  "sample_id": "driving_license_0219"
+}

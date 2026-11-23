@@ -1,0 +1,14 @@
+Medical Report MED-D1GVKNZR
+Patient: Mr. Paul Ewing
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-D1GVKNZR",
+  "patient_name": "Mr. Paul Ewing",
+  "visit_date": "2024-06-28",
+  "doctor_name": "Dr. Brenda Taylor",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0512"
+}

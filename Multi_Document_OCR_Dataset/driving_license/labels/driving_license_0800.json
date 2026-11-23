@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL566481040",
+  "full_name": "Rachel Burns",
+  "date_of_birth": "1984-08-14",
+  "class": "A",
+  "issue_date": "2024-09-21",
+  "expiry_date": "2029-09-21",
+  "address": "686 Barbara Summit Suite 137, Port Heather, WV 25185",
+  "sample_id": "driving_license_0800"
+}

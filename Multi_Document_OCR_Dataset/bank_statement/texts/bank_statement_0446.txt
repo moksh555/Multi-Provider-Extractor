@@ -1,0 +1,16 @@
+Bank Statement STM-7U2AJA7H
+Holder: Brittany Johnson
+Closing Balance: $3884.44
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7U2AJA7H",
+  "account_holder": "Brittany Johnson",
+  "account_number_masked": "****2105",
+  "period_start": "2024-02-19",
+  "period_end": "2024-03-20",
+  "opening_balance": 4582.84,
+  "closing_balance": 3884.44,
+  "transactions": 8,
+  "sample_id": "bank_statement_0446"
+}

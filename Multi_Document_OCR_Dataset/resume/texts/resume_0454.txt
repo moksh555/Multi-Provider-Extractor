@@ -1,0 +1,27 @@
+Resume
+Laura Barton
+Backend Developer
+Skills: LangChain, NLP, SQL, Machine Learning, Pandas, Streamlit, Computer Vision, Deep Learning, PyTorch, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Laura Barton",
+  "email": "jimmyjones@example.com",
+  "phone": "+1-498-575-1757x903",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "LangChain",
+    "NLP",
+    "SQL",
+    "Machine Learning",
+    "Pandas",
+    "Streamlit",
+    "Computer Vision",
+    "Deep Learning",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0454"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0749
+Company: BlueRiver Trading Co.
+Company Address: 30 Al Barsha, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 215 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-06-07
+Due Date: 2026-07-22
+Currency: USD
+Subtotal: 11456.83
+Tax: 572.84
+Total: 12029.67
+Balance Due: 12029.67
+Status: unpaid

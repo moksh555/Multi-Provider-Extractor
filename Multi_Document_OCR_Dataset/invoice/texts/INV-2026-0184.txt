@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0184
+Company: Eastern Care Pharmacy
+Company Address: 168 Jumeirah Lake Towers, Doha, Qatar
+Customer: Global Mart
+Billing Address: 194 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-05-14
+Due Date: 2026-05-29
+Currency: SAR
+Subtotal: 12558.85
+Tax: 0.0
+Total: 11327.96
+Balance Due: 0.0
+Status: paid

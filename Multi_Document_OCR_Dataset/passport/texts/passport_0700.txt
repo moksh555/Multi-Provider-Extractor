@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Daniel George
+Passport No: P45538517
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P45538517",
+  "full_name": "Daniel George",
+  "nationality": "US",
+  "date_of_birth": "1996-04-18",
+  "issue_date": "2023-01-09",
+  "expiry_date": "2033-01-09",
+  "place_of_birth": "New Jose",
+  "sample_id": "passport_0700"
+}

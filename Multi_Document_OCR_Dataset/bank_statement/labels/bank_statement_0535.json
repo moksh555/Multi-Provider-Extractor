@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8L8DJ0EK",
+  "account_holder": "Heather Espinoza DVM",
+  "account_number_masked": "****4780",
+  "period_start": "2026-10-22",
+  "period_end": "2026-11-21",
+  "opening_balance": 1902.89,
+  "closing_balance": 4044.37,
+  "transactions": 10,
+  "sample_id": "bank_statement_0535"
+}

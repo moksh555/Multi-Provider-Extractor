@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7U6606U0",
+  "account_holder": "Angela Goodwin",
+  "account_number_masked": "****4910",
+  "period_start": "2024-06-21",
+  "period_end": "2024-07-21",
+  "opening_balance": 2179.07,
+  "closing_balance": 2985.65,
+  "transactions": 10,
+  "sample_id": "bank_statement_0677"
+}

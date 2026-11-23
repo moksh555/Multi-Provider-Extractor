@@ -1,0 +1,67 @@
+Receipt RCT-MDKRLC0Y
+Merchant: Copeland-Mcguire
+Date: 2021-08-06
+Total: $747.34
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MDKRLC0Y",
+  "merchant_name": "Copeland-Mcguire",
+  "date": "2021-08-06",
+  "subtotal": 675.3,
+  "tax": 76.54,
+  "discount": 4.5,
+  "total": 747.34,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$45.40",
+      "line_total": "$90.80"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$18.66",
+      "line_total": "$37.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$50.63",
+      "line_total": "$151.89"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$50.27",
+      "line_total": "$201.08"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$6.30",
+      "line_total": "$6.30"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$42.07",
+      "line_total": "$42.07"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$9.18",
+      "line_total": "$18.36"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$31.87",
+      "line_total": "$127.48"
+    }
+  ],
+  "sample_id": "receipt_0341"
+}

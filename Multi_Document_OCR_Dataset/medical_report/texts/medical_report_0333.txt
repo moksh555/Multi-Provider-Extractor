@@ -1,0 +1,14 @@
+Medical Report MED-V4XNUT7K
+Patient: Andrea Berry
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-V4XNUT7K",
+  "patient_name": "Andrea Berry",
+  "visit_date": "2025-07-08",
+  "doctor_name": "Dr. Kelly Norris",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0333"
+}

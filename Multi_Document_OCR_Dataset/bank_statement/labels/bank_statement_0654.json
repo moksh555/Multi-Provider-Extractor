@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CM8GXE5F",
+  "account_holder": "Tara Thomas",
+  "account_number_masked": "****3420",
+  "period_start": "2025-07-09",
+  "period_end": "2025-08-08",
+  "opening_balance": 1350.62,
+  "closing_balance": 2540.48,
+  "transactions": 13,
+  "sample_id": "bank_statement_0654"
+}

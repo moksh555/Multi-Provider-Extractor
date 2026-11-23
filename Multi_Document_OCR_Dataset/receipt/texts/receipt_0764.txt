@@ -1,0 +1,49 @@
+Receipt RCT-H4PZNGVX
+Merchant: Beck and Sons
+Date: 2021-12-21
+Total: $961.70
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-H4PZNGVX",
+  "merchant_name": "Beck and Sons",
+  "date": "2021-12-21",
+  "subtotal": 921.42,
+  "tax": 47.18,
+  "discount": 6.9,
+  "total": 961.7,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$38.03",
+      "line_total": "$38.03"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$62.54",
+      "line_total": "$187.62"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$65.91",
+      "line_total": "$197.73"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$50.21",
+      "line_total": "$200.84"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$74.30",
+      "line_total": "$297.20"
+    }
+  ],
+  "sample_id": "receipt_0764"
+}

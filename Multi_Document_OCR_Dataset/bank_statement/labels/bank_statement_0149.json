@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PH3NWX0T",
+  "account_holder": "Richard Watson",
+  "account_number_masked": "****0354",
+  "period_start": "2024-02-12",
+  "period_end": "2024-03-13",
+  "opening_balance": 3895.45,
+  "closing_balance": 1931.45,
+  "transactions": 11,
+  "sample_id": "bank_statement_0149"
+}

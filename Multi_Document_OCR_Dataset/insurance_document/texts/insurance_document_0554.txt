@@ -1,0 +1,16 @@
+Insurance Policy POL-5ZLM36VFO
+Holder: Stacey Huerta
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5ZLM36VFO",
+  "policy_holder": "Stacey Huerta",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-01-19",
+  "expiry_date": "2027-01-19",
+  "premium": 1605.98,
+  "coverage_amount": 312911.86,
+  "beneficiary": "Andrea Taylor",
+  "sample_id": "insurance_document_0554"
+}

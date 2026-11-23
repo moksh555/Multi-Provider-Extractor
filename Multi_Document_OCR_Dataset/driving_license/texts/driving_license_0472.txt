@@ -1,0 +1,16 @@
+Synthetic Driving License
+Christina Smith
+License: DL901649071
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL901649071",
+  "full_name": "Christina Smith",
+  "date_of_birth": "1975-06-15",
+  "class": "C",
+  "issue_date": "2020-07-23",
+  "expiry_date": "2025-07-23",
+  "address": "3131 Jennifer Cape, Huntmouth, MD 74170",
+  "sample_id": "driving_license_0472"
+}

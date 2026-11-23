@@ -1,0 +1,14 @@
+Medical Report MED-WJ3G3QU9
+Patient: Amy Miller
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WJ3G3QU9",
+  "patient_name": "Amy Miller",
+  "visit_date": "2025-11-01",
+  "doctor_name": "Dr. Gregory Higgins",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0949"
+}

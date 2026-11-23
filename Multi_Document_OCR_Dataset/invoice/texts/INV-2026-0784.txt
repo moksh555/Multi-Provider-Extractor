@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0784
+Company: BlueRiver Trading Co.
+Company Address: 68 Road 12, Banani, Dubai, UAE
+Customer: Sunrise Apparel
+Billing Address: 152 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-04-20
+Due Date: 2026-05-20
+Currency: SAR
+Subtotal: 1031.66
+Tax: 51.58
+Total: 1083.24
+Balance Due: 0.0
+Status: paid

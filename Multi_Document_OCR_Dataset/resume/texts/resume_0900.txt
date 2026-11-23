@@ -1,0 +1,24 @@
+Resume
+Scott Butler
+Data Analyst
+Skills: Streamlit, Deep Learning, AWS, Python, Machine Learning, NLP, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Scott Butler",
+  "email": "derekhernandez@example.com",
+  "phone": "614-722-6326x214",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "Deep Learning",
+    "AWS",
+    "Python",
+    "Machine Learning",
+    "NLP",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0900"
+}

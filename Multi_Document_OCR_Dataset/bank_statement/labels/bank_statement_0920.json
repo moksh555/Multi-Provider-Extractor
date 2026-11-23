@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-826U2VFC",
+  "account_holder": "Lucas Atkins",
+  "account_number_masked": "****4547",
+  "period_start": "2026-06-07",
+  "period_end": "2026-07-07",
+  "opening_balance": 2675.35,
+  "closing_balance": 3181.8,
+  "transactions": 9,
+  "sample_id": "bank_statement_0920"
+}

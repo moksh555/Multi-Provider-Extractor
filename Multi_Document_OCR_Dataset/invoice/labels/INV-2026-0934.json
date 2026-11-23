@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0934",
+  "invoice_number": "INV-2026-0934",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "121 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "Global Mart",
+  "billing_address": "54 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-09",
+  "due_date": "2026-03-11",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 659.47,
+      "amount": 2637.88
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 23.34,
+      "amount": 163.38
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 10,
+      "unit_price": 659.84,
+      "amount": 6598.4
+    }
+  ],
+  "subtotal": 9399.66,
+  "discount": 187.99,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 9216.67,
+  "amount_paid": 4530.69,
+  "balance_due": 4685.98,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801364599274",
+  "po_number": "PO-45418"
+}

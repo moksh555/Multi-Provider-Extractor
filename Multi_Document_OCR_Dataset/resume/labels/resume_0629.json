@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Jake Robles",
+  "email": "justin90@example.net",
+  "phone": "883-604-7027x89027",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Pandas",
+    "Machine Learning",
+    "AWS",
+    "FastAPI",
+    "NLP",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0629"
+}

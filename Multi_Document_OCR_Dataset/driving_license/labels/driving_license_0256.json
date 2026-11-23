@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL338757247",
+  "full_name": "Michael Jacobs",
+  "date_of_birth": "1962-12-30",
+  "class": "A",
+  "issue_date": "2023-04-22",
+  "expiry_date": "2028-04-22",
+  "address": "5587 Preston Light, Stevenberg, VI 22465",
+  "sample_id": "driving_license_0256"
+}

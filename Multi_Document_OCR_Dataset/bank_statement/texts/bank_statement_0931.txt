@@ -1,0 +1,16 @@
+Bank Statement STM-3CIFSM46
+Holder: Mark Turner
+Closing Balance: $2068.47
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3CIFSM46",
+  "account_holder": "Mark Turner",
+  "account_number_masked": "****8555",
+  "period_start": "2025-04-16",
+  "period_end": "2025-05-16",
+  "opening_balance": 2400.71,
+  "closing_balance": 2068.47,
+  "transactions": 14,
+  "sample_id": "bank_statement_0931"
+}

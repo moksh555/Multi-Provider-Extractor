@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Ryan Garcia",
+  "email": "longheather@example.org",
+  "phone": "001-336-832-3518x522",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "Docker",
+    "SQL",
+    "AWS",
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0859"
+}

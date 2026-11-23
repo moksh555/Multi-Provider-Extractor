@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0536
+Company: Golden Harvest Store
+Company Address: 13 Sheikh Zayed Road, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 59 Uttara Sector 7, Chattogram, Bangladesh
+Invoice Date: 2026-02-21
+Due Date: 2026-03-23
+Currency: SAR
+Subtotal: 13510.53
+Tax: 1283.5
+Total: 14123.5
+Balance Due: 0.0
+Status: paid

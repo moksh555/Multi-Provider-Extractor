@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Christopher Weeks",
+  "email": "kathylarson@example.net",
+  "phone": "001-286-977-7055x4899",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "Computer Vision",
+    "Pandas",
+    "Streamlit",
+    "LangChain",
+    "Deep Learning",
+    "AWS",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0559"
+}

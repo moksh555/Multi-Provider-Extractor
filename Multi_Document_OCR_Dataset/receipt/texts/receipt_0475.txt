@@ -1,0 +1,43 @@
+Receipt RCT-LUVNHDCZ
+Merchant: Price Group
+Date: 2025-12-18
+Total: $439.55
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LUVNHDCZ",
+  "merchant_name": "Price Group",
+  "date": "2025-12-18",
+  "subtotal": 414.04,
+  "tax": 31.33,
+  "discount": 5.82,
+  "total": 439.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$2.82",
+      "line_total": "$11.28"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$70.66",
+      "line_total": "$141.32"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$63.38",
+      "line_total": "$253.52"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$2.64",
+      "line_total": "$7.92"
+    }
+  ],
+  "sample_id": "receipt_0475"
+}

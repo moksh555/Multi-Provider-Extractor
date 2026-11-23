@@ -1,0 +1,16 @@
+Bank Statement STM-1N1T7NRQ
+Holder: Rebekah Richards
+Closing Balance: $6226.74
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1N1T7NRQ",
+  "account_holder": "Rebekah Richards",
+  "account_number_masked": "****2317",
+  "period_start": "2025-02-04",
+  "period_end": "2025-03-06",
+  "opening_balance": 2950.12,
+  "closing_balance": 6226.74,
+  "transactions": 14,
+  "sample_id": "bank_statement_0262"
+}

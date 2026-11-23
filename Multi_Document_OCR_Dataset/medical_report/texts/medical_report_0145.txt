@@ -1,0 +1,14 @@
+Medical Report MED-YOLJ42PW
+Patient: Sean Odonnell
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YOLJ42PW",
+  "patient_name": "Sean Odonnell",
+  "visit_date": "2025-11-24",
+  "doctor_name": "Dr. Jacqueline Summers",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0145"
+}

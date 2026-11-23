@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Connie Davis",
+  "email": "veronicadonovan@example.org",
+  "phone": "541.366.4308x6042",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Computer Vision",
+    "AWS",
+    "Streamlit",
+    "Pandas",
+    "NLP",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0709"
+}

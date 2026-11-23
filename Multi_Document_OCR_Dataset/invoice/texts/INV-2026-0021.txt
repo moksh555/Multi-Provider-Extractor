@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0021
+Company: Nova Medical Supplies
+Company Address: 39 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 166 Mirpur DOHS, Dubai, UAE
+Invoice Date: 2026-03-16
+Due Date: 2026-04-15
+Currency: SAR
+Subtotal: 15463.9
+Tax: 1546.39
+Total: 17015.29
+Balance Due: 17015.29
+Status: overdue

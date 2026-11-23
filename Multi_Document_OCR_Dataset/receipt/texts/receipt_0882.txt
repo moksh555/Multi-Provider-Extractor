@@ -1,0 +1,37 @@
+Receipt RCT-Z9G6DVNQ
+Merchant: Patel Ltd
+Date: 2023-09-19
+Total: $109.18
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Z9G6DVNQ",
+  "merchant_name": "Patel Ltd",
+  "date": "2023-09-19",
+  "subtotal": 113.08,
+  "tax": 4.28,
+  "discount": 8.18,
+  "total": 109.18,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$6.00",
+      "line_total": "$12.00"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$38.30",
+      "line_total": "$76.60"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$8.16",
+      "line_total": "$24.48"
+    }
+  ],
+  "sample_id": "receipt_0882"
+}

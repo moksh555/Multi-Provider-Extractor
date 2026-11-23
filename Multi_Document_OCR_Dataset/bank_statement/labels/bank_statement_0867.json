@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CGOHE1G5",
+  "account_holder": "Michael Allen",
+  "account_number_masked": "****4140",
+  "period_start": "2025-01-16",
+  "period_end": "2025-02-15",
+  "opening_balance": 771.18,
+  "closing_balance": 1993.08,
+  "transactions": 8,
+  "sample_id": "bank_statement_0867"
+}

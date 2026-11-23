@@ -1,0 +1,16 @@
+Bank Statement STM-SFXUSTBR
+Holder: Megan Alvarez
+Closing Balance: $3356.64
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SFXUSTBR",
+  "account_holder": "Megan Alvarez",
+  "account_number_masked": "****2117",
+  "period_start": "2026-01-05",
+  "period_end": "2026-02-04",
+  "opening_balance": 2643.15,
+  "closing_balance": 3356.64,
+  "transactions": 13,
+  "sample_id": "bank_statement_0791"
+}

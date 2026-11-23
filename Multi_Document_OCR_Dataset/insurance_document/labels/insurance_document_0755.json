@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-UKX496K4O",
+  "policy_holder": "Johnny Galloway",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-12-16",
+  "expiry_date": "2026-12-16",
+  "premium": 213.11,
+  "coverage_amount": 325940.08,
+  "beneficiary": "Carlos Myers",
+  "sample_id": "insurance_document_0755"
+}

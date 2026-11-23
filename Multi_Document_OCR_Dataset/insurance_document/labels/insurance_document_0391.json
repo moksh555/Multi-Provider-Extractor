@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Y6QXDSGV6",
+  "policy_holder": "Michelle Henderson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-10-05",
+  "expiry_date": "2024-10-05",
+  "premium": 1055.5,
+  "coverage_amount": 168495.86,
+  "beneficiary": "William Boyd",
+  "sample_id": "insurance_document_0391"
+}

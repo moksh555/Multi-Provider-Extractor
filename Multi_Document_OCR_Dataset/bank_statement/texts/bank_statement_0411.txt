@@ -1,0 +1,16 @@
+Bank Statement STM-1XL8YRR4
+Holder: John Lopez
+Closing Balance: $3324.06
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1XL8YRR4",
+  "account_holder": "John Lopez",
+  "account_number_masked": "****2783",
+  "period_start": "2024-06-10",
+  "period_end": "2024-07-10",
+  "opening_balance": 2564.06,
+  "closing_balance": 3324.06,
+  "transactions": 9,
+  "sample_id": "bank_statement_0411"
+}

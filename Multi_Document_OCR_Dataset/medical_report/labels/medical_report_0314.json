@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-8ID9SQMJ",
+  "patient_name": "Brent Evans",
+  "visit_date": "2026-01-14",
+  "doctor_name": "Dr. Ashley Lopez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0314"
+}

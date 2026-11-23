@@ -1,0 +1,14 @@
+Medical Report MED-HQA5ZZ3A
+Patient: Mark Thomas
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HQA5ZZ3A",
+  "patient_name": "Mark Thomas",
+  "visit_date": "2026-05-05",
+  "doctor_name": "Dr. Tyler Peterson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0342"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0887
+Company: Nexus Digital Solutions
+Company Address: 53 Road 12, Banani, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 147 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-05-04
+Due Date: 2026-06-03
+Currency: BDT
+Subtotal: 1995.51
+Tax: 149.66
+Total: 2170.17
+Balance Due: 0.0
+Status: paid

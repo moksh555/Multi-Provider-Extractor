@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-0YCWQI1H",
+  "patient_name": "Nicholas Newman",
+  "visit_date": "2025-05-15",
+  "doctor_name": "Dr. Kelli Hamilton",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0383"
+}

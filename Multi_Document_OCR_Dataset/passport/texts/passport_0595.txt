@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Rachel Salas
+Passport No: P52024582
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P52024582",
+  "full_name": "Rachel Salas",
+  "nationality": "GB",
+  "date_of_birth": "1966-01-03",
+  "issue_date": "2026-08-23",
+  "expiry_date": "2036-08-23",
+  "place_of_birth": "Lewisland",
+  "sample_id": "passport_0595"
+}

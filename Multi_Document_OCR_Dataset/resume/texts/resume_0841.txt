@@ -1,0 +1,26 @@
+Resume
+Bryce James
+Computer Vision Engineer
+Skills: Computer Vision, NLP, Docker, Pandas, Deep Learning, Machine Learning, SQL, AWS, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Bryce James",
+  "email": "jimmy99@example.com",
+  "phone": "(711)254-2401",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "NLP",
+    "Docker",
+    "Pandas",
+    "Deep Learning",
+    "Machine Learning",
+    "SQL",
+    "AWS",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0841"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Dennis Garcia",
+  "email": "johnsoncory@example.net",
+  "phone": "001-273-391-2983x58448",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "LangChain",
+    "AWS",
+    "NLP",
+    "SQL",
+    "TensorFlow",
+    "Python",
+    "Pandas",
+    "Computer Vision",
+    "Deep Learning",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0720"
+}

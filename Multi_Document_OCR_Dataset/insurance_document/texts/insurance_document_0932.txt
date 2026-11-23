@@ -1,0 +1,16 @@
+Insurance Policy POL-AV42T8LLI
+Holder: Leslie Black
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AV42T8LLI",
+  "policy_holder": "Leslie Black",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-02-18",
+  "expiry_date": "2025-02-18",
+  "premium": 840.97,
+  "coverage_amount": 217898.98,
+  "beneficiary": "Joe Lee",
+  "sample_id": "insurance_document_0932"
+}

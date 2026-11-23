@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Tammy Camacho
+Passport No: P88234110
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P88234110",
+  "full_name": "Tammy Camacho",
+  "nationality": "CA",
+  "date_of_birth": "1998-05-02",
+  "issue_date": "2026-01-04",
+  "expiry_date": "2036-01-04",
+  "place_of_birth": "Darrellville",
+  "sample_id": "passport_0964"
+}

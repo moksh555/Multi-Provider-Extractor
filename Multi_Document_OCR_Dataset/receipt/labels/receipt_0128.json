@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-J88QEOZ0",
+  "merchant_name": "Riley, Butler and Hernandez",
+  "date": "2024-05-09",
+  "subtotal": 922.17,
+  "tax": 89.93,
+  "discount": 2.41,
+  "total": 1009.69,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$16.87",
+      "line_total": "$33.74"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$73.77",
+      "line_total": "$221.31"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$40.81",
+      "line_total": "$81.62"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$61.10",
+      "line_total": "$61.10"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$54.27",
+      "line_total": "$217.08"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$64.86",
+      "line_total": "$259.44"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$31.09",
+      "line_total": "$31.09"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$16.79",
+      "line_total": "$16.79"
+    }
+  ],
+  "sample_id": "receipt_0128"
+}

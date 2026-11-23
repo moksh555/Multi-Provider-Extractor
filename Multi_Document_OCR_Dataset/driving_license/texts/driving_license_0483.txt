@@ -1,0 +1,16 @@
+Synthetic Driving License
+Robert Mccoy
+License: DL341323052
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL341323052",
+  "full_name": "Robert Mccoy",
+  "date_of_birth": "1969-12-19",
+  "class": "D",
+  "issue_date": "2025-03-21",
+  "expiry_date": "2030-03-21",
+  "address": "9724 Carrie Shore, North Darryl, CO 84963",
+  "sample_id": "driving_license_0483"
+}

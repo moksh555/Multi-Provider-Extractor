@@ -1,0 +1,43 @@
+Receipt RCT-C4XL9967
+Merchant: Brown LLC
+Date: 2023-07-31
+Total: $482.37
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-C4XL9967",
+  "merchant_name": "Brown LLC",
+  "date": "2023-07-31",
+  "subtotal": 455.89,
+  "tax": 37.76,
+  "discount": 11.28,
+  "total": 482.37,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$4.68",
+      "line_total": "$14.04"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$72.05",
+      "line_total": "$216.15"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$74.37",
+      "line_total": "$148.74"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$76.96",
+      "line_total": "$76.96"
+    }
+  ],
+  "sample_id": "receipt_0077"
+}

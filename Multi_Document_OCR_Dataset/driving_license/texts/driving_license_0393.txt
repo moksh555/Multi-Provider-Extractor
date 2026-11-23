@@ -1,0 +1,16 @@
+Synthetic Driving License
+Samantha Marsh
+License: DL955504128
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL955504128",
+  "full_name": "Samantha Marsh",
+  "date_of_birth": "1982-06-01",
+  "class": "C",
+  "issue_date": "2022-08-12",
+  "expiry_date": "2027-08-12",
+  "address": "2669 Andrew Brooks Apt. 173, Jacquelineburgh, AR 53065",
+  "sample_id": "driving_license_0393"
+}

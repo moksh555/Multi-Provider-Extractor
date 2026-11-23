@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-314Y2LR0J",
+  "policy_holder": "Ashley Alvarez DVM",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-11-01",
+  "expiry_date": "2025-11-01",
+  "premium": 2022.88,
+  "coverage_amount": 107345.22,
+  "beneficiary": "Kimberly Taylor",
+  "sample_id": "insurance_document_0517"
+}

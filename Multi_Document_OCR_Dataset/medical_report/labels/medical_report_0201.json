@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-97SELEDK",
+  "patient_name": "Gabriella Crane",
+  "visit_date": "2024-10-11",
+  "doctor_name": "Dr. Joshua Harding",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0201"
+}

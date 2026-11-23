@@ -1,0 +1,14 @@
+Medical Report MED-K8RR2GSO
+Patient: Robert Nichols
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-K8RR2GSO",
+  "patient_name": "Robert Nichols",
+  "visit_date": "2026-01-17",
+  "doctor_name": "Dr. Alexis Mcmillan",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0791"
+}

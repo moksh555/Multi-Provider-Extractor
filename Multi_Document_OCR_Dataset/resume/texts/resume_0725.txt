@@ -1,0 +1,25 @@
+Resume
+Samuel Weeks
+Data Analyst
+Skills: Python, FastAPI, Docker, NLP, Streamlit, AWS, Machine Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Samuel Weeks",
+  "email": "pachecoanna@example.net",
+  "phone": "972-684-5848",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Docker",
+    "NLP",
+    "Streamlit",
+    "AWS",
+    "Machine Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0725"
+}

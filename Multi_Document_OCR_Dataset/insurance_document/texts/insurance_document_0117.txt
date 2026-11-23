@@ -1,0 +1,16 @@
+Insurance Policy POL-XJ2POP8MG
+Holder: Cynthia Sanchez
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XJ2POP8MG",
+  "policy_holder": "Cynthia Sanchez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-01-22",
+  "expiry_date": "2026-01-22",
+  "premium": 2319.86,
+  "coverage_amount": 264445.17,
+  "beneficiary": "Audrey Salazar",
+  "sample_id": "insurance_document_0117"
+}

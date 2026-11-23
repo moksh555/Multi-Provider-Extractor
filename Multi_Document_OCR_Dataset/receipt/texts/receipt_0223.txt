@@ -1,0 +1,49 @@
+Receipt RCT-4IUSEXU1
+Merchant: Molina Inc
+Date: 2026-11-22
+Total: $387.76
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4IUSEXU1",
+  "merchant_name": "Molina Inc",
+  "date": "2026-11-22",
+  "subtotal": 376.68,
+  "tax": 19.92,
+  "discount": 8.84,
+  "total": 387.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$19.81",
+      "line_total": "$19.81"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$27.01",
+      "line_total": "$81.03"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$74.90",
+      "line_total": "$149.80"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$9.44",
+      "line_total": "$18.88"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$35.72",
+      "line_total": "$107.16"
+    }
+  ],
+  "sample_id": "receipt_0223"
+}

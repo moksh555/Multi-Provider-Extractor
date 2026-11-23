@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL170924256",
+  "full_name": "Tiffany Sutton",
+  "date_of_birth": "1967-09-10",
+  "class": "D",
+  "issue_date": "2020-02-12",
+  "expiry_date": "2025-02-12",
+  "address": "21461 Russo Mission, Warrenview, HI 07545",
+  "sample_id": "driving_license_0555"
+}

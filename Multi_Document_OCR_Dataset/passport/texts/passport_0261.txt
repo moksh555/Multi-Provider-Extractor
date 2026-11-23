@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mary Martinez
+Passport No: P47849050
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P47849050",
+  "full_name": "Mary Martinez",
+  "nationality": "BD",
+  "date_of_birth": "1995-05-29",
+  "issue_date": "2022-12-19",
+  "expiry_date": "2032-12-19",
+  "place_of_birth": "South Keithfurt",
+  "sample_id": "passport_0261"
+}

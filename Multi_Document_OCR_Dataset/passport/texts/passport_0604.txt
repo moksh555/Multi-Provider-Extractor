@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Sandra Allen
+Passport No: P91569150
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P91569150",
+  "full_name": "Sandra Allen",
+  "nationality": "GB",
+  "date_of_birth": "1975-10-22",
+  "issue_date": "2023-06-12",
+  "expiry_date": "2033-06-12",
+  "place_of_birth": "Port Lisa",
+  "sample_id": "passport_0604"
+}

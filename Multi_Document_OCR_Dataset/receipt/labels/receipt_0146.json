@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KO0MTGLH",
+  "merchant_name": "Williams-Page",
+  "date": "2024-01-08",
+  "subtotal": 450.82,
+  "tax": 17.85,
+  "discount": 13.8,
+  "total": 454.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$59.23",
+      "line_total": "$236.92"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$69.95",
+      "line_total": "$139.90"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$17.02",
+      "line_total": "$34.04"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$13.32",
+      "line_total": "$39.96"
+    }
+  ],
+  "sample_id": "receipt_0146"
+}

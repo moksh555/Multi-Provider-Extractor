@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0459
+Company: Eastern Care Pharmacy
+Company Address: 57 Dhanmondi 27, Dubai, UAE
+Customer: TechPoint BD
+Billing Address: 170 Agrabad C/A, Dhaka, Bangladesh
+Invoice Date: 2026-04-19
+Due Date: 2026-04-26
+Currency: QAR
+Subtotal: 19924.97
+Tax: 896.62
+Total: 18879.09
+Balance Due: 12398.96
+Status: partial

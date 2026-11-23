@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0521",
+  "invoice_number": "INV-2026-0521",
+  "company_name": "Summit Agro Foods",
+  "company_address": "139 Sheikh Zayed Road, Dubai, UAE",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "220 Gulshan Avenue, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-16",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 770.71,
+      "amount": 1541.42
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 6,
+      "unit_price": 687.65,
+      "amount": 4125.9
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 506.7,
+      "amount": 2026.8
+    }
+  ],
+  "subtotal": 7694.12,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 577.06,
+  "shipping": 25,
+  "total": 8296.18,
+  "amount_paid": 4138.76,
+  "balance_due": 4157.42,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801323906517",
+  "po_number": "PO-02278"
+}

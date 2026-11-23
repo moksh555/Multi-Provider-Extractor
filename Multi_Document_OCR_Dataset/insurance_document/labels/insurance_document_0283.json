@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZNQDXAMW2",
+  "policy_holder": "Manuel Turner",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-12-05",
+  "expiry_date": "2026-12-05",
+  "premium": 1009.86,
+  "coverage_amount": 62097.89,
+  "beneficiary": "Jacob Donaldson",
+  "sample_id": "insurance_document_0283"
+}

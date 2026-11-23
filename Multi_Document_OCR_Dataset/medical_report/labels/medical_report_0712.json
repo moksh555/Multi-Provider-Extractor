@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-7W4ASFC7",
+  "patient_name": "Melinda Cantu",
+  "visit_date": "2025-05-22",
+  "doctor_name": "Dr. Amber Bell",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0712"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andrew Cruz
+License: DL121280622
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL121280622",
+  "full_name": "Andrew Cruz",
+  "date_of_birth": "1996-12-17",
+  "class": "D",
+  "issue_date": "2026-03-05",
+  "expiry_date": "2031-03-05",
+  "address": "Unit 9849 Box 0277, DPO AE 26939",
+  "sample_id": "driving_license_0244"
+}

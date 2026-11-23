@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MBZYHH91",
+  "account_holder": "Mr. Bernard Flores",
+  "account_number_masked": "****0743",
+  "period_start": "2025-04-10",
+  "period_end": "2025-05-10",
+  "opening_balance": 3858.52,
+  "closing_balance": 2576.74,
+  "transactions": 14,
+  "sample_id": "bank_statement_0983"
+}

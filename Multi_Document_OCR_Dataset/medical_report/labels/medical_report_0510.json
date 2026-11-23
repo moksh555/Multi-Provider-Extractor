@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-B99OCGCH",
+  "patient_name": "William Tucker",
+  "visit_date": "2026-07-01",
+  "doctor_name": "Dr. Erin Nelson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0510"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-1YZG3W3H9
+Holder: William Saunders
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1YZG3W3H9",
+  "policy_holder": "William Saunders",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-03-17",
+  "expiry_date": "2024-03-17",
+  "premium": 788.2,
+  "coverage_amount": 453208.72,
+  "beneficiary": "Michael Preston",
+  "sample_id": "insurance_document_0579"
+}

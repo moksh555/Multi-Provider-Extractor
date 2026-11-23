@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8GPW3O4D",
+  "account_holder": "Jesse Smith",
+  "account_number_masked": "****7572",
+  "period_start": "2026-06-03",
+  "period_end": "2026-07-03",
+  "opening_balance": 4098.97,
+  "closing_balance": 6289.23,
+  "transactions": 13,
+  "sample_id": "bank_statement_0606"
+}

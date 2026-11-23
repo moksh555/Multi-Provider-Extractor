@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2LG1ZHQUN",
+  "policy_holder": "Marc Mitchell",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-09-20",
+  "expiry_date": "2024-09-20",
+  "premium": 847.26,
+  "coverage_amount": 371524.48,
+  "beneficiary": "Jose Martinez",
+  "sample_id": "insurance_document_0606"
+}

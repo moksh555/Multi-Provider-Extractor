@@ -1,0 +1,14 @@
+Medical Report MED-LGIC5L3U
+Patient: Leslie Yoder
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LGIC5L3U",
+  "patient_name": "Leslie Yoder",
+  "visit_date": "2026-07-14",
+  "doctor_name": "Dr. Daniel Garrison",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0092"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0329
+Company: Greenline Logistics
+Company Address: 115 Dhanmondi 27, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 63 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-05-05
+Due Date: 2026-06-04
+Currency: QAR
+Subtotal: 5138.12
+Tax: 0.0
+Total: 5143.12
+Balance Due: 0.0
+Status: paid

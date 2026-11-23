@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0521
+Company: Summit Agro Foods
+Company Address: 139 Sheikh Zayed Road, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 220 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-05-01
+Due Date: 2026-05-16
+Currency: QAR
+Subtotal: 7694.12
+Tax: 577.06
+Total: 8296.18
+Balance Due: 4157.42
+Status: partial

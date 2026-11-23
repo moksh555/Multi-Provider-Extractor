@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9MOFT6YR",
+  "merchant_name": "Nunez-Stephens",
+  "date": "2023-08-19",
+  "subtotal": 297.14,
+  "tax": 26.15,
+  "discount": 6.85,
+  "total": 316.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$72.64",
+      "line_total": "$72.64"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$76.01",
+      "line_total": "$152.02"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$72.48",
+      "line_total": "$72.48"
+    }
+  ],
+  "sample_id": "receipt_0121"
+}

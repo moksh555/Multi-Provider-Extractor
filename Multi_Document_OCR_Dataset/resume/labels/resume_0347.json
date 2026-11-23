@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Scott Stevens",
+  "email": "charlesbennett@example.net",
+  "phone": "216.703.7811",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "Pandas",
+    "Machine Learning",
+    "AWS",
+    "Deep Learning",
+    "TensorFlow",
+    "NLP",
+    "Streamlit",
+    "FastAPI",
+    "PyTorch",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0347"
+}

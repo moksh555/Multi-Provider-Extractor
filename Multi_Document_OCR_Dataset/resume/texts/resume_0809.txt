@@ -1,0 +1,26 @@
+Resume
+Rodney Parker
+Machine Learning Engineer
+Skills: Machine Learning, PyTorch, Deep Learning, Computer Vision, NLP, FastAPI, Streamlit, SQL, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Rodney Parker",
+  "email": "amanda59@example.net",
+  "phone": "897-476-3858",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Machine Learning",
+    "PyTorch",
+    "Deep Learning",
+    "Computer Vision",
+    "NLP",
+    "FastAPI",
+    "Streamlit",
+    "SQL",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0809"
+}

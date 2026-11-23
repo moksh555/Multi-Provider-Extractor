@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL976694569",
+  "full_name": "Maria Harper",
+  "date_of_birth": "1972-10-04",
+  "class": "A",
+  "issue_date": "2020-10-19",
+  "expiry_date": "2025-10-19",
+  "address": "29318 Brenda Via Apt. 529, West Micheleberg, DC 71308",
+  "sample_id": "driving_license_0061"
+}

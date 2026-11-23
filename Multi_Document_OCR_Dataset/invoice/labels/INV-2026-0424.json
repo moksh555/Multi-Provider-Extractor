@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0424",
+  "invoice_number": "INV-2026-0424",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "131 Doha Business Park, Dubai, UAE",
+  "customer_name": "Global Mart",
+  "billing_address": "229 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-17",
+  "due_date": "2026-03-04",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 287.92,
+      "amount": 2015.44
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 3,
+      "unit_price": 311.39,
+      "amount": 934.17
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 5,
+      "unit_price": 425.29,
+      "amount": 2126.45
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 526.91,
+      "amount": 1053.82
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 6,
+      "unit_price": 555.54,
+      "amount": 3333.24
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 251.47,
+      "amount": 3017.64
+    }
+  ],
+  "subtotal": 12480.76,
+  "discount": 1248.08,
+  "tax_rate": 0.075,
+  "tax": 842.45,
+  "shipping": 0,
+  "total": 12075.13,
+  "amount_paid": 7774.56,
+  "balance_due": 4300.57,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801407497712",
+  "po_number": "PO-57659"
+}

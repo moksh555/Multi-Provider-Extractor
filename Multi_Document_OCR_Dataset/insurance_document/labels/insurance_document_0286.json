@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0TPV726YG",
+  "policy_holder": "Randy Rhodes",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-08-01",
+  "expiry_date": "2024-08-01",
+  "premium": 1042.03,
+  "coverage_amount": 304267.55,
+  "beneficiary": "Allison Maldonado",
+  "sample_id": "insurance_document_0286"
+}

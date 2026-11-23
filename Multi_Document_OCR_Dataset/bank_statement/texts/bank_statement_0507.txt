@@ -1,0 +1,16 @@
+Bank Statement STM-D2SMD7KL
+Holder: Daniel Walters
+Closing Balance: $3711.84
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-D2SMD7KL",
+  "account_holder": "Daniel Walters",
+  "account_number_masked": "****2431",
+  "period_start": "2024-03-12",
+  "period_end": "2024-04-11",
+  "opening_balance": 1522.73,
+  "closing_balance": 3711.84,
+  "transactions": 11,
+  "sample_id": "bank_statement_0507"
+}

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0202",
+  "invoice_number": "INV-2026-0202",
+  "company_name": "Greenline Logistics",
+  "company_address": "105 Agrabad C/A, Chattogram, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "24 Road 12, Banani, Dubai, UAE",
+  "invoice_date": "2026-01-08",
+  "due_date": "2026-01-15",
+  "currency": "AED",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 12,
+      "unit_price": 148.65,
+      "amount": 1783.8
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 9,
+      "unit_price": 98.67,
+      "amount": 888.03
+    }
+  ],
+  "subtotal": 2671.83,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 2676.83,
+  "amount_paid": 0,
+  "balance_due": 2676.83,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801512591231",
+  "po_number": "PO-43340"
+}

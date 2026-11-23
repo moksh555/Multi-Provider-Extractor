@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GB8IY525",
+  "merchant_name": "Hanson-Gonzalez",
+  "date": "2022-08-03",
+  "subtotal": 546.49,
+  "tax": 43.48,
+  "discount": 2.71,
+  "total": 587.26,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$42.13",
+      "line_total": "$126.39"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$37.49",
+      "line_total": "$112.47"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$55.90",
+      "line_total": "$55.90"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$72.68",
+      "line_total": "$72.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$64.29",
+      "line_total": "$64.29"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$57.38",
+      "line_total": "$114.76"
+    }
+  ],
+  "sample_id": "receipt_0598"
+}

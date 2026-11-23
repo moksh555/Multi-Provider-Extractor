@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kevin Johnson
+License: DL120274990
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL120274990",
+  "full_name": "Kevin Johnson",
+  "date_of_birth": "1991-12-26",
+  "class": "D",
+  "issue_date": "2026-04-16",
+  "expiry_date": "2031-04-16",
+  "address": "37861 Melissa Crossing Suite 766, West Kimberlyhaven, LA 35577",
+  "sample_id": "driving_license_0561"
+}

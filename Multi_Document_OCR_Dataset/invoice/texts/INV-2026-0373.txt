@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0373
+Company: Nova Medical Supplies
+Company Address: 11 Al Barsha, Doha, Qatar
+Customer: Future School
+Billing Address: 225 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-02-18
+Due Date: 2026-04-04
+Currency: QAR
+Subtotal: 8720.32
+Tax: 0.0
+Total: 8309.3
+Balance Due: 8309.3
+Status: unpaid

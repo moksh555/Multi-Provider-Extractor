@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Heather Stone
+Passport No: P32608665
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P32608665",
+  "full_name": "Heather Stone",
+  "nationality": "US",
+  "date_of_birth": "1985-07-23",
+  "issue_date": "2023-08-19",
+  "expiry_date": "2033-08-19",
+  "place_of_birth": "Friedmanmouth",
+  "sample_id": "passport_0009"
+}

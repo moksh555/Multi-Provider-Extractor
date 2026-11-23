@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Gonzales
+License: DL284461443
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL284461443",
+  "full_name": "Michael Gonzales",
+  "date_of_birth": "1972-11-20",
+  "class": "C",
+  "issue_date": "2023-07-04",
+  "expiry_date": "2028-07-04",
+  "address": "7243 Hopkins Stravenue, Mccormickland, NV 78873",
+  "sample_id": "driving_license_0140"
+}

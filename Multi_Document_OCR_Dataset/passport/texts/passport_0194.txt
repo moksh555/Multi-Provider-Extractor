@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jennifer Tate
+Passport No: P85647099
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P85647099",
+  "full_name": "Jennifer Tate",
+  "nationality": "AE",
+  "date_of_birth": "1991-05-16",
+  "issue_date": "2026-01-09",
+  "expiry_date": "2036-01-09",
+  "place_of_birth": "Butlertown",
+  "sample_id": "passport_0194"
+}

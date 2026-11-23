@@ -1,0 +1,16 @@
+Insurance Policy POL-CWE4C1V47
+Holder: Jane Brown
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CWE4C1V47",
+  "policy_holder": "Jane Brown",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-08-09",
+  "expiry_date": "2024-08-09",
+  "premium": 1782.97,
+  "coverage_amount": 195038.18,
+  "beneficiary": "Courtney Brown",
+  "sample_id": "insurance_document_0793"
+}

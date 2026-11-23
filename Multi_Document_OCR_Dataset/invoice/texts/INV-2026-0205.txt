@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0205
+Company: PrimeSoft Technologies
+Company Address: 60 Agrabad C/A, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 46 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-03-19
+Due Date: 2026-04-18
+Currency: QAR
+Subtotal: 16652.28
+Tax: 815.96
+Total: 17140.19
+Balance Due: 17140.19
+Status: overdue

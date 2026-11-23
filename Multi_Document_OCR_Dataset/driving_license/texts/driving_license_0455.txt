@@ -1,0 +1,16 @@
+Synthetic Driving License
+Daniel Bryant
+License: DL262276976
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL262276976",
+  "full_name": "Daniel Bryant",
+  "date_of_birth": "1993-03-04",
+  "class": "C",
+  "issue_date": "2021-12-19",
+  "expiry_date": "2026-12-19",
+  "address": "289 Johns Circles Apt. 223, New Nicholas, MN 42175",
+  "sample_id": "driving_license_0455"
+}

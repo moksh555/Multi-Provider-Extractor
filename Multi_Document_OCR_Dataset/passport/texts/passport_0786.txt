@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Philip Smith III
+Passport No: P24904159
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24904159",
+  "full_name": "Philip Smith III",
+  "nationality": "AE",
+  "date_of_birth": "1989-12-27",
+  "issue_date": "2026-03-25",
+  "expiry_date": "2036-03-25",
+  "place_of_birth": "North Allenton",
+  "sample_id": "passport_0786"
+}

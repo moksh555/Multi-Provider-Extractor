@@ -1,0 +1,12 @@
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P90642222",
+  "full_name": "Jason Jones",
+  "nationality": "US",
+  "date_of_birth": "1983-08-16",
+  "issue_date": "2020-01-09",
+  "expiry_date": "2030-01-09",
+  "place_of_birth": "Greenburgh",
+  "sample_id": "passport_0440"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-NAWJGQU6H
+Holder: Sarah Everett
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NAWJGQU6H",
+  "policy_holder": "Sarah Everett",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-08-15",
+  "expiry_date": "2025-08-15",
+  "premium": 1438.2,
+  "coverage_amount": 30694.13,
+  "beneficiary": "Justin Wilson",
+  "sample_id": "insurance_document_0476"
+}

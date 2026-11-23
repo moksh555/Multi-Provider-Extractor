@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0343
+Company: Royal Diagnostics Center
+Company Address: 13 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 186 Agrabad C/A, Dubai, UAE
+Invoice Date: 2026-05-29
+Due Date: 2026-06-28
+Currency: AED
+Subtotal: 290.73
+Tax: 41.43
+Total: 327.62
+Balance Due: 0.0
+Status: paid

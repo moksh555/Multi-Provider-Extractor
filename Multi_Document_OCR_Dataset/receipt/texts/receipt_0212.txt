@@ -1,0 +1,55 @@
+Receipt RCT-4ZZ2P6EE
+Merchant: Perry PLC
+Date: 2021-03-13
+Total: $834.87
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4ZZ2P6EE",
+  "merchant_name": "Perry PLC",
+  "date": "2021-03-13",
+  "subtotal": 792.26,
+  "tax": 54.06,
+  "discount": 11.45,
+  "total": 834.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$55.59",
+      "line_total": "$166.77"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$71.29",
+      "line_total": "$285.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$57.08",
+      "line_total": "$114.16"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$18.57",
+      "line_total": "$18.57"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$25.29",
+      "line_total": "$50.58"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$78.51",
+      "line_total": "$157.02"
+    }
+  ],
+  "sample_id": "receipt_0212"
+}

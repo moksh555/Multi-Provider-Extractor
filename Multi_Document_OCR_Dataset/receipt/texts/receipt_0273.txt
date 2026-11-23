@@ -1,0 +1,67 @@
+Receipt RCT-V80LKX1S
+Merchant: Kim, Phillips and Terry
+Date: 2025-08-27
+Total: $701.75
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V80LKX1S",
+  "merchant_name": "Kim, Phillips and Terry",
+  "date": "2025-08-27",
+  "subtotal": 679.0,
+  "tax": 30.98,
+  "discount": 8.23,
+  "total": 701.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$19.09",
+      "line_total": "$19.09"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$20.14",
+      "line_total": "$60.42"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$64.31",
+      "line_total": "$128.62"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$42.20",
+      "line_total": "$168.80"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$50.75",
+      "line_total": "$203.00"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$6.53",
+      "line_total": "$26.12"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$51.11",
+      "line_total": "$51.11"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$10.92",
+      "line_total": "$21.84"
+    }
+  ],
+  "sample_id": "receipt_0273"
+}

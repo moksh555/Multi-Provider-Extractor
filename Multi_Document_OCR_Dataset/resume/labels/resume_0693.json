@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "David Warren",
+  "email": "lisacollins@example.net",
+  "phone": "001-969-766-0818",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "SQL",
+    "Streamlit",
+    "Deep Learning",
+    "TensorFlow",
+    "LangChain",
+    "FastAPI",
+    "Machine Learning",
+    "PyTorch",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0693"
+}

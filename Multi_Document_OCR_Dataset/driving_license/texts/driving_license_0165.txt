@@ -1,0 +1,16 @@
+Synthetic Driving License
+Suzanne Yang
+License: DL125058454
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL125058454",
+  "full_name": "Suzanne Yang",
+  "date_of_birth": "1965-03-06",
+  "class": "D",
+  "issue_date": "2026-04-07",
+  "expiry_date": "2031-04-07",
+  "address": "65419 Wilson Spring Apt. 238, South Caseymouth, VI 37503",
+  "sample_id": "driving_license_0165"
+}

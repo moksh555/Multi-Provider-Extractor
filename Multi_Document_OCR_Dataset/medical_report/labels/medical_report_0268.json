@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-7FMN3WZ3",
+  "patient_name": "Jessica Young",
+  "visit_date": "2024-12-14",
+  "doctor_name": "Dr. Jessica Smith",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0268"
+}

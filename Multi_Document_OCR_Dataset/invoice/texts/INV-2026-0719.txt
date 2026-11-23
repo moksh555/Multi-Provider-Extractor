@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0719
+Company: Nexus Digital Solutions
+Company Address: 58 Motijheel C/A, Sylhet, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 196 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-10
+Due Date: 2026-07-25
+Currency: QAR
+Subtotal: 10887.87
+Tax: 979.91
+Total: 10778.99
+Balance Due: 10778.99
+Status: unpaid

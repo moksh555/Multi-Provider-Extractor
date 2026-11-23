@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Adam Miller",
+  "email": "jaime61@example.com",
+  "phone": "2389453198",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "Pandas",
+    "Docker",
+    "NLP",
+    "AWS",
+    "LangChain",
+    "FastAPI",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0004"
+}

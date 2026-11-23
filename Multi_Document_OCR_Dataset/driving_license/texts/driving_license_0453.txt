@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nicholas Cisneros
+License: DL454749720
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL454749720",
+  "full_name": "Nicholas Cisneros",
+  "date_of_birth": "1987-04-12",
+  "class": "C",
+  "issue_date": "2026-04-27",
+  "expiry_date": "2031-04-27",
+  "address": "62050 Michael Point Apt. 247, Lake Brenda, WV 47675",
+  "sample_id": "driving_license_0453"
+}

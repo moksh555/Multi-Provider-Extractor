@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Edwin Larson MD
+Passport No: P08718085
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P08718085",
+  "full_name": "Edwin Larson MD",
+  "nationality": "US",
+  "date_of_birth": "1988-04-19",
+  "issue_date": "2024-04-01",
+  "expiry_date": "2034-04-01",
+  "place_of_birth": "Popefurt",
+  "sample_id": "passport_0189"
+}

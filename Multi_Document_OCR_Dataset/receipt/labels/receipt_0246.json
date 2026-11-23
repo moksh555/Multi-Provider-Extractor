@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HR07N8VO",
+  "merchant_name": "Arnold-Grant",
+  "date": "2022-05-11",
+  "subtotal": 289.7,
+  "tax": 16.65,
+  "discount": 4.25,
+  "total": 302.1,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$42.30",
+      "line_total": "$42.30"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$25.09",
+      "line_total": "$75.27"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$24.22",
+      "line_total": "$72.66"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$12.23",
+      "line_total": "$24.46"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$75.01",
+      "line_total": "$75.01"
+    }
+  ],
+  "sample_id": "receipt_0246"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "James Raymond",
+  "email": "thomas28@example.net",
+  "phone": "(446)612-0961x7300",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "NLP",
+    "TensorFlow",
+    "Deep Learning",
+    "Streamlit",
+    "Computer Vision",
+    "SQL",
+    "Docker",
+    "Pandas",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0107"
+}

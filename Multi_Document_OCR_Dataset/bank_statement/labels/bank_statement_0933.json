@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PIBBJYXR",
+  "account_holder": "Jenny Chase",
+  "account_number_masked": "****6034",
+  "period_start": "2026-07-22",
+  "period_end": "2026-08-21",
+  "opening_balance": 3667.4,
+  "closing_balance": 4736.03,
+  "transactions": 8,
+  "sample_id": "bank_statement_0933"
+}

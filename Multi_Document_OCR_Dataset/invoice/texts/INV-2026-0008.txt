@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0008
+Company: Nexus Digital Solutions
+Company Address: 151 Zindabazar Road, Riyadh, Saudi Arabia
+Customer: Sunrise Apparel
+Billing Address: 27 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-01-30
+Due Date: 2026-02-06
+Currency: QAR
+Subtotal: 22152.96
+Tax: 1628.24
+Total: 23388.14
+Balance Due: 23388.14
+Status: unpaid

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0721
+Company: Royal Diagnostics Center
+Company Address: 132 Sheikh Zayed Road, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 44 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-01-26
+Due Date: 2026-02-10
+Currency: USD
+Subtotal: 7484.89
+Tax: 748.49
+Total: 8238.38
+Balance Due: 3468.79
+Status: partial

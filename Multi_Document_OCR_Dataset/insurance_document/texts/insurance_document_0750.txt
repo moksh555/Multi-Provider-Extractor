@@ -1,0 +1,16 @@
+Insurance Policy POL-VFHZPQVJL
+Holder: Thomas Adams
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VFHZPQVJL",
+  "policy_holder": "Thomas Adams",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-28",
+  "expiry_date": "2027-05-28",
+  "premium": 1031.65,
+  "coverage_amount": 107863.18,
+  "beneficiary": "Melanie Bolton",
+  "sample_id": "insurance_document_0750"
+}

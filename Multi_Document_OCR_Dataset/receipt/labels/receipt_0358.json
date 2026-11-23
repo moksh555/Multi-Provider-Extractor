@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-L2MOXQ9W",
+  "merchant_name": "Ellis-Bradley",
+  "date": "2022-10-19",
+  "subtotal": 796.27,
+  "tax": 70.41,
+  "discount": 14.33,
+  "total": 852.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$74.49",
+      "line_total": "$223.47"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$49.11",
+      "line_total": "$49.11"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$75.26",
+      "line_total": "$225.78"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$52.91",
+      "line_total": "$52.91"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$61.25",
+      "line_total": "$245.00"
+    }
+  ],
+  "sample_id": "receipt_0358"
+}

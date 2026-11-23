@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Paul Adams",
+  "email": "perezpamela@example.org",
+  "phone": "001-413-250-5357x228",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "TensorFlow",
+    "Python",
+    "Computer Vision",
+    "AWS",
+    "NLP",
+    "Streamlit",
+    "Deep Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0179"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tiffany Henderson
+License: DL082812110
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL082812110",
+  "full_name": "Tiffany Henderson",
+  "date_of_birth": "1970-01-08",
+  "class": "A",
+  "issue_date": "2020-11-14",
+  "expiry_date": "2025-11-14",
+  "address": "53814 Webb Greens Apt. 096, West Sarah, SD 68072",
+  "sample_id": "driving_license_0515"
+}

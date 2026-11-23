@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Edwin Gonzalez",
+  "email": "jasminlong@example.com",
+  "phone": "(746)990-3369x310",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "PyTorch",
+    "Pandas",
+    "NLP",
+    "SQL",
+    "Docker",
+    "AWS",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0901"
+}

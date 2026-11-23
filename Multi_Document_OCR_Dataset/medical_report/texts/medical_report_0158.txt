@@ -1,0 +1,14 @@
+Medical Report MED-B201OJPZ
+Patient: Christina Gonzalez
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-B201OJPZ",
+  "patient_name": "Christina Gonzalez",
+  "visit_date": "2026-08-19",
+  "doctor_name": "Dr. John Williams",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0158"
+}

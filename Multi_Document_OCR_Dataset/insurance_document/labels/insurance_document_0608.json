@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F99U26UON",
+  "policy_holder": "Ashley Caldwell",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-05-11",
+  "expiry_date": "2024-05-11",
+  "premium": 1392.09,
+  "coverage_amount": 102285.95,
+  "beneficiary": "Grace Luna",
+  "sample_id": "insurance_document_0608"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GPCIVI05",
+  "merchant_name": "Smith Ltd",
+  "date": "2021-07-07",
+  "subtotal": 153.99,
+  "tax": 13.7,
+  "discount": 3.66,
+  "total": 164.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$7.05",
+      "line_total": "$7.05"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$15.27",
+      "line_total": "$61.08"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$28.62",
+      "line_total": "$85.86"
+    }
+  ],
+  "sample_id": "receipt_0351"
+}

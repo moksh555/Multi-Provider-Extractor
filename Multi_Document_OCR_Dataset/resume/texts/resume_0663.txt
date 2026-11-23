@@ -1,0 +1,25 @@
+Resume
+Misty James
+Software Engineer
+Skills: AWS, Machine Learning, LangChain, FastAPI, PyTorch, NLP, TensorFlow, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Misty James",
+  "email": "richardsonamanda@example.net",
+  "phone": "(362)331-6750",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "LangChain",
+    "FastAPI",
+    "PyTorch",
+    "NLP",
+    "TensorFlow",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0663"
+}

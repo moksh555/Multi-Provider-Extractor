@@ -1,0 +1,16 @@
+Bank Statement STM-XBS000DK
+Holder: Cody Woods
+Closing Balance: $7071.51
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XBS000DK",
+  "account_holder": "Cody Woods",
+  "account_number_masked": "****4924",
+  "period_start": "2025-08-16",
+  "period_end": "2025-09-15",
+  "opening_balance": 2856.7,
+  "closing_balance": 7071.51,
+  "transactions": 8,
+  "sample_id": "bank_statement_0650"
+}

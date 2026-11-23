@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL254739279",
+  "full_name": "Andrea Townsend",
+  "date_of_birth": "1986-04-04",
+  "class": "C",
+  "issue_date": "2022-09-27",
+  "expiry_date": "2027-09-27",
+  "address": "17518 Dixon Orchard Suite 151, Gregoryborough, ND 33305",
+  "sample_id": "driving_license_0855"
+}

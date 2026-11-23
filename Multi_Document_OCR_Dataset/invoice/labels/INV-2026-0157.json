@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0157",
+  "invoice_number": "INV-2026-0157",
+  "company_name": "Golden Harvest Store",
+  "company_address": "123 Sheikh Zayed Road, Doha, Qatar",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "196 Dhanmondi 27, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-19",
+  "due_date": "2026-03-26",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 5,
+      "unit_price": 113.54,
+      "amount": 567.7
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 365.69,
+      "amount": 731.38
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 2,
+      "unit_price": 23.83,
+      "amount": 47.66
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 43.8,
+      "amount": 306.6
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 675.75,
+      "amount": 675.75
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 10,
+      "unit_price": 57.9,
+      "amount": 579.0
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 5,
+      "unit_price": 44.44,
+      "amount": 222.2
+    }
+  ],
+  "subtotal": 3130.29,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 156.51,
+  "shipping": 5,
+  "total": 3291.8,
+  "amount_paid": 0,
+  "balance_due": 3291.8,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801001652601",
+  "po_number": "PO-72538"
+}

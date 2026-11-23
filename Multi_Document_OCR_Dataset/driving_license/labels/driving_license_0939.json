@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL577891147",
+  "full_name": "Brian Turner",
+  "date_of_birth": "1967-03-06",
+  "class": "A",
+  "issue_date": "2021-09-07",
+  "expiry_date": "2026-09-07",
+  "address": "9972 Mccarty Spurs Apt. 677, Dawnberg, WA 01335",
+  "sample_id": "driving_license_0939"
+}

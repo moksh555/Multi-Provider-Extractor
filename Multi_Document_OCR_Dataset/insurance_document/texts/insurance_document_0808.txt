@@ -1,0 +1,16 @@
+Insurance Policy POL-JVK8C4NAN
+Holder: Patricia Robinson
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JVK8C4NAN",
+  "policy_holder": "Patricia Robinson",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-04-01",
+  "expiry_date": "2024-04-01",
+  "premium": 654.19,
+  "coverage_amount": 195870.22,
+  "beneficiary": "Evan Todd",
+  "sample_id": "insurance_document_0808"
+}

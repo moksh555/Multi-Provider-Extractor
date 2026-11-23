@@ -1,0 +1,16 @@
+Insurance Policy POL-3C54WSQT2
+Holder: Catherine Saunders MD
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3C54WSQT2",
+  "policy_holder": "Catherine Saunders MD",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-07-10",
+  "expiry_date": "2026-07-10",
+  "premium": 2283.54,
+  "coverage_amount": 290111.78,
+  "beneficiary": "Terri Clark",
+  "sample_id": "insurance_document_0100"
+}

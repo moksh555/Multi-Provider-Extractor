@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL856280937",
+  "full_name": "Paul Brown",
+  "date_of_birth": "1974-10-05",
+  "class": "C",
+  "issue_date": "2022-03-24",
+  "expiry_date": "2027-03-24",
+  "address": "096 Emily Stravenue Suite 015, Helenland, OK 34899",
+  "sample_id": "driving_license_0775"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-4A3S8PGB
+Holder: John Richards
+Closing Balance: $3393.69
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4A3S8PGB",
+  "account_holder": "John Richards",
+  "account_number_masked": "****0862",
+  "period_start": "2026-11-14",
+  "period_end": "2026-12-14",
+  "opening_balance": 2502.86,
+  "closing_balance": 3393.69,
+  "transactions": 14,
+  "sample_id": "bank_statement_0229"
+}

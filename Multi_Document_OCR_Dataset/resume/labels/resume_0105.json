@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Joshua Sloan",
+  "email": "glennmoore@example.org",
+  "phone": "432.702.3510",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "AWS",
+    "Docker",
+    "Computer Vision",
+    "SQL",
+    "NLP",
+    "Machine Learning",
+    "Streamlit",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0105"
+}

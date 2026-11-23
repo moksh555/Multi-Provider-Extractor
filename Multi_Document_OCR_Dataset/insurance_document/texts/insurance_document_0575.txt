@@ -1,0 +1,16 @@
+Insurance Policy POL-Z3095HS25
+Holder: Tara Turner
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z3095HS25",
+  "policy_holder": "Tara Turner",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-07-24",
+  "expiry_date": "2027-07-24",
+  "premium": 742.04,
+  "coverage_amount": 378820.06,
+  "beneficiary": "Keith Moore",
+  "sample_id": "insurance_document_0575"
+}

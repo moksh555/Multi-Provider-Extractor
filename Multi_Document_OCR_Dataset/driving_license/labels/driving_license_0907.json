@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL041093165",
+  "full_name": "Susan Santos",
+  "date_of_birth": "1989-09-12",
+  "class": "A",
+  "issue_date": "2021-01-22",
+  "expiry_date": "2026-01-22",
+  "address": "PSC 8280, Box 4056, APO AP 15941",
+  "sample_id": "driving_license_0907"
+}

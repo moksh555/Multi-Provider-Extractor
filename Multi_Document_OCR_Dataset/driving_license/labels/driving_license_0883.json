@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL295758217",
+  "full_name": "Steven Holland",
+  "date_of_birth": "1970-10-05",
+  "class": "D",
+  "issue_date": "2024-12-25",
+  "expiry_date": "2029-12-25",
+  "address": "255 Chambers Underpass, Karenview, GA 11647",
+  "sample_id": "driving_license_0883"
+}

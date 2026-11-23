@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Cody Valdez",
+  "email": "shawn47@example.com",
+  "phone": "(865)773-2977x41050",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "Computer Vision",
+    "Streamlit",
+    "Docker",
+    "NLP",
+    "LangChain",
+    "TensorFlow",
+    "SQL",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0653"
+}

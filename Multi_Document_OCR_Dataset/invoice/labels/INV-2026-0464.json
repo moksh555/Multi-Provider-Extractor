@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0464",
+  "invoice_number": "INV-2026-0464",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "53 Motijheel C/A, Chattogram, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "171 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-24",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 4,
+      "unit_price": 489.26,
+      "amount": 1957.04
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 10,
+      "unit_price": 347.78,
+      "amount": 3477.8
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 10,
+      "unit_price": 553.0,
+      "amount": 5530.0
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 484.9,
+      "amount": 484.9
+    }
+  ],
+  "subtotal": 11449.74,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 11474.74,
+  "amount_paid": 0,
+  "balance_due": 11474.74,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801214406716",
+  "po_number": "PO-60969"
+}

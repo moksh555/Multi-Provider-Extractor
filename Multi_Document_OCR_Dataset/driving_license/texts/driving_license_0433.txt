@@ -1,0 +1,16 @@
+Synthetic Driving License
+Alexander Rice
+License: DL404519757
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL404519757",
+  "full_name": "Alexander Rice",
+  "date_of_birth": "1972-11-08",
+  "class": "B",
+  "issue_date": "2021-02-06",
+  "expiry_date": "2026-02-06",
+  "address": "18242 Jonathan Corners, West Stephanie, TX 22677",
+  "sample_id": "driving_license_0433"
+}

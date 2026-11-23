@@ -1,0 +1,16 @@
+Bank Statement STM-COWKAO3F
+Holder: Christine Baker
+Closing Balance: $2976.32
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-COWKAO3F",
+  "account_holder": "Christine Baker",
+  "account_number_masked": "****2199",
+  "period_start": "2026-07-06",
+  "period_end": "2026-08-05",
+  "opening_balance": 1635.31,
+  "closing_balance": 2976.32,
+  "transactions": 10,
+  "sample_id": "bank_statement_0910"
+}

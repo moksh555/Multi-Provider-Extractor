@@ -1,0 +1,14 @@
+Medical Report MED-JEN6ZEET
+Patient: Ivan Mccarty
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JEN6ZEET",
+  "patient_name": "Ivan Mccarty",
+  "visit_date": "2026-04-12",
+  "doctor_name": "Dr. Kendra Smith",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0629"
+}

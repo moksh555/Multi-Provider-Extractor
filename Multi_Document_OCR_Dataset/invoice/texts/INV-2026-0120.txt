@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0120
+Company: Summit Agro Foods
+Company Address: 96 Gulshan Avenue, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 147 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-05-21
+Due Date: 2026-07-05
+Currency: AED
+Subtotal: 8697.99
+Tax: 782.82
+Total: 8636.01
+Balance Due: 0.0
+Status: paid

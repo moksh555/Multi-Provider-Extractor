@@ -1,0 +1,67 @@
+Receipt RCT-ID3DNKN3
+Merchant: Robbins, Jackson and Wallace
+Date: 2022-06-30
+Total: $815.02
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ID3DNKN3",
+  "merchant_name": "Robbins, Jackson and Wallace",
+  "date": "2022-06-30",
+  "subtotal": 760.27,
+  "tax": 63.86,
+  "discount": 9.11,
+  "total": 815.02,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$42.91",
+      "line_total": "$42.91"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$35.77",
+      "line_total": "$71.54"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$73.67",
+      "line_total": "$147.34"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$7.85",
+      "line_total": "$15.70"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$60.44",
+      "line_total": "$120.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$77.10",
+      "line_total": "$231.30"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$20.58",
+      "line_total": "$41.16"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$44.72",
+      "line_total": "$89.44"
+    }
+  ],
+  "sample_id": "receipt_0092"
+}

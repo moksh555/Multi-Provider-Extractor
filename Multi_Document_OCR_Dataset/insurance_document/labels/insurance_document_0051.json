@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YG0JV1V93",
+  "policy_holder": "Maria Johnson",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-04-10",
+  "expiry_date": "2025-04-10",
+  "premium": 978.9,
+  "coverage_amount": 158111.12,
+  "beneficiary": "Sandra Adams",
+  "sample_id": "insurance_document_0051"
+}

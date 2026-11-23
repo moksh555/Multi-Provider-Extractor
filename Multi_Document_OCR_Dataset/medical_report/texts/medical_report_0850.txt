@@ -1,0 +1,14 @@
+Medical Report MED-UTHHWY8F
+Patient: Nathan Lee
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-UTHHWY8F",
+  "patient_name": "Nathan Lee",
+  "visit_date": "2026-01-27",
+  "doctor_name": "Dr. Christopher Rivera",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0850"
+}

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8P4XTKXG",
+  "merchant_name": "Morris PLC",
+  "date": "2021-03-10",
+  "subtotal": 987.28,
+  "tax": 85.37,
+  "discount": 2.14,
+  "total": 1070.51,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$30.77",
+      "line_total": "$123.08"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$61.33",
+      "line_total": "$245.32"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$11.93",
+      "line_total": "$11.93"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$25.34",
+      "line_total": "$50.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$26.77",
+      "line_total": "$80.31"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$50.63",
+      "line_total": "$202.52"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$59.32",
+      "line_total": "$237.28"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$36.16",
+      "line_total": "$36.16"
+    }
+  ],
+  "sample_id": "receipt_0646"
+}

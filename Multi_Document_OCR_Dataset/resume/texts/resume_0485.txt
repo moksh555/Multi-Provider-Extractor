@@ -1,0 +1,23 @@
+Resume
+Carla Moses
+Backend Developer
+Skills: NLP, Docker, Machine Learning, SQL, TensorFlow, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Carla Moses",
+  "email": "maria79@example.org",
+  "phone": "748-813-8819x0114",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "Docker",
+    "Machine Learning",
+    "SQL",
+    "TensorFlow",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0485"
+}

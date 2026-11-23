@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-E88SEBY8",
+  "merchant_name": "Downs, Webb and Williams",
+  "date": "2022-07-06",
+  "subtotal": 586.32,
+  "tax": 36.45,
+  "discount": 3.55,
+  "total": 619.22,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$44.29",
+      "line_total": "$44.29"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$70.79",
+      "line_total": "$70.79"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$48.92",
+      "line_total": "$195.68"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$28.60",
+      "line_total": "$114.40"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$53.72",
+      "line_total": "$161.16"
+    }
+  ],
+  "sample_id": "receipt_0548"
+}

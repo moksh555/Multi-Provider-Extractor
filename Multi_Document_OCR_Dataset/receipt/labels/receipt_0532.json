@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2F2NATD4",
+  "merchant_name": "Richardson-Barrera",
+  "date": "2023-01-10",
+  "subtotal": 498.86,
+  "tax": 33.15,
+  "discount": 2.26,
+  "total": 529.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$54.24",
+      "line_total": "$162.72"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$54.62",
+      "line_total": "$218.48"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$62.41",
+      "line_total": "$62.41"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$55.25",
+      "line_total": "$55.25"
+    }
+  ],
+  "sample_id": "receipt_0532"
+}

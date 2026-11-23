@@ -1,0 +1,49 @@
+Receipt RCT-Y1FFUU5F
+Merchant: Ward-Davis
+Date: 2026-06-04
+Total: $384.35
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Y1FFUU5F",
+  "merchant_name": "Ward-Davis",
+  "date": "2026-06-04",
+  "subtotal": 354.57,
+  "tax": 31.33,
+  "discount": 1.55,
+  "total": 384.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$61.16",
+      "line_total": "$122.32"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$21.88",
+      "line_total": "$21.88"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$53.82",
+      "line_total": "$53.82"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$38.10",
+      "line_total": "$152.40"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$4.15",
+      "line_total": "$4.15"
+    }
+  ],
+  "sample_id": "receipt_0137"
+}

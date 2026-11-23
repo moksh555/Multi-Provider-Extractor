@@ -1,0 +1,37 @@
+Receipt RCT-I2SO0DMJ
+Merchant: Todd-Cline
+Date: 2025-09-04
+Total: $453.87
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-I2SO0DMJ",
+  "merchant_name": "Todd-Cline",
+  "date": "2025-09-04",
+  "subtotal": 418.59,
+  "tax": 47.65,
+  "discount": 12.37,
+  "total": 453.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$47.28",
+      "line_total": "$94.56"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$49.59",
+      "line_total": "$49.59"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$68.61",
+      "line_total": "$274.44"
+    }
+  ],
+  "sample_id": "receipt_0895"
+}

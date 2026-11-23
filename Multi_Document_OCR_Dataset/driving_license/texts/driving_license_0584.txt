@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lawrence Stone
+License: DL794481167
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL794481167",
+  "full_name": "Lawrence Stone",
+  "date_of_birth": "1969-02-20",
+  "class": "A",
+  "issue_date": "2026-04-22",
+  "expiry_date": "2031-04-22",
+  "address": "313 Brian Camp, Johnside, CT 36606",
+  "sample_id": "driving_license_0584"
+}

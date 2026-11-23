@@ -1,0 +1,16 @@
+Bank Statement STM-4TP1NA6K
+Holder: Ricardo Chapman
+Closing Balance: $2130.08
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4TP1NA6K",
+  "account_holder": "Ricardo Chapman",
+  "account_number_masked": "****5244",
+  "period_start": "2026-12-03",
+  "period_end": "2027-01-02",
+  "opening_balance": 869.93,
+  "closing_balance": 2130.08,
+  "transactions": 14,
+  "sample_id": "bank_statement_0151"
+}

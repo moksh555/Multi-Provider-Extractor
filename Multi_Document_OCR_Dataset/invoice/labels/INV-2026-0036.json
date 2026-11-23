@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0036",
+  "invoice_number": "INV-2026-0036",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "67 Road 12, Banani, Sylhet, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "239 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-16",
+  "due_date": "2026-07-16",
+  "currency": "BDT",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 402.99,
+      "amount": 4835.88
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 770.73,
+      "amount": 770.73
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 5,
+      "unit_price": 189.58,
+      "amount": 947.9
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 799.67,
+      "amount": 7197.03
+    },
+    {
+      "description": "API Integration",
+      "quantity": 9,
+      "unit_price": 364.38,
+      "amount": 3279.42
+    }
+  ],
+  "subtotal": 17030.96,
+  "discount": 340.62,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 16695.34,
+  "amount_paid": 0,
+  "balance_due": 16695.34,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801304741950",
+  "po_number": "PO-52146"
+}

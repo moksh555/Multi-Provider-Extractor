@@ -1,0 +1,16 @@
+Bank Statement STM-0KWCCIMN
+Holder: Jane Aguilar
+Closing Balance: $1374.74
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0KWCCIMN",
+  "account_holder": "Jane Aguilar",
+  "account_number_masked": "****9757",
+  "period_start": "2026-11-08",
+  "period_end": "2026-12-08",
+  "opening_balance": 2029.69,
+  "closing_balance": 1374.74,
+  "transactions": 13,
+  "sample_id": "bank_statement_0242"
+}

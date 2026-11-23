@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Simmons
+License: DL872601131
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL872601131",
+  "full_name": "Michael Simmons",
+  "date_of_birth": "1972-09-06",
+  "class": "D",
+  "issue_date": "2025-09-23",
+  "expiry_date": "2030-09-23",
+  "address": "22557 Johns Course, Lisaburgh, DE 53031",
+  "sample_id": "driving_license_0206"
+}

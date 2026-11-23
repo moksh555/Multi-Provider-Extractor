@@ -1,0 +1,24 @@
+Resume
+Todd Molina
+Backend Developer
+Skills: Python, Machine Learning, TensorFlow, Streamlit, Docker, FastAPI, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Todd Molina",
+  "email": "emilyhutchinson@example.org",
+  "phone": "938-714-4565x1499",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "Streamlit",
+    "Docker",
+    "FastAPI",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0987"
+}

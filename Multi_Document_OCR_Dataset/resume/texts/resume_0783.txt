@@ -1,0 +1,27 @@
+Resume
+Louis Smith
+Machine Learning Engineer
+Skills: Streamlit, Pandas, TensorFlow, LangChain, Docker, Python, PyTorch, NLP, FastAPI, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Louis Smith",
+  "email": "evan16@example.net",
+  "phone": "962.457.7210",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "Pandas",
+    "TensorFlow",
+    "LangChain",
+    "Docker",
+    "Python",
+    "PyTorch",
+    "NLP",
+    "FastAPI",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0783"
+}

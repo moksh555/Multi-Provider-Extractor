@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IZKY22UBT",
+  "policy_holder": "Andrew Johnson",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-05-22",
+  "expiry_date": "2024-05-22",
+  "premium": 1324.19,
+  "coverage_amount": 177203.28,
+  "beneficiary": "Audrey Young DDS",
+  "sample_id": "insurance_document_0045"
+}

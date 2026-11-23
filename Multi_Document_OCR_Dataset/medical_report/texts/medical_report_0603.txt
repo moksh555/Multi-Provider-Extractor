@@ -1,0 +1,14 @@
+Medical Report MED-W9NRDVP5
+Patient: Paige Williams
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-W9NRDVP5",
+  "patient_name": "Paige Williams",
+  "visit_date": "2025-10-20",
+  "doctor_name": "Dr. Dennis Moody",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0603"
+}

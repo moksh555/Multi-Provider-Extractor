@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Benjamin Case
+Passport No: P36375574
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P36375574",
+  "full_name": "Benjamin Case",
+  "nationality": "BD",
+  "date_of_birth": "1982-08-23",
+  "issue_date": "2021-12-06",
+  "expiry_date": "2031-12-06",
+  "place_of_birth": "Sabrinaborough",
+  "sample_id": "passport_0559"
+}

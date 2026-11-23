@@ -1,0 +1,23 @@
+Resume
+Elizabeth Garza
+Backend Developer
+Skills: Deep Learning, NLP, LangChain, Machine Learning, Streamlit, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Elizabeth Garza",
+  "email": "ramoscheyenne@example.com",
+  "phone": "289.816.2441",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Deep Learning",
+    "NLP",
+    "LangChain",
+    "Machine Learning",
+    "Streamlit",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0525"
+}

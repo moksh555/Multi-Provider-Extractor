@@ -1,0 +1,14 @@
+Medical Report MED-W5XBNMC4
+Patient: Leonard Schmitt
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-W5XBNMC4",
+  "patient_name": "Leonard Schmitt",
+  "visit_date": "2026-10-23",
+  "doctor_name": "Dr. Regina Ruiz",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0967"
+}

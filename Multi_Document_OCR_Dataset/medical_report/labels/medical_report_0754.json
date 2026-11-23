@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RO62B551",
+  "patient_name": "Craig Jones",
+  "visit_date": "2025-10-15",
+  "doctor_name": "Dr. Tony Key",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0754"
+}

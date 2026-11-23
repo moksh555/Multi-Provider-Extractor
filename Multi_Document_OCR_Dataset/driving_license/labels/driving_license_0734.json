@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL614459712",
+  "full_name": "Mr. Jeffrey Ward",
+  "date_of_birth": "1971-07-26",
+  "class": "A",
+  "issue_date": "2023-04-01",
+  "expiry_date": "2028-04-01",
+  "address": "0139 Stout Squares, Katherineside, HI 52663",
+  "sample_id": "driving_license_0734"
+}

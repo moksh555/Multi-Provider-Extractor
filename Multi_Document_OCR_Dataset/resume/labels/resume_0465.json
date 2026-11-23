@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Mcdowell",
+  "email": "lindseydaniels@example.net",
+  "phone": "(386)841-7825x601",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Machine Learning",
+    "Docker",
+    "SQL",
+    "AWS",
+    "NLP",
+    "Pandas",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0465"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-XF8E8LD4D
+Holder: Lance Simmons
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XF8E8LD4D",
+  "policy_holder": "Lance Simmons",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-02-01",
+  "expiry_date": "2024-02-01",
+  "premium": 1839.42,
+  "coverage_amount": 210889.52,
+  "beneficiary": "Heather Williams",
+  "sample_id": "insurance_document_0067"
+}

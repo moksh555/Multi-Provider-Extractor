@@ -1,0 +1,37 @@
+Receipt RCT-VF51Z58B
+Merchant: Hawkins Inc
+Date: 2023-11-13
+Total: $343.30
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VF51Z58B",
+  "merchant_name": "Hawkins Inc",
+  "date": "2023-11-13",
+  "subtotal": 324.9,
+  "tax": 27.39,
+  "discount": 8.99,
+  "total": 343.3,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$47.21",
+      "line_total": "$188.84"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$18.75",
+      "line_total": "$56.25"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$79.81",
+      "line_total": "$79.81"
+    }
+  ],
+  "sample_id": "receipt_0418"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0659
+Company: SkyNet Office Mart
+Company Address: 42 Road 12, Banani, Chattogram, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 84 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-03-14
+Due Date: 2026-03-21
+Currency: USD
+Subtotal: 17680.08
+Tax: 795.6
+Total: 16712.67
+Balance Due: 16712.67
+Status: unpaid

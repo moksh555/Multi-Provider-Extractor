@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PVPF8R1PC",
+  "policy_holder": "Matthew Martinez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-05-03",
+  "expiry_date": "2027-05-03",
+  "premium": 1398.53,
+  "coverage_amount": 280897.55,
+  "beneficiary": "William Gray",
+  "sample_id": "insurance_document_0631"
+}

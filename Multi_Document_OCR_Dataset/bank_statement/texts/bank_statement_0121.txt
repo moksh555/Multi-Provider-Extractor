@@ -1,0 +1,16 @@
+Bank Statement STM-W6VGK4Y3
+Holder: Anne Medina
+Closing Balance: $7530.45
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-W6VGK4Y3",
+  "account_holder": "Anne Medina",
+  "account_number_masked": "****1682",
+  "period_start": "2025-03-30",
+  "period_end": "2025-04-29",
+  "opening_balance": 4018.36,
+  "closing_balance": 7530.45,
+  "transactions": 9,
+  "sample_id": "bank_statement_0121"
+}

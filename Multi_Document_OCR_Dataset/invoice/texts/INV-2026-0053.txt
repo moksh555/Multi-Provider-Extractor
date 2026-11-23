@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0053
+Company: Nova Medical Supplies
+Company Address: 191 Mirpur DOHS, Dubai, UAE
+Customer: TechPoint BD
+Billing Address: 235 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-04-16
+Due Date: 2026-05-31
+Currency: QAR
+Subtotal: 4477.32
+Tax: 447.73
+Total: 4925.05
+Balance Due: 4925.05
+Status: unpaid

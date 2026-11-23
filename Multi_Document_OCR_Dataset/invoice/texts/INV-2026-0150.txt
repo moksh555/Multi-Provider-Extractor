@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0150
+Company: Greenline Logistics
+Company Address: 67 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Bengal Motors
+Billing Address: 230 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-06-24
+Due Date: 2026-08-08
+Currency: AED
+Subtotal: 19073.97
+Tax: 0.0
+Total: 18692.49
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0762
+Company: Greenline Logistics
+Company Address: 107 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 107 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-01-31
+Due Date: 2026-02-07
+Currency: AED
+Subtotal: 14805.8
+Tax: 0.0
+Total: 14830.8
+Balance Due: 14830.8
+Status: overdue

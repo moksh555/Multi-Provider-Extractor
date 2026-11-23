@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0265
+Company: SkyNet Office Mart
+Company Address: 146 Uttara Sector 7, Dubai, UAE
+Customer: Digital Learning Hub
+Billing Address: 147 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-05-13
+Due Date: 2026-06-12
+Currency: BDT
+Subtotal: 6565.23
+Tax: 656.52
+Total: 7231.75
+Balance Due: 7231.75
+Status: overdue

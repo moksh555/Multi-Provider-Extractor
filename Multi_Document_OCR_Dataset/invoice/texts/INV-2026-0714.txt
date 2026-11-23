@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0714
+Company: Greenline Logistics
+Company Address: 19 Uttara Sector 7, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 27 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-04-24
+Due Date: 2026-05-01
+Currency: QAR
+Subtotal: 5829.32
+Tax: 0.0
+Total: 5829.32
+Balance Due: 5829.32
+Status: overdue

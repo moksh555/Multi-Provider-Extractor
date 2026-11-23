@@ -1,0 +1,16 @@
+Insurance Policy POL-RP0J43D5I
+Holder: William Huerta
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RP0J43D5I",
+  "policy_holder": "William Huerta",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-03-13",
+  "expiry_date": "2027-03-13",
+  "premium": 1572.59,
+  "coverage_amount": 195704.76,
+  "beneficiary": "Rebecca Rodriguez",
+  "sample_id": "insurance_document_0047"
+}

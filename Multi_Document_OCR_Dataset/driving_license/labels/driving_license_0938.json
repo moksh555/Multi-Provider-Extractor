@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL534494732",
+  "full_name": "Angel Young",
+  "date_of_birth": "1970-05-27",
+  "class": "D",
+  "issue_date": "2026-10-08",
+  "expiry_date": "2031-10-08",
+  "address": "5130 Morgan Bypass, Lake Cynthia, OH 97252",
+  "sample_id": "driving_license_0938"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL699514142",
+  "full_name": "Stephen Anderson",
+  "date_of_birth": "1972-01-28",
+  "class": "A",
+  "issue_date": "2020-05-01",
+  "expiry_date": "2025-05-01",
+  "address": "93371 Shelly River, Kevinfort, WV 26977",
+  "sample_id": "driving_license_0525"
+}

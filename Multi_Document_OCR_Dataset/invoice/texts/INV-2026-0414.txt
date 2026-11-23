@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0414
+Company: Summit Agro Foods
+Company Address: 16 Zindabazar Road, Dhaka, Bangladesh
+Customer: Global Mart
+Billing Address: 228 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-01-07
+Due Date: 2026-01-22
+Currency: SAR
+Subtotal: 15852.98
+Tax: 1585.3
+Total: 17438.28
+Balance Due: 0.0
+Status: paid

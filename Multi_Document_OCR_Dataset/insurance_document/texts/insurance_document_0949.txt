@@ -1,0 +1,16 @@
+Insurance Policy POL-VF4S2NI8T
+Holder: Vincent Zuniga
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VF4S2NI8T",
+  "policy_holder": "Vincent Zuniga",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-11-22",
+  "expiry_date": "2024-11-22",
+  "premium": 358.33,
+  "coverage_amount": 91161.4,
+  "beneficiary": "Jennifer Lewis",
+  "sample_id": "insurance_document_0949"
+}

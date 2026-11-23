@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Harris
+Passport No: P82848310
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P82848310",
+  "full_name": "Michael Harris",
+  "nationality": "GB",
+  "date_of_birth": "1977-01-04",
+  "issue_date": "2022-11-16",
+  "expiry_date": "2032-11-16",
+  "place_of_birth": "South Kathrynchester",
+  "sample_id": "passport_0323"
+}

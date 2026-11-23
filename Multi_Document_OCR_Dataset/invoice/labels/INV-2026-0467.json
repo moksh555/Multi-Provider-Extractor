@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0467",
+  "invoice_number": "INV-2026-0467",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "30 Dhanmondi 27, Doha, Qatar",
+  "customer_name": "Global Mart",
+  "billing_address": "75 Jumeirah Lake Towers, Doha, Qatar",
+  "invoice_date": "2026-05-24",
+  "due_date": "2026-06-23",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 259.37,
+      "amount": 1037.48
+    },
+    {
+      "description": "Web Development",
+      "quantity": 5,
+      "unit_price": 744.46,
+      "amount": 3722.3
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 194.42,
+      "amount": 2333.04
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 674.62,
+      "amount": 1349.24
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 10,
+      "unit_price": 110.14,
+      "amount": 1101.4
+    }
+  ],
+  "subtotal": 9543.46,
+  "discount": 190.87,
+  "tax_rate": 0.075,
+  "tax": 701.44,
+  "shipping": 25,
+  "total": 10079.03,
+  "amount_paid": 0,
+  "balance_due": 10079.03,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801572782428",
+  "po_number": "PO-82566"
+}

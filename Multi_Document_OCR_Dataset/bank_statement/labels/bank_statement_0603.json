@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5Q7GX2SL",
+  "account_holder": "Anthony Proctor",
+  "account_number_masked": "****8339",
+  "period_start": "2024-12-26",
+  "period_end": "2025-01-25",
+  "opening_balance": 2320.36,
+  "closing_balance": 3351.71,
+  "transactions": 9,
+  "sample_id": "bank_statement_0603"
+}

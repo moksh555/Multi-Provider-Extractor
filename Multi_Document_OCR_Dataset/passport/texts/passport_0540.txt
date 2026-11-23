@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Darlene Watson
+Passport No: P63423294
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P63423294",
+  "full_name": "Darlene Watson",
+  "nationality": "BD",
+  "date_of_birth": "1968-10-17",
+  "issue_date": "2023-12-30",
+  "expiry_date": "2033-12-30",
+  "place_of_birth": "Jenniferchester",
+  "sample_id": "passport_0540"
+}

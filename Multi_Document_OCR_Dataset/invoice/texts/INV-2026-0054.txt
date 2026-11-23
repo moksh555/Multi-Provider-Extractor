@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0054
+Company: Greenline Logistics
+Company Address: 71 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 199 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-04-30
+Due Date: 2026-05-30
+Currency: AED
+Subtotal: 13072.31
+Tax: 882.38
+Total: 12672.46
+Balance Due: 5834.76
+Status: partial

@@ -1,0 +1,16 @@
+Bank Statement STM-CYX97I98
+Holder: Tina Johnson
+Closing Balance: $4621.09
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CYX97I98",
+  "account_holder": "Tina Johnson",
+  "account_number_masked": "****1859",
+  "period_start": "2024-11-13",
+  "period_end": "2024-12-13",
+  "opening_balance": 2102.82,
+  "closing_balance": 4621.09,
+  "transactions": 8,
+  "sample_id": "bank_statement_0599"
+}

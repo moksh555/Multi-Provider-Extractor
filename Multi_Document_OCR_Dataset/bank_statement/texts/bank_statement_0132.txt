@@ -1,0 +1,16 @@
+Bank Statement STM-7XYLJD2V
+Holder: Jamie Chavez
+Closing Balance: $4426.82
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7XYLJD2V",
+  "account_holder": "Jamie Chavez",
+  "account_number_masked": "****8471",
+  "period_start": "2025-01-09",
+  "period_end": "2025-02-08",
+  "opening_balance": 4665.47,
+  "closing_balance": 4426.82,
+  "transactions": 8,
+  "sample_id": "bank_statement_0132"
+}

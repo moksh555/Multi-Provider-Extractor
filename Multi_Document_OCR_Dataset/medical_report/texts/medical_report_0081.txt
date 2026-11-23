@@ -1,0 +1,14 @@
+Medical Report MED-K0BO6NZP
+Patient: Shannon White
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-K0BO6NZP",
+  "patient_name": "Shannon White",
+  "visit_date": "2024-03-08",
+  "doctor_name": "Dr. Robin Schmidt",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0081"
+}

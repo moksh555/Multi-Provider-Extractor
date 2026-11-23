@@ -1,0 +1,16 @@
+Insurance Policy POL-OAY12TLXL
+Holder: Jeffrey Watts
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OAY12TLXL",
+  "policy_holder": "Jeffrey Watts",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-11-19",
+  "expiry_date": "2026-11-19",
+  "premium": 1440.44,
+  "coverage_amount": 372445.65,
+  "beneficiary": "John Hernandez",
+  "sample_id": "insurance_document_0849"
+}

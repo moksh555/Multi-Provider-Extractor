@@ -1,0 +1,67 @@
+Receipt RCT-HGBO06FH
+Merchant: Davidson, Padilla and Johnson
+Date: 2026-05-18
+Total: $767.75
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HGBO06FH",
+  "merchant_name": "Davidson, Padilla and Johnson",
+  "date": "2026-05-18",
+  "subtotal": 728.62,
+  "tax": 40.37,
+  "discount": 1.24,
+  "total": 767.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$34.27",
+      "line_total": "$34.27"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$26.67",
+      "line_total": "$53.34"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$11.38",
+      "line_total": "$45.52"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$10.96",
+      "line_total": "$10.96"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$61.62",
+      "line_total": "$61.62"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$54.59",
+      "line_total": "$54.59"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$78.14",
+      "line_total": "$312.56"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$38.94",
+      "line_total": "$155.76"
+    }
+  ],
+  "sample_id": "receipt_0297"
+}

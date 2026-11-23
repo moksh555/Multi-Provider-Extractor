@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0952
+Company: SkyNet Office Mart
+Company Address: 14 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Al Noor Clinic
+Billing Address: 99 Al Barsha, Doha, Qatar
+Invoice Date: 2026-03-15
+Due Date: 2026-04-14
+Currency: SAR
+Subtotal: 9157.94
+Tax: 686.85
+Total: 9894.79
+Balance Due: 9894.79
+Status: unpaid

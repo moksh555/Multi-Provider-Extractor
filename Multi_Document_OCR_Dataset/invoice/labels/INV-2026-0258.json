@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0258",
+  "invoice_number": "INV-2026-0258",
+  "company_name": "Greenline Logistics",
+  "company_address": "190 Jumeirah Lake Towers, Dubai, UAE",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "132 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-17",
+  "due_date": "2026-07-02",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 65.43,
+      "amount": 458.01
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 818.47,
+      "amount": 5729.29
+    },
+    {
+      "description": "API Integration",
+      "quantity": 11,
+      "unit_price": 159.88,
+      "amount": 1758.68
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 11,
+      "unit_price": 450.42,
+      "amount": 4954.62
+    }
+  ],
+  "subtotal": 12900.6,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1290.06,
+  "shipping": 0,
+  "total": 14190.66,
+  "amount_paid": 8498.56,
+  "balance_due": 5692.1,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801936408101",
+  "po_number": "PO-94798"
+}

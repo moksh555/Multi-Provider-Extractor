@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CECJUIS2G",
+  "policy_holder": "Colleen Bell",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-11-20",
+  "expiry_date": "2027-11-20",
+  "premium": 1733.01,
+  "coverage_amount": 311083.71,
+  "beneficiary": "Paul Rodriguez",
+  "sample_id": "insurance_document_0581"
+}

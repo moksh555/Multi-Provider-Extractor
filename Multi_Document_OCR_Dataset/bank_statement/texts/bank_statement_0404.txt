@@ -1,0 +1,16 @@
+Bank Statement STM-F0EA8647
+Holder: Savannah Love
+Closing Balance: $6455.80
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F0EA8647",
+  "account_holder": "Savannah Love",
+  "account_number_masked": "****6487",
+  "period_start": "2026-06-13",
+  "period_end": "2026-07-13",
+  "opening_balance": 2974.37,
+  "closing_balance": 6455.8,
+  "transactions": 8,
+  "sample_id": "bank_statement_0404"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6AVE7E51",
+  "account_holder": "Carol Holland",
+  "account_number_masked": "****4385",
+  "period_start": "2026-01-04",
+  "period_end": "2026-02-03",
+  "opening_balance": 2545.48,
+  "closing_balance": 9632.56,
+  "transactions": 13,
+  "sample_id": "bank_statement_0103"
+}

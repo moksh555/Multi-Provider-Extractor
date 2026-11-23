@@ -1,0 +1,14 @@
+Medical Report MED-AXV5GY8B
+Patient: Andre Williams
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-AXV5GY8B",
+  "patient_name": "Andre Williams",
+  "visit_date": "2026-05-03",
+  "doctor_name": "Dr. Kyle Barnes",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0667"
+}

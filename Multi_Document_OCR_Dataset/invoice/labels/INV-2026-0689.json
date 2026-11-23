@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0689",
+  "invoice_number": "INV-2026-0689",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "107 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "136 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-04-29",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 1,
+      "unit_price": 223.49,
+      "amount": 223.49
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 818.92,
+      "amount": 4913.52
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 683.42,
+      "amount": 6150.78
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 828.47,
+      "amount": 3313.88
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 825.26,
+      "amount": 4126.3
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 682.2,
+      "amount": 4093.2
+    }
+  ],
+  "subtotal": 22821.17,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 22831.17,
+  "amount_paid": 0,
+  "balance_due": 22831.17,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801895643607",
+  "po_number": "PO-91204"
+}

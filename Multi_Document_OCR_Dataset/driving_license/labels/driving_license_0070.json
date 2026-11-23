@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL372078568",
+  "full_name": "Kelsey Parker",
+  "date_of_birth": "2000-01-23",
+  "class": "D",
+  "issue_date": "2026-01-15",
+  "expiry_date": "2031-01-15",
+  "address": "34324 Murphy Avenue, Burgessburgh, DC 50335",
+  "sample_id": "driving_license_0070"
+}

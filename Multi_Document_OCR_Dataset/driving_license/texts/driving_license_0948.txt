@@ -1,0 +1,16 @@
+Synthetic Driving License
+Trevor Bautista
+License: DL272676445
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL272676445",
+  "full_name": "Trevor Bautista",
+  "date_of_birth": "1994-11-26",
+  "class": "A",
+  "issue_date": "2025-05-02",
+  "expiry_date": "2030-05-02",
+  "address": "01256 Amy Extensions, North Josephside, NM 80006",
+  "sample_id": "driving_license_0948"
+}

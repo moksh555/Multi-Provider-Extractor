@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL263104650",
+  "full_name": "Christopher Miranda",
+  "date_of_birth": "2003-01-07",
+  "class": "A",
+  "issue_date": "2023-01-26",
+  "expiry_date": "2028-01-26",
+  "address": "258 Valdez Turnpike, Chanview, IN 34953",
+  "sample_id": "driving_license_0700"
+}

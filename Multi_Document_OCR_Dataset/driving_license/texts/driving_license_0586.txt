@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lisa Stevenson
+License: DL318447283
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL318447283",
+  "full_name": "Lisa Stevenson",
+  "date_of_birth": "2005-04-22",
+  "class": "A",
+  "issue_date": "2021-12-02",
+  "expiry_date": "2026-12-02",
+  "address": "51225 Thomas Bridge, Pattersontown, HI 35082",
+  "sample_id": "driving_license_0586"
+}

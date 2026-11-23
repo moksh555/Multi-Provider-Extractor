@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Melissa Martinez
+Passport No: P27980629
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P27980629",
+  "full_name": "Melissa Martinez",
+  "nationality": "AE",
+  "date_of_birth": "1987-07-24",
+  "issue_date": "2020-11-01",
+  "expiry_date": "2030-11-01",
+  "place_of_birth": "Christopherstad",
+  "sample_id": "passport_0802"
+}

@@ -1,0 +1,55 @@
+Receipt RCT-31A2MF3G
+Merchant: Weaver Inc
+Date: 2025-04-23
+Total: $768.80
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-31A2MF3G",
+  "merchant_name": "Weaver Inc",
+  "date": "2025-04-23",
+  "subtotal": 702.22,
+  "tax": 66.7,
+  "discount": 0.12,
+  "total": 768.8,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$26.02",
+      "line_total": "$78.06"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$14.00",
+      "line_total": "$14.00"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$75.53",
+      "line_total": "$226.59"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$77.49",
+      "line_total": "$77.49"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$65.64",
+      "line_total": "$262.56"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$10.88",
+      "line_total": "$43.52"
+    }
+  ],
+  "sample_id": "receipt_0823"
+}

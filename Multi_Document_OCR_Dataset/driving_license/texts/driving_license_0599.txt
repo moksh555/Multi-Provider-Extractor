@@ -1,0 +1,16 @@
+Synthetic Driving License
+John White
+License: DL132513320
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL132513320",
+  "full_name": "John White",
+  "date_of_birth": "1972-10-25",
+  "class": "D",
+  "issue_date": "2021-08-05",
+  "expiry_date": "2026-08-05",
+  "address": "791 Thomas Brooks Apt. 232, South Timothy, LA 87996",
+  "sample_id": "driving_license_0599"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0492
+Company: Atlas Engineering Ltd.
+Company Address: 187 Zindabazar Road, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 84 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-03-25
+Due Date: 2026-04-09
+Currency: SAR
+Subtotal: 17500.46
+Tax: 0.0
+Total: 15750.41
+Balance Due: 0.0
+Status: paid

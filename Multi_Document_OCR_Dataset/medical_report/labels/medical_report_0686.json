@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-YVG4O69I",
+  "patient_name": "Daniel Strickland",
+  "visit_date": "2026-10-07",
+  "doctor_name": "Dr. Catherine Esparza",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0686"
+}

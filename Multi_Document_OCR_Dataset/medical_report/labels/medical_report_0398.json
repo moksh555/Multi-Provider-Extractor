@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-BAR2ZSIN",
+  "patient_name": "Peter Holmes",
+  "visit_date": "2025-07-20",
+  "doctor_name": "Dr. David Goodman",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0398"
+}

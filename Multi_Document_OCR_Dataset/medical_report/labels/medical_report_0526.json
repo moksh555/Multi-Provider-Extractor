@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NRSFU0V9",
+  "patient_name": "Nicholas Baker",
+  "visit_date": "2025-09-27",
+  "doctor_name": "Dr. Christine Conley",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0526"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joseph Hall
+License: DL902335635
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL902335635",
+  "full_name": "Joseph Hall",
+  "date_of_birth": "1977-11-24",
+  "class": "B",
+  "issue_date": "2022-10-21",
+  "expiry_date": "2027-10-21",
+  "address": "248 Mcmahon Expressway, North Lindsey, ID 79489",
+  "sample_id": "driving_license_0826"
+}

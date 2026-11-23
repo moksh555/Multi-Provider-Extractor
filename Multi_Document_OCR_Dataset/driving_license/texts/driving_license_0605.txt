@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tyler Davis
+License: DL408044832
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL408044832",
+  "full_name": "Tyler Davis",
+  "date_of_birth": "1970-04-14",
+  "class": "B",
+  "issue_date": "2021-02-10",
+  "expiry_date": "2026-02-10",
+  "address": "56981 Lopez Stream, Leeborough, OK 62594",
+  "sample_id": "driving_license_0605"
+}

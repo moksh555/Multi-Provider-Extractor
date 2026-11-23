@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0163
+Company: Royal Diagnostics Center
+Company Address: 180 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 158 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-04-22
+Due Date: 2026-05-07
+Currency: SAR
+Subtotal: 15844.48
+Tax: 2376.67
+Total: 18226.15
+Balance Due: 0.0
+Status: paid

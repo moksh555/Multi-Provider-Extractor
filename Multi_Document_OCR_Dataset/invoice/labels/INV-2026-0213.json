@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0213",
+  "invoice_number": "INV-2026-0213",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "190 Sheikh Zayed Road, Dubai, UAE",
+  "customer_name": "TechPoint BD",
+  "billing_address": "162 Agrabad C/A, Dubai, UAE",
+  "invoice_date": "2026-03-16",
+  "due_date": "2026-04-30",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 12,
+      "unit_price": 627.48,
+      "amount": 7529.76
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 8,
+      "unit_price": 620.47,
+      "amount": 4963.76
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 11,
+      "unit_price": 776.22,
+      "amount": 8538.42
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 469.37,
+      "amount": 469.37
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 578.79,
+      "amount": 4051.53
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 337.28,
+      "amount": 2360.96
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 246.32,
+      "amount": 2955.84
+    }
+  ],
+  "subtotal": 30869.64,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 1543.48,
+  "shipping": 50,
+  "total": 32463.12,
+  "amount_paid": 23098.55,
+  "balance_due": 9364.57,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801831758874",
+  "po_number": "PO-11621"
+}

@@ -1,0 +1,27 @@
+Resume
+Karen Gillespie
+Machine Learning Engineer
+Skills: Deep Learning, Docker, Computer Vision, NLP, Machine Learning, LangChain, Streamlit, Pandas, PyTorch, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Karen Gillespie",
+  "email": "zharris@example.net",
+  "phone": "342-949-5629",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "Docker",
+    "Computer Vision",
+    "NLP",
+    "Machine Learning",
+    "LangChain",
+    "Streamlit",
+    "Pandas",
+    "PyTorch",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0275"
+}

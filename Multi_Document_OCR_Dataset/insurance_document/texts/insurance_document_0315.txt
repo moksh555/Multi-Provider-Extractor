@@ -1,0 +1,16 @@
+Insurance Policy POL-A5PISKFFV
+Holder: Brandon Austin
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-A5PISKFFV",
+  "policy_holder": "Brandon Austin",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-09-15",
+  "expiry_date": "2027-09-15",
+  "premium": 668.22,
+  "coverage_amount": 407474.59,
+  "beneficiary": "Mitchell Young",
+  "sample_id": "insurance_document_0315"
+}

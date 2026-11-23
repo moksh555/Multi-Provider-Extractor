@@ -1,0 +1,16 @@
+Synthetic Driving License
+Matthew Wright
+License: DL815283767
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL815283767",
+  "full_name": "Matthew Wright",
+  "date_of_birth": "1961-04-06",
+  "class": "C",
+  "issue_date": "2023-10-12",
+  "expiry_date": "2028-10-12",
+  "address": "043 Julie Hill Apt. 376, East Victorland, NC 02082",
+  "sample_id": "driving_license_0159"
+}

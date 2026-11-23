@@ -1,0 +1,55 @@
+Receipt RCT-PPSYAZHX
+Merchant: Wilkinson-Wilson
+Date: 2021-12-17
+Total: $770.89
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PPSYAZHX",
+  "merchant_name": "Wilkinson-Wilson",
+  "date": "2021-12-17",
+  "subtotal": 702.65,
+  "tax": 73.94,
+  "discount": 5.7,
+  "total": 770.89,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$15.79",
+      "line_total": "$31.58"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$24.02",
+      "line_total": "$96.08"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$45.68",
+      "line_total": "$137.04"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$26.55",
+      "line_total": "$53.10"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$37.72",
+      "line_total": "$150.88"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$77.99",
+      "line_total": "$233.97"
+    }
+  ],
+  "sample_id": "receipt_0834"
+}

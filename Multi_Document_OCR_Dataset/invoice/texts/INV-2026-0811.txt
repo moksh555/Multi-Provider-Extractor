@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0811
+Company: CityBanking Supplies
+Company Address: 102 Dhanmondi 27, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 154 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-04-05
+Due Date: 2026-05-05
+Currency: QAR
+Subtotal: 13587.86
+Tax: 0.0
+Total: 12279.07
+Balance Due: 0.0
+Status: paid

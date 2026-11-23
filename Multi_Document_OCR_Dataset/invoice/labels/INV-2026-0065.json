@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0065",
+  "invoice_number": "INV-2026-0065",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "156 Zindabazar Road, Doha, Qatar",
+  "customer_name": "TechPoint BD",
+  "billing_address": "231 Al Barsha, Dhaka, Bangladesh",
+  "invoice_date": "2026-02-04",
+  "due_date": "2026-03-21",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 279.21,
+      "amount": 3350.52
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 338.65,
+      "amount": 3725.15
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 10,
+      "unit_price": 540.48,
+      "amount": 5404.8
+    }
+  ],
+  "subtotal": 12480.47,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 624.02,
+  "shipping": 50,
+  "total": 13154.49,
+  "amount_paid": 6013.08,
+  "balance_due": 7141.41,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801077476844",
+  "po_number": "PO-58809"
+}

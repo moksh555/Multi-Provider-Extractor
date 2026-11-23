@@ -1,0 +1,37 @@
+Receipt RCT-IY1UV52Q
+Merchant: Gordon-Shaffer
+Date: 2022-08-24
+Total: $695.93
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IY1UV52Q",
+  "merchant_name": "Gordon-Shaffer",
+  "date": "2022-08-24",
+  "subtotal": 660.13,
+  "tax": 37.87,
+  "discount": 2.07,
+  "total": 695.93,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$77.04",
+      "line_total": "$308.16"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$65.41",
+      "line_total": "$65.41"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$71.64",
+      "line_total": "$286.56"
+    }
+  ],
+  "sample_id": "receipt_0562"
+}

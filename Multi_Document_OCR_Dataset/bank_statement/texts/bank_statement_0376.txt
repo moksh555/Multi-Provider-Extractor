@@ -1,0 +1,16 @@
+Bank Statement STM-1761J034
+Holder: Michael Lopez
+Closing Balance: $1443.68
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1761J034",
+  "account_holder": "Michael Lopez",
+  "account_number_masked": "****7017",
+  "period_start": "2024-06-03",
+  "period_end": "2024-07-03",
+  "opening_balance": 3613.06,
+  "closing_balance": 1443.68,
+  "transactions": 11,
+  "sample_id": "bank_statement_0376"
+}

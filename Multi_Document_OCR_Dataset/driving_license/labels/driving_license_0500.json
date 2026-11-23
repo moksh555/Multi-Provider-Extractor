@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL513944143",
+  "full_name": "Leslie Booker",
+  "date_of_birth": "1960-05-20",
+  "class": "C",
+  "issue_date": "2026-02-15",
+  "expiry_date": "2031-02-15",
+  "address": "01367 Watts Extensions Suite 176, Cynthiamouth, MN 02021",
+  "sample_id": "driving_license_0500"
+}

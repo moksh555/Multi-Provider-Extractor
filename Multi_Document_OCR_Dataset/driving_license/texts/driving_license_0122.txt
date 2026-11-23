@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nicole Parsons
+License: DL035165395
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL035165395",
+  "full_name": "Nicole Parsons",
+  "date_of_birth": "2005-07-16",
+  "class": "A",
+  "issue_date": "2026-03-19",
+  "expiry_date": "2031-03-19",
+  "address": "95995 Kevin Divide Apt. 644, New Stacyburgh, SC 89466",
+  "sample_id": "driving_license_0122"
+}

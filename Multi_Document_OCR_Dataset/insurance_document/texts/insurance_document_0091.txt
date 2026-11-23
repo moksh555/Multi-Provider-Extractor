@@ -1,0 +1,16 @@
+Insurance Policy POL-FXC08DTNQ
+Holder: Connie Thomas
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FXC08DTNQ",
+  "policy_holder": "Connie Thomas",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-01-27",
+  "expiry_date": "2026-01-27",
+  "premium": 861.7,
+  "coverage_amount": 168947.62,
+  "beneficiary": "Timothy Riley",
+  "sample_id": "insurance_document_0091"
+}

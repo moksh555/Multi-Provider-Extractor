@@ -1,0 +1,16 @@
+Insurance Policy POL-XT9QUBWRP
+Holder: Alan Mendoza
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XT9QUBWRP",
+  "policy_holder": "Alan Mendoza",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-02-15",
+  "expiry_date": "2024-02-15",
+  "premium": 1452.7,
+  "coverage_amount": 283908.06,
+  "beneficiary": "David Ross",
+  "sample_id": "insurance_document_0971"
+}

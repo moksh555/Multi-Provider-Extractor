@@ -1,0 +1,61 @@
+Receipt RCT-GLXV8QIQ
+Merchant: Hayes, Henderson and Buchanan
+Date: 2023-03-13
+Total: $845.73
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GLXV8QIQ",
+  "merchant_name": "Hayes, Henderson and Buchanan",
+  "date": "2023-03-13",
+  "subtotal": 803.03,
+  "tax": 52.49,
+  "discount": 9.79,
+  "total": 845.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$68.36",
+      "line_total": "$273.44"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$6.33",
+      "line_total": "$18.99"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$57.87",
+      "line_total": "$173.61"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$6.81",
+      "line_total": "$6.81"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$79.02",
+      "line_total": "$158.04"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$18.26",
+      "line_total": "$18.26"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$76.94",
+      "line_total": "$153.88"
+    }
+  ],
+  "sample_id": "receipt_0963"
+}

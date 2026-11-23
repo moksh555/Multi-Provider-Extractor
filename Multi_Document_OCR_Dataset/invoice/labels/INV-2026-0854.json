@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0854",
+  "invoice_number": "INV-2026-0854",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "160 Agrabad C/A, Dhaka, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "79 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-14",
+  "due_date": "2026-01-21",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 336.53,
+      "amount": 1009.59
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 7,
+      "unit_price": 114.01,
+      "amount": 798.07
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 6,
+      "unit_price": 686.84,
+      "amount": 4121.04
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 8,
+      "unit_price": 397.54,
+      "amount": 3180.32
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 9,
+      "unit_price": 304.08,
+      "amount": 2736.72
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 11,
+      "unit_price": 685.36,
+      "amount": 7538.96
+    }
+  ],
+  "subtotal": 19384.7,
+  "discount": 1938.47,
+  "tax_rate": 0.1,
+  "tax": 1744.62,
+  "shipping": 0,
+  "total": 19190.85,
+  "amount_paid": 19190.85,
+  "balance_due": 0.0,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801118248297",
+  "po_number": "PO-60708"
+}

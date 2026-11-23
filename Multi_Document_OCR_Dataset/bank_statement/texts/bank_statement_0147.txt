@@ -1,0 +1,16 @@
+Bank Statement STM-BVVBBBVM
+Holder: Joseph Odonnell
+Closing Balance: $10717.80
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BVVBBBVM",
+  "account_holder": "Joseph Odonnell",
+  "account_number_masked": "****3729",
+  "period_start": "2025-04-11",
+  "period_end": "2025-05-11",
+  "opening_balance": 3098.48,
+  "closing_balance": 10717.8,
+  "transactions": 12,
+  "sample_id": "bank_statement_0147"
+}

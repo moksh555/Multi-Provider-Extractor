@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Dr. Sara Singh
+Passport No: P62013143
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P62013143",
+  "full_name": "Dr. Sara Singh",
+  "nationality": "GB",
+  "date_of_birth": "1978-01-19",
+  "issue_date": "2022-01-13",
+  "expiry_date": "2032-01-13",
+  "place_of_birth": "Nicholsmouth",
+  "sample_id": "passport_0288"
+}

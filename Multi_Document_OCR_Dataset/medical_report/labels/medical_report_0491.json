@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IQL5KUZI",
+  "patient_name": "Carmen Herrera",
+  "visit_date": "2026-04-17",
+  "doctor_name": "Dr. Phillip Rose",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0491"
+}

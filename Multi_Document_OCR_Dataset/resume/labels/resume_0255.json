@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Ashley Vazquez",
+  "email": "riley28@example.com",
+  "phone": "001-702-415-5383x0775",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "Machine Learning",
+    "Computer Vision",
+    "TensorFlow",
+    "Streamlit",
+    "NLP",
+    "FastAPI",
+    "PyTorch",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0255"
+}

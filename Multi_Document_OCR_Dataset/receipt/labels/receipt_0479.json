@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SASCEBFE",
+  "merchant_name": "Solis Ltd",
+  "date": "2025-02-13",
+  "subtotal": 839.72,
+  "tax": 68.83,
+  "discount": 12.56,
+  "total": 895.99,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$20.42",
+      "line_total": "$81.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$57.36",
+      "line_total": "$57.36"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$6.30",
+      "line_total": "$6.30"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$1.05",
+      "line_total": "$2.10"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$54.52",
+      "line_total": "$218.08"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$71.21",
+      "line_total": "$284.84"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$63.12",
+      "line_total": "$189.36"
+    }
+  ],
+  "sample_id": "receipt_0479"
+}

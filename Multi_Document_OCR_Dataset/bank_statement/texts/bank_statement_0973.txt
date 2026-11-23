@@ -1,0 +1,16 @@
+Bank Statement STM-I07KDV9K
+Holder: Michael Castillo
+Closing Balance: $6506.90
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I07KDV9K",
+  "account_holder": "Michael Castillo",
+  "account_number_masked": "****1668",
+  "period_start": "2026-12-25",
+  "period_end": "2027-01-24",
+  "opening_balance": 4005.25,
+  "closing_balance": 6506.9,
+  "transactions": 11,
+  "sample_id": "bank_statement_0973"
+}

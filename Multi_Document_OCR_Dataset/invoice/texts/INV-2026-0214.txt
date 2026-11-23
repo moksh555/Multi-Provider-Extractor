@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0214
+Company: Greenline Logistics
+Company Address: 60 Doha Business Park, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 3 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-28
+Due Date: 2026-06-04
+Currency: BDT
+Subtotal: 5076.25
+Tax: 507.62
+Total: 5608.87
+Balance Due: 5608.87
+Status: overdue

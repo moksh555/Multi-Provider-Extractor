@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Lisa Evans
+Passport No: P92068784
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P92068784",
+  "full_name": "Lisa Evans",
+  "nationality": "GB",
+  "date_of_birth": "1980-06-27",
+  "issue_date": "2021-09-03",
+  "expiry_date": "2031-09-03",
+  "place_of_birth": "North Bryce",
+  "sample_id": "passport_0479"
+}

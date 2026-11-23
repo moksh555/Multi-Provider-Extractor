@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Beth Knight
+Passport No: P40762488
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P40762488",
+  "full_name": "Beth Knight",
+  "nationality": "US",
+  "date_of_birth": "1971-09-18",
+  "issue_date": "2022-06-21",
+  "expiry_date": "2032-06-21",
+  "place_of_birth": "South Amanda",
+  "sample_id": "passport_0186"
+}

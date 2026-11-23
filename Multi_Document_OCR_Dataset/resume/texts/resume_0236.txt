@@ -1,0 +1,24 @@
+Resume
+Jamie Rodgers
+Backend Developer
+Skills: FastAPI, Computer Vision, TensorFlow, Machine Learning, Deep Learning, NLP, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Jamie Rodgers",
+  "email": "jessemedina@example.net",
+  "phone": "(933)557-6170",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "FastAPI",
+    "Computer Vision",
+    "TensorFlow",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0236"
+}

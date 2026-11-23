@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MVK5SGCS",
+  "account_holder": "Amy Pennington",
+  "account_number_masked": "****2843",
+  "period_start": "2026-05-09",
+  "period_end": "2026-06-08",
+  "opening_balance": 2915.78,
+  "closing_balance": 3548.55,
+  "transactions": 11,
+  "sample_id": "bank_statement_0164"
+}

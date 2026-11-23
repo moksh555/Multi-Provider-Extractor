@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL791146245",
+  "full_name": "Nicole Hernandez",
+  "date_of_birth": "1971-06-07",
+  "class": "D",
+  "issue_date": "2023-08-23",
+  "expiry_date": "2028-08-23",
+  "address": "USCGC Garrison, FPO AA 06912",
+  "sample_id": "driving_license_0723"
+}

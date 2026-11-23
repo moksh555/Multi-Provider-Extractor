@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0236
+Company: Golden Harvest Store
+Company Address: 32 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 182 Uttara Sector 7, Sylhet, Bangladesh
+Invoice Date: 2026-05-02
+Due Date: 2026-06-01
+Currency: SAR
+Subtotal: 17447.79
+Tax: 0.0
+Total: 15753.01
+Balance Due: 15753.01
+Status: unpaid

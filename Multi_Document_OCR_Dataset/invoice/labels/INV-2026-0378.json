@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0378",
+  "invoice_number": "INV-2026-0378",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "64 Agrabad C/A, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "25 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-03",
+  "due_date": "2026-02-17",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 785.64,
+      "amount": 4713.84
+    },
+    {
+      "description": "API Integration",
+      "quantity": 2,
+      "unit_price": 86.74,
+      "amount": 173.48
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 460.06,
+      "amount": 4600.6
+    }
+  ],
+  "subtotal": 9487.92,
+  "discount": 474.4,
+  "tax_rate": 0.15,
+  "tax": 1352.03,
+  "shipping": 50,
+  "total": 10415.55,
+  "amount_paid": 7490.2,
+  "balance_due": 2925.35,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801065660882",
+  "po_number": "PO-43059"
+}

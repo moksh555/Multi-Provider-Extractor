@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-I1IJE2XE0",
+  "policy_holder": "Daniel Smith",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-06-23",
+  "expiry_date": "2024-06-23",
+  "premium": 302.13,
+  "coverage_amount": 257209.73,
+  "beneficiary": "Robert Barnes",
+  "sample_id": "insurance_document_0843"
+}

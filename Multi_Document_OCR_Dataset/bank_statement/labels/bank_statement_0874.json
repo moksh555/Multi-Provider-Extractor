@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6YI7JLRU",
+  "account_holder": "James Scott",
+  "account_number_masked": "****3702",
+  "period_start": "2026-02-26",
+  "period_end": "2026-03-28",
+  "opening_balance": 3116.52,
+  "closing_balance": 7199.43,
+  "transactions": 13,
+  "sample_id": "bank_statement_0874"
+}

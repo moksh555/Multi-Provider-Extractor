@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-73OE0OT6",
+  "patient_name": "Heather Sanders",
+  "visit_date": "2026-02-04",
+  "doctor_name": "Dr. Kimberly Alexander",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0224"
+}

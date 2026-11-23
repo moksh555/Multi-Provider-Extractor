@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL140508283",
+  "full_name": "Diane Cook",
+  "date_of_birth": "1992-02-09",
+  "class": "B",
+  "issue_date": "2020-10-05",
+  "expiry_date": "2025-10-05",
+  "address": "766 Sarah Skyway, Sharonborough, MH 62527",
+  "sample_id": "driving_license_0846"
+}

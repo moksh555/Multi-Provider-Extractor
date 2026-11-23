@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0227
+Company: UrbanBuild Construction
+Company Address: 44 Motijheel C/A, Doha, Qatar
+Customer: Trust Finance Office
+Billing Address: 76 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-06-10
+Due Date: 2026-06-17
+Currency: AED
+Subtotal: 10391.79
+Tax: 779.38
+Total: 11181.17
+Balance Due: 11181.17
+Status: unpaid

@@ -1,0 +1,14 @@
+Medical Report MED-7U6CLGVJ
+Patient: Yesenia Vaughn
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7U6CLGVJ",
+  "patient_name": "Yesenia Vaughn",
+  "visit_date": "2025-04-05",
+  "doctor_name": "Dr. Amanda Johnson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0246"
+}

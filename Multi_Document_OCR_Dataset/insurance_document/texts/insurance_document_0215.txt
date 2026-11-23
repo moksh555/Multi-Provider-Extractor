@@ -1,0 +1,16 @@
+Insurance Policy POL-SJ9WRSB4G
+Holder: Carla Thomas
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SJ9WRSB4G",
+  "policy_holder": "Carla Thomas",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-06-06",
+  "expiry_date": "2025-06-06",
+  "premium": 1960.52,
+  "coverage_amount": 448191.53,
+  "beneficiary": "Amber Parker",
+  "sample_id": "insurance_document_0215"
+}

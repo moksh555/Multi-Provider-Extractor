@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Shelby Collins",
+  "email": "christopher42@example.org",
+  "phone": "+1-557-529-9142x6071",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "LangChain",
+    "AWS",
+    "Machine Learning",
+    "PyTorch",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0985"
+}

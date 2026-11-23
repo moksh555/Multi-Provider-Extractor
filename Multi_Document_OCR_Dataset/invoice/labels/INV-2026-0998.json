@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0998",
+  "invoice_number": "INV-2026-0998",
+  "company_name": "Golden Harvest Store",
+  "company_address": "186 Doha Business Park, Riyadh, Saudi Arabia",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "141 Uttara Sector 7, Dubai, UAE",
+  "invoice_date": "2026-06-05",
+  "due_date": "2026-06-20",
+  "currency": "SAR",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 301.21,
+      "amount": 3012.1
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 446.32,
+      "amount": 1785.28
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 817.07,
+      "amount": 5719.49
+    }
+  ],
+  "subtotal": 10516.87,
+  "discount": 525.84,
+  "tax_rate": 0.05,
+  "tax": 499.55,
+  "shipping": 0,
+  "total": 10490.58,
+  "amount_paid": 3292.26,
+  "balance_due": 7198.32,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801031806003",
+  "po_number": "PO-37084"
+}

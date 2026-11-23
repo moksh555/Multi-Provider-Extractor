@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0082
+Company: Delta Insurance Services
+Company Address: 144 Sheikh Zayed Road, Dhaka, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 45 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-01-15
+Due Date: 2026-01-30
+Currency: USD
+Subtotal: 22489.65
+Tax: 0.0
+Total: 22039.86
+Balance Due: 22039.86
+Status: overdue

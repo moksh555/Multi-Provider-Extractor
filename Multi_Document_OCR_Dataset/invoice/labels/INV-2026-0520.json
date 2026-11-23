@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0520",
+  "invoice_number": "INV-2026-0520",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "199 Motijheel C/A, Doha, Qatar",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "208 Gulshan Avenue, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-22",
+  "due_date": "2026-04-06",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 8,
+      "unit_price": 613.98,
+      "amount": 4911.84
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 7,
+      "unit_price": 595.96,
+      "amount": 4171.72
+    }
+  ],
+  "subtotal": 9083.56,
+  "discount": 181.67,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 8911.89,
+  "amount_paid": 0,
+  "balance_due": 8911.89,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801728633000",
+  "po_number": "PO-17947"
+}

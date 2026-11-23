@@ -1,0 +1,14 @@
+Medical Report MED-0Y9QLNUV
+Patient: Douglas Dickson
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0Y9QLNUV",
+  "patient_name": "Douglas Dickson",
+  "visit_date": "2025-09-25",
+  "doctor_name": "Dr. Brian Mays",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0710"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Juan Keller MD
+License: DL526095454
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL526095454",
+  "full_name": "Juan Keller MD",
+  "date_of_birth": "1968-10-04",
+  "class": "B",
+  "issue_date": "2024-12-28",
+  "expiry_date": "2029-12-28",
+  "address": "92124 Nicole Stream, Jamestown, UT 89333",
+  "sample_id": "driving_license_0443"
+}

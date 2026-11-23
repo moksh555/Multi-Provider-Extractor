@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0109
+Company: Royal Diagnostics Center
+Company Address: 12 Mirpur DOHS, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 128 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-13
+Due Date: 2026-06-12
+Currency: SAR
+Subtotal: 14980.81
+Tax: 1011.2
+Total: 14503.93
+Balance Due: 9998.74
+Status: partial

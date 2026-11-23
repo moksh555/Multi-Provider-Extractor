@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0198
+Company: BrightStar Electronics
+Company Address: 171 Sheikh Zayed Road, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 147 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-02-22
+Due Date: 2026-04-08
+Currency: USD
+Subtotal: 8484.18
+Tax: 403.0
+Total: 8512.97
+Balance Due: 8512.97
+Status: overdue

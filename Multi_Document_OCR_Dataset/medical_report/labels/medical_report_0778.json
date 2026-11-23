@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-A7I28U81",
+  "patient_name": "Dr. Jacqueline Martin",
+  "visit_date": "2026-07-28",
+  "doctor_name": "Dr. Ashley Parsons",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0778"
+}

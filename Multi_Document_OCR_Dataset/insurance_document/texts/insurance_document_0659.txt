@@ -1,0 +1,16 @@
+Insurance Policy POL-F0IEOKVG0
+Holder: Michael Obrien
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F0IEOKVG0",
+  "policy_holder": "Michael Obrien",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-08-07",
+  "expiry_date": "2026-08-07",
+  "premium": 2178.45,
+  "coverage_amount": 328652.36,
+  "beneficiary": "Jacob Cunningham",
+  "sample_id": "insurance_document_0659"
+}

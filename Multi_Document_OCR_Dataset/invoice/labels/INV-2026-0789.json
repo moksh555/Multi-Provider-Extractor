@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0789",
+  "invoice_number": "INV-2026-0789",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "115 Road 12, Banani, Sylhet, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "157 Sheikh Zayed Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-03-30",
+  "currency": "BDT",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 2,
+      "unit_price": 751.65,
+      "amount": 1503.3
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 5,
+      "unit_price": 779.62,
+      "amount": 3898.1
+    }
+  ],
+  "subtotal": 5401.4,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 270.07,
+  "shipping": 50,
+  "total": 5721.47,
+  "amount_paid": 0,
+  "balance_due": 5721.47,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801772672099",
+  "po_number": "PO-42681"
+}

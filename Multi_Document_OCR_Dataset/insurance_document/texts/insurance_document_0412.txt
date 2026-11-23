@@ -1,0 +1,16 @@
+Insurance Policy POL-QMLH13C71
+Holder: Angela Stafford
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QMLH13C71",
+  "policy_holder": "Angela Stafford",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-09-27",
+  "expiry_date": "2024-09-27",
+  "premium": 341.14,
+  "coverage_amount": 403151.74,
+  "beneficiary": "Peter Stewart",
+  "sample_id": "insurance_document_0412"
+}

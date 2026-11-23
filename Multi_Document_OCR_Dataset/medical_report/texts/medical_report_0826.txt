@@ -1,0 +1,14 @@
+Medical Report MED-WLYMCX7R
+Patient: Daniel Myers
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WLYMCX7R",
+  "patient_name": "Daniel Myers",
+  "visit_date": "2024-04-19",
+  "doctor_name": "Dr. Alexandra Page",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0826"
+}

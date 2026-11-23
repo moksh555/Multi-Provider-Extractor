@@ -1,0 +1,16 @@
+Insurance Policy POL-OSX43WFSQ
+Holder: Jodi Smith
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OSX43WFSQ",
+  "policy_holder": "Jodi Smith",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-03-05",
+  "expiry_date": "2027-03-05",
+  "premium": 2377.93,
+  "coverage_amount": 333112.52,
+  "beneficiary": "Ronald Roberts",
+  "sample_id": "insurance_document_0311"
+}

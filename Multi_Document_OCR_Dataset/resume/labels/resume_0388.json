@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Benjamin Haney",
+  "email": "millermichelle@example.net",
+  "phone": "(516)247-9049x9157",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "Computer Vision",
+    "NLP",
+    "Deep Learning",
+    "TensorFlow",
+    "Machine Learning",
+    "LangChain",
+    "Pandas",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0388"
+}

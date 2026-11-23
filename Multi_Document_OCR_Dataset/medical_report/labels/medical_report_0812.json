@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-1NS0HE99",
+  "patient_name": "Kevin Jacobs",
+  "visit_date": "2026-04-20",
+  "doctor_name": "Dr. Erica Dalton",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0812"
+}

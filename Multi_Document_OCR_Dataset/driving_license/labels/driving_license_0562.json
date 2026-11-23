@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL417132287",
+  "full_name": "Deborah Roberson",
+  "date_of_birth": "1984-06-21",
+  "class": "B",
+  "issue_date": "2026-04-26",
+  "expiry_date": "2031-04-26",
+  "address": "306 Alexis Drives Suite 895, Georgeshire, NE 32198",
+  "sample_id": "driving_license_0562"
+}

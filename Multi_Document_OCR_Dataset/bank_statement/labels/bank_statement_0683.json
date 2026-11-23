@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H1JFGMGW",
+  "account_holder": "Stephen Johnson",
+  "account_number_masked": "****3290",
+  "period_start": "2026-01-01",
+  "period_end": "2026-01-31",
+  "opening_balance": 2218.54,
+  "closing_balance": 2466.44,
+  "transactions": 13,
+  "sample_id": "bank_statement_0683"
+}

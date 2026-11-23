@@ -1,0 +1,43 @@
+Receipt RCT-IK31YUW2
+Merchant: White, Peters and Mcbride
+Date: 2026-12-11
+Total: $221.64
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IK31YUW2",
+  "merchant_name": "White, Peters and Mcbride",
+  "date": "2026-12-11",
+  "subtotal": 220.41,
+  "tax": 12.69,
+  "discount": 11.46,
+  "total": 221.64,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$12.78",
+      "line_total": "$12.78"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$61.71",
+      "line_total": "$185.13"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$1.12",
+      "line_total": "$3.36"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$9.57",
+      "line_total": "$19.14"
+    }
+  ],
+  "sample_id": "receipt_0504"
+}

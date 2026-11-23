@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P2R5JGLW",
+  "account_holder": "Joshua Lopez",
+  "account_number_masked": "****9729",
+  "period_start": "2025-12-02",
+  "period_end": "2026-01-01",
+  "opening_balance": 4369.68,
+  "closing_balance": 8788.91,
+  "transactions": 12,
+  "sample_id": "bank_statement_0306"
+}

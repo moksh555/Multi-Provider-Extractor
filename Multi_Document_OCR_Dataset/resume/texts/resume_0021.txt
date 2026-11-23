@@ -1,0 +1,25 @@
+Resume
+Shannon Adkins
+Data Analyst
+Skills: Docker, SQL, FastAPI, PyTorch, Pandas, Python, AWS, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Shannon Adkins",
+  "email": "fisherstephanie@example.com",
+  "phone": "001-293-602-0203",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "Docker",
+    "SQL",
+    "FastAPI",
+    "PyTorch",
+    "Pandas",
+    "Python",
+    "AWS",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0021"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MYQZ5P8C",
+  "account_holder": "Robert Sampson",
+  "account_number_masked": "****7093",
+  "period_start": "2024-10-18",
+  "period_end": "2024-11-17",
+  "opening_balance": 2587.63,
+  "closing_balance": 3873.83,
+  "transactions": 14,
+  "sample_id": "bank_statement_0992"
+}

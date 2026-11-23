@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0653
+Company: Eastern Care Pharmacy
+Company Address: 115 Agrabad C/A, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 166 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-03-04
+Due Date: 2026-04-18
+Currency: QAR
+Subtotal: 8471.04
+Tax: 847.1
+Total: 9343.14
+Balance Due: 0.0
+Status: paid

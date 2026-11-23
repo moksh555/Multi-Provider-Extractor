@@ -1,0 +1,16 @@
+Bank Statement STM-J0U0VGDR
+Holder: Jordan Williams
+Closing Balance: $2726.30
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-J0U0VGDR",
+  "account_holder": "Jordan Williams",
+  "account_number_masked": "****3751",
+  "period_start": "2025-01-20",
+  "period_end": "2025-02-19",
+  "opening_balance": 1978.8,
+  "closing_balance": 2726.3,
+  "transactions": 14,
+  "sample_id": "bank_statement_0267"
+}

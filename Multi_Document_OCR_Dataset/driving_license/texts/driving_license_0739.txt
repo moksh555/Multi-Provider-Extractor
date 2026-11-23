@@ -1,0 +1,16 @@
+Synthetic Driving License
+Gregory Park
+License: DL746308829
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL746308829",
+  "full_name": "Gregory Park",
+  "date_of_birth": "1975-11-09",
+  "class": "A",
+  "issue_date": "2022-11-14",
+  "expiry_date": "2027-11-14",
+  "address": "Unit 3749 Box 0797, DPO AA 77972",
+  "sample_id": "driving_license_0739"
+}

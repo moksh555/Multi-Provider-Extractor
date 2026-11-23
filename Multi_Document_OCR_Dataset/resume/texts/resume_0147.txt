@@ -1,0 +1,25 @@
+Resume
+Jacqueline Torres
+Data Analyst
+Skills: Deep Learning, Computer Vision, LangChain, NLP, FastAPI, TensorFlow, SQL, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Jacqueline Torres",
+  "email": "peter58@example.com",
+  "phone": "+1-879-349-6383x09723",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "Computer Vision",
+    "LangChain",
+    "NLP",
+    "FastAPI",
+    "TensorFlow",
+    "SQL",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0147"
+}

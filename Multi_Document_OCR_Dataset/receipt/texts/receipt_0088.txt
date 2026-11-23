@@ -1,0 +1,49 @@
+Receipt RCT-VPW232UT
+Merchant: Gomez, Duncan and Lopez
+Date: 2022-11-21
+Total: $577.41
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VPW232UT",
+  "merchant_name": "Gomez, Duncan and Lopez",
+  "date": "2022-11-21",
+  "subtotal": 536.04,
+  "tax": 48.71,
+  "discount": 7.34,
+  "total": 577.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$46.25",
+      "line_total": "$138.75"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$77.06",
+      "line_total": "$154.12"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$79.41",
+      "line_total": "$79.41"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$20.72",
+      "line_total": "$41.44"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$61.16",
+      "line_total": "$122.32"
+    }
+  ],
+  "sample_id": "receipt_0088"
+}

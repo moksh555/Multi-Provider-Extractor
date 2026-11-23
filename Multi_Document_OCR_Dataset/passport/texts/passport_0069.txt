@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kathryn Johnson
+Passport No: P05694028
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P05694028",
+  "full_name": "Kathryn Johnson",
+  "nationality": "AE",
+  "date_of_birth": "1995-08-26",
+  "issue_date": "2022-09-30",
+  "expiry_date": "2032-09-30",
+  "place_of_birth": "Port Garyberg",
+  "sample_id": "passport_0069"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-J5ECRUYF",
+  "merchant_name": "Gibson Ltd",
+  "date": "2024-05-29",
+  "subtotal": 460.73,
+  "tax": 26.15,
+  "discount": 8.83,
+  "total": 478.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$45.09",
+      "line_total": "$45.09"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$62.28",
+      "line_total": "$124.56"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$72.77",
+      "line_total": "$291.08"
+    }
+  ],
+  "sample_id": "receipt_0026"
+}

@@ -1,0 +1,55 @@
+Receipt RCT-EDYEJHDZ
+Merchant: Richardson, Carpenter and Nixon
+Date: 2024-04-20
+Total: $853.71
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EDYEJHDZ",
+  "merchant_name": "Richardson, Carpenter and Nixon",
+  "date": "2024-04-20",
+  "subtotal": 814.16,
+  "tax": 44.33,
+  "discount": 4.78,
+  "total": 853.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$41.50",
+      "line_total": "$166.00"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$20.76",
+      "line_total": "$41.52"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$76.99",
+      "line_total": "$230.97"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$14.09",
+      "line_total": "$42.27"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$35.24",
+      "line_total": "$140.96"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$48.11",
+      "line_total": "$192.44"
+    }
+  ],
+  "sample_id": "receipt_0325"
+}

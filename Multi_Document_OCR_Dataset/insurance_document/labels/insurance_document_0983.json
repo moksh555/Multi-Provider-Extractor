@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-X6UZS1XKE",
+  "policy_holder": "Steven Clark",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-08-22",
+  "expiry_date": "2025-08-22",
+  "premium": 2367.31,
+  "coverage_amount": 218896.41,
+  "beneficiary": "Jay Walker",
+  "sample_id": "insurance_document_0983"
+}

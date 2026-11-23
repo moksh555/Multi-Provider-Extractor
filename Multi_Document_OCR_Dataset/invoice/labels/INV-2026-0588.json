@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0588",
+  "invoice_number": "INV-2026-0588",
+  "company_name": "Golden Harvest Store",
+  "company_address": "169 Uttara Sector 7, Chattogram, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "92 Motijheel C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-27",
+  "due_date": "2026-04-11",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 418.83,
+      "amount": 2094.15
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 3,
+      "unit_price": 319.31,
+      "amount": 957.93
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 438.18,
+      "amount": 4819.98
+    },
+    {
+      "description": "API Integration",
+      "quantity": 7,
+      "unit_price": 358.68,
+      "amount": 2510.76
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 5,
+      "unit_price": 406.04,
+      "amount": 2030.2
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 4,
+      "unit_price": 217.84,
+      "amount": 871.36
+    }
+  ],
+  "subtotal": 13284.38,
+  "discount": 265.69,
+  "tax_rate": 0.075,
+  "tax": 976.4,
+  "shipping": 25,
+  "total": 14020.09,
+  "amount_paid": 0,
+  "balance_due": 14020.09,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801324927432",
+  "po_number": "PO-25691"
+}

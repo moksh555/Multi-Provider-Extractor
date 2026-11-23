@@ -1,0 +1,16 @@
+Insurance Policy POL-PNJKA34MQ
+Holder: Paul Conrad
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PNJKA34MQ",
+  "policy_holder": "Paul Conrad",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-11-09",
+  "expiry_date": "2027-11-09",
+  "premium": 2314.57,
+  "coverage_amount": 474009.18,
+  "beneficiary": "Eric Benitez",
+  "sample_id": "insurance_document_0348"
+}

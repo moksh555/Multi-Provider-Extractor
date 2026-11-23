@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL876960826",
+  "full_name": "Teresa Mclaughlin",
+  "date_of_birth": "1972-01-18",
+  "class": "A",
+  "issue_date": "2022-12-19",
+  "expiry_date": "2027-12-19",
+  "address": "59514 Estrada Islands Suite 482, South Elizabeth, MS 89278",
+  "sample_id": "driving_license_0024"
+}

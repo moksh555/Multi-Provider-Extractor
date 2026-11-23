@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CKZ8MKP8",
+  "patient_name": "Anthony Johnson",
+  "visit_date": "2025-05-18",
+  "doctor_name": "Dr. Carolyn Davis",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0775"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-EY82PQMH
+Patient: Gregory Miller
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EY82PQMH",
+  "patient_name": "Gregory Miller",
+  "visit_date": "2026-01-21",
+  "doctor_name": "Dr. Cynthia Jones",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0659"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-C9IBC5OI
+Patient: David Leonard
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-C9IBC5OI",
+  "patient_name": "David Leonard",
+  "visit_date": "2024-11-29",
+  "doctor_name": "Dr. Mark Frazier",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0108"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0652",
+  "invoice_number": "INV-2026-0652",
+  "company_name": "Greenline Logistics",
+  "company_address": "166 Al Barsha, Dubai, UAE",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "148 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-02-04",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 415.93,
+      "amount": 1663.72
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 122.27,
+      "amount": 122.27
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 677.73,
+      "amount": 2033.19
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 405.11,
+      "amount": 810.22
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 10,
+      "unit_price": 149.3,
+      "amount": 1493.0
+    }
+  ],
+  "subtotal": 6122.4,
+  "discount": 306.12,
+  "tax_rate": 0.075,
+  "tax": 436.22,
+  "shipping": 5,
+  "total": 6257.5,
+  "amount_paid": 6257.5,
+  "balance_due": 0.0,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801198396237",
+  "po_number": "PO-47783"
+}

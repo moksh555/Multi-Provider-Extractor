@@ -1,0 +1,43 @@
+Receipt RCT-ZXCA4X76
+Merchant: Dixon LLC
+Date: 2021-06-08
+Total: $494.71
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZXCA4X76",
+  "merchant_name": "Dixon LLC",
+  "date": "2021-06-08",
+  "subtotal": 453.55,
+  "tax": 45.03,
+  "discount": 3.87,
+  "total": 494.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$74.14",
+      "line_total": "$296.56"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$60.09",
+      "line_total": "$60.09"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$20.47",
+      "line_total": "$20.47"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$76.43",
+      "line_total": "$76.43"
+    }
+  ],
+  "sample_id": "receipt_0792"
+}

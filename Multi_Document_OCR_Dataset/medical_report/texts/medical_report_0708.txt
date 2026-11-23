@@ -1,0 +1,14 @@
+Medical Report MED-88ZD46VK
+Patient: Thomas Hubbard
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-88ZD46VK",
+  "patient_name": "Thomas Hubbard",
+  "visit_date": "2025-07-16",
+  "doctor_name": "Dr. Brendan Williams",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0708"
+}

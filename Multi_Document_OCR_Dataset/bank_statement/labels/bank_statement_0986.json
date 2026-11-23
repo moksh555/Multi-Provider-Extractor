@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PHU0RT7N",
+  "account_holder": "Matthew Davis",
+  "account_number_masked": "****4463",
+  "period_start": "2024-03-06",
+  "period_end": "2024-04-05",
+  "opening_balance": 4405.95,
+  "closing_balance": 9548.44,
+  "transactions": 13,
+  "sample_id": "bank_statement_0986"
+}

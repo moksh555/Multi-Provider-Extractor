@@ -1,0 +1,14 @@
+Medical Report MED-CRHY924U
+Patient: Ryan Chang
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-CRHY924U",
+  "patient_name": "Ryan Chang",
+  "visit_date": "2026-09-30",
+  "doctor_name": "Dr. Andrew Reyes",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0546"
+}

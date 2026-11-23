@@ -1,0 +1,16 @@
+Insurance Policy POL-6SNGLH62C
+Holder: Mr. William Miller
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6SNGLH62C",
+  "policy_holder": "Mr. William Miller",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-12-20",
+  "expiry_date": "2026-12-20",
+  "premium": 970.69,
+  "coverage_amount": 296154.57,
+  "beneficiary": "Jennifer Bryant",
+  "sample_id": "insurance_document_0230"
+}

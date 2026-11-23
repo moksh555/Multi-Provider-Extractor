@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mary Jacobs
+License: DL333056058
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL333056058",
+  "full_name": "Mary Jacobs",
+  "date_of_birth": "1964-11-24",
+  "class": "C",
+  "issue_date": "2024-09-24",
+  "expiry_date": "2029-09-24",
+  "address": "1166 Barbara Roads Apt. 270, North Robert, WV 73190",
+  "sample_id": "driving_license_0628"
+}

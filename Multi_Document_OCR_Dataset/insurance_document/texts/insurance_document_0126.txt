@@ -1,0 +1,16 @@
+Insurance Policy POL-QYM52XG8P
+Holder: Amber Glass
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QYM52XG8P",
+  "policy_holder": "Amber Glass",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-09-12",
+  "expiry_date": "2024-09-12",
+  "premium": 1353.08,
+  "coverage_amount": 159021.03,
+  "beneficiary": "Nathaniel Crawford",
+  "sample_id": "insurance_document_0126"
+}

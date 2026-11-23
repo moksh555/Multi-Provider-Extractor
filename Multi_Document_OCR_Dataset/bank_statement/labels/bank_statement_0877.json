@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SR8XT2K1",
+  "account_holder": "Reginald Copeland",
+  "account_number_masked": "****8558",
+  "period_start": "2026-11-27",
+  "period_end": "2026-12-27",
+  "opening_balance": 3622.83,
+  "closing_balance": 4472.75,
+  "transactions": 10,
+  "sample_id": "bank_statement_0877"
+}

@@ -1,0 +1,27 @@
+Resume
+Michael Contreras
+Computer Vision Engineer
+Skills: Deep Learning, Streamlit, NLP, FastAPI, PyTorch, Python, AWS, TensorFlow, Pandas, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Contreras",
+  "email": "ramirezmargaret@example.com",
+  "phone": "+1-831-257-5229x5083",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Deep Learning",
+    "Streamlit",
+    "NLP",
+    "FastAPI",
+    "PyTorch",
+    "Python",
+    "AWS",
+    "TensorFlow",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0756"
+}

@@ -1,0 +1,24 @@
+Resume
+Hannah Garcia
+Backend Developer
+Skills: LangChain, Python, FastAPI, Machine Learning, Docker, Pandas, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Hannah Garcia",
+  "email": "jimmy04@example.org",
+  "phone": "+1-642-649-1626x31777",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "LangChain",
+    "Python",
+    "FastAPI",
+    "Machine Learning",
+    "Docker",
+    "Pandas",
+    "SQL"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0803"
+}

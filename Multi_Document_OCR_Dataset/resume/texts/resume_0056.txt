@@ -1,0 +1,27 @@
+Resume
+Karen Cruz
+Backend Developer
+Skills: Machine Learning, Streamlit, Pandas, FastAPI, Python, AWS, LangChain, SQL, Docker, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Karen Cruz",
+  "email": "hendersoncrystal@example.com",
+  "phone": "001-420-988-1431",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Machine Learning",
+    "Streamlit",
+    "Pandas",
+    "FastAPI",
+    "Python",
+    "AWS",
+    "LangChain",
+    "SQL",
+    "Docker",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0056"
+}

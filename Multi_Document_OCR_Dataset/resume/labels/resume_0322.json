@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Victoria Conley",
+  "email": "kwu@example.org",
+  "phone": "(822)309-7550",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "AWS",
+    "Computer Vision",
+    "LangChain",
+    "Pandas",
+    "Machine Learning",
+    "SQL",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0322"
+}

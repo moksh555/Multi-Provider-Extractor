@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-99RWTF07G",
+  "policy_holder": "Jennifer Cohen",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-01-02",
+  "expiry_date": "2027-01-02",
+  "premium": 174.83,
+  "coverage_amount": 260754.91,
+  "beneficiary": "Steven Lewis",
+  "sample_id": "insurance_document_0747"
+}

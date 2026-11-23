@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0237",
+  "invoice_number": "INV-2026-0237",
+  "company_name": "Metro Print House",
+  "company_address": "174 Jumeirah Lake Towers, Dubai, UAE",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "28 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-28",
+  "due_date": "2026-03-14",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 847.0,
+      "amount": 5082.0
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 599.33,
+      "amount": 2397.32
+    }
+  ],
+  "subtotal": 7479.32,
+  "discount": 149.59,
+  "tax_rate": 0.1,
+  "tax": 732.97,
+  "shipping": 10,
+  "total": 8072.7,
+  "amount_paid": 0,
+  "balance_due": 8072.7,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801201463063",
+  "po_number": "PO-93440"
+}

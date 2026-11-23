@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0637
+Company: CityBanking Supplies
+Company Address: 12 Agrabad C/A, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 145 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-24
+Due Date: 2026-07-01
+Currency: SAR
+Subtotal: 9842.11
+Tax: 885.79
+Total: 9753.69
+Balance Due: 9753.69
+Status: unpaid

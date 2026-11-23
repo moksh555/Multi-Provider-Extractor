@@ -1,0 +1,37 @@
+Receipt RCT-UHRYI0PT
+Merchant: Gonzalez-Rhodes
+Date: 2023-02-27
+Total: $74.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UHRYI0PT",
+  "merchant_name": "Gonzalez-Rhodes",
+  "date": "2023-02-27",
+  "subtotal": 74.41,
+  "tax": 6.8,
+  "discount": 7.13,
+  "total": 74.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$17.08",
+      "line_total": "$17.08"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$29.41",
+      "line_total": "$29.41"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$27.92",
+      "line_total": "$27.92"
+    }
+  ],
+  "sample_id": "receipt_0346"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0E8GMTEX",
+  "account_holder": "Troy Brooks",
+  "account_number_masked": "****2471",
+  "period_start": "2024-08-26",
+  "period_end": "2024-09-25",
+  "opening_balance": 1244.37,
+  "closing_balance": 3671.34,
+  "transactions": 11,
+  "sample_id": "bank_statement_0824"
+}

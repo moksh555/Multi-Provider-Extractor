@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0014",
+  "invoice_number": "INV-2026-0014",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "161 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+  "customer_name": "Future School",
+  "billing_address": "7 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-20",
+  "due_date": "2026-05-05",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 390.86,
+      "amount": 1563.44
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 242.29,
+      "amount": 1696.03
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 710.99,
+      "amount": 3554.95
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 638.68,
+      "amount": 638.68
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 6,
+      "unit_price": 196.8,
+      "amount": 1180.8
+    }
+  ],
+  "subtotal": 8633.9,
+  "discount": 172.68,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 8461.22,
+  "amount_paid": 0,
+  "balance_due": 8461.22,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801002862419",
+  "po_number": "PO-42369"
+}

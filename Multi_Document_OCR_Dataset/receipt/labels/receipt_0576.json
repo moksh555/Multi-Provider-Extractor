@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4CFG79KT",
+  "merchant_name": "Anderson-Rasmussen",
+  "date": "2026-07-06",
+  "subtotal": 886.59,
+  "tax": 46.94,
+  "discount": 10.72,
+  "total": 922.81,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$35.63",
+      "line_total": "$142.52"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$20.19",
+      "line_total": "$40.38"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$39.65",
+      "line_total": "$79.30"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$69.54",
+      "line_total": "$139.08"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$65.75",
+      "line_total": "$131.50"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$57.42",
+      "line_total": "$172.26"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$48.93",
+      "line_total": "$48.93"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$66.31",
+      "line_total": "$132.62"
+    }
+  ],
+  "sample_id": "receipt_0576"
+}

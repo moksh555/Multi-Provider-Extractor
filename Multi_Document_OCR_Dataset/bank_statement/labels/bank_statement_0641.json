@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KOG95N8I",
+  "account_holder": "Jordan Sanders",
+  "account_number_masked": "****4222",
+  "period_start": "2026-01-20",
+  "period_end": "2026-02-19",
+  "opening_balance": 2291.36,
+  "closing_balance": 4764.28,
+  "transactions": 8,
+  "sample_id": "bank_statement_0641"
+}

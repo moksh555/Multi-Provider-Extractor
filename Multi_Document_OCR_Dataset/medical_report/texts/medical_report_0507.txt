@@ -1,0 +1,14 @@
+Medical Report MED-4VW3DBMG
+Patient: Jessica Benson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4VW3DBMG",
+  "patient_name": "Jessica Benson",
+  "visit_date": "2025-05-13",
+  "doctor_name": "Dr. Regina Sawyer",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0507"
+}

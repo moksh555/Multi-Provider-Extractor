@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0337
+Company: BrightStar Electronics
+Company Address: 131 Zindabazar Road, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 88 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-06-28
+Due Date: 2026-07-13
+Currency: BDT
+Subtotal: 18395.92
+Tax: 2759.39
+Total: 21155.31
+Balance Due: 7496.58
+Status: partial

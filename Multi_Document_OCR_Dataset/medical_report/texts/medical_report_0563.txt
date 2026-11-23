@@ -1,0 +1,14 @@
+Medical Report MED-RHD91W3W
+Patient: Carol Delacruz
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RHD91W3W",
+  "patient_name": "Carol Delacruz",
+  "visit_date": "2026-10-11",
+  "doctor_name": "Dr. Angela Rodriguez",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0563"
+}

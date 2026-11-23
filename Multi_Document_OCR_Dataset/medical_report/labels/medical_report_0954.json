@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GUHNFALJ",
+  "patient_name": "Brandon Flynn MD",
+  "visit_date": "2024-06-28",
+  "doctor_name": "Dr. Rebecca Meyer",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0954"
+}

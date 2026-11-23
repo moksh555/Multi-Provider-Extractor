@@ -1,0 +1,43 @@
+Receipt RCT-TGNLKURL
+Merchant: Austin LLC
+Date: 2026-04-07
+Total: $648.00
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TGNLKURL",
+  "merchant_name": "Austin LLC",
+  "date": "2026-04-07",
+  "subtotal": 603.86,
+  "tax": 52.96,
+  "discount": 8.82,
+  "total": 648.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$1.33",
+      "line_total": "$2.66"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$32.96",
+      "line_total": "$131.84"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$77.67",
+      "line_total": "$310.68"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$39.67",
+      "line_total": "$158.68"
+    }
+  ],
+  "sample_id": "receipt_0275"
+}

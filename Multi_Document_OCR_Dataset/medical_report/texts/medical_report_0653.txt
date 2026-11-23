@@ -1,0 +1,14 @@
+Medical Report MED-LDV63YD6
+Patient: Keith Wilkinson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LDV63YD6",
+  "patient_name": "Keith Wilkinson",
+  "visit_date": "2026-04-28",
+  "doctor_name": "Dr. Laura Rosales",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0653"
+}

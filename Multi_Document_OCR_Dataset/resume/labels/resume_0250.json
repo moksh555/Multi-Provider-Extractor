@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Debbie Lamb",
+  "email": "kruegerjesus@example.com",
+  "phone": "(283)795-1673",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "AWS",
+    "Pandas",
+    "Docker",
+    "LangChain",
+    "Deep Learning",
+    "Machine Learning",
+    "NLP",
+    "Computer Vision",
+    "SQL",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0250"
+}

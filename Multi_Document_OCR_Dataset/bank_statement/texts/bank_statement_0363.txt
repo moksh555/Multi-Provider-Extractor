@@ -1,0 +1,16 @@
+Bank Statement STM-IMDDX13T
+Holder: Scott Garcia
+Closing Balance: $4257.97
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-IMDDX13T",
+  "account_holder": "Scott Garcia",
+  "account_number_masked": "****4511",
+  "period_start": "2024-11-30",
+  "period_end": "2024-12-30",
+  "opening_balance": 3897.28,
+  "closing_balance": 4257.97,
+  "transactions": 11,
+  "sample_id": "bank_statement_0363"
+}

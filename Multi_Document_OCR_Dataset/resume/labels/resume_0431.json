@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Holly Young",
+  "email": "swansonerin@example.net",
+  "phone": "(213)953-4705",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "Computer Vision",
+    "Deep Learning",
+    "Python",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0431"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0371",
+  "invoice_number": "INV-2026-0371",
+  "company_name": "CityBanking Supplies",
+  "company_address": "19 Gulshan Avenue, Dhaka, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "241 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-05",
+  "due_date": "2026-03-07",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 9,
+      "unit_price": 314.31,
+      "amount": 2828.79
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 5,
+      "unit_price": 629.93,
+      "amount": 3149.65
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 1,
+      "unit_price": 30.02,
+      "amount": 30.02
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 163.58,
+      "amount": 981.48
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 792.25,
+      "amount": 2376.75
+    }
+  ],
+  "subtotal": 9366.69,
+  "discount": 187.33,
+  "tax_rate": 0.075,
+  "tax": 688.45,
+  "shipping": 25,
+  "total": 9892.81,
+  "amount_paid": 0,
+  "balance_due": 9892.81,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801830238128",
+  "po_number": "PO-22855"
+}

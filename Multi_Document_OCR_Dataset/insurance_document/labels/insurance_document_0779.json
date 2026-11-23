@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YLUYHETKD",
+  "policy_holder": "Brandon Williams",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-07-10",
+  "expiry_date": "2027-07-10",
+  "premium": 1217.55,
+  "coverage_amount": 99852.36,
+  "beneficiary": "Amber Lopez",
+  "sample_id": "insurance_document_0779"
+}

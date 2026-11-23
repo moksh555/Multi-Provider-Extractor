@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NQJQIJC1",
+  "merchant_name": "Frye-Stevens",
+  "date": "2022-02-01",
+  "subtotal": 563.14,
+  "tax": 28.84,
+  "discount": 4.48,
+  "total": 587.5,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$77.69",
+      "line_total": "$310.76"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$67.42",
+      "line_total": "$67.42"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$46.24",
+      "line_total": "$184.96"
+    }
+  ],
+  "sample_id": "receipt_0109"
+}

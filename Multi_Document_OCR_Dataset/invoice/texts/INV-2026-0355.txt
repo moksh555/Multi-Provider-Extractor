@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0355
+Company: Nova Medical Supplies
+Company Address: 15 Jumeirah Lake Towers, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 82 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-04-09
+Due Date: 2026-04-24
+Currency: QAR
+Subtotal: 10440.16
+Tax: 522.01
+Total: 10987.17
+Balance Due: 0.0
+Status: paid

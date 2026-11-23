@@ -1,0 +1,67 @@
+Receipt RCT-9MV9E40K
+Merchant: Johnson-Dunn
+Date: 2024-01-24
+Total: $686.01
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9MV9E40K",
+  "merchant_name": "Johnson-Dunn",
+  "date": "2024-01-24",
+  "subtotal": 642.13,
+  "tax": 55.28,
+  "discount": 11.4,
+  "total": 686.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$38.59",
+      "line_total": "$115.77"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$41.40",
+      "line_total": "$165.60"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$9.53",
+      "line_total": "$38.12"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$40.28",
+      "line_total": "$161.12"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$8.87",
+      "line_total": "$8.87"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$40.35",
+      "line_total": "$40.35"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$31.23",
+      "line_total": "$62.46"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$24.92",
+      "line_total": "$49.84"
+    }
+  ],
+  "sample_id": "receipt_0216"
+}

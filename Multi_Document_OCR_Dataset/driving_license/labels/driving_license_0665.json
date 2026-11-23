@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL776032120",
+  "full_name": "Lynn Alvarez",
+  "date_of_birth": "1999-10-23",
+  "class": "B",
+  "issue_date": "2023-09-08",
+  "expiry_date": "2028-09-08",
+  "address": "9690 Haynes Roads Suite 026, Cookville, HI 47425",
+  "sample_id": "driving_license_0665"
+}

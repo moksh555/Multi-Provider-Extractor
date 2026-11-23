@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0769
+Company: Atlas Engineering Ltd.
+Company Address: 193 Road 12, Banani, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 49 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-01
+Due Date: 2026-05-08
+Currency: QAR
+Subtotal: 18008.91
+Tax: 1800.89
+Total: 19819.8
+Balance Due: 0.0
+Status: paid

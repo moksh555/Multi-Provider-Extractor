@@ -1,0 +1,37 @@
+Receipt RCT-NXXYMXU1
+Merchant: Fisher-Little
+Date: 2021-08-01
+Total: $506.76
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NXXYMXU1",
+  "merchant_name": "Fisher-Little",
+  "date": "2021-08-01",
+  "subtotal": 487.92,
+  "tax": 19.66,
+  "discount": 0.82,
+  "total": 506.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$70.72",
+      "line_total": "$212.16"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$26.96",
+      "line_total": "$26.96"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$62.20",
+      "line_total": "$248.80"
+    }
+  ],
+  "sample_id": "receipt_0726"
+}

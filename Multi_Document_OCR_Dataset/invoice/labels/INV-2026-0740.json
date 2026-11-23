@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0740",
+  "invoice_number": "INV-2026-0740",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "129 Al Barsha, Dhaka, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "186 Road 12, Banani, Dubai, UAE",
+  "invoice_date": "2026-03-15",
+  "due_date": "2026-03-22",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 6,
+      "unit_price": 624.35,
+      "amount": 3746.1
+    },
+    {
+      "description": "API Integration",
+      "quantity": 7,
+      "unit_price": 389.44,
+      "amount": 2726.08
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 11,
+      "unit_price": 775.91,
+      "amount": 8535.01
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 571.88,
+      "amount": 1143.76
+    },
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 85.12,
+      "amount": 170.24
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 51.15,
+      "amount": 51.15
+    }
+  ],
+  "subtotal": 16372.34,
+  "discount": 818.62,
+  "tax_rate": 0.05,
+  "tax": 777.69,
+  "shipping": 10,
+  "total": 16341.41,
+  "amount_paid": 0,
+  "balance_due": 16341.41,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801847013165",
+  "po_number": "PO-17676"
+}

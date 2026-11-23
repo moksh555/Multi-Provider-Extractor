@@ -1,0 +1,43 @@
+Receipt RCT-6Q37CSUY
+Merchant: Gallagher and Sons
+Date: 2021-03-18
+Total: $494.07
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6Q37CSUY",
+  "merchant_name": "Gallagher and Sons",
+  "date": "2021-03-18",
+  "subtotal": 486.11,
+  "tax": 19.7,
+  "discount": 11.74,
+  "total": 494.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$6.23",
+      "line_total": "$18.69"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$67.42",
+      "line_total": "$202.26"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$50.49",
+      "line_total": "$201.96"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$15.80",
+      "line_total": "$63.20"
+    }
+  ],
+  "sample_id": "receipt_0178"
+}

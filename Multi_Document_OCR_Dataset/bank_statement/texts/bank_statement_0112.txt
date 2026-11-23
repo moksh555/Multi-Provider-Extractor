@@ -1,0 +1,16 @@
+Bank Statement STM-MGJ96ZE6
+Holder: Veronica Taylor
+Closing Balance: $802.43
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MGJ96ZE6",
+  "account_holder": "Veronica Taylor",
+  "account_number_masked": "****1064",
+  "period_start": "2024-08-22",
+  "period_end": "2024-09-21",
+  "opening_balance": 908.75,
+  "closing_balance": 802.43,
+  "transactions": 10,
+  "sample_id": "bank_statement_0112"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7IM2L184",
+  "account_holder": "Nathan Dunn",
+  "account_number_masked": "****9225",
+  "period_start": "2024-02-19",
+  "period_end": "2024-03-20",
+  "opening_balance": 2008.8,
+  "closing_balance": 4528.86,
+  "transactions": 9,
+  "sample_id": "bank_statement_0545"
+}

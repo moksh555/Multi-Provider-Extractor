@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-O4GKWWJWG",
+  "policy_holder": "Nicole Wright",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-11-08",
+  "expiry_date": "2024-11-08",
+  "premium": 238.12,
+  "coverage_amount": 272135.67,
+  "beneficiary": "Michael Kane",
+  "sample_id": "insurance_document_0351"
+}

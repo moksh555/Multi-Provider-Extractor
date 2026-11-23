@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL066078348",
+  "full_name": "Kelly Smith",
+  "date_of_birth": "1984-03-22",
+  "class": "A",
+  "issue_date": "2020-12-13",
+  "expiry_date": "2025-12-13",
+  "address": "7449 Susan Mall Apt. 936, Chelseastad, DC 08095",
+  "sample_id": "driving_license_0896"
+}

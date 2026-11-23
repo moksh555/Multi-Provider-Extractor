@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0144",
+  "invoice_number": "INV-2026-0144",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "137 Sheikh Zayed Road, Doha, Qatar",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "57 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-04-20",
+  "due_date": "2026-05-20",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 712.27,
+      "amount": 4273.62
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 1,
+      "unit_price": 507.38,
+      "amount": 507.38
+    },
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 109.67,
+      "amount": 219.34
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 149.5,
+      "amount": 1046.5
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 9,
+      "unit_price": 146.94,
+      "amount": 1322.46
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 42.27,
+      "amount": 422.7
+    }
+  ],
+  "subtotal": 7792.0,
+  "discount": 779.2,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 7012.8,
+  "amount_paid": 4526.95,
+  "balance_due": 2485.85,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801670401068",
+  "po_number": "PO-48762"
+}

@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Matthew Campbell",
+  "email": "lawrencewest@example.net",
+  "phone": "001-290-832-3887x6766",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "Machine Learning",
+    "PyTorch",
+    "Pandas",
+    "Deep Learning",
+    "TensorFlow",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0515"
+}

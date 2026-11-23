@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL364188016",
+  "full_name": "Michelle Long",
+  "date_of_birth": "1989-06-26",
+  "class": "D",
+  "issue_date": "2024-01-04",
+  "expiry_date": "2029-01-04",
+  "address": "USS Meyer, FPO AA 60387",
+  "sample_id": "driving_license_0292"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0430
+Company: CityBanking Supplies
+Company Address: 88 Al Barsha, Sylhet, Bangladesh
+Customer: TechPoint BD
+Billing Address: 74 Al Barsha, Dubai, UAE
+Invoice Date: 2026-03-28
+Due Date: 2026-04-12
+Currency: BDT
+Subtotal: 23571.49
+Tax: 0.0
+Total: 23621.49
+Balance Due: 0.0
+Status: paid

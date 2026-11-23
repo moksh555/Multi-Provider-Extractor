@@ -1,0 +1,23 @@
+Resume
+Anthony Wilson
+Data Analyst
+Skills: Pandas, Machine Learning, NLP, FastAPI, SQL, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Anthony Wilson",
+  "email": "heatherrogers@example.org",
+  "phone": "867-466-0271",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "Machine Learning",
+    "NLP",
+    "FastAPI",
+    "SQL",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0918"
+}

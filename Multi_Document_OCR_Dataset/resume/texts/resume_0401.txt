@@ -1,0 +1,24 @@
+Resume
+Johnny Page
+Software Engineer
+Skills: Computer Vision, TensorFlow, PyTorch, Docker, Pandas, SQL, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Johnny Page",
+  "email": "patricia94@example.net",
+  "phone": "996-374-1662x3956",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "TensorFlow",
+    "PyTorch",
+    "Docker",
+    "Pandas",
+    "SQL",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0401"
+}

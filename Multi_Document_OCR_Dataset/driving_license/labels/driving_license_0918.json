@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL480600591",
+  "full_name": "Jennifer Ferguson",
+  "date_of_birth": "1961-06-30",
+  "class": "C",
+  "issue_date": "2023-09-24",
+  "expiry_date": "2028-09-24",
+  "address": "PSC 7782, Box 2102, APO AP 12594",
+  "sample_id": "driving_license_0918"
+}

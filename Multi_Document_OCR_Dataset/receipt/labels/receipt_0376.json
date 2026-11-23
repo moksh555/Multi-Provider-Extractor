@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6BSPXLSE",
+  "merchant_name": "Kim-Barrett",
+  "date": "2025-05-30",
+  "subtotal": 741.73,
+  "tax": 51.32,
+  "discount": 5.22,
+  "total": 787.83,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$29.04",
+      "line_total": "$116.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$70.78",
+      "line_total": "$70.78"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$75.69",
+      "line_total": "$151.38"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$67.35",
+      "line_total": "$134.70"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$55.91",
+      "line_total": "$223.64"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$45.07",
+      "line_total": "$45.07"
+    }
+  ],
+  "sample_id": "receipt_0376"
+}

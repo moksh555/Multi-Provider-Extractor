@@ -1,0 +1,25 @@
+Resume
+Jason Hampton
+Software Engineer
+Skills: Docker, Python, FastAPI, Deep Learning, SQL, TensorFlow, PyTorch, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Jason Hampton",
+  "email": "zperez@example.org",
+  "phone": "899.250.6667",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Docker",
+    "Python",
+    "FastAPI",
+    "Deep Learning",
+    "SQL",
+    "TensorFlow",
+    "PyTorch",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0754"
+}

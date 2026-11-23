@@ -1,0 +1,16 @@
+Synthetic Driving License
+Patrick Perez
+License: DL201973355
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL201973355",
+  "full_name": "Patrick Perez",
+  "date_of_birth": "1966-02-26",
+  "class": "C",
+  "issue_date": "2021-01-04",
+  "expiry_date": "2026-01-04",
+  "address": "640 Nathan Mission Suite 881, Mckinneyside, MH 38808",
+  "sample_id": "driving_license_0350"
+}

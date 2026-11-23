@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Danielle Davis
+Passport No: P24828652
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24828652",
+  "full_name": "Danielle Davis",
+  "nationality": "BD",
+  "date_of_birth": "1974-12-19",
+  "issue_date": "2025-01-27",
+  "expiry_date": "2035-01-27",
+  "place_of_birth": "Lake Nicoleburgh",
+  "sample_id": "passport_0663"
+}

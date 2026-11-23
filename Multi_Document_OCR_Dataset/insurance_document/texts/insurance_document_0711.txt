@@ -1,0 +1,16 @@
+Insurance Policy POL-7PHI0EZF0
+Holder: Anthony Moore
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7PHI0EZF0",
+  "policy_holder": "Anthony Moore",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-01-31",
+  "expiry_date": "2026-01-31",
+  "premium": 248.72,
+  "coverage_amount": 61944.82,
+  "beneficiary": "Alyssa Pratt",
+  "sample_id": "insurance_document_0711"
+}

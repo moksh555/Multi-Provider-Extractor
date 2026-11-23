@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-X6LDM6FR",
+  "merchant_name": "Harrison, Johnson and Stewart",
+  "date": "2024-10-11",
+  "subtotal": 698.75,
+  "tax": 69.64,
+  "discount": 14.31,
+  "total": 754.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$73.14",
+      "line_total": "$146.28"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$37.88",
+      "line_total": "$75.76"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$35.68",
+      "line_total": "$35.68"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$58.75",
+      "line_total": "$235.00"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$20.95",
+      "line_total": "$41.90"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$39.12",
+      "line_total": "$117.36"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$4.17",
+      "line_total": "$12.51"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$34.26",
+      "line_total": "$34.26"
+    }
+  ],
+  "sample_id": "receipt_0383"
+}

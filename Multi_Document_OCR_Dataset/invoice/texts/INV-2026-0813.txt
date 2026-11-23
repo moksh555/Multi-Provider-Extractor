@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0813
+Company: SkyNet Office Mart
+Company Address: 96 Jumeirah Lake Towers, Chattogram, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 203 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-04-02
+Due Date: 2026-05-02
+Currency: AED
+Subtotal: 16980.18
+Tax: 849.01
+Total: 17879.19
+Balance Due: 17879.19
+Status: overdue

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7FZ0921B",
+  "account_holder": "Heather Foley",
+  "account_number_masked": "****9858",
+  "period_start": "2024-03-20",
+  "period_end": "2024-04-19",
+  "opening_balance": 2549.89,
+  "closing_balance": 5158.48,
+  "transactions": 9,
+  "sample_id": "bank_statement_0425"
+}

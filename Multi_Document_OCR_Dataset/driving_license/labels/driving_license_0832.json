@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL861679862",
+  "full_name": "John Khan",
+  "date_of_birth": "1966-01-09",
+  "class": "B",
+  "issue_date": "2020-01-01",
+  "expiry_date": "2025-01-01",
+  "address": "32145 Michael Lights Suite 194, Loriside, NJ 05812",
+  "sample_id": "driving_license_0832"
+}

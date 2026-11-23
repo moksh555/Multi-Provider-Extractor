@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL878093599",
+  "full_name": "Brian Wells",
+  "date_of_birth": "1989-05-05",
+  "class": "D",
+  "issue_date": "2026-01-15",
+  "expiry_date": "2031-01-15",
+  "address": "98863 Edwards Loop, North Xavier, KS 43447",
+  "sample_id": "driving_license_0986"
+}

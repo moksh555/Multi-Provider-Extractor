@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jeffrey Jordan
+License: DL126165669
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL126165669",
+  "full_name": "Jeffrey Jordan",
+  "date_of_birth": "1989-09-30",
+  "class": "A",
+  "issue_date": "2024-10-29",
+  "expiry_date": "2029-10-29",
+  "address": "0083 Dodson Islands Apt. 003, Lake Natalie, ME 17400",
+  "sample_id": "driving_license_0199"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Thomas Fletcher
+Passport No: P42489268
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P42489268",
+  "full_name": "Thomas Fletcher",
+  "nationality": "BD",
+  "date_of_birth": "1995-05-30",
+  "issue_date": "2026-06-18",
+  "expiry_date": "2036-06-18",
+  "place_of_birth": "West Justin",
+  "sample_id": "passport_0058"
+}

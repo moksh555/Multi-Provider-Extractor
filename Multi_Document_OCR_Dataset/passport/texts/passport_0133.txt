@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mr. Jesus Blake
+Passport No: P97150103
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P97150103",
+  "full_name": "Mr. Jesus Blake",
+  "nationality": "BD",
+  "date_of_birth": "1993-08-04",
+  "issue_date": "2021-09-15",
+  "expiry_date": "2031-09-15",
+  "place_of_birth": "North Sarah",
+  "sample_id": "passport_0133"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0667
+Company: Golden Harvest Store
+Company Address: 88 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 144 Agrabad C/A, Doha, Qatar
+Invoice Date: 2026-04-02
+Due Date: 2026-04-09
+Currency: SAR
+Subtotal: 22977.71
+Tax: 1148.89
+Total: 24126.6
+Balance Due: 24126.6
+Status: overdue

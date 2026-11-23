@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SLF4TXGO",
+  "patient_name": "Lindsey Anderson",
+  "visit_date": "2024-07-13",
+  "doctor_name": "Dr. Melanie Williams",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0891"
+}

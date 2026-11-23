@@ -1,0 +1,14 @@
+Medical Report MED-Y3D3UJKM
+Patient: Melanie Decker
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Y3D3UJKM",
+  "patient_name": "Melanie Decker",
+  "visit_date": "2024-06-11",
+  "doctor_name": "Dr. Mr. Jon Smith",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0493"
+}

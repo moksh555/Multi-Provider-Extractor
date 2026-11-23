@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0154
+Company: Eastern Care Pharmacy
+Company Address: 63 Zindabazar Road, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 223 Jumeirah Lake Towers, Sylhet, Bangladesh
+Invoice Date: 2026-01-17
+Due Date: 2026-03-03
+Currency: USD
+Subtotal: 13857.98
+Tax: 1358.08
+Total: 14948.9
+Balance Due: 0.0
+Status: paid

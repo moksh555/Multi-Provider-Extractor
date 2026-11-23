@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Edward White",
+  "email": "melissa44@example.com",
+  "phone": "789-304-7607x8623",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "FastAPI",
+    "Docker",
+    "Pandas",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0130"
+}

@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-S1G9EU81",
+  "merchant_name": "Mcdaniel-Lopez",
+  "date": "2021-06-11",
+  "subtotal": 545.56,
+  "tax": 30.29,
+  "discount": 6.78,
+  "total": 569.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$34.97",
+      "line_total": "$69.94"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$76.29",
+      "line_total": "$76.29"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$68.22",
+      "line_total": "$68.22"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$53.32",
+      "line_total": "$106.64"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$41.08",
+      "line_total": "$123.24"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$24.55",
+      "line_total": "$49.10"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$52.13",
+      "line_total": "$52.13"
+    }
+  ],
+  "sample_id": "receipt_0533"
+}

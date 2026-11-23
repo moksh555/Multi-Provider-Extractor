@@ -1,0 +1,16 @@
+Synthetic Driving License
+Stephanie Lowery
+License: DL981933592
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL981933592",
+  "full_name": "Stephanie Lowery",
+  "date_of_birth": "1977-02-04",
+  "class": "C",
+  "issue_date": "2020-06-17",
+  "expiry_date": "2025-06-17",
+  "address": "46996 Lewis Courts, South Jennifermouth, FL 97384",
+  "sample_id": "driving_license_0821"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-LKLNK3Y9
+Patient: Timothy Barnes
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LKLNK3Y9",
+  "patient_name": "Timothy Barnes",
+  "visit_date": "2024-03-24",
+  "doctor_name": "Dr. Elizabeth Nolan",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0078"
+}

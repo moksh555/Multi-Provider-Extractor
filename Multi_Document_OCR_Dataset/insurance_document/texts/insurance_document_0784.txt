@@ -1,0 +1,16 @@
+Insurance Policy POL-E6XFWZ73W
+Holder: Aaron Taylor
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-E6XFWZ73W",
+  "policy_holder": "Aaron Taylor",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-08-23",
+  "expiry_date": "2024-08-23",
+  "premium": 279.8,
+  "coverage_amount": 84980.82,
+  "beneficiary": "Jeffrey Moore",
+  "sample_id": "insurance_document_0784"
+}

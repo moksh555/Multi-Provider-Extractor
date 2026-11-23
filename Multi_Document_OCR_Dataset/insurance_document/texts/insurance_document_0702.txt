@@ -1,0 +1,16 @@
+Insurance Policy POL-4DF163LRI
+Holder: Nathan Miller
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4DF163LRI",
+  "policy_holder": "Nathan Miller",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-11-18",
+  "expiry_date": "2027-11-18",
+  "premium": 756.55,
+  "coverage_amount": 276370.32,
+  "beneficiary": "Kevin Gutierrez",
+  "sample_id": "insurance_document_0702"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-W9HNE0R3",
+  "merchant_name": "Lee, Salazar and Gonzalez",
+  "date": "2023-08-23",
+  "subtotal": 500.42,
+  "tax": 47.33,
+  "discount": 2.28,
+  "total": 545.47,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$76.96",
+      "line_total": "$153.92"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$55.86",
+      "line_total": "$223.44"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$41.02",
+      "line_total": "$123.06"
+    }
+  ],
+  "sample_id": "receipt_0954"
+}

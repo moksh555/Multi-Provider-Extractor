@@ -1,0 +1,14 @@
+Medical Report MED-T5INXV85
+Patient: Allison Chandler
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-T5INXV85",
+  "patient_name": "Allison Chandler",
+  "visit_date": "2026-10-29",
+  "doctor_name": "Dr. Ricardo Bowman",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0214"
+}

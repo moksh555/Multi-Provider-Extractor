@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0819
+Company: Atlas Engineering Ltd.
+Company Address: 67 Dhanmondi 27, Doha, Qatar
+Customer: Global Mart
+Billing Address: 82 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-01-23
+Due Date: 2026-02-22
+Currency: BDT
+Subtotal: 20745.23
+Tax: 933.54
+Total: 19629.25
+Balance Due: 19629.25
+Status: unpaid

@@ -1,0 +1,55 @@
+Receipt RCT-W7V1QSA1
+Merchant: Martin-Parker
+Date: 2023-03-09
+Total: $411.68
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-W7V1QSA1",
+  "merchant_name": "Martin-Parker",
+  "date": "2023-03-09",
+  "subtotal": 395.48,
+  "tax": 25.07,
+  "discount": 8.87,
+  "total": 411.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$24.24",
+      "line_total": "$48.48"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$43.21",
+      "line_total": "$172.84"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$31.68",
+      "line_total": "$63.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$42.71",
+      "line_total": "$42.71"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$38.33",
+      "line_total": "$38.33"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$29.76",
+      "line_total": "$29.76"
+    }
+  ],
+  "sample_id": "receipt_0582"
+}

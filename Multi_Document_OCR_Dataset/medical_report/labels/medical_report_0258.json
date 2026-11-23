@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ICZKK0A0",
+  "patient_name": "Brittany Hamilton",
+  "visit_date": "2026-09-29",
+  "doctor_name": "Dr. Susan Drake",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0258"
+}

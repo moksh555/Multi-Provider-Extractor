@@ -1,0 +1,16 @@
+Insurance Policy POL-8S1SAXT8J
+Holder: Henry Oliver
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8S1SAXT8J",
+  "policy_holder": "Henry Oliver",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-05-17",
+  "expiry_date": "2025-05-17",
+  "premium": 2094.66,
+  "coverage_amount": 421069.55,
+  "beneficiary": "Rachel Frye",
+  "sample_id": "insurance_document_0567"
+}

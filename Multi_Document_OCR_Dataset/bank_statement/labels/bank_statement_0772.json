@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-C7I7MVSV",
+  "account_holder": "Russell Green",
+  "account_number_masked": "****8279",
+  "period_start": "2025-09-08",
+  "period_end": "2025-10-08",
+  "opening_balance": 1210.47,
+  "closing_balance": 2919.26,
+  "transactions": 11,
+  "sample_id": "bank_statement_0772"
+}

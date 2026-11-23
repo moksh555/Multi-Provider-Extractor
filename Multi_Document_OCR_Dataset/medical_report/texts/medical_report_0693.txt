@@ -1,0 +1,14 @@
+Medical Report MED-YGA6XB51
+Patient: Katherine Davis
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YGA6XB51",
+  "patient_name": "Katherine Davis",
+  "visit_date": "2026-11-15",
+  "doctor_name": "Dr. Erika Villarreal",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0693"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-08RNPPAP
+Patient: Lisa Moore
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-08RNPPAP",
+  "patient_name": "Lisa Moore",
+  "visit_date": "2024-05-18",
+  "doctor_name": "Dr. Thomas Garcia",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0154"
+}

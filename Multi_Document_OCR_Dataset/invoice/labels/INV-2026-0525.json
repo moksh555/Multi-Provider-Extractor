@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0525",
+  "invoice_number": "INV-2026-0525",
+  "company_name": "Greenline Logistics",
+  "company_address": "25 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "45 Al Barsha, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-04",
+  "due_date": "2026-05-11",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 518.88,
+      "amount": 3632.16
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 2,
+      "unit_price": 364.11,
+      "amount": 728.22
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 5,
+      "unit_price": 140.71,
+      "amount": 703.55
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 104.0,
+      "amount": 624.0
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 9,
+      "unit_price": 348.29,
+      "amount": 3134.61
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 35.27,
+      "amount": 141.08
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 711.53,
+      "amount": 1423.06
+    }
+  ],
+  "subtotal": 10386.68,
+  "discount": 207.73,
+  "tax_rate": 0.1,
+  "tax": 1017.9,
+  "shipping": 25,
+  "total": 11221.85,
+  "amount_paid": 11221.85,
+  "balance_due": 0.0,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801281014955",
+  "po_number": "PO-09262"
+}

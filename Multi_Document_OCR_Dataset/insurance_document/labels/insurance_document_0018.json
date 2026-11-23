@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2QP89UZFK",
+  "policy_holder": "Maurice Gray",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-04-01",
+  "expiry_date": "2027-04-01",
+  "premium": 1871.05,
+  "coverage_amount": 39869.21,
+  "beneficiary": "Carrie Carroll",
+  "sample_id": "insurance_document_0018"
+}

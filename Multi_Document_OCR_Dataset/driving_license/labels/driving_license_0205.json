@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL116493331",
+  "full_name": "Angela Cummings",
+  "date_of_birth": "1991-07-30",
+  "class": "B",
+  "issue_date": "2025-02-18",
+  "expiry_date": "2030-02-18",
+  "address": "PSC 3744, Box 7012, APO AE 38586",
+  "sample_id": "driving_license_0205"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0220
+Company: Atlas Engineering Ltd.
+Company Address: 13 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 234 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-04-19
+Due Date: 2026-05-19
+Currency: BDT
+Subtotal: 4918.86
+Tax: 700.94
+Total: 5373.86
+Balance Due: 0.0
+Status: paid

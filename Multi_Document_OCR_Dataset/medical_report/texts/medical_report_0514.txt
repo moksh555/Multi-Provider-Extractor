@@ -1,0 +1,14 @@
+Medical Report MED-7PPXQXB3
+Patient: Kyle Hernandez
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7PPXQXB3",
+  "patient_name": "Kyle Hernandez",
+  "visit_date": "2026-12-29",
+  "doctor_name": "Dr. Vicki Ortiz",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0514"
+}

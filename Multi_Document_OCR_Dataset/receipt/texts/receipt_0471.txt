@@ -1,0 +1,67 @@
+Receipt RCT-JPX16F1K
+Merchant: Washington-Jones
+Date: 2025-01-20
+Total: $756.05
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JPX16F1K",
+  "merchant_name": "Washington-Jones",
+  "date": "2025-01-20",
+  "subtotal": 718.41,
+  "tax": 45.9,
+  "discount": 8.26,
+  "total": 756.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$64.04",
+      "line_total": "$128.08"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$58.24",
+      "line_total": "$58.24"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$17.25",
+      "line_total": "$34.50"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$71.09",
+      "line_total": "$142.18"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$20.41",
+      "line_total": "$61.23"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$74.67",
+      "line_total": "$224.01"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$12.56",
+      "line_total": "$37.68"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$10.83",
+      "line_total": "$32.49"
+    }
+  ],
+  "sample_id": "receipt_0471"
+}

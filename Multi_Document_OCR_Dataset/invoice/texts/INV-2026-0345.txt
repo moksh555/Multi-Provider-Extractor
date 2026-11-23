@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0345
+Company: CityBanking Supplies
+Company Address: 164 Zindabazar Road, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 86 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-30
+Due Date: 2026-06-14
+Currency: QAR
+Subtotal: 10664.21
+Tax: 0.0
+Total: 10475.93
+Balance Due: 10475.93
+Status: unpaid

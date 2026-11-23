@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kimberly Davenport
+License: DL392744995
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL392744995",
+  "full_name": "Kimberly Davenport",
+  "date_of_birth": "2003-08-30",
+  "class": "B",
+  "issue_date": "2021-09-26",
+  "expiry_date": "2026-09-26",
+  "address": "2045 Rachel Fords, Lake Curtis, WI 73886",
+  "sample_id": "driving_license_0019"
+}

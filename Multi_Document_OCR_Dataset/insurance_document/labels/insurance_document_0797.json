@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DRBTA3K3O",
+  "policy_holder": "Dustin Owens",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-05-20",
+  "expiry_date": "2024-05-20",
+  "premium": 2196.41,
+  "coverage_amount": 87352.88,
+  "beneficiary": "Andrew Clark",
+  "sample_id": "insurance_document_0797"
+}

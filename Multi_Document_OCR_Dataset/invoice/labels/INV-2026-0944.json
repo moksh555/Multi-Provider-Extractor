@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0944",
+  "invoice_number": "INV-2026-0944",
+  "company_name": "Delta Insurance Services",
+  "company_address": "123 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "144 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-02",
+  "due_date": "2026-05-02",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 378.87,
+      "amount": 378.87
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 11,
+      "unit_price": 315.66,
+      "amount": 3472.26
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 314.63,
+      "amount": 314.63
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 804.76,
+      "amount": 8047.6
+    }
+  ],
+  "subtotal": 12213.36,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1221.34,
+  "shipping": 0,
+  "total": 13434.7,
+  "amount_paid": 0,
+  "balance_due": 13434.7,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801347211958",
+  "po_number": "PO-95419"
+}

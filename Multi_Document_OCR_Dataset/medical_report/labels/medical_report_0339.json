@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-OZFSRAZZ",
+  "patient_name": "Michael Guzman",
+  "visit_date": "2025-08-18",
+  "doctor_name": "Dr. Jacqueline Frank",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0339"
+}

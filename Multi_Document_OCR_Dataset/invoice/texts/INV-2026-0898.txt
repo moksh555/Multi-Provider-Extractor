@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0898
+Company: BrightStar Electronics
+Company Address: 130 Doha Business Park, Dubai, UAE
+Customer: Sunrise Apparel
+Billing Address: 55 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-05
+Due Date: 2026-06-20
+Currency: QAR
+Subtotal: 13810.94
+Tax: 0.0
+Total: 13584.72
+Balance Due: 13584.72
+Status: unpaid

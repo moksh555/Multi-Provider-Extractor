@@ -1,0 +1,16 @@
+Synthetic Driving License
+Aaron Cortez
+License: DL599918536
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL599918536",
+  "full_name": "Aaron Cortez",
+  "date_of_birth": "2002-04-04",
+  "class": "A",
+  "issue_date": "2020-10-25",
+  "expiry_date": "2025-10-25",
+  "address": "158 Keith Spur, Catherineport, WV 57868",
+  "sample_id": "driving_license_0225"
+}

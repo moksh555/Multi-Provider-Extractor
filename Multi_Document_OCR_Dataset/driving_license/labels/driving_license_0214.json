@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL998182787",
+  "full_name": "Kristen Reynolds",
+  "date_of_birth": "1995-03-26",
+  "class": "B",
+  "issue_date": "2025-06-27",
+  "expiry_date": "2030-06-27",
+  "address": "922 Paul Rapid, Williamfurt, MT 80323",
+  "sample_id": "driving_license_0214"
+}

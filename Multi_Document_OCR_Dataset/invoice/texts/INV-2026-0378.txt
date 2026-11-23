@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0378
+Company: Nova Medical Supplies
+Company Address: 64 Agrabad C/A, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 25 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-01-03
+Due Date: 2026-02-17
+Currency: USD
+Subtotal: 9487.92
+Tax: 1352.03
+Total: 10415.55
+Balance Due: 2925.35
+Status: partial

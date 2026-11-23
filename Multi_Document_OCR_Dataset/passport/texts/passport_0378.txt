@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Elijah Vasquez
+Passport No: P24095467
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24095467",
+  "full_name": "Elijah Vasquez",
+  "nationality": "AE",
+  "date_of_birth": "1976-02-29",
+  "issue_date": "2023-03-10",
+  "expiry_date": "2033-03-10",
+  "place_of_birth": "Terrimouth",
+  "sample_id": "passport_0378"
+}

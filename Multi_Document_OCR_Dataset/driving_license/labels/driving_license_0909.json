@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL379562512",
+  "full_name": "Ronald Smith",
+  "date_of_birth": "1975-12-31",
+  "class": "A",
+  "issue_date": "2022-12-12",
+  "expiry_date": "2027-12-12",
+  "address": "23859 Hooper Terrace Apt. 434, Weaverbury, OR 41230",
+  "sample_id": "driving_license_0909"
+}

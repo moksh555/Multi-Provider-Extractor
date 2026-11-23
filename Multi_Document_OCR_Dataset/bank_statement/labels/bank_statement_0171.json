@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Y7VFHPD6",
+  "account_holder": "Hailey Ball",
+  "account_number_masked": "****3207",
+  "period_start": "2026-07-09",
+  "period_end": "2026-08-08",
+  "opening_balance": 2430.79,
+  "closing_balance": 3965.47,
+  "transactions": 10,
+  "sample_id": "bank_statement_0171"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jaclyn Johnson
+License: DL700713346
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL700713346",
+  "full_name": "Jaclyn Johnson",
+  "date_of_birth": "1977-12-23",
+  "class": "C",
+  "issue_date": "2021-12-05",
+  "expiry_date": "2026-12-05",
+  "address": "8509 Avila Trail Suite 430, West Courtney, DE 89030",
+  "sample_id": "driving_license_0931"
+}

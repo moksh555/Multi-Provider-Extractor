@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-085I4RZPC",
+  "policy_holder": "Meghan Goodman",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-07-27",
+  "expiry_date": "2025-07-27",
+  "premium": 2124.73,
+  "coverage_amount": 368896.89,
+  "beneficiary": "Michelle Wilkinson",
+  "sample_id": "insurance_document_0956"
+}

@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7R1Z4C9V",
+  "merchant_name": "Haley Group",
+  "date": "2022-09-26",
+  "subtotal": 653.66,
+  "tax": 75.23,
+  "discount": 0.89,
+  "total": 728.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$64.49",
+      "line_total": "$128.98"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$76.95",
+      "line_total": "$230.85"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$52.93",
+      "line_total": "$52.93"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$58.07",
+      "line_total": "$116.14"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$1.10",
+      "line_total": "$2.20"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$49.59",
+      "line_total": "$99.18"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$11.69",
+      "line_total": "$23.38"
+    }
+  ],
+  "sample_id": "receipt_0600"
+}

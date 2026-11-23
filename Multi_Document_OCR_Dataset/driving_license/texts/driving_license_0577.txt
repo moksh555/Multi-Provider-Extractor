@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jordan Allison
+License: DL258006798
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL258006798",
+  "full_name": "Jordan Allison",
+  "date_of_birth": "1986-02-01",
+  "class": "D",
+  "issue_date": "2020-05-31",
+  "expiry_date": "2025-05-31",
+  "address": "Unit 1591 Box 0300, DPO AE 14281",
+  "sample_id": "driving_license_0577"
+}

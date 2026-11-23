@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL715429489",
+  "full_name": "Angel Miller",
+  "date_of_birth": "2002-03-02",
+  "class": "D",
+  "issue_date": "2023-11-26",
+  "expiry_date": "2028-11-26",
+  "address": "49985 Vang Pines, Shawnchester, CT 92484",
+  "sample_id": "driving_license_0064"
+}

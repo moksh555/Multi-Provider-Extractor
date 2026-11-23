@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-06IDIIOH6",
+  "policy_holder": "Joseph Andrews",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-08-22",
+  "expiry_date": "2026-08-22",
+  "premium": 1512.52,
+  "coverage_amount": 36626.28,
+  "beneficiary": "Ariana Mitchell",
+  "sample_id": "insurance_document_0453"
+}

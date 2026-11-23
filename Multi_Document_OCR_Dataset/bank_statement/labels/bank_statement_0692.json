@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-N55XMW7U",
+  "account_holder": "Charles Poole",
+  "account_number_masked": "****8390",
+  "period_start": "2026-02-15",
+  "period_end": "2026-03-17",
+  "opening_balance": 4991.85,
+  "closing_balance": 7474.09,
+  "transactions": 11,
+  "sample_id": "bank_statement_0692"
+}

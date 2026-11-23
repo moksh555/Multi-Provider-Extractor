@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0408",
+  "invoice_number": "INV-2026-0408",
+  "company_name": "Metro Print House",
+  "company_address": "175 Uttara Sector 7, Chattogram, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "17 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-25",
+  "due_date": "2026-03-12",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 6,
+      "unit_price": 161.07,
+      "amount": 966.42
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 10,
+      "unit_price": 812.27,
+      "amount": 8122.7
+    },
+    {
+      "description": "API Integration",
+      "quantity": 4,
+      "unit_price": 631.92,
+      "amount": 2527.68
+    }
+  ],
+  "subtotal": 11616.8,
+  "discount": 1161.68,
+  "tax_rate": 0.15,
+  "tax": 1568.27,
+  "shipping": 0,
+  "total": 12023.39,
+  "amount_paid": 0,
+  "balance_due": 12023.39,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801776562521",
+  "po_number": "PO-67258"
+}

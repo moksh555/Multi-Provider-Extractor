@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL388158690",
+  "full_name": "Nina Ali",
+  "date_of_birth": "1991-07-20",
+  "class": "B",
+  "issue_date": "2026-05-14",
+  "expiry_date": "2031-05-14",
+  "address": "071 Jones Roads Apt. 356, Zacharytown, UT 35018",
+  "sample_id": "driving_license_0248"
+}

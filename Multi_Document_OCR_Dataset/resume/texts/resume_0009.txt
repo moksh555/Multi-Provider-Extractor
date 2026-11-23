@@ -1,0 +1,27 @@
+Resume
+Stacey Ramirez
+Backend Developer
+Skills: Python, TensorFlow, Machine Learning, NLP, AWS, Docker, PyTorch, Streamlit, Pandas, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Stacey Ramirez",
+  "email": "davisabigail@example.net",
+  "phone": "(824)773-1261",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Machine Learning",
+    "NLP",
+    "AWS",
+    "Docker",
+    "PyTorch",
+    "Streamlit",
+    "Pandas",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0009"
+}

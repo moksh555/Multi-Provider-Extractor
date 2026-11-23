@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-DYDGLSQ5",
+  "patient_name": "Patrick Gomez",
+  "visit_date": "2024-06-24",
+  "doctor_name": "Dr. April Cole",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0099"
+}

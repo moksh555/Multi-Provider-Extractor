@@ -1,0 +1,14 @@
+Medical Report MED-O8SELPGV
+Patient: Tonya Turner
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-O8SELPGV",
+  "patient_name": "Tonya Turner",
+  "visit_date": "2024-04-15",
+  "doctor_name": "Dr. Stacey Thompson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0312"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5RDOQIVB",
+  "merchant_name": "Taylor, Chavez and Santiago",
+  "date": "2024-02-27",
+  "subtotal": 690.65,
+  "tax": 68.23,
+  "discount": 4.2,
+  "total": 754.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$43.40",
+      "line_total": "$130.20"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$11.58",
+      "line_total": "$46.32"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$61.34",
+      "line_total": "$184.02"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$32.65",
+      "line_total": "$32.65"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$44.70",
+      "line_total": "$134.10"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$40.84",
+      "line_total": "$163.36"
+    }
+  ],
+  "sample_id": "receipt_0061"
+}

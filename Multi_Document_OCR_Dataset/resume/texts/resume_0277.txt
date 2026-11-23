@@ -1,0 +1,25 @@
+Resume
+Tara Ballard
+Computer Vision Engineer
+Skills: FastAPI, LangChain, Deep Learning, Streamlit, Docker, TensorFlow, Python, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Tara Ballard",
+  "email": "alexanderponce@example.net",
+  "phone": "923.483.6806x0145",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "LangChain",
+    "Deep Learning",
+    "Streamlit",
+    "Docker",
+    "TensorFlow",
+    "Python",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0277"
+}

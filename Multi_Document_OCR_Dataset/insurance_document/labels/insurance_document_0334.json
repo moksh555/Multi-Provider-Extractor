@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HHIWFD7YX",
+  "policy_holder": "Lisa Wright",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-01-14",
+  "expiry_date": "2024-01-14",
+  "premium": 1938.9,
+  "coverage_amount": 275322.24,
+  "beneficiary": "Keith Henry",
+  "sample_id": "insurance_document_0334"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Jorge Hess",
+  "email": "etownsend@example.net",
+  "phone": "335-905-3494",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Docker",
+    "TensorFlow",
+    "Python",
+    "PyTorch",
+    "SQL",
+    "AWS",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0286"
+}

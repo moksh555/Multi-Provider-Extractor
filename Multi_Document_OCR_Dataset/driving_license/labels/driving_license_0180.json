@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL731518995",
+  "full_name": "Jeffrey Barnes",
+  "date_of_birth": "1966-09-01",
+  "class": "A",
+  "issue_date": "2020-07-17",
+  "expiry_date": "2025-07-17",
+  "address": "6586 Maria Turnpike Apt. 271, West Andrewview, CT 10226",
+  "sample_id": "driving_license_0180"
+}

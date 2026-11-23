@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-AXTZB8VI",
+  "patient_name": "Stephen Lucero",
+  "visit_date": "2026-05-09",
+  "doctor_name": "Dr. Erin Andrade",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0391"
+}

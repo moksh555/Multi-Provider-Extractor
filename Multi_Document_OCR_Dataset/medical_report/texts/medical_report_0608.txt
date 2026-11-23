@@ -1,0 +1,14 @@
+Medical Report MED-HHEIAVLU
+Patient: Richard Silva
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HHEIAVLU",
+  "patient_name": "Richard Silva",
+  "visit_date": "2024-03-28",
+  "doctor_name": "Dr. Sabrina Robbins",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0608"
+}

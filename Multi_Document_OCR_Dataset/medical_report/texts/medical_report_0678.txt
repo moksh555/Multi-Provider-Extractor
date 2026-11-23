@@ -1,0 +1,14 @@
+Medical Report MED-1N8DV6GX
+Patient: Kurt Clarke
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-1N8DV6GX",
+  "patient_name": "Kurt Clarke",
+  "visit_date": "2025-12-08",
+  "doctor_name": "Dr. Randy Martin",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0678"
+}

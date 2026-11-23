@@ -1,0 +1,16 @@
+Insurance Policy POL-NULQJIDKN
+Holder: Daniel Steele
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NULQJIDKN",
+  "policy_holder": "Daniel Steele",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-05-06",
+  "expiry_date": "2026-05-06",
+  "premium": 710.88,
+  "coverage_amount": 434000.68,
+  "beneficiary": "Richard Le",
+  "sample_id": "insurance_document_0131"
+}

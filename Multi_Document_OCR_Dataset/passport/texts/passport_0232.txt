@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Beth Edwards
+Passport No: P93025399
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P93025399",
+  "full_name": "Beth Edwards",
+  "nationality": "CA",
+  "date_of_birth": "1967-03-26",
+  "issue_date": "2021-08-17",
+  "expiry_date": "2031-08-17",
+  "place_of_birth": "Allenborough",
+  "sample_id": "passport_0232"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0692
+Company: Royal Diagnostics Center
+Company Address: 97 Zindabazar Road, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 139 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-01-04
+Due Date: 2026-02-03
+Currency: QAR
+Subtotal: 12340.05
+Tax: 617.0
+Total: 12957.05
+Balance Due: 12957.05
+Status: overdue

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Eugene Hughes",
+  "email": "townsendsean@example.com",
+  "phone": "+1-714-314-8351x5609",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "NLP",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "Python",
+    "Streamlit",
+    "AWS",
+    "LangChain",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0749"
+}

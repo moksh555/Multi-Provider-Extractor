@@ -1,0 +1,49 @@
+Receipt RCT-IB4TCTDS
+Merchant: Graves-Grimes
+Date: 2022-01-19
+Total: $404.27
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IB4TCTDS",
+  "merchant_name": "Graves-Grimes",
+  "date": "2022-01-19",
+  "subtotal": 373.0,
+  "tax": 32.47,
+  "discount": 1.2,
+  "total": 404.27,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$44.36",
+      "line_total": "$133.08"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$34.79",
+      "line_total": "$34.79"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$64.43",
+      "line_total": "$128.86"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$41.92",
+      "line_total": "$41.92"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$34.35",
+      "line_total": "$34.35"
+    }
+  ],
+  "sample_id": "receipt_0510"
+}

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0418",
+  "invoice_number": "INV-2026-0418",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "19 Road 12, Banani, Riyadh, Saudi Arabia",
+  "customer_name": "TechPoint BD",
+  "billing_address": "168 Zindabazar Road, Doha, Qatar",
+  "invoice_date": "2026-03-02",
+  "due_date": "2026-03-09",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 847.88,
+      "amount": 9326.68
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 668.51,
+      "amount": 4011.06
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 5,
+      "unit_price": 522.09,
+      "amount": 2610.45
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 1,
+      "unit_price": 688.19,
+      "amount": 688.19
+    }
+  ],
+  "subtotal": 16636.38,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 2495.46,
+  "shipping": 5,
+  "total": 19136.84,
+  "amount_paid": 10971.0,
+  "balance_due": 8165.84,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801893696615",
+  "po_number": "PO-68352"
+}

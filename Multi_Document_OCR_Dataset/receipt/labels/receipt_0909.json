@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TYH40S2T",
+  "merchant_name": "Bender, Fisher and Weber",
+  "date": "2024-02-19",
+  "subtotal": 444.22,
+  "tax": 34.98,
+  "discount": 13.67,
+  "total": 465.53,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$31.18",
+      "line_total": "$93.54"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$3.20",
+      "line_total": "$6.40"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$53.29",
+      "line_total": "$159.87"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$20.19",
+      "line_total": "$40.38"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$72.05",
+      "line_total": "$72.05"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$35.99",
+      "line_total": "$71.98"
+    }
+  ],
+  "sample_id": "receipt_0909"
+}

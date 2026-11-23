@@ -1,0 +1,16 @@
+Synthetic Driving License
+Robert Brown
+License: DL158342810
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL158342810",
+  "full_name": "Robert Brown",
+  "date_of_birth": "1961-05-29",
+  "class": "D",
+  "issue_date": "2021-08-12",
+  "expiry_date": "2026-08-12",
+  "address": "10804 Morales River Suite 399, South Patrickchester, FM 81793",
+  "sample_id": "driving_license_0448"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Daniel Garza
+License: DL778627611
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL778627611",
+  "full_name": "Daniel Garza",
+  "date_of_birth": "2004-02-26",
+  "class": "D",
+  "issue_date": "2021-02-17",
+  "expiry_date": "2026-02-17",
+  "address": "7281 Jeffery Lakes Suite 798, Port Ricardo, CA 36917",
+  "sample_id": "driving_license_0581"
+}

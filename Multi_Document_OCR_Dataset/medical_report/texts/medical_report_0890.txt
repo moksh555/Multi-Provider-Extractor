@@ -1,0 +1,14 @@
+Medical Report MED-LS49DLDG
+Patient: Mike Mason
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LS49DLDG",
+  "patient_name": "Mike Mason",
+  "visit_date": "2026-04-28",
+  "doctor_name": "Dr. David Lopez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0890"
+}

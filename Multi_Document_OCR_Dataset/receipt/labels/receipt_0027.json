@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KWV08HHX",
+  "merchant_name": "Schmidt, Hansen and Stewart",
+  "date": "2022-10-06",
+  "subtotal": 415.57,
+  "tax": 29.45,
+  "discount": 10.31,
+  "total": 434.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$13.37",
+      "line_total": "$13.37"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$55.46",
+      "line_total": "$221.84"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$3.58",
+      "line_total": "$10.74"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$56.54",
+      "line_total": "$169.62"
+    }
+  ],
+  "sample_id": "receipt_0027"
+}

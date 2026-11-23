@@ -1,0 +1,14 @@
+Medical Report MED-PE7OM7OD
+Patient: Allen Alvarado
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-PE7OM7OD",
+  "patient_name": "Allen Alvarado",
+  "visit_date": "2025-12-10",
+  "doctor_name": "Dr. Jacob Ruiz",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0243"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Marcia Wu
+License: DL762802808
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL762802808",
+  "full_name": "Marcia Wu",
+  "date_of_birth": "1970-07-13",
+  "class": "B",
+  "issue_date": "2022-08-28",
+  "expiry_date": "2027-08-28",
+  "address": "5037 Castro River Suite 571, Port Donnatown, MA 47049",
+  "sample_id": "driving_license_0211"
+}

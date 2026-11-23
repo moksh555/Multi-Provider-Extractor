@@ -1,0 +1,24 @@
+Resume
+Casey Estes
+Software Engineer
+Skills: LangChain, PyTorch, Deep Learning, Computer Vision, Pandas, AWS, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Casey Estes",
+  "email": "donaldmolina@example.org",
+  "phone": "001-362-453-9418x54554",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "LangChain",
+    "PyTorch",
+    "Deep Learning",
+    "Computer Vision",
+    "Pandas",
+    "AWS",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0521"
+}

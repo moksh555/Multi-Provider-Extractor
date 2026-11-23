@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0232
+Company: CityBanking Supplies
+Company Address: 63 Agrabad C/A, Dhaka, Bangladesh
+Customer: Global Mart
+Billing Address: 192 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-06-28
+Due Date: 2026-07-13
+Currency: SAR
+Subtotal: 12884.21
+Tax: 1262.65
+Total: 13889.18
+Balance Due: 0.0
+Status: paid

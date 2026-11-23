@@ -1,0 +1,14 @@
+Medical Report MED-X85LNO2A
+Patient: Matthew Freeman
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-X85LNO2A",
+  "patient_name": "Matthew Freeman",
+  "visit_date": "2024-07-04",
+  "doctor_name": "Dr. Cheryl Cummings",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0906"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WIIV54D0",
+  "patient_name": "Kristen Johnson",
+  "visit_date": "2025-12-22",
+  "doctor_name": "Dr. Todd Little",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0289"
+}

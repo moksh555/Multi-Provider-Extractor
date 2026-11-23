@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Angela Santiago",
+  "email": "maria51@example.com",
+  "phone": "+1-459-591-9456x44645",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "SQL",
+    "AWS",
+    "Deep Learning",
+    "Machine Learning",
+    "Python",
+    "NLP",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0501"
+}

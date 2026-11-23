@@ -1,0 +1,16 @@
+Insurance Policy POL-WIJ0KZQVS
+Holder: Carl Schmidt
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WIJ0KZQVS",
+  "policy_holder": "Carl Schmidt",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-09-27",
+  "expiry_date": "2024-09-27",
+  "premium": 900.51,
+  "coverage_amount": 193637.64,
+  "beneficiary": "Maria Patterson",
+  "sample_id": "insurance_document_0943"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZGMS66KE",
+  "merchant_name": "Bass Group",
+  "date": "2025-04-14",
+  "subtotal": 239.07,
+  "tax": 15.46,
+  "discount": 3.88,
+  "total": 250.65,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$77.09",
+      "line_total": "$77.09"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$61.10",
+      "line_total": "$122.20"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$19.89",
+      "line_total": "$39.78"
+    }
+  ],
+  "sample_id": "receipt_0915"
+}

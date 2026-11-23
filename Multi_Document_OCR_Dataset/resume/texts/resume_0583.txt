@@ -1,0 +1,26 @@
+Resume
+Paula Rogers
+Software Engineer
+Skills: NLP, Docker, Computer Vision, AWS, FastAPI, Deep Learning, SQL, Python, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Paula Rogers",
+  "email": "dmartinez@example.net",
+  "phone": "301-257-9970x6298",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "Docker",
+    "Computer Vision",
+    "AWS",
+    "FastAPI",
+    "Deep Learning",
+    "SQL",
+    "Python",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0583"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0604
+Company: Atlas Engineering Ltd.
+Company Address: 185 Agrabad C/A, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 46 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-06-04
+Due Date: 2026-06-19
+Currency: SAR
+Subtotal: 3094.95
+Tax: 309.5
+Total: 3409.45
+Balance Due: 0.0
+Status: paid

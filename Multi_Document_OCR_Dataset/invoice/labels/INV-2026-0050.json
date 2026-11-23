@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0050",
+  "invoice_number": "INV-2026-0050",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "143 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "175 Agrabad C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-30",
+  "due_date": "2026-07-14",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 392.62,
+      "amount": 2748.34
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 9,
+      "unit_price": 397.32,
+      "amount": 3575.88
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 26.33,
+      "amount": 315.96
+    }
+  ],
+  "subtotal": 6640.18,
+  "discount": 332.01,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 6313.17,
+  "amount_paid": 0,
+  "balance_due": 6313.17,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801750309909",
+  "po_number": "PO-04779"
+}

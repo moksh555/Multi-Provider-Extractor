@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL809921669",
+  "full_name": "Timothy Young",
+  "date_of_birth": "1989-02-12",
+  "class": "C",
+  "issue_date": "2020-12-06",
+  "expiry_date": "2025-12-06",
+  "address": "253 Colin Tunnel, Nicholsville, AS 79680",
+  "sample_id": "driving_license_0738"
+}

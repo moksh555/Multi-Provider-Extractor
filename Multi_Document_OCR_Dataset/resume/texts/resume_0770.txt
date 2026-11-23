@@ -1,0 +1,27 @@
+Resume
+Jason Hampton
+Software Engineer
+Skills: Machine Learning, Deep Learning, Streamlit, Python, SQL, PyTorch, Pandas, LangChain, TensorFlow, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Jason Hampton",
+  "email": "colemanlance@example.net",
+  "phone": "+1-669-988-9676x21822",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Streamlit",
+    "Python",
+    "SQL",
+    "PyTorch",
+    "Pandas",
+    "LangChain",
+    "TensorFlow",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0770"
+}

@@ -1,0 +1,25 @@
+Resume
+Jennifer Miller
+Software Engineer
+Skills: Python, Computer Vision, NLP, Machine Learning, LangChain, SQL, Docker, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Jennifer Miller",
+  "email": "joshua88@example.org",
+  "phone": "001-931-883-8016x934",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Python",
+    "Computer Vision",
+    "NLP",
+    "Machine Learning",
+    "LangChain",
+    "SQL",
+    "Docker",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0478"
+}

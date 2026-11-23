@@ -1,0 +1,14 @@
+Medical Report MED-3LAA6ZMB
+Patient: Maria Todd
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-3LAA6ZMB",
+  "patient_name": "Maria Todd",
+  "visit_date": "2026-08-19",
+  "doctor_name": "Dr. Robert Simmons",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0211"
+}

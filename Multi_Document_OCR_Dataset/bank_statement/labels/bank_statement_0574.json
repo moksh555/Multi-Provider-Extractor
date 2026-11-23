@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F2T271B5",
+  "account_holder": "Angel Butler",
+  "account_number_masked": "****0768",
+  "period_start": "2026-03-28",
+  "period_end": "2026-04-27",
+  "opening_balance": 4656.34,
+  "closing_balance": 10974.66,
+  "transactions": 10,
+  "sample_id": "bank_statement_0574"
+}

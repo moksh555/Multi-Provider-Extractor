@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0975",
+  "invoice_number": "INV-2026-0975",
+  "company_name": "Delta Insurance Services",
+  "company_address": "134 Mirpur DOHS, Chattogram, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "78 Dhanmondi 27, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-11",
+  "due_date": "2026-05-18",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 2,
+      "unit_price": 666.74,
+      "amount": 1333.48
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 11,
+      "unit_price": 570.36,
+      "amount": 6273.96
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 5,
+      "unit_price": 552.69,
+      "amount": 2763.45
+    }
+  ],
+  "subtotal": 10370.89,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 1555.63,
+  "shipping": 25,
+  "total": 11951.52,
+  "amount_paid": 11951.52,
+  "balance_due": 0.0,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801847600035",
+  "po_number": "PO-95299"
+}

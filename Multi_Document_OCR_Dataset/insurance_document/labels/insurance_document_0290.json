@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6T5PADNBC",
+  "policy_holder": "Bob Solis",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-11-26",
+  "expiry_date": "2024-11-26",
+  "premium": 2460.81,
+  "coverage_amount": 344861.26,
+  "beneficiary": "William Sutton",
+  "sample_id": "insurance_document_0290"
+}

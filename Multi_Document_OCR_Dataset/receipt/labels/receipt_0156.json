@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SJWH55HE",
+  "merchant_name": "Farmer, Williams and Sims",
+  "date": "2025-11-14",
+  "subtotal": 515.39,
+  "tax": 19.7,
+  "discount": 9.28,
+  "total": 525.81,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$63.76",
+      "line_total": "$127.52"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$63.34",
+      "line_total": "$253.36"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$46.91",
+      "line_total": "$46.91"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$30.34",
+      "line_total": "$60.68"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$13.46",
+      "line_total": "$26.92"
+    }
+  ],
+  "sample_id": "receipt_0156"
+}

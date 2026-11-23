@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joshua Mullins
+License: DL978855543
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL978855543",
+  "full_name": "Joshua Mullins",
+  "date_of_birth": "1983-05-23",
+  "class": "C",
+  "issue_date": "2026-03-30",
+  "expiry_date": "2031-03-30",
+  "address": "7821 Miller Groves, Blackville, WY 30185",
+  "sample_id": "driving_license_0983"
+}

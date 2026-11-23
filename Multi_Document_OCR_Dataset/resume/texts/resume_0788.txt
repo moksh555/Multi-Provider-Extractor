@@ -1,0 +1,25 @@
+Resume
+Craig Wilson
+Computer Vision Engineer
+Skills: Python, Deep Learning, Machine Learning, Pandas, AWS, SQL, FastAPI, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Craig Wilson",
+  "email": "shari86@example.org",
+  "phone": "(664)823-6245",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Python",
+    "Deep Learning",
+    "Machine Learning",
+    "Pandas",
+    "AWS",
+    "SQL",
+    "FastAPI",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0788"
+}

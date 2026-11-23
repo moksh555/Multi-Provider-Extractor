@@ -1,0 +1,16 @@
+Insurance Policy POL-M0QPOP1O8
+Holder: Tonya Jones
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M0QPOP1O8",
+  "policy_holder": "Tonya Jones",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-08-15",
+  "expiry_date": "2027-08-15",
+  "premium": 2036.78,
+  "coverage_amount": 487743.02,
+  "beneficiary": "Chris Martin",
+  "sample_id": "insurance_document_0920"
+}

@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0818",
+  "invoice_number": "INV-2026-0818",
+  "company_name": "Golden Harvest Store",
+  "company_address": "127 Jumeirah Lake Towers, Dubai, UAE",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "144 Al Barsha, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-14",
+  "due_date": "2026-02-13",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 365.3,
+      "amount": 4018.3
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 230.26,
+      "amount": 2302.6
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 147.44,
+      "amount": 589.76
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 6,
+      "unit_price": 354.14,
+      "amount": 2124.84
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 7,
+      "unit_price": 307.02,
+      "amount": 2149.14
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 5,
+      "unit_price": 157.52,
+      "amount": 787.6
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 5,
+      "unit_price": 135.08,
+      "amount": 675.4
+    }
+  ],
+  "subtotal": 12647.64,
+  "discount": 632.38,
+  "tax_rate": 0.05,
+  "tax": 600.76,
+  "shipping": 50,
+  "total": 12666.02,
+  "amount_paid": 12666.02,
+  "balance_due": 0.0,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801427812055",
+  "po_number": "PO-56684"
+}

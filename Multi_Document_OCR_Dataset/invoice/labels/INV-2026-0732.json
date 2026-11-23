@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0732",
+  "invoice_number": "INV-2026-0732",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "185 Uttara Sector 7, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "246 Motijheel C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-25",
+  "due_date": "2026-07-10",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 334.62,
+      "amount": 1338.48
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 3,
+      "unit_price": 168.61,
+      "amount": 505.83
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 245.88,
+      "amount": 1475.28
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 4,
+      "unit_price": 352.21,
+      "amount": 1408.84
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 294.34,
+      "amount": 2943.4
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 582.34,
+      "amount": 3494.04
+    }
+  ],
+  "subtotal": 11165.87,
+  "discount": 558.29,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 10607.58,
+  "amount_paid": 10607.58,
+  "balance_due": 0.0,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801109188312",
+  "po_number": "PO-67824"
+}

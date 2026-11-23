@@ -1,0 +1,24 @@
+Resume
+Cathy Barker
+Machine Learning Engineer
+Skills: Deep Learning, PyTorch, TensorFlow, FastAPI, Python, AWS, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Cathy Barker",
+  "email": "austinthompson@example.org",
+  "phone": "(871)260-3384x1787",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow",
+    "FastAPI",
+    "Python",
+    "AWS",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0685"
+}

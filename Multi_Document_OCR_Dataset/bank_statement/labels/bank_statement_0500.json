@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8F8BOR2K",
+  "account_holder": "Andres Marshall",
+  "account_number_masked": "****7690",
+  "period_start": "2024-09-16",
+  "period_end": "2024-10-16",
+  "opening_balance": 3975.98,
+  "closing_balance": 7052.95,
+  "transactions": 10,
+  "sample_id": "bank_statement_0500"
+}

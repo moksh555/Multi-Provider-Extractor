@@ -1,0 +1,14 @@
+Medical Report MED-5Z3AT8D3
+Patient: Priscilla Peterson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5Z3AT8D3",
+  "patient_name": "Priscilla Peterson",
+  "visit_date": "2025-01-08",
+  "doctor_name": "Dr. Robert Taylor",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0587"
+}

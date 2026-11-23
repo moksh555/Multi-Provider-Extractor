@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Renee Garcia
+Passport No: P42283396
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P42283396",
+  "full_name": "Renee Garcia",
+  "nationality": "US",
+  "date_of_birth": "1990-07-30",
+  "issue_date": "2022-05-11",
+  "expiry_date": "2032-05-11",
+  "place_of_birth": "Nancyfurt",
+  "sample_id": "passport_0588"
+}

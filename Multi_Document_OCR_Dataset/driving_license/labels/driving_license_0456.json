@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL721509958",
+  "full_name": "Vanessa Sanchez",
+  "date_of_birth": "2004-06-29",
+  "class": "D",
+  "issue_date": "2024-08-18",
+  "expiry_date": "2029-08-18",
+  "address": "425 Brian Underpass, Moniquehaven, OR 64593",
+  "sample_id": "driving_license_0456"
+}

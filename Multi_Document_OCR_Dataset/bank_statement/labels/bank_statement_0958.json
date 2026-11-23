@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DE23C04L",
+  "account_holder": "Ricardo Bell",
+  "account_number_masked": "****5921",
+  "period_start": "2025-06-06",
+  "period_end": "2025-07-06",
+  "opening_balance": 3687.9,
+  "closing_balance": 4491.55,
+  "transactions": 11,
+  "sample_id": "bank_statement_0958"
+}

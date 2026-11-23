@@ -1,0 +1,14 @@
+Medical Report MED-OO8AZCIF
+Patient: Nicholas Thomas
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OO8AZCIF",
+  "patient_name": "Nicholas Thomas",
+  "visit_date": "2024-05-22",
+  "doctor_name": "Dr. Leslie Young",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0006"
+}

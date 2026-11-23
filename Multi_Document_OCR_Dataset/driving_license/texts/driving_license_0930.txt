@@ -1,0 +1,16 @@
+Synthetic Driving License
+Erin Patel
+License: DL511356595
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL511356595",
+  "full_name": "Erin Patel",
+  "date_of_birth": "1972-07-08",
+  "class": "C",
+  "issue_date": "2021-06-16",
+  "expiry_date": "2026-06-16",
+  "address": "56292 Shah Forges Apt. 589, Curtishaven, CT 73892",
+  "sample_id": "driving_license_0930"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-906DLFHR
+Holder: Donna Hughes
+Closing Balance: $5951.20
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-906DLFHR",
+  "account_holder": "Donna Hughes",
+  "account_number_masked": "****7057",
+  "period_start": "2024-03-30",
+  "period_end": "2024-04-29",
+  "opening_balance": 4163.32,
+  "closing_balance": 5951.2,
+  "transactions": 8,
+  "sample_id": "bank_statement_0863"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-VSDBIDE6U
+Holder: Teresa Barnes
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VSDBIDE6U",
+  "policy_holder": "Teresa Barnes",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-05-15",
+  "expiry_date": "2024-05-15",
+  "premium": 1386.47,
+  "coverage_amount": 144975.14,
+  "beneficiary": "Anthony Sullivan",
+  "sample_id": "insurance_document_0766"
+}

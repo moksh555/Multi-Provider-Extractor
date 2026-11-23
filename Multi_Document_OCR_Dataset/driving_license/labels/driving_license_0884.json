@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL401269872",
+  "full_name": "Brittany Barnett",
+  "date_of_birth": "1966-09-02",
+  "class": "B",
+  "issue_date": "2023-09-01",
+  "expiry_date": "2028-09-01",
+  "address": "8122 Mason Turnpike Apt. 567, New Ryantown, AZ 79040",
+  "sample_id": "driving_license_0884"
+}

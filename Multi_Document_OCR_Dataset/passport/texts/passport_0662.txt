@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Cynthia Aguirre
+Passport No: P50542011
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P50542011",
+  "full_name": "Cynthia Aguirre",
+  "nationality": "CA",
+  "date_of_birth": "1981-05-10",
+  "issue_date": "2020-02-25",
+  "expiry_date": "2030-02-25",
+  "place_of_birth": "Meganmouth",
+  "sample_id": "passport_0662"
+}

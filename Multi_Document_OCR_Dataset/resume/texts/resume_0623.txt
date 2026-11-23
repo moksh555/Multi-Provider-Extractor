@@ -1,0 +1,27 @@
+Resume
+John Kelley
+Backend Developer
+Skills: LangChain, Streamlit, NLP, Docker, Python, AWS, FastAPI, Pandas, Deep Learning, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "John Kelley",
+  "email": "paige44@example.net",
+  "phone": "214-742-9426x7088",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "LangChain",
+    "Streamlit",
+    "NLP",
+    "Docker",
+    "Python",
+    "AWS",
+    "FastAPI",
+    "Pandas",
+    "Deep Learning",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0623"
+}

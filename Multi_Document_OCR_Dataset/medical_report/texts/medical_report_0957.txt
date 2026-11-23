@@ -1,0 +1,14 @@
+Medical Report MED-48TPHGYZ
+Patient: Jill Baker
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-48TPHGYZ",
+  "patient_name": "Jill Baker",
+  "visit_date": "2026-06-08",
+  "doctor_name": "Dr. Luis Grant",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0957"
+}

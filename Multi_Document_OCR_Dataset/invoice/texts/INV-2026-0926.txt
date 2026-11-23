@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0926
+Company: Delta Insurance Services
+Company Address: 17 Agrabad C/A, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 130 Mirpur DOHS, Dubai, UAE
+Invoice Date: 2026-05-02
+Due Date: 2026-05-17
+Currency: AED
+Subtotal: 20135.9
+Tax: 3020.39
+Total: 23206.29
+Balance Due: 15788.61
+Status: partial

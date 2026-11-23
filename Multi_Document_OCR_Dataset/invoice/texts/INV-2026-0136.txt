@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0136
+Company: Summit Agro Foods
+Company Address: 12 Gulshan Avenue, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 5 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-05
+Due Date: 2026-06-19
+Currency: BDT
+Subtotal: 18553.07
+Tax: 881.27
+Total: 18506.69
+Balance Due: 0.0
+Status: paid

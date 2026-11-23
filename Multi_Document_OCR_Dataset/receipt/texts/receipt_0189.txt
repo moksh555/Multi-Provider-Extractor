@@ -1,0 +1,43 @@
+Receipt RCT-QRR87IYO
+Merchant: Contreras, Miller and Cooper
+Date: 2023-12-12
+Total: $554.00
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QRR87IYO",
+  "merchant_name": "Contreras, Miller and Cooper",
+  "date": "2023-12-12",
+  "subtotal": 512.63,
+  "tax": 45.46,
+  "discount": 4.09,
+  "total": 554.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$23.81",
+      "line_total": "$23.81"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$54.60",
+      "line_total": "$218.40"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$73.50",
+      "line_total": "$73.50"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$49.23",
+      "line_total": "$196.92"
+    }
+  ],
+  "sample_id": "receipt_0189"
+}

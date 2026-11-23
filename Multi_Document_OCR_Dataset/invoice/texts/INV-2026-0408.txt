@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0408
+Company: Metro Print House
+Company Address: 175 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 17 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-25
+Due Date: 2026-03-12
+Currency: SAR
+Subtotal: 11616.8
+Tax: 1568.27
+Total: 12023.39
+Balance Due: 12023.39
+Status: unpaid

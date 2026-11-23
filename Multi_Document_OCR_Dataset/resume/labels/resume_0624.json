@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "David Williamson",
+  "email": "jwilliams@example.com",
+  "phone": "869-381-4207",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "NLP",
+    "Python",
+    "Streamlit",
+    "LangChain",
+    "FastAPI",
+    "TensorFlow",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0624"
+}

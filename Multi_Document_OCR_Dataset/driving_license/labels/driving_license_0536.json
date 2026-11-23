@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL308526342",
+  "full_name": "Cassandra Moreno",
+  "date_of_birth": "2000-08-29",
+  "class": "B",
+  "issue_date": "2026-02-20",
+  "expiry_date": "2031-02-20",
+  "address": "49451 Hendricks Shore Suite 410, Port Diana, MD 19870",
+  "sample_id": "driving_license_0536"
+}

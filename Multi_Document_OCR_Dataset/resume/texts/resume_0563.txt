@@ -1,0 +1,23 @@
+Resume
+Patricia Kelley
+Data Analyst
+Skills: Python, TensorFlow, AWS, Machine Learning, Deep Learning, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Patricia Kelley",
+  "email": "ybennett@example.net",
+  "phone": "565-933-3477x4963",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "AWS",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0563"
+}

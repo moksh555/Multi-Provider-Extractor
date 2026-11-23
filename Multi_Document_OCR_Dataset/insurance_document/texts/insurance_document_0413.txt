@@ -1,0 +1,16 @@
+Insurance Policy POL-ZDLX1Q8F6
+Holder: Susan Mitchell DVM
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZDLX1Q8F6",
+  "policy_holder": "Susan Mitchell DVM",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-01-14",
+  "expiry_date": "2026-01-14",
+  "premium": 1053.14,
+  "coverage_amount": 352811.16,
+  "beneficiary": "Steven Hull",
+  "sample_id": "insurance_document_0413"
+}

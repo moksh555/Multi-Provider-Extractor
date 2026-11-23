@@ -1,0 +1,16 @@
+Synthetic Driving License
+Amanda Keller
+License: DL474195052
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL474195052",
+  "full_name": "Amanda Keller",
+  "date_of_birth": "1972-11-17",
+  "class": "D",
+  "issue_date": "2023-04-08",
+  "expiry_date": "2028-04-08",
+  "address": "31190 Harper Squares, East Joyfurt, NV 31216",
+  "sample_id": "driving_license_0121"
+}

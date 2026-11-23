@@ -1,0 +1,16 @@
+Synthetic Driving License
+Allison Powell
+License: DL885868646
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL885868646",
+  "full_name": "Allison Powell",
+  "date_of_birth": "1976-07-30",
+  "class": "B",
+  "issue_date": "2021-08-03",
+  "expiry_date": "2026-08-03",
+  "address": "9545 Laurie Prairie Apt. 776, Lake Kimberlyshire, NY 09320",
+  "sample_id": "driving_license_0834"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+William Lynch
+License: DL419423697
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL419423697",
+  "full_name": "William Lynch",
+  "date_of_birth": "1974-09-10",
+  "class": "A",
+  "issue_date": "2023-06-28",
+  "expiry_date": "2028-06-28",
+  "address": "8086 Jeffrey Ville, South Staceyberg, NM 94427",
+  "sample_id": "driving_license_0047"
+}

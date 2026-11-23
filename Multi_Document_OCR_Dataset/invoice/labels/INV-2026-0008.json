@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0008",
+  "invoice_number": "INV-2026-0008",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "151 Zindabazar Road, Riyadh, Saudi Arabia",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "27 Mirpur DOHS, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-02-06",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 296.71,
+      "amount": 3560.52
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 9,
+      "unit_price": 419.34,
+      "amount": 3774.06
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 542.07,
+      "amount": 1084.14
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 1,
+      "unit_price": 10.99,
+      "amount": 10.99
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 11,
+      "unit_price": 832.99,
+      "amount": 9162.89
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 12,
+      "unit_price": 380.03,
+      "amount": 4560.36
+    }
+  ],
+  "subtotal": 22152.96,
+  "discount": 443.06,
+  "tax_rate": 0.075,
+  "tax": 1628.24,
+  "shipping": 50,
+  "total": 23388.14,
+  "amount_paid": 0,
+  "balance_due": 23388.14,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801519610354",
+  "po_number": "PO-03990"
+}

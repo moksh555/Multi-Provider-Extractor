@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0099",
+  "invoice_number": "INV-2026-0099",
+  "company_name": "Metro Print House",
+  "company_address": "101 Zindabazar Road, Dubai, UAE",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "142 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-15",
+  "due_date": "2026-06-22",
+  "currency": "AED",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 71.49,
+      "amount": 857.88
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 539.83,
+      "amount": 4858.47
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 349.12,
+      "amount": 3491.2
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 771.11,
+      "amount": 3084.44
+    }
+  ],
+  "subtotal": 12291.99,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 1843.8,
+  "shipping": 25,
+  "total": 14160.79,
+  "amount_paid": 0,
+  "balance_due": 14160.79,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801594732772",
+  "po_number": "PO-45356"
+}

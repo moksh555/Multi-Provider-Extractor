@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jason Vaughn
+Passport No: P10981136
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10981136",
+  "full_name": "Jason Vaughn",
+  "nationality": "AE",
+  "date_of_birth": "1984-10-09",
+  "issue_date": "2023-06-20",
+  "expiry_date": "2033-06-20",
+  "place_of_birth": "North Kenneth",
+  "sample_id": "passport_0210"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL849582772",
+  "full_name": "Janet Parker",
+  "date_of_birth": "1989-05-12",
+  "class": "B",
+  "issue_date": "2024-11-13",
+  "expiry_date": "2029-11-13",
+  "address": "95243 Hale Avenue, Port Travis, CT 09655",
+  "sample_id": "driving_license_0485"
+}

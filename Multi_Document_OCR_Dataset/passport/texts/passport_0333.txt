@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mason Yang
+Passport No: P14064097
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P14064097",
+  "full_name": "Mason Yang",
+  "nationality": "AE",
+  "date_of_birth": "1999-08-07",
+  "issue_date": "2026-08-21",
+  "expiry_date": "2036-08-21",
+  "place_of_birth": "South Kaitlintown",
+  "sample_id": "passport_0333"
+}

@@ -1,0 +1,25 @@
+Resume
+Susan Estrada
+Data Analyst
+Skills: Deep Learning, PyTorch, Python, Docker, AWS, SQL, LangChain, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Susan Estrada",
+  "email": "williamstoni@example.com",
+  "phone": "+1-893-240-3910x45203",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "PyTorch",
+    "Python",
+    "Docker",
+    "AWS",
+    "SQL",
+    "LangChain",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0015"
+}

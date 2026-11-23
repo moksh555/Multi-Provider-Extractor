@@ -1,0 +1,43 @@
+Receipt RCT-G0XWG5KG
+Merchant: Morris, Logan and Rivera
+Date: 2025-08-12
+Total: $335.35
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G0XWG5KG",
+  "merchant_name": "Morris, Logan and Rivera",
+  "date": "2025-08-12",
+  "subtotal": 318.29,
+  "tax": 26.89,
+  "discount": 9.83,
+  "total": 335.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$52.04",
+      "line_total": "$104.08"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$63.64",
+      "line_total": "$127.28"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$7.89",
+      "line_total": "$23.67"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$63.26",
+      "line_total": "$63.26"
+    }
+  ],
+  "sample_id": "receipt_0713"
+}

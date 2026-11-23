@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Daniel Turner
+Passport No: P23227777
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P23227777",
+  "full_name": "Daniel Turner",
+  "nationality": "AE",
+  "date_of_birth": "1970-02-28",
+  "issue_date": "2026-07-12",
+  "expiry_date": "2036-07-12",
+  "place_of_birth": "West Mary",
+  "sample_id": "passport_0231"
+}

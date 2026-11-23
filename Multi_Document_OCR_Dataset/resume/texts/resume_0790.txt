@@ -1,0 +1,27 @@
+Resume
+Barbara Lewis
+Computer Vision Engineer
+Skills: LangChain, AWS, Computer Vision, Deep Learning, Python, TensorFlow, Docker, Pandas, FastAPI, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Barbara Lewis",
+  "email": "joshua55@example.net",
+  "phone": "797.507.9077x045",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "LangChain",
+    "AWS",
+    "Computer Vision",
+    "Deep Learning",
+    "Python",
+    "TensorFlow",
+    "Docker",
+    "Pandas",
+    "FastAPI",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0790"
+}

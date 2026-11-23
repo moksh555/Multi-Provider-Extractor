@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1BLF1XOY",
+  "merchant_name": "Rodriguez, Hill and Sims",
+  "date": "2021-10-09",
+  "subtotal": 916.2,
+  "tax": 64.41,
+  "discount": 8.82,
+  "total": 971.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$77.69",
+      "line_total": "$155.38"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$21.23",
+      "line_total": "$84.92"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$69.84",
+      "line_total": "$209.52"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$42.87",
+      "line_total": "$171.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$78.34",
+      "line_total": "$235.02"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$59.88",
+      "line_total": "$59.88"
+    }
+  ],
+  "sample_id": "receipt_0589"
+}

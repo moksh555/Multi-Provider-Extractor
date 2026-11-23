@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0221
+Company: BlueRiver Trading Co.
+Company Address: 168 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 92 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-04-28
+Due Date: 2026-05-28
+Currency: AED
+Subtotal: 9857.24
+Tax: 0.0
+Total: 9867.24
+Balance Due: 7366.34
+Status: partial

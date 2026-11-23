@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0914
+Company: UrbanBuild Construction
+Company Address: 32 Agrabad C/A, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 186 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-04-01
+Due Date: 2026-05-16
+Currency: SAR
+Subtotal: 13669.85
+Tax: 615.14
+Total: 12943.0
+Balance Due: 5394.58
+Status: partial

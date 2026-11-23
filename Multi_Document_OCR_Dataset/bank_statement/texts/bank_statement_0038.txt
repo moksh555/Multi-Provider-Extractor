@@ -1,0 +1,16 @@
+Bank Statement STM-4YGOHMJZ
+Holder: Trevor Stevens
+Closing Balance: $2789.97
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4YGOHMJZ",
+  "account_holder": "Trevor Stevens",
+  "account_number_masked": "****4210",
+  "period_start": "2025-04-17",
+  "period_end": "2025-05-17",
+  "opening_balance": 2207.5,
+  "closing_balance": 2789.97,
+  "transactions": 11,
+  "sample_id": "bank_statement_0038"
+}

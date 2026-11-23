@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0318",
+  "invoice_number": "INV-2026-0318",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "147 Sheikh Zayed Road, Chattogram, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "25 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-02",
+  "due_date": "2026-06-01",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 5,
+      "unit_price": 491.53,
+      "amount": 2457.65
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 8,
+      "unit_price": 529.03,
+      "amount": 4232.24
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 10,
+      "unit_price": 375.27,
+      "amount": 3752.7
+    }
+  ],
+  "subtotal": 10442.59,
+  "discount": 1044.26,
+  "tax_rate": 0.075,
+  "tax": 704.87,
+  "shipping": 0,
+  "total": 10103.2,
+  "amount_paid": 0,
+  "balance_due": 10103.2,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801550381607",
+  "po_number": "PO-59774"
+}

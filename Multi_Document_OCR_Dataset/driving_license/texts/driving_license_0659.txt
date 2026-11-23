@@ -1,0 +1,16 @@
+Synthetic Driving License
+Faith Powers
+License: DL450322910
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL450322910",
+  "full_name": "Faith Powers",
+  "date_of_birth": "1962-07-04",
+  "class": "C",
+  "issue_date": "2020-02-29",
+  "expiry_date": "2025-02-28",
+  "address": "PSC 2958, Box 0660, APO AE 25790",
+  "sample_id": "driving_license_0659"
+}

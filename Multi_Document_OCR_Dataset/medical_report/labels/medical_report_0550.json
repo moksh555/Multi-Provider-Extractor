@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-J7A8FTEG",
+  "patient_name": "David Bolton",
+  "visit_date": "2024-02-23",
+  "doctor_name": "Dr. Katelyn Allen",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0550"
+}

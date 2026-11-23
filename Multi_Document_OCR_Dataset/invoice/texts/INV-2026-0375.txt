@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0375
+Company: BlueRiver Trading Co.
+Company Address: 127 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 53 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-03-15
+Due Date: 2026-03-30
+Currency: AED
+Subtotal: 2146.56
+Tax: 101.96
+Total: 2141.19
+Balance Due: 1124.83
+Status: partial

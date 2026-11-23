@@ -1,0 +1,16 @@
+Synthetic Driving License
+Renee Manning
+License: DL096984637
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL096984637",
+  "full_name": "Renee Manning",
+  "date_of_birth": "1997-04-25",
+  "class": "A",
+  "issue_date": "2024-02-20",
+  "expiry_date": "2029-02-20",
+  "address": "USNS Thomas, FPO AE 28564",
+  "sample_id": "driving_license_0387"
+}

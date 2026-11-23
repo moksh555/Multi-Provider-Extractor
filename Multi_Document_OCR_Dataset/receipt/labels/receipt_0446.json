@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G3ZRZQ0V",
+  "merchant_name": "Stark and Sons",
+  "date": "2021-09-08",
+  "subtotal": 324.27,
+  "tax": 18.06,
+  "discount": 6.4,
+  "total": 335.93,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$7.29",
+      "line_total": "$7.29"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$12.37",
+      "line_total": "$37.11"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$56.53",
+      "line_total": "$56.53"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$15.78",
+      "line_total": "$31.56"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$13.83",
+      "line_total": "$27.66"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$41.03",
+      "line_total": "$164.12"
+    }
+  ],
+  "sample_id": "receipt_0446"
+}

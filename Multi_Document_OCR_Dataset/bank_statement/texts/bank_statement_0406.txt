@@ -1,0 +1,16 @@
+Bank Statement STM-30PEGZ5G
+Holder: Rebecca Schmidt
+Closing Balance: $5808.25
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-30PEGZ5G",
+  "account_holder": "Rebecca Schmidt",
+  "account_number_masked": "****0604",
+  "period_start": "2025-04-03",
+  "period_end": "2025-05-03",
+  "opening_balance": 4381.74,
+  "closing_balance": 5808.25,
+  "transactions": 13,
+  "sample_id": "bank_statement_0406"
+}

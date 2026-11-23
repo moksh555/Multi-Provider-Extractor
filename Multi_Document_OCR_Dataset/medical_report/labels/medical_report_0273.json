@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-EXVR29IF",
+  "patient_name": "Kerry Johnson",
+  "visit_date": "2024-08-06",
+  "doctor_name": "Dr. Sarah Davis",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0273"
+}

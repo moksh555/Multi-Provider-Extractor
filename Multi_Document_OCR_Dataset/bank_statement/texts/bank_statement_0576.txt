@@ -1,0 +1,16 @@
+Bank Statement STM-1OXC0VVK
+Holder: George Barber
+Closing Balance: $8740.25
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1OXC0VVK",
+  "account_holder": "George Barber",
+  "account_number_masked": "****2740",
+  "period_start": "2025-10-22",
+  "period_end": "2025-11-21",
+  "opening_balance": 4698.31,
+  "closing_balance": 8740.25,
+  "transactions": 12,
+  "sample_id": "bank_statement_0576"
+}

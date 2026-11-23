@@ -1,0 +1,14 @@
+Medical Report MED-XE7V7ZQ2
+Patient: Brian Rivera
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XE7V7ZQ2",
+  "patient_name": "Brian Rivera",
+  "visit_date": "2025-09-02",
+  "doctor_name": "Dr. Frederick Hunter",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0855"
+}

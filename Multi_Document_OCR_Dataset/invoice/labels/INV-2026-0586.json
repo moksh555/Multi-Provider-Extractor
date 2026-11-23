@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0586",
+  "invoice_number": "INV-2026-0586",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "114 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "27 Dhanmondi 27, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-07",
+  "due_date": "2026-04-06",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 181.29,
+      "amount": 725.16
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 116.39,
+      "amount": 349.17
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 39.46,
+      "amount": 197.3
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 739.75,
+      "amount": 2959.0
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 163.09,
+      "amount": 489.27
+    }
+  ],
+  "subtotal": 4719.9,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 4719.9,
+  "amount_paid": 0,
+  "balance_due": 4719.9,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801310977812",
+  "po_number": "PO-52516"
+}

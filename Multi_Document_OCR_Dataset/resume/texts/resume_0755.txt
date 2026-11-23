@@ -1,0 +1,25 @@
+Resume
+Tanya Collins
+Software Engineer
+Skills: Machine Learning, Deep Learning, NLP, FastAPI, SQL, AWS, Streamlit, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Tanya Collins",
+  "email": "richardskaitlyn@example.org",
+  "phone": "(443)261-6050",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "FastAPI",
+    "SQL",
+    "AWS",
+    "Streamlit",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0755"
+}

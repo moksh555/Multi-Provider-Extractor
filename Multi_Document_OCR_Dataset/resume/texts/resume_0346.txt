@@ -1,0 +1,27 @@
+Resume
+Stacy Mcguire
+Computer Vision Engineer
+Skills: SQL, Pandas, NLP, LangChain, Deep Learning, Docker, Streamlit, AWS, FastAPI, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Stacy Mcguire",
+  "email": "uroberts@example.org",
+  "phone": "733-820-3449",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "SQL",
+    "Pandas",
+    "NLP",
+    "LangChain",
+    "Deep Learning",
+    "Docker",
+    "Streamlit",
+    "AWS",
+    "FastAPI",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0346"
+}

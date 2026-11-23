@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WTFMSJBW",
+  "patient_name": "Rita Brown",
+  "visit_date": "2024-08-11",
+  "doctor_name": "Dr. Danielle Quinn",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0357"
+}

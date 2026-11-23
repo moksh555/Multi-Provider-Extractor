@@ -1,0 +1,16 @@
+Synthetic Driving License
+Rebecca Stewart
+License: DL811563469
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL811563469",
+  "full_name": "Rebecca Stewart",
+  "date_of_birth": "1976-12-18",
+  "class": "C",
+  "issue_date": "2026-01-02",
+  "expiry_date": "2031-01-02",
+  "address": "032 Wiggins Forges, West Theodore, NM 25025",
+  "sample_id": "driving_license_0635"
+}

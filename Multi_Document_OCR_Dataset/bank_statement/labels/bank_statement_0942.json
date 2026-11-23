@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4UU8DPDC",
+  "account_holder": "Haley Chen",
+  "account_number_masked": "****6072",
+  "period_start": "2026-05-05",
+  "period_end": "2026-06-04",
+  "opening_balance": 2862.3,
+  "closing_balance": 2846.24,
+  "transactions": 10,
+  "sample_id": "bank_statement_0942"
+}

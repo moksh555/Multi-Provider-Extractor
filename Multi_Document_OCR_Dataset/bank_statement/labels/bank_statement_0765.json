@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-58UEF5HW",
+  "account_holder": "Jeremy Benjamin",
+  "account_number_masked": "****5566",
+  "period_start": "2025-01-28",
+  "period_end": "2025-02-27",
+  "opening_balance": 4722.05,
+  "closing_balance": 7295.97,
+  "transactions": 13,
+  "sample_id": "bank_statement_0765"
+}

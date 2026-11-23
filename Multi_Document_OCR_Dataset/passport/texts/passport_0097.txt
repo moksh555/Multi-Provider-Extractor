@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Nancy Bell
+Passport No: P47594710
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P47594710",
+  "full_name": "Nancy Bell",
+  "nationality": "BD",
+  "date_of_birth": "1969-06-26",
+  "issue_date": "2022-06-05",
+  "expiry_date": "2032-06-05",
+  "place_of_birth": "Peterton",
+  "sample_id": "passport_0097"
+}

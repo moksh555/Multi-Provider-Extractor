@@ -1,0 +1,55 @@
+Receipt RCT-XZAMKYGV
+Merchant: Davis, Simmons and Ortega
+Date: 2025-07-19
+Total: $803.04
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XZAMKYGV",
+  "merchant_name": "Davis, Simmons and Ortega",
+  "date": "2025-07-19",
+  "subtotal": 759.23,
+  "tax": 47.35,
+  "discount": 3.54,
+  "total": 803.04,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$32.67",
+      "line_total": "$32.67"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$78.55",
+      "line_total": "$157.10"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$74.93",
+      "line_total": "$224.79"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$31.30",
+      "line_total": "$93.90"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$76.37",
+      "line_total": "$229.11"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$21.66",
+      "line_total": "$21.66"
+    }
+  ],
+  "sample_id": "receipt_0067"
+}

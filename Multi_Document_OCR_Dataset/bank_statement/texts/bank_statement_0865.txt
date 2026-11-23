@@ -1,0 +1,16 @@
+Bank Statement STM-BVSZHFIC
+Holder: Linda Compton
+Closing Balance: $8817.64
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BVSZHFIC",
+  "account_holder": "Linda Compton",
+  "account_number_masked": "****8421",
+  "period_start": "2026-10-01",
+  "period_end": "2026-10-31",
+  "opening_balance": 2020.71,
+  "closing_balance": 8817.64,
+  "transactions": 10,
+  "sample_id": "bank_statement_0865"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-HPGCYZO6
+Patient: Patrick Miller
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HPGCYZO6",
+  "patient_name": "Patrick Miller",
+  "visit_date": "2025-12-28",
+  "doctor_name": "Dr. Mark Owens",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0101"
+}

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0155",
+  "invoice_number": "INV-2026-0155",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "102 Sheikh Zayed Road, Dubai, UAE",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "145 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-06-10",
+  "due_date": "2026-07-25",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 497.75,
+      "amount": 1493.25
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 396.2,
+      "amount": 2377.2
+    }
+  ],
+  "subtotal": 3870.45,
+  "discount": 387.05,
+  "tax_rate": 0.15,
+  "tax": 522.51,
+  "shipping": 50,
+  "total": 4055.91,
+  "amount_paid": 1288.76,
+  "balance_due": 2767.15,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801036902601",
+  "po_number": "PO-67513"
+}

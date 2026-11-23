@@ -1,0 +1,14 @@
+Medical Report MED-BX9524SM
+Patient: Alan Reeves
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BX9524SM",
+  "patient_name": "Alan Reeves",
+  "visit_date": "2025-01-26",
+  "doctor_name": "Dr. Timothy Franco",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0179"
+}

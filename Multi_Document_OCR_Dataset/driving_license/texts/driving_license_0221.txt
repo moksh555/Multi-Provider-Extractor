@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kelly Hartman
+License: DL037138177
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL037138177",
+  "full_name": "Kelly Hartman",
+  "date_of_birth": "1971-12-11",
+  "class": "A",
+  "issue_date": "2021-08-08",
+  "expiry_date": "2026-08-08",
+  "address": "53355 Carter Terrace Suite 801, Seanbury, AZ 89964",
+  "sample_id": "driving_license_0221"
+}

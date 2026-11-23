@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-W8GAKH3Y",
+  "merchant_name": "Clark-Cole",
+  "date": "2021-10-02",
+  "subtotal": 295.74,
+  "tax": 34.88,
+  "discount": 7.5,
+  "total": 323.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$34.33",
+      "line_total": "$34.33"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$1.83",
+      "line_total": "$7.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$31.63",
+      "line_total": "$94.89"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$34.85",
+      "line_total": "$104.55"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$54.65",
+      "line_total": "$54.65"
+    }
+  ],
+  "sample_id": "receipt_0463"
+}

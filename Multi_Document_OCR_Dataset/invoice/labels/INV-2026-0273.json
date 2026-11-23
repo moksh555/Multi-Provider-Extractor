@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0273",
+  "invoice_number": "INV-2026-0273",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "160 Motijheel C/A, Chattogram, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "173 Agrabad C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-16",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 11,
+      "unit_price": 745.48,
+      "amount": 8200.28
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 639.03,
+      "amount": 7668.36
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 64.63,
+      "amount": 452.41
+    }
+  ],
+  "subtotal": 16321.05,
+  "discount": 326.42,
+  "tax_rate": 0.1,
+  "tax": 1599.46,
+  "shipping": 25,
+  "total": 17619.09,
+  "amount_paid": 0,
+  "balance_due": 17619.09,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801214235646",
+  "po_number": "PO-13224"
+}

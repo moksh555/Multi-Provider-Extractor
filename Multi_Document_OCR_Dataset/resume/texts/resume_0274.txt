@@ -1,0 +1,27 @@
+Resume
+David Wallace
+Backend Developer
+Skills: Docker, Computer Vision, FastAPI, NLP, LangChain, Machine Learning, PyTorch, Pandas, AWS, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "David Wallace",
+  "email": "tara55@example.org",
+  "phone": "486.488.7860x2039",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Docker",
+    "Computer Vision",
+    "FastAPI",
+    "NLP",
+    "LangChain",
+    "Machine Learning",
+    "PyTorch",
+    "Pandas",
+    "AWS",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0274"
+}

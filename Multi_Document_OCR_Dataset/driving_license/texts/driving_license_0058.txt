@@ -1,0 +1,16 @@
+Synthetic Driving License
+Deborah James
+License: DL189025456
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL189025456",
+  "full_name": "Deborah James",
+  "date_of_birth": "1994-02-15",
+  "class": "D",
+  "issue_date": "2025-01-19",
+  "expiry_date": "2030-01-19",
+  "address": "37098 Herman Forges Apt. 746, East Brandonton, ME 65070",
+  "sample_id": "driving_license_0058"
+}

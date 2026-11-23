@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AYNDN5GJJ",
+  "policy_holder": "Cassandra Martinez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-12-03",
+  "expiry_date": "2025-12-03",
+  "premium": 990.9,
+  "coverage_amount": 254397.31,
+  "beneficiary": "Caroline Powers",
+  "sample_id": "insurance_document_0337"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL878951670",
+  "full_name": "Joshua Adams",
+  "date_of_birth": "1996-10-23",
+  "class": "B",
+  "issue_date": "2022-06-21",
+  "expiry_date": "2027-06-21",
+  "address": "09001 Davila Stravenue Suite 463, East Christine, OK 99031",
+  "sample_id": "driving_license_0819"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-PVKU8H5R8
+Holder: Kevin Francis
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PVKU8H5R8",
+  "policy_holder": "Kevin Francis",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-03-26",
+  "expiry_date": "2026-03-26",
+  "premium": 1018.97,
+  "coverage_amount": 240649.61,
+  "beneficiary": "Laura Olsen",
+  "sample_id": "insurance_document_0630"
+}

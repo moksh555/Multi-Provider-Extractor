@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Z27UJDLW",
+  "merchant_name": "Freeman LLC",
+  "date": "2025-05-11",
+  "subtotal": 460.19,
+  "tax": 22.27,
+  "discount": 0.57,
+  "total": 481.89,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$14.85",
+      "line_total": "$44.55"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$6.33",
+      "line_total": "$25.32"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$31.21",
+      "line_total": "$124.84"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$19.38",
+      "line_total": "$19.38"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$19.68",
+      "line_total": "$59.04"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$49.96",
+      "line_total": "$99.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$30.59",
+      "line_total": "$61.18"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$12.98",
+      "line_total": "$25.96"
+    }
+  ],
+  "sample_id": "receipt_0272"
+}

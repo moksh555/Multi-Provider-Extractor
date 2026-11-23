@@ -1,0 +1,16 @@
+Bank Statement STM-JWEF7R1B
+Holder: Joy Clark
+Closing Balance: $8786.48
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JWEF7R1B",
+  "account_holder": "Joy Clark",
+  "account_number_masked": "****0882",
+  "period_start": "2025-11-01",
+  "period_end": "2025-12-01",
+  "opening_balance": 3097.65,
+  "closing_balance": 8786.48,
+  "transactions": 14,
+  "sample_id": "bank_statement_0586"
+}

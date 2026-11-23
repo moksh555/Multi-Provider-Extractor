@@ -1,0 +1,16 @@
+Bank Statement STM-AAXU3K8J
+Holder: James Robinson
+Closing Balance: $1915.06
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AAXU3K8J",
+  "account_holder": "James Robinson",
+  "account_number_masked": "****5353",
+  "period_start": "2024-04-06",
+  "period_end": "2024-05-06",
+  "opening_balance": 1819.93,
+  "closing_balance": 1915.06,
+  "transactions": 11,
+  "sample_id": "bank_statement_0095"
+}

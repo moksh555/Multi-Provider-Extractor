@@ -1,0 +1,14 @@
+Medical Report MED-6Q50AELH
+Patient: Michael Alvarado
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6Q50AELH",
+  "patient_name": "Michael Alvarado",
+  "visit_date": "2026-10-09",
+  "doctor_name": "Dr. Margaret Parrish",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0946"
+}

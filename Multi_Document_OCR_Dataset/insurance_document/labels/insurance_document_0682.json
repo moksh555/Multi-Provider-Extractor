@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FHRXJPT2Z",
+  "policy_holder": "Kayla Ray",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-03-29",
+  "expiry_date": "2026-03-29",
+  "premium": 1314.42,
+  "coverage_amount": 462545.01,
+  "beneficiary": "Ashley Olson",
+  "sample_id": "insurance_document_0682"
+}

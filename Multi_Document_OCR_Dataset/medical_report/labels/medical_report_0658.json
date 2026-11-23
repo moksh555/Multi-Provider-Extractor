@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-8BZO5C7E",
+  "patient_name": "Clifford Hoffman",
+  "visit_date": "2025-04-27",
+  "doctor_name": "Dr. David Jenkins",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0658"
+}

@@ -1,0 +1,23 @@
+Resume
+Robert Shah
+Data Analyst
+Skills: Docker, Deep Learning, LangChain, Machine Learning, PyTorch, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Robert Shah",
+  "email": "martinwilliam@example.com",
+  "phone": "544.379.3722",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "Deep Learning",
+    "LangChain",
+    "Machine Learning",
+    "PyTorch",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0891"
+}

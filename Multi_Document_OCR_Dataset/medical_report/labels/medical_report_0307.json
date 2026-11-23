@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-N3OT5931",
+  "patient_name": "Nicholas Cochran",
+  "visit_date": "2025-08-10",
+  "doctor_name": "Dr. Megan Mason",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0307"
+}

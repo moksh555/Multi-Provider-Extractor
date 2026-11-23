@@ -1,0 +1,14 @@
+Medical Report MED-0AC3VM2K
+Patient: Madison Nielsen
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0AC3VM2K",
+  "patient_name": "Madison Nielsen",
+  "visit_date": "2024-08-15",
+  "doctor_name": "Dr. Heather Anderson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0466"
+}

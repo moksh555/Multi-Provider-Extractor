@@ -1,0 +1,16 @@
+Bank Statement STM-N1R6X8YI
+Holder: Courtney Brown
+Closing Balance: $7431.74
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-N1R6X8YI",
+  "account_holder": "Courtney Brown",
+  "account_number_masked": "****6692",
+  "period_start": "2024-08-24",
+  "period_end": "2024-09-23",
+  "opening_balance": 3504.35,
+  "closing_balance": 7431.74,
+  "transactions": 8,
+  "sample_id": "bank_statement_0231"
+}

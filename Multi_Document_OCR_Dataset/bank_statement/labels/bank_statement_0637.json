@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MQ0MLOLN",
+  "account_holder": "Brandon Salas",
+  "account_number_masked": "****6154",
+  "period_start": "2026-01-07",
+  "period_end": "2026-02-06",
+  "opening_balance": 610.12,
+  "closing_balance": -442.17,
+  "transactions": 11,
+  "sample_id": "bank_statement_0637"
+}

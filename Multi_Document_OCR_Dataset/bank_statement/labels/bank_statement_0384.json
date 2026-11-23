@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2MFJE50Q",
+  "account_holder": "Todd Frank",
+  "account_number_masked": "****0969",
+  "period_start": "2024-06-29",
+  "period_end": "2024-07-29",
+  "opening_balance": 2632.28,
+  "closing_balance": 4693.93,
+  "transactions": 13,
+  "sample_id": "bank_statement_0384"
+}

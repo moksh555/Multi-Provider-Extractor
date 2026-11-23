@@ -1,0 +1,27 @@
+Resume
+Tonya Brown
+Backend Developer
+Skills: Python, AWS, PyTorch, Pandas, TensorFlow, Machine Learning, Streamlit, FastAPI, NLP, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Tonya Brown",
+  "email": "rebeccamartinez@example.org",
+  "phone": "845-408-0959x48152",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Python",
+    "AWS",
+    "PyTorch",
+    "Pandas",
+    "TensorFlow",
+    "Machine Learning",
+    "Streamlit",
+    "FastAPI",
+    "NLP",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0027"
+}

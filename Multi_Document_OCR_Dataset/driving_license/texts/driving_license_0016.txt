@@ -1,0 +1,16 @@
+Synthetic Driving License
+Derek Anderson
+License: DL810444769
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL810444769",
+  "full_name": "Derek Anderson",
+  "date_of_birth": "1968-10-29",
+  "class": "D",
+  "issue_date": "2020-09-05",
+  "expiry_date": "2025-09-05",
+  "address": "1079 Charles Forest Suite 251, West Justin, NV 71701",
+  "sample_id": "driving_license_0016"
+}

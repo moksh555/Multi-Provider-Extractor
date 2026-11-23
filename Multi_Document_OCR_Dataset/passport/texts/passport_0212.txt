@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Sandra Norman
+Passport No: P84350038
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P84350038",
+  "full_name": "Sandra Norman",
+  "nationality": "US",
+  "date_of_birth": "1966-02-01",
+  "issue_date": "2024-08-24",
+  "expiry_date": "2034-08-24",
+  "place_of_birth": "Duranview",
+  "sample_id": "passport_0212"
+}

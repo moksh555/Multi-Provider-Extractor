@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL853761122",
+  "full_name": "Tracey Carter",
+  "date_of_birth": "1965-04-29",
+  "class": "C",
+  "issue_date": "2026-05-24",
+  "expiry_date": "2031-05-24",
+  "address": "27261 Carr Field, Port Philipmouth, GU 25480",
+  "sample_id": "driving_license_0212"
+}

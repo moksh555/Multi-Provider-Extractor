@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lisa Collier
+License: DL778368940
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL778368940",
+  "full_name": "Lisa Collier",
+  "date_of_birth": "2005-01-23",
+  "class": "C",
+  "issue_date": "2026-08-14",
+  "expiry_date": "2031-08-14",
+  "address": "PSC 1613, Box 6968, APO AE 52374",
+  "sample_id": "driving_license_0072"
+}

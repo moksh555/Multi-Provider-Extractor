@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0023
+Company: Eastern Care Pharmacy
+Company Address: 35 Al Barsha, Riyadh, Saudi Arabia
+Customer: Future School
+Billing Address: 224 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-02-12
+Due Date: 2026-03-14
+Currency: USD
+Subtotal: 9593.22
+Tax: 719.49
+Total: 10312.71
+Balance Due: 0.0
+Status: paid

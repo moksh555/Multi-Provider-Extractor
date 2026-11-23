@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL653293236",
+  "full_name": "Kenneth Bauer",
+  "date_of_birth": "1962-08-26",
+  "class": "B",
+  "issue_date": "2021-09-30",
+  "expiry_date": "2026-09-30",
+  "address": "52391 Kimberly Row Apt. 950, West Jamesview, SD 96828",
+  "sample_id": "driving_license_0950"
+}

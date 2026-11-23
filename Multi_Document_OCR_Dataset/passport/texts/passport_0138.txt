@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Shane Lee
+Passport No: P65437666
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P65437666",
+  "full_name": "Shane Lee",
+  "nationality": "AE",
+  "date_of_birth": "2002-06-29",
+  "issue_date": "2022-03-10",
+  "expiry_date": "2032-03-10",
+  "place_of_birth": "South Allison",
+  "sample_id": "passport_0138"
+}

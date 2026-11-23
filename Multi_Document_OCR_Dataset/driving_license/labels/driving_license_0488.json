@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL290614559",
+  "full_name": "Ashlee Brown",
+  "date_of_birth": "2001-08-09",
+  "class": "D",
+  "issue_date": "2021-07-21",
+  "expiry_date": "2026-07-21",
+  "address": "901 Alexa Avenue, Morrisonview, NM 62528",
+  "sample_id": "driving_license_0488"
+}

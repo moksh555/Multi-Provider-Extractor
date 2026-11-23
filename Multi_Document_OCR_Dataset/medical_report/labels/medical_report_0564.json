@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-TFMNPGT7",
+  "patient_name": "Martin Bradley DVM",
+  "visit_date": "2025-09-01",
+  "doctor_name": "Dr. Rhonda Grimes",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0564"
+}

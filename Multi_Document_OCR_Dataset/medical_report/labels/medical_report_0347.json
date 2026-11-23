@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-HTXUSDZN",
+  "patient_name": "Brent Clark",
+  "visit_date": "2025-01-29",
+  "doctor_name": "Dr. Darlene Hall",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0347"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-H1D2OW25
+Holder: Melinda Thomas
+Closing Balance: $2252.06
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H1D2OW25",
+  "account_holder": "Melinda Thomas",
+  "account_number_masked": "****4778",
+  "period_start": "2024-02-14",
+  "period_end": "2024-03-15",
+  "opening_balance": 644.86,
+  "closing_balance": 2252.06,
+  "transactions": 12,
+  "sample_id": "bank_statement_0575"
+}

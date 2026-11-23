@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EFUXQ9NJ",
+  "merchant_name": "Crosby, Matthews and Shaw",
+  "date": "2021-10-01",
+  "subtotal": 545.34,
+  "tax": 39.66,
+  "discount": 7.18,
+  "total": 577.82,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$10.15",
+      "line_total": "$40.60"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$16.99",
+      "line_total": "$33.98"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$59.98",
+      "line_total": "$119.96"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$30.38",
+      "line_total": "$30.38"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$42.44",
+      "line_total": "$42.44"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$24.96",
+      "line_total": "$24.96"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$73.74",
+      "line_total": "$221.22"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$15.90",
+      "line_total": "$31.80"
+    }
+  ],
+  "sample_id": "receipt_0467"
+}

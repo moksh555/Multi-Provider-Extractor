@@ -1,0 +1,16 @@
+Bank Statement STM-7LKS518I
+Holder: Thomas Clements
+Closing Balance: $1855.39
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7LKS518I",
+  "account_holder": "Thomas Clements",
+  "account_number_masked": "****6495",
+  "period_start": "2024-01-09",
+  "period_end": "2024-02-08",
+  "opening_balance": 1019.96,
+  "closing_balance": 1855.39,
+  "transactions": 12,
+  "sample_id": "bank_statement_0344"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QZFW3BWE",
+  "patient_name": "Heidi Donovan",
+  "visit_date": "2024-09-05",
+  "doctor_name": "Dr. John Jensen",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0305"
+}

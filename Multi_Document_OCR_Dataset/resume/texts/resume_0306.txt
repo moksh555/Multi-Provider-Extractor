@@ -1,0 +1,26 @@
+Resume
+Scott Mayer
+Software Engineer
+Skills: SQL, LangChain, PyTorch, Docker, Machine Learning, Deep Learning, FastAPI, TensorFlow, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Scott Mayer",
+  "email": "jackson96@example.com",
+  "phone": "648-543-6868x111",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "LangChain",
+    "PyTorch",
+    "Docker",
+    "Machine Learning",
+    "Deep Learning",
+    "FastAPI",
+    "TensorFlow",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0306"
+}

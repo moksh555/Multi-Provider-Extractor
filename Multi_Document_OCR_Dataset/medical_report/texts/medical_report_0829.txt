@@ -1,0 +1,14 @@
+Medical Report MED-XZDT9GQ7
+Patient: Andrew Sanders
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XZDT9GQ7",
+  "patient_name": "Andrew Sanders",
+  "visit_date": "2024-04-27",
+  "doctor_name": "Dr. Patrick Romero",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0829"
+}

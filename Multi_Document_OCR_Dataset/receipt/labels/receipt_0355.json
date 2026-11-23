@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FN07EA28",
+  "merchant_name": "Oliver-Marsh",
+  "date": "2021-12-17",
+  "subtotal": 441.77,
+  "tax": 30.9,
+  "discount": 0.26,
+  "total": 472.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$46.12",
+      "line_total": "$138.36"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$29.57",
+      "line_total": "$88.71"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$10.82",
+      "line_total": "$10.82"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$67.96",
+      "line_total": "$203.88"
+    }
+  ],
+  "sample_id": "receipt_0355"
+}

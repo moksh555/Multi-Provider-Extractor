@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL231285410",
+  "full_name": "Shari Hatfield",
+  "date_of_birth": "2002-09-10",
+  "class": "A",
+  "issue_date": "2026-11-23",
+  "expiry_date": "2031-11-23",
+  "address": "340 Daniel Drive Suite 722, North Deannaport, IL 57474",
+  "sample_id": "driving_license_0340"
+}

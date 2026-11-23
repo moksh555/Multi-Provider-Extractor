@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8MYZDCQR",
+  "account_holder": "James Miller",
+  "account_number_masked": "****2076",
+  "period_start": "2026-05-11",
+  "period_end": "2026-06-10",
+  "opening_balance": 3701.74,
+  "closing_balance": 1632.7,
+  "transactions": 10,
+  "sample_id": "bank_statement_0236"
+}

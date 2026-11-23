@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A3UH03CD",
+  "merchant_name": "Gray and Sons",
+  "date": "2023-02-25",
+  "subtotal": 371.93,
+  "tax": 36.58,
+  "discount": 11.88,
+  "total": 396.63,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$46.47",
+      "line_total": "$139.41"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$73.84",
+      "line_total": "$147.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$42.42",
+      "line_total": "$84.84"
+    }
+  ],
+  "sample_id": "receipt_0893"
+}

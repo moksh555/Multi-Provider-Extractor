@@ -1,0 +1,16 @@
+Insurance Policy POL-LEJGUBLMN
+Holder: Angela Hernandez
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LEJGUBLMN",
+  "policy_holder": "Angela Hernandez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-11-29",
+  "expiry_date": "2024-11-29",
+  "premium": 1390.07,
+  "coverage_amount": 69530.11,
+  "beneficiary": "Diana Baker",
+  "sample_id": "insurance_document_0469"
+}

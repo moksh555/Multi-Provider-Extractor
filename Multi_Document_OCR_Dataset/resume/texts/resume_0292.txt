@@ -1,0 +1,24 @@
+Resume
+James Smith
+Data Analyst
+Skills: TensorFlow, Pandas, Machine Learning, Docker, SQL, NLP, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "James Smith",
+  "email": "john30@example.org",
+  "phone": "5912435294",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "TensorFlow",
+    "Pandas",
+    "Machine Learning",
+    "Docker",
+    "SQL",
+    "NLP",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0292"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL011861041",
+  "full_name": "Anthony Snyder",
+  "date_of_birth": "1981-09-09",
+  "class": "B",
+  "issue_date": "2024-11-19",
+  "expiry_date": "2029-11-19",
+  "address": "1172 Garza Freeway Apt. 409, South Justinfurt, AZ 70423",
+  "sample_id": "driving_license_0575"
+}

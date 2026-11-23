@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0990
+Company: Nova Medical Supplies
+Company Address: 132 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 222 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-01-18
+Due Date: 2026-02-17
+Currency: BDT
+Subtotal: 17192.38
+Tax: 0.0
+Total: 17202.38
+Balance Due: 5197.68
+Status: partial

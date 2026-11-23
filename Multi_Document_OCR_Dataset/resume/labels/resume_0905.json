@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Pam Sherman",
+  "email": "arnoldevelyn@example.org",
+  "phone": "+1-799-291-5141x4050",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "Python",
+    "AWS",
+    "Computer Vision",
+    "LangChain",
+    "Machine Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0905"
+}

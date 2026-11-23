@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0938",
+  "invoice_number": "INV-2026-0938",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "113 Road 12, Banani, Riyadh, Saudi Arabia",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "136 Zindabazar Road, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-28",
+  "due_date": "2026-07-28",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 602.58,
+      "amount": 602.58
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 4,
+      "unit_price": 391.73,
+      "amount": 1566.92
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 112.39,
+      "amount": 449.56
+    },
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 484.14,
+      "amount": 2904.84
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 423.15,
+      "amount": 423.15
+    }
+  ],
+  "subtotal": 5947.05,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 446.03,
+  "shipping": 0,
+  "total": 6393.08,
+  "amount_paid": 2989.43,
+  "balance_due": 3403.65,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801827823072",
+  "po_number": "PO-73028"
+}

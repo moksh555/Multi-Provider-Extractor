@@ -1,0 +1,16 @@
+Insurance Policy POL-G99W59SQW
+Holder: Mary Jacobs
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-G99W59SQW",
+  "policy_holder": "Mary Jacobs",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-07-20",
+  "expiry_date": "2025-07-20",
+  "premium": 246.3,
+  "coverage_amount": 65212.77,
+  "beneficiary": "Gloria Wilson",
+  "sample_id": "insurance_document_0450"
+}

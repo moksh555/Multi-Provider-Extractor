@@ -1,0 +1,16 @@
+Bank Statement STM-BCZ7EP62
+Holder: John Bishop
+Closing Balance: $3771.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BCZ7EP62",
+  "account_holder": "John Bishop",
+  "account_number_masked": "****9370",
+  "period_start": "2025-11-06",
+  "period_end": "2025-12-06",
+  "opening_balance": 2672.81,
+  "closing_balance": 3771.88,
+  "transactions": 12,
+  "sample_id": "bank_statement_0251"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL630202047",
+  "full_name": "Emily Miller",
+  "date_of_birth": "1965-05-28",
+  "class": "D",
+  "issue_date": "2020-10-09",
+  "expiry_date": "2025-10-09",
+  "address": "49493 Richardson Park Apt. 832, South Andrewside, MI 83855",
+  "sample_id": "driving_license_0166"
+}

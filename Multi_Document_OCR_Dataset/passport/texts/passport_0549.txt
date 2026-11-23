@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Karen Rice
+Passport No: P32910543
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P32910543",
+  "full_name": "Karen Rice",
+  "nationality": "AE",
+  "date_of_birth": "2004-09-20",
+  "issue_date": "2022-11-30",
+  "expiry_date": "2032-11-30",
+  "place_of_birth": "Campbellfurt",
+  "sample_id": "passport_0549"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0370
+Company: Greenline Logistics
+Company Address: 58 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 124 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-28
+Due Date: 2026-07-05
+Currency: BDT
+Subtotal: 14594.61
+Tax: 2079.73
+Total: 15944.61
+Balance Due: 15944.61
+Status: overdue

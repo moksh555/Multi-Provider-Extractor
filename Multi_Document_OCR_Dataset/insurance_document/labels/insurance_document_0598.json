@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2LB25485H",
+  "policy_holder": "Nathaniel Blankenship Jr.",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-08-21",
+  "expiry_date": "2026-08-21",
+  "premium": 2002.57,
+  "coverage_amount": 311294.36,
+  "beneficiary": "Darryl Richardson",
+  "sample_id": "insurance_document_0598"
+}

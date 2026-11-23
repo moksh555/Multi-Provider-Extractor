@@ -1,0 +1,16 @@
+Insurance Policy POL-1WUDCBL4C
+Holder: Rhonda Gould
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1WUDCBL4C",
+  "policy_holder": "Rhonda Gould",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-05-07",
+  "expiry_date": "2024-05-07",
+  "premium": 2307.5,
+  "coverage_amount": 226540.02,
+  "beneficiary": "Christopher Anderson",
+  "sample_id": "insurance_document_0586"
+}

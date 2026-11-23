@@ -1,0 +1,16 @@
+Bank Statement STM-ZLDAJJO5
+Holder: Alexandra Marshall
+Closing Balance: $4927.32
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZLDAJJO5",
+  "account_holder": "Alexandra Marshall",
+  "account_number_masked": "****1878",
+  "period_start": "2026-03-14",
+  "period_end": "2026-04-13",
+  "opening_balance": 1701.71,
+  "closing_balance": 4927.32,
+  "transactions": 10,
+  "sample_id": "bank_statement_0448"
+}

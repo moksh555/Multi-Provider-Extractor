@@ -1,0 +1,23 @@
+Resume
+Crystal Yates
+Data Analyst
+Skills: Machine Learning, Streamlit, Computer Vision, Docker, Deep Learning, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Crystal Yates",
+  "email": "kelly34@example.com",
+  "phone": "+1-719-498-2907x55154",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Machine Learning",
+    "Streamlit",
+    "Computer Vision",
+    "Docker",
+    "Deep Learning",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0142"
+}

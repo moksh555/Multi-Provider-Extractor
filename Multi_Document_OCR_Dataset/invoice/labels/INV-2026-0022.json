@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0022",
+  "invoice_number": "INV-2026-0022",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "115 Road 12, Banani, Sylhet, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "191 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-05-23",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 6,
+      "unit_price": 740.29,
+      "amount": 4441.74
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 450.85,
+      "amount": 901.7
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 616.3,
+      "amount": 616.3
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 11,
+      "unit_price": 824.7,
+      "amount": 9071.7
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 666.04,
+      "amount": 5328.32
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 6,
+      "unit_price": 532.78,
+      "amount": 3196.68
+    }
+  ],
+  "subtotal": 23556.44,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 23566.44,
+  "amount_paid": 0,
+  "balance_due": 23566.44,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801036596845",
+  "po_number": "PO-62622"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-XROPJUDK
+Holder: Jeffrey Henderson
+Closing Balance: $701.28
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XROPJUDK",
+  "account_holder": "Jeffrey Henderson",
+  "account_number_masked": "****3432",
+  "period_start": "2026-11-11",
+  "period_end": "2026-12-11",
+  "opening_balance": 964.35,
+  "closing_balance": 701.28,
+  "transactions": 12,
+  "sample_id": "bank_statement_0955"
+}

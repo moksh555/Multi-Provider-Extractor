@@ -1,0 +1,16 @@
+Synthetic Driving License
+Alejandra Price
+License: DL182275389
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL182275389",
+  "full_name": "Alejandra Price",
+  "date_of_birth": "1990-09-30",
+  "class": "C",
+  "issue_date": "2025-06-30",
+  "expiry_date": "2030-06-30",
+  "address": "04636 Rebecca Oval Apt. 238, Castrotown, AZ 32927",
+  "sample_id": "driving_license_0285"
+}

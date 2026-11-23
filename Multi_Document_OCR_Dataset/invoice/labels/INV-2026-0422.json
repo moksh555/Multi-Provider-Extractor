@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0422",
+  "invoice_number": "INV-2026-0422",
+  "company_name": "Golden Harvest Store",
+  "company_address": "192 Gulshan Avenue, Sylhet, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "232 Gulshan Avenue, Doha, Qatar",
+  "invoice_date": "2026-04-19",
+  "due_date": "2026-04-26",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 3,
+      "unit_price": 418.48,
+      "amount": 1255.44
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 9,
+      "unit_price": 196.72,
+      "amount": 1770.48
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 6,
+      "unit_price": 98.1,
+      "amount": 588.6
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 679.8,
+      "amount": 6798.0
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 3,
+      "unit_price": 254.58,
+      "amount": 763.74
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 10,
+      "unit_price": 787.88,
+      "amount": 7878.8
+    }
+  ],
+  "subtotal": 19055.06,
+  "discount": 952.75,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 18152.31,
+  "amount_paid": 0,
+  "balance_due": 18152.31,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801263226043",
+  "po_number": "PO-00511"
+}

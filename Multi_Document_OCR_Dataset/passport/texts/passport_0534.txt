@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Gene Johnson
+Passport No: P39008710
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P39008710",
+  "full_name": "Gene Johnson",
+  "nationality": "AE",
+  "date_of_birth": "1978-01-28",
+  "issue_date": "2025-11-28",
+  "expiry_date": "2035-11-28",
+  "place_of_birth": "East Donald",
+  "sample_id": "passport_0534"
+}

@@ -1,0 +1,49 @@
+Receipt RCT-FXQ7BZEG
+Merchant: Powell, Deleon and Warren
+Date: 2021-07-24
+Total: $536.15
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FXQ7BZEG",
+  "merchant_name": "Powell, Deleon and Warren",
+  "date": "2021-07-24",
+  "subtotal": 498.68,
+  "tax": 45.66,
+  "discount": 8.19,
+  "total": 536.15,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$49.29",
+      "line_total": "$197.16"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$10.02",
+      "line_total": "$10.02"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$64.55",
+      "line_total": "$64.55"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$65.11",
+      "line_total": "$195.33"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$10.54",
+      "line_total": "$31.62"
+    }
+  ],
+  "sample_id": "receipt_0195"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DQE3NHWV",
+  "account_holder": "Katherine Hoffman",
+  "account_number_masked": "****6145",
+  "period_start": "2025-11-12",
+  "period_end": "2025-12-12",
+  "opening_balance": 2061.93,
+  "closing_balance": 6999.59,
+  "transactions": 9,
+  "sample_id": "bank_statement_0697"
+}

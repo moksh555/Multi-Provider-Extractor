@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL905565053",
+  "full_name": "Mary Hernandez",
+  "date_of_birth": "1991-09-21",
+  "class": "B",
+  "issue_date": "2020-09-28",
+  "expiry_date": "2025-09-28",
+  "address": "966 Rachel Junction, Lake Pamelaview, SD 12104",
+  "sample_id": "driving_license_0430"
+}

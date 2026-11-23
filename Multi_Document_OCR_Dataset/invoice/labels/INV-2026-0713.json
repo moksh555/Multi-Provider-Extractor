@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0713",
+  "invoice_number": "INV-2026-0713",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "92 Agrabad C/A, Dubai, UAE",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "10 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-01-13",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 260.86,
+      "amount": 2608.6
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 7,
+      "unit_price": 660.46,
+      "amount": 4623.22
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 505.57,
+      "amount": 4550.13
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 443.12,
+      "amount": 2215.6
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 764.27,
+      "amount": 764.27
+    }
+  ],
+  "subtotal": 14761.82,
+  "discount": 1476.18,
+  "tax_rate": 0.075,
+  "tax": 996.42,
+  "shipping": 0,
+  "total": 14282.06,
+  "amount_paid": 0,
+  "balance_due": 14282.06,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801800870049",
+  "po_number": "PO-86395"
+}

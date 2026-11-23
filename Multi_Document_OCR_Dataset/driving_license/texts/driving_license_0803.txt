@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andre Flores Jr.
+License: DL745363648
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL745363648",
+  "full_name": "Andre Flores Jr.",
+  "date_of_birth": "1970-11-22",
+  "class": "A",
+  "issue_date": "2024-03-11",
+  "expiry_date": "2029-03-11",
+  "address": "169 Avery Spur Suite 060, Blakeland, NJ 33551",
+  "sample_id": "driving_license_0803"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QLBW66V3",
+  "merchant_name": "Lloyd, Francis and Smith",
+  "date": "2023-12-22",
+  "subtotal": 906.88,
+  "tax": 61.48,
+  "discount": 7.13,
+  "total": 961.23,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$55.05",
+      "line_total": "$165.15"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$67.31",
+      "line_total": "$201.93"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$47.41",
+      "line_total": "$94.82"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$60.24",
+      "line_total": "$240.96"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$77.02",
+      "line_total": "$77.02"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$31.75",
+      "line_total": "$127.00"
+    }
+  ],
+  "sample_id": "receipt_0874"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL942908733",
+  "full_name": "Carmen Meadows",
+  "date_of_birth": "1978-07-23",
+  "class": "D",
+  "issue_date": "2025-11-04",
+  "expiry_date": "2030-11-04",
+  "address": "32309 David Station, South Nancyview, WI 70589",
+  "sample_id": "driving_license_0201"
+}

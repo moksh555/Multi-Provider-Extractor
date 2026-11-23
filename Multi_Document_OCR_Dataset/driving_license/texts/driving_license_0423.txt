@@ -1,0 +1,16 @@
+Synthetic Driving License
+Shirley Miller
+License: DL666571459
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL666571459",
+  "full_name": "Shirley Miller",
+  "date_of_birth": "1968-05-09",
+  "class": "C",
+  "issue_date": "2023-05-10",
+  "expiry_date": "2028-05-10",
+  "address": "288 Lewis Pass Suite 852, North Pamelaside, OR 34408",
+  "sample_id": "driving_license_0423"
+}

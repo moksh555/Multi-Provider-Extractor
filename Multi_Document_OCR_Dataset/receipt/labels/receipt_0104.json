@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HSA7HEZ7",
+  "merchant_name": "Anderson-Baker",
+  "date": "2024-08-18",
+  "subtotal": 193.06,
+  "tax": 22.16,
+  "discount": 5.93,
+  "total": 209.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$47.34",
+      "line_total": "$94.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$67.87",
+      "line_total": "$67.87"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$30.51",
+      "line_total": "$30.51"
+    }
+  ],
+  "sample_id": "receipt_0104"
+}

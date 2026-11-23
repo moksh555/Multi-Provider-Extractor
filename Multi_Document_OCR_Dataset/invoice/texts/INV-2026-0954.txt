@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0954
+Company: Eastern Care Pharmacy
+Company Address: 82 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 111 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-04-07
+Due Date: 2026-04-22
+Currency: QAR
+Subtotal: 20318.65
+Tax: 2895.41
+Total: 22223.13
+Balance Due: 22223.13
+Status: unpaid

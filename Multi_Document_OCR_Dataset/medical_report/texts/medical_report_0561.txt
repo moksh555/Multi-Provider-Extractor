@@ -1,0 +1,14 @@
+Medical Report MED-0EKDQ1V8
+Patient: Stephen Shields
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0EKDQ1V8",
+  "patient_name": "Stephen Shields",
+  "visit_date": "2024-08-31",
+  "doctor_name": "Dr. Jessica Aguilar",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0561"
+}

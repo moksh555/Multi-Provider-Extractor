@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0211
+Company: Metro Print House
+Company Address: 133 Al Barsha, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 62 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-02-13
+Due Date: 2026-02-20
+Currency: USD
+Subtotal: 13619.56
+Tax: 0.0
+Total: 13619.56
+Balance Due: 13619.56
+Status: overdue

@@ -1,0 +1,16 @@
+Bank Statement STM-8XWBNWJ6
+Holder: Debra Shepard
+Closing Balance: $6866.82
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8XWBNWJ6",
+  "account_holder": "Debra Shepard",
+  "account_number_masked": "****7858",
+  "period_start": "2026-06-21",
+  "period_end": "2026-07-21",
+  "opening_balance": 2492.13,
+  "closing_balance": 6866.82,
+  "transactions": 10,
+  "sample_id": "bank_statement_0069"
+}

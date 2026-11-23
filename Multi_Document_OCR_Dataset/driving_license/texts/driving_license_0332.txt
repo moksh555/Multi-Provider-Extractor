@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nicholas Burnett
+License: DL196974324
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL196974324",
+  "full_name": "Nicholas Burnett",
+  "date_of_birth": "1965-08-21",
+  "class": "C",
+  "issue_date": "2022-12-18",
+  "expiry_date": "2027-12-18",
+  "address": "67198 Cook Hollow, Brownland, MN 70575",
+  "sample_id": "driving_license_0332"
+}

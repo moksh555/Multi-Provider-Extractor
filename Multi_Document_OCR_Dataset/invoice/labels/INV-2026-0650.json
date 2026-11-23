@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0650",
+  "invoice_number": "INV-2026-0650",
+  "company_name": "Golden Harvest Store",
+  "company_address": "79 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "222 Road 12, Banani, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-26",
+  "due_date": "2026-07-10",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 88.94,
+      "amount": 889.4
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 284.29,
+      "amount": 1990.03
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 8,
+      "unit_price": 112.91,
+      "amount": 903.28
+    }
+  ],
+  "subtotal": 3782.71,
+  "discount": 75.65,
+  "tax_rate": 0.075,
+  "tax": 278.03,
+  "shipping": 25,
+  "total": 4010.09,
+  "amount_paid": 0,
+  "balance_due": 4010.09,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801205525922",
+  "po_number": "PO-27665"
+}

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Tammy Larson",
+  "email": "moralesjessica@example.org",
+  "phone": "671-351-1142",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Python",
+    "AWS",
+    "FastAPI",
+    "Deep Learning",
+    "LangChain",
+    "Streamlit",
+    "NLP",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0590"
+}

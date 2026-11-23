@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-65HJAEIK",
+  "patient_name": "Mary Anderson",
+  "visit_date": "2026-11-29",
+  "doctor_name": "Dr. Gary Payne",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0965"
+}

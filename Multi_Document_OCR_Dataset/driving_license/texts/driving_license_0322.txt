@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jonathan York
+License: DL629380127
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL629380127",
+  "full_name": "Jonathan York",
+  "date_of_birth": "1986-06-18",
+  "class": "C",
+  "issue_date": "2021-08-13",
+  "expiry_date": "2026-08-13",
+  "address": "444 Judith Rapids, New Joanne, TN 59044",
+  "sample_id": "driving_license_0322"
+}

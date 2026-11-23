@@ -1,0 +1,14 @@
+Medical Report MED-I2ZX0DVK
+Patient: Zachary Morrison
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-I2ZX0DVK",
+  "patient_name": "Zachary Morrison",
+  "visit_date": "2026-06-30",
+  "doctor_name": "Dr. Elizabeth Buchanan",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0767"
+}

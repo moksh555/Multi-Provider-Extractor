@@ -1,0 +1,16 @@
+Synthetic Driving License
+Ryan Harvey
+License: DL728369577
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL728369577",
+  "full_name": "Ryan Harvey",
+  "date_of_birth": "1962-05-23",
+  "class": "D",
+  "issue_date": "2026-09-10",
+  "expiry_date": "2031-09-10",
+  "address": "2368 Ortiz Overpass, Mckinneymouth, NM 22423",
+  "sample_id": "driving_license_0148"
+}

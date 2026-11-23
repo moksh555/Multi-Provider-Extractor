@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0779
+Company: Metro Print House
+Company Address: 33 Sheikh Zayed Road, Doha, Qatar
+Customer: Smart Retail LLC
+Billing Address: 237 Jumeirah Lake Towers, Doha, Qatar
+Invoice Date: 2026-03-02
+Due Date: 2026-04-16
+Currency: AED
+Subtotal: 4778.13
+Tax: 351.19
+Total: 5043.76
+Balance Due: 5043.76
+Status: unpaid

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0627
+Company: PrimeSoft Technologies
+Company Address: 13 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: Rahim Traders
+Billing Address: 51 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-03-08
+Due Date: 2026-03-23
+Currency: SAR
+Subtotal: 24857.44
+Tax: 1218.01
+Total: 25588.3
+Balance Due: 25588.3
+Status: overdue

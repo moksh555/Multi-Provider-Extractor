@@ -1,0 +1,61 @@
+Receipt RCT-648N9JI7
+Merchant: Mcdonald PLC
+Date: 2025-06-22
+Total: $612.98
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-648N9JI7",
+  "merchant_name": "Mcdonald PLC",
+  "date": "2025-06-22",
+  "subtotal": 561.8,
+  "tax": 56.29,
+  "discount": 5.11,
+  "total": 612.98,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$16.07",
+      "line_total": "$32.14"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$26.53",
+      "line_total": "$106.12"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$8.14",
+      "line_total": "$24.42"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$39.11",
+      "line_total": "$78.22"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$63.05",
+      "line_total": "$63.05"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$42.95",
+      "line_total": "$128.85"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$43.00",
+      "line_total": "$129.00"
+    }
+  ],
+  "sample_id": "receipt_0920"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-KGYGGSNPU
+Holder: Sandra Williams
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KGYGGSNPU",
+  "policy_holder": "Sandra Williams",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-11-26",
+  "expiry_date": "2024-11-26",
+  "premium": 1509.89,
+  "coverage_amount": 134957.91,
+  "beneficiary": "Mark Marquez",
+  "sample_id": "insurance_document_0294"
+}

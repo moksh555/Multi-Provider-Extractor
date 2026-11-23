@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Adam Burns",
+  "email": "laneaustin@example.com",
+  "phone": "844.954.0691x4387",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "Pandas",
+    "Computer Vision",
+    "Docker",
+    "AWS",
+    "TensorFlow",
+    "Deep Learning",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0679"
+}

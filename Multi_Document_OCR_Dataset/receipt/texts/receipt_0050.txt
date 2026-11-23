@@ -1,0 +1,43 @@
+Receipt RCT-3FPOYIPK
+Merchant: Kennedy, Mcintyre and James
+Date: 2026-01-13
+Total: $924.29
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3FPOYIPK",
+  "merchant_name": "Kennedy, Mcintyre and James",
+  "date": "2026-01-13",
+  "subtotal": 848.48,
+  "tax": 87.83,
+  "discount": 12.02,
+  "total": 924.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$77.28",
+      "line_total": "$231.84"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$30.06",
+      "line_total": "$60.12"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$61.79",
+      "line_total": "$247.16"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$77.34",
+      "line_total": "$309.36"
+    }
+  ],
+  "sample_id": "receipt_0050"
+}

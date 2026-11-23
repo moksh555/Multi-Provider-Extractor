@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Tyler Austin",
+  "email": "marybartlett@example.com",
+  "phone": "627.402.8966x6053",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "SQL",
+    "Docker",
+    "FastAPI",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0070"
+}

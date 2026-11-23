@@ -1,0 +1,49 @@
+Receipt RCT-9T0Z4O75
+Merchant: Hawkins-Martin
+Date: 2026-05-17
+Total: $228.60
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9T0Z4O75",
+  "merchant_name": "Hawkins-Martin",
+  "date": "2026-05-17",
+  "subtotal": 223.47,
+  "tax": 8.28,
+  "discount": 3.15,
+  "total": 228.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$8.12",
+      "line_total": "$16.24"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$7.03",
+      "line_total": "$21.09"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$12.17",
+      "line_total": "$12.17"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$22.14",
+      "line_total": "$44.28"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$43.23",
+      "line_total": "$129.69"
+    }
+  ],
+  "sample_id": "receipt_0880"
+}

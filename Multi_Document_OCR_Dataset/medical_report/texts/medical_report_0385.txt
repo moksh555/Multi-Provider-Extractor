@@ -1,0 +1,14 @@
+Medical Report MED-D1NVP77H
+Patient: Sarah Johnson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-D1NVP77H",
+  "patient_name": "Sarah Johnson",
+  "visit_date": "2026-12-22",
+  "doctor_name": "Dr. Sarah Silva",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0385"
+}

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0919",
+  "invoice_number": "INV-2026-0919",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "159 Al Barsha, Dhaka, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "51 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-03-25",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 271.98,
+      "amount": 815.94
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 534.13,
+      "amount": 5341.3
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 621.56,
+      "amount": 621.56
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 3,
+      "unit_price": 215.89,
+      "amount": 647.67
+    }
+  ],
+  "subtotal": 7426.47,
+  "discount": 742.65,
+  "tax_rate": 0.05,
+  "tax": 334.19,
+  "shipping": 25,
+  "total": 7043.01,
+  "amount_paid": 4260.0,
+  "balance_due": 2783.01,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801448068859",
+  "po_number": "PO-88878"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Keith Taylor
+License: DL966445815
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL966445815",
+  "full_name": "Keith Taylor",
+  "date_of_birth": "1996-07-26",
+  "class": "B",
+  "issue_date": "2026-07-23",
+  "expiry_date": "2031-07-23",
+  "address": "76811 Higgins Forges, East Nathan, AZ 34115",
+  "sample_id": "driving_license_0873"
+}

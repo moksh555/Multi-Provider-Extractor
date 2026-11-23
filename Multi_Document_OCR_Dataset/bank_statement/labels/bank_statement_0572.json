@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BC3OKO3V",
+  "account_holder": "Christopher Williams",
+  "account_number_masked": "****4603",
+  "period_start": "2026-06-07",
+  "period_end": "2026-07-07",
+  "opening_balance": 839.61,
+  "closing_balance": 6063.98,
+  "transactions": 12,
+  "sample_id": "bank_statement_0572"
+}

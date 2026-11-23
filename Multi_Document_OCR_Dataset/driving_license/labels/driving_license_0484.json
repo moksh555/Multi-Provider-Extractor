@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL472217995",
+  "full_name": "Janice Mccarthy",
+  "date_of_birth": "1980-08-09",
+  "class": "D",
+  "issue_date": "2020-12-20",
+  "expiry_date": "2025-12-20",
+  "address": "Unit 1836 Box 2644, DPO AP 70388",
+  "sample_id": "driving_license_0484"
+}

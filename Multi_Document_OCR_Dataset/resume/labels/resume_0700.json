@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Robert Murray",
+  "email": "fcherry@example.net",
+  "phone": "(877)693-3335",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "FastAPI",
+    "Pandas",
+    "TensorFlow",
+    "Python",
+    "Streamlit",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0700"
+}

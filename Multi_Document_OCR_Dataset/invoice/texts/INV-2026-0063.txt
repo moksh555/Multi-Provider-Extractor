@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0063
+Company: Delta Insurance Services
+Company Address: 57 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: Future School
+Billing Address: 138 Doha Business Park, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-14
+Due Date: 2026-03-01
+Currency: SAR
+Subtotal: 11356.58
+Tax: 567.83
+Total: 11974.41
+Balance Due: 6036.74
+Status: partial

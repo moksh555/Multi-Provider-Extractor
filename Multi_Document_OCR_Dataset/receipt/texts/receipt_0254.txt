@@ -1,0 +1,37 @@
+Receipt RCT-HH3O5URT
+Merchant: Young and Sons
+Date: 2022-12-20
+Total: $248.34
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HH3O5URT",
+  "merchant_name": "Young and Sons",
+  "date": "2022-12-20",
+  "subtotal": 223.86,
+  "tax": 24.51,
+  "discount": 0.03,
+  "total": 248.34,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$11.07",
+      "line_total": "$11.07"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$16.16",
+      "line_total": "$48.48"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$54.77",
+      "line_total": "$164.31"
+    }
+  ],
+  "sample_id": "receipt_0254"
+}

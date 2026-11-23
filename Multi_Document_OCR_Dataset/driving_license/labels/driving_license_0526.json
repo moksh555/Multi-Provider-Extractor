@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL784016336",
+  "full_name": "Brittany Anderson",
+  "date_of_birth": "1966-11-12",
+  "class": "D",
+  "issue_date": "2025-10-30",
+  "expiry_date": "2030-10-30",
+  "address": "557 Rhonda Cliff Suite 688, East Carolberg, LA 06457",
+  "sample_id": "driving_license_0526"
+}

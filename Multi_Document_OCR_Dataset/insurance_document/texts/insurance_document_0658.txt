@@ -1,0 +1,16 @@
+Insurance Policy POL-N9YGCMR8E
+Holder: Karina Boone
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-N9YGCMR8E",
+  "policy_holder": "Karina Boone",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-08-24",
+  "expiry_date": "2027-08-24",
+  "premium": 925.6,
+  "coverage_amount": 222572.51,
+  "beneficiary": "Justin Barrera",
+  "sample_id": "insurance_document_0658"
+}

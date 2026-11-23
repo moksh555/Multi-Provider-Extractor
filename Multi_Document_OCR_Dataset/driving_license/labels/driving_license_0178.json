@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL732308705",
+  "full_name": "Nicholas Phillips",
+  "date_of_birth": "1997-06-18",
+  "class": "B",
+  "issue_date": "2023-04-24",
+  "expiry_date": "2028-04-24",
+  "address": "969 Ian Island, Lake Ariana, NM 18935",
+  "sample_id": "driving_license_0178"
+}

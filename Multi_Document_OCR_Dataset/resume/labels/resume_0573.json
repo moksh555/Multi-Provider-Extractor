@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Michael Alexander",
+  "email": "brandon04@example.com",
+  "phone": "+1-840-289-2270",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "TensorFlow",
+    "FastAPI",
+    "LangChain",
+    "SQL",
+    "Pandas",
+    "Computer Vision",
+    "Docker",
+    "Deep Learning",
+    "PyTorch",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0573"
+}

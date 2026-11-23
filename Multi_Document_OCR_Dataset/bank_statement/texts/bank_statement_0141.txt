@@ -1,0 +1,16 @@
+Bank Statement STM-QYRUY4KJ
+Holder: Michael Diaz
+Closing Balance: $3116.84
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QYRUY4KJ",
+  "account_holder": "Michael Diaz",
+  "account_number_masked": "****3007",
+  "period_start": "2026-11-08",
+  "period_end": "2026-12-08",
+  "opening_balance": 1370.94,
+  "closing_balance": 3116.84,
+  "transactions": 12,
+  "sample_id": "bank_statement_0141"
+}

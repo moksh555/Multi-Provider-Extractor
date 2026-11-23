@@ -1,0 +1,16 @@
+Insurance Policy POL-7W8P74MJD
+Holder: Lisa Williams
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7W8P74MJD",
+  "policy_holder": "Lisa Williams",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-03-12",
+  "expiry_date": "2026-03-12",
+  "premium": 1217.44,
+  "coverage_amount": 340892.65,
+  "beneficiary": "Tonya Mcdonald",
+  "sample_id": "insurance_document_0432"
+}

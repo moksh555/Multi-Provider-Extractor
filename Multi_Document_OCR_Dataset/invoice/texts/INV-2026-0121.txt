@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0121
+Company: Nova Medical Supplies
+Company Address: 185 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 194 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-01-29
+Due Date: 2026-02-05
+Currency: BDT
+Subtotal: 6107.54
+Tax: 458.07
+Total: 6590.61
+Balance Due: 6590.61
+Status: unpaid

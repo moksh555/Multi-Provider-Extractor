@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3PGIHNFLA",
+  "policy_holder": "Daniel Williams",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-11-04",
+  "expiry_date": "2025-11-04",
+  "premium": 628.78,
+  "coverage_amount": 288059.93,
+  "beneficiary": "Valerie Mitchell",
+  "sample_id": "insurance_document_0752"
+}

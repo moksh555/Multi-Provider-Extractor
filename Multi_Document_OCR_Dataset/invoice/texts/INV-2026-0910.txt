@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0910
+Company: CityBanking Supplies
+Company Address: 24 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 127 Al Barsha, Dhaka, Bangladesh
+Invoice Date: 2026-03-08
+Due Date: 2026-03-23
+Currency: SAR
+Subtotal: 15666.38
+Tax: 767.65
+Total: 16145.7
+Balance Due: 16145.7
+Status: unpaid

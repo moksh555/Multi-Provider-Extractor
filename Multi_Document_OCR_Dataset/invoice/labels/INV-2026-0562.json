@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0562",
+  "invoice_number": "INV-2026-0562",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "153 Mirpur DOHS, Sylhet, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "62 Mirpur DOHS, Dubai, UAE",
+  "invoice_date": "2026-04-28",
+  "due_date": "2026-06-12",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 531.68,
+      "amount": 2126.72
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 4,
+      "unit_price": 615.02,
+      "amount": 2460.08
+    },
+    {
+      "description": "Web Development",
+      "quantity": 11,
+      "unit_price": 126.46,
+      "amount": 1391.06
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 585.62,
+      "amount": 2342.48
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 10,
+      "unit_price": 87.08,
+      "amount": 870.8
+    }
+  ],
+  "subtotal": 9191.14,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 689.34,
+  "shipping": 50,
+  "total": 9930.48,
+  "amount_paid": 0,
+  "balance_due": 9930.48,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801062752226",
+  "po_number": "PO-65806"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LX3F2XHDC",
+  "policy_holder": "Jessica Hanson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-11-18",
+  "expiry_date": "2025-11-18",
+  "premium": 186.76,
+  "coverage_amount": 148281.4,
+  "beneficiary": "Elijah Lewis",
+  "sample_id": "insurance_document_0716"
+}

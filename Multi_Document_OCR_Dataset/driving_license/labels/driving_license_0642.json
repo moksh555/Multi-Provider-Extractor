@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL386279977",
+  "full_name": "Nicholas Case",
+  "date_of_birth": "1983-06-05",
+  "class": "C",
+  "issue_date": "2020-02-04",
+  "expiry_date": "2025-02-04",
+  "address": "186 Williams Haven, Andrewbury, AZ 36212",
+  "sample_id": "driving_license_0642"
+}

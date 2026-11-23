@@ -1,0 +1,26 @@
+Resume
+Melissa Phillips
+Backend Developer
+Skills: Machine Learning, Python, Streamlit, TensorFlow, PyTorch, SQL, Deep Learning, Pandas, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Melissa Phillips",
+  "email": "parkschristopher@example.org",
+  "phone": "855-879-9900x725",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "Python",
+    "Streamlit",
+    "TensorFlow",
+    "PyTorch",
+    "SQL",
+    "Deep Learning",
+    "Pandas",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0694"
+}

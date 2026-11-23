@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-VD38R3YH",
+  "patient_name": "William Church",
+  "visit_date": "2026-11-10",
+  "doctor_name": "Dr. Kevin Scott",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0474"
+}

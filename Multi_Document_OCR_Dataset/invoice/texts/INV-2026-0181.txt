@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0181
+Company: Golden Harvest Store
+Company Address: 170 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: TechPoint BD
+Billing Address: 32 Road 12, Banani, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-01
+Due Date: 2026-03-18
+Currency: AED
+Subtotal: 10993.95
+Tax: 1077.41
+Total: 11901.48
+Balance Due: 0.0
+Status: paid

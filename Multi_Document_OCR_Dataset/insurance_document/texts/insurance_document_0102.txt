@@ -1,0 +1,16 @@
+Insurance Policy POL-PSFNKOMV2
+Holder: Joel Frazier
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PSFNKOMV2",
+  "policy_holder": "Joel Frazier",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-05-15",
+  "expiry_date": "2024-05-15",
+  "premium": 904.66,
+  "coverage_amount": 283401.97,
+  "beneficiary": "Brittany Cuevas",
+  "sample_id": "insurance_document_0102"
+}

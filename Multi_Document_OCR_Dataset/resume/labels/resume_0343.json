@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Raymond Hall",
+  "email": "johnstonchristopher@example.net",
+  "phone": "280-252-5795",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Docker",
+    "Pandas",
+    "TensorFlow",
+    "Streamlit",
+    "PyTorch",
+    "LangChain",
+    "Computer Vision",
+    "Python",
+    "AWS",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0343"
+}

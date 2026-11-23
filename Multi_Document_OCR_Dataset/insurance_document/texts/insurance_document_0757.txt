@@ -1,0 +1,16 @@
+Insurance Policy POL-Q48ENWBBA
+Holder: Robert Jensen
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Q48ENWBBA",
+  "policy_holder": "Robert Jensen",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-10-23",
+  "expiry_date": "2025-10-23",
+  "premium": 2170.11,
+  "coverage_amount": 364884.15,
+  "beneficiary": "Steven Cook",
+  "sample_id": "insurance_document_0757"
+}

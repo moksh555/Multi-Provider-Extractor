@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0299
+Company: PrimeSoft Technologies
+Company Address: 165 Zindabazar Road, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 72 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-18
+Due Date: 2026-02-25
+Currency: BDT
+Subtotal: 11258.36
+Tax: 0.0
+Total: 11258.36
+Balance Due: 7338.05
+Status: partial

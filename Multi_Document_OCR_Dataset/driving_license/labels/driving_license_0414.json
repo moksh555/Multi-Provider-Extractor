@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL675587548",
+  "full_name": "Corey Cooper",
+  "date_of_birth": "1963-10-21",
+  "class": "D",
+  "issue_date": "2022-10-03",
+  "expiry_date": "2027-10-03",
+  "address": "597 Nicole Stream, Moyerstad, WY 62409",
+  "sample_id": "driving_license_0414"
+}

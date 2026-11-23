@@ -1,0 +1,23 @@
+Resume
+Tracy Bradshaw
+Computer Vision Engineer
+Skills: Deep Learning, AWS, Streamlit, FastAPI, NLP, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Tracy Bradshaw",
+  "email": "riosgeorge@example.org",
+  "phone": "690-357-7204",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Deep Learning",
+    "AWS",
+    "Streamlit",
+    "FastAPI",
+    "NLP",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0074"
+}

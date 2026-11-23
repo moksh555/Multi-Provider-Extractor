@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0495
+Company: CityBanking Supplies
+Company Address: 147 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 148 Agrabad C/A, Doha, Qatar
+Invoice Date: 2026-05-06
+Due Date: 2026-05-13
+Currency: AED
+Subtotal: 16503.52
+Tax: 2475.53
+Total: 18979.05
+Balance Due: 10008.65
+Status: partial

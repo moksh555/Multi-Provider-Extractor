@@ -1,0 +1,61 @@
+Receipt RCT-HGK5BWIK
+Merchant: Wright-Davis
+Date: 2025-08-15
+Total: $798.11
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HGK5BWIK",
+  "merchant_name": "Wright-Davis",
+  "date": "2025-08-15",
+  "subtotal": 784.66,
+  "tax": 25.61,
+  "discount": 12.16,
+  "total": 798.11,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$7.93",
+      "line_total": "$7.93"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$34.12",
+      "line_total": "$68.24"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$79.16",
+      "line_total": "$79.16"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$44.02",
+      "line_total": "$176.08"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$73.10",
+      "line_total": "$219.30"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$22.36",
+      "line_total": "$89.44"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$48.17",
+      "line_total": "$144.51"
+    }
+  ],
+  "sample_id": "receipt_0102"
+}

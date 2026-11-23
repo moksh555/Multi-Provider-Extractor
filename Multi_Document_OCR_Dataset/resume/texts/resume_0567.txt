@@ -1,0 +1,25 @@
+Resume
+David Watson
+Machine Learning Engineer
+Skills: Docker, Machine Learning, FastAPI, SQL, Python, PyTorch, AWS, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "David Watson",
+  "email": "nancyrichardson@example.com",
+  "phone": "998-909-6282x19608",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Docker",
+    "Machine Learning",
+    "FastAPI",
+    "SQL",
+    "Python",
+    "PyTorch",
+    "AWS",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0567"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0463
+Company: Delta Insurance Services
+Company Address: 156 Doha Business Park, Dubai, UAE
+Customer: Global Mart
+Billing Address: 169 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-01-17
+Due Date: 2026-02-16
+Currency: AED
+Subtotal: 7773.82
+Tax: 0.0
+Total: 7668.34
+Balance Due: 7668.34
+Status: overdue

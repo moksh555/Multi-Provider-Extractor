@@ -1,0 +1,16 @@
+Synthetic Driving License
+Larry Stokes
+License: DL077408617
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL077408617",
+  "full_name": "Larry Stokes",
+  "date_of_birth": "1995-02-02",
+  "class": "C",
+  "issue_date": "2022-03-06",
+  "expiry_date": "2027-03-06",
+  "address": "84336 Cooper Burg Apt. 632, East Catherine, NY 19884",
+  "sample_id": "driving_license_0897"
+}

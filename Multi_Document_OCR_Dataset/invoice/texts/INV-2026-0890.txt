@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0890
+Company: Metro Print House
+Company Address: 28 Sheikh Zayed Road, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 34 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-04-13
+Due Date: 2026-04-20
+Currency: USD
+Subtotal: 9665.62
+Tax: 0.0
+Total: 8699.06
+Balance Due: 8699.06
+Status: overdue

@@ -1,0 +1,14 @@
+Medical Report MED-L2IQ1XBO
+Patient: Kyle Brooks
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-L2IQ1XBO",
+  "patient_name": "Kyle Brooks",
+  "visit_date": "2026-12-14",
+  "doctor_name": "Dr. Lisa Hill",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0430"
+}

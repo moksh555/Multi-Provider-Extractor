@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL996042802",
+  "full_name": "Ernest Sexton",
+  "date_of_birth": "1989-07-27",
+  "class": "B",
+  "issue_date": "2020-09-12",
+  "expiry_date": "2025-09-12",
+  "address": "24617 Hernandez Dam, New Cassandra, KY 27011",
+  "sample_id": "driving_license_0848"
+}

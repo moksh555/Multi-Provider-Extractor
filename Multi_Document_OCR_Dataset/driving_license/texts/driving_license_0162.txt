@@ -1,0 +1,16 @@
+Synthetic Driving License
+Troy Allen
+License: DL641698766
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL641698766",
+  "full_name": "Troy Allen",
+  "date_of_birth": "1986-06-20",
+  "class": "B",
+  "issue_date": "2024-02-14",
+  "expiry_date": "2029-02-14",
+  "address": "79904 David Station Apt. 027, Alexandraview, GA 49242",
+  "sample_id": "driving_license_0162"
+}

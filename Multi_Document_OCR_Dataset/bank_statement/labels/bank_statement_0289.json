@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PNL6RNKW",
+  "account_holder": "Courtney Foley",
+  "account_number_masked": "****6644",
+  "period_start": "2025-03-06",
+  "period_end": "2025-04-05",
+  "opening_balance": 3373.91,
+  "closing_balance": 3158.49,
+  "transactions": 10,
+  "sample_id": "bank_statement_0289"
+}

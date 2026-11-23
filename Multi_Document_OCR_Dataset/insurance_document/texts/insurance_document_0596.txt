@@ -1,0 +1,16 @@
+Insurance Policy POL-MHQNNGS2W
+Holder: Daniel Garcia
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MHQNNGS2W",
+  "policy_holder": "Daniel Garcia",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-12-27",
+  "expiry_date": "2027-12-27",
+  "premium": 275.6,
+  "coverage_amount": 80771.8,
+  "beneficiary": "Micheal Ramos",
+  "sample_id": "insurance_document_0596"
+}

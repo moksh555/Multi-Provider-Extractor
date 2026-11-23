@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0576",
+  "invoice_number": "INV-2026-0576",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "126 Road 12, Banani, Chattogram, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "183 Dhanmondi 27, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-18",
+  "due_date": "2026-06-02",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 736.36,
+      "amount": 8836.32
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 6,
+      "unit_price": 306.33,
+      "amount": 1837.98
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 681.91,
+      "amount": 681.91
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 4,
+      "unit_price": 630.86,
+      "amount": 2523.44
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 11,
+      "unit_price": 764.79,
+      "amount": 8412.69
+    }
+  ],
+  "subtotal": 22292.34,
+  "discount": 2229.23,
+  "tax_rate": 0.15,
+  "tax": 3009.47,
+  "shipping": 0,
+  "total": 23072.58,
+  "amount_paid": 0,
+  "balance_due": 23072.58,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801330836010",
+  "po_number": "PO-46822"
+}

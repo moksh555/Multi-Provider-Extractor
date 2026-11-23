@@ -1,0 +1,16 @@
+Synthetic Driving License
+Edward Rodriguez
+License: DL466968770
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL466968770",
+  "full_name": "Edward Rodriguez",
+  "date_of_birth": "1971-07-12",
+  "class": "B",
+  "issue_date": "2023-07-27",
+  "expiry_date": "2028-07-27",
+  "address": "32593 Alvarez Vista, East Laurenmouth, PR 42092",
+  "sample_id": "driving_license_0933"
+}

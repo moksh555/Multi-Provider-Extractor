@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-D7204J3M",
+  "merchant_name": "Allison Group",
+  "date": "2023-10-16",
+  "subtotal": 727.58,
+  "tax": 70.28,
+  "discount": 12.54,
+  "total": 785.32,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$26.64",
+      "line_total": "$26.64"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$17.54",
+      "line_total": "$35.08"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$60.51",
+      "line_total": "$242.04"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$68.68",
+      "line_total": "$274.72"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$49.70",
+      "line_total": "$149.10"
+    }
+  ],
+  "sample_id": "receipt_0421"
+}

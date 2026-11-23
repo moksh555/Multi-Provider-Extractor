@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T6D05HFA",
+  "account_holder": "Shawn Lara",
+  "account_number_masked": "****6816",
+  "period_start": "2026-06-04",
+  "period_end": "2026-07-04",
+  "opening_balance": 4750.9,
+  "closing_balance": 7173.37,
+  "transactions": 12,
+  "sample_id": "bank_statement_0347"
+}

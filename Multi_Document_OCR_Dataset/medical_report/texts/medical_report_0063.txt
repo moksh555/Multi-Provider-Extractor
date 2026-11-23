@@ -1,0 +1,14 @@
+Medical Report MED-F1HRJT33
+Patient: Mary Huber
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-F1HRJT33",
+  "patient_name": "Mary Huber",
+  "visit_date": "2024-12-26",
+  "doctor_name": "Dr. Amanda Malone",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0063"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sydney Shaw
+License: DL881012530
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL881012530",
+  "full_name": "Sydney Shaw",
+  "date_of_birth": "1961-01-02",
+  "class": "B",
+  "issue_date": "2023-01-24",
+  "expiry_date": "2028-01-24",
+  "address": "47604 Garrett Ports Apt. 797, Thompsonside, AS 14117",
+  "sample_id": "driving_license_0657"
+}

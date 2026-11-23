@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0433",
+  "invoice_number": "INV-2026-0433",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "43 Agrabad C/A, Doha, Qatar",
+  "customer_name": "TechPoint BD",
+  "billing_address": "167 Agrabad C/A, Doha, Qatar",
+  "invoice_date": "2026-04-26",
+  "due_date": "2026-05-11",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 837.65,
+      "amount": 1675.3
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 8,
+      "unit_price": 33.33,
+      "amount": 266.64
+    }
+  ],
+  "subtotal": 1941.94,
+  "discount": 194.19,
+  "tax_rate": 0.05,
+  "tax": 87.39,
+  "shipping": 0,
+  "total": 1835.14,
+  "amount_paid": 0,
+  "balance_due": 1835.14,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801218975210",
+  "po_number": "PO-11100"
+}

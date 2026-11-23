@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-PNHQFL3J",
+  "patient_name": "Joseph Marshall",
+  "visit_date": "2024-08-28",
+  "doctor_name": "Dr. Rebecca Rodriguez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0866"
+}

@@ -1,0 +1,24 @@
+Resume
+Mason Fuller
+Computer Vision Engineer
+Skills: Python, FastAPI, SQL, Computer Vision, Machine Learning, PyTorch, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Mason Fuller",
+  "email": "flowersalicia@example.com",
+  "phone": "526.376.3114",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "SQL",
+    "Computer Vision",
+    "Machine Learning",
+    "PyTorch",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0853"
+}

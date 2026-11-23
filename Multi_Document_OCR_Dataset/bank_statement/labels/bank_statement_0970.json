@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1XEOMKPY",
+  "account_holder": "Jose Lawrence",
+  "account_number_masked": "****7613",
+  "period_start": "2024-01-23",
+  "period_end": "2024-02-22",
+  "opening_balance": 4325.03,
+  "closing_balance": 4415.79,
+  "transactions": 8,
+  "sample_id": "bank_statement_0970"
+}

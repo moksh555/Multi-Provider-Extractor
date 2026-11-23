@@ -1,0 +1,37 @@
+Receipt RCT-HZM32HZS
+Merchant: Young LLC
+Date: 2024-01-07
+Total: $185.81
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HZM32HZS",
+  "merchant_name": "Young LLC",
+  "date": "2024-01-07",
+  "subtotal": 176.75,
+  "tax": 14.64,
+  "discount": 5.58,
+  "total": 185.81,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$18.24",
+      "line_total": "$54.72"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$73.83",
+      "line_total": "$73.83"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$12.05",
+      "line_total": "$48.20"
+    }
+  ],
+  "sample_id": "receipt_0382"
+}

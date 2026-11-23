@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0100",
+  "invoice_number": "INV-2026-0100",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "141 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "41 Mirpur DOHS, Doha, Qatar",
+  "invoice_date": "2026-05-25",
+  "due_date": "2026-06-09",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 2,
+      "unit_price": 230.59,
+      "amount": 461.18
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 570.95,
+      "amount": 570.95
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 334.77,
+      "amount": 2008.62
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 41.6,
+      "amount": 41.6
+    },
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 600.55,
+      "amount": 1201.1
+    }
+  ],
+  "subtotal": 4283.45,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 4308.45,
+  "amount_paid": 2441.96,
+  "balance_due": 1866.49,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801825163685",
+  "po_number": "PO-39538"
+}

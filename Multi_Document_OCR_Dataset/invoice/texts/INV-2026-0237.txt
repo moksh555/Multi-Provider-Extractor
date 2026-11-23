@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0237
+Company: Metro Print House
+Company Address: 174 Jumeirah Lake Towers, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 28 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-01-28
+Due Date: 2026-03-14
+Currency: SAR
+Subtotal: 7479.32
+Tax: 732.97
+Total: 8072.7
+Balance Due: 8072.7
+Status: unpaid

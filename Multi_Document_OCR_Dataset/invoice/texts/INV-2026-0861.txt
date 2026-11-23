@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0861
+Company: Delta Insurance Services
+Company Address: 124 Mirpur DOHS, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 110 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-05-19
+Due Date: 2026-05-26
+Currency: AED
+Subtotal: 4762.59
+Tax: 0.0
+Total: 4677.34
+Balance Due: 4677.34
+Status: unpaid

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0513",
+  "invoice_number": "INV-2026-0513",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "107 Doha Business Park, Dhaka, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "249 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-03-02",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 2,
+      "unit_price": 531.76,
+      "amount": 1063.52
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 13.76,
+      "amount": 55.04
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 12,
+      "unit_price": 634.05,
+      "amount": 7608.6
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 268.29,
+      "amount": 3219.48
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 205.77,
+      "amount": 1028.85
+    }
+  ],
+  "subtotal": 12975.49,
+  "discount": 259.51,
+  "tax_rate": 0.05,
+  "tax": 635.8,
+  "shipping": 25,
+  "total": 13376.78,
+  "amount_paid": 0,
+  "balance_due": 13376.78,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801095131686",
+  "po_number": "PO-14034"
+}

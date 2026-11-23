@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL775602273",
+  "full_name": "Margaret Riley",
+  "date_of_birth": "1961-11-03",
+  "class": "B",
+  "issue_date": "2022-05-02",
+  "expiry_date": "2027-05-02",
+  "address": "112 Green Falls Apt. 175, South Craig, WY 03378",
+  "sample_id": "driving_license_0566"
+}

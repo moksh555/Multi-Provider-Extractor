@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Robert Ford",
+  "email": "lynnbullock@example.net",
+  "phone": "618.634.1000x6658",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "Deep Learning",
+    "Python",
+    "NLP",
+    "AWS",
+    "Pandas",
+    "FastAPI",
+    "SQL",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0628"
+}

@@ -1,0 +1,26 @@
+Resume
+Timothy Morris
+Data Analyst
+Skills: Streamlit, Computer Vision, Docker, PyTorch, Deep Learning, LangChain, Pandas, SQL, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Timothy Morris",
+  "email": "gabriela59@example.net",
+  "phone": "(389)674-8741",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "Computer Vision",
+    "Docker",
+    "PyTorch",
+    "Deep Learning",
+    "LangChain",
+    "Pandas",
+    "SQL",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0252"
+}

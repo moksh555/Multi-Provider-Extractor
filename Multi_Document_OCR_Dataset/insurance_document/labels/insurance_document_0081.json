@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-T9MOGE4QX",
+  "policy_holder": "Russell French",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-02-13",
+  "expiry_date": "2024-02-13",
+  "premium": 240.38,
+  "coverage_amount": 173419.49,
+  "beneficiary": "Paul Brennan",
+  "sample_id": "insurance_document_0081"
+}

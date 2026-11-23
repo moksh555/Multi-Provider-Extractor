@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Crawford
+License: DL616690673
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL616690673",
+  "full_name": "Michael Crawford",
+  "date_of_birth": "2005-11-15",
+  "class": "B",
+  "issue_date": "2022-03-01",
+  "expiry_date": "2027-03-01",
+  "address": "71243 Mcconnell Plaza, Amberfurt, ME 17584",
+  "sample_id": "driving_license_0956"
+}

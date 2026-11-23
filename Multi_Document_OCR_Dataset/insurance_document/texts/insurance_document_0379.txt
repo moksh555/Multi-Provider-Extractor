@@ -1,0 +1,16 @@
+Insurance Policy POL-4X5A5XIN9
+Holder: Mark Mcmahon
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4X5A5XIN9",
+  "policy_holder": "Mark Mcmahon",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-10-08",
+  "expiry_date": "2025-10-08",
+  "premium": 1273.5,
+  "coverage_amount": 302582.14,
+  "beneficiary": "Casey Marks",
+  "sample_id": "insurance_document_0379"
+}

@@ -1,0 +1,26 @@
+Resume
+Robert Salazar
+Machine Learning Engineer
+Skills: Streamlit, TensorFlow, PyTorch, SQL, LangChain, Machine Learning, Python, NLP, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Robert Salazar",
+  "email": "susan49@example.com",
+  "phone": "963-995-2574",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Streamlit",
+    "TensorFlow",
+    "PyTorch",
+    "SQL",
+    "LangChain",
+    "Machine Learning",
+    "Python",
+    "NLP",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0565"
+}

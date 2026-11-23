@@ -1,0 +1,14 @@
+Medical Report MED-WOSFTIHC
+Patient: Wyatt Thomas
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WOSFTIHC",
+  "patient_name": "Wyatt Thomas",
+  "visit_date": "2025-06-17",
+  "doctor_name": "Dr. Troy Ford",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0585"
+}

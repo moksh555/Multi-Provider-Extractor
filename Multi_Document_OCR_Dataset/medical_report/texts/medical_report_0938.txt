@@ -1,0 +1,14 @@
+Medical Report MED-EYF5G52S
+Patient: Holly Williams
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EYF5G52S",
+  "patient_name": "Holly Williams",
+  "visit_date": "2024-09-13",
+  "doctor_name": "Dr. Brian Rush",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0938"
+}

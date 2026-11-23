@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UMS48IW5",
+  "account_holder": "Lawrence Huber",
+  "account_number_masked": "****7917",
+  "period_start": "2026-03-05",
+  "period_end": "2026-04-04",
+  "opening_balance": 2990.34,
+  "closing_balance": 5997.59,
+  "transactions": 13,
+  "sample_id": "bank_statement_0321"
+}

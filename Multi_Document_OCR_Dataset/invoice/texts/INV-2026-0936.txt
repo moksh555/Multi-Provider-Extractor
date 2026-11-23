@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0936
+Company: BlueRiver Trading Co.
+Company Address: 116 Uttara Sector 7, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 18 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-04-04
+Due Date: 2026-05-19
+Currency: AED
+Subtotal: 8688.4
+Tax: 868.84
+Total: 9557.24
+Balance Due: 9557.24
+Status: overdue

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0616
+Company: Golden Harvest Store
+Company Address: 199 Doha Business Park, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 43 Dhanmondi 27, Chattogram, Bangladesh
+Invoice Date: 2026-05-13
+Due Date: 2026-06-12
+Currency: AED
+Subtotal: 12589.43
+Tax: 0.0
+Total: 12599.43
+Balance Due: 12599.43
+Status: overdue

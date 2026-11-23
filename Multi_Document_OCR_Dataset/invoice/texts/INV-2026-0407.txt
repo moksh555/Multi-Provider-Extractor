@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0407
+Company: Greenline Logistics
+Company Address: 151 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 7 Jumeirah Lake Towers, Chattogram, Bangladesh
+Invoice Date: 2026-05-01
+Due Date: 2026-06-15
+Currency: QAR
+Subtotal: 15669.78
+Tax: 1566.98
+Total: 17236.76
+Balance Due: 0.0
+Status: paid

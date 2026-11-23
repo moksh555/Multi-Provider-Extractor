@@ -1,0 +1,14 @@
+Medical Report MED-AD5Y2PV7
+Patient: Nicholas Robinson
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-AD5Y2PV7",
+  "patient_name": "Nicholas Robinson",
+  "visit_date": "2026-08-19",
+  "doctor_name": "Dr. Michelle Moses",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0311"
+}

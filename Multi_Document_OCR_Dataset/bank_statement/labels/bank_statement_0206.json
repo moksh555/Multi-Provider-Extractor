@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CX9KNBZ9",
+  "account_holder": "Caleb Williams",
+  "account_number_masked": "****1466",
+  "period_start": "2025-02-13",
+  "period_end": "2025-03-15",
+  "opening_balance": 3640.59,
+  "closing_balance": 5668.41,
+  "transactions": 10,
+  "sample_id": "bank_statement_0206"
+}

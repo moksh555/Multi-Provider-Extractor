@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: James Pugh
+Passport No: P32577037
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P32577037",
+  "full_name": "James Pugh",
+  "nationality": "US",
+  "date_of_birth": "2002-05-20",
+  "issue_date": "2020-07-21",
+  "expiry_date": "2030-07-21",
+  "place_of_birth": "North Haroldtown",
+  "sample_id": "passport_0454"
+}

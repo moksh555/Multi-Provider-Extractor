@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL236794629",
+  "full_name": "Andrew Simmons",
+  "date_of_birth": "1965-02-25",
+  "class": "D",
+  "issue_date": "2021-12-18",
+  "expiry_date": "2026-12-18",
+  "address": "195 Zachary Spring, Pamelaville, MS 48419",
+  "sample_id": "driving_license_0348"
+}

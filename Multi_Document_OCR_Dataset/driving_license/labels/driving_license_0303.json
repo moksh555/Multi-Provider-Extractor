@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL813706618",
+  "full_name": "Barry Evans",
+  "date_of_birth": "2001-01-12",
+  "class": "B",
+  "issue_date": "2026-08-10",
+  "expiry_date": "2031-08-10",
+  "address": "55699 Marilyn Fields, Marthafort, PW 62694",
+  "sample_id": "driving_license_0303"
+}

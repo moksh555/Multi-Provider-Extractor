@@ -1,0 +1,23 @@
+Resume
+Rachel Wilson
+Data Analyst
+Skills: Computer Vision, TensorFlow, FastAPI, Pandas, SQL, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Rachel Wilson",
+  "email": "kirstendavis@example.net",
+  "phone": "402-947-0288x1411",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "Computer Vision",
+    "TensorFlow",
+    "FastAPI",
+    "Pandas",
+    "SQL",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0175"
+}

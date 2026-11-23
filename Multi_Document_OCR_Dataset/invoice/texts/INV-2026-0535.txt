@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0535
+Company: Eastern Care Pharmacy
+Company Address: 198 Gulshan Avenue, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 57 Agrabad C/A, Sylhet, Bangladesh
+Invoice Date: 2026-02-21
+Due Date: 2026-03-08
+Currency: BDT
+Subtotal: 2519.58
+Tax: 179.52
+Total: 2573.12
+Balance Due: 2573.12
+Status: unpaid

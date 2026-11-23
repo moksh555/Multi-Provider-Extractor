@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-BR5XHKSC",
+  "patient_name": "Laurie Haynes",
+  "visit_date": "2024-12-20",
+  "doctor_name": "Dr. Dr. Claudia Wilson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0606"
+}

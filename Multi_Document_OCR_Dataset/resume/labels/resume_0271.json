@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Scott Harmon",
+  "email": "cameronnicholas@example.net",
+  "phone": "001-992-961-3826x8709",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "SQL",
+    "Python",
+    "FastAPI",
+    "Deep Learning",
+    "Docker",
+    "PyTorch",
+    "Pandas",
+    "LangChain",
+    "Computer Vision",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0271"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0444
+Company: Eastern Care Pharmacy
+Company Address: 55 Road 12, Banani, Dhaka, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 171 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-04-23
+Due Date: 2026-05-23
+Currency: QAR
+Subtotal: 19487.88
+Tax: 0.0
+Total: 19492.88
+Balance Due: 5198.63
+Status: partial

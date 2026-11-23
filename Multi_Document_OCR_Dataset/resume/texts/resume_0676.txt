@@ -1,0 +1,25 @@
+Resume
+Brandon Fisher
+Software Engineer
+Skills: TensorFlow, Docker, AWS, Pandas, Deep Learning, Streamlit, NLP, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Brandon Fisher",
+  "email": "amysolomon@example.com",
+  "phone": "617-454-0163x7905",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "AWS",
+    "Pandas",
+    "Deep Learning",
+    "Streamlit",
+    "NLP",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0676"
+}

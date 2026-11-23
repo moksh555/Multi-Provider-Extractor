@@ -1,0 +1,49 @@
+Receipt RCT-I4RZPCD1
+Merchant: Carrillo PLC
+Date: 2024-02-04
+Total: $537.52
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-I4RZPCD1",
+  "merchant_name": "Carrillo PLC",
+  "date": "2024-02-04",
+  "subtotal": 493.35,
+  "tax": 51.49,
+  "discount": 7.32,
+  "total": 537.52,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$53.69",
+      "line_total": "$214.76"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$7.56",
+      "line_total": "$22.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$20.18",
+      "line_total": "$80.72"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$47.70",
+      "line_total": "$95.40"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$79.79",
+      "line_total": "$79.79"
+    }
+  ],
+  "sample_id": "receipt_0419"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL101556355",
+  "full_name": "Jennifer Miller",
+  "date_of_birth": "1973-01-23",
+  "class": "D",
+  "issue_date": "2021-08-26",
+  "expiry_date": "2026-08-26",
+  "address": "7937 Hall Views, New John, PW 53928",
+  "sample_id": "driving_license_0627"
+}

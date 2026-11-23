@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RDFX9Y5E",
+  "patient_name": "Stacey Diaz",
+  "visit_date": "2024-07-24",
+  "doctor_name": "Dr. Lindsey Adams",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0945"
+}

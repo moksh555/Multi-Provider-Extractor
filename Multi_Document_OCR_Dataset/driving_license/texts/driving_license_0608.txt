@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brooke Roberts
+License: DL923500690
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL923500690",
+  "full_name": "Brooke Roberts",
+  "date_of_birth": "1969-02-08",
+  "class": "B",
+  "issue_date": "2022-10-05",
+  "expiry_date": "2027-10-05",
+  "address": "984 Montgomery Plains, New Thomasview, SD 04430",
+  "sample_id": "driving_license_0608"
+}

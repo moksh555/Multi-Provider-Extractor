@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Amanda Lee
+Passport No: P35939116
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P35939116",
+  "full_name": "Amanda Lee",
+  "nationality": "BD",
+  "date_of_birth": "1973-07-28",
+  "issue_date": "2020-02-27",
+  "expiry_date": "2030-02-27",
+  "place_of_birth": "Cookhaven",
+  "sample_id": "passport_0471"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL799132274",
+  "full_name": "Ashley Jenkins",
+  "date_of_birth": "1968-10-25",
+  "class": "A",
+  "issue_date": "2026-01-08",
+  "expiry_date": "2031-01-08",
+  "address": "418 Joe Spur, Lesterville, CO 58756",
+  "sample_id": "driving_license_0971"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-4E05QMKTG
+Holder: Scott Stewart
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4E05QMKTG",
+  "policy_holder": "Scott Stewart",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-17",
+  "expiry_date": "2024-06-17",
+  "premium": 2123.47,
+  "coverage_amount": 430769.69,
+  "beneficiary": "Brian Garcia",
+  "sample_id": "insurance_document_0308"
+}

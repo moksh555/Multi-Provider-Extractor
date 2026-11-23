@@ -1,0 +1,16 @@
+Insurance Policy POL-TM4J3DAB4
+Holder: Theresa Reilly
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TM4J3DAB4",
+  "policy_holder": "Theresa Reilly",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-03-29",
+  "expiry_date": "2025-03-29",
+  "premium": 1660.76,
+  "coverage_amount": 342070.67,
+  "beneficiary": "Wayne Payne",
+  "sample_id": "insurance_document_0255"
+}

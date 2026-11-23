@@ -1,0 +1,14 @@
+Medical Report MED-HHM5WKAU
+Patient: Michael Jenkins
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HHM5WKAU",
+  "patient_name": "Michael Jenkins",
+  "visit_date": "2026-04-12",
+  "doctor_name": "Dr. Christopher Harmon",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0907"
+}

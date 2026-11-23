@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0442",
+  "invoice_number": "INV-2026-0442",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "121 Road 12, Banani, Riyadh, Saudi Arabia",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "110 Uttara Sector 7, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-31",
+  "due_date": "2026-06-15",
+  "currency": "AED",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 5,
+      "unit_price": 822.78,
+      "amount": 4113.9
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 330.17,
+      "amount": 1320.68
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 778.43,
+      "amount": 5449.01
+    }
+  ],
+  "subtotal": 10883.59,
+  "discount": 1088.36,
+  "tax_rate": 0.15,
+  "tax": 1469.28,
+  "shipping": 25,
+  "total": 11289.51,
+  "amount_paid": 3090.12,
+  "balance_due": 8199.39,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801089734309",
+  "po_number": "PO-15700"
+}

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0332",
+  "invoice_number": "INV-2026-0332",
+  "company_name": "Golden Harvest Store",
+  "company_address": "76 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "126 Zindabazar Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-22",
+  "due_date": "2026-03-08",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 212.57,
+      "amount": 425.14
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 6,
+      "unit_price": 62.7,
+      "amount": 376.2
+    }
+  ],
+  "subtotal": 801.34,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 120.2,
+  "shipping": 25,
+  "total": 946.54,
+  "amount_paid": 615.94,
+  "balance_due": 330.6,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801800886168",
+  "po_number": "PO-48711"
+}

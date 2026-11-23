@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0366
+Company: Greenline Logistics
+Company Address: 26 Road 12, Banani, Dhaka, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 216 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-02-17
+Due Date: 2026-04-03
+Currency: SAR
+Subtotal: 14821.87
+Tax: 1056.06
+Total: 15136.84
+Balance Due: 15136.84
+Status: overdue

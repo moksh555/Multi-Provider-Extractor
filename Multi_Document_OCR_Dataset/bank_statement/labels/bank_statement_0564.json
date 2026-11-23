@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EXUFQJEG",
+  "account_holder": "Justin Hunter",
+  "account_number_masked": "****7804",
+  "period_start": "2024-04-07",
+  "period_end": "2024-05-07",
+  "opening_balance": 1942.89,
+  "closing_balance": 5489.5,
+  "transactions": 13,
+  "sample_id": "bank_statement_0564"
+}

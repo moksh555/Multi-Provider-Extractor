@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-14HOAE52",
+  "account_holder": "Teresa Graham",
+  "account_number_masked": "****2903",
+  "period_start": "2026-11-02",
+  "period_end": "2026-12-02",
+  "opening_balance": 2499.93,
+  "closing_balance": 2618.21,
+  "transactions": 12,
+  "sample_id": "bank_statement_0032"
+}

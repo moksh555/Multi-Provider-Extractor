@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-TQCF8YTJ",
+  "patient_name": "Jill Foster",
+  "visit_date": "2026-08-12",
+  "doctor_name": "Dr. Daniel Taylor",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0136"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-K59XHPFR",
+  "patient_name": "Dawn Quinn",
+  "visit_date": "2024-05-09",
+  "doctor_name": "Dr. Carol Gibson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0435"
+}

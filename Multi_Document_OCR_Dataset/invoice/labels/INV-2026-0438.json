@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0438",
+  "invoice_number": "INV-2026-0438",
+  "company_name": "Summit Agro Foods",
+  "company_address": "33 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+  "customer_name": "TechPoint BD",
+  "billing_address": "152 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-04-22",
+  "due_date": "2026-05-22",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 9,
+      "unit_price": 502.79,
+      "amount": 4525.11
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 691.0,
+      "amount": 691.0
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 12,
+      "unit_price": 623.85,
+      "amount": 7486.2
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 96.61,
+      "amount": 289.83
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 581.41,
+      "amount": 3488.46
+    }
+  ],
+  "subtotal": 16480.6,
+  "discount": 1648.06,
+  "tax_rate": 0.05,
+  "tax": 741.63,
+  "shipping": 5,
+  "total": 15579.17,
+  "amount_paid": 0,
+  "balance_due": 15579.17,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801804505184",
+  "po_number": "PO-05906"
+}

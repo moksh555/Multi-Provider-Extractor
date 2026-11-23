@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0700
+Company: BlueRiver Trading Co.
+Company Address: 160 Zindabazar Road, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 179 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-02-08
+Due Date: 2026-02-23
+Currency: AED
+Subtotal: 9677.68
+Tax: 948.41
+Total: 10432.54
+Balance Due: 6151.33
+Status: partial

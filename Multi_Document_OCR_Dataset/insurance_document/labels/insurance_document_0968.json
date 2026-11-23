@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AW4OTUO4U",
+  "policy_holder": "Robert Mclean",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-03-03",
+  "expiry_date": "2026-03-03",
+  "premium": 1897.37,
+  "coverage_amount": 356305.5,
+  "beneficiary": "Ann Fernandez",
+  "sample_id": "insurance_document_0968"
+}

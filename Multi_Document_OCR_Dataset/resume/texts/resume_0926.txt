@@ -1,0 +1,25 @@
+Resume
+Deborah Vaughn
+Data Analyst
+Skills: Deep Learning, Computer Vision, Machine Learning, NLP, Python, LangChain, AWS, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Deborah Vaughn",
+  "email": "mark27@example.com",
+  "phone": "8504875505",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "Computer Vision",
+    "Machine Learning",
+    "NLP",
+    "Python",
+    "LangChain",
+    "AWS",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0926"
+}

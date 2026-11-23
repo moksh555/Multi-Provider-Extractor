@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-J5HRATRY",
+  "account_holder": "Erica Walton",
+  "account_number_masked": "****6602",
+  "period_start": "2026-10-02",
+  "period_end": "2026-11-01",
+  "opening_balance": 3777.25,
+  "closing_balance": 6692.34,
+  "transactions": 9,
+  "sample_id": "bank_statement_0871"
+}

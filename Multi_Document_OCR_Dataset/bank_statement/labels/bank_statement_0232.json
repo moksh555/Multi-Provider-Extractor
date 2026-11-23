@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FVTACBLQ",
+  "account_holder": "Ashley Maxwell",
+  "account_number_masked": "****4663",
+  "period_start": "2025-04-23",
+  "period_end": "2025-05-23",
+  "opening_balance": 2535.56,
+  "closing_balance": 5761.63,
+  "transactions": 10,
+  "sample_id": "bank_statement_0232"
+}

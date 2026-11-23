@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0401
+Company: Nexus Digital Solutions
+Company Address: 174 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Future School
+Billing Address: 161 Agrabad C/A, Sylhet, Bangladesh
+Invoice Date: 2026-01-14
+Due Date: 2026-02-13
+Currency: USD
+Subtotal: 11932.86
+Tax: 1133.62
+Total: 12474.84
+Balance Due: 4201.1
+Status: partial

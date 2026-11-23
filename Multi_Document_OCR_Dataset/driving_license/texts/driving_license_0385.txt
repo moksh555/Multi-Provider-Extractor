@@ -1,0 +1,16 @@
+Synthetic Driving License
+Edward Brown
+License: DL712430609
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL712430609",
+  "full_name": "Edward Brown",
+  "date_of_birth": "1976-01-10",
+  "class": "B",
+  "issue_date": "2020-05-08",
+  "expiry_date": "2025-05-08",
+  "address": "USNV Powers, FPO AE 52522",
+  "sample_id": "driving_license_0385"
+}

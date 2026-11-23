@@ -1,0 +1,61 @@
+Receipt RCT-AJ8X2BH2
+Merchant: Gutierrez-Schultz
+Date: 2025-03-19
+Total: $863.60
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AJ8X2BH2",
+  "merchant_name": "Gutierrez-Schultz",
+  "date": "2025-03-19",
+  "subtotal": 837.18,
+  "tax": 34.38,
+  "discount": 7.96,
+  "total": 863.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$38.39",
+      "line_total": "$153.56"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$27.59",
+      "line_total": "$110.36"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$65.53",
+      "line_total": "$196.59"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$30.90",
+      "line_total": "$123.60"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$69.97",
+      "line_total": "$209.91"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$37.10",
+      "line_total": "$37.10"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$3.03",
+      "line_total": "$6.06"
+    }
+  ],
+  "sample_id": "receipt_0279"
+}

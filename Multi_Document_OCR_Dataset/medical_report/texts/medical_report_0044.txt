@@ -1,0 +1,14 @@
+Medical Report MED-A9JZXA55
+Patient: Nancy Barry
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-A9JZXA55",
+  "patient_name": "Nancy Barry",
+  "visit_date": "2026-05-02",
+  "doctor_name": "Dr. Mark Campbell",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0044"
+}

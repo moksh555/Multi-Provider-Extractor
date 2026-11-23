@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andrew Stewart
+License: DL883481367
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL883481367",
+  "full_name": "Andrew Stewart",
+  "date_of_birth": "1966-05-28",
+  "class": "B",
+  "issue_date": "2026-10-31",
+  "expiry_date": "2031-10-31",
+  "address": "537 Wilkerson Row, Thomasberg, IA 98148",
+  "sample_id": "driving_license_0005"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-2BUZRAKM
+Holder: Norman Hughes
+Closing Balance: $7632.09
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2BUZRAKM",
+  "account_holder": "Norman Hughes",
+  "account_number_masked": "****6072",
+  "period_start": "2024-08-22",
+  "period_end": "2024-09-21",
+  "opening_balance": 3673.25,
+  "closing_balance": 7632.09,
+  "transactions": 12,
+  "sample_id": "bank_statement_0296"
+}

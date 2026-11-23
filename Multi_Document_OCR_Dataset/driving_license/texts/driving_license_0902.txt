@@ -1,0 +1,16 @@
+Synthetic Driving License
+Victor Wilson
+License: DL478065822
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL478065822",
+  "full_name": "Victor Wilson",
+  "date_of_birth": "2003-11-05",
+  "class": "D",
+  "issue_date": "2026-02-12",
+  "expiry_date": "2031-02-12",
+  "address": "735 Young Wall, South Brandon, IN 85060",
+  "sample_id": "driving_license_0902"
+}

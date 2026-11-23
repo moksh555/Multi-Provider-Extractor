@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0539",
+  "invoice_number": "INV-2026-0539",
+  "company_name": "Delta Insurance Services",
+  "company_address": "148 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "247 Dhanmondi 27, Dubai, UAE",
+  "invoice_date": "2026-03-07",
+  "due_date": "2026-04-21",
+  "currency": "SAR",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 317.64,
+      "amount": 635.28
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 81.36,
+      "amount": 976.32
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 9,
+      "unit_price": 636.59,
+      "amount": 5729.31
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 798.12,
+      "amount": 798.12
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 408.27,
+      "amount": 3266.16
+    }
+  ],
+  "subtotal": 11405.19,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1140.52,
+  "shipping": 50,
+  "total": 12595.71,
+  "amount_paid": 0,
+  "balance_due": 12595.71,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801517304850",
+  "po_number": "PO-93743"
+}

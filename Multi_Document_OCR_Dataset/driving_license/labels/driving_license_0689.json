@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL897663773",
+  "full_name": "Ronald Brown",
+  "date_of_birth": "1999-03-15",
+  "class": "B",
+  "issue_date": "2022-08-13",
+  "expiry_date": "2027-08-13",
+  "address": "6876 Dale Vista, Katherineshire, WV 15152",
+  "sample_id": "driving_license_0689"
+}

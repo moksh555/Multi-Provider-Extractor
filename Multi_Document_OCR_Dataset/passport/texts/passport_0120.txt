@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Carrie Smith
+Passport No: P62041353
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P62041353",
+  "full_name": "Carrie Smith",
+  "nationality": "CA",
+  "date_of_birth": "1997-03-02",
+  "issue_date": "2026-02-28",
+  "expiry_date": "2036-02-28",
+  "place_of_birth": "Jordanmouth",
+  "sample_id": "passport_0120"
+}

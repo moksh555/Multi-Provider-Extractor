@@ -1,0 +1,16 @@
+Insurance Policy POL-VWRXGKIKR
+Holder: Sally Evans
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VWRXGKIKR",
+  "policy_holder": "Sally Evans",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-05-09",
+  "expiry_date": "2027-05-09",
+  "premium": 969.96,
+  "coverage_amount": 245669.94,
+  "beneficiary": "Margaret Solomon",
+  "sample_id": "insurance_document_0836"
+}

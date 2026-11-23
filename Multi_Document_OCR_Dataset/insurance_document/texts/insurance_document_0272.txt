@@ -1,0 +1,16 @@
+Insurance Policy POL-39MOFT6YR
+Holder: Debra Mitchell
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-39MOFT6YR",
+  "policy_holder": "Debra Mitchell",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-01-06",
+  "expiry_date": "2024-01-06",
+  "premium": 150.34,
+  "coverage_amount": 53611.39,
+  "beneficiary": "Michael Young",
+  "sample_id": "insurance_document_0272"
+}

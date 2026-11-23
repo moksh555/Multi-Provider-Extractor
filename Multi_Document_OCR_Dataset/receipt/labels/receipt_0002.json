@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZMF8MDD4",
+  "merchant_name": "Baldwin Ltd",
+  "date": "2023-12-20",
+  "subtotal": 235.81,
+  "tax": 8.05,
+  "discount": 3.42,
+  "total": 240.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$77.88",
+      "line_total": "$77.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$44.61",
+      "line_total": "$44.61"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$56.66",
+      "line_total": "$113.32"
+    }
+  ],
+  "sample_id": "receipt_0002"
+}

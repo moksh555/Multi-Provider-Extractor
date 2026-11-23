@@ -1,0 +1,26 @@
+Resume
+Alejandro Villegas
+Computer Vision Engineer
+Skills: AWS, Machine Learning, PyTorch, Streamlit, Docker, LangChain, Pandas, FastAPI, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Alejandro Villegas",
+  "email": "sharon87@example.net",
+  "phone": "959-905-1823",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "PyTorch",
+    "Streamlit",
+    "Docker",
+    "LangChain",
+    "Pandas",
+    "FastAPI",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0529"
+}

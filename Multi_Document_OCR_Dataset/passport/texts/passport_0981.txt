@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Chelsea Larson
+Passport No: P00604462
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P00604462",
+  "full_name": "Chelsea Larson",
+  "nationality": "CA",
+  "date_of_birth": "1985-03-10",
+  "issue_date": "2022-02-26",
+  "expiry_date": "2032-02-26",
+  "place_of_birth": "Debraville",
+  "sample_id": "passport_0981"
+}

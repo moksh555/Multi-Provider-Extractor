@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OT10GDMIP",
+  "policy_holder": "Sharon Shelton",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-08-19",
+  "expiry_date": "2024-08-19",
+  "premium": 2425.58,
+  "coverage_amount": 237572.33,
+  "beneficiary": "Brenda Davidson",
+  "sample_id": "insurance_document_0940"
+}

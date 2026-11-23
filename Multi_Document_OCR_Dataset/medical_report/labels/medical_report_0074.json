@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-F5LNJIHE",
+  "patient_name": "Chelsea Jacobson",
+  "visit_date": "2024-03-07",
+  "doctor_name": "Dr. Jason Oconnell",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0074"
+}

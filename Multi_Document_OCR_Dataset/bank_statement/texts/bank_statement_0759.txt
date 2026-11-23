@@ -1,0 +1,16 @@
+Bank Statement STM-FGSM897J
+Holder: Jared Smith
+Closing Balance: $-534.60
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FGSM897J",
+  "account_holder": "Jared Smith",
+  "account_number_masked": "****3694",
+  "period_start": "2025-02-07",
+  "period_end": "2025-03-09",
+  "opening_balance": 1040.54,
+  "closing_balance": -534.6,
+  "transactions": 13,
+  "sample_id": "bank_statement_0759"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0501",
+  "invoice_number": "INV-2026-0501",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "136 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "121 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-02",
+  "due_date": "2026-04-17",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 706.35,
+      "amount": 706.35
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 4,
+      "unit_price": 612.1,
+      "amount": 2448.4
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 532.3,
+      "amount": 532.3
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 170.51,
+      "amount": 1023.06
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 1,
+      "unit_price": 164.86,
+      "amount": 164.86
+    }
+  ],
+  "subtotal": 4874.97,
+  "discount": 97.5,
+  "tax_rate": 0.1,
+  "tax": 477.75,
+  "shipping": 0,
+  "total": 5255.22,
+  "amount_paid": 0,
+  "balance_due": 5255.22,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801121026188",
+  "po_number": "PO-67340"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-FP9SD021
+Patient: Daniel Burke
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-FP9SD021",
+  "patient_name": "Daniel Burke",
+  "visit_date": "2024-07-03",
+  "doctor_name": "Dr. Julie Murphy",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0380"
+}

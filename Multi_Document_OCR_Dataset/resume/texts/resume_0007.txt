@@ -1,0 +1,24 @@
+Resume
+Paige Baird
+Data Analyst
+Skills: Pandas, SQL, Computer Vision, FastAPI, PyTorch, TensorFlow, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Paige Baird",
+  "email": "sarah17@example.com",
+  "phone": "485-317-7741x27469",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "SQL",
+    "Computer Vision",
+    "FastAPI",
+    "PyTorch",
+    "TensorFlow",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0007"
+}

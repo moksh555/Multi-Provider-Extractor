@@ -1,0 +1,14 @@
+Medical Report MED-MJ7NPJO0
+Patient: Lindsay Howard
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MJ7NPJO0",
+  "patient_name": "Lindsay Howard",
+  "visit_date": "2026-02-14",
+  "doctor_name": "Dr. Kent Gallagher Jr.",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0824"
+}

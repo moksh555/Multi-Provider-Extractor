@@ -1,0 +1,16 @@
+Bank Statement STM-EGURT1RW
+Holder: Tricia Bailey
+Closing Balance: $9123.09
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EGURT1RW",
+  "account_holder": "Tricia Bailey",
+  "account_number_masked": "****0405",
+  "period_start": "2026-02-20",
+  "period_end": "2026-03-22",
+  "opening_balance": 4098.46,
+  "closing_balance": 9123.09,
+  "transactions": 11,
+  "sample_id": "bank_statement_0316"
+}

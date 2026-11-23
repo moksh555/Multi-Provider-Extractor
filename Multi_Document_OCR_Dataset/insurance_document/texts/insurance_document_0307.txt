@@ -1,0 +1,16 @@
+Insurance Policy POL-WLVUNLPAI
+Holder: Kristina Martinez
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WLVUNLPAI",
+  "policy_holder": "Kristina Martinez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-12-29",
+  "expiry_date": "2027-12-29",
+  "premium": 1880.76,
+  "coverage_amount": 223700.79,
+  "beneficiary": "Cheryl Montgomery",
+  "sample_id": "insurance_document_0307"
+}

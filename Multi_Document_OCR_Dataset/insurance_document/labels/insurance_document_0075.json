@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B2BNE6LOH",
+  "policy_holder": "Anthony Hoffman",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-01-19",
+  "expiry_date": "2026-01-19",
+  "premium": 1383.43,
+  "coverage_amount": 457608.62,
+  "beneficiary": "Dylan Hughes",
+  "sample_id": "insurance_document_0075"
+}

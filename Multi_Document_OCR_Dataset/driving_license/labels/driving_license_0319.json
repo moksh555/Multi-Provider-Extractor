@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL579769714",
+  "full_name": "Sarah Young",
+  "date_of_birth": "1989-10-04",
+  "class": "A",
+  "issue_date": "2020-06-04",
+  "expiry_date": "2025-06-04",
+  "address": "950 Ashley Squares Suite 197, East Jessicahaven, PR 98881",
+  "sample_id": "driving_license_0319"
+}

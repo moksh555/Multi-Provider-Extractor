@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Sabrina Sanchez",
+  "email": "qlara@example.org",
+  "phone": "001-716-578-5984x4408",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "PyTorch",
+    "TensorFlow",
+    "Machine Learning",
+    "AWS",
+    "Computer Vision",
+    "FastAPI",
+    "Pandas",
+    "LangChain",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0396"
+}

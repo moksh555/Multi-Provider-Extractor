@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B2SEREV36",
+  "policy_holder": "Lori Chavez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-12-05",
+  "expiry_date": "2026-12-05",
+  "premium": 1121.23,
+  "coverage_amount": 438663.91,
+  "beneficiary": "Jeffrey Oliver",
+  "sample_id": "insurance_document_0320"
+}

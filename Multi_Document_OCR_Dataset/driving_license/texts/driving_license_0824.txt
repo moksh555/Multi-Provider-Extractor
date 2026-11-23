@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Henry
+License: DL346023286
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL346023286",
+  "full_name": "James Henry",
+  "date_of_birth": "1973-11-28",
+  "class": "C",
+  "issue_date": "2020-12-18",
+  "expiry_date": "2025-12-18",
+  "address": "64534 Buck Green Suite 223, Port Barry, MS 48286",
+  "sample_id": "driving_license_0824"
+}

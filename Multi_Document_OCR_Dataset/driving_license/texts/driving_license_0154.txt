@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Donaldson
+License: DL273424259
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL273424259",
+  "full_name": "Jennifer Donaldson",
+  "date_of_birth": "1984-05-14",
+  "class": "A",
+  "issue_date": "2021-07-16",
+  "expiry_date": "2026-07-16",
+  "address": "5458 Ashlee Oval Suite 001, Smithburgh, NV 60337",
+  "sample_id": "driving_license_0154"
+}

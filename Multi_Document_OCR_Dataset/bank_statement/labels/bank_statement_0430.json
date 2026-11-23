@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-33M236MK",
+  "account_holder": "Jessica Burgess",
+  "account_number_masked": "****6068",
+  "period_start": "2026-08-27",
+  "period_end": "2026-09-26",
+  "opening_balance": 2715.53,
+  "closing_balance": 5998.03,
+  "transactions": 11,
+  "sample_id": "bank_statement_0430"
+}

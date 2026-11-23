@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0033
+Company: BlueRiver Trading Co.
+Company Address: 156 Al Barsha, Chattogram, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 83 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-05-09
+Due Date: 2026-05-24
+Currency: USD
+Subtotal: 22010.71
+Tax: 0.0
+Total: 21595.5
+Balance Due: 21595.5
+Status: overdue

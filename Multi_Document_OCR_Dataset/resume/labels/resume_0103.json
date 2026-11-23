@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Justin Figueroa",
+  "email": "jordan25@example.net",
+  "phone": "001-498-351-9393x2727",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "NLP",
+    "Python",
+    "PyTorch",
+    "Deep Learning",
+    "Machine Learning",
+    "TensorFlow",
+    "Pandas",
+    "FastAPI",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0103"
+}

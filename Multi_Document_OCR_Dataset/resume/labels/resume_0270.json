@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Kristopher Allison",
+  "email": "lisa47@example.com",
+  "phone": "911-707-9764",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Deep Learning",
+    "SQL",
+    "Machine Learning",
+    "AWS",
+    "Computer Vision",
+    "FastAPI",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0270"
+}

@@ -1,0 +1,25 @@
+Resume
+Beth Morris
+Backend Developer
+Skills: TensorFlow, PyTorch, FastAPI, SQL, Deep Learning, NLP, LangChain, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Beth Morris",
+  "email": "cheryl67@example.org",
+  "phone": "662-922-1905x33470",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "FastAPI",
+    "SQL",
+    "Deep Learning",
+    "NLP",
+    "LangChain",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0061"
+}

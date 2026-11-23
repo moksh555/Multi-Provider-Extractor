@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0317
+Company: SkyNet Office Mart
+Company Address: 155 Gulshan Avenue, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 58 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-03-04
+Due Date: 2026-03-19
+Currency: AED
+Subtotal: 23191.3
+Tax: 2319.13
+Total: 25535.43
+Balance Due: 0.0
+Status: paid

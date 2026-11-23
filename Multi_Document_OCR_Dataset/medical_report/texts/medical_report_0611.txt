@@ -1,0 +1,14 @@
+Medical Report MED-H17JD3LB
+Patient: Chris Cunningham
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-H17JD3LB",
+  "patient_name": "Chris Cunningham",
+  "visit_date": "2026-06-22",
+  "doctor_name": "Dr. Christopher Vega",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0611"
+}

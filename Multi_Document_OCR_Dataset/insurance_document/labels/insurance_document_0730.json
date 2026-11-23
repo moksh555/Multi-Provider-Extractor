@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J3D6M1FMP",
+  "policy_holder": "Alexandra Hodge",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-01-01",
+  "expiry_date": "2027-01-01",
+  "premium": 1759.42,
+  "coverage_amount": 88737.69,
+  "beneficiary": "Rachel Yang",
+  "sample_id": "insurance_document_0730"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-PR6H2HXN4
+Holder: James Wilkerson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PR6H2HXN4",
+  "policy_holder": "James Wilkerson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-10-21",
+  "expiry_date": "2027-10-21",
+  "premium": 1989.49,
+  "coverage_amount": 430631.07,
+  "beneficiary": "Seth Johnson",
+  "sample_id": "insurance_document_0657"
+}

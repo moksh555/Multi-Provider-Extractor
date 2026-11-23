@@ -1,0 +1,16 @@
+Bank Statement STM-CHYB7TH3
+Holder: Jodi Brewer
+Closing Balance: $2372.62
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CHYB7TH3",
+  "account_holder": "Jodi Brewer",
+  "account_number_masked": "****8151",
+  "period_start": "2025-02-16",
+  "period_end": "2025-03-18",
+  "opening_balance": 851.87,
+  "closing_balance": 2372.62,
+  "transactions": 12,
+  "sample_id": "bank_statement_0604"
+}

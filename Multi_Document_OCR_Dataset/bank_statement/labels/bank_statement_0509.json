@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2ATXAB0G",
+  "account_holder": "Dr. Ellen Bruce",
+  "account_number_masked": "****7568",
+  "period_start": "2026-04-15",
+  "period_end": "2026-05-15",
+  "opening_balance": 3505.12,
+  "closing_balance": 7432.47,
+  "transactions": 12,
+  "sample_id": "bank_statement_0509"
+}

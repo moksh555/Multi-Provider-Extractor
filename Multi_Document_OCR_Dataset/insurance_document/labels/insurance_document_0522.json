@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AELYYZZ0J",
+  "policy_holder": "Kayla Thomas",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-02-14",
+  "expiry_date": "2027-02-14",
+  "premium": 259.83,
+  "coverage_amount": 173102.64,
+  "beneficiary": "Patty Gonzalez",
+  "sample_id": "insurance_document_0522"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-D41CZJE2",
+  "patient_name": "Russell Munoz",
+  "visit_date": "2026-10-31",
+  "doctor_name": "Dr. Laura Dalton",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0871"
+}

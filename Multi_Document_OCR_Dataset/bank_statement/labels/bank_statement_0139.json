@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-IVDTS8MG",
+  "account_holder": "Valerie Lopez",
+  "account_number_masked": "****1672",
+  "period_start": "2024-05-09",
+  "period_end": "2024-06-08",
+  "opening_balance": 2877.6,
+  "closing_balance": 6144.06,
+  "transactions": 10,
+  "sample_id": "bank_statement_0139"
+}

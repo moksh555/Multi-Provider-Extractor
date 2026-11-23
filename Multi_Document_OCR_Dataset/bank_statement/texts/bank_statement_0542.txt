@@ -1,0 +1,16 @@
+Bank Statement STM-RG8YGJ9K
+Holder: Sherry Chapman
+Closing Balance: $9317.61
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RG8YGJ9K",
+  "account_holder": "Sherry Chapman",
+  "account_number_masked": "****6221",
+  "period_start": "2026-12-11",
+  "period_end": "2027-01-10",
+  "opening_balance": 4245.28,
+  "closing_balance": 9317.61,
+  "transactions": 14,
+  "sample_id": "bank_statement_0542"
+}

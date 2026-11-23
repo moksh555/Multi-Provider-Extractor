@@ -1,0 +1,16 @@
+Bank Statement STM-XKQKP90N
+Holder: Andrew Gibson
+Closing Balance: $7124.92
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XKQKP90N",
+  "account_holder": "Andrew Gibson",
+  "account_number_masked": "****4577",
+  "period_start": "2024-09-13",
+  "period_end": "2024-10-13",
+  "opening_balance": 2582.66,
+  "closing_balance": 7124.92,
+  "transactions": 9,
+  "sample_id": "bank_statement_0682"
+}

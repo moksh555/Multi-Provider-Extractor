@@ -1,0 +1,14 @@
+Medical Report MED-2QF2KT9J
+Patient: Anthony Berry
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2QF2KT9J",
+  "patient_name": "Anthony Berry",
+  "visit_date": "2025-06-11",
+  "doctor_name": "Dr. David Cantu",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0597"
+}

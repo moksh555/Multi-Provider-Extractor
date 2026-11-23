@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Jonathan Maxwell",
+  "email": "williamsjeffrey@example.com",
+  "phone": "(953)236-3305x7543",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "AWS",
+    "Streamlit",
+    "NLP",
+    "PyTorch",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0414"
+}

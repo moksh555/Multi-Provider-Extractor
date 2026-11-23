@@ -1,0 +1,16 @@
+Bank Statement STM-6ELCANRT
+Holder: Renee Ortega
+Closing Balance: $6701.00
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6ELCANRT",
+  "account_holder": "Renee Ortega",
+  "account_number_masked": "****8697",
+  "period_start": "2025-10-16",
+  "period_end": "2025-11-15",
+  "opening_balance": 4940.38,
+  "closing_balance": 6701.0,
+  "transactions": 14,
+  "sample_id": "bank_statement_0488"
+}

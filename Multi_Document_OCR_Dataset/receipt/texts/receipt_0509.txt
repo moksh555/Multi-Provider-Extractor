@@ -1,0 +1,67 @@
+Receipt RCT-876795F9
+Merchant: Smith-Bennett
+Date: 2026-12-23
+Total: $772.29
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-876795F9",
+  "merchant_name": "Smith-Bennett",
+  "date": "2026-12-23",
+  "subtotal": 750.76,
+  "tax": 34.67,
+  "discount": 13.14,
+  "total": 772.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$34.57",
+      "line_total": "$138.28"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$25.94",
+      "line_total": "$77.82"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$16.51",
+      "line_total": "$16.51"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$62.03",
+      "line_total": "$248.12"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$70.10",
+      "line_total": "$70.10"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$72.17",
+      "line_total": "$144.34"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$45.25",
+      "line_total": "$45.25"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$5.17",
+      "line_total": "$10.34"
+    }
+  ],
+  "sample_id": "receipt_0509"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0346",
+  "invoice_number": "INV-2026-0346",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "173 Al Barsha, Dubai, UAE",
+  "customer_name": "Global Mart",
+  "billing_address": "40 Doha Business Park, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-01-08",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 5,
+      "unit_price": 702.85,
+      "amount": 3514.25
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 11,
+      "unit_price": 89.33,
+      "amount": 982.63
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 1,
+      "unit_price": 21.66,
+      "amount": 21.66
+    }
+  ],
+  "subtotal": 4518.54,
+  "discount": 90.37,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 4433.17,
+  "amount_paid": 0,
+  "balance_due": 4433.17,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801286041960",
+  "po_number": "PO-53336"
+}

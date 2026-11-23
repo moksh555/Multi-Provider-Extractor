@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Michelle Gonzalez",
+  "email": "christopherdiaz@example.net",
+  "phone": "(365)249-3478x12688",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "Python",
+    "Deep Learning",
+    "AWS",
+    "Computer Vision",
+    "Docker",
+    "Pandas",
+    "SQL",
+    "Streamlit",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0974"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Stacy Freeman
+License: DL485329247
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL485329247",
+  "full_name": "Stacy Freeman",
+  "date_of_birth": "1993-12-31",
+  "class": "A",
+  "issue_date": "2023-10-09",
+  "expiry_date": "2028-10-09",
+  "address": "43161 Scott Square, Rebeccaton, MD 07856",
+  "sample_id": "driving_license_0051"
+}

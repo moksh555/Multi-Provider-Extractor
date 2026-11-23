@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Shawn Hawkins",
+  "email": "danielgood@example.net",
+  "phone": "001-224-813-7173",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "Deep Learning",
+    "FastAPI",
+    "Python",
+    "Docker",
+    "Streamlit",
+    "AWS",
+    "LangChain",
+    "SQL",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0570"
+}

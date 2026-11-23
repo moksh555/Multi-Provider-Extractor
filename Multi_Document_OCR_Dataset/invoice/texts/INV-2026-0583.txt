@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0583
+Company: BlueRiver Trading Co.
+Company Address: 65 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 1 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-27
+Due Date: 2026-04-26
+Currency: USD
+Subtotal: 17169.89
+Tax: 1261.99
+Total: 18093.48
+Balance Due: 18093.48
+Status: unpaid

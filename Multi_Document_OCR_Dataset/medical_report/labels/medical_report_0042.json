@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-VMVZD3T7",
+  "patient_name": "Gary Jenkins",
+  "visit_date": "2025-01-21",
+  "doctor_name": "Dr. Tracy Lopez",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0042"
+}

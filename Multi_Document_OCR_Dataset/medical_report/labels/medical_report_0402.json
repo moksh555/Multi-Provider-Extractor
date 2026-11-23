@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-2A3685MH",
+  "patient_name": "Kathy Wood",
+  "visit_date": "2026-01-18",
+  "doctor_name": "Dr. Stephanie Burns",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0402"
+}

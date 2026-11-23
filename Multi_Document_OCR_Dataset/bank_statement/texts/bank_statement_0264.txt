@@ -1,0 +1,16 @@
+Bank Statement STM-4SJU6UQV
+Holder: Cody Berry
+Closing Balance: $5533.81
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4SJU6UQV",
+  "account_holder": "Cody Berry",
+  "account_number_masked": "****4657",
+  "period_start": "2025-10-08",
+  "period_end": "2025-11-07",
+  "opening_balance": 1225.53,
+  "closing_balance": 5533.81,
+  "transactions": 14,
+  "sample_id": "bank_statement_0264"
+}

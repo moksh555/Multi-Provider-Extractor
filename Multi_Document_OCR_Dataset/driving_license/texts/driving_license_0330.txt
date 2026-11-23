@@ -1,0 +1,16 @@
+Synthetic Driving License
+Christina Long
+License: DL955947327
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL955947327",
+  "full_name": "Christina Long",
+  "date_of_birth": "1986-02-08",
+  "class": "D",
+  "issue_date": "2021-07-02",
+  "expiry_date": "2026-07-02",
+  "address": "86391 Baldwin Cove, North Chadview, WI 58943",
+  "sample_id": "driving_license_0330"
+}

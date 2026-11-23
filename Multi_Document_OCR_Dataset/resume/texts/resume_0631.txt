@@ -1,0 +1,26 @@
+Resume
+Alexander Goodman
+Data Analyst
+Skills: Pandas, TensorFlow, SQL, Computer Vision, Docker, Deep Learning, Machine Learning, FastAPI, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Alexander Goodman",
+  "email": "curtis00@example.com",
+  "phone": "904-851-5699x332",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "Pandas",
+    "TensorFlow",
+    "SQL",
+    "Computer Vision",
+    "Docker",
+    "Deep Learning",
+    "Machine Learning",
+    "FastAPI",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0631"
+}

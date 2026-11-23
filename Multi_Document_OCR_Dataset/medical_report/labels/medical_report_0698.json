@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-018L15XP",
+  "patient_name": "William Beltran",
+  "visit_date": "2026-05-20",
+  "doctor_name": "Dr. Alex Baldwin",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0698"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-T7RLMZ40
+Patient: Sean Garcia
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-T7RLMZ40",
+  "patient_name": "Sean Garcia",
+  "visit_date": "2025-08-03",
+  "doctor_name": "Dr. April Hudson DVM",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0865"
+}

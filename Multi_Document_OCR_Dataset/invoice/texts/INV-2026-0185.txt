@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0185
+Company: Eastern Care Pharmacy
+Company Address: 88 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 44 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-03-25
+Due Date: 2026-04-09
+Currency: USD
+Subtotal: 2687.7
+Tax: 191.5
+Total: 2744.82
+Balance Due: 0.0
+Status: paid

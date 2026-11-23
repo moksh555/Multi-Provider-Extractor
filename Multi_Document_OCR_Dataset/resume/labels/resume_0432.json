@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Christina Reed",
+  "email": "twagner@example.com",
+  "phone": "(613)680-5951",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Python",
+    "Pandas",
+    "TensorFlow",
+    "Computer Vision",
+    "Streamlit",
+    "Deep Learning",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0432"
+}

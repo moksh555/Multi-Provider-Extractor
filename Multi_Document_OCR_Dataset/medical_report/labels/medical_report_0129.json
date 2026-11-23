@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JRRX0TT4",
+  "patient_name": "Richard Watson",
+  "visit_date": "2024-01-11",
+  "doctor_name": "Dr. Charles Gonzalez",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0129"
+}

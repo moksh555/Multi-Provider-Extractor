@@ -1,0 +1,14 @@
+Medical Report MED-75JF82H9
+Patient: Christopher Becker
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-75JF82H9",
+  "patient_name": "Christopher Becker",
+  "visit_date": "2024-11-23",
+  "doctor_name": "Dr. Dawn Jackson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0644"
+}

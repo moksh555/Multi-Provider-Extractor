@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-KOJ1VT4V",
+  "patient_name": "Veronica Jackson",
+  "visit_date": "2025-11-30",
+  "doctor_name": "Dr. Kristen Valenzuela",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0921"
+}

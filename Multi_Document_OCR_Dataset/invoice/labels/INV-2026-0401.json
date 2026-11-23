@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0401",
+  "invoice_number": "INV-2026-0401",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "174 Mirpur DOHS, Riyadh, Saudi Arabia",
+  "customer_name": "Future School",
+  "billing_address": "161 Agrabad C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-14",
+  "due_date": "2026-02-13",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 585.29,
+      "amount": 3511.74
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 33.79,
+      "amount": 33.79
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 3,
+      "unit_price": 243.42,
+      "amount": 730.26
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 663.4,
+      "amount": 1990.2
+    },
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 233.93,
+      "amount": 1403.58
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 339.05,
+      "amount": 3051.45
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 173.12,
+      "amount": 1211.84
+    }
+  ],
+  "subtotal": 11932.86,
+  "discount": 596.64,
+  "tax_rate": 0.1,
+  "tax": 1133.62,
+  "shipping": 5,
+  "total": 12474.84,
+  "amount_paid": 8273.74,
+  "balance_due": 4201.1,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801266155238",
+  "po_number": "PO-81999"
+}

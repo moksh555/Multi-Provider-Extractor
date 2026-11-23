@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0920
+Company: Nexus Digital Solutions
+Company Address: 64 Sheikh Zayed Road, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 210 Uttara Sector 7, Doha, Qatar
+Invoice Date: 2026-02-25
+Due Date: 2026-04-11
+Currency: AED
+Subtotal: 15730.36
+Tax: 786.52
+Total: 16516.88
+Balance Due: 8490.31
+Status: partial

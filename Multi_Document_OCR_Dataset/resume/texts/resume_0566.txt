@@ -1,0 +1,25 @@
+Resume
+Richard Hull
+Computer Vision Engineer
+Skills: SQL, Machine Learning, Deep Learning, PyTorch, AWS, Docker, Python, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Richard Hull",
+  "email": "bridget54@example.com",
+  "phone": "001-517-636-5854x0591",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "PyTorch",
+    "AWS",
+    "Docker",
+    "Python",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0566"
+}

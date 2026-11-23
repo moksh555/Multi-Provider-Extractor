@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0240
+Company: PrimeSoft Technologies
+Company Address: 121 Motijheel C/A, Sylhet, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 217 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-24
+Due Date: 2026-08-08
+Currency: AED
+Subtotal: 13047.2
+Tax: 0.0
+Total: 13072.2
+Balance Due: 0.0
+Status: paid

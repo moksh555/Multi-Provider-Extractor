@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GF1C8WQUU",
+  "policy_holder": "Jason Maxwell",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-08-09",
+  "expiry_date": "2027-08-09",
+  "premium": 1632.01,
+  "coverage_amount": 316015.67,
+  "beneficiary": "Kristin Haney",
+  "sample_id": "insurance_document_0098"
+}

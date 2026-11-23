@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Patricia Moore
+Passport No: P38670743
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P38670743",
+  "full_name": "Patricia Moore",
+  "nationality": "AE",
+  "date_of_birth": "1982-10-22",
+  "issue_date": "2026-05-16",
+  "expiry_date": "2036-05-16",
+  "place_of_birth": "North Christian",
+  "sample_id": "passport_0639"
+}

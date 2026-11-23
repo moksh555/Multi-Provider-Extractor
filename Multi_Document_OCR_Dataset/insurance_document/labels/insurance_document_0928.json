@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CCDUEFS4U",
+  "policy_holder": "Mary Terry",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-06-03",
+  "expiry_date": "2027-06-03",
+  "premium": 1667.41,
+  "coverage_amount": 103534.85,
+  "beneficiary": "Adam Oliver",
+  "sample_id": "insurance_document_0928"
+}

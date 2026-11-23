@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Bonnie Hughes",
+  "email": "kdavies@example.com",
+  "phone": "810.701.1233x01679",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Computer Vision",
+    "Machine Learning",
+    "Pandas",
+    "LangChain",
+    "NLP",
+    "PyTorch",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0782"
+}

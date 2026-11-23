@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0780
+Company: Golden Harvest Store
+Company Address: 145 Motijheel C/A, Doha, Qatar
+Customer: TechPoint BD
+Billing Address: 85 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-02-17
+Due Date: 2026-02-24
+Currency: AED
+Subtotal: 13600.92
+Tax: 0.0
+Total: 13610.92
+Balance Due: 13610.92
+Status: overdue

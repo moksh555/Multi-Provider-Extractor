@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0479
+Company: Delta Insurance Services
+Company Address: 12 Gulshan Avenue, Doha, Qatar
+Customer: TechPoint BD
+Billing Address: 29 Jumeirah Lake Towers, Sylhet, Bangladesh
+Invoice Date: 2026-03-09
+Due Date: 2026-03-16
+Currency: SAR
+Subtotal: 26781.75
+Tax: 2008.63
+Total: 28840.38
+Balance Due: 19917.86
+Status: partial

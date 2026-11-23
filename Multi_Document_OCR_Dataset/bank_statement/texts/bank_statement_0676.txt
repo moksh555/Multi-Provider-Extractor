@@ -1,0 +1,16 @@
+Bank Statement STM-UN9WOQIH
+Holder: Susan Green
+Closing Balance: $5239.23
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UN9WOQIH",
+  "account_holder": "Susan Green",
+  "account_number_masked": "****2904",
+  "period_start": "2025-01-28",
+  "period_end": "2025-02-27",
+  "opening_balance": 2247.04,
+  "closing_balance": 5239.23,
+  "transactions": 10,
+  "sample_id": "bank_statement_0676"
+}

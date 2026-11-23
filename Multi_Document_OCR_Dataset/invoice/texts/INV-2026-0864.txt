@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0864
+Company: Golden Harvest Store
+Company Address: 160 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Bengal Motors
+Billing Address: 60 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-20
+Due Date: 2026-04-04
+Currency: AED
+Subtotal: 10696.83
+Tax: 1069.68
+Total: 11791.51
+Balance Due: 11791.51
+Status: overdue

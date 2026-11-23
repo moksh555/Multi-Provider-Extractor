@@ -1,0 +1,14 @@
+Medical Report MED-C71X0M8R
+Patient: Danielle Salinas
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-C71X0M8R",
+  "patient_name": "Danielle Salinas",
+  "visit_date": "2025-06-27",
+  "doctor_name": "Dr. Justin Mckinney",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0582"
+}

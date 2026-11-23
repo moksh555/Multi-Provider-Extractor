@@ -1,0 +1,16 @@
+Insurance Policy POL-18PAJSSUU
+Holder: Dustin Welch
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-18PAJSSUU",
+  "policy_holder": "Dustin Welch",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-02-05",
+  "expiry_date": "2026-02-05",
+  "premium": 1050.9,
+  "coverage_amount": 388447.69,
+  "beneficiary": "Christopher Morton",
+  "sample_id": "insurance_document_0186"
+}

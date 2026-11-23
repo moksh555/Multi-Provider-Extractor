@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-92ZI5SGWC",
+  "policy_holder": "Geoffrey Lopez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-05-24",
+  "expiry_date": "2024-05-24",
+  "premium": 2389.71,
+  "coverage_amount": 35532.36,
+  "beneficiary": "Mercedes Garcia",
+  "sample_id": "insurance_document_0628"
+}

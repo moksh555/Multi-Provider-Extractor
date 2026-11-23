@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Angel Delacruz
+Passport No: P94765884
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P94765884",
+  "full_name": "Angel Delacruz",
+  "nationality": "GB",
+  "date_of_birth": "2002-08-17",
+  "issue_date": "2021-03-28",
+  "expiry_date": "2031-03-28",
+  "place_of_birth": "Thomashaven",
+  "sample_id": "passport_0758"
+}

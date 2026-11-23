@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Hunter
+License: DL789135342
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL789135342",
+  "full_name": "James Hunter",
+  "date_of_birth": "1982-03-29",
+  "class": "A",
+  "issue_date": "2021-07-31",
+  "expiry_date": "2026-07-31",
+  "address": "PSC 6805, Box 8911, APO AE 86694",
+  "sample_id": "driving_license_0141"
+}

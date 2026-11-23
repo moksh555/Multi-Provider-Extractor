@@ -1,0 +1,25 @@
+Resume
+Scott Humphrey
+Data Analyst
+Skills: TensorFlow, PyTorch, LangChain, AWS, SQL, Pandas, Machine Learning, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Scott Humphrey",
+  "email": "samuel65@example.org",
+  "phone": "(439)317-2715x4836",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "LangChain",
+    "AWS",
+    "SQL",
+    "Pandas",
+    "Machine Learning",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0864"
+}

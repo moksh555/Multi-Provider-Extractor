@@ -1,0 +1,16 @@
+Bank Statement STM-YWDRKUPC
+Holder: Felicia Matthews
+Closing Balance: $6287.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YWDRKUPC",
+  "account_holder": "Felicia Matthews",
+  "account_number_masked": "****3605",
+  "period_start": "2025-06-22",
+  "period_end": "2025-07-22",
+  "opening_balance": 4450.01,
+  "closing_balance": 6287.36,
+  "transactions": 13,
+  "sample_id": "bank_statement_0033"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-JGNQ1G6L
+Patient: Mario Velazquez
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JGNQ1G6L",
+  "patient_name": "Mario Velazquez",
+  "visit_date": "2025-09-27",
+  "doctor_name": "Dr. Daniel Hopkins",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0004"
+}

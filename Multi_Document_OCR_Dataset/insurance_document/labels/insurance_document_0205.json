@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HCVSQAME4",
+  "policy_holder": "Brenda Hale",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-09-05",
+  "expiry_date": "2026-09-05",
+  "premium": 288.57,
+  "coverage_amount": 197704.26,
+  "beneficiary": "Kevin Alvarado",
+  "sample_id": "insurance_document_0205"
+}

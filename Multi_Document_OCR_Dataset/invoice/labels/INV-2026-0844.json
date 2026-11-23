@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0844",
+  "invoice_number": "INV-2026-0844",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "27 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "78 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-03-13",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 826.86,
+      "amount": 4134.3
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 7,
+      "unit_price": 542.17,
+      "amount": 3795.19
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 9,
+      "unit_price": 383.21,
+      "amount": 3448.89
+    }
+  ],
+  "subtotal": 11378.38,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1137.84,
+  "shipping": 50,
+  "total": 12566.22,
+  "amount_paid": 12566.22,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801105588210",
+  "po_number": "PO-13422"
+}

@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0002",
+  "invoice_number": "INV-2026-0002",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "21 Doha Business Park, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "138 Gulshan Avenue, Dubai, UAE",
+  "invoice_date": "2026-01-21",
+  "due_date": "2026-02-20",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 1,
+      "unit_price": 564.78,
+      "amount": 564.78
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 2,
+      "unit_price": 728.18,
+      "amount": 1456.36
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 242.05,
+      "amount": 1694.35
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 3,
+      "unit_price": 319.69,
+      "amount": 959.07
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 11,
+      "unit_price": 232.8,
+      "amount": 2560.8
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 10,
+      "unit_price": 542.65,
+      "amount": 5426.5
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 12,
+      "unit_price": 214.13,
+      "amount": 2569.56
+    }
+  ],
+  "subtotal": 15231.42,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 2284.71,
+  "shipping": 10,
+  "total": 17526.13,
+  "amount_paid": 7706.73,
+  "balance_due": 9819.4,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801623708840",
+  "po_number": "PO-95724"
+}

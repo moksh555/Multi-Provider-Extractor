@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL022626084",
+  "full_name": "Brad Ramsey",
+  "date_of_birth": "2004-10-26",
+  "class": "B",
+  "issue_date": "2021-02-21",
+  "expiry_date": "2026-02-21",
+  "address": "240 Mccarthy Fall, Donaldmouth, MT 30118",
+  "sample_id": "driving_license_0662"
+}

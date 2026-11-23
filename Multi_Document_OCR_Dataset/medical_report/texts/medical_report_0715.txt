@@ -1,0 +1,14 @@
+Medical Report MED-JJ04EJ7Z
+Patient: Misty Lucero
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JJ04EJ7Z",
+  "patient_name": "Misty Lucero",
+  "visit_date": "2025-06-12",
+  "doctor_name": "Dr. Michael Hancock",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0715"
+}

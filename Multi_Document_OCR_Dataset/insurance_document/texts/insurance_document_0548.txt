@@ -1,0 +1,16 @@
+Insurance Policy POL-YSYZ7PQ4D
+Holder: Joshua Smith
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YSYZ7PQ4D",
+  "policy_holder": "Joshua Smith",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-06-04",
+  "expiry_date": "2027-06-04",
+  "premium": 1570.98,
+  "coverage_amount": 430609.83,
+  "beneficiary": "Karen Duncan",
+  "sample_id": "insurance_document_0548"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0480
+Company: Greenline Logistics
+Company Address: 38 Zindabazar Road, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 125 Jumeirah Lake Towers, Doha, Qatar
+Invoice Date: 2026-06-29
+Due Date: 2026-07-06
+Currency: USD
+Subtotal: 8786.94
+Tax: 1252.14
+Total: 9624.73
+Balance Due: 9624.73
+Status: overdue

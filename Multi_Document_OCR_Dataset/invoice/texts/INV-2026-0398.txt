@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0398
+Company: PrimeSoft Technologies
+Company Address: 184 Dhanmondi 27, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 8 Dhanmondi 27, Chattogram, Bangladesh
+Invoice Date: 2026-05-27
+Due Date: 2026-07-11
+Currency: USD
+Subtotal: 22816.26
+Tax: 3080.19
+Total: 23664.82
+Balance Due: 23664.82
+Status: overdue

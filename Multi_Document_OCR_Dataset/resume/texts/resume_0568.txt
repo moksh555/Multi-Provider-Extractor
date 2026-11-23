@@ -1,0 +1,23 @@
+Resume
+Ebony Ferrell
+Data Analyst
+Skills: Streamlit, Python, PyTorch, Computer Vision, TensorFlow, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Ebony Ferrell",
+  "email": "wallacedonald@example.com",
+  "phone": "(490)810-7932",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "Streamlit",
+    "Python",
+    "PyTorch",
+    "Computer Vision",
+    "TensorFlow",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0568"
+}

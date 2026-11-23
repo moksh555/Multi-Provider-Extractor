@@ -1,0 +1,14 @@
+Medical Report MED-AYOVQ7DV
+Patient: Stephen Peters
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-AYOVQ7DV",
+  "patient_name": "Stephen Peters",
+  "visit_date": "2024-11-04",
+  "doctor_name": "Dr. John Valentine",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0627"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tara Holmes
+License: DL021185687
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL021185687",
+  "full_name": "Tara Holmes",
+  "date_of_birth": "1994-04-25",
+  "class": "D",
+  "issue_date": "2024-01-10",
+  "expiry_date": "2029-01-10",
+  "address": "205 Diana Estate, West Kimberlystad, TN 52293",
+  "sample_id": "driving_license_0245"
+}

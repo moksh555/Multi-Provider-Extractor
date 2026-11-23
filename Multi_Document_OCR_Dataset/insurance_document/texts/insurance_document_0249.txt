@@ -1,0 +1,16 @@
+Insurance Policy POL-POFV177UD
+Holder: Michael Martin
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-POFV177UD",
+  "policy_holder": "Michael Martin",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-01-01",
+  "expiry_date": "2027-01-01",
+  "premium": 2214.72,
+  "coverage_amount": 440167.85,
+  "beneficiary": "Kelly Silva",
+  "sample_id": "insurance_document_0249"
+}

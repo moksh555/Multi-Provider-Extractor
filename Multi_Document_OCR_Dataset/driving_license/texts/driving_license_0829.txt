@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Reeves
+License: DL763251552
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL763251552",
+  "full_name": "Michael Reeves",
+  "date_of_birth": "1995-03-24",
+  "class": "D",
+  "issue_date": "2021-05-30",
+  "expiry_date": "2026-05-30",
+  "address": "62047 Byrd Locks, Onealmouth, SD 68613",
+  "sample_id": "driving_license_0829"
+}

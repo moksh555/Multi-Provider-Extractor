@@ -1,0 +1,23 @@
+Resume
+Brian Acevedo
+Computer Vision Engineer
+Skills: Machine Learning, AWS, Streamlit, PyTorch, Python, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Brian Acevedo",
+  "email": "collinsstacy@example.com",
+  "phone": "632-951-7904",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "AWS",
+    "Streamlit",
+    "PyTorch",
+    "Python",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0296"
+}

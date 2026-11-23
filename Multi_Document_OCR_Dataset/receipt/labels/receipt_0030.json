@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JE153A5Q",
+  "merchant_name": "Price Ltd",
+  "date": "2021-08-11",
+  "subtotal": 355.95,
+  "tax": 30.86,
+  "discount": 11.99,
+  "total": 374.82,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$50.41",
+      "line_total": "$201.64"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$22.10",
+      "line_total": "$44.20"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$35.61",
+      "line_total": "$106.83"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$3.28",
+      "line_total": "$3.28"
+    }
+  ],
+  "sample_id": "receipt_0030"
+}

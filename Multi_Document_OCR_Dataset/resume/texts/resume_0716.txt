@@ -1,0 +1,26 @@
+Resume
+Cindy Galvan
+Data Analyst
+Skills: AWS, SQL, NLP, LangChain, Deep Learning, FastAPI, PyTorch, Streamlit, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Cindy Galvan",
+  "email": "lisa36@example.org",
+  "phone": "368-808-7793x47244",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "SQL",
+    "NLP",
+    "LangChain",
+    "Deep Learning",
+    "FastAPI",
+    "PyTorch",
+    "Streamlit",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0716"
+}

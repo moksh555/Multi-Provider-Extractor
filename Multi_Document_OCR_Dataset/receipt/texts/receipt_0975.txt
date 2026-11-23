@@ -1,0 +1,49 @@
+Receipt RCT-J4BO6GPN
+Merchant: Hayes LLC
+Date: 2024-11-07
+Total: $858.20
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-J4BO6GPN",
+  "merchant_name": "Hayes LLC",
+  "date": "2024-11-07",
+  "subtotal": 792.76,
+  "tax": 74.02,
+  "discount": 8.58,
+  "total": 858.2,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$61.72",
+      "line_total": "$185.16"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$55.46",
+      "line_total": "$55.46"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$20.71",
+      "line_total": "$62.13"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$76.43",
+      "line_total": "$229.29"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$65.18",
+      "line_total": "$260.72"
+    }
+  ],
+  "sample_id": "receipt_0975"
+}

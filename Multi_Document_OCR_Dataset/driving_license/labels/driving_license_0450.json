@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL543165825",
+  "full_name": "Mr. Cody Taylor",
+  "date_of_birth": "1996-11-09",
+  "class": "C",
+  "issue_date": "2026-02-15",
+  "expiry_date": "2031-02-15",
+  "address": "9685 Silva Plains, East Terrance, PA 45445",
+  "sample_id": "driving_license_0450"
+}

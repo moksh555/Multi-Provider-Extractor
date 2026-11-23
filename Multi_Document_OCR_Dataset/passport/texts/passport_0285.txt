@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Lisa Williams
+Passport No: P94475085
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P94475085",
+  "full_name": "Lisa Williams",
+  "nationality": "GB",
+  "date_of_birth": "2001-10-04",
+  "issue_date": "2020-05-06",
+  "expiry_date": "2030-05-06",
+  "place_of_birth": "Frederickshire",
+  "sample_id": "passport_0285"
+}

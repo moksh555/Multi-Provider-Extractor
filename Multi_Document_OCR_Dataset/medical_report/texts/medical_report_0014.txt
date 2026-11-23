@@ -1,0 +1,14 @@
+Medical Report MED-5RUS56YD
+Patient: Kenneth Guerra
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5RUS56YD",
+  "patient_name": "Kenneth Guerra",
+  "visit_date": "2025-12-13",
+  "doctor_name": "Dr. Ryan Phillips",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0014"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Robert Roberts
+Passport No: P51532885
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P51532885",
+  "full_name": "Robert Roberts",
+  "nationality": "GB",
+  "date_of_birth": "1975-01-27",
+  "issue_date": "2025-09-07",
+  "expiry_date": "2035-09-07",
+  "place_of_birth": "Lewisstad",
+  "sample_id": "passport_0139"
+}

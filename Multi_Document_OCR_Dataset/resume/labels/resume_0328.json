@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Amber Rodriguez",
+  "email": "anthony20@example.com",
+  "phone": "4252497239",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision",
+    "Pandas",
+    "PyTorch",
+    "LangChain",
+    "Python",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0328"
+}

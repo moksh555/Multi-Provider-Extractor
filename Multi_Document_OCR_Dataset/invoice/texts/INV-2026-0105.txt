@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0105
+Company: SkyNet Office Mart
+Company Address: 162 Road 12, Banani, Chattogram, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 164 Uttara Sector 7, Dubai, UAE
+Invoice Date: 2026-01-03
+Due Date: 2026-01-18
+Currency: QAR
+Subtotal: 16221.92
+Tax: 811.1
+Total: 17033.02
+Balance Due: 6498.73
+Status: partial

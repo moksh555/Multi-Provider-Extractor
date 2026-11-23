@@ -1,0 +1,14 @@
+Medical Report MED-OHSPPF32
+Patient: Makayla Evans
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OHSPPF32",
+  "patient_name": "Makayla Evans",
+  "visit_date": "2025-06-28",
+  "doctor_name": "Dr. Matthew Chung",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0253"
+}

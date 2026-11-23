@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0104
+Company: Golden Harvest Store
+Company Address: 80 Al Barsha, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 194 Agrabad C/A, Dubai, UAE
+Invoice Date: 2026-05-22
+Due Date: 2026-07-06
+Currency: BDT
+Subtotal: 10851.6
+Tax: 1464.97
+Total: 11256.41
+Balance Due: 4519.13
+Status: partial

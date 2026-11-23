@@ -1,0 +1,67 @@
+Receipt RCT-XPHX2KBV
+Merchant: Lucas, Rasmussen and Rivera
+Date: 2026-10-14
+Total: $942.18
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XPHX2KBV",
+  "merchant_name": "Lucas, Rasmussen and Rivera",
+  "date": "2026-10-14",
+  "subtotal": 912.77,
+  "tax": 43.36,
+  "discount": 13.95,
+  "total": 942.18,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$54.25",
+      "line_total": "$108.50"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$52.75",
+      "line_total": "$105.50"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$79.75",
+      "line_total": "$79.75"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$53.90",
+      "line_total": "$161.70"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$41.90",
+      "line_total": "$83.80"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$44.42",
+      "line_total": "$44.42"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$77.10",
+      "line_total": "$231.30"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$48.90",
+      "line_total": "$97.80"
+    }
+  ],
+  "sample_id": "receipt_0144"
+}

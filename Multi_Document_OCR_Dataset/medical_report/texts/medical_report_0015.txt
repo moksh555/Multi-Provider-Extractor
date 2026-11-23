@@ -1,0 +1,14 @@
+Medical Report MED-EG6RLTZD
+Patient: Christine Cabrera
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EG6RLTZD",
+  "patient_name": "Christine Cabrera",
+  "visit_date": "2026-05-22",
+  "doctor_name": "Dr. Julia Adkins",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0015"
+}

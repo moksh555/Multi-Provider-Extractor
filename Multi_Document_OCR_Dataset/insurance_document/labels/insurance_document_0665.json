@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-L69VSYXBB",
+  "policy_holder": "Michael Palmer",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-09-05",
+  "expiry_date": "2025-09-05",
+  "premium": 2157.48,
+  "coverage_amount": 115454.34,
+  "beneficiary": "Susan Price",
+  "sample_id": "insurance_document_0665"
+}

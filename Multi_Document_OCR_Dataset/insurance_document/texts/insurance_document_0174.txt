@@ -1,0 +1,16 @@
+Insurance Policy POL-1ZOCFI4O6
+Holder: Kim Goodwin
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1ZOCFI4O6",
+  "policy_holder": "Kim Goodwin",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-02-25",
+  "expiry_date": "2026-02-25",
+  "premium": 1918.35,
+  "coverage_amount": 78575.79,
+  "beneficiary": "Matthew Winters",
+  "sample_id": "insurance_document_0174"
+}

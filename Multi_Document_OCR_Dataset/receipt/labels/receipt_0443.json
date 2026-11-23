@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PG4GKS6R",
+  "merchant_name": "Conway-Mann",
+  "date": "2022-11-15",
+  "subtotal": 105.27,
+  "tax": 3.46,
+  "discount": 9.18,
+  "total": 99.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$21.79",
+      "line_total": "$65.37"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$4.20",
+      "line_total": "$12.60"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$27.30",
+      "line_total": "$27.30"
+    }
+  ],
+  "sample_id": "receipt_0443"
+}

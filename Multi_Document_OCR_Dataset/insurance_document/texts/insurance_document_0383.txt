@@ -1,0 +1,16 @@
+Insurance Policy POL-VQEXUYHEY
+Holder: Peter Stafford
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VQEXUYHEY",
+  "policy_holder": "Peter Stafford",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-10-04",
+  "expiry_date": "2024-10-04",
+  "premium": 1143.55,
+  "coverage_amount": 455411.03,
+  "beneficiary": "Elizabeth Mendoza",
+  "sample_id": "insurance_document_0383"
+}

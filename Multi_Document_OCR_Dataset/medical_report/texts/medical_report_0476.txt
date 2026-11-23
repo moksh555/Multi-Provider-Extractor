@@ -1,0 +1,14 @@
+Medical Report MED-RU4NLGV1
+Patient: Andrew Lester
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RU4NLGV1",
+  "patient_name": "Andrew Lester",
+  "visit_date": "2026-04-15",
+  "doctor_name": "Dr. Ryan Reynolds",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0476"
+}

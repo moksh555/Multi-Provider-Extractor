@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL475946336",
+  "full_name": "David Young",
+  "date_of_birth": "1963-10-14",
+  "class": "A",
+  "issue_date": "2026-03-01",
+  "expiry_date": "2031-03-01",
+  "address": "141 Jackson Plain, Benjaminchester, OK 67971",
+  "sample_id": "driving_license_0378"
+}

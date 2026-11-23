@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0028
+Company: BlueRiver Trading Co.
+Company Address: 178 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 118 Al Barsha, Dhaka, Bangladesh
+Invoice Date: 2026-01-16
+Due Date: 2026-03-02
+Currency: SAR
+Subtotal: 21455.74
+Tax: 0.0
+Total: 20432.95
+Balance Due: 20432.95
+Status: overdue

@@ -1,0 +1,49 @@
+Receipt RCT-OEQXADGY
+Merchant: Patterson, Becker and Vang
+Date: 2026-01-07
+Total: $395.41
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OEQXADGY",
+  "merchant_name": "Patterson, Becker and Vang",
+  "date": "2026-01-07",
+  "subtotal": 384.0,
+  "tax": 19.74,
+  "discount": 8.33,
+  "total": 395.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$66.19",
+      "line_total": "$132.38"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$5.38",
+      "line_total": "$21.52"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$59.06",
+      "line_total": "$177.18"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$2.06",
+      "line_total": "$4.12"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$12.20",
+      "line_total": "$48.80"
+    }
+  ],
+  "sample_id": "receipt_0924"
+}

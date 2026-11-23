@@ -1,0 +1,14 @@
+Medical Report MED-SX11C923
+Patient: Corey Ford
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-SX11C923",
+  "patient_name": "Corey Ford",
+  "visit_date": "2025-09-23",
+  "doctor_name": "Dr. Leonard Davis",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0469"
+}

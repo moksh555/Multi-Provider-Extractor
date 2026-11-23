@@ -1,0 +1,25 @@
+Resume
+Erin Blackburn
+Software Engineer
+Skills: Computer Vision, FastAPI, PyTorch, Machine Learning, LangChain, NLP, SQL, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Erin Blackburn",
+  "email": "cbrooks@example.net",
+  "phone": "377.234.2658x7503",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "FastAPI",
+    "PyTorch",
+    "Machine Learning",
+    "LangChain",
+    "NLP",
+    "SQL",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0555"
+}

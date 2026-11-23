@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Jamie Rosario",
+  "email": "jessica52@example.com",
+  "phone": "468.856.8506x64878",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "Machine Learning",
+    "LangChain",
+    "Python",
+    "Computer Vision",
+    "AWS",
+    "FastAPI",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0728"
+}

@@ -1,0 +1,23 @@
+Resume
+Michael Woodward
+Computer Vision Engineer
+Skills: LangChain, Pandas, Machine Learning, AWS, TensorFlow, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Woodward",
+  "email": "michellewatkins@example.org",
+  "phone": "756-734-0918x580",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "LangChain",
+    "Pandas",
+    "Machine Learning",
+    "AWS",
+    "TensorFlow",
+    "SQL"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0131"
+}

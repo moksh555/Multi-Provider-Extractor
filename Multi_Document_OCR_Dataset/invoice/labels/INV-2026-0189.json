@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0189",
+  "invoice_number": "INV-2026-0189",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "153 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "241 Motijheel C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-06-29",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 425.27,
+      "amount": 3402.16
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 1,
+      "unit_price": 752.16,
+      "amount": 752.16
+    }
+  ],
+  "subtotal": 4154.32,
+  "discount": 83.09,
+  "tax_rate": 0.1,
+  "tax": 407.12,
+  "shipping": 0,
+  "total": 4478.35,
+  "amount_paid": 0,
+  "balance_due": 4478.35,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801244010507",
+  "po_number": "PO-94021"
+}

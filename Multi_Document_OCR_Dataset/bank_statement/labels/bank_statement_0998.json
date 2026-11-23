@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3X7V5WWW",
+  "account_holder": "John Riddle",
+  "account_number_masked": "****8706",
+  "period_start": "2026-03-15",
+  "period_end": "2026-04-14",
+  "opening_balance": 990.94,
+  "closing_balance": 2956.19,
+  "transactions": 14,
+  "sample_id": "bank_statement_0998"
+}

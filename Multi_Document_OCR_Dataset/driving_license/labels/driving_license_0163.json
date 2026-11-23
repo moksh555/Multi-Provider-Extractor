@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL211764545",
+  "full_name": "Richard Adams",
+  "date_of_birth": "1979-08-05",
+  "class": "A",
+  "issue_date": "2022-10-10",
+  "expiry_date": "2027-10-10",
+  "address": "6481 Joseph Ports, South Spencerstad, AR 65985",
+  "sample_id": "driving_license_0163"
+}

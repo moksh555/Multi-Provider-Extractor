@@ -1,0 +1,26 @@
+Resume
+Stacey Hunt
+Data Analyst
+Skills: Python, Pandas, SQL, NLP, Machine Learning, Streamlit, Computer Vision, TensorFlow, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Stacey Hunt",
+  "email": "mandrews@example.org",
+  "phone": "644.940.5572",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Python",
+    "Pandas",
+    "SQL",
+    "NLP",
+    "Machine Learning",
+    "Streamlit",
+    "Computer Vision",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0921"
+}

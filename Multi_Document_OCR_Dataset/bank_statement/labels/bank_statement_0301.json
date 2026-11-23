@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-W7JN2364",
+  "account_holder": "Laura Atkins",
+  "account_number_masked": "****6701",
+  "period_start": "2026-02-12",
+  "period_end": "2026-03-14",
+  "opening_balance": 3046.99,
+  "closing_balance": 4410.0,
+  "transactions": 10,
+  "sample_id": "bank_statement_0301"
+}

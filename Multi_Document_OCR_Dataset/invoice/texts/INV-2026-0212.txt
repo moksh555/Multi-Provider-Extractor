@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0212
+Company: UrbanBuild Construction
+Company Address: 84 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 23 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-01
+Due Date: 2026-06-16
+Currency: USD
+Subtotal: 20482.49
+Tax: 1003.64
+Total: 21101.48
+Balance Due: 13482.35
+Status: partial

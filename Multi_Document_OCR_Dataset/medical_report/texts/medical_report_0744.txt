@@ -1,0 +1,14 @@
+Medical Report MED-4PAOP60Q
+Patient: John Carr
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4PAOP60Q",
+  "patient_name": "John Carr",
+  "visit_date": "2024-09-14",
+  "doctor_name": "Dr. Rita Foley",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0744"
+}

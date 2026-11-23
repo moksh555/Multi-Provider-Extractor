@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Ashley
+Passport No: P76253127
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P76253127",
+  "full_name": "Michael Ashley",
+  "nationality": "CA",
+  "date_of_birth": "1976-09-27",
+  "issue_date": "2023-09-04",
+  "expiry_date": "2033-09-04",
+  "place_of_birth": "Port Vincent",
+  "sample_id": "passport_0436"
+}

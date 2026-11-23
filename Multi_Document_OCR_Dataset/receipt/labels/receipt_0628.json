@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZTGZOHC7",
+  "merchant_name": "Garcia, Booth and Bass",
+  "date": "2025-02-28",
+  "subtotal": 336.57,
+  "tax": 16.0,
+  "discount": 6.86,
+  "total": 345.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$71.33",
+      "line_total": "$213.99"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$13.45",
+      "line_total": "$53.80"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$68.78",
+      "line_total": "$68.78"
+    }
+  ],
+  "sample_id": "receipt_0628"
+}

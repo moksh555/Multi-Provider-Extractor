@@ -1,0 +1,16 @@
+Insurance Policy POL-S1QEKW7BZ
+Holder: Jaime Brown
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-S1QEKW7BZ",
+  "policy_holder": "Jaime Brown",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-05-04",
+  "expiry_date": "2025-05-04",
+  "premium": 616.99,
+  "coverage_amount": 309089.74,
+  "beneficiary": "Mr. Kristopher Curtis",
+  "sample_id": "insurance_document_0721"
+}

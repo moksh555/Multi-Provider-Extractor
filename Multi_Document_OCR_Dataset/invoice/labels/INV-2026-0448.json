@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0448",
+  "invoice_number": "INV-2026-0448",
+  "company_name": "Metro Print House",
+  "company_address": "154 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "116 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-02-17",
+  "due_date": "2026-02-24",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 4,
+      "unit_price": 810.64,
+      "amount": 3242.56
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 7,
+      "unit_price": 573.01,
+      "amount": 4011.07
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 752.95,
+      "amount": 752.95
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 319.58,
+      "amount": 2556.64
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 73.46,
+      "amount": 220.38
+    }
+  ],
+  "subtotal": 10783.6,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 808.77,
+  "shipping": 10,
+  "total": 11602.37,
+  "amount_paid": 0,
+  "balance_due": 11602.37,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801861918827",
+  "po_number": "PO-01716"
+}

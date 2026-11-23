@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-8BQ44TO2",
+  "patient_name": "Megan Tucker",
+  "visit_date": "2026-10-02",
+  "doctor_name": "Dr. Leslie Harris",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0032"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sherry Shelton
+License: DL878733896
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL878733896",
+  "full_name": "Sherry Shelton",
+  "date_of_birth": "1973-03-05",
+  "class": "D",
+  "issue_date": "2024-07-12",
+  "expiry_date": "2029-07-12",
+  "address": "PSC 7824, Box 5569, APO AA 36709",
+  "sample_id": "driving_license_0590"
+}

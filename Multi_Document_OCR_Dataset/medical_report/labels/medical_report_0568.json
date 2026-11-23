@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LYD8UE15",
+  "patient_name": "Angela Reyes",
+  "visit_date": "2024-04-04",
+  "doctor_name": "Dr. Jorge Smith",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0568"
+}

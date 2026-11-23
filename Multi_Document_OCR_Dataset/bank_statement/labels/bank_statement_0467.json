@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RYV7WF3X",
+  "account_holder": "Dr. Kathryn Adams DDS",
+  "account_number_masked": "****4826",
+  "period_start": "2025-11-26",
+  "period_end": "2025-12-26",
+  "opening_balance": 1711.42,
+  "closing_balance": 3545.87,
+  "transactions": 11,
+  "sample_id": "bank_statement_0467"
+}

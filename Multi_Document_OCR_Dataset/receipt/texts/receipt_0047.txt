@@ -1,0 +1,61 @@
+Receipt RCT-VMCQBNKX
+Merchant: Johnson Ltd
+Date: 2022-01-05
+Total: $962.97
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VMCQBNKX",
+  "merchant_name": "Johnson Ltd",
+  "date": "2022-01-05",
+  "subtotal": 892.66,
+  "tax": 75.77,
+  "discount": 5.46,
+  "total": 962.97,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$46.85",
+      "line_total": "$187.40"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$72.81",
+      "line_total": "$291.24"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$48.80",
+      "line_total": "$146.40"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$36.59",
+      "line_total": "$36.59"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$40.86",
+      "line_total": "$40.86"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$20.57",
+      "line_total": "$20.57"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$42.40",
+      "line_total": "$169.60"
+    }
+  ],
+  "sample_id": "receipt_0047"
+}

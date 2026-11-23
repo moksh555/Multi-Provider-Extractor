@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4W0KQ8SJ",
+  "account_holder": "William Brandt",
+  "account_number_masked": "****5243",
+  "period_start": "2026-07-25",
+  "period_end": "2026-08-24",
+  "opening_balance": 730.53,
+  "closing_balance": 4230.8,
+  "transactions": 13,
+  "sample_id": "bank_statement_0182"
+}

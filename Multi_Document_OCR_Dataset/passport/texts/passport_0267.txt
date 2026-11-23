@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Dawn Johnson
+Passport No: P68146553
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P68146553",
+  "full_name": "Dawn Johnson",
+  "nationality": "US",
+  "date_of_birth": "1974-04-24",
+  "issue_date": "2026-07-02",
+  "expiry_date": "2036-07-02",
+  "place_of_birth": "Port Tabithaside",
+  "sample_id": "passport_0267"
+}

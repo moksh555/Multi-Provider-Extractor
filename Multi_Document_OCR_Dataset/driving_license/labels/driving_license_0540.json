@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL546011286",
+  "full_name": "Samuel Bonilla",
+  "date_of_birth": "1975-10-15",
+  "class": "D",
+  "issue_date": "2020-06-21",
+  "expiry_date": "2025-06-21",
+  "address": "PSC 3330, Box 2126, APO AP 03954",
+  "sample_id": "driving_license_0540"
+}

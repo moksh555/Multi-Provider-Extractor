@@ -1,0 +1,14 @@
+Medical Report MED-0JHNWCPY
+Patient: Kurt Goodman
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0JHNWCPY",
+  "patient_name": "Kurt Goodman",
+  "visit_date": "2025-08-08",
+  "doctor_name": "Dr. Eric Guerra",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0947"
+}

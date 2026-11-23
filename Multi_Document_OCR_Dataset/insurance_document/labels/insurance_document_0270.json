@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XAYPNTRFZ",
+  "policy_holder": "Gina Mendez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-09-08",
+  "expiry_date": "2025-09-08",
+  "premium": 1121.67,
+  "coverage_amount": 59480.13,
+  "beneficiary": "Jeffrey Crawford",
+  "sample_id": "insurance_document_0270"
+}

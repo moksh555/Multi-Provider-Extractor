@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Steven Castillo
+Passport No: P21520602
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P21520602",
+  "full_name": "Steven Castillo",
+  "nationality": "GB",
+  "date_of_birth": "2001-03-14",
+  "issue_date": "2024-07-26",
+  "expiry_date": "2034-07-26",
+  "place_of_birth": "West Shawnaburgh",
+  "sample_id": "passport_0823"
+}

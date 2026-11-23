@@ -1,0 +1,26 @@
+Resume
+Sherry Foster
+Computer Vision Engineer
+Skills: Computer Vision, Docker, TensorFlow, Machine Learning, FastAPI, Deep Learning, Python, Pandas, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Sherry Foster",
+  "email": "taylor70@example.net",
+  "phone": "001-806-476-1837",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Computer Vision",
+    "Docker",
+    "TensorFlow",
+    "Machine Learning",
+    "FastAPI",
+    "Deep Learning",
+    "Python",
+    "Pandas",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0265"
+}

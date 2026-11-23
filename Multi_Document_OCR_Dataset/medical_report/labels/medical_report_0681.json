@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-Z3301YT5",
+  "patient_name": "Austin Pittman",
+  "visit_date": "2024-05-07",
+  "doctor_name": "Dr. Charles Gordon",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0681"
+}

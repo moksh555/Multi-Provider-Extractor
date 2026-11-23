@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0559
+Company: PrimeSoft Technologies
+Company Address: 185 Dhanmondi 27, Chattogram, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 32 Uttara Sector 7, Doha, Qatar
+Invoice Date: 2026-05-07
+Due Date: 2026-05-14
+Currency: AED
+Subtotal: 3836.92
+Tax: 383.69
+Total: 4230.61
+Balance Due: 4230.61
+Status: overdue

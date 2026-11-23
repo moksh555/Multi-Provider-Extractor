@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-US05NQKD",
+  "patient_name": "Robert Smith",
+  "visit_date": "2026-01-27",
+  "doctor_name": "Dr. James Watts",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0726"
+}

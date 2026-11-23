@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VYGIAV59",
+  "account_holder": "Scott Short",
+  "account_number_masked": "****9713",
+  "period_start": "2025-10-16",
+  "period_end": "2025-11-15",
+  "opening_balance": 2124.59,
+  "closing_balance": 5204.33,
+  "transactions": 13,
+  "sample_id": "bank_statement_0978"
+}

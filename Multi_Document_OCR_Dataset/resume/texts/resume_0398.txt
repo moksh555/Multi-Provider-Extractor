@@ -1,0 +1,24 @@
+Resume
+Cindy Hansen
+Data Analyst
+Skills: NLP, FastAPI, AWS, PyTorch, SQL, LangChain, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Cindy Hansen",
+  "email": "adam42@example.org",
+  "phone": "382-206-8204",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "NLP",
+    "FastAPI",
+    "AWS",
+    "PyTorch",
+    "SQL",
+    "LangChain",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0398"
+}

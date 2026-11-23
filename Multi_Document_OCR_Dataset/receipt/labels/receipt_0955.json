@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2334NLX4",
+  "merchant_name": "Choi, Ortiz and Goodwin",
+  "date": "2022-09-21",
+  "subtotal": 1056.61,
+  "tax": 84.88,
+  "discount": 1.52,
+  "total": 1139.97,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$53.44",
+      "line_total": "$213.76"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$79.29",
+      "line_total": "$79.29"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$46.54",
+      "line_total": "$139.62"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$73.48",
+      "line_total": "$293.92"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$75.04",
+      "line_total": "$300.16"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$29.86",
+      "line_total": "$29.86"
+    }
+  ],
+  "sample_id": "receipt_0955"
+}

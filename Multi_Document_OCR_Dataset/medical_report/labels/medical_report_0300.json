@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-H52R695T",
+  "patient_name": "Michelle Wong",
+  "visit_date": "2025-08-23",
+  "doctor_name": "Dr. Clinton Williams",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0300"
+}

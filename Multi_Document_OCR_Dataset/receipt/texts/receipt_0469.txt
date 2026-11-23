@@ -1,0 +1,37 @@
+Receipt RCT-R8SO5WIS
+Merchant: Wolfe Ltd
+Date: 2026-07-30
+Total: $229.61
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-R8SO5WIS",
+  "merchant_name": "Wolfe Ltd",
+  "date": "2026-07-30",
+  "subtotal": 226.82,
+  "tax": 12.54,
+  "discount": 9.75,
+  "total": 229.61,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$33.97",
+      "line_total": "$33.97"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$62.06",
+      "line_total": "$124.12"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$22.91",
+      "line_total": "$68.73"
+    }
+  ],
+  "sample_id": "receipt_0469"
+}

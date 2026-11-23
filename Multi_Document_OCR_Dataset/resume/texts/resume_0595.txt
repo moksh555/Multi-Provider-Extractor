@@ -1,0 +1,27 @@
+Resume
+Larry Johnson
+Backend Developer
+Skills: Python, TensorFlow, Deep Learning, Pandas, Machine Learning, LangChain, NLP, Docker, Streamlit, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Larry Johnson",
+  "email": "xshaw@example.org",
+  "phone": "(331)375-0409x370",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Deep Learning",
+    "Pandas",
+    "Machine Learning",
+    "LangChain",
+    "NLP",
+    "Docker",
+    "Streamlit",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0595"
+}

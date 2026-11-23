@@ -1,0 +1,25 @@
+Resume
+Richard Hart
+Computer Vision Engineer
+Skills: Pandas, Deep Learning, NLP, SQL, Computer Vision, Python, PyTorch, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Richard Hart",
+  "email": "lawsoncalvin@example.com",
+  "phone": "(551)329-4414x925",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "Deep Learning",
+    "NLP",
+    "SQL",
+    "Computer Vision",
+    "Python",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0256"
+}

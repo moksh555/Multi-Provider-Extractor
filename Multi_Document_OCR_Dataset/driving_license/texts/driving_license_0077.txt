@@ -1,0 +1,16 @@
+Synthetic Driving License
+David Kim
+License: DL086291422
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL086291422",
+  "full_name": "David Kim",
+  "date_of_birth": "1960-11-03",
+  "class": "C",
+  "issue_date": "2025-03-20",
+  "expiry_date": "2030-03-20",
+  "address": "5466 Shelton Center, Cameronville, OH 89417",
+  "sample_id": "driving_license_0077"
+}

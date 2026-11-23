@@ -1,0 +1,14 @@
+Medical Report MED-8BFZMSAE
+Patient: Stacy Payne
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8BFZMSAE",
+  "patient_name": "Stacy Payne",
+  "visit_date": "2025-11-07",
+  "doctor_name": "Dr. Jennifer Gomez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0007"
+}

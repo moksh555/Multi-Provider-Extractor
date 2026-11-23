@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XLSEUNNRL",
+  "policy_holder": "Mrs. Barbara Yates MD",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-10-11",
+  "expiry_date": "2025-10-11",
+  "premium": 1383.03,
+  "coverage_amount": 442809.95,
+  "beneficiary": "Sarah Cruz",
+  "sample_id": "insurance_document_0858"
+}

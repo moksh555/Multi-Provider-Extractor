@@ -1,0 +1,37 @@
+Receipt RCT-RWE9EUKI
+Merchant: Farley, Mcguire and Beard
+Date: 2022-09-14
+Total: $289.06
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RWE9EUKI",
+  "merchant_name": "Farley, Mcguire and Beard",
+  "date": "2022-09-14",
+  "subtotal": 280.24,
+  "tax": 18.77,
+  "discount": 9.95,
+  "total": 289.06,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$70.28",
+      "line_total": "$210.84"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$7.51",
+      "line_total": "$15.02"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$27.19",
+      "line_total": "$54.38"
+    }
+  ],
+  "sample_id": "receipt_0795"
+}

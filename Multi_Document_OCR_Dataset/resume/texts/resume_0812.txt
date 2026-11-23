@@ -1,0 +1,27 @@
+Resume
+Jacob Mccall
+Data Analyst
+Skills: Computer Vision, PyTorch, Docker, Streamlit, LangChain, Pandas, Machine Learning, TensorFlow, FastAPI, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Jacob Mccall",
+  "email": "zjames@example.org",
+  "phone": "2778997510",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Computer Vision",
+    "PyTorch",
+    "Docker",
+    "Streamlit",
+    "LangChain",
+    "Pandas",
+    "Machine Learning",
+    "TensorFlow",
+    "FastAPI",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0812"
+}

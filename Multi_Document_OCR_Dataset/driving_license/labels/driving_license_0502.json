@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL791534840",
+  "full_name": "Frederick Reeves",
+  "date_of_birth": "1964-12-08",
+  "class": "B",
+  "issue_date": "2026-10-26",
+  "expiry_date": "2031-10-26",
+  "address": "0688 Brown Villages, Port Karenville, HI 79026",
+  "sample_id": "driving_license_0502"
+}

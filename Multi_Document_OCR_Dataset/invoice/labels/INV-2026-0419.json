@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0419",
+  "invoice_number": "INV-2026-0419",
+  "company_name": "CityBanking Supplies",
+  "company_address": "35 Mirpur DOHS, Chattogram, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "125 Zindabazar Road, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-05",
+  "due_date": "2026-06-19",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 162.1,
+      "amount": 1134.7
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 11,
+      "unit_price": 505.6,
+      "amount": 5561.6
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 10,
+      "unit_price": 486.65,
+      "amount": 4866.5
+    }
+  ],
+  "subtotal": 11562.8,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 578.14,
+  "shipping": 0,
+  "total": 12140.94,
+  "amount_paid": 9079.42,
+  "balance_due": 3061.52,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801808288912",
+  "po_number": "PO-04981"
+}

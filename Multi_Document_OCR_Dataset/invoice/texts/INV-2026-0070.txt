@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0070
+Company: Summit Agro Foods
+Company Address: 78 Doha Business Park, Dhaka, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 198 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-04-20
+Due Date: 2026-05-20
+Currency: QAR
+Subtotal: 9478.48
+Tax: 639.8
+Total: 9175.43
+Balance Due: 0.0
+Status: paid

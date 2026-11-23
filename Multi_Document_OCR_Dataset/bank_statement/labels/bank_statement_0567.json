@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZFAA2I47",
+  "account_holder": "Julie Johnson",
+  "account_number_masked": "****3736",
+  "period_start": "2026-02-16",
+  "period_end": "2026-03-18",
+  "opening_balance": 2429.34,
+  "closing_balance": 3562.91,
+  "transactions": 10,
+  "sample_id": "bank_statement_0567"
+}

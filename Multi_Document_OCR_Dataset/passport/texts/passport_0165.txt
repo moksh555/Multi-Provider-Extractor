@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Barbara Velazquez
+Passport No: P85917469
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P85917469",
+  "full_name": "Barbara Velazquez",
+  "nationality": "CA",
+  "date_of_birth": "1998-03-26",
+  "issue_date": "2024-05-23",
+  "expiry_date": "2034-05-23",
+  "place_of_birth": "Katelynborough",
+  "sample_id": "passport_0165"
+}

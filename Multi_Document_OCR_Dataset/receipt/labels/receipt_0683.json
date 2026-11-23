@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-X69PHWN8",
+  "merchant_name": "Cohen-Crane",
+  "date": "2022-03-15",
+  "subtotal": 596.37,
+  "tax": 24.67,
+  "discount": 6.88,
+  "total": 614.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$19.69",
+      "line_total": "$59.07"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$57.82",
+      "line_total": "$231.28"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$39.85",
+      "line_total": "$119.55"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$19.56",
+      "line_total": "$58.68"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$39.80",
+      "line_total": "$39.80"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$13.89",
+      "line_total": "$27.78"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$60.21",
+      "line_total": "$60.21"
+    }
+  ],
+  "sample_id": "receipt_0683"
+}

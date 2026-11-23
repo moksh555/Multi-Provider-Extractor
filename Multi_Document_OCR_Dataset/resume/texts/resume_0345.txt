@@ -1,0 +1,27 @@
+Resume
+Tiffany Williams
+Machine Learning Engineer
+Skills: TensorFlow, Docker, Deep Learning, Computer Vision, PyTorch, LangChain, FastAPI, AWS, Machine Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Tiffany Williams",
+  "email": "laneerica@example.com",
+  "phone": "(523)519-1990x821",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "Deep Learning",
+    "Computer Vision",
+    "PyTorch",
+    "LangChain",
+    "FastAPI",
+    "AWS",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0345"
+}

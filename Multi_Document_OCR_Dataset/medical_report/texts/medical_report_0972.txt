@@ -1,0 +1,14 @@
+Medical Report MED-IJQ4YNL4
+Patient: Sara Harvey
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-IJQ4YNL4",
+  "patient_name": "Sara Harvey",
+  "visit_date": "2026-06-14",
+  "doctor_name": "Dr. Mariah Gibson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0972"
+}

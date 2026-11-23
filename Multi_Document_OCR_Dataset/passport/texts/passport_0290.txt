@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Spencer Smith
+Passport No: P00947030
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P00947030",
+  "full_name": "Spencer Smith",
+  "nationality": "GB",
+  "date_of_birth": "2004-11-20",
+  "issue_date": "2023-10-13",
+  "expiry_date": "2033-10-13",
+  "place_of_birth": "Stephanieville",
+  "sample_id": "passport_0290"
+}

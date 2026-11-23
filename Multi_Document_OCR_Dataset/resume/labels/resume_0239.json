@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Megan Smith",
+  "email": "greenanthony@example.net",
+  "phone": "001-811-703-4956x1199",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "SQL",
+    "FastAPI",
+    "Streamlit",
+    "Docker",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0239"
+}

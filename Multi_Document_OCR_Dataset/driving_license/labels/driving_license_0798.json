@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL184122313",
+  "full_name": "Michael Preston",
+  "date_of_birth": "1960-11-11",
+  "class": "A",
+  "issue_date": "2023-07-28",
+  "expiry_date": "2028-07-28",
+  "address": "6194 Marvin Knolls Suite 782, West Williamberg, PA 45281",
+  "sample_id": "driving_license_0798"
+}

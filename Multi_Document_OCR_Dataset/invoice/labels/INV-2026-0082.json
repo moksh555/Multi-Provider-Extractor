@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0082",
+  "invoice_number": "INV-2026-0082",
+  "company_name": "Delta Insurance Services",
+  "company_address": "144 Sheikh Zayed Road, Dhaka, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "45 Agrabad C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-15",
+  "due_date": "2026-01-30",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 5,
+      "unit_price": 318.15,
+      "amount": 1590.75
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 9,
+      "unit_price": 342.23,
+      "amount": 3080.07
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 11,
+      "unit_price": 33.73,
+      "amount": 371.03
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 8,
+      "unit_price": 508.18,
+      "amount": 4065.44
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 8,
+      "unit_price": 502.15,
+      "amount": 4017.2
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 145.68,
+      "amount": 874.08
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 12,
+      "unit_price": 707.59,
+      "amount": 8491.08
+    }
+  ],
+  "subtotal": 22489.65,
+  "discount": 449.79,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 22039.86,
+  "amount_paid": 0,
+  "balance_due": 22039.86,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801008722226",
+  "po_number": "PO-58964"
+}

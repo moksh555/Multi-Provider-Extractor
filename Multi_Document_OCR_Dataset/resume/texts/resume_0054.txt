@@ -1,0 +1,24 @@
+Resume
+James Salas
+Data Analyst
+Skills: AWS, Streamlit, SQL, Docker, Computer Vision, Deep Learning, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "James Salas",
+  "email": "morrisbrandon@example.org",
+  "phone": "238-238-0582x692",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "AWS",
+    "Streamlit",
+    "SQL",
+    "Docker",
+    "Computer Vision",
+    "Deep Learning",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0054"
+}

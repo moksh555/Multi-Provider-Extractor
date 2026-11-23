@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0959
+Company: Delta Insurance Services
+Company Address: 138 Al Barsha, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 201 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-02-25
+Due Date: 2026-03-12
+Currency: AED
+Subtotal: 17279.02
+Tax: 1555.11
+Total: 17106.23
+Balance Due: 17106.23
+Status: unpaid

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HB62HLN6",
+  "account_holder": "Alexandra Howard",
+  "account_number_masked": "****3573",
+  "period_start": "2025-01-30",
+  "period_end": "2025-03-01",
+  "opening_balance": 4035.21,
+  "closing_balance": 6269.94,
+  "transactions": 14,
+  "sample_id": "bank_statement_0669"
+}

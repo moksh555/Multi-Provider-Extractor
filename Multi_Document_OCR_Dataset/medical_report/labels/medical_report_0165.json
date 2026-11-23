@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-VHMXGGUJ",
+  "patient_name": "Steven Murray",
+  "visit_date": "2024-09-22",
+  "doctor_name": "Dr. James Watkins",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0165"
+}

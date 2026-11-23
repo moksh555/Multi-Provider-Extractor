@@ -1,0 +1,16 @@
+Bank Statement STM-BKUU5CZE
+Holder: James Steele
+Closing Balance: $7420.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BKUU5CZE",
+  "account_holder": "James Steele",
+  "account_number_masked": "****6338",
+  "period_start": "2024-05-10",
+  "period_end": "2024-06-09",
+  "opening_balance": 4671.27,
+  "closing_balance": 7420.36,
+  "transactions": 9,
+  "sample_id": "bank_statement_0025"
+}

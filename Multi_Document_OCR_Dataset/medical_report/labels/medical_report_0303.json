@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-T2MD6T5Y",
+  "patient_name": "Kim Obrien",
+  "visit_date": "2025-01-06",
+  "doctor_name": "Dr. Daniel Smith",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0303"
+}

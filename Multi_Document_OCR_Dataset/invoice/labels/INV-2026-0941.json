@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0941",
+  "invoice_number": "INV-2026-0941",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "35 Motijheel C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Global Mart",
+  "billing_address": "102 Uttara Sector 7, Dubai, UAE",
+  "invoice_date": "2026-04-01",
+  "due_date": "2026-04-16",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 844.01,
+      "amount": 8440.1
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 377.7,
+      "amount": 755.4
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 814.2,
+      "amount": 9770.4
+    }
+  ],
+  "subtotal": 18965.9,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1896.59,
+  "shipping": 0,
+  "total": 20862.49,
+  "amount_paid": 20862.49,
+  "balance_due": 0.0,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801871617962",
+  "po_number": "PO-51943"
+}

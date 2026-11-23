@@ -1,0 +1,14 @@
+Medical Report MED-EMKYEBMS
+Patient: Samantha Johnson
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EMKYEBMS",
+  "patient_name": "Samantha Johnson",
+  "visit_date": "2026-01-13",
+  "doctor_name": "Dr. Amber Beasley",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0138"
+}

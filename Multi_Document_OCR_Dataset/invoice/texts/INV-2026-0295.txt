@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0295
+Company: Royal Diagnostics Center
+Company Address: 33 Dhanmondi 27, Dhaka, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 191 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-10
+Due Date: 2026-04-25
+Currency: BDT
+Subtotal: 12147.15
+Tax: 911.04
+Total: 13068.19
+Balance Due: 13068.19
+Status: overdue

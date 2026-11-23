@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0169
+Company: Delta Insurance Services
+Company Address: 120 Agrabad C/A, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 56 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-23
+Due Date: 2026-07-08
+Currency: SAR
+Subtotal: 2308.32
+Tax: 230.83
+Total: 2589.15
+Balance Due: 2589.15
+Status: unpaid

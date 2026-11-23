@@ -1,0 +1,24 @@
+Resume
+Lonnie Wilson
+Machine Learning Engineer
+Skills: Python, Docker, Deep Learning, LangChain, SQL, FastAPI, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Lonnie Wilson",
+  "email": "philip05@example.org",
+  "phone": "+1-704-595-6686x5103",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Python",
+    "Docker",
+    "Deep Learning",
+    "LangChain",
+    "SQL",
+    "FastAPI",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0983"
+}

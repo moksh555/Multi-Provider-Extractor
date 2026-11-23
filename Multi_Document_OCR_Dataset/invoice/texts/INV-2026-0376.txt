@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0376
+Company: UrbanBuild Construction
+Company Address: 104 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 177 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-06-18
+Due Date: 2026-07-18
+Currency: SAR
+Subtotal: 9815.66
+Tax: 0.0
+Total: 8859.09
+Balance Due: 0.0
+Status: paid

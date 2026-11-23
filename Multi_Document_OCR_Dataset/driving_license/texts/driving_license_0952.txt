@@ -1,0 +1,16 @@
+Synthetic Driving License
+Anthony Hernandez
+License: DL029511774
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL029511774",
+  "full_name": "Anthony Hernandez",
+  "date_of_birth": "1996-08-25",
+  "class": "B",
+  "issue_date": "2023-12-12",
+  "expiry_date": "2028-12-12",
+  "address": "17672 Darius Trail, North Danielfurt, CT 17475",
+  "sample_id": "driving_license_0952"
+}

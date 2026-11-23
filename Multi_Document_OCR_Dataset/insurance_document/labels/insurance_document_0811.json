@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-USFN07EA2",
+  "policy_holder": "Kelly Parsons",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-06-25",
+  "expiry_date": "2024-06-25",
+  "premium": 2497.16,
+  "coverage_amount": 387956.21,
+  "beneficiary": "Margaret Campbell",
+  "sample_id": "insurance_document_0811"
+}

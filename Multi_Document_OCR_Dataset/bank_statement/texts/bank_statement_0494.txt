@@ -1,0 +1,16 @@
+Bank Statement STM-2QQCZ8UD
+Holder: Jeanne Johnson
+Closing Balance: $6627.45
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2QQCZ8UD",
+  "account_holder": "Jeanne Johnson",
+  "account_number_masked": "****9885",
+  "period_start": "2025-10-17",
+  "period_end": "2025-11-16",
+  "opening_balance": 2778.35,
+  "closing_balance": 6627.45,
+  "transactions": 9,
+  "sample_id": "bank_statement_0494"
+}

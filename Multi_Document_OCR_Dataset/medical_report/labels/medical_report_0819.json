@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-I33CL2HZ",
+  "patient_name": "Tanya Williams",
+  "visit_date": "2024-08-21",
+  "doctor_name": "Dr. Laura Watts",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0819"
+}

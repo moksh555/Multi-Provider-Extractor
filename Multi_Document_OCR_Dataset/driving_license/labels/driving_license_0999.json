@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL702438600",
+  "full_name": "Joseph Ward",
+  "date_of_birth": "1962-07-22",
+  "class": "A",
+  "issue_date": "2025-04-11",
+  "expiry_date": "2030-04-11",
+  "address": "8105 Dawn Crossing, New Stephen, NY 67674",
+  "sample_id": "driving_license_0999"
+}

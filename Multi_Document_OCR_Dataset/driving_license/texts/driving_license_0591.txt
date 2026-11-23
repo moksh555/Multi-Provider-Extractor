@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andrew Meyer
+License: DL686643867
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL686643867",
+  "full_name": "Andrew Meyer",
+  "date_of_birth": "1987-01-19",
+  "class": "A",
+  "issue_date": "2020-12-11",
+  "expiry_date": "2025-12-11",
+  "address": "7954 Tara Parks, South Erin, NC 38483",
+  "sample_id": "driving_license_0591"
+}

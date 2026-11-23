@@ -1,0 +1,16 @@
+Synthetic Driving License
+Megan Parker
+License: DL924300529
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL924300529",
+  "full_name": "Megan Parker",
+  "date_of_birth": "1993-08-20",
+  "class": "A",
+  "issue_date": "2022-07-08",
+  "expiry_date": "2027-07-08",
+  "address": "39106 Graves Plains Apt. 170, Robertberg, WI 84586",
+  "sample_id": "driving_license_0118"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0596",
+  "invoice_number": "INV-2026-0596",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "194 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "120 Sheikh Zayed Road, Doha, Qatar",
+  "invoice_date": "2026-06-02",
+  "due_date": "2026-07-02",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 9,
+      "unit_price": 488.12,
+      "amount": 4393.08
+    },
+    {
+      "description": "API Integration",
+      "quantity": 4,
+      "unit_price": 834.14,
+      "amount": 3336.56
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 6,
+      "unit_price": 97.22,
+      "amount": 583.32
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 388.09,
+      "amount": 2716.63
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 4,
+      "unit_price": 315.85,
+      "amount": 1263.4
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 754.44,
+      "amount": 3772.2
+    }
+  ],
+  "subtotal": 16065.19,
+  "discount": 803.26,
+  "tax_rate": 0.1,
+  "tax": 1526.19,
+  "shipping": 0,
+  "total": 16788.12,
+  "amount_paid": 7959.71,
+  "balance_due": 8828.41,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801014733284",
+  "po_number": "PO-60862"
+}

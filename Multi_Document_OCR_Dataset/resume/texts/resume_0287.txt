@@ -1,0 +1,26 @@
+Resume
+Jason Bruce
+Data Analyst
+Skills: Docker, Python, Pandas, TensorFlow, Deep Learning, Machine Learning, LangChain, PyTorch, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Jason Bruce",
+  "email": "powersmonique@example.net",
+  "phone": "(663)452-0076x150",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "Docker",
+    "Python",
+    "Pandas",
+    "TensorFlow",
+    "Deep Learning",
+    "Machine Learning",
+    "LangChain",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0287"
+}

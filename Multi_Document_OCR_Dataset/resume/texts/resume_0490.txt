@@ -1,0 +1,27 @@
+Resume
+Shannon Castillo
+Computer Vision Engineer
+Skills: NLP, FastAPI, Deep Learning, Docker, AWS, Python, Pandas, Computer Vision, TensorFlow, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Shannon Castillo",
+  "email": "samanthahurst@example.org",
+  "phone": "678-524-5310x81246",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "NLP",
+    "FastAPI",
+    "Deep Learning",
+    "Docker",
+    "AWS",
+    "Python",
+    "Pandas",
+    "Computer Vision",
+    "TensorFlow",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0490"
+}

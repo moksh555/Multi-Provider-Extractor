@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CFWR2F5T8",
+  "policy_holder": "Jason Murphy",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-10-18",
+  "expiry_date": "2026-10-18",
+  "premium": 343.99,
+  "coverage_amount": 163722.16,
+  "beneficiary": "Christopher Wilkins",
+  "sample_id": "insurance_document_0722"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0262",
+  "invoice_number": "INV-2026-0262",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "24 Road 12, Banani, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "137 Sheikh Zayed Road, Dubai, UAE",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-07-01",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 598.53,
+      "amount": 4189.71
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 105.32,
+      "amount": 315.96
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 10,
+      "unit_price": 835.29,
+      "amount": 8352.9
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 171.05,
+      "amount": 1026.3
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 1,
+      "unit_price": 208.54,
+      "amount": 208.54
+    }
+  ],
+  "subtotal": 14093.41,
+  "discount": 704.67,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 13388.74,
+  "amount_paid": 0,
+  "balance_due": 13388.74,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801047850882",
+  "po_number": "PO-00423"
+}

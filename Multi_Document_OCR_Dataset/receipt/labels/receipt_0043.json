@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MGFXC08D",
+  "merchant_name": "Kerr and Sons",
+  "date": "2026-12-13",
+  "subtotal": 416.2,
+  "tax": 14.35,
+  "discount": 1.22,
+  "total": 429.33,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$36.84",
+      "line_total": "$147.36"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$25.62",
+      "line_total": "$76.86"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$70.78",
+      "line_total": "$70.78"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$60.60",
+      "line_total": "$121.20"
+    }
+  ],
+  "sample_id": "receipt_0043"
+}

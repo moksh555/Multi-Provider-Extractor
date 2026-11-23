@@ -1,0 +1,16 @@
+Bank Statement STM-DLHTY2LT
+Holder: Adriana Wright
+Closing Balance: $11204.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DLHTY2LT",
+  "account_holder": "Adriana Wright",
+  "account_number_masked": "****3880",
+  "period_start": "2024-04-11",
+  "period_end": "2024-05-11",
+  "opening_balance": 4826.2,
+  "closing_balance": 11204.88,
+  "transactions": 11,
+  "sample_id": "bank_statement_0757"
+}

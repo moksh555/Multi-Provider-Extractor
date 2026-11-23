@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL943668780",
+  "full_name": "Stephanie Gonzalez",
+  "date_of_birth": "2005-04-06",
+  "class": "D",
+  "issue_date": "2026-12-13",
+  "expiry_date": "2031-12-13",
+  "address": "5027 Victor Island, Port Tarachester, KS 68749",
+  "sample_id": "driving_license_0557"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-7N8LA100Q
+Holder: Mr. Steven Warner
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7N8LA100Q",
+  "policy_holder": "Mr. Steven Warner",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-05-10",
+  "expiry_date": "2024-05-10",
+  "premium": 2013.71,
+  "coverage_amount": 204880.78,
+  "beneficiary": "Anna May",
+  "sample_id": "insurance_document_0201"
+}

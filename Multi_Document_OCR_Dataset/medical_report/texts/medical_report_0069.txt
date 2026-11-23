@@ -1,0 +1,14 @@
+Medical Report MED-XNLYDCD0
+Patient: Peter Jimenez
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XNLYDCD0",
+  "patient_name": "Peter Jimenez",
+  "visit_date": "2025-08-23",
+  "doctor_name": "Dr. Maria Donaldson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0069"
+}

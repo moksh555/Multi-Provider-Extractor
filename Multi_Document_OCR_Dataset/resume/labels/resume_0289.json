@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Felicia Ross",
+  "email": "omarthompson@example.org",
+  "phone": "9724720814",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Docker",
+    "Pandas",
+    "AWS",
+    "FastAPI",
+    "Streamlit",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0289"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL443474938",
+  "full_name": "Lindsay Jones",
+  "date_of_birth": "2000-12-27",
+  "class": "A",
+  "issue_date": "2023-01-28",
+  "expiry_date": "2028-01-28",
+  "address": "41319 Michael Throughway, Port Morgan, VT 53897",
+  "sample_id": "driving_license_0979"
+}

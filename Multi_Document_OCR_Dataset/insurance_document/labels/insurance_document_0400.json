@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LS9MEUSWR",
+  "policy_holder": "Michael Gomez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-06-02",
+  "expiry_date": "2027-06-02",
+  "premium": 673.88,
+  "coverage_amount": 152339.15,
+  "beneficiary": "Jasmine Smith",
+  "sample_id": "insurance_document_0400"
+}

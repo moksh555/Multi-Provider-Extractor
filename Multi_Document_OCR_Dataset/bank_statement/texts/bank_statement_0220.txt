@@ -1,0 +1,16 @@
+Bank Statement STM-7G0ABGB8
+Holder: Dorothy Walker
+Closing Balance: $4438.07
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7G0ABGB8",
+  "account_holder": "Dorothy Walker",
+  "account_number_masked": "****6280",
+  "period_start": "2026-06-03",
+  "period_end": "2026-07-03",
+  "opening_balance": 4434.25,
+  "closing_balance": 4438.07,
+  "transactions": 13,
+  "sample_id": "bank_statement_0220"
+}

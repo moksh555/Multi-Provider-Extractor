@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0186
+Company: UrbanBuild Construction
+Company Address: 160 Al Barsha, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 64 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-02
+Due Date: 2026-03-04
+Currency: QAR
+Subtotal: 20170.98
+Tax: 2017.1
+Total: 22198.08
+Balance Due: 22198.08
+Status: overdue

@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Q0IQZHEC",
+  "merchant_name": "Reeves, Saunders and Banks",
+  "date": "2021-05-07",
+  "subtotal": 314.49,
+  "tax": 29.87,
+  "discount": 1.05,
+  "total": 343.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$20.36",
+      "line_total": "$81.44"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$63.94",
+      "line_total": "$127.88"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$64.49",
+      "line_total": "$64.49"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$20.34",
+      "line_total": "$40.68"
+    }
+  ],
+  "sample_id": "receipt_0395"
+}

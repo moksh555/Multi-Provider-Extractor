@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL439720608",
+  "full_name": "Tony Burns",
+  "date_of_birth": "2004-02-06",
+  "class": "C",
+  "issue_date": "2022-09-29",
+  "expiry_date": "2027-09-29",
+  "address": "081 West Drive, Port Jennifermouth, VT 08470",
+  "sample_id": "driving_license_0962"
+}

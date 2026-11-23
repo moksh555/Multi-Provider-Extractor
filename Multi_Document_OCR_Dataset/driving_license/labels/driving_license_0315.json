@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL715438632",
+  "full_name": "Stacy Berger",
+  "date_of_birth": "2002-08-08",
+  "class": "A",
+  "issue_date": "2026-04-18",
+  "expiry_date": "2031-04-18",
+  "address": "27846 Gonzalez Springs, Kevinport, PW 57481",
+  "sample_id": "driving_license_0315"
+}

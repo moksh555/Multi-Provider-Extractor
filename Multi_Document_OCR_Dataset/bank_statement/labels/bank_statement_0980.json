@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QUUGKJFH",
+  "account_holder": "Cory Lopez",
+  "account_number_masked": "****4955",
+  "period_start": "2025-12-06",
+  "period_end": "2026-01-05",
+  "opening_balance": 4707.58,
+  "closing_balance": 10235.31,
+  "transactions": 12,
+  "sample_id": "bank_statement_0980"
+}

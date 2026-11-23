@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL672594619",
+  "full_name": "John Boone",
+  "date_of_birth": "1981-06-20",
+  "class": "C",
+  "issue_date": "2021-10-10",
+  "expiry_date": "2026-10-10",
+  "address": "49368 Chelsea Shoals Suite 024, Sandrastad, AL 24278",
+  "sample_id": "driving_license_0067"
+}

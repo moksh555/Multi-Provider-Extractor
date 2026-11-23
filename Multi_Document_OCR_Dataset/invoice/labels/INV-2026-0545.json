@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0545",
+  "invoice_number": "INV-2026-0545",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "59 Al Barsha, Sylhet, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "72 Zindabazar Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-25",
+  "due_date": "2026-05-09",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 76.39,
+      "amount": 76.39
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 12,
+      "unit_price": 636.45,
+      "amount": 7637.4
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 144.66,
+      "amount": 723.3
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 4,
+      "unit_price": 351.39,
+      "amount": 1405.56
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 10,
+      "unit_price": 83.8,
+      "amount": 838.0
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 394.08,
+      "amount": 1576.32
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 161.78,
+      "amount": 161.78
+    }
+  ],
+  "subtotal": 12418.75,
+  "discount": 1241.88,
+  "tax_rate": 0.075,
+  "tax": 838.27,
+  "shipping": 5,
+  "total": 12020.14,
+  "amount_paid": 6430.03,
+  "balance_due": 5590.11,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801890664172",
+  "po_number": "PO-38833"
+}

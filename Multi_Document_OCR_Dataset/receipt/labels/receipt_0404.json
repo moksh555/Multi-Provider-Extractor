@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1AZHZKNL",
+  "merchant_name": "Zavala, Martinez and Brooks",
+  "date": "2025-04-16",
+  "subtotal": 707.52,
+  "tax": 79.1,
+  "discount": 7.31,
+  "total": 779.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$49.79",
+      "line_total": "$99.58"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$9.44",
+      "line_total": "$28.32"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$26.71",
+      "line_total": "$53.42"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$76.21",
+      "line_total": "$304.84"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$55.34",
+      "line_total": "$221.36"
+    }
+  ],
+  "sample_id": "receipt_0404"
+}

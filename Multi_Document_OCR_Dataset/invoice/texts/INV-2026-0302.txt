@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0302
+Company: Nexus Digital Solutions
+Company Address: 119 Motijheel C/A, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 143 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-21
+Due Date: 2026-03-08
+Currency: QAR
+Subtotal: 6933.3
+Tax: 520.0
+Total: 7453.3
+Balance Due: 7453.3
+Status: overdue

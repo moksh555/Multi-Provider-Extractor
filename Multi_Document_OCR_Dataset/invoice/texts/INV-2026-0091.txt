@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0091
+Company: BrightStar Electronics
+Company Address: 23 Agrabad C/A, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 85 Jumeirah Lake Towers, Doha, Qatar
+Invoice Date: 2026-06-03
+Due Date: 2026-07-18
+Currency: AED
+Subtotal: 9640.37
+Tax: 0.0
+Total: 9640.37
+Balance Due: 9640.37
+Status: overdue

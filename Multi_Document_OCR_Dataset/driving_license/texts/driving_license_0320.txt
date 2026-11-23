@@ -1,0 +1,16 @@
+Synthetic Driving License
+Julie Miller
+License: DL012089444
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL012089444",
+  "full_name": "Julie Miller",
+  "date_of_birth": "1988-05-20",
+  "class": "D",
+  "issue_date": "2020-03-10",
+  "expiry_date": "2025-03-10",
+  "address": "71894 Rebecca Place, South Shawnfort, OK 96683",
+  "sample_id": "driving_license_0320"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Randy Harris
+Passport No: P79790406
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P79790406",
+  "full_name": "Randy Harris",
+  "nationality": "AE",
+  "date_of_birth": "1993-05-21",
+  "issue_date": "2020-09-21",
+  "expiry_date": "2030-09-21",
+  "place_of_birth": "Castroland",
+  "sample_id": "passport_0683"
+}

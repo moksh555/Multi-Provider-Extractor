@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0507",
+  "invoice_number": "INV-2026-0507",
+  "company_name": "CityBanking Supplies",
+  "company_address": "64 Uttara Sector 7, Dubai, UAE",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "16 Road 12, Banani, Doha, Qatar",
+  "invoice_date": "2026-05-15",
+  "due_date": "2026-06-14",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 8,
+      "unit_price": 699.17,
+      "amount": 5593.36
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 830.4,
+      "amount": 1660.8
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 10,
+      "unit_price": 35.39,
+      "amount": 353.9
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 10,
+      "unit_price": 720.64,
+      "amount": 7206.4
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 376.11,
+      "amount": 752.22
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 1,
+      "unit_price": 347.89,
+      "amount": 347.89
+    }
+  ],
+  "subtotal": 15914.57,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1193.59,
+  "shipping": 50,
+  "total": 17158.16,
+  "amount_paid": 0,
+  "balance_due": 17158.16,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801797926711",
+  "po_number": "PO-32552"
+}

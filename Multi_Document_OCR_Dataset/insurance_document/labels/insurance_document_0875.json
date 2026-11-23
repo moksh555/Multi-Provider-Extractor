@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8OBS7587H",
+  "policy_holder": "Tony Rodriguez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-10-13",
+  "expiry_date": "2024-10-13",
+  "premium": 429.14,
+  "coverage_amount": 173242.09,
+  "beneficiary": "Michael Rodriguez",
+  "sample_id": "insurance_document_0875"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jamie Robinson
+Passport No: P78514678
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P78514678",
+  "full_name": "Jamie Robinson",
+  "nationality": "BD",
+  "date_of_birth": "2004-04-01",
+  "issue_date": "2021-11-20",
+  "expiry_date": "2031-11-20",
+  "place_of_birth": "Lynchside",
+  "sample_id": "passport_0061"
+}

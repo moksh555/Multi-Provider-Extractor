@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0249",
+  "invoice_number": "INV-2026-0249",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "66 Dhanmondi 27, Dubai, UAE",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "250 Uttara Sector 7, Doha, Qatar",
+  "invoice_date": "2026-05-12",
+  "due_date": "2026-05-27",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 11,
+      "unit_price": 266.62,
+      "amount": 2932.82
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 11,
+      "unit_price": 93.94,
+      "amount": 1033.34
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 635.31,
+      "amount": 1270.62
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 760.83,
+      "amount": 760.83
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 5,
+      "unit_price": 32.07,
+      "amount": 160.35
+    }
+  ],
+  "subtotal": 6157.96,
+  "discount": 123.16,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 6084.8,
+  "amount_paid": 0,
+  "balance_due": 6084.8,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801429041550",
+  "po_number": "PO-20674"
+}

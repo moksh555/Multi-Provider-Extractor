@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JM3UM94W",
+  "account_holder": "Brian Thompson",
+  "account_number_masked": "****6130",
+  "period_start": "2026-12-07",
+  "period_end": "2027-01-06",
+  "opening_balance": 4131.32,
+  "closing_balance": 7785.89,
+  "transactions": 10,
+  "sample_id": "bank_statement_0270"
+}

@@ -1,0 +1,61 @@
+Receipt RCT-S1F3KWBN
+Merchant: Meza Group
+Date: 2021-06-15
+Total: $530.94
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-S1F3KWBN",
+  "merchant_name": "Meza Group",
+  "date": "2021-06-15",
+  "subtotal": 500.04,
+  "tax": 31.63,
+  "discount": 0.73,
+  "total": 530.94,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$3.07",
+      "line_total": "$12.28"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$53.30",
+      "line_total": "$53.30"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$28.28",
+      "line_total": "$113.12"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$29.56",
+      "line_total": "$29.56"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$33.01",
+      "line_total": "$66.02"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$33.62",
+      "line_total": "$67.24"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$79.26",
+      "line_total": "$158.52"
+    }
+  ],
+  "sample_id": "receipt_0512"
+}

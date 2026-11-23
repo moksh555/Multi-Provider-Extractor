@@ -1,0 +1,55 @@
+Receipt RCT-1JX1OI0X
+Merchant: Carter, Hall and Moreno
+Date: 2024-05-21
+Total: $584.47
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1JX1OI0X",
+  "merchant_name": "Carter, Hall and Moreno",
+  "date": "2024-05-21",
+  "subtotal": 529.01,
+  "tax": 63.23,
+  "discount": 7.77,
+  "total": 584.47,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$2.44",
+      "line_total": "$7.32"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$32.64",
+      "line_total": "$97.92"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$21.10",
+      "line_total": "$21.10"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$57.91",
+      "line_total": "$231.64"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$10.83",
+      "line_total": "$32.49"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$46.18",
+      "line_total": "$138.54"
+    }
+  ],
+  "sample_id": "receipt_0902"
+}

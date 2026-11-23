@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0626",
+  "invoice_number": "INV-2026-0626",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "173 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "161 Agrabad C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-01-20",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 541.51,
+      "amount": 3249.06
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 11,
+      "unit_price": 435.04,
+      "amount": 4785.44
+    }
+  ],
+  "subtotal": 8034.5,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 8084.5,
+  "amount_paid": 0,
+  "balance_due": 8084.5,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801417066112",
+  "po_number": "PO-16860"
+}

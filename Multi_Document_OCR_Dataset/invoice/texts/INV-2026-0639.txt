@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0639
+Company: Golden Harvest Store
+Company Address: 63 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 51 Jumeirah Lake Towers, Doha, Qatar
+Invoice Date: 2026-05-03
+Due Date: 2026-06-02
+Currency: USD
+Subtotal: 15066.99
+Tax: 753.35
+Total: 15820.34
+Balance Due: 15820.34
+Status: unpaid

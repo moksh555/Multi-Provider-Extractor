@@ -1,0 +1,25 @@
+Resume
+Christopher Gutierrez
+Machine Learning Engineer
+Skills: Streamlit, PyTorch, Docker, AWS, Deep Learning, Python, NLP, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Christopher Gutierrez",
+  "email": "benjaminmcgrath@example.net",
+  "phone": "6786101012",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "PyTorch",
+    "Docker",
+    "AWS",
+    "Deep Learning",
+    "Python",
+    "NLP",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0747"
+}

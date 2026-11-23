@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0738
+Company: Royal Diagnostics Center
+Company Address: 150 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 4 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-06-28
+Due Date: 2026-07-28
+Currency: SAR
+Subtotal: 10284.13
+Tax: 976.99
+Total: 10746.91
+Balance Due: 3258.57
+Status: partial

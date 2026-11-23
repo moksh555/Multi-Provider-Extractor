@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CE0X6M8N",
+  "account_holder": "Eric Davis",
+  "account_number_masked": "****4169",
+  "period_start": "2026-06-26",
+  "period_end": "2026-07-26",
+  "opening_balance": 1502.06,
+  "closing_balance": 4572.21,
+  "transactions": 8,
+  "sample_id": "bank_statement_0365"
+}

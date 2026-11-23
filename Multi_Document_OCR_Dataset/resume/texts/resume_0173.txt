@@ -1,0 +1,26 @@
+Resume
+Deborah Chandler
+Machine Learning Engineer
+Skills: Streamlit, TensorFlow, Deep Learning, PyTorch, AWS, Pandas, Machine Learning, LangChain, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Deborah Chandler",
+  "email": "hancocktristan@example.org",
+  "phone": "3142811604",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Streamlit",
+    "TensorFlow",
+    "Deep Learning",
+    "PyTorch",
+    "AWS",
+    "Pandas",
+    "Machine Learning",
+    "LangChain",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0173"
+}

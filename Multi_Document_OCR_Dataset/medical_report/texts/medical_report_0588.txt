@@ -1,0 +1,14 @@
+Medical Report MED-2Z10G567
+Patient: Kenneth Hickman
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2Z10G567",
+  "patient_name": "Kenneth Hickman",
+  "visit_date": "2024-01-31",
+  "doctor_name": "Dr. Michael Gibson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0588"
+}

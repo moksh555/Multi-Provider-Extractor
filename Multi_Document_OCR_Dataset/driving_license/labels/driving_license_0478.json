@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL451996895",
+  "full_name": "Jane Morris",
+  "date_of_birth": "2001-08-24",
+  "class": "C",
+  "issue_date": "2022-05-02",
+  "expiry_date": "2027-05-02",
+  "address": "71302 David Extensions, East William, NE 95526",
+  "sample_id": "driving_license_0478"
+}

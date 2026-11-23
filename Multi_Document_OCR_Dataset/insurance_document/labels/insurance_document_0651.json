@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8UACT49LN",
+  "policy_holder": "Michael Carter",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-11-30",
+  "expiry_date": "2026-11-30",
+  "premium": 1699.71,
+  "coverage_amount": 299480.23,
+  "beneficiary": "Susan Johnson",
+  "sample_id": "insurance_document_0651"
+}

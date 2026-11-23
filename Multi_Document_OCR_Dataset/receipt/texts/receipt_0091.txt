@@ -1,0 +1,37 @@
+Receipt RCT-FOKZIXZA
+Merchant: Gonzales, Huber and Morgan
+Date: 2026-05-08
+Total: $174.01
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FOKZIXZA",
+  "merchant_name": "Gonzales, Huber and Morgan",
+  "date": "2026-05-08",
+  "subtotal": 164.78,
+  "tax": 11.21,
+  "discount": 1.98,
+  "total": 174.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$42.04",
+      "line_total": "$84.08"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$1.64",
+      "line_total": "$1.64"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$79.06",
+      "line_total": "$79.06"
+    }
+  ],
+  "sample_id": "receipt_0091"
+}

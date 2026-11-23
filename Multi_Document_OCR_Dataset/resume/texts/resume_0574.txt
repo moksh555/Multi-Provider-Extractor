@@ -1,0 +1,27 @@
+Resume
+Nicholas Young
+Backend Developer
+Skills: Deep Learning, SQL, NLP, Python, FastAPI, PyTorch, Docker, TensorFlow, Computer Vision, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Nicholas Young",
+  "email": "pattonkendra@example.net",
+  "phone": "+1-524-249-6639x00045",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Deep Learning",
+    "SQL",
+    "NLP",
+    "Python",
+    "FastAPI",
+    "PyTorch",
+    "Docker",
+    "TensorFlow",
+    "Computer Vision",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0574"
+}

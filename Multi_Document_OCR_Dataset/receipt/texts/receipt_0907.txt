@@ -1,0 +1,37 @@
+Receipt RCT-5SPUDEEH
+Merchant: Leon Group
+Date: 2022-11-12
+Total: $351.17
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5SPUDEEH",
+  "merchant_name": "Leon Group",
+  "date": "2022-11-12",
+  "subtotal": 336.6,
+  "tax": 26.66,
+  "discount": 12.09,
+  "total": 351.17,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$26.46",
+      "line_total": "$52.92"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$7.53",
+      "line_total": "$30.12"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$63.39",
+      "line_total": "$253.56"
+    }
+  ],
+  "sample_id": "receipt_0907"
+}

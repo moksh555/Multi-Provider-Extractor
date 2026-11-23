@@ -1,0 +1,14 @@
+Medical Report MED-HA16XAWE
+Patient: Michael Chen
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HA16XAWE",
+  "patient_name": "Michael Chen",
+  "visit_date": "2025-09-25",
+  "doctor_name": "Dr. Dr. James Santos MD",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0463"
+}

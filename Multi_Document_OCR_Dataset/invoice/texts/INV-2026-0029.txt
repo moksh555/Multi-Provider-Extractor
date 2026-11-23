@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0029
+Company: Royal Diagnostics Center
+Company Address: 33 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 111 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-06
+Due Date: 2026-04-21
+Currency: QAR
+Subtotal: 22257.89
+Tax: 3004.81
+Total: 23036.91
+Balance Due: 0.0
+Status: paid

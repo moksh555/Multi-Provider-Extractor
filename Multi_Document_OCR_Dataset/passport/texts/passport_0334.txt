@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Beth Williams
+Passport No: P24372323
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24372323",
+  "full_name": "Beth Williams",
+  "nationality": "GB",
+  "date_of_birth": "1999-04-07",
+  "issue_date": "2026-09-06",
+  "expiry_date": "2036-09-06",
+  "place_of_birth": "Timothytown",
+  "sample_id": "passport_0334"
+}

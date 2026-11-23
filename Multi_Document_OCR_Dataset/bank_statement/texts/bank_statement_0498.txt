@@ -1,0 +1,16 @@
+Bank Statement STM-5B0L8O9I
+Holder: Kristen Rivera
+Closing Balance: $3165.46
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5B0L8O9I",
+  "account_holder": "Kristen Rivera",
+  "account_number_masked": "****4391",
+  "period_start": "2024-05-16",
+  "period_end": "2024-06-15",
+  "opening_balance": 1933.55,
+  "closing_balance": 3165.46,
+  "transactions": 10,
+  "sample_id": "bank_statement_0498"
+}

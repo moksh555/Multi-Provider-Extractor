@@ -1,0 +1,14 @@
+Medical Report MED-A2OC8I0P
+Patient: Jordan Webb
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-A2OC8I0P",
+  "patient_name": "Jordan Webb",
+  "visit_date": "2025-11-06",
+  "doctor_name": "Dr. James Hansen",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0317"
+}

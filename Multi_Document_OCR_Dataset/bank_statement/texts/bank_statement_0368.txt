@@ -1,0 +1,16 @@
+Bank Statement STM-BLOP6XOY
+Holder: Veronica Stevens
+Closing Balance: $4105.25
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BLOP6XOY",
+  "account_holder": "Veronica Stevens",
+  "account_number_masked": "****3306",
+  "period_start": "2024-03-16",
+  "period_end": "2024-04-15",
+  "opening_balance": 2314.73,
+  "closing_balance": 4105.25,
+  "transactions": 11,
+  "sample_id": "bank_statement_0368"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "James Gonzales",
+  "email": "brandonlawrence@example.net",
+  "phone": "(706)669-9128x568",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "FastAPI",
+    "Streamlit",
+    "LangChain",
+    "NLP",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0858"
+}

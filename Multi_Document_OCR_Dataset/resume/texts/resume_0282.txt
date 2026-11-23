@@ -1,0 +1,25 @@
+Resume
+Derek Hull
+Backend Developer
+Skills: NLP, Deep Learning, Machine Learning, AWS, LangChain, Python, PyTorch, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Derek Hull",
+  "email": "jeffrivera@example.net",
+  "phone": "001-947-942-2983x5966",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "Deep Learning",
+    "Machine Learning",
+    "AWS",
+    "LangChain",
+    "Python",
+    "PyTorch",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0282"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ashley Cardenas
+Passport No: P45553733
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P45553733",
+  "full_name": "Ashley Cardenas",
+  "nationality": "AE",
+  "date_of_birth": "1987-07-20",
+  "issue_date": "2022-07-08",
+  "expiry_date": "2032-07-08",
+  "place_of_birth": "Port Desireeburgh",
+  "sample_id": "passport_0815"
+}

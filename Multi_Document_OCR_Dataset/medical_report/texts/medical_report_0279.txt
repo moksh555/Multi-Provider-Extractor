@@ -1,0 +1,14 @@
+Medical Report MED-B1GUUJ2Y
+Patient: Robert Tanner
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-B1GUUJ2Y",
+  "patient_name": "Robert Tanner",
+  "visit_date": "2024-01-15",
+  "doctor_name": "Dr. Savannah Beck",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0279"
+}

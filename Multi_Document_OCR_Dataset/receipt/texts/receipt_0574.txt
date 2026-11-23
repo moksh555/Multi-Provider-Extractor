@@ -1,0 +1,49 @@
+Receipt RCT-RUHCU5M7
+Merchant: Pope, Roach and Hoffman
+Date: 2021-02-25
+Total: $555.73
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RUHCU5M7",
+  "merchant_name": "Pope, Roach and Hoffman",
+  "date": "2021-02-25",
+  "subtotal": 505.46,
+  "tax": 55.4,
+  "discount": 5.13,
+  "total": 555.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$79.54",
+      "line_total": "$159.08"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$68.37",
+      "line_total": "$205.11"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$12.63",
+      "line_total": "$12.63"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$5.22",
+      "line_total": "$10.44"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$59.10",
+      "line_total": "$118.20"
+    }
+  ],
+  "sample_id": "receipt_0574"
+}

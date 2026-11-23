@@ -1,0 +1,37 @@
+Receipt RCT-112HXRJM
+Merchant: Davis Ltd
+Date: 2021-03-14
+Total: $195.42
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-112HXRJM",
+  "merchant_name": "Davis Ltd",
+  "date": "2021-03-14",
+  "subtotal": 190.12,
+  "tax": 16.99,
+  "discount": 11.69,
+  "total": 195.42,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$31.31",
+      "line_total": "$31.31"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$35.96",
+      "line_total": "$143.84"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$14.97",
+      "line_total": "$14.97"
+    }
+  ],
+  "sample_id": "receipt_0217"
+}

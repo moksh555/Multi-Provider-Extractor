@@ -1,0 +1,26 @@
+Resume
+Barbara Campbell
+Computer Vision Engineer
+Skills: Pandas, Streamlit, Python, Computer Vision, AWS, FastAPI, NLP, TensorFlow, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Barbara Campbell",
+  "email": "jonesjohn@example.com",
+  "phone": "850.669.6261",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Pandas",
+    "Streamlit",
+    "Python",
+    "Computer Vision",
+    "AWS",
+    "FastAPI",
+    "NLP",
+    "TensorFlow",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0176"
+}

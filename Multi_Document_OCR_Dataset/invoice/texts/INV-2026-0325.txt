@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0325
+Company: Greenline Logistics
+Company Address: 152 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 33 Jumeirah Lake Towers, Dhaka, Bangladesh
+Invoice Date: 2026-05-01
+Due Date: 2026-06-15
+Currency: USD
+Subtotal: 17014.4
+Tax: 850.72
+Total: 17915.12
+Balance Due: 0.0
+Status: paid

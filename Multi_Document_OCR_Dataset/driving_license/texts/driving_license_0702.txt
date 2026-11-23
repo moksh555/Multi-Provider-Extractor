@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Clark
+License: DL387508586
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL387508586",
+  "full_name": "Michael Clark",
+  "date_of_birth": "1978-08-12",
+  "class": "B",
+  "issue_date": "2021-04-25",
+  "expiry_date": "2026-04-25",
+  "address": "0566 Grant Streets Apt. 398, Gatesville, CA 32369",
+  "sample_id": "driving_license_0702"
+}

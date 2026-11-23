@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0767",
+  "invoice_number": "INV-2026-0767",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "194 Road 12, Banani, Dubai, UAE",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "187 Sheikh Zayed Road, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-30",
+  "due_date": "2026-03-16",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 7,
+      "unit_price": 607.98,
+      "amount": 4255.86
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 2,
+      "unit_price": 849.46,
+      "amount": 1698.92
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 4,
+      "unit_price": 58.82,
+      "amount": 235.28
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 8,
+      "unit_price": 313.85,
+      "amount": 2510.8
+    }
+  ],
+  "subtotal": 8700.86,
+  "discount": 435.04,
+  "tax_rate": 0.075,
+  "tax": 619.94,
+  "shipping": 5,
+  "total": 8890.76,
+  "amount_paid": 8890.76,
+  "balance_due": 0.0,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801739277556",
+  "po_number": "PO-37296"
+}

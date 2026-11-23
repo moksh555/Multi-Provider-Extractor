@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0579
+Company: SkyNet Office Mart
+Company Address: 51 Agrabad C/A, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 45 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-04-07
+Due Date: 2026-05-07
+Currency: USD
+Subtotal: 14336.19
+Tax: 967.69
+Total: 13880.26
+Balance Due: 5489.51
+Status: partial

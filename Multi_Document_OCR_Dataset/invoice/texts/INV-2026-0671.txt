@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0671
+Company: Golden Harvest Store
+Company Address: 76 Zindabazar Road, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 226 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-03-04
+Due Date: 2026-03-19
+Currency: SAR
+Subtotal: 22237.71
+Tax: 3168.87
+Total: 24294.69
+Balance Due: 0.0
+Status: paid

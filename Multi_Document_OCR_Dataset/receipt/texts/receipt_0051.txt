@@ -1,0 +1,43 @@
+Receipt RCT-5BRN7ZSE
+Merchant: Lozano, Smith and Thomas
+Date: 2021-12-10
+Total: $671.11
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5BRN7ZSE",
+  "merchant_name": "Lozano, Smith and Thomas",
+  "date": "2021-12-10",
+  "subtotal": 627.48,
+  "tax": 47.17,
+  "discount": 3.54,
+  "total": 671.11,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$72.52",
+      "line_total": "$290.08"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$8.25",
+      "line_total": "$33.00"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$70.89",
+      "line_total": "$283.56"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$5.21",
+      "line_total": "$20.84"
+    }
+  ],
+  "sample_id": "receipt_0051"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Katherine Reeves
+License: DL569372220
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL569372220",
+  "full_name": "Katherine Reeves",
+  "date_of_birth": "1981-09-29",
+  "class": "A",
+  "issue_date": "2022-04-23",
+  "expiry_date": "2027-04-23",
+  "address": "22299 Samuel Lakes, Smithhaven, MH 91440",
+  "sample_id": "driving_license_0807"
+}

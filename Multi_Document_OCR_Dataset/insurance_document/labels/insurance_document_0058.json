@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z7SRCBPLJ",
+  "policy_holder": "Joseph Moore",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-04-13",
+  "expiry_date": "2025-04-13",
+  "premium": 2409.35,
+  "coverage_amount": 419619.72,
+  "beneficiary": "Douglas Ortiz",
+  "sample_id": "insurance_document_0058"
+}

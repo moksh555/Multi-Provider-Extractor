@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TKCAKDP3",
+  "merchant_name": "Rivas, Brown and Leach",
+  "date": "2021-11-02",
+  "subtotal": 459.9,
+  "tax": 45.41,
+  "discount": 10.71,
+  "total": 494.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$4.70",
+      "line_total": "$9.40"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$73.02",
+      "line_total": "$219.06"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$57.86",
+      "line_total": "$231.44"
+    }
+  ],
+  "sample_id": "receipt_0693"
+}

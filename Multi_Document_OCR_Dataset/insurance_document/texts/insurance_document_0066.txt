@@ -1,0 +1,16 @@
+Insurance Policy POL-59IN4OLR6
+Holder: Howard Norman
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-59IN4OLR6",
+  "policy_holder": "Howard Norman",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-03-01",
+  "expiry_date": "2026-03-01",
+  "premium": 2472.43,
+  "coverage_amount": 398272.89,
+  "beneficiary": "Evelyn Martinez",
+  "sample_id": "insurance_document_0066"
+}

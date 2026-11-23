@@ -1,0 +1,37 @@
+Receipt RCT-7U1P8OTX
+Merchant: Castillo-Richard
+Date: 2025-07-21
+Total: $404.40
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7U1P8OTX",
+  "merchant_name": "Castillo-Richard",
+  "date": "2025-07-21",
+  "subtotal": 363.99,
+  "tax": 43.19,
+  "discount": 2.78,
+  "total": 404.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$6.86",
+      "line_total": "$13.72"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$71.56",
+      "line_total": "$286.24"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$64.03",
+      "line_total": "$64.03"
+    }
+  ],
+  "sample_id": "receipt_0620"
+}

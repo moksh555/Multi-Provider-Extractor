@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0993",
+  "invoice_number": "INV-2026-0993",
+  "company_name": "BrightStar Electronics",
+  "company_address": "26 Uttara Sector 7, Sylhet, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "109 Zindabazar Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-03-05",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 36.4,
+      "amount": 254.8
+    },
+    {
+      "description": "Web Development",
+      "quantity": 11,
+      "unit_price": 699.73,
+      "amount": 7697.03
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 2,
+      "unit_price": 589.85,
+      "amount": 1179.7
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 8,
+      "unit_price": 833.5,
+      "amount": 6668.0
+    }
+  ],
+  "subtotal": 15799.53,
+  "discount": 1579.95,
+  "tax_rate": 0.075,
+  "tax": 1066.47,
+  "shipping": 50,
+  "total": 15336.05,
+  "amount_paid": 0,
+  "balance_due": 15336.05,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801962482169",
+  "po_number": "PO-58044"
+}

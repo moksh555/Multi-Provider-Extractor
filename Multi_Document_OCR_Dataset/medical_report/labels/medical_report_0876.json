@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-W3XBWR92",
+  "patient_name": "Tracy Mcdonald",
+  "visit_date": "2026-01-11",
+  "doctor_name": "Dr. Amber Blankenship",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0876"
+}

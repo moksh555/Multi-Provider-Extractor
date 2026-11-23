@@ -1,0 +1,27 @@
+Resume
+Nicole Crosby
+Data Analyst
+Skills: Machine Learning, Deep Learning, AWS, LangChain, Docker, Pandas, NLP, PyTorch, Streamlit, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Nicole Crosby",
+  "email": "frankjimenez@example.net",
+  "phone": "8989348492",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "AWS",
+    "LangChain",
+    "Docker",
+    "Pandas",
+    "NLP",
+    "PyTorch",
+    "Streamlit",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0358"
+}

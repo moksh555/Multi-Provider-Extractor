@@ -1,0 +1,55 @@
+Receipt RCT-JP3HTNCV
+Merchant: Cabrera-Medina
+Date: 2023-06-10
+Total: $923.05
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JP3HTNCV",
+  "merchant_name": "Cabrera-Medina",
+  "date": "2023-06-10",
+  "subtotal": 880.4,
+  "tax": 51.33,
+  "discount": 8.68,
+  "total": 923.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$51.70",
+      "line_total": "$51.70"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$51.85",
+      "line_total": "$103.70"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$43.39",
+      "line_total": "$86.78"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$64.51",
+      "line_total": "$258.04"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$70.90",
+      "line_total": "$141.80"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$79.46",
+      "line_total": "$238.38"
+    }
+  ],
+  "sample_id": "receipt_0578"
+}

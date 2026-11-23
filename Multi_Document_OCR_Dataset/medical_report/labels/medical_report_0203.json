@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-YIZYZ8CU",
+  "patient_name": "Jeremy Coleman",
+  "visit_date": "2026-09-03",
+  "doctor_name": "Dr. Jason Jackson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0203"
+}

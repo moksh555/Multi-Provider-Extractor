@@ -1,0 +1,16 @@
+Bank Statement STM-EHKBICIC
+Holder: Kim Gomez
+Closing Balance: $8736.98
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EHKBICIC",
+  "account_holder": "Kim Gomez",
+  "account_number_masked": "****8477",
+  "period_start": "2024-08-03",
+  "period_end": "2024-09-02",
+  "opening_balance": 4403.32,
+  "closing_balance": 8736.98,
+  "transactions": 14,
+  "sample_id": "bank_statement_0644"
+}

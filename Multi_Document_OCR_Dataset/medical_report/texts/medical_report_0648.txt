@@ -1,0 +1,14 @@
+Medical Report MED-VZSR87R9
+Patient: Brandon Green
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-VZSR87R9",
+  "patient_name": "Brandon Green",
+  "visit_date": "2025-02-11",
+  "doctor_name": "Dr. Kristopher Perez",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0648"
+}

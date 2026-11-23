@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ESP7BM41Q",
+  "policy_holder": "Jane Reese",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-12-01",
+  "expiry_date": "2027-12-01",
+  "premium": 1353.33,
+  "coverage_amount": 164669.12,
+  "beneficiary": "Jennifer Smith",
+  "sample_id": "insurance_document_0336"
+}

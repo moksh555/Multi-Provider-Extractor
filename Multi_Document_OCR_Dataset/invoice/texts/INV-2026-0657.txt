@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0657
+Company: Eastern Care Pharmacy
+Company Address: 25 Doha Business Park, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 209 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-06-20
+Due Date: 2026-07-20
+Currency: SAR
+Subtotal: 19759.47
+Tax: 0.0
+Total: 17783.52
+Balance Due: 0.0
+Status: paid

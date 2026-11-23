@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Tate
+License: DL237675596
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL237675596",
+  "full_name": "James Tate",
+  "date_of_birth": "1990-05-08",
+  "class": "A",
+  "issue_date": "2025-10-27",
+  "expiry_date": "2030-10-27",
+  "address": "PSC 9222, Box 2064, APO AA 96204",
+  "sample_id": "driving_license_0296"
+}

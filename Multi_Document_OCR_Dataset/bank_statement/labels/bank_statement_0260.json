@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TFAIXG2G",
+  "account_holder": "Mark Perez",
+  "account_number_masked": "****3220",
+  "period_start": "2025-02-07",
+  "period_end": "2025-03-09",
+  "opening_balance": 3583.14,
+  "closing_balance": 4503.97,
+  "transactions": 8,
+  "sample_id": "bank_statement_0260"
+}

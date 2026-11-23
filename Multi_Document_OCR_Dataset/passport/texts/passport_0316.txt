@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kimberly Parker
+Passport No: P16640238
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P16640238",
+  "full_name": "Kimberly Parker",
+  "nationality": "AE",
+  "date_of_birth": "1977-06-02",
+  "issue_date": "2026-05-11",
+  "expiry_date": "2036-05-11",
+  "place_of_birth": "Johnmouth",
+  "sample_id": "passport_0316"
+}

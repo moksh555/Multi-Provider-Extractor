@@ -1,0 +1,16 @@
+Insurance Policy POL-Q9BC2BE3Y
+Holder: Jeremy Walker
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Q9BC2BE3Y",
+  "policy_holder": "Jeremy Walker",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-10-20",
+  "expiry_date": "2027-10-20",
+  "premium": 2191.08,
+  "coverage_amount": 272915.08,
+  "beneficiary": "Matthew Patel",
+  "sample_id": "insurance_document_0443"
+}

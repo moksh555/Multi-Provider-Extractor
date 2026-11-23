@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z8V12II82",
+  "policy_holder": "Jessica Robinson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-01-23",
+  "expiry_date": "2026-01-23",
+  "premium": 1734.37,
+  "coverage_amount": 289505.5,
+  "beneficiary": "Noah Valdez",
+  "sample_id": "insurance_document_0107"
+}

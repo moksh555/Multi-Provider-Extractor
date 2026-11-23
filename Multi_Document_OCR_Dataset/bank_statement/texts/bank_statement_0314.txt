@@ -1,0 +1,16 @@
+Bank Statement STM-YADJC88K
+Holder: Traci Rodriguez
+Closing Balance: $783.45
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YADJC88K",
+  "account_holder": "Traci Rodriguez",
+  "account_number_masked": "****1435",
+  "period_start": "2025-10-19",
+  "period_end": "2025-11-18",
+  "opening_balance": 606.99,
+  "closing_balance": 783.45,
+  "transactions": 8,
+  "sample_id": "bank_statement_0314"
+}

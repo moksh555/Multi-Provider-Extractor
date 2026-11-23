@@ -1,0 +1,14 @@
+Medical Report MED-OALKA91A
+Patient: Angela Boyer
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OALKA91A",
+  "patient_name": "Angela Boyer",
+  "visit_date": "2026-06-06",
+  "doctor_name": "Dr. Donald Williams",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0287"
+}

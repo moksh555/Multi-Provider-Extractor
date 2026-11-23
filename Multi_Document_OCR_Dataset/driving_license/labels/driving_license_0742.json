@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL118147601",
+  "full_name": "Monica Oconnor",
+  "date_of_birth": "1975-12-11",
+  "class": "B",
+  "issue_date": "2024-06-02",
+  "expiry_date": "2029-06-02",
+  "address": "07151 Sophia Ports, Ballardfurt, UT 62682",
+  "sample_id": "driving_license_0742"
+}

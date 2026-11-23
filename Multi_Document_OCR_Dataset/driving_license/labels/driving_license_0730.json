@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL264243166",
+  "full_name": "Ryan Day",
+  "date_of_birth": "1971-09-09",
+  "class": "C",
+  "issue_date": "2023-09-18",
+  "expiry_date": "2028-09-18",
+  "address": "35996 Higgins Canyon, Deborahmouth, PR 60891",
+  "sample_id": "driving_license_0730"
+}

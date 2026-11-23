@@ -1,0 +1,14 @@
+Medical Report MED-Z4PB7Z9J
+Patient: Diana Martinez
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Z4PB7Z9J",
+  "patient_name": "Diana Martinez",
+  "visit_date": "2026-01-30",
+  "doctor_name": "Dr. Brandon Wilson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0323"
+}

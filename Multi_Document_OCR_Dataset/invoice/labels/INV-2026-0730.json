@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0730",
+  "invoice_number": "INV-2026-0730",
+  "company_name": "Delta Insurance Services",
+  "company_address": "176 Gulshan Avenue, Doha, Qatar",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "198 Zindabazar Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-28",
+  "due_date": "2026-07-12",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 8,
+      "unit_price": 207.73,
+      "amount": 1661.84
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 5,
+      "unit_price": 526.23,
+      "amount": 2631.15
+    }
+  ],
+  "subtotal": 4292.99,
+  "discount": 429.3,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 3888.69,
+  "amount_paid": 0,
+  "balance_due": 3888.69,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801622496831",
+  "po_number": "PO-94587"
+}

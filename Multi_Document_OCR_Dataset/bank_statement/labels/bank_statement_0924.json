@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H9FC69Q0",
+  "account_holder": "Mathew Warren",
+  "account_number_masked": "****3974",
+  "period_start": "2026-06-01",
+  "period_end": "2026-07-01",
+  "opening_balance": 2137.19,
+  "closing_balance": 1917.75,
+  "transactions": 14,
+  "sample_id": "bank_statement_0924"
+}

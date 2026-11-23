@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TA83RU7M",
+  "merchant_name": "Powell-Montgomery",
+  "date": "2024-05-25",
+  "subtotal": 658.09,
+  "tax": 57.22,
+  "discount": 11.03,
+  "total": 704.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$29.86",
+      "line_total": "$29.86"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$67.45",
+      "line_total": "$67.45"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$14.95",
+      "line_total": "$29.90"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$53.20",
+      "line_total": "$212.80"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$71.82",
+      "line_total": "$287.28"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$7.70",
+      "line_total": "$30.80"
+    }
+  ],
+  "sample_id": "receipt_0193"
+}

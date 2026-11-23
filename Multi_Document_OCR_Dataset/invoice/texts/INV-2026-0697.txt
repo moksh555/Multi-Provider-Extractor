@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0697
+Company: BrightStar Electronics
+Company Address: 116 Al Barsha, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 234 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-05-03
+Due Date: 2026-05-10
+Currency: AED
+Subtotal: 9696.92
+Tax: 1454.54
+Total: 11151.46
+Balance Due: 11151.46
+Status: unpaid

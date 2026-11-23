@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0730
+Company: Delta Insurance Services
+Company Address: 176 Gulshan Avenue, Doha, Qatar
+Customer: Ocean Exporters
+Billing Address: 198 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-05-28
+Due Date: 2026-07-12
+Currency: SAR
+Subtotal: 4292.99
+Tax: 0.0
+Total: 3888.69
+Balance Due: 3888.69
+Status: unpaid

@@ -1,0 +1,14 @@
+Medical Report MED-QUCPYQ0C
+Patient: Ronald Barnes
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QUCPYQ0C",
+  "patient_name": "Ronald Barnes",
+  "visit_date": "2024-09-15",
+  "doctor_name": "Dr. April Morgan",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0388"
+}

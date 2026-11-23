@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nathan David
+License: DL860430560
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL860430560",
+  "full_name": "Nathan David",
+  "date_of_birth": "1983-01-13",
+  "class": "A",
+  "issue_date": "2020-05-23",
+  "expiry_date": "2025-05-23",
+  "address": "673 Benitez Radial, Brownton, SC 45418",
+  "sample_id": "driving_license_0703"
+}

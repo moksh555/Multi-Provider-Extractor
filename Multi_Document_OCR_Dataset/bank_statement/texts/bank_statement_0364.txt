@@ -1,0 +1,16 @@
+Bank Statement STM-ZP3UFR41
+Holder: Lucas West Jr.
+Closing Balance: $5268.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZP3UFR41",
+  "account_holder": "Lucas West Jr.",
+  "account_number_masked": "****5579",
+  "period_start": "2024-03-12",
+  "period_end": "2024-04-11",
+  "opening_balance": 3067.88,
+  "closing_balance": 5268.38,
+  "transactions": 12,
+  "sample_id": "bank_statement_0364"
+}

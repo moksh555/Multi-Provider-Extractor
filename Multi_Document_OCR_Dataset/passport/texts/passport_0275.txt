@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: David Hudson
+Passport No: P50530070
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P50530070",
+  "full_name": "David Hudson",
+  "nationality": "BD",
+  "date_of_birth": "1971-10-01",
+  "issue_date": "2026-04-18",
+  "expiry_date": "2036-04-18",
+  "place_of_birth": "West Carrieborough",
+  "sample_id": "passport_0275"
+}

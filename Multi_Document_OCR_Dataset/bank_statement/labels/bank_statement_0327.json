@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0SF8W9US",
+  "account_holder": "Megan Fuller",
+  "account_number_masked": "****0032",
+  "period_start": "2025-04-02",
+  "period_end": "2025-05-02",
+  "opening_balance": 4826.97,
+  "closing_balance": 9017.95,
+  "transactions": 14,
+  "sample_id": "bank_statement_0327"
+}

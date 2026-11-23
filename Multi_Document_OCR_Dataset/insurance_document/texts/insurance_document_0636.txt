@@ -1,0 +1,16 @@
+Insurance Policy POL-IUXFEDZNZ
+Holder: David Cook
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IUXFEDZNZ",
+  "policy_holder": "David Cook",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-11-27",
+  "expiry_date": "2026-11-27",
+  "premium": 2285.68,
+  "coverage_amount": 439243.02,
+  "beneficiary": "Tyler Smith",
+  "sample_id": "insurance_document_0636"
+}

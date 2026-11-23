@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0704",
+  "invoice_number": "INV-2026-0704",
+  "company_name": "Golden Harvest Store",
+  "company_address": "174 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "73 Sheikh Zayed Road, Doha, Qatar",
+  "invoice_date": "2026-02-22",
+  "due_date": "2026-04-08",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 10,
+      "unit_price": 37.74,
+      "amount": 377.4
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 451.61,
+      "amount": 3161.27
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 321.71,
+      "amount": 2573.68
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 650.33,
+      "amount": 3901.98
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 2,
+      "unit_price": 365.84,
+      "amount": 731.68
+    }
+  ],
+  "subtotal": 10746.01,
+  "discount": 537.3,
+  "tax_rate": 0.075,
+  "tax": 765.65,
+  "shipping": 5,
+  "total": 10979.36,
+  "amount_paid": 10979.36,
+  "balance_due": 0.0,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801067823900",
+  "po_number": "PO-64517"
+}

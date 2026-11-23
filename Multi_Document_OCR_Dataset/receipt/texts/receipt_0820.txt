@@ -1,0 +1,37 @@
+Receipt RCT-GWDSHLLS
+Merchant: Jarvis Ltd
+Date: 2023-03-19
+Total: $463.45
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GWDSHLLS",
+  "merchant_name": "Jarvis Ltd",
+  "date": "2023-03-19",
+  "subtotal": 436.57,
+  "tax": 30.81,
+  "discount": 3.93,
+  "total": 463.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$73.85",
+      "line_total": "$73.85"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$23.26",
+      "line_total": "$93.04"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$67.42",
+      "line_total": "$269.68"
+    }
+  ],
+  "sample_id": "receipt_0820"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Darren Rodriguez
+License: DL519554784
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL519554784",
+  "full_name": "Darren Rodriguez",
+  "date_of_birth": "1987-10-12",
+  "class": "D",
+  "issue_date": "2023-11-23",
+  "expiry_date": "2028-11-23",
+  "address": "Unit 1718 Box 2754, DPO AP 95152",
+  "sample_id": "driving_license_0370"
+}

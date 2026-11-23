@@ -1,0 +1,16 @@
+Synthetic Driving License
+Stephanie Alvarez
+License: DL351426667
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL351426667",
+  "full_name": "Stephanie Alvarez",
+  "date_of_birth": "1968-11-25",
+  "class": "A",
+  "issue_date": "2020-12-24",
+  "expiry_date": "2025-12-24",
+  "address": "532 Harrington Ports Apt. 993, South Anna, FM 03043",
+  "sample_id": "driving_license_0781"
+}

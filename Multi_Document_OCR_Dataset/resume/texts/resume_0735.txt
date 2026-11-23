@@ -1,0 +1,27 @@
+Resume
+Wendy Cook
+Data Analyst
+Skills: Streamlit, AWS, TensorFlow, Deep Learning, Pandas, PyTorch, FastAPI, Docker, SQL, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Wendy Cook",
+  "email": "khernandez@example.com",
+  "phone": "2552306113",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "Streamlit",
+    "AWS",
+    "TensorFlow",
+    "Deep Learning",
+    "Pandas",
+    "PyTorch",
+    "FastAPI",
+    "Docker",
+    "SQL",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0735"
+}

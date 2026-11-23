@@ -1,0 +1,16 @@
+Bank Statement STM-8P6U5PS4
+Holder: Melissa Combs
+Closing Balance: $5549.08
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8P6U5PS4",
+  "account_holder": "Melissa Combs",
+  "account_number_masked": "****9784",
+  "period_start": "2026-01-07",
+  "period_end": "2026-02-06",
+  "opening_balance": 2898.04,
+  "closing_balance": 5549.08,
+  "transactions": 11,
+  "sample_id": "bank_statement_0437"
+}

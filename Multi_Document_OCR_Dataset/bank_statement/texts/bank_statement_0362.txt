@@ -1,0 +1,16 @@
+Bank Statement STM-DCSE0945
+Holder: Carolyn Silva
+Closing Balance: $9715.29
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DCSE0945",
+  "account_holder": "Carolyn Silva",
+  "account_number_masked": "****3247",
+  "period_start": "2026-08-17",
+  "period_end": "2026-09-16",
+  "opening_balance": 4819.04,
+  "closing_balance": 9715.29,
+  "transactions": 13,
+  "sample_id": "bank_statement_0362"
+}

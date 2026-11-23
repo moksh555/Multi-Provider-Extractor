@@ -1,0 +1,16 @@
+Synthetic Driving License
+David Medina
+License: DL254509076
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL254509076",
+  "full_name": "David Medina",
+  "date_of_birth": "1983-09-28",
+  "class": "B",
+  "issue_date": "2020-11-28",
+  "expiry_date": "2025-11-28",
+  "address": "869 Nicole Shoal Apt. 796, Antoniostad, IL 58616",
+  "sample_id": "driving_license_0059"
+}

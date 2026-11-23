@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Henry Estrada
+Passport No: P47553161
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P47553161",
+  "full_name": "Henry Estrada",
+  "nationality": "BD",
+  "date_of_birth": "2001-01-12",
+  "issue_date": "2023-12-12",
+  "expiry_date": "2033-12-12",
+  "place_of_birth": "North Donaldshire",
+  "sample_id": "passport_0140"
+}

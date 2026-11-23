@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2FJ5PIJX",
+  "account_holder": "Joshua Miller PhD",
+  "account_number_masked": "****3701",
+  "period_start": "2026-08-05",
+  "period_end": "2026-09-04",
+  "opening_balance": 1622.23,
+  "closing_balance": 2891.16,
+  "transactions": 8,
+  "sample_id": "bank_statement_0602"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-W3HHIGVU",
+  "merchant_name": "Perez-Haynes",
+  "date": "2024-12-22",
+  "subtotal": 315.42,
+  "tax": 18.93,
+  "discount": 7.55,
+  "total": 326.8,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$14.11",
+      "line_total": "$14.11"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$76.84",
+      "line_total": "$230.52"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$70.79",
+      "line_total": "$70.79"
+    }
+  ],
+  "sample_id": "receipt_0711"
+}

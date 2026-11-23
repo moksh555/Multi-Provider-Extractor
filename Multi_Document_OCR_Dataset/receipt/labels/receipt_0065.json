@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-382KKZMP",
+  "merchant_name": "Gordon-Dougherty",
+  "date": "2023-11-17",
+  "subtotal": 685.47,
+  "tax": 67.2,
+  "discount": 4.31,
+  "total": 748.36,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$16.96",
+      "line_total": "$33.92"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$11.84",
+      "line_total": "$35.52"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$5.01",
+      "line_total": "$10.02"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$5.15",
+      "line_total": "$10.30"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$57.67",
+      "line_total": "$173.01"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$1.41",
+      "line_total": "$2.82"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$52.58",
+      "line_total": "$210.32"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$52.39",
+      "line_total": "$209.56"
+    }
+  ],
+  "sample_id": "receipt_0065"
+}

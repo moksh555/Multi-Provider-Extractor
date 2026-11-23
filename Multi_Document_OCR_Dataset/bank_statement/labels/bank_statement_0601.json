@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-L6WUGOFR",
+  "account_holder": "Nancy Walker",
+  "account_number_masked": "****3844",
+  "period_start": "2024-12-08",
+  "period_end": "2025-01-07",
+  "opening_balance": 4834.8,
+  "closing_balance": 7572.66,
+  "transactions": 9,
+  "sample_id": "bank_statement_0601"
+}

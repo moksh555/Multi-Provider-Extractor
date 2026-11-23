@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WY66QB3K",
+  "merchant_name": "Bauer, Stewart and Skinner",
+  "date": "2021-05-28",
+  "subtotal": 528.25,
+  "tax": 33.71,
+  "discount": 5.65,
+  "total": 556.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$28.85",
+      "line_total": "$57.70"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$15.08",
+      "line_total": "$45.24"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$40.03",
+      "line_total": "$40.03"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$12.23",
+      "line_total": "$24.46"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$60.13",
+      "line_total": "$240.52"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$45.05",
+      "line_total": "$90.10"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$2.70",
+      "line_total": "$5.40"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$12.40",
+      "line_total": "$24.80"
+    }
+  ],
+  "sample_id": "receipt_0635"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Alexander
+Passport No: P98909779
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P98909779",
+  "full_name": "Michael Alexander",
+  "nationality": "AE",
+  "date_of_birth": "1984-12-22",
+  "issue_date": "2022-05-22",
+  "expiry_date": "2032-05-22",
+  "place_of_birth": "West Matthew",
+  "sample_id": "passport_0037"
+}

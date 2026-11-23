@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL686511669",
+  "full_name": "Stephanie Wilcox",
+  "date_of_birth": "1999-04-07",
+  "class": "D",
+  "issue_date": "2020-06-27",
+  "expiry_date": "2025-06-27",
+  "address": "1227 Boyle Avenue, Patrickmouth, WV 35496",
+  "sample_id": "driving_license_0114"
+}

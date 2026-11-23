@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "David Perez",
+  "email": "usummers@example.net",
+  "phone": "001-200-689-4234x037",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "Python",
+    "PyTorch",
+    "NLP",
+    "AWS",
+    "Machine Learning",
+    "TensorFlow",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0361"
+}

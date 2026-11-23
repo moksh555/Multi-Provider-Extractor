@@ -1,0 +1,61 @@
+Receipt RCT-YTUW6TAQ
+Merchant: Long PLC
+Date: 2026-04-06
+Total: $417.93
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YTUW6TAQ",
+  "merchant_name": "Long PLC",
+  "date": "2026-04-06",
+  "subtotal": 408.23,
+  "tax": 22.57,
+  "discount": 12.87,
+  "total": 417.93,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$28.88",
+      "line_total": "$115.52"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$14.23",
+      "line_total": "$42.69"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$5.85",
+      "line_total": "$17.55"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$46.26",
+      "line_total": "$92.52"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$23.66",
+      "line_total": "$23.66"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$40.94",
+      "line_total": "$81.88"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$11.47",
+      "line_total": "$34.41"
+    }
+  ],
+  "sample_id": "receipt_0187"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Alexander Freeman
+License: DL681557755
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL681557755",
+  "full_name": "Alexander Freeman",
+  "date_of_birth": "2004-06-08",
+  "class": "B",
+  "issue_date": "2021-07-12",
+  "expiry_date": "2026-07-12",
+  "address": "2792 Sanders Divide, East Rebeccaview, NM 52830",
+  "sample_id": "driving_license_0831"
+}

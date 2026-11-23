@@ -1,0 +1,26 @@
+Resume
+Alejandro Gonzales
+Machine Learning Engineer
+Skills: Python, PyTorch, NLP, SQL, AWS, Machine Learning, LangChain, TensorFlow, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Alejandro Gonzales",
+  "email": "ruizheather@example.net",
+  "phone": "+1-667-515-2077x10740",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Python",
+    "PyTorch",
+    "NLP",
+    "SQL",
+    "AWS",
+    "Machine Learning",
+    "LangChain",
+    "TensorFlow",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0327"
+}

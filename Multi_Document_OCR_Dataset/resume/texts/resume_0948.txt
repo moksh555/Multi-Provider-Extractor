@@ -1,0 +1,26 @@
+Resume
+Katelyn Johnson
+Backend Developer
+Skills: NLP, Streamlit, SQL, Docker, Python, Machine Learning, PyTorch, Computer Vision, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Katelyn Johnson",
+  "email": "hendersonjames@example.org",
+  "phone": "(449)871-2793x108",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "Streamlit",
+    "SQL",
+    "Docker",
+    "Python",
+    "Machine Learning",
+    "PyTorch",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0948"
+}

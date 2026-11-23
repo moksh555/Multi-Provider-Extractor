@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0468
+Company: PrimeSoft Technologies
+Company Address: 67 Road 12, Banani, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 85 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-02-02
+Due Date: 2026-03-19
+Currency: BDT
+Subtotal: 3246.53
+Tax: 0.0
+Total: 3246.53
+Balance Due: 1657.47
+Status: partial

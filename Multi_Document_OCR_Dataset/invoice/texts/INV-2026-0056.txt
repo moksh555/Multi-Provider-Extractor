@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0056
+Company: CityBanking Supplies
+Company Address: 55 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 135 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-02-19
+Due Date: 2026-03-21
+Currency: AED
+Subtotal: 16761.01
+Tax: 1676.1
+Total: 18447.11
+Balance Due: 8737.46
+Status: partial

@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jesus Garcia",
+  "email": "derrick35@example.org",
+  "phone": "+1-791-798-5056x5133",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "FastAPI",
+    "Deep Learning",
+    "Pandas",
+    "NLP",
+    "Streamlit",
+    "Machine Learning",
+    "AWS",
+    "LangChain",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0409"
+}

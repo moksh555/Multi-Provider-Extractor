@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Q9P7EQFJ",
+  "account_holder": "Thomas Bennett",
+  "account_number_masked": "****8973",
+  "period_start": "2026-04-25",
+  "period_end": "2026-05-25",
+  "opening_balance": 3331.35,
+  "closing_balance": 3296.06,
+  "transactions": 8,
+  "sample_id": "bank_statement_0597"
+}

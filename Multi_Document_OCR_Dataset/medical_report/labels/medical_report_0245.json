@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-Y15PDTB3",
+  "patient_name": "Kristina Sandoval",
+  "visit_date": "2025-01-12",
+  "doctor_name": "Dr. Elizabeth Savage",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0245"
+}

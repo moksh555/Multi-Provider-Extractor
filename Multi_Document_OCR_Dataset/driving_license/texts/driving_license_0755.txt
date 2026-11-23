@@ -1,0 +1,16 @@
+Synthetic Driving License
+Christopher Moody
+License: DL189928019
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL189928019",
+  "full_name": "Christopher Moody",
+  "date_of_birth": "1972-11-01",
+  "class": "A",
+  "issue_date": "2024-03-26",
+  "expiry_date": "2029-03-26",
+  "address": "46484 Foley Green Apt. 163, New Meghanborough, DC 68425",
+  "sample_id": "driving_license_0755"
+}

@@ -1,0 +1,24 @@
+Resume
+Morgan Knight
+Backend Developer
+Skills: NLP, Python, Streamlit, FastAPI, LangChain, SQL, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Morgan Knight",
+  "email": "jessica10@example.com",
+  "phone": "369.887.1014x941",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "NLP",
+    "Python",
+    "Streamlit",
+    "FastAPI",
+    "LangChain",
+    "SQL",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0846"
+}

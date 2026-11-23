@@ -1,0 +1,14 @@
+Medical Report MED-NU1U7779
+Patient: Traci Cox
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-NU1U7779",
+  "patient_name": "Traci Cox",
+  "visit_date": "2026-08-31",
+  "doctor_name": "Dr. Roy Wong",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0794"
+}

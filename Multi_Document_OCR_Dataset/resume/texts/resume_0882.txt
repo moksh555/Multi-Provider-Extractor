@@ -1,0 +1,25 @@
+Resume
+Scott Stein
+Machine Learning Engineer
+Skills: LangChain, PyTorch, Computer Vision, Docker, Machine Learning, Streamlit, FastAPI, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Scott Stein",
+  "email": "tapiamichael@example.com",
+  "phone": "001-839-722-4455",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "LangChain",
+    "PyTorch",
+    "Computer Vision",
+    "Docker",
+    "Machine Learning",
+    "Streamlit",
+    "FastAPI",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0882"
+}

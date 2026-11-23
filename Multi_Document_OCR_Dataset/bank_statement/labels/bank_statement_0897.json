@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-E36QAR47",
+  "account_holder": "William Lee",
+  "account_number_masked": "****0315",
+  "period_start": "2026-10-26",
+  "period_end": "2026-11-25",
+  "opening_balance": 3768.48,
+  "closing_balance": 7476.42,
+  "transactions": 12,
+  "sample_id": "bank_statement_0897"
+}

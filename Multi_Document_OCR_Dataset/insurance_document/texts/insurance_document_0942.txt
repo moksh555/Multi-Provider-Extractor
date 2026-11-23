@@ -1,0 +1,16 @@
+Insurance Policy POL-YDR3UES2F
+Holder: Robert Solomon
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YDR3UES2F",
+  "policy_holder": "Robert Solomon",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-14",
+  "expiry_date": "2024-07-14",
+  "premium": 1827.1,
+  "coverage_amount": 148326.89,
+  "beneficiary": "Terry Black",
+  "sample_id": "insurance_document_0942"
+}

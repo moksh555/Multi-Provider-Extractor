@@ -1,0 +1,49 @@
+Receipt RCT-SIJPYUEO
+Merchant: Sanchez Group
+Date: 2025-02-05
+Total: $524.64
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SIJPYUEO",
+  "merchant_name": "Sanchez Group",
+  "date": "2025-02-05",
+  "subtotal": 512.98,
+  "tax": 22.59,
+  "discount": 10.93,
+  "total": 524.64,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$28.22",
+      "line_total": "$84.66"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$14.37",
+      "line_total": "$43.11"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$50.23",
+      "line_total": "$200.92"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$74.01",
+      "line_total": "$74.01"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$55.14",
+      "line_total": "$110.28"
+    }
+  ],
+  "sample_id": "receipt_0164"
+}

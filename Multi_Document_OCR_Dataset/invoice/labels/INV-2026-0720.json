@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0720",
+  "invoice_number": "INV-2026-0720",
+  "company_name": "Delta Insurance Services",
+  "company_address": "71 Uttara Sector 7, Doha, Qatar",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "67 Sheikh Zayed Road, Doha, Qatar",
+  "invoice_date": "2026-05-26",
+  "due_date": "2026-06-25",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 225.35,
+      "amount": 1126.75
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 648.02,
+      "amount": 3240.1
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 12,
+      "unit_price": 538.29,
+      "amount": 6459.48
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 7,
+      "unit_price": 435.14,
+      "amount": 3045.98
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 2,
+      "unit_price": 268.27,
+      "amount": 536.54
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 4,
+      "unit_price": 47.01,
+      "amount": 188.04
+    }
+  ],
+  "subtotal": 14596.89,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1094.77,
+  "shipping": 5,
+  "total": 15696.66,
+  "amount_paid": 0,
+  "balance_due": 15696.66,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801653403756",
+  "po_number": "PO-67961"
+}

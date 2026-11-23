@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL390137580",
+  "full_name": "Tanya Fisher",
+  "date_of_birth": "2003-04-23",
+  "class": "D",
+  "issue_date": "2020-05-06",
+  "expiry_date": "2025-05-06",
+  "address": "12535 Delgado Station Suite 964, Normanstad, WA 77429",
+  "sample_id": "driving_license_0257"
+}

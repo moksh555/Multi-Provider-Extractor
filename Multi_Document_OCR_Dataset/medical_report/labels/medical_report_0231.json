@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-T3KI0V2A",
+  "patient_name": "Darren Lopez",
+  "visit_date": "2026-12-02",
+  "doctor_name": "Dr. Samantha Walters",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0231"
+}

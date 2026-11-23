@@ -1,0 +1,16 @@
+Insurance Policy POL-OG585I87X
+Holder: Diane Gilbert
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OG585I87X",
+  "policy_holder": "Diane Gilbert",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-07-02",
+  "expiry_date": "2024-07-02",
+  "premium": 2438.42,
+  "coverage_amount": 107150.44,
+  "beneficiary": "David Blair",
+  "sample_id": "insurance_document_0518"
+}

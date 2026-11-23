@@ -1,0 +1,61 @@
+Receipt RCT-GYBOA763
+Merchant: Barnes Inc
+Date: 2021-08-04
+Total: $608.02
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GYBOA763",
+  "merchant_name": "Barnes Inc",
+  "date": "2021-08-04",
+  "subtotal": 548.07,
+  "tax": 63.28,
+  "discount": 3.33,
+  "total": 608.02,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$16.34",
+      "line_total": "$65.36"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$67.04",
+      "line_total": "$268.16"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$57.66",
+      "line_total": "$57.66"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$59.25",
+      "line_total": "$59.25"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$20.40",
+      "line_total": "$40.80"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$11.62",
+      "line_total": "$23.24"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$8.40",
+      "line_total": "$33.60"
+    }
+  ],
+  "sample_id": "receipt_0714"
+}

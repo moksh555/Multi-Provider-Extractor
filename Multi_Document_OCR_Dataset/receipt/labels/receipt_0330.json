@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-W3JGEQE5",
+  "merchant_name": "Myers, Mejia and Curry",
+  "date": "2025-08-20",
+  "subtotal": 697.49,
+  "tax": 45.1,
+  "discount": 7.31,
+  "total": 735.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$42.22",
+      "line_total": "$42.22"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$53.24",
+      "line_total": "$212.96"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$62.04",
+      "line_total": "$186.12"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$8.25",
+      "line_total": "$16.50"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$28.89",
+      "line_total": "$28.89"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$55.90",
+      "line_total": "$111.80"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$5.76",
+      "line_total": "$23.04"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$37.98",
+      "line_total": "$75.96"
+    }
+  ],
+  "sample_id": "receipt_0330"
+}

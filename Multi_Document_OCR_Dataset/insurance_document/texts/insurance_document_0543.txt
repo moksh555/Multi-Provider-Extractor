@@ -1,0 +1,16 @@
+Insurance Policy POL-PLC6PRR7M
+Holder: Michelle Barrera
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PLC6PRR7M",
+  "policy_holder": "Michelle Barrera",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-02-12",
+  "expiry_date": "2024-02-12",
+  "premium": 503.97,
+  "coverage_amount": 365842.48,
+  "beneficiary": "Todd Valdez",
+  "sample_id": "insurance_document_0543"
+}

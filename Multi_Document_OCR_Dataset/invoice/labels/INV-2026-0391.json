@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0391",
+  "invoice_number": "INV-2026-0391",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "151 Al Barsha, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "195 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-23",
+  "due_date": "2026-08-07",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 544.17,
+      "amount": 3809.19
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 131.72,
+      "amount": 526.88
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 255.89,
+      "amount": 511.78
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 487.5,
+      "amount": 2437.5
+    }
+  ],
+  "subtotal": 7285.35,
+  "discount": 728.53,
+  "tax_rate": 0.05,
+  "tax": 327.84,
+  "shipping": 0,
+  "total": 6884.66,
+  "amount_paid": 5002.7,
+  "balance_due": 1881.96,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801188277459",
+  "po_number": "PO-06051"
+}

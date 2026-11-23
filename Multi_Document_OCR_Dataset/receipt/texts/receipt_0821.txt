@@ -1,0 +1,55 @@
+Receipt RCT-8VFQ6D6S
+Merchant: Wolf-Gamble
+Date: 2023-04-17
+Total: $674.52
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8VFQ6D6S",
+  "merchant_name": "Wolf-Gamble",
+  "date": "2023-04-17",
+  "subtotal": 627.99,
+  "tax": 59.5,
+  "discount": 12.97,
+  "total": 674.52,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$8.38",
+      "line_total": "$33.52"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$34.52",
+      "line_total": "$138.08"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$7.73",
+      "line_total": "$7.73"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$35.64",
+      "line_total": "$142.56"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$13.63",
+      "line_total": "$27.26"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$69.71",
+      "line_total": "$278.84"
+    }
+  ],
+  "sample_id": "receipt_0821"
+}

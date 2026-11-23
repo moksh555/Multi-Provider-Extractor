@@ -1,0 +1,27 @@
+Resume
+John Garner
+Software Engineer
+Skills: LangChain, NLP, PyTorch, Machine Learning, Python, AWS, Streamlit, Pandas, Docker, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "John Garner",
+  "email": "david58@example.org",
+  "phone": "999.800.5366x9332",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "LangChain",
+    "NLP",
+    "PyTorch",
+    "Machine Learning",
+    "Python",
+    "AWS",
+    "Streamlit",
+    "Pandas",
+    "Docker",
+    "SQL"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0360"
+}

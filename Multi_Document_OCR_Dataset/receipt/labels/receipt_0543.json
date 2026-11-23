@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-R49HQWP8",
+  "merchant_name": "Horton Group",
+  "date": "2025-08-20",
+  "subtotal": 319.62,
+  "tax": 15.07,
+  "discount": 0.94,
+  "total": 333.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$29.94",
+      "line_total": "$59.88"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$23.75",
+      "line_total": "$71.25"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$64.63",
+      "line_total": "$129.26"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$59.23",
+      "line_total": "$59.23"
+    }
+  ],
+  "sample_id": "receipt_0543"
+}

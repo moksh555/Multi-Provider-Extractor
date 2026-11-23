@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jonathan Delgado
+License: DL503029967
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL503029967",
+  "full_name": "Jonathan Delgado",
+  "date_of_birth": "1972-08-04",
+  "class": "B",
+  "issue_date": "2025-01-01",
+  "expiry_date": "2030-01-01",
+  "address": "642 Conway Ports, New Jasminefort, NJ 57655",
+  "sample_id": "driving_license_0331"
+}

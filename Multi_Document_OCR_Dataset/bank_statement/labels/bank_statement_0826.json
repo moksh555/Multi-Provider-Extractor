@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DENCRTPL",
+  "account_holder": "Scott Shaffer",
+  "account_number_masked": "****0935",
+  "period_start": "2026-05-13",
+  "period_end": "2026-06-12",
+  "opening_balance": 3807.18,
+  "closing_balance": 7929.78,
+  "transactions": 8,
+  "sample_id": "bank_statement_0826"
+}

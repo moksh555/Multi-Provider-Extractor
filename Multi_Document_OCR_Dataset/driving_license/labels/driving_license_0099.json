@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL341339581",
+  "full_name": "Melinda Evans",
+  "date_of_birth": "1964-06-18",
+  "class": "C",
+  "issue_date": "2020-11-30",
+  "expiry_date": "2025-11-30",
+  "address": "76773 Lawson Island, Jessicastad, MO 17640",
+  "sample_id": "driving_license_0099"
+}

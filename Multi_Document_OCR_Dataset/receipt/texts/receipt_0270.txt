@@ -1,0 +1,55 @@
+Receipt RCT-6TPBWSXX
+Merchant: Boyer and Sons
+Date: 2022-02-26
+Total: $346.88
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6TPBWSXX",
+  "merchant_name": "Boyer and Sons",
+  "date": "2022-02-26",
+  "subtotal": 348.81,
+  "tax": 12.45,
+  "discount": 14.38,
+  "total": 346.88,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$5.14",
+      "line_total": "$20.56"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$62.02",
+      "line_total": "$62.02"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$30.60",
+      "line_total": "$61.20"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$8.22",
+      "line_total": "$16.44"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$79.15",
+      "line_total": "$79.15"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$54.72",
+      "line_total": "$109.44"
+    }
+  ],
+  "sample_id": "receipt_0270"
+}

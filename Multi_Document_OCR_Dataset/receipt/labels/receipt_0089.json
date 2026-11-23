@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WWNC21O0",
+  "merchant_name": "Fuller, Ingram and Moss",
+  "date": "2025-02-20",
+  "subtotal": 785.89,
+  "tax": 32.81,
+  "discount": 12.79,
+  "total": 805.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$46.97",
+      "line_total": "$140.91"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$51.15",
+      "line_total": "$204.60"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$63.86",
+      "line_total": "$63.86"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$77.48",
+      "line_total": "$154.96"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$22.21",
+      "line_total": "$88.84"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$44.24",
+      "line_total": "$132.72"
+    }
+  ],
+  "sample_id": "receipt_0089"
+}

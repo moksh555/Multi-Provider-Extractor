@@ -1,0 +1,16 @@
+Insurance Policy POL-L0N2TNXHN
+Holder: Tamara Roberts
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-L0N2TNXHN",
+  "policy_holder": "Tamara Roberts",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-09-25",
+  "expiry_date": "2024-09-25",
+  "premium": 1618.35,
+  "coverage_amount": 304899.21,
+  "beneficiary": "Andrea Robinson",
+  "sample_id": "insurance_document_0689"
+}

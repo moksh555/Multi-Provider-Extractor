@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ECHXG7FH",
+  "account_holder": "Timothy White",
+  "account_number_masked": "****9975",
+  "period_start": "2025-03-31",
+  "period_end": "2025-04-30",
+  "opening_balance": 2138.49,
+  "closing_balance": 3239.74,
+  "transactions": 9,
+  "sample_id": "bank_statement_0686"
+}

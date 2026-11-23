@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PL7AJMEA",
+  "account_holder": "Brandon Johns",
+  "account_number_masked": "****6775",
+  "period_start": "2026-09-17",
+  "period_end": "2026-10-17",
+  "opening_balance": 2755.27,
+  "closing_balance": 4807.23,
+  "transactions": 14,
+  "sample_id": "bank_statement_0913"
+}

@@ -1,0 +1,23 @@
+Resume
+Jessica Estrada
+Machine Learning Engineer
+Skills: Computer Vision, Machine Learning, LangChain, TensorFlow, Deep Learning, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Jessica Estrada",
+  "email": "villathomas@example.com",
+  "phone": "(495)773-5410x577",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Computer Vision",
+    "Machine Learning",
+    "LangChain",
+    "TensorFlow",
+    "Deep Learning",
+    "Pandas"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0571"
+}

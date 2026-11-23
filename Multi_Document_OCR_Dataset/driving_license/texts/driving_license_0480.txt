@@ -1,0 +1,16 @@
+Synthetic Driving License
+Leon Hamilton
+License: DL438707917
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL438707917",
+  "full_name": "Leon Hamilton",
+  "date_of_birth": "2003-07-08",
+  "class": "A",
+  "issue_date": "2025-10-10",
+  "expiry_date": "2030-10-10",
+  "address": "66149 Angela Extensions Suite 674, Campbellside, PA 63526",
+  "sample_id": "driving_license_0480"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-5BA75UUZP
+Holder: Timothy Lam
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5BA75UUZP",
+  "policy_holder": "Timothy Lam",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-04-09",
+  "expiry_date": "2026-04-09",
+  "premium": 169.64,
+  "coverage_amount": 169136.41,
+  "beneficiary": "Amanda Mcfarland",
+  "sample_id": "insurance_document_0095"
+}

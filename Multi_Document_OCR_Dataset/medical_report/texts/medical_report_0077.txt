@@ -1,0 +1,14 @@
+Medical Report MED-DWQ5X9ZE
+Patient: Donald Wallace
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DWQ5X9ZE",
+  "patient_name": "Donald Wallace",
+  "visit_date": "2025-07-28",
+  "doctor_name": "Dr. James Thomas",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0077"
+}

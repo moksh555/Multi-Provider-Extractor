@@ -1,0 +1,16 @@
+Insurance Policy POL-N8UUJS75E
+Holder: Darrell Rush
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-N8UUJS75E",
+  "policy_holder": "Darrell Rush",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-12-25",
+  "expiry_date": "2027-12-25",
+  "premium": 1382.41,
+  "coverage_amount": 79479.91,
+  "beneficiary": "James Barber",
+  "sample_id": "insurance_document_0524"
+}

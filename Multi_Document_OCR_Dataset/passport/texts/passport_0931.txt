@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Dale Jennings
+Passport No: P74746740
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P74746740",
+  "full_name": "Dale Jennings",
+  "nationality": "AE",
+  "date_of_birth": "1970-09-12",
+  "issue_date": "2021-12-02",
+  "expiry_date": "2031-12-02",
+  "place_of_birth": "Joebury",
+  "sample_id": "passport_0931"
+}

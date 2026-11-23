@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0391
+Company: SkyNet Office Mart
+Company Address: 151 Al Barsha, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 195 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-23
+Due Date: 2026-08-07
+Currency: USD
+Subtotal: 7285.35
+Tax: 327.84
+Total: 6884.66
+Balance Due: 1881.96
+Status: partial

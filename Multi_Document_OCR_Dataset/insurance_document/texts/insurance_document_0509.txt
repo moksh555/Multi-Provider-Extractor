@@ -1,0 +1,16 @@
+Insurance Policy POL-FE07S387J
+Holder: Kenneth Walters DDS
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FE07S387J",
+  "policy_holder": "Kenneth Walters DDS",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-05-02",
+  "expiry_date": "2025-05-02",
+  "premium": 1547.57,
+  "coverage_amount": 388863.53,
+  "beneficiary": "Valerie Norman",
+  "sample_id": "insurance_document_0509"
+}

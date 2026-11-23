@@ -1,0 +1,26 @@
+Resume
+Elizabeth Herrera
+Computer Vision Engineer
+Skills: PyTorch, Deep Learning, Machine Learning, Computer Vision, NLP, Pandas, Streamlit, AWS, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Elizabeth Herrera",
+  "email": "paul99@example.com",
+  "phone": "001-312-452-0193x06469",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision",
+    "NLP",
+    "Pandas",
+    "Streamlit",
+    "AWS",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0419"
+}

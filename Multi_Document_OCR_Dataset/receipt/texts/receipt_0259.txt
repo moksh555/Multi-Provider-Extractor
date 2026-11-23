@@ -1,0 +1,67 @@
+Receipt RCT-R7WYQHR1
+Merchant: Williams, Garcia and Martin
+Date: 2024-09-19
+Total: $556.23
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-R7WYQHR1",
+  "merchant_name": "Williams, Garcia and Martin",
+  "date": "2024-09-19",
+  "subtotal": 551.27,
+  "tax": 17.6,
+  "discount": 12.64,
+  "total": 556.23,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$32.62",
+      "line_total": "$65.24"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$1.78",
+      "line_total": "$5.34"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$44.82",
+      "line_total": "$44.82"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$35.79",
+      "line_total": "$107.37"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$78.05",
+      "line_total": "$78.05"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$23.44",
+      "line_total": "$46.88"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$57.79",
+      "line_total": "$173.37"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$15.10",
+      "line_total": "$30.20"
+    }
+  ],
+  "sample_id": "receipt_0259"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-PQZZ0IB8",
+  "patient_name": "Michael Franco",
+  "visit_date": "2024-10-21",
+  "doctor_name": "Dr. Luis Peters",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0994"
+}

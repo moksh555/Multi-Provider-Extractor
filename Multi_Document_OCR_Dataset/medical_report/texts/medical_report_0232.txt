@@ -1,0 +1,14 @@
+Medical Report MED-S1JAV8NF
+Patient: Christopher Williams
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S1JAV8NF",
+  "patient_name": "Christopher Williams",
+  "visit_date": "2026-07-11",
+  "doctor_name": "Dr. Kathleen Gonzalez",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0232"
+}

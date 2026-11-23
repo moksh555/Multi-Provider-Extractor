@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J1GNFIUE2",
+  "policy_holder": "Jacob Carson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-02-09",
+  "expiry_date": "2026-02-09",
+  "premium": 1970.83,
+  "coverage_amount": 17658.86,
+  "beneficiary": "Martin Liu",
+  "sample_id": "insurance_document_0447"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Darrell Berger
+Passport No: P32907186
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P32907186",
+  "full_name": "Darrell Berger",
+  "nationality": "BD",
+  "date_of_birth": "1980-06-15",
+  "issue_date": "2022-10-07",
+  "expiry_date": "2032-10-07",
+  "place_of_birth": "Newtonstad",
+  "sample_id": "passport_0694"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Douglas Rose
+License: DL160868290
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL160868290",
+  "full_name": "Douglas Rose",
+  "date_of_birth": "1997-05-28",
+  "class": "B",
+  "issue_date": "2021-12-31",
+  "expiry_date": "2026-12-31",
+  "address": "PSC 6738, Box 9975, APO AP 53520",
+  "sample_id": "driving_license_0422"
+}

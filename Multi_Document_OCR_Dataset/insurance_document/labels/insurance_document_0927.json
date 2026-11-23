@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BT6SAPBS2",
+  "policy_holder": "Anthony Werner",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-10-04",
+  "expiry_date": "2026-10-04",
+  "premium": 792.7,
+  "coverage_amount": 173538.76,
+  "beneficiary": "Tara Thomas",
+  "sample_id": "insurance_document_0927"
+}

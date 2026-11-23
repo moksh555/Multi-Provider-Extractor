@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-90WXLL5U",
+  "account_holder": "Jake Holmes",
+  "account_number_masked": "****2490",
+  "period_start": "2024-03-22",
+  "period_end": "2024-04-21",
+  "opening_balance": 2694.82,
+  "closing_balance": 6290.65,
+  "transactions": 8,
+  "sample_id": "bank_statement_0680"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0128",
+  "invoice_number": "INV-2026-0128",
+  "company_name": "Delta Insurance Services",
+  "company_address": "27 Motijheel C/A, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "17 Zindabazar Road, Dubai, UAE",
+  "invoice_date": "2026-02-04",
+  "due_date": "2026-02-11",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 184.02,
+      "amount": 2208.24
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 489.09,
+      "amount": 978.18
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 2,
+      "unit_price": 415.24,
+      "amount": 830.48
+    },
+    {
+      "description": "API Integration",
+      "quantity": 12,
+      "unit_price": 249.81,
+      "amount": 2997.72
+    },
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 226.63,
+      "amount": 1359.78
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 305.94,
+      "amount": 3059.4
+    }
+  ],
+  "subtotal": 11433.8,
+  "discount": 571.69,
+  "tax_rate": 0.15,
+  "tax": 1629.32,
+  "shipping": 0,
+  "total": 12491.43,
+  "amount_paid": 6959.54,
+  "balance_due": 5531.89,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801564167900",
+  "po_number": "PO-61879"
+}

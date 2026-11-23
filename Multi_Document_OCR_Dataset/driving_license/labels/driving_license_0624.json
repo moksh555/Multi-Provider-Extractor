@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL065230725",
+  "full_name": "Martin Liu",
+  "date_of_birth": "1960-12-13",
+  "class": "D",
+  "issue_date": "2025-01-31",
+  "expiry_date": "2030-01-31",
+  "address": "556 Ruiz Hill Apt. 250, Sarahshire, AK 14425",
+  "sample_id": "driving_license_0624"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-4FYPGPNE
+Patient: Harold Johnson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4FYPGPNE",
+  "patient_name": "Harold Johnson",
+  "visit_date": "2026-10-02",
+  "doctor_name": "Dr. Carol Howard DVM",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0257"
+}

@@ -1,0 +1,67 @@
+Receipt RCT-HECGZ938
+Merchant: Anderson, Browning and Murphy
+Date: 2024-08-02
+Total: $1028.10
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HECGZ938",
+  "merchant_name": "Anderson, Browning and Murphy",
+  "date": "2024-08-02",
+  "subtotal": 946.53,
+  "tax": 93.92,
+  "discount": 12.35,
+  "total": 1028.1,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$44.45",
+      "line_total": "$44.45"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$68.26",
+      "line_total": "$204.78"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$41.19",
+      "line_total": "$123.57"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$63.57",
+      "line_total": "$127.14"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$3.08",
+      "line_total": "$12.32"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$64.49",
+      "line_total": "$257.96"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$6.19",
+      "line_total": "$6.19"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$42.53",
+      "line_total": "$170.12"
+    }
+  ],
+  "sample_id": "receipt_0057"
+}

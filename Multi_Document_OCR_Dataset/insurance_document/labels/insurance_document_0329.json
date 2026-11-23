@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0CDK36M8J",
+  "policy_holder": "Curtis Gonzalez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-02-03",
+  "expiry_date": "2025-02-03",
+  "premium": 1202.33,
+  "coverage_amount": 207938.67,
+  "beneficiary": "Eric Ochoa",
+  "sample_id": "insurance_document_0329"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4PZJ42RL",
+  "account_holder": "Christopher George",
+  "account_number_masked": "****1086",
+  "period_start": "2025-06-21",
+  "period_end": "2025-07-21",
+  "opening_balance": 1089.61,
+  "closing_balance": 5041.41,
+  "transactions": 9,
+  "sample_id": "bank_statement_0122"
+}

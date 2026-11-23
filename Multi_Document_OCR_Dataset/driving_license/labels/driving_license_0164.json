@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL553918925",
+  "full_name": "Carol Moore",
+  "date_of_birth": "1974-10-05",
+  "class": "D",
+  "issue_date": "2023-09-05",
+  "expiry_date": "2028-09-05",
+  "address": "80003 Thomas Lights, East Sarah, PR 05136",
+  "sample_id": "driving_license_0164"
+}

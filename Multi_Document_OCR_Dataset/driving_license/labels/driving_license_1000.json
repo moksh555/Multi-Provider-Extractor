@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL714577113",
+  "full_name": "Shelly Moss",
+  "date_of_birth": "1979-12-24",
+  "class": "D",
+  "issue_date": "2021-01-12",
+  "expiry_date": "2026-01-12",
+  "address": "882 Kevin Island Suite 927, West Maryberg, KS 49894",
+  "sample_id": "driving_license_1000"
+}

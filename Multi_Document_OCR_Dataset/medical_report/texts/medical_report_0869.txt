@@ -1,0 +1,14 @@
+Medical Report MED-JJWAQEDC
+Patient: Andrea Powers
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JJWAQEDC",
+  "patient_name": "Andrea Powers",
+  "visit_date": "2024-09-09",
+  "doctor_name": "Dr. Stacy Willis",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0869"
+}

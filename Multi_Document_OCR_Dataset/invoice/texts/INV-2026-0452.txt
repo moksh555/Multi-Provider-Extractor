@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0452
+Company: Eastern Care Pharmacy
+Company Address: 15 Al Barsha, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 154 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-06-24
+Due Date: 2026-07-01
+Currency: SAR
+Subtotal: 6821.12
+Tax: 613.9
+Total: 6752.91
+Balance Due: 4174.41
+Status: partial

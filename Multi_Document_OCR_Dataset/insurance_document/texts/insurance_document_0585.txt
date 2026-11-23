@@ -1,0 +1,16 @@
+Insurance Policy POL-274IR833S
+Holder: Dylan Rivera
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-274IR833S",
+  "policy_holder": "Dylan Rivera",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-05-30",
+  "expiry_date": "2024-05-30",
+  "premium": 1966.28,
+  "coverage_amount": 313587.61,
+  "beneficiary": "Christopher Monroe",
+  "sample_id": "insurance_document_0585"
+}

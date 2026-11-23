@@ -1,0 +1,16 @@
+Insurance Policy POL-QDBTFBSCI
+Holder: Angela Huang
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QDBTFBSCI",
+  "policy_holder": "Angela Huang",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-04-28",
+  "expiry_date": "2027-04-28",
+  "premium": 1499.83,
+  "coverage_amount": 215342.47,
+  "beneficiary": "Jacqueline Banks",
+  "sample_id": "insurance_document_0452"
+}

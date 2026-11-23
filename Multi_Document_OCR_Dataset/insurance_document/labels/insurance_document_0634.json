@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7F1811MZW",
+  "policy_holder": "Derek Wood",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-11-27",
+  "expiry_date": "2027-11-27",
+  "premium": 257.34,
+  "coverage_amount": 198813.25,
+  "beneficiary": "Brett Atkins",
+  "sample_id": "insurance_document_0634"
+}

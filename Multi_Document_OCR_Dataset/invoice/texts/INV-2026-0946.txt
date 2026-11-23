@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0946
+Company: UrbanBuild Construction
+Company Address: 32 Motijheel C/A, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 175 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-03-23
+Due Date: 2026-04-07
+Currency: SAR
+Subtotal: 9712.02
+Tax: 485.6
+Total: 10197.62
+Balance Due: 7101.57
+Status: partial

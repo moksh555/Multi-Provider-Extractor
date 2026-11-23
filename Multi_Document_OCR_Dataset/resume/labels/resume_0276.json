@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Christopher Warner",
+  "email": "millerpaige@example.com",
+  "phone": "854-816-4879x2104",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Streamlit",
+    "Machine Learning",
+    "LangChain",
+    "FastAPI",
+    "Pandas",
+    "AWS",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0276"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-D9GEVGUK
+Holder: Brent Conley
+Closing Balance: $8092.75
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-D9GEVGUK",
+  "account_holder": "Brent Conley",
+  "account_number_masked": "****7764",
+  "period_start": "2024-12-25",
+  "period_end": "2025-01-24",
+  "opening_balance": 4699.22,
+  "closing_balance": 8092.75,
+  "transactions": 13,
+  "sample_id": "bank_statement_0485"
+}

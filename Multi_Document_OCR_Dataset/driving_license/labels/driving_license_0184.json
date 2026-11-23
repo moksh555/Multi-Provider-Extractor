@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL686870350",
+  "full_name": "Martin Hughes",
+  "date_of_birth": "1960-11-05",
+  "class": "A",
+  "issue_date": "2021-12-02",
+  "expiry_date": "2026-12-02",
+  "address": "2704 Marshall Fork Suite 902, North Elizabethside, MT 99651",
+  "sample_id": "driving_license_0184"
+}

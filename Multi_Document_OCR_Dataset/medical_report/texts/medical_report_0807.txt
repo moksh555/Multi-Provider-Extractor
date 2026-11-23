@@ -1,0 +1,14 @@
+Medical Report MED-0CYXH2NV
+Patient: Jason Duran
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0CYXH2NV",
+  "patient_name": "Jason Duran",
+  "visit_date": "2026-11-27",
+  "doctor_name": "Dr. Jessica Allen",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0807"
+}

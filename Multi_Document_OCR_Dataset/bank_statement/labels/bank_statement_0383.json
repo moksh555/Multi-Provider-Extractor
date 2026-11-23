@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YQ8F4TF5",
+  "account_holder": "Jennifer Boyd",
+  "account_number_masked": "****8930",
+  "period_start": "2025-01-05",
+  "period_end": "2025-02-04",
+  "opening_balance": 4043.5,
+  "closing_balance": 8392.88,
+  "transactions": 13,
+  "sample_id": "bank_statement_0383"
+}

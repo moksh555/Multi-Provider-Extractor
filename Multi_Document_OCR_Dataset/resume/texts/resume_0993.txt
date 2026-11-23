@@ -1,0 +1,27 @@
+Resume
+Taylor Gonzalez
+Data Analyst
+Skills: Python, TensorFlow, Docker, SQL, FastAPI, Machine Learning, AWS, Computer Vision, LangChain, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Taylor Gonzalez",
+  "email": "fullerraymond@example.net",
+  "phone": "304-676-3309x9479",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Docker",
+    "SQL",
+    "FastAPI",
+    "Machine Learning",
+    "AWS",
+    "Computer Vision",
+    "LangChain",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0993"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-4PAABMWUO
+Holder: Gregory Gonzalez
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4PAABMWUO",
+  "policy_holder": "Gregory Gonzalez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-12",
+  "expiry_date": "2024-06-12",
+  "premium": 777.94,
+  "coverage_amount": 309060.98,
+  "beneficiary": "George Stephens",
+  "sample_id": "insurance_document_0813"
+}

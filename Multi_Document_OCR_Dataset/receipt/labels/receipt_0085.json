@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WGXO05QP",
+  "merchant_name": "Hernandez, Kim and Potts",
+  "date": "2021-01-19",
+  "subtotal": 569.77,
+  "tax": 33.15,
+  "discount": 3.58,
+  "total": 599.34,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$22.99",
+      "line_total": "$45.98"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$64.16",
+      "line_total": "$64.16"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$26.75",
+      "line_total": "$80.25"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$21.73",
+      "line_total": "$21.73"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$48.16",
+      "line_total": "$144.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$28.49",
+      "line_total": "$28.49"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$65.29",
+      "line_total": "$130.58"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$54.10",
+      "line_total": "$54.10"
+    }
+  ],
+  "sample_id": "receipt_0085"
+}

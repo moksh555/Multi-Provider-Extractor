@@ -1,0 +1,16 @@
+Synthetic Driving License
+Glenn Long
+License: DL360825096
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL360825096",
+  "full_name": "Glenn Long",
+  "date_of_birth": "1961-10-08",
+  "class": "A",
+  "issue_date": "2020-07-16",
+  "expiry_date": "2025-07-16",
+  "address": "936 Ashley Meadow Suite 957, East Denise, OR 71457",
+  "sample_id": "driving_license_0287"
+}

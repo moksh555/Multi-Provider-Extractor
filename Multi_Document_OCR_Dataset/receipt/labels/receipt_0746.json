@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VEL08KKL",
+  "merchant_name": "Graham-Miller",
+  "date": "2026-10-06",
+  "subtotal": 211.52,
+  "tax": 22.32,
+  "discount": 4.24,
+  "total": 229.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$50.82",
+      "line_total": "$50.82"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$28.48",
+      "line_total": "$113.92"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$23.39",
+      "line_total": "$46.78"
+    }
+  ],
+  "sample_id": "receipt_0746"
+}

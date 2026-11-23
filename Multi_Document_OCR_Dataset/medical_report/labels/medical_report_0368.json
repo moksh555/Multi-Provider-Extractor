@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-158DNBC1",
+  "patient_name": "Jessica Beck",
+  "visit_date": "2025-02-28",
+  "doctor_name": "Dr. Ms. Patricia Hudson MD",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0368"
+}

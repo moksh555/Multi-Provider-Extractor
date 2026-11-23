@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0456
+Company: Eastern Care Pharmacy
+Company Address: 63 Zindabazar Road, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 21 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-03-15
+Due Date: 2026-04-14
+Currency: USD
+Subtotal: 8488.42
+Tax: 1247.8
+Total: 9571.45
+Balance Due: 0.0
+Status: paid

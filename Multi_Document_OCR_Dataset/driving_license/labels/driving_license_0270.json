@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL851351880",
+  "full_name": "James Ramsey",
+  "date_of_birth": "1977-04-17",
+  "class": "A",
+  "issue_date": "2022-04-02",
+  "expiry_date": "2027-04-02",
+  "address": "7848 Lopez Ferry, Mariomouth, KY 78971",
+  "sample_id": "driving_license_0270"
+}

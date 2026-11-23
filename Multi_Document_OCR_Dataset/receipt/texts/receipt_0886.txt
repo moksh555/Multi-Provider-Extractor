@@ -1,0 +1,67 @@
+Receipt RCT-4UNFTWR2
+Merchant: Murray-Maldonado
+Date: 2021-12-20
+Total: $914.31
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4UNFTWR2",
+  "merchant_name": "Murray-Maldonado",
+  "date": "2021-12-20",
+  "subtotal": 859.56,
+  "tax": 68.84,
+  "discount": 14.09,
+  "total": 914.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$28.28",
+      "line_total": "$28.28"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$53.30",
+      "line_total": "$106.60"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$11.23",
+      "line_total": "$44.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$4.88",
+      "line_total": "$19.52"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$12.52",
+      "line_total": "$25.04"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$73.12",
+      "line_total": "$292.48"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$49.64",
+      "line_total": "$148.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$64.60",
+      "line_total": "$193.80"
+    }
+  ],
+  "sample_id": "receipt_0886"
+}

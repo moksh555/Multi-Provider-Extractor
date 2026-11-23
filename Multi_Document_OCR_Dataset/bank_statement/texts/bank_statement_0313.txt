@@ -1,0 +1,16 @@
+Bank Statement STM-7NSPN5MR
+Holder: Samantha Powell
+Closing Balance: $1649.01
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7NSPN5MR",
+  "account_holder": "Samantha Powell",
+  "account_number_masked": "****8245",
+  "period_start": "2024-07-25",
+  "period_end": "2024-08-24",
+  "opening_balance": 878.0,
+  "closing_balance": 1649.01,
+  "transactions": 10,
+  "sample_id": "bank_statement_0313"
+}

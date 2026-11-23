@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Angela Jacobs",
+  "email": "knightmercedes@example.org",
+  "phone": "7916665954",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "LangChain",
+    "Machine Learning",
+    "TensorFlow",
+    "FastAPI",
+    "SQL",
+    "Pandas",
+    "Streamlit",
+    "AWS",
+    "NLP",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0641"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-IINPBM51
+Patient: Charles Ortega
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-IINPBM51",
+  "patient_name": "Charles Ortega",
+  "visit_date": "2025-04-18",
+  "doctor_name": "Dr. Carla Farmer",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0943"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Monica Snow
+License: DL186894135
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL186894135",
+  "full_name": "Monica Snow",
+  "date_of_birth": "2004-05-28",
+  "class": "D",
+  "issue_date": "2024-08-02",
+  "expiry_date": "2029-08-02",
+  "address": "67014 Smith Ways Apt. 588, South Dorothybury, NJ 45819",
+  "sample_id": "driving_license_0208"
+}

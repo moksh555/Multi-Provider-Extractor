@@ -1,0 +1,67 @@
+Receipt RCT-1TCJFCZW
+Merchant: Lynch, Lawson and Oconnell
+Date: 2024-04-23
+Total: $612.59
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1TCJFCZW",
+  "merchant_name": "Lynch, Lawson and Oconnell",
+  "date": "2024-04-23",
+  "subtotal": 598.41,
+  "tax": 20.23,
+  "discount": 6.05,
+  "total": 612.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$33.20",
+      "line_total": "$99.60"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$20.17",
+      "line_total": "$20.17"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$30.09",
+      "line_total": "$60.18"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$9.22",
+      "line_total": "$18.44"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$37.50",
+      "line_total": "$37.50"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$24.04",
+      "line_total": "$96.16"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$29.02",
+      "line_total": "$58.04"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$69.44",
+      "line_total": "$208.32"
+    }
+  ],
+  "sample_id": "receipt_0514"
+}

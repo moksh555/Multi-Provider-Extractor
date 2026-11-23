@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0510
+Company: Eastern Care Pharmacy
+Company Address: 33 Al Barsha, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 143 Al Barsha, Sylhet, Bangladesh
+Invoice Date: 2026-06-27
+Due Date: 2026-07-27
+Currency: AED
+Subtotal: 3768.52
+Tax: 553.97
+Total: 4257.12
+Balance Due: 4257.12
+Status: unpaid

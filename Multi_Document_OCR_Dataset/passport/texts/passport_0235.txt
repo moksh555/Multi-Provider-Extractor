@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Erica Benson
+Passport No: P17641102
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P17641102",
+  "full_name": "Erica Benson",
+  "nationality": "AE",
+  "date_of_birth": "1987-01-26",
+  "issue_date": "2020-08-30",
+  "expiry_date": "2030-08-30",
+  "place_of_birth": "Lake Dawn",
+  "sample_id": "passport_0235"
+}

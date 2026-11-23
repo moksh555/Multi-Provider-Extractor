@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0695
+Company: PrimeSoft Technologies
+Company Address: 156 Road 12, Banani, Chattogram, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 70 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-05
+Due Date: 2026-02-04
+Currency: BDT
+Subtotal: 5941.46
+Tax: 534.73
+Total: 5882.04
+Balance Due: 3218.89
+Status: partial

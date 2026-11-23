@@ -1,0 +1,25 @@
+Resume
+Jacob Howard
+Software Engineer
+Skills: SQL, TensorFlow, Docker, LangChain, Pandas, Deep Learning, FastAPI, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Jacob Howard",
+  "email": "williamlawrence@example.org",
+  "phone": "228.743.9974x86980",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "SQL",
+    "TensorFlow",
+    "Docker",
+    "LangChain",
+    "Pandas",
+    "Deep Learning",
+    "FastAPI",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0736"
+}

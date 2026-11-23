@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HHNBAVEK",
+  "merchant_name": "Clark, Garcia and Weiss",
+  "date": "2026-01-17",
+  "subtotal": 430.97,
+  "tax": 39.92,
+  "discount": 0.1,
+  "total": 470.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$73.96",
+      "line_total": "$221.88"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$64.63",
+      "line_total": "$64.63"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$38.60",
+      "line_total": "$38.60"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$52.93",
+      "line_total": "$105.86"
+    }
+  ],
+  "sample_id": "receipt_0506"
+}

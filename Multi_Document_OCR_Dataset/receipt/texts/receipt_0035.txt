@@ -1,0 +1,61 @@
+Receipt RCT-UU9K9XJU
+Merchant: Keith-Sanchez
+Date: 2021-07-20
+Total: $983.95
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UU9K9XJU",
+  "merchant_name": "Keith-Sanchez",
+  "date": "2021-07-20",
+  "subtotal": 924.64,
+  "tax": 62.32,
+  "discount": 3.01,
+  "total": 983.95,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$62.28",
+      "line_total": "$186.84"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$18.30",
+      "line_total": "$54.90"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$54.54",
+      "line_total": "$163.62"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$72.37",
+      "line_total": "$72.37"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$63.30",
+      "line_total": "$189.90"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$58.86",
+      "line_total": "$176.58"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$26.81",
+      "line_total": "$80.43"
+    }
+  ],
+  "sample_id": "receipt_0035"
+}

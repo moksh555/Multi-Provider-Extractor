@@ -1,0 +1,49 @@
+Receipt RCT-5506RR5P
+Merchant: Horton-Russell
+Date: 2021-09-17
+Total: $680.44
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5506RR5P",
+  "merchant_name": "Horton-Russell",
+  "date": "2021-09-17",
+  "subtotal": 643.61,
+  "tax": 51.65,
+  "discount": 14.82,
+  "total": 680.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$56.66",
+      "line_total": "$56.66"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$42.01",
+      "line_total": "$126.03"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$53.28",
+      "line_total": "$213.12"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$28.31",
+      "line_total": "$113.24"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$67.28",
+      "line_total": "$134.56"
+    }
+  ],
+  "sample_id": "receipt_0124"
+}

@@ -1,0 +1,25 @@
+Resume
+Heidi Wilson
+Software Engineer
+Skills: Streamlit, LangChain, SQL, PyTorch, NLP, TensorFlow, FastAPI, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Heidi Wilson",
+  "email": "elee@example.net",
+  "phone": "001-290-510-2719x0952",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Streamlit",
+    "LangChain",
+    "SQL",
+    "PyTorch",
+    "NLP",
+    "TensorFlow",
+    "FastAPI",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0466"
+}

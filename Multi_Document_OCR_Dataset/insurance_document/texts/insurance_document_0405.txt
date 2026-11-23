@@ -1,0 +1,16 @@
+Insurance Policy POL-B9W4UOV51
+Holder: Lori Green
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B9W4UOV51",
+  "policy_holder": "Lori Green",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-12-24",
+  "expiry_date": "2027-12-24",
+  "premium": 195.28,
+  "coverage_amount": 212796.09,
+  "beneficiary": "Tiffany Harris",
+  "sample_id": "insurance_document_0405"
+}

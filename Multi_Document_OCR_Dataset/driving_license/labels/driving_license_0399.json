@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL651431367",
+  "full_name": "Diane Mcdowell",
+  "date_of_birth": "1975-03-09",
+  "class": "D",
+  "issue_date": "2023-12-03",
+  "expiry_date": "2028-12-03",
+  "address": "562 Doyle Overpass Apt. 870, East Brian, HI 05201",
+  "sample_id": "driving_license_0399"
+}

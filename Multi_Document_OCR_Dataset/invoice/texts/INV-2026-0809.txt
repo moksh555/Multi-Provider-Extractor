@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0809
+Company: Delta Insurance Services
+Company Address: 42 Road 12, Banani, Sylhet, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 136 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-09
+Due Date: 2026-01-24
+Currency: USD
+Subtotal: 19030.06
+Tax: 1284.53
+Total: 18461.58
+Balance Due: 12458.23
+Status: partial

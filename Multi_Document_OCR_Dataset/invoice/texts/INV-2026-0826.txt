@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0826
+Company: Golden Harvest Store
+Company Address: 157 Zindabazar Road, Dubai, UAE
+Customer: Rahim Traders
+Billing Address: 47 Road 12, Banani, Dubai, UAE
+Invoice Date: 2026-05-18
+Due Date: 2026-06-17
+Currency: SAR
+Subtotal: 8319.5
+Tax: 395.18
+Total: 8348.7
+Balance Due: 8348.7
+Status: unpaid

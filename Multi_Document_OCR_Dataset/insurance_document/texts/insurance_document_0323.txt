@@ -1,0 +1,16 @@
+Insurance Policy POL-H2ODPVJTU
+Holder: Kathleen Mora
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-H2ODPVJTU",
+  "policy_holder": "Kathleen Mora",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-18",
+  "expiry_date": "2025-07-18",
+  "premium": 2480.48,
+  "coverage_amount": 204752.53,
+  "beneficiary": "Melissa Owens",
+  "sample_id": "insurance_document_0323"
+}

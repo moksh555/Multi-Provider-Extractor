@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0709
+Company: Nova Medical Supplies
+Company Address: 29 Zindabazar Road, Sylhet, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 11 Agrabad C/A, Dhaka, Bangladesh
+Invoice Date: 2026-01-29
+Due Date: 2026-02-05
+Currency: BDT
+Subtotal: 6435.72
+Tax: 579.22
+Total: 6371.37
+Balance Due: 6371.37
+Status: overdue

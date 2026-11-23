@@ -1,0 +1,16 @@
+Synthetic Driving License
+Samantha Jones
+License: DL318471570
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL318471570",
+  "full_name": "Samantha Jones",
+  "date_of_birth": "1974-04-17",
+  "class": "A",
+  "issue_date": "2023-11-12",
+  "expiry_date": "2028-11-12",
+  "address": "720 Adrienne Squares Suite 934, North Maryborough, MO 40816",
+  "sample_id": "driving_license_0932"
+}

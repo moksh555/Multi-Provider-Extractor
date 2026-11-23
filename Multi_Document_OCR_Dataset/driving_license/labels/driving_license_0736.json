@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL536205509",
+  "full_name": "Christopher Haney",
+  "date_of_birth": "2000-11-09",
+  "class": "C",
+  "issue_date": "2025-08-25",
+  "expiry_date": "2030-08-25",
+  "address": "333 Wong Forge, North Kenneth, AK 80745",
+  "sample_id": "driving_license_0736"
+}

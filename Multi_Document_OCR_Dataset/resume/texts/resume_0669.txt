@@ -1,0 +1,25 @@
+Resume
+Carlos Chavez
+Software Engineer
+Skills: NLP, Docker, FastAPI, Deep Learning, TensorFlow, PyTorch, Computer Vision, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Carlos Chavez",
+  "email": "kdavis@example.org",
+  "phone": "4957310017",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "NLP",
+    "Docker",
+    "FastAPI",
+    "Deep Learning",
+    "TensorFlow",
+    "PyTorch",
+    "Computer Vision",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0669"
+}

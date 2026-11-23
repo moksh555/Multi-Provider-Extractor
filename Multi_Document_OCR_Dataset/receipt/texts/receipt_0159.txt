@@ -1,0 +1,61 @@
+Receipt RCT-DXB7GBDG
+Merchant: May Ltd
+Date: 2021-05-11
+Total: $1187.04
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DXB7GBDG",
+  "merchant_name": "May Ltd",
+  "date": "2021-05-11",
+  "subtotal": 1155.56,
+  "tax": 40.73,
+  "discount": 9.25,
+  "total": 1187.04,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$42.54",
+      "line_total": "$170.16"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$29.94",
+      "line_total": "$29.94"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$74.49",
+      "line_total": "$74.49"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$74.34",
+      "line_total": "$297.36"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$64.28",
+      "line_total": "$257.12"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$45.08",
+      "line_total": "$135.24"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$63.75",
+      "line_total": "$191.25"
+    }
+  ],
+  "sample_id": "receipt_0159"
+}

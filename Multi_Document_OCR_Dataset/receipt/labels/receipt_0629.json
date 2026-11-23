@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JHDKXZO0",
+  "merchant_name": "Franklin, Rodriguez and Bowen",
+  "date": "2025-06-12",
+  "subtotal": 725.69,
+  "tax": 76.73,
+  "discount": 0.88,
+  "total": 801.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$44.62",
+      "line_total": "$44.62"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$45.96",
+      "line_total": "$91.92"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$60.51",
+      "line_total": "$242.04"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$71.00",
+      "line_total": "$142.00"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$35.61",
+      "line_total": "$142.44"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$37.80",
+      "line_total": "$37.80"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$24.87",
+      "line_total": "$24.87"
+    }
+  ],
+  "sample_id": "receipt_0629"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0293
+Company: PrimeSoft Technologies
+Company Address: 109 Zindabazar Road, Dubai, UAE
+Customer: Sunrise Apparel
+Billing Address: 9 Al Barsha, Doha, Qatar
+Invoice Date: 2026-01-21
+Due Date: 2026-03-07
+Currency: QAR
+Subtotal: 20438.52
+Tax: 0.0
+Total: 20463.52
+Balance Due: 14000.14
+Status: partial

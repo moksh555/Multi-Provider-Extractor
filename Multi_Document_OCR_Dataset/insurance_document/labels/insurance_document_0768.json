@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KAG6W04YG",
+  "policy_holder": "Teresa Peters",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-12-08",
+  "expiry_date": "2024-12-08",
+  "premium": 565.88,
+  "coverage_amount": 450935.92,
+  "beneficiary": "Michael Garcia",
+  "sample_id": "insurance_document_0768"
+}

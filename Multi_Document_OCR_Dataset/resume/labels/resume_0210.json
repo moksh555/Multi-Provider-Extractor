@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "John Oconnor",
+  "email": "williamsjames@example.org",
+  "phone": "001-293-590-7737x29545",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "Docker",
+    "NLP",
+    "AWS",
+    "TensorFlow",
+    "SQL",
+    "Python",
+    "LangChain",
+    "PyTorch",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0210"
+}

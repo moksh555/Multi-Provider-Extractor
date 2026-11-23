@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0059
+Company: PrimeSoft Technologies
+Company Address: 107 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 69 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-05-07
+Due Date: 2026-05-22
+Currency: USD
+Subtotal: 16881.95
+Tax: 1654.43
+Total: 18223.74
+Balance Due: 18223.74
+Status: unpaid

@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0634",
+  "invoice_number": "INV-2026-0634",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "177 Mirpur DOHS, Riyadh, Saudi Arabia",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "150 Uttara Sector 7, Dubai, UAE",
+  "invoice_date": "2026-01-31",
+  "due_date": "2026-02-07",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 806.83,
+      "amount": 1613.66
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 114.52,
+      "amount": 1145.2
+    },
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 773.97,
+      "amount": 1547.94
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 3,
+      "unit_price": 436.77,
+      "amount": 1310.31
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 3,
+      "unit_price": 585.03,
+      "amount": 1755.09
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 53.11,
+      "amount": 637.32
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 200.47,
+      "amount": 1603.76
+    }
+  ],
+  "subtotal": 9613.28,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 961.33,
+  "shipping": 25,
+  "total": 10599.61,
+  "amount_paid": 10599.61,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801152503247",
+  "po_number": "PO-10154"
+}

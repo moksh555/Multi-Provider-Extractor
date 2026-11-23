@@ -1,0 +1,16 @@
+Bank Statement STM-QWYCWYUI
+Holder: Brandon Barker
+Closing Balance: $4283.82
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QWYCWYUI",
+  "account_holder": "Brandon Barker",
+  "account_number_masked": "****4804",
+  "period_start": "2025-03-13",
+  "period_end": "2025-04-12",
+  "opening_balance": 1648.97,
+  "closing_balance": 4283.82,
+  "transactions": 12,
+  "sample_id": "bank_statement_0833"
+}

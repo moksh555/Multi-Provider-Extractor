@@ -1,0 +1,14 @@
+Medical Report MED-IECHZSW6
+Patient: Barbara Wolf
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-IECHZSW6",
+  "patient_name": "Barbara Wolf",
+  "visit_date": "2024-05-19",
+  "doctor_name": "Dr. Francis Steele",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0171"
+}

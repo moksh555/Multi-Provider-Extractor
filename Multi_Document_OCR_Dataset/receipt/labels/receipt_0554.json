@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UKFWPZDP",
+  "merchant_name": "Price Group",
+  "date": "2021-04-02",
+  "subtotal": 365.99,
+  "tax": 40.89,
+  "discount": 6.08,
+  "total": 400.8,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$10.99",
+      "line_total": "$21.98"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$28.05",
+      "line_total": "$28.05"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$66.39",
+      "line_total": "$132.78"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$56.39",
+      "line_total": "$112.78"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$20.73",
+      "line_total": "$20.73"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$49.67",
+      "line_total": "$49.67"
+    }
+  ],
+  "sample_id": "receipt_0554"
+}

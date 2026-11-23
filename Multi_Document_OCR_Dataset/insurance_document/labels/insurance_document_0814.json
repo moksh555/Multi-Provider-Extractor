@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LCG1J5EWF",
+  "policy_holder": "Tammy Kirby",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-09-05",
+  "expiry_date": "2027-09-05",
+  "premium": 238.0,
+  "coverage_amount": 66078.82,
+  "beneficiary": "Mary Cunningham",
+  "sample_id": "insurance_document_0814"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0393
+Company: Golden Harvest Store
+Company Address: 183 Mirpur DOHS, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 170 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-05-21
+Due Date: 2026-07-05
+Currency: QAR
+Subtotal: 20006.94
+Tax: 1425.49
+Total: 20437.08
+Balance Due: 20437.08
+Status: overdue

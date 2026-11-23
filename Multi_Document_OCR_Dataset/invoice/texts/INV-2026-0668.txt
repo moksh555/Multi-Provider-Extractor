@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0668
+Company: Greenline Logistics
+Company Address: 121 Jumeirah Lake Towers, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 88 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-03-18
+Due Date: 2026-05-02
+Currency: SAR
+Subtotal: 3345.11
+Tax: 301.06
+Total: 3316.66
+Balance Due: 3316.66
+Status: overdue

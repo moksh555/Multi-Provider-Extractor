@@ -1,0 +1,14 @@
+Medical Report MED-T1C7DRYH
+Patient: Maria Miller
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-T1C7DRYH",
+  "patient_name": "Maria Miller",
+  "visit_date": "2025-11-06",
+  "doctor_name": "Dr. Valerie Mckee",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0656"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL250745536",
+  "full_name": "Evan Jacobs",
+  "date_of_birth": "1975-09-06",
+  "class": "A",
+  "issue_date": "2025-02-15",
+  "expiry_date": "2030-02-15",
+  "address": "USNV Sanders, FPO AP 56552",
+  "sample_id": "driving_license_0358"
+}

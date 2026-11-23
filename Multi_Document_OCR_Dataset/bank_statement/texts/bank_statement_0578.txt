@@ -1,0 +1,16 @@
+Bank Statement STM-398NLI8C
+Holder: Jennifer Powers
+Closing Balance: $5815.65
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-398NLI8C",
+  "account_holder": "Jennifer Powers",
+  "account_number_masked": "****1948",
+  "period_start": "2026-07-02",
+  "period_end": "2026-08-01",
+  "opening_balance": 3083.59,
+  "closing_balance": 5815.65,
+  "transactions": 14,
+  "sample_id": "bank_statement_0578"
+}

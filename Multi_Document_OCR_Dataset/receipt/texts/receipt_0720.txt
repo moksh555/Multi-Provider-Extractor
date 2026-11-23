@@ -1,0 +1,55 @@
+Receipt RCT-JHB0C148
+Merchant: Fox-Chan
+Date: 2024-12-10
+Total: $708.92
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JHB0C148",
+  "merchant_name": "Fox-Chan",
+  "date": "2024-12-10",
+  "subtotal": 692.93,
+  "tax": 27.65,
+  "discount": 11.66,
+  "total": 708.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$68.08",
+      "line_total": "$272.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$60.65",
+      "line_total": "$242.60"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$30.05",
+      "line_total": "$30.05"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$42.04",
+      "line_total": "$42.04"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$12.78",
+      "line_total": "$12.78"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$46.57",
+      "line_total": "$93.14"
+    }
+  ],
+  "sample_id": "receipt_0720"
+}

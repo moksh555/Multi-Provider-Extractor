@@ -1,0 +1,43 @@
+Receipt RCT-C0OX87CZ
+Merchant: Murphy-Mason
+Date: 2026-04-19
+Total: $502.73
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-C0OX87CZ",
+  "merchant_name": "Murphy-Mason",
+  "date": "2026-04-19",
+  "subtotal": 468.6,
+  "tax": 38.71,
+  "discount": 4.58,
+  "total": 502.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$40.08",
+      "line_total": "$160.32"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$43.35",
+      "line_total": "$130.05"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$44.90",
+      "line_total": "$134.70"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$14.51",
+      "line_total": "$43.53"
+    }
+  ],
+  "sample_id": "receipt_0653"
+}

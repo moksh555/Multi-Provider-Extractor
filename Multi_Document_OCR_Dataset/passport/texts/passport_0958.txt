@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Nathaniel Ross
+Passport No: P86374756
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P86374756",
+  "full_name": "Nathaniel Ross",
+  "nationality": "US",
+  "date_of_birth": "1985-06-24",
+  "issue_date": "2021-08-06",
+  "expiry_date": "2031-08-06",
+  "place_of_birth": "Erinfort",
+  "sample_id": "passport_0958"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-D8J2X707
+Holder: Timothy Dominguez
+Closing Balance: $6514.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-D8J2X707",
+  "account_holder": "Timothy Dominguez",
+  "account_number_masked": "****8348",
+  "period_start": "2025-10-18",
+  "period_end": "2025-11-17",
+  "opening_balance": 1699.5,
+  "closing_balance": 6514.38,
+  "transactions": 9,
+  "sample_id": "bank_statement_0116"
+}

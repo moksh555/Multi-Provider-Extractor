@@ -1,0 +1,61 @@
+Receipt RCT-PJA1WJ0T
+Merchant: Morton-Chase
+Date: 2025-10-18
+Total: $590.74
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PJA1WJ0T",
+  "merchant_name": "Morton-Chase",
+  "date": "2025-10-18",
+  "subtotal": 564.23,
+  "tax": 28.95,
+  "discount": 2.44,
+  "total": 590.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$6.94",
+      "line_total": "$6.94"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$66.93",
+      "line_total": "$66.93"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$11.07",
+      "line_total": "$44.28"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$72.02",
+      "line_total": "$216.06"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$17.60",
+      "line_total": "$52.80"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$28.94",
+      "line_total": "$28.94"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$74.14",
+      "line_total": "$148.28"
+    }
+  ],
+  "sample_id": "receipt_0013"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZZIX2SOT",
+  "account_holder": "Monica Gilmore",
+  "account_number_masked": "****6853",
+  "period_start": "2025-03-12",
+  "period_end": "2025-04-11",
+  "opening_balance": 4393.42,
+  "closing_balance": 4773.47,
+  "transactions": 11,
+  "sample_id": "bank_statement_0106"
+}

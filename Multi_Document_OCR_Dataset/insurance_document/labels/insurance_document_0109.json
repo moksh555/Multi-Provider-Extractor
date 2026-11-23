@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7ZSEDFQS3",
+  "policy_holder": "Victor Floyd",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-03-30",
+  "expiry_date": "2025-03-30",
+  "premium": 2063.75,
+  "coverage_amount": 443468.59,
+  "beneficiary": "Wendy Camacho",
+  "sample_id": "insurance_document_0109"
+}

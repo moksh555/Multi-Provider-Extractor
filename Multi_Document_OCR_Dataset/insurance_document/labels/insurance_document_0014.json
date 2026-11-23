@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZCCBLSKRT",
+  "policy_holder": "Terry Williams",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-26",
+  "expiry_date": "2027-03-26",
+  "premium": 1244.96,
+  "coverage_amount": 394463.52,
+  "beneficiary": "Sandra Williams",
+  "sample_id": "insurance_document_0014"
+}

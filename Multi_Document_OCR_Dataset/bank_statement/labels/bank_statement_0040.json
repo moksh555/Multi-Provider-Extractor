@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B9EKTR1T",
+  "account_holder": "Nathan Cobb",
+  "account_number_masked": "****7716",
+  "period_start": "2026-04-07",
+  "period_end": "2026-05-07",
+  "opening_balance": 4499.57,
+  "closing_balance": 7091.09,
+  "transactions": 11,
+  "sample_id": "bank_statement_0040"
+}

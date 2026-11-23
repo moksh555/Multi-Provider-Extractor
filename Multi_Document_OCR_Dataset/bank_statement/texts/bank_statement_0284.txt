@@ -1,0 +1,16 @@
+Bank Statement STM-5UAK3J16
+Holder: Peter Haynes
+Closing Balance: $7963.09
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5UAK3J16",
+  "account_holder": "Peter Haynes",
+  "account_number_masked": "****5897",
+  "period_start": "2024-06-12",
+  "period_end": "2024-07-12",
+  "opening_balance": 3891.49,
+  "closing_balance": 7963.09,
+  "transactions": 12,
+  "sample_id": "bank_statement_0284"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Alexa Mcfarland
+License: DL333405837
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL333405837",
+  "full_name": "Alexa Mcfarland",
+  "date_of_birth": "2004-02-03",
+  "class": "B",
+  "issue_date": "2024-10-30",
+  "expiry_date": "2029-10-30",
+  "address": "3448 George Cape Apt. 402, Saraview, VI 07253",
+  "sample_id": "driving_license_0528"
+}

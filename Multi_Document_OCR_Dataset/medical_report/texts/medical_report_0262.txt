@@ -1,0 +1,14 @@
+Medical Report MED-0DPMXWOB
+Patient: Elizabeth Poole
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0DPMXWOB",
+  "patient_name": "Elizabeth Poole",
+  "visit_date": "2026-03-13",
+  "doctor_name": "Dr. Michael Barker",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0262"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1P2K6MU0",
+  "account_holder": "Mary Farrell",
+  "account_number_masked": "****9255",
+  "period_start": "2024-06-28",
+  "period_end": "2024-07-28",
+  "opening_balance": 3464.09,
+  "closing_balance": 4343.75,
+  "transactions": 14,
+  "sample_id": "bank_statement_0746"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5FL2MOXQ9",
+  "policy_holder": "Danielle Schwartz",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-03-05",
+  "expiry_date": "2024-03-05",
+  "premium": 501.54,
+  "coverage_amount": 31859.18,
+  "beneficiary": "Jonathan Navarro",
+  "sample_id": "insurance_document_0817"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9VXK2FIB",
+  "account_holder": "Miranda Petersen",
+  "account_number_masked": "****3080",
+  "period_start": "2025-08-14",
+  "period_end": "2025-09-13",
+  "opening_balance": 595.93,
+  "closing_balance": 7080.09,
+  "transactions": 10,
+  "sample_id": "bank_statement_0319"
+}

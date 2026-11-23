@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Andrew Davis
+Passport No: P64368627
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P64368627",
+  "full_name": "Andrew Davis",
+  "nationality": "AE",
+  "date_of_birth": "1993-06-27",
+  "issue_date": "2020-03-13",
+  "expiry_date": "2030-03-13",
+  "place_of_birth": "West Jeffreyview",
+  "sample_id": "passport_0342"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL620357133",
+  "full_name": "Jaclyn Crane",
+  "date_of_birth": "1962-08-12",
+  "class": "B",
+  "issue_date": "2021-12-20",
+  "expiry_date": "2026-12-20",
+  "address": "15940 David Inlet Suite 447, Port Douglasshire, MT 06877",
+  "sample_id": "driving_license_0428"
+}

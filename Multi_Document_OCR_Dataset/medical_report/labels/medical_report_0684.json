@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NRHUOY9O",
+  "patient_name": "Morgan Ramos",
+  "visit_date": "2025-08-01",
+  "doctor_name": "Dr. Scott Shah",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0684"
+}

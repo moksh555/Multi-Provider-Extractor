@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL413166695",
+  "full_name": "Jesus Houston",
+  "date_of_birth": "2003-12-05",
+  "class": "B",
+  "issue_date": "2023-03-29",
+  "expiry_date": "2028-03-29",
+  "address": "2120 Dale Ramp Suite 972, Maxwelltown, VI 90215",
+  "sample_id": "driving_license_0207"
+}

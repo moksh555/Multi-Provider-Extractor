@@ -1,0 +1,61 @@
+Receipt RCT-MQA78RAP
+Merchant: Patel-Carlson
+Date: 2024-04-14
+Total: $936.13
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MQA78RAP",
+  "merchant_name": "Patel-Carlson",
+  "date": "2024-04-14",
+  "subtotal": 905.44,
+  "tax": 32.74,
+  "discount": 2.05,
+  "total": 936.13,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$44.31",
+      "line_total": "$44.31"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$70.69",
+      "line_total": "$282.76"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$20.74",
+      "line_total": "$82.96"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$18.43",
+      "line_total": "$73.72"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$50.40",
+      "line_total": "$201.60"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$52.23",
+      "line_total": "$156.69"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$15.85",
+      "line_total": "$63.40"
+    }
+  ],
+  "sample_id": "receipt_0153"
+}

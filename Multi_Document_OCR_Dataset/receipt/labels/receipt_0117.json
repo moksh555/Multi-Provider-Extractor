@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-P5NVQEBW",
+  "merchant_name": "Fox PLC",
+  "date": "2021-10-19",
+  "subtotal": 736.71,
+  "tax": 63.94,
+  "discount": 2.65,
+  "total": 798.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$69.53",
+      "line_total": "$69.53"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$33.64",
+      "line_total": "$100.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$79.40",
+      "line_total": "$158.80"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$78.99",
+      "line_total": "$315.96"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$25.99",
+      "line_total": "$51.98"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$39.52",
+      "line_total": "$39.52"
+    }
+  ],
+  "sample_id": "receipt_0117"
+}

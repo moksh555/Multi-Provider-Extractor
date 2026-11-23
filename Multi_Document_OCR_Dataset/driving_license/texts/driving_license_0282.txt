@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jessica Bailey
+License: DL181039304
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL181039304",
+  "full_name": "Jessica Bailey",
+  "date_of_birth": "1978-10-14",
+  "class": "B",
+  "issue_date": "2021-11-21",
+  "expiry_date": "2026-11-21",
+  "address": "2597 Scott Viaduct, East Gina, FL 99818",
+  "sample_id": "driving_license_0282"
+}

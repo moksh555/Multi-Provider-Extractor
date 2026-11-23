@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL143996566",
+  "full_name": "Kenneth Farmer",
+  "date_of_birth": "1964-01-05",
+  "class": "A",
+  "issue_date": "2022-08-29",
+  "expiry_date": "2027-08-29",
+  "address": "021 Krueger Lake Suite 325, Perezstad, MA 26582",
+  "sample_id": "driving_license_0705"
+}

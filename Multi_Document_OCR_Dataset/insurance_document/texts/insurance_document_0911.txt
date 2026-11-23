@@ -1,0 +1,16 @@
+Insurance Policy POL-BW8SJ84TC
+Holder: Steven Sweeney
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BW8SJ84TC",
+  "policy_holder": "Steven Sweeney",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-07-03",
+  "expiry_date": "2026-07-03",
+  "premium": 1468.75,
+  "coverage_amount": 131506.25,
+  "beneficiary": "Shawn Fischer",
+  "sample_id": "insurance_document_0911"
+}

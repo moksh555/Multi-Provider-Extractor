@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LSH3TOW4Y",
+  "policy_holder": "Mrs. Jasmine Hubbard",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-09-27",
+  "expiry_date": "2025-09-27",
+  "premium": 1782.85,
+  "coverage_amount": 367679.6,
+  "beneficiary": "Cheryl Gonzales",
+  "sample_id": "insurance_document_0212"
+}

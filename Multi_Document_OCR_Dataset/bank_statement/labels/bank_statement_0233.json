@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1JQEDLI5",
+  "account_holder": "James Kelly",
+  "account_number_masked": "****1225",
+  "period_start": "2024-08-09",
+  "period_end": "2024-09-08",
+  "opening_balance": 1974.33,
+  "closing_balance": 769.3,
+  "transactions": 10,
+  "sample_id": "bank_statement_0233"
+}

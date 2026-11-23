@@ -1,0 +1,16 @@
+Synthetic Driving License
+Ryan Mercer
+License: DL395187402
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL395187402",
+  "full_name": "Ryan Mercer",
+  "date_of_birth": "1970-11-26",
+  "class": "D",
+  "issue_date": "2025-06-28",
+  "expiry_date": "2030-06-28",
+  "address": "3183 Jasmine Valley Apt. 231, East Catherine, FM 85061",
+  "sample_id": "driving_license_0940"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-0P1XS910B
+Holder: Christopher Reyes
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0P1XS910B",
+  "policy_holder": "Christopher Reyes",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-11-09",
+  "expiry_date": "2024-11-09",
+  "premium": 932.41,
+  "coverage_amount": 475703.06,
+  "beneficiary": "Jacqueline Cook",
+  "sample_id": "insurance_document_0993"
+}

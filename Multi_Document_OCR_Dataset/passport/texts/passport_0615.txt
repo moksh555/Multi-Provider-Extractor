@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Lori Mendoza
+Passport No: P66789064
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P66789064",
+  "full_name": "Lori Mendoza",
+  "nationality": "CA",
+  "date_of_birth": "1998-03-21",
+  "issue_date": "2023-06-06",
+  "expiry_date": "2033-06-06",
+  "place_of_birth": "Torresville",
+  "sample_id": "passport_0615"
+}

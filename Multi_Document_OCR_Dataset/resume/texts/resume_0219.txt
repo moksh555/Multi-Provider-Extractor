@@ -1,0 +1,27 @@
+Resume
+John Smith
+Computer Vision Engineer
+Skills: LangChain, AWS, NLP, Pandas, Streamlit, Computer Vision, TensorFlow, FastAPI, Python, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "John Smith",
+  "email": "hamiltonjoseph@example.com",
+  "phone": "7893512370",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "LangChain",
+    "AWS",
+    "NLP",
+    "Pandas",
+    "Streamlit",
+    "Computer Vision",
+    "TensorFlow",
+    "FastAPI",
+    "Python",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0219"
+}

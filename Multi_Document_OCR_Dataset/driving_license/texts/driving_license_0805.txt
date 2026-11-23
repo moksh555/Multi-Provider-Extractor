@@ -1,0 +1,16 @@
+Synthetic Driving License
+Linda Leonard
+License: DL982719036
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL982719036",
+  "full_name": "Linda Leonard",
+  "date_of_birth": "1994-01-19",
+  "class": "B",
+  "issue_date": "2023-01-10",
+  "expiry_date": "2028-01-10",
+  "address": "82749 Solis Plain Apt. 491, Thompsonmouth, LA 21832",
+  "sample_id": "driving_license_0805"
+}

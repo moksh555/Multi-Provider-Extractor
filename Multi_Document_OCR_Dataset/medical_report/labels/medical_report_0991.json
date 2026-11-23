@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IKUTCSF7",
+  "patient_name": "Jane Silva",
+  "visit_date": "2024-11-02",
+  "doctor_name": "Dr. Emily Farley",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0991"
+}

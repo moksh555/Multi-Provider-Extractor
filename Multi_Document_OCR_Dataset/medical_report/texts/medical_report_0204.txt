@@ -1,0 +1,14 @@
+Medical Report MED-YWW49UXI
+Patient: Allison Mccormick
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YWW49UXI",
+  "patient_name": "Allison Mccormick",
+  "visit_date": "2025-07-25",
+  "doctor_name": "Dr. William Craig",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0204"
+}

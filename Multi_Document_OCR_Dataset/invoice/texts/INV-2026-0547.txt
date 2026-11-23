@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0547
+Company: PrimeSoft Technologies
+Company Address: 22 Zindabazar Road, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 155 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-02-17
+Due Date: 2026-03-04
+Currency: SAR
+Subtotal: 20510.08
+Tax: 0.0
+Total: 19509.58
+Balance Due: 19509.58
+Status: unpaid

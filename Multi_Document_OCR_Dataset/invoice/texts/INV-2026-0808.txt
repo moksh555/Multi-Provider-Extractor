@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0808
+Company: Delta Insurance Services
+Company Address: 60 Agrabad C/A, Dhaka, Bangladesh
+Customer: Future School
+Billing Address: 246 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-03-04
+Due Date: 2026-04-03
+Currency: SAR
+Subtotal: 6140.93
+Tax: 460.57
+Total: 6651.5
+Balance Due: 3449.1
+Status: partial

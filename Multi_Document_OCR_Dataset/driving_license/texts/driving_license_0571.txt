@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michelle Hayden
+License: DL955447835
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL955447835",
+  "full_name": "Michelle Hayden",
+  "date_of_birth": "2005-03-01",
+  "class": "A",
+  "issue_date": "2020-03-07",
+  "expiry_date": "2025-03-07",
+  "address": "37676 Cabrera Road Apt. 966, New Michael, MH 83430",
+  "sample_id": "driving_license_0571"
+}

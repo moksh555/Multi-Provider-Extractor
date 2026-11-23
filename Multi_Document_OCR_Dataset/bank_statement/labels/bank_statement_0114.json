@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EW9JZF4E",
+  "account_holder": "Nicole Jones",
+  "account_number_masked": "****7677",
+  "period_start": "2026-06-17",
+  "period_end": "2026-07-17",
+  "opening_balance": 2741.12,
+  "closing_balance": 4129.11,
+  "transactions": 14,
+  "sample_id": "bank_statement_0114"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VTM364E4",
+  "account_holder": "William Paul",
+  "account_number_masked": "****6403",
+  "period_start": "2025-10-20",
+  "period_end": "2025-11-19",
+  "opening_balance": 1824.93,
+  "closing_balance": 6856.05,
+  "transactions": 12,
+  "sample_id": "bank_statement_0964"
+}

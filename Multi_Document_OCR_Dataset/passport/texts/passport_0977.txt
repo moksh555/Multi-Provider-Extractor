@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jodi Thompson
+Passport No: P88664482
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P88664482",
+  "full_name": "Jodi Thompson",
+  "nationality": "CA",
+  "date_of_birth": "2001-01-31",
+  "issue_date": "2025-05-04",
+  "expiry_date": "2035-05-04",
+  "place_of_birth": "East Carolineshire",
+  "sample_id": "passport_0977"
+}

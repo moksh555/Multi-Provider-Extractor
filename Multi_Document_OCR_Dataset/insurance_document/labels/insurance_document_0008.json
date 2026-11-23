@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ER14FFYVN",
+  "policy_holder": "Brent Jordan",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-08-16",
+  "expiry_date": "2026-08-16",
+  "premium": 1379.29,
+  "coverage_amount": 485828.41,
+  "beneficiary": "John Daniel",
+  "sample_id": "insurance_document_0008"
+}

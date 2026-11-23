@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GZTZ1DSZ",
+  "patient_name": "Matthew Mcdaniel",
+  "visit_date": "2025-02-03",
+  "doctor_name": "Dr. Glen Torres",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0695"
+}

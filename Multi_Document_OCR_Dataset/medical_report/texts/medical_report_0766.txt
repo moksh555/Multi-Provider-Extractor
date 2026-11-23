@@ -1,0 +1,14 @@
+Medical Report MED-VP3OJ5T5
+Patient: Hannah Schaefer
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-VP3OJ5T5",
+  "patient_name": "Hannah Schaefer",
+  "visit_date": "2025-09-13",
+  "doctor_name": "Dr. Brandon Copeland",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0766"
+}

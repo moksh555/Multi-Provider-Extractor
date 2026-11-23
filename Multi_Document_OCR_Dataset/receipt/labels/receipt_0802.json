@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7JQOQ0WT",
+  "merchant_name": "Smith, Leon and Wagner",
+  "date": "2022-12-19",
+  "subtotal": 421.0,
+  "tax": 34.8,
+  "discount": 1.73,
+  "total": 454.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$31.46",
+      "line_total": "$31.46"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$78.53",
+      "line_total": "$314.12"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$37.71",
+      "line_total": "$75.42"
+    }
+  ],
+  "sample_id": "receipt_0802"
+}

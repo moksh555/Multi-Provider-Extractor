@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0575",
+  "invoice_number": "INV-2026-0575",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "132 Motijheel C/A, Dhaka, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "39 Agrabad C/A, Doha, Qatar",
+  "invoice_date": "2026-04-13",
+  "due_date": "2026-04-20",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 12,
+      "unit_price": 82.28,
+      "amount": 987.36
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 138.25,
+      "amount": 276.5
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 11,
+      "unit_price": 672.43,
+      "amount": 7396.73
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 11,
+      "unit_price": 333.83,
+      "amount": 3672.13
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 9,
+      "unit_price": 653.83,
+      "amount": 5884.47
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 11,
+      "unit_price": 704.77,
+      "amount": 7752.47
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 334.72,
+      "amount": 2343.04
+    }
+  ],
+  "subtotal": 28312.7,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 4246.91,
+  "shipping": 25,
+  "total": 32584.61,
+  "amount_paid": 32584.61,
+  "balance_due": 0.0,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801805275158",
+  "po_number": "PO-29594"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0965
+Company: Delta Insurance Services
+Company Address: 108 Al Barsha, Sylhet, Bangladesh
+Customer: Global Mart
+Billing Address: 100 Dhanmondi 27, Chattogram, Bangladesh
+Invoice Date: 2026-02-26
+Due Date: 2026-03-13
+Currency: AED
+Subtotal: 22117.32
+Tax: 2167.5
+Total: 23852.47
+Balance Due: 23852.47
+Status: overdue

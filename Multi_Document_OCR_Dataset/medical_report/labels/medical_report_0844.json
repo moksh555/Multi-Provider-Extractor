@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JXF30PUB",
+  "patient_name": "Kaitlin Lowe",
+  "visit_date": "2024-04-29",
+  "doctor_name": "Dr. Daniel Smith",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0844"
+}

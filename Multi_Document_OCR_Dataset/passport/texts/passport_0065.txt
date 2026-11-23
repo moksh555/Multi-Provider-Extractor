@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Claudia Yates
+Passport No: P86183899
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P86183899",
+  "full_name": "Claudia Yates",
+  "nationality": "GB",
+  "date_of_birth": "1982-05-16",
+  "issue_date": "2026-11-21",
+  "expiry_date": "2036-11-21",
+  "place_of_birth": "West Ryanland",
+  "sample_id": "passport_0065"
+}

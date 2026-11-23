@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Julie Johnson",
+  "email": "alexanderanthony@example.org",
+  "phone": "5879156478",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "FastAPI",
+    "Python",
+    "Streamlit",
+    "Pandas",
+    "SQL"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0097"
+}

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SD44WL8M",
+  "merchant_name": "Bowman and Sons",
+  "date": "2021-12-18",
+  "subtotal": 644.98,
+  "tax": 66.21,
+  "discount": 11.44,
+  "total": 699.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$25.87",
+      "line_total": "$51.74"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$70.04",
+      "line_total": "$280.16"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$25.63",
+      "line_total": "$76.89"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$33.71",
+      "line_total": "$101.13"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$64.73",
+      "line_total": "$64.73"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$8.91",
+      "line_total": "$35.64"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$6.47",
+      "line_total": "$12.94"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$21.75",
+      "line_total": "$21.75"
+    }
+  ],
+  "sample_id": "receipt_0948"
+}

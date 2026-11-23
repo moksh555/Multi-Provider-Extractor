@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KF5O2UXX",
+  "merchant_name": "Simmons PLC",
+  "date": "2024-05-16",
+  "subtotal": 457.63,
+  "tax": 35.64,
+  "discount": 6.01,
+  "total": 487.26,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$69.46",
+      "line_total": "$208.38"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$2.88",
+      "line_total": "$8.64"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$64.18",
+      "line_total": "$192.54"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$48.07",
+      "line_total": "$48.07"
+    }
+  ],
+  "sample_id": "receipt_0840"
+}

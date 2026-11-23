@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Monica Peters",
+  "email": "piercefrank@example.org",
+  "phone": "(779)590-9666x0286",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Computer Vision",
+    "Deep Learning",
+    "Streamlit",
+    "Docker",
+    "AWS",
+    "Pandas",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0357"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0946",
+  "invoice_number": "INV-2026-0946",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "32 Motijheel C/A, Sylhet, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "175 Motijheel C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-04-07",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 11,
+      "unit_price": 673.91,
+      "amount": 7413.01
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 632.31,
+      "amount": 632.31
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 2,
+      "unit_price": 833.35,
+      "amount": 1666.7
+    }
+  ],
+  "subtotal": 9712.02,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 485.6,
+  "shipping": 0,
+  "total": 10197.62,
+  "amount_paid": 3096.05,
+  "balance_due": 7101.57,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801617052758",
+  "po_number": "PO-62795"
+}

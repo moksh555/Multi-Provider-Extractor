@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL719615903",
+  "full_name": "Thomas Clark",
+  "date_of_birth": "1989-11-25",
+  "class": "A",
+  "issue_date": "2023-12-15",
+  "expiry_date": "2028-12-15",
+  "address": "84951 Chandler Valley Apt. 111, Foxville, ND 06835",
+  "sample_id": "driving_license_0893"
+}

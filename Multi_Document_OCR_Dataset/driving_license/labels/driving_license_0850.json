@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL920056438",
+  "full_name": "Christina Carrillo",
+  "date_of_birth": "1980-06-07",
+  "class": "A",
+  "issue_date": "2020-03-28",
+  "expiry_date": "2025-03-28",
+  "address": "9848 Williams Isle, South Bridgetland, NJ 55190",
+  "sample_id": "driving_license_0850"
+}

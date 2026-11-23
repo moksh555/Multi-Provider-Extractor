@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0960
+Company: Greenline Logistics
+Company Address: 113 Al Barsha, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 28 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-02-15
+Due Date: 2026-04-01
+Currency: AED
+Subtotal: 11485.7
+Tax: 844.2
+Total: 12110.19
+Balance Due: 12110.19
+Status: overdue

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL305287357",
+  "full_name": "Cristian Rhodes",
+  "date_of_birth": "1968-10-06",
+  "class": "B",
+  "issue_date": "2024-10-08",
+  "expiry_date": "2029-10-08",
+  "address": "3136 Nicholas Forges, South Brendaton, FM 57630",
+  "sample_id": "driving_license_0342"
+}

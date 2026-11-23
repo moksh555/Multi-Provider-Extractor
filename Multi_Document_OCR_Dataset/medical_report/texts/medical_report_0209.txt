@@ -1,0 +1,14 @@
+Medical Report MED-E64Q9RH4
+Patient: Jerome Gordon
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-E64Q9RH4",
+  "patient_name": "Jerome Gordon",
+  "visit_date": "2026-06-08",
+  "doctor_name": "Dr. Anna Richards",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0209"
+}

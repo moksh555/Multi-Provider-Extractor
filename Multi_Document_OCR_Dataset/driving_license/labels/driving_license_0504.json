@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL465063743",
+  "full_name": "Tony Smith",
+  "date_of_birth": "1961-02-03",
+  "class": "C",
+  "issue_date": "2023-03-11",
+  "expiry_date": "2028-03-11",
+  "address": "872 Neal Pike Suite 988, Lake Corey, GU 06364",
+  "sample_id": "driving_license_0504"
+}

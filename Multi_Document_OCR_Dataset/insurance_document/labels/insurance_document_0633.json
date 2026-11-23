@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0R778NRXV",
+  "policy_holder": "John Myers",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-03-21",
+  "expiry_date": "2024-03-21",
+  "premium": 2482.08,
+  "coverage_amount": 70993.98,
+  "beneficiary": "Daniel Conway",
+  "sample_id": "insurance_document_0633"
+}

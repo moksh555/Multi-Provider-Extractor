@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0294
+Company: UrbanBuild Construction
+Company Address: 102 Al Barsha, Dhaka, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 171 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-12
+Due Date: 2026-07-12
+Currency: QAR
+Subtotal: 20025.29
+Tax: 951.2
+Total: 19985.23
+Balance Due: 19985.23
+Status: overdue

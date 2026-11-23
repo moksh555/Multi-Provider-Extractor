@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Stacy Fisher
+Passport No: P66722443
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P66722443",
+  "full_name": "Stacy Fisher",
+  "nationality": "US",
+  "date_of_birth": "1977-03-26",
+  "issue_date": "2023-11-08",
+  "expiry_date": "2033-11-08",
+  "place_of_birth": "Amandahaven",
+  "sample_id": "passport_0308"
+}

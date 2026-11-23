@@ -1,0 +1,26 @@
+Resume
+Jesse Martinez
+Backend Developer
+Skills: Machine Learning, TensorFlow, Pandas, Deep Learning, Python, Docker, FastAPI, LangChain, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Jesse Martinez",
+  "email": "afritz@example.com",
+  "phone": "402-456-3420",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Machine Learning",
+    "TensorFlow",
+    "Pandas",
+    "Deep Learning",
+    "Python",
+    "Docker",
+    "FastAPI",
+    "LangChain",
+    "SQL"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0161"
+}

@@ -1,0 +1,25 @@
+Resume
+Benjamin Simmons
+Machine Learning Engineer
+Skills: SQL, LangChain, Computer Vision, Streamlit, PyTorch, Pandas, AWS, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Benjamin Simmons",
+  "email": "zhall@example.net",
+  "phone": "001-822-776-0759x88978",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "LangChain",
+    "Computer Vision",
+    "Streamlit",
+    "PyTorch",
+    "Pandas",
+    "AWS",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0036"
+}

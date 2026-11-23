@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL964512352",
+  "full_name": "Mrs. Rachel Gibson",
+  "date_of_birth": "1979-10-04",
+  "class": "A",
+  "issue_date": "2020-01-30",
+  "expiry_date": "2025-01-30",
+  "address": "34309 Julie Centers Apt. 978, North Susan, CO 24857",
+  "sample_id": "driving_license_0014"
+}

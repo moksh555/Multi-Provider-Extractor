@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I7EKVZAR",
+  "account_holder": "Carol Cuevas",
+  "account_number_masked": "****3502",
+  "period_start": "2025-02-21",
+  "period_end": "2025-03-23",
+  "opening_balance": 4878.62,
+  "closing_balance": 5846.44,
+  "transactions": 14,
+  "sample_id": "bank_statement_0474"
+}

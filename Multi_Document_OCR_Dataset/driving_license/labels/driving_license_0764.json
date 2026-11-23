@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL471815358",
+  "full_name": "Patricia Davidson",
+  "date_of_birth": "1986-01-10",
+  "class": "B",
+  "issue_date": "2021-10-22",
+  "expiry_date": "2026-10-22",
+  "address": "65732 Stewart Track, Lake Coltonland, CO 03314",
+  "sample_id": "driving_license_0764"
+}

@@ -1,0 +1,67 @@
+Receipt RCT-LXOUN91F
+Merchant: Gonzalez-Murphy
+Date: 2026-07-19
+Total: $1183.59
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LXOUN91F",
+  "merchant_name": "Gonzalez-Murphy",
+  "date": "2026-07-19",
+  "subtotal": 1104.19,
+  "tax": 87.19,
+  "discount": 7.79,
+  "total": 1183.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$76.95",
+      "line_total": "$230.85"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$70.90",
+      "line_total": "$212.70"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$51.99",
+      "line_total": "$155.97"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$71.29",
+      "line_total": "$142.58"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$48.30",
+      "line_total": "$96.60"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$78.20",
+      "line_total": "$156.40"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$7.46",
+      "line_total": "$29.84"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$79.25",
+      "line_total": "$79.25"
+    }
+  ],
+  "sample_id": "receipt_0461"
+}

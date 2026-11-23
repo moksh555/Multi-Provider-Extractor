@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Mckenzie Vega",
+  "email": "james75@example.org",
+  "phone": "001-816-892-8091",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "AWS",
+    "PyTorch",
+    "Streamlit",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0311"
+}

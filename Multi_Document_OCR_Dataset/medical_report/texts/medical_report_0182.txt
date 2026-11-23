@@ -1,0 +1,14 @@
+Medical Report MED-PM7C239Q
+Patient: Dr. Judy Cox
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-PM7C239Q",
+  "patient_name": "Dr. Judy Cox",
+  "visit_date": "2025-07-15",
+  "doctor_name": "Dr. Michael Fisher",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0182"
+}

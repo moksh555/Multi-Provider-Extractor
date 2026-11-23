@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0557",
+  "invoice_number": "INV-2026-0557",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "111 Agrabad C/A, Dubai, UAE",
+  "customer_name": "Future School",
+  "billing_address": "213 Road 12, Banani, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-12",
+  "due_date": "2026-01-27",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 9,
+      "unit_price": 502.9,
+      "amount": 4526.1
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 4,
+      "unit_price": 501.95,
+      "amount": 2007.8
+    }
+  ],
+  "subtotal": 6533.9,
+  "discount": 130.68,
+  "tax_rate": 0.1,
+  "tax": 640.32,
+  "shipping": 25,
+  "total": 7068.54,
+  "amount_paid": 7068.54,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801907611636",
+  "po_number": "PO-74345"
+}

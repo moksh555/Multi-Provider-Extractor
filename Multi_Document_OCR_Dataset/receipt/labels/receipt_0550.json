@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-70XDHJ5S",
+  "merchant_name": "Holder PLC",
+  "date": "2021-08-21",
+  "subtotal": 419.29,
+  "tax": 37.49,
+  "discount": 0.8,
+  "total": 455.98,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$46.55",
+      "line_total": "$46.55"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$17.62",
+      "line_total": "$17.62"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$49.09",
+      "line_total": "$49.09"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$32.43",
+      "line_total": "$64.86"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$10.13",
+      "line_total": "$20.26"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$69.47",
+      "line_total": "$69.47"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$37.86",
+      "line_total": "$151.44"
+    }
+  ],
+  "sample_id": "receipt_0550"
+}

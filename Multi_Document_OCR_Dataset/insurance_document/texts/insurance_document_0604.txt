@@ -1,0 +1,16 @@
+Insurance Policy POL-9106AK32O
+Holder: Cindy Hampton
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9106AK32O",
+  "policy_holder": "Cindy Hampton",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-04-02",
+  "expiry_date": "2027-04-02",
+  "premium": 1923.58,
+  "coverage_amount": 15826.45,
+  "beneficiary": "Joanna Garza",
+  "sample_id": "insurance_document_0604"
+}

@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QF3ADTPR",
+  "merchant_name": "Allen Ltd",
+  "date": "2021-03-20",
+  "subtotal": 985.25,
+  "tax": 55.85,
+  "discount": 11.26,
+  "total": 1029.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$58.82",
+      "line_total": "$235.28"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$11.41",
+      "line_total": "$11.41"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$32.46",
+      "line_total": "$97.38"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$62.86",
+      "line_total": "$188.58"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$15.53",
+      "line_total": "$62.12"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$60.14",
+      "line_total": "$120.28"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$67.55",
+      "line_total": "$270.20"
+    }
+  ],
+  "sample_id": "receipt_0788"
+}

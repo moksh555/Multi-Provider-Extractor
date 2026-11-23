@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1GX5Y7ZJ",
+  "merchant_name": "Solomon-Knight",
+  "date": "2021-09-20",
+  "subtotal": 666.44,
+  "tax": 35.18,
+  "discount": 14.47,
+  "total": 687.15,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$32.62",
+      "line_total": "$130.48"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$32.24",
+      "line_total": "$32.24"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$54.00",
+      "line_total": "$108.00"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$1.34",
+      "line_total": "$2.68"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$70.78",
+      "line_total": "$141.56"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$65.91",
+      "line_total": "$65.91"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$40.77",
+      "line_total": "$122.31"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$31.63",
+      "line_total": "$63.26"
+    }
+  ],
+  "sample_id": "receipt_0817"
+}

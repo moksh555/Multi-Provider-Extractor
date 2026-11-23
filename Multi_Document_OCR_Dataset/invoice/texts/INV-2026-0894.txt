@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0894
+Company: Atlas Engineering Ltd.
+Company Address: 79 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: Future School
+Billing Address: 157 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-06-19
+Due Date: 2026-08-03
+Currency: AED
+Subtotal: 11256.03
+Tax: 1519.56
+Total: 11649.99
+Balance Due: 11649.99
+Status: unpaid

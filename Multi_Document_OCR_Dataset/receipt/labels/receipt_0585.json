@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YN4BPSAU",
+  "merchant_name": "Andrade Ltd",
+  "date": "2022-06-02",
+  "subtotal": 360.48,
+  "tax": 37.65,
+  "discount": 4.18,
+  "total": 393.95,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$57.11",
+      "line_total": "$57.11"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$6.01",
+      "line_total": "$6.01"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$74.10",
+      "line_total": "$148.20"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$22.73",
+      "line_total": "$90.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$14.56",
+      "line_total": "$58.24"
+    }
+  ],
+  "sample_id": "receipt_0585"
+}

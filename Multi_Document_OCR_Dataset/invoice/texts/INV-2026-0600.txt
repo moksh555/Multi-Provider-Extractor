@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0600
+Company: Metro Print House
+Company Address: 197 Al Barsha, Chattogram, Bangladesh
+Customer: TechPoint BD
+Billing Address: 141 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-01-22
+Due Date: 2026-02-06
+Currency: USD
+Subtotal: 27756.41
+Tax: 1360.06
+Total: 28611.34
+Balance Due: 28611.34
+Status: overdue

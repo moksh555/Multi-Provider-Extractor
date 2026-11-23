@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL484992187",
+  "full_name": "Sergio Riley",
+  "date_of_birth": "1995-03-30",
+  "class": "C",
+  "issue_date": "2021-02-25",
+  "expiry_date": "2026-02-25",
+  "address": "97123 Raymond Lane Apt. 076, Gutierreztown, OK 06272",
+  "sample_id": "driving_license_0795"
+}

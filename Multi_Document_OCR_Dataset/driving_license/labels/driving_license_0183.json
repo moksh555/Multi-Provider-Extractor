@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL526237094",
+  "full_name": "Brittany Ward",
+  "date_of_birth": "1981-10-26",
+  "class": "C",
+  "issue_date": "2022-07-14",
+  "expiry_date": "2027-07-14",
+  "address": "973 Anthony Extension Suite 171, Kristenfort, NM 87144",
+  "sample_id": "driving_license_0183"
+}

@@ -1,0 +1,67 @@
+Receipt RCT-VG042MZ8
+Merchant: Gordon, Brown and Mccullough
+Date: 2024-12-13
+Total: $639.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VG042MZ8",
+  "merchant_name": "Gordon, Brown and Mccullough",
+  "date": "2024-12-13",
+  "subtotal": 603.69,
+  "tax": 43.06,
+  "discount": 7.67,
+  "total": 639.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$12.72",
+      "line_total": "$25.44"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$18.92",
+      "line_total": "$75.68"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$1.11",
+      "line_total": "$2.22"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$55.60",
+      "line_total": "$222.40"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$18.81",
+      "line_total": "$56.43"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$34.72",
+      "line_total": "$138.88"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$38.09",
+      "line_total": "$38.09"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$44.55",
+      "line_total": "$44.55"
+    }
+  ],
+  "sample_id": "receipt_0614"
+}

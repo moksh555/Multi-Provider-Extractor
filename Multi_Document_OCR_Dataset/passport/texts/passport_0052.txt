@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Samuel Ruiz
+Passport No: P60605923
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P60605923",
+  "full_name": "Samuel Ruiz",
+  "nationality": "US",
+  "date_of_birth": "1986-03-11",
+  "issue_date": "2021-09-23",
+  "expiry_date": "2031-09-23",
+  "place_of_birth": "North Victoria",
+  "sample_id": "passport_0052"
+}

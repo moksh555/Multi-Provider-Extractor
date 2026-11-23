@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SP8JB6L4",
+  "merchant_name": "Roberts, Carter and Moore",
+  "date": "2025-11-03",
+  "subtotal": 511.39,
+  "tax": 56.08,
+  "discount": 2.07,
+  "total": 565.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$42.94",
+      "line_total": "$171.76"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$28.46",
+      "line_total": "$113.84"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$17.27",
+      "line_total": "$17.27"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$52.13",
+      "line_total": "$208.52"
+    }
+  ],
+  "sample_id": "receipt_0888"
+}

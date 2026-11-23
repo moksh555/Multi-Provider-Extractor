@@ -1,0 +1,16 @@
+Insurance Policy POL-WH0MX1EGO
+Holder: John Wall
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WH0MX1EGO",
+  "policy_holder": "John Wall",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-09-02",
+  "expiry_date": "2026-09-02",
+  "premium": 1895.84,
+  "coverage_amount": 378689.65,
+  "beneficiary": "Anthony Martinez",
+  "sample_id": "insurance_document_0430"
+}

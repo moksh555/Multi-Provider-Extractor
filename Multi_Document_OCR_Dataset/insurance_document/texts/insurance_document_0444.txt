@@ -1,0 +1,16 @@
+Insurance Policy POL-0IC0RA6WI
+Holder: Sharon Patton
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0IC0RA6WI",
+  "policy_holder": "Sharon Patton",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-01-30",
+  "expiry_date": "2024-01-30",
+  "premium": 529.95,
+  "coverage_amount": 34479.42,
+  "beneficiary": "Nicole Aguirre",
+  "sample_id": "insurance_document_0444"
+}

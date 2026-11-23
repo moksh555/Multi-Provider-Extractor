@@ -1,0 +1,14 @@
+Medical Report MED-XN4RQ5J7
+Patient: Tiffany Washington
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XN4RQ5J7",
+  "patient_name": "Tiffany Washington",
+  "visit_date": "2024-01-02",
+  "doctor_name": "Dr. Chad Joseph",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0393"
+}

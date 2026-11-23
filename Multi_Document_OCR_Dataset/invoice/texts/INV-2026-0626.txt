@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0626
+Company: Royal Diagnostics Center
+Company Address: 173 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 161 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-05
+Due Date: 2026-01-20
+Currency: QAR
+Subtotal: 8034.5
+Tax: 0.0
+Total: 8084.5
+Balance Due: 8084.5
+Status: unpaid

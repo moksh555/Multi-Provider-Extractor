@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0782
+Company: Eastern Care Pharmacy
+Company Address: 85 Sheikh Zayed Road, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 198 Sheikh Zayed Road, Dhaka, Bangladesh
+Invoice Date: 2026-02-18
+Due Date: 2026-04-04
+Currency: AED
+Subtotal: 3985.98
+Tax: 292.97
+Total: 4224.23
+Balance Due: 0.0
+Status: paid

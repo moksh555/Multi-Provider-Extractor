@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Carol Little",
+  "email": "millerveronica@example.net",
+  "phone": "296-928-4076x9539",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Computer Vision",
+    "Python",
+    "NLP",
+    "PyTorch",
+    "Docker",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0475"
+}

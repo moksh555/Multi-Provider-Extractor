@@ -1,0 +1,16 @@
+Synthetic Driving License
+Elizabeth Hansen
+License: DL968785818
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL968785818",
+  "full_name": "Elizabeth Hansen",
+  "date_of_birth": "1973-06-01",
+  "class": "A",
+  "issue_date": "2025-04-21",
+  "expiry_date": "2030-04-21",
+  "address": "24471 Butler Overpass, North David, KY 65126",
+  "sample_id": "driving_license_0361"
+}

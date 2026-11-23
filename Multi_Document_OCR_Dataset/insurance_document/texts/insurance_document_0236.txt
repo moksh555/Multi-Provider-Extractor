@@ -1,0 +1,16 @@
+Insurance Policy POL-6WMX3N0KG
+Holder: Claire Greene
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6WMX3N0KG",
+  "policy_holder": "Claire Greene",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-12-08",
+  "expiry_date": "2027-12-08",
+  "premium": 2377.9,
+  "coverage_amount": 201884.7,
+  "beneficiary": "Tyler Miller",
+  "sample_id": "insurance_document_0236"
+}

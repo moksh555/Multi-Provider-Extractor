@@ -1,0 +1,27 @@
+Resume
+Felicia Robinson
+Backend Developer
+Skills: AWS, Machine Learning, Docker, LangChain, Streamlit, Python, Deep Learning, Pandas, TensorFlow, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Felicia Robinson",
+  "email": "vincentevans@example.com",
+  "phone": "+1-476-202-4986x634",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "Docker",
+    "LangChain",
+    "Streamlit",
+    "Python",
+    "Deep Learning",
+    "Pandas",
+    "TensorFlow",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0168"
+}

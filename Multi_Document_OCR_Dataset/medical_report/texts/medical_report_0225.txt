@@ -1,0 +1,14 @@
+Medical Report MED-4D9REQQY
+Patient: Sarah Parker
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4D9REQQY",
+  "patient_name": "Sarah Parker",
+  "visit_date": "2024-12-10",
+  "doctor_name": "Dr. Anthony Pearson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0225"
+}

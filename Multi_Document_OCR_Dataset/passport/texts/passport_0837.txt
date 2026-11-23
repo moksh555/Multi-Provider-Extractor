@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Teresa Ross
+Passport No: P30127905
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P30127905",
+  "full_name": "Teresa Ross",
+  "nationality": "GB",
+  "date_of_birth": "2000-07-24",
+  "issue_date": "2021-08-04",
+  "expiry_date": "2031-08-04",
+  "place_of_birth": "Christopherside",
+  "sample_id": "passport_0837"
+}

@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Lauren Orr",
+  "email": "patrick86@example.com",
+  "phone": "+1-293-439-7453x918",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "Docker",
+    "Streamlit",
+    "Deep Learning",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0759"
+}

@@ -1,0 +1,24 @@
+Resume
+Anna Le
+Machine Learning Engineer
+Skills: PyTorch, SQL, LangChain, Streamlit, NLP, Python, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Anna Le",
+  "email": "brittanyhayes@example.com",
+  "phone": "(320)970-2042x620",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "SQL",
+    "LangChain",
+    "Streamlit",
+    "NLP",
+    "Python",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0035"
+}

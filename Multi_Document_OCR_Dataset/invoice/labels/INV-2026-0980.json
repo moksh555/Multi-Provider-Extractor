@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0980",
+  "invoice_number": "INV-2026-0980",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "36 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "39 Motijheel C/A, Dubai, UAE",
+  "invoice_date": "2026-02-10",
+  "due_date": "2026-03-27",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 8,
+      "unit_price": 779.18,
+      "amount": 6233.44
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 253.38,
+      "amount": 2027.04
+    },
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 775.5,
+      "amount": 4653.0
+    }
+  ],
+  "subtotal": 12913.48,
+  "discount": 645.67,
+  "tax_rate": 0.05,
+  "tax": 613.39,
+  "shipping": 25,
+  "total": 12906.2,
+  "amount_paid": 0,
+  "balance_due": 12906.2,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801587547751",
+  "po_number": "PO-52672"
+}

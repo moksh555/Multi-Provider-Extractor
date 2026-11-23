@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-K8JB79YJ",
+  "merchant_name": "Nielsen-Wright",
+  "date": "2025-11-17",
+  "subtotal": 685.31,
+  "tax": 32.42,
+  "discount": 7.6,
+  "total": 710.13,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$4.95",
+      "line_total": "$19.80"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$13.78",
+      "line_total": "$41.34"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$34.46",
+      "line_total": "$103.38"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$60.75",
+      "line_total": "$243.00"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$46.13",
+      "line_total": "$46.13"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$77.22",
+      "line_total": "$231.66"
+    }
+  ],
+  "sample_id": "receipt_0571"
+}

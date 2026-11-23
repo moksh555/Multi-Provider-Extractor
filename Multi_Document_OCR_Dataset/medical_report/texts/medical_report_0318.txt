@@ -1,0 +1,14 @@
+Medical Report MED-LTAGAWPO
+Patient: April Ramirez
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LTAGAWPO",
+  "patient_name": "April Ramirez",
+  "visit_date": "2025-02-16",
+  "doctor_name": "Dr. Michael Knapp",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0318"
+}

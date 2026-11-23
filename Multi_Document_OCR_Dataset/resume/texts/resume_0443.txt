@@ -1,0 +1,23 @@
+Resume
+John Wheeler
+Backend Developer
+Skills: TensorFlow, NLP, Python, PyTorch, Computer Vision, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "John Wheeler",
+  "email": "pbrown@example.com",
+  "phone": "274.732.5674",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "NLP",
+    "Python",
+    "PyTorch",
+    "Computer Vision",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0443"
+}

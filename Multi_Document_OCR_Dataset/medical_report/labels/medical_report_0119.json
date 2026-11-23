@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-KLVC7PBG",
+  "patient_name": "Jenna White",
+  "visit_date": "2024-10-09",
+  "doctor_name": "Dr. Ricky Robinson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0119"
+}

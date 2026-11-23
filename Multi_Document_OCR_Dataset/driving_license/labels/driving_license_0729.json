@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL223430007",
+  "full_name": "Erin Estrada",
+  "date_of_birth": "1979-01-07",
+  "class": "D",
+  "issue_date": "2023-03-14",
+  "expiry_date": "2028-03-14",
+  "address": "01739 Walker Mews Suite 178, Obrienfurt, AZ 79362",
+  "sample_id": "driving_license_0729"
+}

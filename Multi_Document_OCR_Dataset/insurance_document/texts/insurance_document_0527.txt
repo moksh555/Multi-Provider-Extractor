@@ -1,0 +1,16 @@
+Insurance Policy POL-FQE6RP9UQ
+Holder: Lisa Harrell
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FQE6RP9UQ",
+  "policy_holder": "Lisa Harrell",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-10-31",
+  "expiry_date": "2024-10-31",
+  "premium": 414.3,
+  "coverage_amount": 55853.16,
+  "beneficiary": "Amanda Rodriguez",
+  "sample_id": "insurance_document_0527"
+}

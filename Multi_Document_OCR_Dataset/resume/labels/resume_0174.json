@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Joshua Johnson",
+  "email": "waltercarrie@example.org",
+  "phone": "721-534-8548x4203",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "AWS",
+    "Deep Learning",
+    "Docker",
+    "PyTorch",
+    "Computer Vision",
+    "Pandas",
+    "Machine Learning",
+    "NLP",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0174"
+}

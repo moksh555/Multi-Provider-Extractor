@@ -1,0 +1,37 @@
+Receipt RCT-7A2HVNYA
+Merchant: Johnson, Schmidt and Mendoza
+Date: 2026-05-29
+Total: $466.94
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7A2HVNYA",
+  "merchant_name": "Johnson, Schmidt and Mendoza",
+  "date": "2026-05-29",
+  "subtotal": 442.68,
+  "tax": 37.81,
+  "discount": 13.55,
+  "total": 466.94,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$55.94",
+      "line_total": "$223.76"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$44.41",
+      "line_total": "$177.64"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$10.32",
+      "line_total": "$41.28"
+    }
+  ],
+  "sample_id": "receipt_0350"
+}

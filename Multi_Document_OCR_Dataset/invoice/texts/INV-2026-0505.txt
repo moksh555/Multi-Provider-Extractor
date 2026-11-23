@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0505
+Company: Royal Diagnostics Center
+Company Address: 11 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 79 Agrabad C/A, Dubai, UAE
+Invoice Date: 2026-01-14
+Due Date: 2026-01-29
+Currency: BDT
+Subtotal: 3489.3
+Tax: 261.7
+Total: 3756.0
+Balance Due: 1398.49
+Status: partial

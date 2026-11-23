@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL042137404",
+  "full_name": "Charlotte Peterson DVM",
+  "date_of_birth": "1977-09-21",
+  "class": "B",
+  "issue_date": "2020-12-13",
+  "expiry_date": "2025-12-13",
+  "address": "158 Brown Lakes Suite 082, East Theresaville, DE 72651",
+  "sample_id": "driving_license_0720"
+}

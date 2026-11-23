@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3SM642PW5",
+  "policy_holder": "Michelle Perry",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-10",
+  "expiry_date": "2024-06-10",
+  "premium": 422.72,
+  "coverage_amount": 263450.96,
+  "beneficiary": "Megan Barrett",
+  "sample_id": "insurance_document_0796"
+}

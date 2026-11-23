@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Walter Hernandez
+Passport No: P37367100
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P37367100",
+  "full_name": "Walter Hernandez",
+  "nationality": "US",
+  "date_of_birth": "1999-11-29",
+  "issue_date": "2023-06-25",
+  "expiry_date": "2033-06-25",
+  "place_of_birth": "Alexanderfort",
+  "sample_id": "passport_0086"
+}

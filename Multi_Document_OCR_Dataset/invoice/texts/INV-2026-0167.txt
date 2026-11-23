@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0167
+Company: Nova Medical Supplies
+Company Address: 63 Mirpur DOHS, Dubai, UAE
+Customer: TechPoint BD
+Billing Address: 162 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-15
+Due Date: 2026-04-22
+Currency: AED
+Subtotal: 26509.91
+Tax: 2518.44
+Total: 27712.85
+Balance Due: 0.0
+Status: paid

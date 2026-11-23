@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0227",
+  "invoice_number": "INV-2026-0227",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "44 Motijheel C/A, Doha, Qatar",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "76 Dhanmondi 27, Dhaka, Bangladesh",
+  "invoice_date": "2026-06-10",
+  "due_date": "2026-06-17",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 561.46,
+      "amount": 5053.14
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 616.43,
+      "amount": 1232.86
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 11,
+      "unit_price": 224.68,
+      "amount": 2471.48
+    },
+    {
+      "description": "API Integration",
+      "quantity": 9,
+      "unit_price": 181.59,
+      "amount": 1634.31
+    }
+  ],
+  "subtotal": 10391.79,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 779.38,
+  "shipping": 10,
+  "total": 11181.17,
+  "amount_paid": 0,
+  "balance_due": 11181.17,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801326834741",
+  "po_number": "PO-44481"
+}

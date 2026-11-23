@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0357
+Company: Nova Medical Supplies
+Company Address: 159 Al Barsha, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 154 Jumeirah Lake Towers, Chattogram, Bangladesh
+Invoice Date: 2026-01-10
+Due Date: 2026-02-24
+Currency: AED
+Subtotal: 8414.54
+Tax: 420.73
+Total: 8860.27
+Balance Due: 0.0
+Status: paid

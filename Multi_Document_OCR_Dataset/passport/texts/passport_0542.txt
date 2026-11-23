@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Donald Walker
+Passport No: P64505667
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P64505667",
+  "full_name": "Donald Walker",
+  "nationality": "BD",
+  "date_of_birth": "1986-04-08",
+  "issue_date": "2022-04-11",
+  "expiry_date": "2032-04-11",
+  "place_of_birth": "East Kathyside",
+  "sample_id": "passport_0542"
+}

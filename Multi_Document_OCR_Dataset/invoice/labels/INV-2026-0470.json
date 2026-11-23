@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0470",
+  "invoice_number": "INV-2026-0470",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "93 Motijheel C/A, Dubai, UAE",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "57 Gulshan Avenue, Dhaka, Bangladesh",
+  "invoice_date": "2026-02-27",
+  "due_date": "2026-03-29",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 3,
+      "unit_price": 793.41,
+      "amount": 2380.23
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 1,
+      "unit_price": 730.42,
+      "amount": 730.42
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 5,
+      "unit_price": 393.23,
+      "amount": 1966.15
+    }
+  ],
+  "subtotal": 5076.8,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 380.76,
+  "shipping": 0,
+  "total": 5457.56,
+  "amount_paid": 0,
+  "balance_due": 5457.56,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801460245568",
+  "po_number": "PO-38807"
+}

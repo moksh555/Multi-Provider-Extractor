@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5NNP011E",
+  "account_holder": "Samantha Nelson",
+  "account_number_masked": "****5026",
+  "period_start": "2026-01-29",
+  "period_end": "2026-02-28",
+  "opening_balance": 789.59,
+  "closing_balance": 3855.49,
+  "transactions": 13,
+  "sample_id": "bank_statement_0730"
+}

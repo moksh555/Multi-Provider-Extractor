@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0937
+Company: Eastern Care Pharmacy
+Company Address: 194 Motijheel C/A, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 151 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-03-23
+Due Date: 2026-05-07
+Currency: BDT
+Subtotal: 7671.2
+Tax: 767.12
+Total: 8448.32
+Balance Due: 8448.32
+Status: unpaid

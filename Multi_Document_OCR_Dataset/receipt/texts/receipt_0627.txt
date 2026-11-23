@@ -1,0 +1,43 @@
+Receipt RCT-FVU3F0ME
+Merchant: Wilson-Ortiz
+Date: 2022-04-16
+Total: $694.27
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FVU3F0ME",
+  "merchant_name": "Wilson-Ortiz",
+  "date": "2022-04-16",
+  "subtotal": 653.03,
+  "tax": 55.41,
+  "discount": 14.17,
+  "total": 694.27,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$68.82",
+      "line_total": "$206.46"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$16.03",
+      "line_total": "$64.12"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$77.14",
+      "line_total": "$308.56"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$73.89",
+      "line_total": "$73.89"
+    }
+  ],
+  "sample_id": "receipt_0627"
+}

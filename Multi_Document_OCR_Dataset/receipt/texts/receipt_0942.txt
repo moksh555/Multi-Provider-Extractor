@@ -1,0 +1,49 @@
+Receipt RCT-ADJC88KL
+Merchant: Simmons, Rojas and Fleming
+Date: 2021-08-25
+Total: $415.85
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ADJC88KL",
+  "merchant_name": "Simmons, Rojas and Fleming",
+  "date": "2021-08-25",
+  "subtotal": 414.89,
+  "tax": 12.94,
+  "discount": 11.98,
+  "total": 415.85,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$41.08",
+      "line_total": "$41.08"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$45.87",
+      "line_total": "$91.74"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$50.86",
+      "line_total": "$203.44"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$11.67",
+      "line_total": "$46.68"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$31.95",
+      "line_total": "$31.95"
+    }
+  ],
+  "sample_id": "receipt_0942"
+}

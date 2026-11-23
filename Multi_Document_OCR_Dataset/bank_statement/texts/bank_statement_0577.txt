@@ -1,0 +1,16 @@
+Bank Statement STM-9EMF8RSJ
+Holder: Calvin Barry
+Closing Balance: $6352.03
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9EMF8RSJ",
+  "account_holder": "Calvin Barry",
+  "account_number_masked": "****1267",
+  "period_start": "2026-10-02",
+  "period_end": "2026-11-01",
+  "opening_balance": 680.42,
+  "closing_balance": 6352.03,
+  "transactions": 12,
+  "sample_id": "bank_statement_0577"
+}

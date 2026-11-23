@@ -1,0 +1,14 @@
+Medical Report MED-KX0H9DRA
+Patient: Kelly Doyle
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KX0H9DRA",
+  "patient_name": "Kelly Doyle",
+  "visit_date": "2026-09-26",
+  "doctor_name": "Dr. Lisa Curtis",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0349"
+}

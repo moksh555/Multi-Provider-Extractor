@@ -1,0 +1,26 @@
+Resume
+Kathleen Gregory
+Software Engineer
+Skills: Pandas, LangChain, Python, Deep Learning, Computer Vision, TensorFlow, NLP, SQL, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Kathleen Gregory",
+  "email": "fisheranne@example.com",
+  "phone": "5266944735",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "LangChain",
+    "Python",
+    "Deep Learning",
+    "Computer Vision",
+    "TensorFlow",
+    "NLP",
+    "SQL",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0548"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ER70UT10",
+  "merchant_name": "Spears-Smith",
+  "date": "2021-07-03",
+  "subtotal": 484.49,
+  "tax": 25.19,
+  "discount": 6.69,
+  "total": 502.99,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$24.72",
+      "line_total": "$74.16"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$38.92",
+      "line_total": "$155.68"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$20.35",
+      "line_total": "$81.40"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$73.79",
+      "line_total": "$73.79"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$20.67",
+      "line_total": "$41.34"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$58.12",
+      "line_total": "$58.12"
+    }
+  ],
+  "sample_id": "receipt_0678"
+}

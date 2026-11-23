@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0487",
+  "invoice_number": "INV-2026-0487",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "152 Zindabazar Road, Doha, Qatar",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "50 Uttara Sector 7, Doha, Qatar",
+  "invoice_date": "2026-06-20",
+  "due_date": "2026-07-20",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 12,
+      "unit_price": 776.13,
+      "amount": 9313.56
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 9,
+      "unit_price": 405.51,
+      "amount": 3649.59
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 11,
+      "unit_price": 684.67,
+      "amount": 7531.37
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 2,
+      "unit_price": 539.32,
+      "amount": 1078.64
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 7,
+      "unit_price": 321.53,
+      "amount": 2250.71
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 202.44,
+      "amount": 202.44
+    }
+  ],
+  "subtotal": 24026.31,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 3603.95,
+  "shipping": 5,
+  "total": 27635.26,
+  "amount_paid": 0,
+  "balance_due": 27635.26,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801926932349",
+  "po_number": "PO-49193"
+}

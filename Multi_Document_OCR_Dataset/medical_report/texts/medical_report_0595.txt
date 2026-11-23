@@ -1,0 +1,14 @@
+Medical Report MED-XT9GW50Q
+Patient: Mr. Timothy Morgan
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XT9GW50Q",
+  "patient_name": "Mr. Timothy Morgan",
+  "visit_date": "2025-02-21",
+  "doctor_name": "Dr. Lindsey Garcia",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0595"
+}

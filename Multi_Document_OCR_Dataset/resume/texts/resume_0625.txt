@@ -1,0 +1,26 @@
+Resume
+Adrian Watts PhD
+Software Engineer
+Skills: Docker, FastAPI, Streamlit, SQL, Computer Vision, Deep Learning, Pandas, TensorFlow, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Adrian Watts PhD",
+  "email": "katherine18@example.org",
+  "phone": "7779842845",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Docker",
+    "FastAPI",
+    "Streamlit",
+    "SQL",
+    "Computer Vision",
+    "Deep Learning",
+    "Pandas",
+    "TensorFlow",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0625"
+}

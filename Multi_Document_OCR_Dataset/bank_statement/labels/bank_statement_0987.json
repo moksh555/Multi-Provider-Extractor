@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-053K5431",
+  "account_holder": "Daniel Ferguson",
+  "account_number_masked": "****7033",
+  "period_start": "2026-02-05",
+  "period_end": "2026-03-07",
+  "opening_balance": 3101.55,
+  "closing_balance": 9006.17,
+  "transactions": 10,
+  "sample_id": "bank_statement_0987"
+}

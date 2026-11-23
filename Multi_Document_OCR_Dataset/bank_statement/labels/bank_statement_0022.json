@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-749Q6QF1",
+  "account_holder": "Rachel Rice",
+  "account_number_masked": "****0344",
+  "period_start": "2026-05-09",
+  "period_end": "2026-06-08",
+  "opening_balance": 4773.35,
+  "closing_balance": 5318.93,
+  "transactions": 14,
+  "sample_id": "bank_statement_0022"
+}

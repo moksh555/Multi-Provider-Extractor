@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZOYN6QICA",
+  "policy_holder": "Lisa Archer",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-04-16",
+  "expiry_date": "2025-04-16",
+  "premium": 1520.49,
+  "coverage_amount": 13523.51,
+  "beneficiary": "Aimee Montoya",
+  "sample_id": "insurance_document_0013"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-OLQ54WFU
+Merchant: Whitaker-Thomas
+Date: 2023-02-21
+Total: $284.19
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OLQ54WFU",
+  "merchant_name": "Whitaker-Thomas",
+  "date": "2023-02-21",
+  "subtotal": 259.21,
+  "tax": 26.25,
+  "discount": 1.27,
+  "total": 284.19,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$11.55",
+      "line_total": "$34.65"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$78.66",
+      "line_total": "$157.32"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$67.24",
+      "line_total": "$67.24"
+    }
+  ],
+  "sample_id": "receipt_0986"
+}

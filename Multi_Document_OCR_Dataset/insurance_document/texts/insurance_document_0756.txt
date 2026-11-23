@@ -1,0 +1,16 @@
+Insurance Policy POL-CD20J1OUL
+Holder: Andrew Jacobson
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CD20J1OUL",
+  "policy_holder": "Andrew Jacobson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-04-07",
+  "expiry_date": "2024-04-07",
+  "premium": 1056.12,
+  "coverage_amount": 351263.9,
+  "beneficiary": "Michael Kelly",
+  "sample_id": "insurance_document_0756"
+}

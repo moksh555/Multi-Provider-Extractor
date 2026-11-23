@@ -1,0 +1,26 @@
+Resume
+Michelle White
+Backend Developer
+Skills: SQL, Machine Learning, Computer Vision, Deep Learning, Pandas, Python, AWS, NLP, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Michelle White",
+  "email": "nicholas81@example.com",
+  "phone": "429-611-6479",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "SQL",
+    "Machine Learning",
+    "Computer Vision",
+    "Deep Learning",
+    "Pandas",
+    "Python",
+    "AWS",
+    "NLP",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0489"
+}

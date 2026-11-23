@@ -1,0 +1,16 @@
+Insurance Policy POL-LOHHCU9TD
+Holder: Donald Miller
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LOHHCU9TD",
+  "policy_holder": "Donald Miller",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-12-18",
+  "expiry_date": "2027-12-18",
+  "premium": 803.51,
+  "coverage_amount": 308333.86,
+  "beneficiary": "Jocelyn Barnes",
+  "sample_id": "insurance_document_0399"
+}

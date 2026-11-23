@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Daniel Green
+Passport No: P83149535
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P83149535",
+  "full_name": "Daniel Green",
+  "nationality": "CA",
+  "date_of_birth": "1995-01-06",
+  "issue_date": "2021-05-07",
+  "expiry_date": "2031-05-07",
+  "place_of_birth": "Port Jennifer",
+  "sample_id": "passport_0397"
+}

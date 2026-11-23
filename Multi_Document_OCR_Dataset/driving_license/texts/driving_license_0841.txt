@@ -1,0 +1,16 @@
+Synthetic Driving License
+Felicia Wood
+License: DL739902074
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL739902074",
+  "full_name": "Felicia Wood",
+  "date_of_birth": "1993-07-31",
+  "class": "A",
+  "issue_date": "2026-10-20",
+  "expiry_date": "2031-10-20",
+  "address": "6936 Atkinson Heights Apt. 925, New Mark, MS 11364",
+  "sample_id": "driving_license_0841"
+}

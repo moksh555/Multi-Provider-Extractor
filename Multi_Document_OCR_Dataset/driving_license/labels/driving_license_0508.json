@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL835400298",
+  "full_name": "Danielle Nelson",
+  "date_of_birth": "2002-05-24",
+  "class": "C",
+  "issue_date": "2021-05-23",
+  "expiry_date": "2026-05-23",
+  "address": "51554 Misty Fork Suite 016, South Stephanie, WY 16688",
+  "sample_id": "driving_license_0508"
+}

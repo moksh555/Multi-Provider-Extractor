@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-5O115I0W",
+  "patient_name": "Vanessa Mccarthy",
+  "visit_date": "2024-11-24",
+  "doctor_name": "Dr. Casey Jackson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0355"
+}

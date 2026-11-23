@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Richard Acosta",
+  "email": "derrickyoung@example.com",
+  "phone": "+1-277-381-4564x7437",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "AWS",
+    "Python",
+    "Computer Vision",
+    "TensorFlow",
+    "Deep Learning",
+    "NLP",
+    "Streamlit",
+    "SQL"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0186"
+}

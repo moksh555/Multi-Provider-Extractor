@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL413294178",
+  "full_name": "Andrea Garcia",
+  "date_of_birth": "1968-08-13",
+  "class": "D",
+  "issue_date": "2021-07-21",
+  "expiry_date": "2026-07-21",
+  "address": "178 Cummings Drives, East Kristin, MD 23018",
+  "sample_id": "driving_license_0827"
+}

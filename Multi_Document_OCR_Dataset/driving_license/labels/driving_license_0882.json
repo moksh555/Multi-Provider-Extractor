@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL055150851",
+  "full_name": "Ryan Johnson",
+  "date_of_birth": "2003-10-24",
+  "class": "C",
+  "issue_date": "2020-04-15",
+  "expiry_date": "2025-04-15",
+  "address": "001 Martin Summit, North Haileyfort, AS 13380",
+  "sample_id": "driving_license_0882"
+}

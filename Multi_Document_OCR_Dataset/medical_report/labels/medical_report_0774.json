@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-HEYGUJ7F",
+  "patient_name": "Brian Huynh",
+  "visit_date": "2024-02-20",
+  "doctor_name": "Dr. Brian Warner",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0774"
+}

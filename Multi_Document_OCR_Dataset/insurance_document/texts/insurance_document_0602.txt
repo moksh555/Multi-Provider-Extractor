@@ -1,0 +1,16 @@
+Insurance Policy POL-RJAPJC6KS
+Holder: Laura Ramirez
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RJAPJC6KS",
+  "policy_holder": "Laura Ramirez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-08-11",
+  "expiry_date": "2027-08-11",
+  "premium": 306.02,
+  "coverage_amount": 145448.23,
+  "beneficiary": "Christopher Rodriguez",
+  "sample_id": "insurance_document_0602"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-K45TXTCA",
+  "patient_name": "Christina Haney",
+  "visit_date": "2025-06-07",
+  "doctor_name": "Dr. Samuel Lowe",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0140"
+}

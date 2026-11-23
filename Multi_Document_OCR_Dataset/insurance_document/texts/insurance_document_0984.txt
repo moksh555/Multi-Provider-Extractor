@@ -1,0 +1,16 @@
+Insurance Policy POL-PCADUVL91
+Holder: Robin Rodriguez
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PCADUVL91",
+  "policy_holder": "Robin Rodriguez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-12-16",
+  "expiry_date": "2026-12-16",
+  "premium": 2098.39,
+  "coverage_amount": 102158.66,
+  "beneficiary": "John Anderson",
+  "sample_id": "insurance_document_0984"
+}

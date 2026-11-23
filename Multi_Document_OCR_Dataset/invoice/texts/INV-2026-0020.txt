@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0020
+Company: Golden Harvest Store
+Company Address: 95 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Future School
+Billing Address: 27 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-04-16
+Due Date: 2026-05-31
+Currency: AED
+Subtotal: 18186.02
+Tax: 2727.9
+Total: 20923.92
+Balance Due: 20923.92
+Status: overdue

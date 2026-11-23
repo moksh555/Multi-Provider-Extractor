@@ -1,0 +1,25 @@
+Resume
+Joseph Bradley
+Data Analyst
+Skills: AWS, SQL, FastAPI, TensorFlow, LangChain, Docker, PyTorch, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Joseph Bradley",
+  "email": "mmoore@example.com",
+  "phone": "3839868889",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "SQL",
+    "FastAPI",
+    "TensorFlow",
+    "LangChain",
+    "Docker",
+    "PyTorch",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0006"
+}

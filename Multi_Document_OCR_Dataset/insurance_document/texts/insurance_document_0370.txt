@@ -1,0 +1,16 @@
+Insurance Policy POL-DO7002G3Y
+Holder: Luke Freeman
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DO7002G3Y",
+  "policy_holder": "Luke Freeman",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-07-15",
+  "expiry_date": "2024-07-15",
+  "premium": 1536.65,
+  "coverage_amount": 157192.69,
+  "beneficiary": "Luis Murphy",
+  "sample_id": "insurance_document_0370"
+}

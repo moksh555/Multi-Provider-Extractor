@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL351349409",
+  "full_name": "Susan Oliver",
+  "date_of_birth": "1980-09-06",
+  "class": "B",
+  "issue_date": "2023-06-03",
+  "expiry_date": "2028-06-03",
+  "address": "Unit 1122 Box 5288, DPO AE 63243",
+  "sample_id": "driving_license_0856"
+}

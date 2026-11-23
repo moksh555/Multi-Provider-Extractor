@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0027
+Company: Nexus Digital Solutions
+Company Address: 95 Agrabad C/A, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 202 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-01-18
+Due Date: 2026-02-02
+Currency: QAR
+Subtotal: 2759.27
+Tax: 135.2
+Total: 2839.28
+Balance Due: 2839.28
+Status: unpaid

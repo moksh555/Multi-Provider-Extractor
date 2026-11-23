@@ -1,0 +1,14 @@
+Medical Report MED-OMTBD3SJ
+Patient: Brian Russo
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OMTBD3SJ",
+  "patient_name": "Brian Russo",
+  "visit_date": "2025-03-16",
+  "doctor_name": "Dr. Emily Cole",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0756"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Matthew Soto",
+  "email": "joshua96@example.net",
+  "phone": "460-941-2616x554",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Deep Learning",
+    "Streamlit",
+    "Pandas",
+    "NLP",
+    "AWS",
+    "PyTorch",
+    "FastAPI",
+    "LangChain",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0796"
+}

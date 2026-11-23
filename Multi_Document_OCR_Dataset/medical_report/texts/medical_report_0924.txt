@@ -1,0 +1,14 @@
+Medical Report MED-7QNAPARB
+Patient: Jessica Neal
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7QNAPARB",
+  "patient_name": "Jessica Neal",
+  "visit_date": "2024-03-14",
+  "doctor_name": "Dr. Robert Cooper",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0924"
+}

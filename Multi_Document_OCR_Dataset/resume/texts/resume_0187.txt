@@ -1,0 +1,25 @@
+Resume
+Anthony Bates
+Machine Learning Engineer
+Skills: SQL, LangChain, Python, Machine Learning, TensorFlow, AWS, Streamlit, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Anthony Bates",
+  "email": "moorejohn@example.net",
+  "phone": "567-787-0676",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "SQL",
+    "LangChain",
+    "Python",
+    "Machine Learning",
+    "TensorFlow",
+    "AWS",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0187"
+}

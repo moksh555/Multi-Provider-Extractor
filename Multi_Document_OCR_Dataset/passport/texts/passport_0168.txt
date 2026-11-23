@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Tammy Wiley
+Passport No: P41603479
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P41603479",
+  "full_name": "Tammy Wiley",
+  "nationality": "CA",
+  "date_of_birth": "1977-06-05",
+  "issue_date": "2020-03-13",
+  "expiry_date": "2030-03-13",
+  "place_of_birth": "Gordonhaven",
+  "sample_id": "passport_0168"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0551
+Company: CityBanking Supplies
+Company Address: 157 Al Barsha, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 248 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-06-27
+Due Date: 2026-07-27
+Currency: QAR
+Subtotal: 16661.38
+Tax: 2499.21
+Total: 19170.59
+Balance Due: 0.0
+Status: paid

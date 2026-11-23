@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-M306IJ69",
+  "account_holder": "John Anderson",
+  "account_number_masked": "****6128",
+  "period_start": "2026-11-14",
+  "period_end": "2026-12-14",
+  "opening_balance": 4219.87,
+  "closing_balance": 7453.45,
+  "transactions": 14,
+  "sample_id": "bank_statement_0960"
+}

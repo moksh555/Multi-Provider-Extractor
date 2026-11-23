@@ -1,0 +1,16 @@
+Bank Statement STM-HSBDJ532
+Holder: Michael Taylor
+Closing Balance: $4535.47
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HSBDJ532",
+  "account_holder": "Michael Taylor",
+  "account_number_masked": "****4583",
+  "period_start": "2024-12-01",
+  "period_end": "2024-12-31",
+  "opening_balance": 3651.48,
+  "closing_balance": 4535.47,
+  "transactions": 11,
+  "sample_id": "bank_statement_0238"
+}

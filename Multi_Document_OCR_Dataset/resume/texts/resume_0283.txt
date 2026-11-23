@@ -1,0 +1,26 @@
+Resume
+Andrew Mata
+Software Engineer
+Skills: TensorFlow, AWS, FastAPI, Pandas, LangChain, Machine Learning, Python, PyTorch, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Andrew Mata",
+  "email": "reynoldsmegan@example.com",
+  "phone": "744-627-8735",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "TensorFlow",
+    "AWS",
+    "FastAPI",
+    "Pandas",
+    "LangChain",
+    "Machine Learning",
+    "Python",
+    "PyTorch",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0283"
+}

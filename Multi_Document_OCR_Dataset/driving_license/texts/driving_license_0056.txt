@@ -1,0 +1,16 @@
+Synthetic Driving License
+Edward Burgess
+License: DL210529561
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL210529561",
+  "full_name": "Edward Burgess",
+  "date_of_birth": "2004-01-15",
+  "class": "A",
+  "issue_date": "2021-02-24",
+  "expiry_date": "2026-02-24",
+  "address": "588 Rivas Glens, Coffeyport, WA 44897",
+  "sample_id": "driving_license_0056"
+}

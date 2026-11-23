@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1WB0BJHP",
+  "merchant_name": "Nguyen and Sons",
+  "date": "2025-10-06",
+  "subtotal": 308.85,
+  "tax": 18.96,
+  "discount": 14.76,
+  "total": 313.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$32.12",
+      "line_total": "$128.48"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$12.09",
+      "line_total": "$12.09"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$42.07",
+      "line_total": "$168.28"
+    }
+  ],
+  "sample_id": "receipt_0831"
+}

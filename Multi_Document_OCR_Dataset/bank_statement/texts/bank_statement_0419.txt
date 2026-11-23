@@ -1,0 +1,16 @@
+Bank Statement STM-QCAQ4XRN
+Holder: Charles Barnes
+Closing Balance: $5454.08
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QCAQ4XRN",
+  "account_holder": "Charles Barnes",
+  "account_number_masked": "****6633",
+  "period_start": "2025-09-01",
+  "period_end": "2025-10-01",
+  "opening_balance": 3048.54,
+  "closing_balance": 5454.08,
+  "transactions": 13,
+  "sample_id": "bank_statement_0419"
+}

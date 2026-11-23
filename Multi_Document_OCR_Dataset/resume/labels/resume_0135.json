@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Heidi Ramirez",
+  "email": "ybarber@example.org",
+  "phone": "+1-723-517-1461",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "PyTorch",
+    "LangChain",
+    "Python",
+    "NLP",
+    "Streamlit",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0135"
+}

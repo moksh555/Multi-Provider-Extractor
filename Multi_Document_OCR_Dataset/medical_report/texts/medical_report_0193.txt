@@ -1,0 +1,14 @@
+Medical Report MED-YAZPQV6U
+Patient: Andrew Johnson
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YAZPQV6U",
+  "patient_name": "Andrew Johnson",
+  "visit_date": "2025-11-26",
+  "doctor_name": "Dr. Megan Thomas",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0193"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0245
+Company: Golden Harvest Store
+Company Address: 17 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 208 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-02-17
+Due Date: 2026-03-19
+Currency: BDT
+Subtotal: 4395.04
+Tax: 215.36
+Total: 4532.5
+Balance Due: 0.0
+Status: paid

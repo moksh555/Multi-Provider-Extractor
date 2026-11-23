@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL446166055",
+  "full_name": "Rhonda Dixon",
+  "date_of_birth": "1969-09-09",
+  "class": "A",
+  "issue_date": "2021-02-24",
+  "expiry_date": "2026-02-24",
+  "address": "69026 Stephanie Fork Suite 818, New Thomashaven, NC 58306",
+  "sample_id": "driving_license_0625"
+}

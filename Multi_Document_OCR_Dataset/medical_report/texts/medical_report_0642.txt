@@ -1,0 +1,14 @@
+Medical Report MED-MQNVMJB7
+Patient: Joseph Harvey
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MQNVMJB7",
+  "patient_name": "Joseph Harvey",
+  "visit_date": "2025-10-31",
+  "doctor_name": "Dr. Melissa Brown",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0642"
+}

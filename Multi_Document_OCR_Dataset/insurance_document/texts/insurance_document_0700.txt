@@ -1,0 +1,16 @@
+Insurance Policy POL-FPQXO0E1A
+Holder: Holly Ponce
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FPQXO0E1A",
+  "policy_holder": "Holly Ponce",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-02-12",
+  "expiry_date": "2026-02-12",
+  "premium": 1033.9,
+  "coverage_amount": 63917.4,
+  "beneficiary": "Sara Jones",
+  "sample_id": "insurance_document_0700"
+}

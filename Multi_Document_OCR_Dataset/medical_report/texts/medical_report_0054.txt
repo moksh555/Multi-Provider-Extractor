@@ -1,0 +1,14 @@
+Medical Report MED-P0GA3D7C
+Patient: Warren Hooper
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-P0GA3D7C",
+  "patient_name": "Warren Hooper",
+  "visit_date": "2026-01-19",
+  "doctor_name": "Dr. Joshua Brown",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0054"
+}

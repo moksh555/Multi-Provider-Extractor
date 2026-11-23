@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0323",
+  "invoice_number": "INV-2026-0323",
+  "company_name": "BrightStar Electronics",
+  "company_address": "22 Jumeirah Lake Towers, Dhaka, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "13 Zindabazar Road, Dubai, UAE",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-03-20",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 320.23,
+      "amount": 2882.07
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 4,
+      "unit_price": 91.06,
+      "amount": 364.24
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 4,
+      "unit_price": 607.85,
+      "amount": 2431.4
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 179.44,
+      "amount": 2153.28
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 547.23,
+      "amount": 5472.3
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 784.4,
+      "amount": 784.4
+    }
+  ],
+  "subtotal": 14087.69,
+  "discount": 1408.77,
+  "tax_rate": 0.1,
+  "tax": 1267.89,
+  "shipping": 0,
+  "total": 13946.81,
+  "amount_paid": 13946.81,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801129693132",
+  "po_number": "PO-94156"
+}

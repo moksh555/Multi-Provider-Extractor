@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-DMK89L1E",
+  "patient_name": "Noah Meyers",
+  "visit_date": "2026-04-22",
+  "doctor_name": "Dr. Brian Mueller",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0503"
+}

@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Teresa Hernandez",
+  "email": "kmiddleton@example.net",
+  "phone": "208-645-0786",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "LangChain",
+    "NLP",
+    "AWS",
+    "Docker",
+    "Machine Learning",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0116"
+}

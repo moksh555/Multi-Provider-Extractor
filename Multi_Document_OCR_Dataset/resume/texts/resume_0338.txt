@@ -1,0 +1,25 @@
+Resume
+Robin Webster
+Computer Vision Engineer
+Skills: Computer Vision, TensorFlow, Pandas, SQL, Machine Learning, FastAPI, NLP, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Robin Webster",
+  "email": "timothy56@example.org",
+  "phone": "727.770.0453",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Computer Vision",
+    "TensorFlow",
+    "Pandas",
+    "SQL",
+    "Machine Learning",
+    "FastAPI",
+    "NLP",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0338"
+}

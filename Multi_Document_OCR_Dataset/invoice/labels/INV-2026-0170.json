@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0170",
+  "invoice_number": "INV-2026-0170",
+  "company_name": "Golden Harvest Store",
+  "company_address": "181 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "192 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-04-20",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 10,
+      "unit_price": 159.03,
+      "amount": 1590.3
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 422.97,
+      "amount": 3806.73
+    },
+    {
+      "description": "Web Development",
+      "quantity": 8,
+      "unit_price": 119.08,
+      "amount": 952.64
+    },
+    {
+      "description": "Web Development",
+      "quantity": 12,
+      "unit_price": 454.62,
+      "amount": 5455.44
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 106.38,
+      "amount": 531.9
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 428.34,
+      "amount": 1285.02
+    }
+  ],
+  "subtotal": 13622.03,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1021.65,
+  "shipping": 5,
+  "total": 14648.68,
+  "amount_paid": 0,
+  "balance_due": 14648.68,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801349289541",
+  "po_number": "PO-74959"
+}

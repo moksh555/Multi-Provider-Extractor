@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PBGX25FPL",
+  "policy_holder": "Jennifer Meyer",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-09-25",
+  "expiry_date": "2026-09-25",
+  "premium": 1938.35,
+  "coverage_amount": 288739.06,
+  "beneficiary": "James Logan",
+  "sample_id": "insurance_document_0496"
+}

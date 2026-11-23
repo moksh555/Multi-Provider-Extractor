@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0372
+Company: Eastern Care Pharmacy
+Company Address: 192 Jumeirah Lake Towers, Doha, Qatar
+Customer: Bengal Motors
+Billing Address: 223 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-03-18
+Due Date: 2026-04-17
+Currency: USD
+Subtotal: 7123.73
+Tax: 0.0
+Total: 6986.26
+Balance Due: 6986.26
+Status: overdue

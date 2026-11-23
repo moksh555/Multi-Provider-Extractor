@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0636
+Company: Greenline Logistics
+Company Address: 114 Al Barsha, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 118 Al Barsha, Sylhet, Bangladesh
+Invoice Date: 2026-03-18
+Due Date: 2026-03-25
+Currency: QAR
+Subtotal: 6956.77
+Tax: 330.45
+Total: 6939.38
+Balance Due: 6939.38
+Status: unpaid

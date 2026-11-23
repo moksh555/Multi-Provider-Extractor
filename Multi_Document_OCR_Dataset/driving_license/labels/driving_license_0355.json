@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL438296941",
+  "full_name": "Daniel Mann",
+  "date_of_birth": "1981-09-18",
+  "class": "B",
+  "issue_date": "2022-12-23",
+  "expiry_date": "2027-12-23",
+  "address": "57828 Martinez Burg Suite 727, Ericside, NY 43922",
+  "sample_id": "driving_license_0355"
+}

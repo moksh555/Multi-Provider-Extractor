@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HTUGUR9U1",
+  "policy_holder": "Cory Willis",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-10-10",
+  "expiry_date": "2024-10-10",
+  "premium": 2154.9,
+  "coverage_amount": 333048.6,
+  "beneficiary": "Amanda Johnson",
+  "sample_id": "insurance_document_0324"
+}

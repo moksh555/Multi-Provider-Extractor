@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brittney Webster
+License: DL444411571
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL444411571",
+  "full_name": "Brittney Webster",
+  "date_of_birth": "1966-04-06",
+  "class": "D",
+  "issue_date": "2023-02-05",
+  "expiry_date": "2028-02-05",
+  "address": "7679 Perry Forge, West Russellport, TX 89431",
+  "sample_id": "driving_license_0069"
+}

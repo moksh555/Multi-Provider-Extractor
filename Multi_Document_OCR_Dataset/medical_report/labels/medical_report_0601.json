@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-P4E051BS",
+  "patient_name": "Douglas Collins",
+  "visit_date": "2024-02-03",
+  "doctor_name": "Dr. Mary Klein",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0601"
+}

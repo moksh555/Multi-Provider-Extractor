@@ -1,0 +1,16 @@
+Synthetic Driving License
+Meagan Charles
+License: DL171085417
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL171085417",
+  "full_name": "Meagan Charles",
+  "date_of_birth": "1987-05-01",
+  "class": "D",
+  "issue_date": "2021-01-22",
+  "expiry_date": "2026-01-22",
+  "address": "0953 Jonathan Turnpike, Port Biancaville, MI 56488",
+  "sample_id": "driving_license_0975"
+}

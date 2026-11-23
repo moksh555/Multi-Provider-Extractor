@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL642146888",
+  "full_name": "Amy Higgins",
+  "date_of_birth": "1974-04-15",
+  "class": "D",
+  "issue_date": "2022-09-29",
+  "expiry_date": "2027-09-29",
+  "address": "USCGC Simmons, FPO AP 03434",
+  "sample_id": "driving_license_0958"
+}

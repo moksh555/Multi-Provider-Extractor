@@ -1,0 +1,16 @@
+Insurance Policy POL-984UVKYRM
+Holder: Justin Page
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-984UVKYRM",
+  "policy_holder": "Justin Page",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-08-04",
+  "expiry_date": "2027-08-04",
+  "premium": 893.83,
+  "coverage_amount": 145673.62,
+  "beneficiary": "Breanna Lopez",
+  "sample_id": "insurance_document_0258"
+}

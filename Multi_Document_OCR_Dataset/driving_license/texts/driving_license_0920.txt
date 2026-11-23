@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jessica Chang
+License: DL857042151
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL857042151",
+  "full_name": "Jessica Chang",
+  "date_of_birth": "1960-04-15",
+  "class": "C",
+  "issue_date": "2023-06-28",
+  "expiry_date": "2028-06-28",
+  "address": "318 Amy Island, Johnsonbury, OK 98840",
+  "sample_id": "driving_license_0920"
+}

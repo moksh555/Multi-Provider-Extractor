@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tyrone White
+License: DL203813088
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL203813088",
+  "full_name": "Tyrone White",
+  "date_of_birth": "1989-11-25",
+  "class": "A",
+  "issue_date": "2025-03-27",
+  "expiry_date": "2030-03-27",
+  "address": "1526 Scott Views Apt. 033, South William, NY 50970",
+  "sample_id": "driving_license_0434"
+}

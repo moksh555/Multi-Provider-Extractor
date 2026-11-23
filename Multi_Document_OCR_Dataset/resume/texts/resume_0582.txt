@@ -1,0 +1,24 @@
+Resume
+Mr. Brandon Stewart
+Software Engineer
+Skills: Docker, PyTorch, LangChain, SQL, FastAPI, Python, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Mr. Brandon Stewart",
+  "email": "smithnicholas@example.com",
+  "phone": "8862236504",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Docker",
+    "PyTorch",
+    "LangChain",
+    "SQL",
+    "FastAPI",
+    "Python",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0582"
+}

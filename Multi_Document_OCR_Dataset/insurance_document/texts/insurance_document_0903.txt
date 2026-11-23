@@ -1,0 +1,16 @@
+Insurance Policy POL-9ZP3C330B
+Holder: Linda French
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9ZP3C330B",
+  "policy_holder": "Linda French",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-11-13",
+  "expiry_date": "2026-11-13",
+  "premium": 1617.66,
+  "coverage_amount": 225622.45,
+  "beneficiary": "Mary Foster",
+  "sample_id": "insurance_document_0903"
+}

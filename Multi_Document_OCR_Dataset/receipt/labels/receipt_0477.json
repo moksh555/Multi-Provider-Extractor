@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-06DJIN9R",
+  "merchant_name": "Young-Patterson",
+  "date": "2022-11-22",
+  "subtotal": 177.83,
+  "tax": 20.25,
+  "discount": 6.8,
+  "total": 191.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$78.35",
+      "line_total": "$78.35"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$61.10",
+      "line_total": "$61.10"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$8.30",
+      "line_total": "$16.60"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$7.26",
+      "line_total": "$21.78"
+    }
+  ],
+  "sample_id": "receipt_0477"
+}

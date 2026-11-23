@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jay Camacho
+Passport No: P87191051
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P87191051",
+  "full_name": "Jay Camacho",
+  "nationality": "GB",
+  "date_of_birth": "2004-06-09",
+  "issue_date": "2020-08-09",
+  "expiry_date": "2030-08-09",
+  "place_of_birth": "West Carrie",
+  "sample_id": "passport_0766"
+}

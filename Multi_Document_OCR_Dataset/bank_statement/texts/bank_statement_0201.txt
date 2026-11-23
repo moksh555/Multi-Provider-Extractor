@@ -1,0 +1,16 @@
+Bank Statement STM-ZZHYH9OJ
+Holder: Lance Townsend
+Closing Balance: $5930.56
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZZHYH9OJ",
+  "account_holder": "Lance Townsend",
+  "account_number_masked": "****4281",
+  "period_start": "2025-01-16",
+  "period_end": "2025-02-15",
+  "opening_balance": 4408.6,
+  "closing_balance": 5930.56,
+  "transactions": 9,
+  "sample_id": "bank_statement_0201"
+}

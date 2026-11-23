@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0361
+Company: Metro Print House
+Company Address: 134 Motijheel C/A, Doha, Qatar
+Customer: Bengal Motors
+Billing Address: 10 Al Barsha, Doha, Qatar
+Invoice Date: 2026-05-25
+Due Date: 2026-06-01
+Currency: BDT
+Subtotal: 12372.66
+Tax: 881.55
+Total: 12640.58
+Balance Due: 12640.58
+Status: overdue

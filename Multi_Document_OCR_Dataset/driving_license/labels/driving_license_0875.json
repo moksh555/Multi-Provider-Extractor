@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL012597104",
+  "full_name": "Katherine Gay",
+  "date_of_birth": "1974-12-23",
+  "class": "B",
+  "issue_date": "2020-10-26",
+  "expiry_date": "2025-10-26",
+  "address": "18939 Smith Square Suite 578, North Joanne, SC 75435",
+  "sample_id": "driving_license_0875"
+}

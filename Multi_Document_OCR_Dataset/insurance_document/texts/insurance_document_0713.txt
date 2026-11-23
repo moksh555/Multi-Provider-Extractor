@@ -1,0 +1,16 @@
+Insurance Policy POL-FS8Q0PXAE
+Holder: Anna Wong
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FS8Q0PXAE",
+  "policy_holder": "Anna Wong",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-08-08",
+  "expiry_date": "2027-08-08",
+  "premium": 196.44,
+  "coverage_amount": 378055.14,
+  "beneficiary": "Christopher Macdonald",
+  "sample_id": "insurance_document_0713"
+}

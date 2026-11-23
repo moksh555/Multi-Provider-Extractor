@@ -1,0 +1,14 @@
+Medical Report MED-OE9VU90Z
+Patient: Patricia Shah
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OE9VU90Z",
+  "patient_name": "Patricia Shah",
+  "visit_date": "2024-05-14",
+  "doctor_name": "Dr. Sarah Castillo",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0324"
+}

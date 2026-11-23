@@ -1,0 +1,14 @@
+Medical Report MED-VNHEVXPQ
+Patient: Dr. Brady Clark Jr.
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-VNHEVXPQ",
+  "patient_name": "Dr. Brady Clark Jr.",
+  "visit_date": "2024-09-30",
+  "doctor_name": "Dr. Michael Obrien",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0142"
+}

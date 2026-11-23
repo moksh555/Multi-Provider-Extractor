@@ -1,0 +1,14 @@
+Medical Report MED-7NRVRYZN
+Patient: Adriana Mcneil
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7NRVRYZN",
+  "patient_name": "Adriana Mcneil",
+  "visit_date": "2024-12-10",
+  "doctor_name": "Dr. James Rodriguez Jr.",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0870"
+}

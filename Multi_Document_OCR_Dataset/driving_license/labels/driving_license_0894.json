@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL653115828",
+  "full_name": "Christina Watkins",
+  "date_of_birth": "1993-07-17",
+  "class": "D",
+  "issue_date": "2023-09-19",
+  "expiry_date": "2028-09-19",
+  "address": "3265 Benjamin Lodge, Lake Chaseland, PW 98810",
+  "sample_id": "driving_license_0894"
+}

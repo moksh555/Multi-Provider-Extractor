@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0881
+Company: Golden Harvest Store
+Company Address: 14 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 86 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-03-27
+Due Date: 2026-05-11
+Currency: BDT
+Subtotal: 19329.23
+Tax: 918.14
+Total: 19305.91
+Balance Due: 19305.91
+Status: overdue

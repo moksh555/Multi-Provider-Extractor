@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-YRBZKL5T",
+  "patient_name": "Tammy Harper",
+  "visit_date": "2025-02-23",
+  "doctor_name": "Dr. Jessica Snyder",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0269"
+}

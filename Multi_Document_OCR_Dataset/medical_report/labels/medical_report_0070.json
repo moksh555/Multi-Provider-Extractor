@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FBAT1T4X",
+  "patient_name": "Crystal Grant",
+  "visit_date": "2024-06-14",
+  "doctor_name": "Dr. Mary Davis",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0070"
+}

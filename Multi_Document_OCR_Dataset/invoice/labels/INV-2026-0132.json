@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0132",
+  "invoice_number": "INV-2026-0132",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "148 Dhanmondi 27, Doha, Qatar",
+  "customer_name": "Global Mart",
+  "billing_address": "82 Zindabazar Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-30",
+  "due_date": "2026-07-30",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 463.17,
+      "amount": 2779.02
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 32.41,
+      "amount": 97.23
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 330.99,
+      "amount": 661.98
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 7,
+      "unit_price": 337.99,
+      "amount": 2365.93
+    }
+  ],
+  "subtotal": 5904.16,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 295.21,
+  "shipping": 50,
+  "total": 6249.37,
+  "amount_paid": 0,
+  "balance_due": 6249.37,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801866433178",
+  "po_number": "PO-09750"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9H4HA0MV",
+  "account_holder": "Keith Garcia",
+  "account_number_masked": "****8539",
+  "period_start": "2024-11-06",
+  "period_end": "2024-12-06",
+  "opening_balance": 3032.97,
+  "closing_balance": 4337.69,
+  "transactions": 12,
+  "sample_id": "bank_statement_0003"
+}

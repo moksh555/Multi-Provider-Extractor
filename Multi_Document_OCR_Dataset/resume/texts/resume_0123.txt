@@ -1,0 +1,23 @@
+Resume
+Kari Smith
+Backend Developer
+Skills: FastAPI, AWS, Python, Streamlit, Machine Learning, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Kari Smith",
+  "email": "alexfrancis@example.net",
+  "phone": "+1-724-525-3690x91237",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "AWS",
+    "Python",
+    "Streamlit",
+    "Machine Learning",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0123"
+}

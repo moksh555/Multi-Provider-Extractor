@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0034
+Company: Eastern Care Pharmacy
+Company Address: 153 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 203 Dhanmondi 27, Chattogram, Bangladesh
+Invoice Date: 2026-06-21
+Due Date: 2026-06-28
+Currency: SAR
+Subtotal: 8110.59
+Tax: 0.0
+Total: 7998.38
+Balance Due: 2464.77
+Status: partial

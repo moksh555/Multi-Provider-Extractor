@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL568431712",
+  "full_name": "Jamie Zavala",
+  "date_of_birth": "2003-06-11",
+  "class": "C",
+  "issue_date": "2024-03-03",
+  "expiry_date": "2029-03-03",
+  "address": "302 Luna Hills, North Amy, MA 55870",
+  "sample_id": "driving_license_0497"
+}

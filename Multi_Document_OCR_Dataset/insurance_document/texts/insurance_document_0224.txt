@@ -1,0 +1,16 @@
+Insurance Policy POL-EFY3ZB4LD
+Holder: Steven Flores
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-EFY3ZB4LD",
+  "policy_holder": "Steven Flores",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-12-29",
+  "expiry_date": "2025-12-29",
+  "premium": 1063.06,
+  "coverage_amount": 33985.8,
+  "beneficiary": "Donald Flores",
+  "sample_id": "insurance_document_0224"
+}

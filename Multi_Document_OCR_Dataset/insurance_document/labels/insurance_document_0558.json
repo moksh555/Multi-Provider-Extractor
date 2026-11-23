@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9U6WTVMK2",
+  "policy_holder": "Brooke Sims",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-10-09",
+  "expiry_date": "2027-10-09",
+  "premium": 453.13,
+  "coverage_amount": 195056.21,
+  "beneficiary": "Julia Marks",
+  "sample_id": "insurance_document_0558"
+}

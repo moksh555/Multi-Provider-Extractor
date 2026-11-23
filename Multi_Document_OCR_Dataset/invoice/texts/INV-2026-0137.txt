@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0137
+Company: UrbanBuild Construction
+Company Address: 142 Gulshan Avenue, Doha, Qatar
+Customer: Smart Retail LLC
+Billing Address: 228 Sheikh Zayed Road, Dhaka, Bangladesh
+Invoice Date: 2026-03-04
+Due Date: 2026-04-18
+Currency: USD
+Subtotal: 7214.28
+Tax: 1082.14
+Total: 8346.42
+Balance Due: 2408.51
+Status: partial

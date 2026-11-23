@@ -1,0 +1,25 @@
+Resume
+Cory Mccann
+Computer Vision Engineer
+Skills: SQL, NLP, FastAPI, Computer Vision, LangChain, Deep Learning, Machine Learning, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Cory Mccann",
+  "email": "sharon59@example.com",
+  "phone": "861.721.8939x1270",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "NLP",
+    "FastAPI",
+    "Computer Vision",
+    "LangChain",
+    "Deep Learning",
+    "Machine Learning",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0320"
+}

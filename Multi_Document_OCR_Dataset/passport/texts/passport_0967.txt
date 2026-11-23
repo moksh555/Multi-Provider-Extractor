@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Claudia Frank
+Passport No: P30882960
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P30882960",
+  "full_name": "Claudia Frank",
+  "nationality": "AE",
+  "date_of_birth": "1971-04-16",
+  "issue_date": "2025-10-26",
+  "expiry_date": "2035-10-26",
+  "place_of_birth": "West Stephenburgh",
+  "sample_id": "passport_0967"
+}

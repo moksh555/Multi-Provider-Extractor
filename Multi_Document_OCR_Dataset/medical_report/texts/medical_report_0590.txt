@@ -1,0 +1,14 @@
+Medical Report MED-S6TY44Z4
+Patient: Kimberly Avila DVM
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S6TY44Z4",
+  "patient_name": "Kimberly Avila DVM",
+  "visit_date": "2024-02-03",
+  "doctor_name": "Dr. Ryan Fowler",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0590"
+}

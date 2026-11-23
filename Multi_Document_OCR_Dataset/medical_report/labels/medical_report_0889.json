@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-XJ9UCU0Z",
+  "patient_name": "Alexander Sims",
+  "visit_date": "2025-06-11",
+  "doctor_name": "Dr. Joseph Hughes Jr.",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0889"
+}

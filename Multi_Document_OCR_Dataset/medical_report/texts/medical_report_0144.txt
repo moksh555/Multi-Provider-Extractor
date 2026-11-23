@@ -1,0 +1,14 @@
+Medical Report MED-PE77UY03
+Patient: Keith Flowers
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-PE77UY03",
+  "patient_name": "Keith Flowers",
+  "visit_date": "2024-06-29",
+  "doctor_name": "Dr. Cole Green",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0144"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GWT282A6",
+  "account_holder": "Vanessa Hernandez",
+  "account_number_masked": "****6714",
+  "period_start": "2025-05-13",
+  "period_end": "2025-06-12",
+  "opening_balance": 939.82,
+  "closing_balance": 772.68,
+  "transactions": 10,
+  "sample_id": "bank_statement_0756"
+}

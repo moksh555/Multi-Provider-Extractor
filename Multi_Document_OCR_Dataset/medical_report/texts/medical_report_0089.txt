@@ -1,0 +1,14 @@
+Medical Report MED-25SWG623
+Patient: Thomas Taylor
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-25SWG623",
+  "patient_name": "Thomas Taylor",
+  "visit_date": "2025-07-16",
+  "doctor_name": "Dr. Clinton Macias",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0089"
+}

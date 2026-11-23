@@ -1,0 +1,14 @@
+Medical Report MED-6YS4V416
+Patient: Mr. Ryan Obrien Jr.
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6YS4V416",
+  "patient_name": "Mr. Ryan Obrien Jr.",
+  "visit_date": "2026-10-05",
+  "doctor_name": "Dr. Todd Sanchez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0112"
+}

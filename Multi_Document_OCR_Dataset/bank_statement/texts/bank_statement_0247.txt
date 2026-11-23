@@ -1,0 +1,16 @@
+Bank Statement STM-NK33AH78
+Holder: Brittany Mcguire
+Closing Balance: $7379.01
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-NK33AH78",
+  "account_holder": "Brittany Mcguire",
+  "account_number_masked": "****9799",
+  "period_start": "2024-10-11",
+  "period_end": "2024-11-10",
+  "opening_balance": 4177.79,
+  "closing_balance": 7379.01,
+  "transactions": 11,
+  "sample_id": "bank_statement_0247"
+}

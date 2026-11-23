@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Kimberly Curtis",
+  "email": "riverakeith@example.com",
+  "phone": "440.501.2762",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "Pandas",
+    "Computer Vision",
+    "Python",
+    "Deep Learning",
+    "Machine Learning",
+    "AWS",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0146"
+}

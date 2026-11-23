@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Darryl Roberts",
+  "email": "john14@example.net",
+  "phone": "+1-872-625-5785",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "SQL",
+    "PyTorch",
+    "Deep Learning",
+    "NLP",
+    "TensorFlow",
+    "Computer Vision",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0258"
+}

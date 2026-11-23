@@ -1,0 +1,16 @@
+Bank Statement STM-E02TOXOU
+Holder: Brandon Adkins
+Closing Balance: $5562.49
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-E02TOXOU",
+  "account_holder": "Brandon Adkins",
+  "account_number_masked": "****1273",
+  "period_start": "2026-04-15",
+  "period_end": "2026-05-15",
+  "opening_balance": 3595.1,
+  "closing_balance": 5562.49,
+  "transactions": 8,
+  "sample_id": "bank_statement_0030"
+}

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0707",
+  "invoice_number": "INV-2026-0707",
+  "company_name": "Greenline Logistics",
+  "company_address": "35 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "205 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-07",
+  "due_date": "2026-03-09",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 3,
+      "unit_price": 115.27,
+      "amount": 345.81
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 196.99,
+      "amount": 590.97
+    }
+  ],
+  "subtotal": 936.78,
+  "discount": 46.84,
+  "tax_rate": 0.075,
+  "tax": 66.75,
+  "shipping": 5,
+  "total": 961.69,
+  "amount_paid": 0,
+  "balance_due": 961.69,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801374891035",
+  "po_number": "PO-02981"
+}

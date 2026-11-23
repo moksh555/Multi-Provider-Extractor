@@ -1,0 +1,16 @@
+Insurance Policy POL-9ITN7S55J
+Holder: Katie Smith
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9ITN7S55J",
+  "policy_holder": "Katie Smith",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-11-27",
+  "expiry_date": "2025-11-27",
+  "premium": 2343.51,
+  "coverage_amount": 258791.46,
+  "beneficiary": "Amanda Hughes",
+  "sample_id": "insurance_document_0064"
+}

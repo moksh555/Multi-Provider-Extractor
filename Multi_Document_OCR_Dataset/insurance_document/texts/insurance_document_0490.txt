@@ -1,0 +1,16 @@
+Insurance Policy POL-KVL9PTK4G
+Holder: Kyle Daugherty
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KVL9PTK4G",
+  "policy_holder": "Kyle Daugherty",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-09-01",
+  "expiry_date": "2026-09-01",
+  "premium": 2355.02,
+  "coverage_amount": 190046.28,
+  "beneficiary": "Daniel Smith",
+  "sample_id": "insurance_document_0490"
+}

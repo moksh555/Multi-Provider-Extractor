@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0513
+Company: UrbanBuild Construction
+Company Address: 107 Doha Business Park, Dhaka, Bangladesh
+Customer: TechPoint BD
+Billing Address: 249 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-15
+Due Date: 2026-03-02
+Currency: SAR
+Subtotal: 12975.49
+Tax: 635.8
+Total: 13376.78
+Balance Due: 13376.78
+Status: overdue

@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0479",
+  "invoice_number": "INV-2026-0479",
+  "company_name": "Delta Insurance Services",
+  "company_address": "12 Gulshan Avenue, Doha, Qatar",
+  "customer_name": "TechPoint BD",
+  "billing_address": "29 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "invoice_date": "2026-03-09",
+  "due_date": "2026-03-16",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 677.06,
+      "amount": 677.06
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 789.43,
+      "amount": 7894.3
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 8,
+      "unit_price": 545.43,
+      "amount": 4363.44
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 708.47,
+      "amount": 2833.88
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 661.34,
+      "amount": 3968.04
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 11,
+      "unit_price": 346.25,
+      "amount": 3808.75
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 12,
+      "unit_price": 269.69,
+      "amount": 3236.28
+    }
+  ],
+  "subtotal": 26781.75,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 2008.63,
+  "shipping": 50,
+  "total": 28840.38,
+  "amount_paid": 8922.52,
+  "balance_due": 19917.86,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801726119811",
+  "po_number": "PO-06012"
+}

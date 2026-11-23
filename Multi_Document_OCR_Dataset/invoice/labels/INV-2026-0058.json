@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0058",
+  "invoice_number": "INV-2026-0058",
+  "company_name": "CityBanking Supplies",
+  "company_address": "184 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "98 Gulshan Avenue, Doha, Qatar",
+  "invoice_date": "2026-03-17",
+  "due_date": "2026-04-01",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 336.06,
+      "amount": 4032.72
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 2,
+      "unit_price": 85.06,
+      "amount": 170.12
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 8,
+      "unit_price": 311.05,
+      "amount": 2488.4
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 119.57,
+      "amount": 239.14
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 385.93,
+      "amount": 2701.51
+    }
+  ],
+  "subtotal": 9631.89,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 722.39,
+  "shipping": 25,
+  "total": 10379.28,
+  "amount_paid": 10379.28,
+  "balance_due": 0.0,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801403053323",
+  "po_number": "PO-09995"
+}

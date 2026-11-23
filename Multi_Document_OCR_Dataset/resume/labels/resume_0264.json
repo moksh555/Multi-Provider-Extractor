@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "James Cole",
+  "email": "mcdanieldrew@example.org",
+  "phone": "+1-381-693-7684",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "NLP",
+    "Computer Vision",
+    "TensorFlow",
+    "Deep Learning",
+    "Python",
+    "AWS",
+    "SQL",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0264"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0190
+Company: SkyNet Office Mart
+Company Address: 170 Al Barsha, Dhaka, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 8 Uttara Sector 7, Dubai, UAE
+Invoice Date: 2026-01-07
+Due Date: 2026-02-06
+Currency: AED
+Subtotal: 7682.1
+Tax: 0.0
+Total: 7297.99
+Balance Due: 7297.99
+Status: unpaid

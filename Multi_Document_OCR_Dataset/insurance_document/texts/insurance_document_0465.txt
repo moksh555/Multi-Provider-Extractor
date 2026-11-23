@@ -1,0 +1,16 @@
+Insurance Policy POL-K8DJZR5SW
+Holder: Frank Cunningham
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-K8DJZR5SW",
+  "policy_holder": "Frank Cunningham",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-05-03",
+  "expiry_date": "2026-05-03",
+  "premium": 2427.59,
+  "coverage_amount": 275303.13,
+  "beneficiary": "Aaron Vaughn",
+  "sample_id": "insurance_document_0465"
+}

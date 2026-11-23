@@ -1,0 +1,67 @@
+Receipt RCT-UZS1XKE1
+Merchant: Wilson LLC
+Date: 2024-04-14
+Total: $750.23
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UZS1XKE1",
+  "merchant_name": "Wilson LLC",
+  "date": "2024-04-14",
+  "subtotal": 712.26,
+  "tax": 40.79,
+  "discount": 2.82,
+  "total": 750.23,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$35.38",
+      "line_total": "$141.52"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$2.88",
+      "line_total": "$11.52"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$45.34",
+      "line_total": "$136.02"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$40.31",
+      "line_total": "$120.93"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$42.68",
+      "line_total": "$42.68"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$75.80",
+      "line_total": "$151.60"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$51.63",
+      "line_total": "$103.26"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$4.73",
+      "line_total": "$4.73"
+    }
+  ],
+  "sample_id": "receipt_0430"
+}

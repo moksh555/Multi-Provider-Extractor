@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ryan Price
+Passport No: P67160602
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P67160602",
+  "full_name": "Ryan Price",
+  "nationality": "BD",
+  "date_of_birth": "2004-09-04",
+  "issue_date": "2024-02-25",
+  "expiry_date": "2034-02-25",
+  "place_of_birth": "Lindsayshire",
+  "sample_id": "passport_0450"
+}

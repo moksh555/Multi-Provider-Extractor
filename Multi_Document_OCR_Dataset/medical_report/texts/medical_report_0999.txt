@@ -1,0 +1,14 @@
+Medical Report MED-MCHUZX1L
+Patient: Brittany Wagner
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MCHUZX1L",
+  "patient_name": "Brittany Wagner",
+  "visit_date": "2024-05-26",
+  "doctor_name": "Dr. Joann Perez",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0999"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-POJUKI2S
+Holder: Tyler Russell
+Closing Balance: $6914.67
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-POJUKI2S",
+  "account_holder": "Tyler Russell",
+  "account_number_masked": "****5970",
+  "period_start": "2025-12-22",
+  "period_end": "2026-01-21",
+  "opening_balance": 2322.17,
+  "closing_balance": 6914.67,
+  "transactions": 8,
+  "sample_id": "bank_statement_0878"
+}

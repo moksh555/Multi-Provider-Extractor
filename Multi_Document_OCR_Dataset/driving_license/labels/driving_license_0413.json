@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL194668847",
+  "full_name": "Ethan Brown",
+  "date_of_birth": "1994-02-15",
+  "class": "D",
+  "issue_date": "2023-07-05",
+  "expiry_date": "2028-07-05",
+  "address": "PSC 6717, Box 9576, APO AE 21647",
+  "sample_id": "driving_license_0413"
+}

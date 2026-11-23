@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-986K33UF",
+  "merchant_name": "Holt, Hall and Wilkinson",
+  "date": "2022-06-18",
+  "subtotal": 551.79,
+  "tax": 31.74,
+  "discount": 9.44,
+  "total": 574.09,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$55.75",
+      "line_total": "$111.50"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$52.60",
+      "line_total": "$157.80"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$19.62",
+      "line_total": "$78.48"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$38.92",
+      "line_total": "$155.68"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$16.11",
+      "line_total": "$48.33"
+    }
+  ],
+  "sample_id": "receipt_0927"
+}

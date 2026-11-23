@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XJJDH2UD",
+  "account_holder": "Kelly Woods",
+  "account_number_masked": "****3156",
+  "period_start": "2026-10-03",
+  "period_end": "2026-11-02",
+  "opening_balance": 3887.43,
+  "closing_balance": 5990.52,
+  "transactions": 13,
+  "sample_id": "bank_statement_0662"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-YCGSNMOK
+Patient: Felicia Robinson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YCGSNMOK",
+  "patient_name": "Felicia Robinson",
+  "visit_date": "2024-03-18",
+  "doctor_name": "Dr. Jade Ibarra",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0509"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WXC1KNGR",
+  "account_holder": "Stephanie Miller",
+  "account_number_masked": "****4179",
+  "period_start": "2026-04-06",
+  "period_end": "2026-05-06",
+  "opening_balance": 2818.09,
+  "closing_balance": 3718.12,
+  "transactions": 12,
+  "sample_id": "bank_statement_0722"
+}

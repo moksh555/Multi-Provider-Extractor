@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: John Hall
+Passport No: P26244182
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P26244182",
+  "full_name": "John Hall",
+  "nationality": "AE",
+  "date_of_birth": "1972-11-14",
+  "issue_date": "2021-08-12",
+  "expiry_date": "2031-08-12",
+  "place_of_birth": "New Steven",
+  "sample_id": "passport_0664"
+}

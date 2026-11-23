@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sarah Christensen
+License: DL817573109
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL817573109",
+  "full_name": "Sarah Christensen",
+  "date_of_birth": "1973-03-14",
+  "class": "B",
+  "issue_date": "2025-03-25",
+  "expiry_date": "2030-03-25",
+  "address": "76855 Victor Ridges Suite 793, Drewland, PA 92111",
+  "sample_id": "driving_license_0822"
+}

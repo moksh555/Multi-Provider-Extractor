@@ -1,0 +1,37 @@
+Receipt RCT-G9H8LYK0
+Merchant: Fritz, Fowler and Wong
+Date: 2023-01-12
+Total: $315.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G9H8LYK0",
+  "merchant_name": "Fritz, Fowler and Wong",
+  "date": "2023-01-12",
+  "subtotal": 299.78,
+  "tax": 30.18,
+  "discount": 14.84,
+  "total": 315.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$45.52",
+      "line_total": "$136.56"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$36.15",
+      "line_total": "$108.45"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$54.77",
+      "line_total": "$54.77"
+    }
+  ],
+  "sample_id": "receipt_0971"
+}

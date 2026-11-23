@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F15WR99Z",
+  "account_holder": "Maria Phillips",
+  "account_number_masked": "****5824",
+  "period_start": "2024-05-21",
+  "period_end": "2024-06-20",
+  "opening_balance": 4600.78,
+  "closing_balance": 6380.8,
+  "transactions": 8,
+  "sample_id": "bank_statement_0354"
+}

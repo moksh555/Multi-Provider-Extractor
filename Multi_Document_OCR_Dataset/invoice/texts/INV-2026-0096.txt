@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0096
+Company: Golden Harvest Store
+Company Address: 140 Uttara Sector 7, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 12 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-19
+Due Date: 2026-03-21
+Currency: QAR
+Subtotal: 26995.18
+Tax: 0.0
+Total: 26995.18
+Balance Due: 0.0
+Status: paid

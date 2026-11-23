@@ -1,0 +1,14 @@
+Medical Report MED-4467Q3VB
+Patient: Matthew Trevino
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4467Q3VB",
+  "patient_name": "Matthew Trevino",
+  "visit_date": "2025-06-16",
+  "doctor_name": "Dr. James Nunez",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0371"
+}

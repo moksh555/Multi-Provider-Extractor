@@ -1,0 +1,16 @@
+Bank Statement STM-EOW0EF57
+Holder: Laura Lane
+Closing Balance: $6333.05
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EOW0EF57",
+  "account_holder": "Laura Lane",
+  "account_number_masked": "****0646",
+  "period_start": "2026-07-31",
+  "period_end": "2026-08-30",
+  "opening_balance": 2345.5,
+  "closing_balance": 6333.05,
+  "transactions": 14,
+  "sample_id": "bank_statement_0083"
+}

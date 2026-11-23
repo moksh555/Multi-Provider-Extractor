@@ -1,0 +1,27 @@
+Resume
+Diana Johnson
+Backend Developer
+Skills: AWS, PyTorch, SQL, Deep Learning, Pandas, Machine Learning, Python, FastAPI, Docker, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Diana Johnson",
+  "email": "qhunt@example.net",
+  "phone": "377.398.2402",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "AWS",
+    "PyTorch",
+    "SQL",
+    "Deep Learning",
+    "Pandas",
+    "Machine Learning",
+    "Python",
+    "FastAPI",
+    "Docker",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0379"
+}

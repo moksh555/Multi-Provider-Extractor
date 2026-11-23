@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XTXB1761M",
+  "policy_holder": "Ronald Casey",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-04-25",
+  "expiry_date": "2027-04-25",
+  "premium": 635.38,
+  "coverage_amount": 23399.12,
+  "beneficiary": "Edward Bates",
+  "sample_id": "insurance_document_0809"
+}

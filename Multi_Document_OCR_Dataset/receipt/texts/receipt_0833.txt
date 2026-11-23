@@ -1,0 +1,67 @@
+Receipt RCT-9DVELYVR
+Merchant: Webster, Pierce and Barber
+Date: 2025-07-30
+Total: $1083.13
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9DVELYVR",
+  "merchant_name": "Webster, Pierce and Barber",
+  "date": "2025-07-30",
+  "subtotal": 1024.27,
+  "tax": 67.74,
+  "discount": 8.88,
+  "total": 1083.13,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$60.84",
+      "line_total": "$60.84"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$65.17",
+      "line_total": "$260.68"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$55.52",
+      "line_total": "$222.08"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$38.82",
+      "line_total": "$155.28"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$33.32",
+      "line_total": "$66.64"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$44.04",
+      "line_total": "$176.16"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$7.93",
+      "line_total": "$7.93"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$37.33",
+      "line_total": "$74.66"
+    }
+  ],
+  "sample_id": "receipt_0833"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-JONOU9IY4
+Holder: Madeline Hill
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JONOU9IY4",
+  "policy_holder": "Madeline Hill",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-11",
+  "expiry_date": "2024-07-11",
+  "premium": 1084.56,
+  "coverage_amount": 194813.09,
+  "beneficiary": "Lauren Hudson",
+  "sample_id": "insurance_document_0171"
+}

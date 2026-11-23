@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brian Chen
+License: DL798083246
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL798083246",
+  "full_name": "Brian Chen",
+  "date_of_birth": "1968-10-23",
+  "class": "B",
+  "issue_date": "2022-07-22",
+  "expiry_date": "2027-07-22",
+  "address": "9163 Tanya Prairie, Barkerberg, MN 12229",
+  "sample_id": "driving_license_0268"
+}

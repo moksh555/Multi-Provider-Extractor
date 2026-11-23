@@ -1,0 +1,16 @@
+Insurance Policy POL-WR0UI1JLM
+Holder: Kevin Moss
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WR0UI1JLM",
+  "policy_holder": "Kevin Moss",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-03-16",
+  "expiry_date": "2024-03-16",
+  "premium": 885.03,
+  "coverage_amount": 287003.06,
+  "beneficiary": "Patrick Bird",
+  "sample_id": "insurance_document_0848"
+}

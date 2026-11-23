@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0465
+Company: Royal Diagnostics Center
+Company Address: 149 Motijheel C/A, Sylhet, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 61 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-06-11
+Due Date: 2026-07-11
+Currency: BDT
+Subtotal: 13546.52
+Tax: 2031.98
+Total: 15583.5
+Balance Due: 0.0
+Status: paid

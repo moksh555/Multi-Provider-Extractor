@@ -1,0 +1,14 @@
+Medical Report MED-JWIFTPA1
+Patient: Ariel Williams
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JWIFTPA1",
+  "patient_name": "Ariel Williams",
+  "visit_date": "2026-03-11",
+  "doctor_name": "Dr. Dr. Heather Dunn DDS",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0455"
+}

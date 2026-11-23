@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0013
+Company: Metro Print House
+Company Address: 192 Zindabazar Road, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 70 Dhanmondi 27, Sylhet, Bangladesh
+Invoice Date: 2026-05-19
+Due Date: 2026-05-26
+Currency: BDT
+Subtotal: 16448.99
+Tax: 781.33
+Total: 16417.87
+Balance Due: 16417.87
+Status: unpaid

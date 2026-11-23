@@ -1,0 +1,14 @@
+Medical Report MED-S3L38Z9Q
+Patient: Stephanie Pope
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S3L38Z9Q",
+  "patient_name": "Stephanie Pope",
+  "visit_date": "2026-04-04",
+  "doctor_name": "Dr. John Warner",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0394"
+}

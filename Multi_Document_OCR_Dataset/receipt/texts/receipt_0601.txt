@@ -1,0 +1,49 @@
+Receipt RCT-JRKHE0SD
+Merchant: Mcdonald Ltd
+Date: 2025-09-23
+Total: $421.67
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JRKHE0SD",
+  "merchant_name": "Mcdonald Ltd",
+  "date": "2025-09-23",
+  "subtotal": 382.8,
+  "tax": 40.78,
+  "discount": 1.91,
+  "total": 421.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$54.18",
+      "line_total": "$54.18"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$3.85",
+      "line_total": "$7.70"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$22.88",
+      "line_total": "$22.88"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$68.34",
+      "line_total": "$136.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$40.34",
+      "line_total": "$161.36"
+    }
+  ],
+  "sample_id": "receipt_0601"
+}

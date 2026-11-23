@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL478425079",
+  "full_name": "Steven Ortiz",
+  "date_of_birth": "1971-11-27",
+  "class": "C",
+  "issue_date": "2024-01-08",
+  "expiry_date": "2029-01-08",
+  "address": "214 Nicholas Harbor, West Anthonybury, NJ 64096",
+  "sample_id": "driving_license_0487"
+}

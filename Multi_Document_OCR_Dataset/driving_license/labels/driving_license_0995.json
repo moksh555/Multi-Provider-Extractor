@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL973214084",
+  "full_name": "Joshua Cannon",
+  "date_of_birth": "1968-12-22",
+  "class": "C",
+  "issue_date": "2023-12-23",
+  "expiry_date": "2028-12-23",
+  "address": "917 Santana Locks Apt. 342, Jacksonborough, VI 73257",
+  "sample_id": "driving_license_0995"
+}

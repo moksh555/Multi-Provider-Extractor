@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0151",
+  "invoice_number": "INV-2026-0151",
+  "company_name": "Summit Agro Foods",
+  "company_address": "98 Motijheel C/A, Dubai, UAE",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "189 Al Barsha, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-16",
+  "due_date": "2026-03-31",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 495.27,
+      "amount": 3466.89
+    },
+    {
+      "description": "Web Development",
+      "quantity": 8,
+      "unit_price": 507.61,
+      "amount": 4060.88
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 9,
+      "unit_price": 382.91,
+      "amount": 3446.19
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 10,
+      "unit_price": 119.11,
+      "amount": 1191.1
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 3,
+      "unit_price": 672.56,
+      "amount": 2017.68
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 8,
+      "unit_price": 321.14,
+      "amount": 2569.12
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 132.9,
+      "amount": 132.9
+    }
+  ],
+  "subtotal": 16884.76,
+  "discount": 1688.48,
+  "tax_rate": 0.05,
+  "tax": 759.81,
+  "shipping": 5,
+  "total": 15961.09,
+  "amount_paid": 15961.09,
+  "balance_due": 0.0,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801961511797",
+  "po_number": "PO-11954"
+}

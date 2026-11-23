@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0756
+Company: Eastern Care Pharmacy
+Company Address: 39 Agrabad C/A, Sylhet, Bangladesh
+Customer: Bengal Motors
+Billing Address: 190 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-03-09
+Due Date: 2026-04-08
+Currency: SAR
+Subtotal: 9897.23
+Tax: 494.86
+Total: 10442.09
+Balance Due: 0.0
+Status: paid

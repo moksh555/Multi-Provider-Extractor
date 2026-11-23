@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL907344482",
+  "full_name": "Misty Richardson",
+  "date_of_birth": "2002-10-20",
+  "class": "B",
+  "issue_date": "2021-07-05",
+  "expiry_date": "2026-07-05",
+  "address": "621 Thomas Avenue Apt. 508, Lake Megan, MT 14725",
+  "sample_id": "driving_license_0877"
+}

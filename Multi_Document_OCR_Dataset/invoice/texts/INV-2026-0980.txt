@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0980
+Company: Royal Diagnostics Center
+Company Address: 36 Doha Business Park, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 39 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-02-10
+Due Date: 2026-03-27
+Currency: BDT
+Subtotal: 12913.48
+Tax: 613.39
+Total: 12906.2
+Balance Due: 12906.2
+Status: unpaid

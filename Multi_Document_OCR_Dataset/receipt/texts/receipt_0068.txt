@@ -1,0 +1,49 @@
+Receipt RCT-ELOS6ZLE
+Merchant: Hoffman, Santiago and Jenkins
+Date: 2024-04-23
+Total: $779.17
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ELOS6ZLE",
+  "merchant_name": "Hoffman, Santiago and Jenkins",
+  "date": "2024-04-23",
+  "subtotal": 746.24,
+  "tax": 46.69,
+  "discount": 13.76,
+  "total": 779.17,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$76.63",
+      "line_total": "$153.26"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$36.94",
+      "line_total": "$73.88"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$56.45",
+      "line_total": "$225.80"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$61.19",
+      "line_total": "$122.38"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$42.73",
+      "line_total": "$170.92"
+    }
+  ],
+  "sample_id": "receipt_0068"
+}

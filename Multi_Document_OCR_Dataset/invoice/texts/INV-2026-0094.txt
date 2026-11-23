@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0094
+Company: SkyNet Office Mart
+Company Address: 180 Road 12, Banani, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 100 Motijheel C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-22
+Due Date: 2026-03-29
+Currency: USD
+Subtotal: 18327.58
+Tax: 824.74
+Total: 17369.56
+Balance Due: 8564.52
+Status: partial

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brian Smith
+License: DL324296563
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL324296563",
+  "full_name": "Brian Smith",
+  "date_of_birth": "1974-11-20",
+  "class": "C",
+  "issue_date": "2021-08-02",
+  "expiry_date": "2026-08-02",
+  "address": "932 Daniel Villages Apt. 426, Elliottton, MT 82056",
+  "sample_id": "driving_license_0905"
+}

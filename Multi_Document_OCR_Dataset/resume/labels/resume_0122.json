@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Julie Hill",
+  "email": "barnesaaron@example.net",
+  "phone": "+1-419-261-2766x20808",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "NLP",
+    "PyTorch",
+    "AWS",
+    "Python",
+    "Machine Learning",
+    "Pandas",
+    "SQL",
+    "Docker",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0122"
+}

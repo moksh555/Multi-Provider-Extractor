@@ -1,0 +1,16 @@
+Bank Statement STM-H3GK119F
+Holder: Thomas Snow
+Closing Balance: $4913.49
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H3GK119F",
+  "account_holder": "Thomas Snow",
+  "account_number_masked": "****7530",
+  "period_start": "2026-05-30",
+  "period_end": "2026-06-29",
+  "opening_balance": 1940.75,
+  "closing_balance": 4913.49,
+  "transactions": 14,
+  "sample_id": "bank_statement_0649"
+}

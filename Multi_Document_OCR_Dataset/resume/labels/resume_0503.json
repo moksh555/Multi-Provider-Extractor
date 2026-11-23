@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Anita Mcclure",
+  "email": "timothy27@example.com",
+  "phone": "828-832-8678x5150",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "PyTorch",
+    "Streamlit",
+    "Pandas",
+    "SQL",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0503"
+}

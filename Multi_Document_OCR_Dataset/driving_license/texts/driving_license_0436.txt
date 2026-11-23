@@ -1,0 +1,16 @@
+Synthetic Driving License
+Bradley Fields
+License: DL211951552
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL211951552",
+  "full_name": "Bradley Fields",
+  "date_of_birth": "1985-05-31",
+  "class": "B",
+  "issue_date": "2026-06-09",
+  "expiry_date": "2031-06-09",
+  "address": "8238 Ali Point, Williamsmouth, MP 81861",
+  "sample_id": "driving_license_0436"
+}

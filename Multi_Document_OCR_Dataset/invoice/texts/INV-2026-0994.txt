@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0994
+Company: BrightStar Electronics
+Company Address: 106 Road 12, Banani, Dhaka, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 143 Jumeirah Lake Towers, Chattogram, Bangladesh
+Invoice Date: 2026-01-04
+Due Date: 2026-02-03
+Currency: USD
+Subtotal: 11986.79
+Tax: 881.03
+Total: 12628.08
+Balance Due: 4191.88
+Status: partial

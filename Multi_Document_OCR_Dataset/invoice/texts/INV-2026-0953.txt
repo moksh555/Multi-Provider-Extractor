@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0953
+Company: BlueRiver Trading Co.
+Company Address: 10 Jumeirah Lake Towers, Chattogram, Bangladesh
+Customer: TechPoint BD
+Billing Address: 131 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-04-30
+Due Date: 2026-05-15
+Currency: SAR
+Subtotal: 21768.25
+Tax: 0.0
+Total: 19591.42
+Balance Due: 0.0
+Status: paid

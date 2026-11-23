@@ -1,0 +1,55 @@
+Receipt RCT-HY5HO37P
+Merchant: Morris Ltd
+Date: 2023-11-08
+Total: $965.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HY5HO37P",
+  "merchant_name": "Morris Ltd",
+  "date": "2023-11-08",
+  "subtotal": 888.66,
+  "tax": 76.79,
+  "discount": 0.37,
+  "total": 965.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$66.03",
+      "line_total": "$264.12"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$47.23",
+      "line_total": "$141.69"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$56.26",
+      "line_total": "$112.52"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$3.53",
+      "line_total": "$3.53"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$33.77",
+      "line_total": "$135.08"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$77.24",
+      "line_total": "$231.72"
+    }
+  ],
+  "sample_id": "receipt_0558"
+}

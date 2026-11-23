@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL664435571",
+  "full_name": "Kendra Peterson",
+  "date_of_birth": "1975-10-10",
+  "class": "D",
+  "issue_date": "2025-02-22",
+  "expiry_date": "2030-02-22",
+  "address": "9710 Wood Gateway, West Haley, PW 41465",
+  "sample_id": "driving_license_0780"
+}

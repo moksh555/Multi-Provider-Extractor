@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Julian Brown
+Passport No: P36150240
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P36150240",
+  "full_name": "Julian Brown",
+  "nationality": "CA",
+  "date_of_birth": "1966-05-05",
+  "issue_date": "2026-05-06",
+  "expiry_date": "2036-05-06",
+  "place_of_birth": "Sawyerberg",
+  "sample_id": "passport_0215"
+}

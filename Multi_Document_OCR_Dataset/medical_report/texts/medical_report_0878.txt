@@ -1,0 +1,14 @@
+Medical Report MED-P5ZE7Z1P
+Patient: Monica Colon
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-P5ZE7Z1P",
+  "patient_name": "Monica Colon",
+  "visit_date": "2025-02-06",
+  "doctor_name": "Dr. Emily Sutton",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0878"
+}

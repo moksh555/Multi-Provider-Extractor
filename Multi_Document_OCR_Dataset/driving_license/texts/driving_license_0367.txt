@@ -1,0 +1,16 @@
+Synthetic Driving License
+Phillip Rodriguez
+License: DL410769701
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL410769701",
+  "full_name": "Phillip Rodriguez",
+  "date_of_birth": "1969-03-29",
+  "class": "A",
+  "issue_date": "2021-01-26",
+  "expiry_date": "2026-01-26",
+  "address": "0310 Taylor Glen Apt. 140, Port Davidborough, OR 26718",
+  "sample_id": "driving_license_0367"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-A5KW3HGBM
+Holder: Amanda Trevino
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-A5KW3HGBM",
+  "policy_holder": "Amanda Trevino",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-03-08",
+  "expiry_date": "2024-03-08",
+  "premium": 1707.45,
+  "coverage_amount": 420627.07,
+  "beneficiary": "Scott Stark",
+  "sample_id": "insurance_document_0396"
+}

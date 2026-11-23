@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Tammy Fleming",
+  "email": "tharper@example.com",
+  "phone": "+1-308-957-0340x1176",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "SQL",
+    "Docker",
+    "AWS",
+    "PyTorch",
+    "NLP",
+    "Pandas",
+    "Deep Learning",
+    "Computer Vision",
+    "Machine Learning",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0591"
+}

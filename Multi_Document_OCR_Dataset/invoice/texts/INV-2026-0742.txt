@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0742
+Company: Delta Insurance Services
+Company Address: 156 Al Barsha, Doha, Qatar
+Customer: Trust Finance Office
+Billing Address: 115 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-01-30
+Due Date: 2026-03-16
+Currency: USD
+Subtotal: 5240.5
+Tax: 373.39
+Total: 5376.86
+Balance Due: 2087.33
+Status: partial

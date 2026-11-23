@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL837642359",
+  "full_name": "Scott Taylor",
+  "date_of_birth": "1999-10-02",
+  "class": "A",
+  "issue_date": "2023-02-10",
+  "expiry_date": "2028-02-10",
+  "address": "1767 Barbara Parkways Suite 259, Breannafurt, CA 06389",
+  "sample_id": "driving_license_0602"
+}

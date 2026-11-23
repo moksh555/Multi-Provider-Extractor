@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-U5IO8VE6",
+  "account_holder": "Stephanie Perez",
+  "account_number_masked": "****3041",
+  "period_start": "2026-02-01",
+  "period_end": "2026-03-03",
+  "opening_balance": 2907.23,
+  "closing_balance": 7349.34,
+  "transactions": 11,
+  "sample_id": "bank_statement_0614"
+}

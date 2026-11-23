@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sheryl Gutierrez
+License: DL485627467
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL485627467",
+  "full_name": "Sheryl Gutierrez",
+  "date_of_birth": "1978-02-03",
+  "class": "D",
+  "issue_date": "2024-01-06",
+  "expiry_date": "2029-01-06",
+  "address": "423 David Burg Suite 999, New Jesse, TX 03919",
+  "sample_id": "driving_license_0289"
+}

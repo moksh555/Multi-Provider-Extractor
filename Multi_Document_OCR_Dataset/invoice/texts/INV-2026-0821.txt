@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0821
+Company: Nova Medical Supplies
+Company Address: 32 Mirpur DOHS, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 109 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-04-12
+Due Date: 2026-04-19
+Currency: BDT
+Subtotal: 6316.59
+Tax: 300.04
+Total: 6305.8
+Balance Due: 6305.8
+Status: unpaid

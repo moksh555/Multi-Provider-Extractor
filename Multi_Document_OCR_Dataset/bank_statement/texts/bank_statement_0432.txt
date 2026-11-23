@@ -1,0 +1,16 @@
+Bank Statement STM-405G00R5
+Holder: Lisa Rodriguez
+Closing Balance: $2848.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-405G00R5",
+  "account_holder": "Lisa Rodriguez",
+  "account_number_masked": "****6736",
+  "period_start": "2024-10-21",
+  "period_end": "2024-11-20",
+  "opening_balance": 2477.52,
+  "closing_balance": 2848.88,
+  "transactions": 8,
+  "sample_id": "bank_statement_0432"
+}

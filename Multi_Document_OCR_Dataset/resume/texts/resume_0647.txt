@@ -1,0 +1,26 @@
+Resume
+Anna Keller
+Software Engineer
+Skills: PyTorch, Computer Vision, NLP, SQL, Streamlit, Docker, AWS, Python, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Anna Keller",
+  "email": "floresjose@example.com",
+  "phone": "+1-789-237-7070",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "Computer Vision",
+    "NLP",
+    "SQL",
+    "Streamlit",
+    "Docker",
+    "AWS",
+    "Python",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0647"
+}

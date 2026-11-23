@@ -1,0 +1,16 @@
+Insurance Policy POL-DUSGEHN0Z
+Holder: Patrick Reynolds
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DUSGEHN0Z",
+  "policy_holder": "Patrick Reynolds",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-10-17",
+  "expiry_date": "2026-10-17",
+  "premium": 1863.47,
+  "coverage_amount": 58654.18,
+  "beneficiary": "Andrew Jenkins",
+  "sample_id": "insurance_document_0549"
+}

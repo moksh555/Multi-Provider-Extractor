@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0291",
+  "invoice_number": "INV-2026-0291",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "197 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "118 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-25",
+  "due_date": "2026-04-24",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 74.32,
+      "amount": 891.84
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 345.42,
+      "amount": 2417.94
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 12,
+      "unit_price": 224.27,
+      "amount": 2691.24
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 7,
+      "unit_price": 820.66,
+      "amount": 5744.62
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 227.74,
+      "amount": 2277.4
+    }
+  ],
+  "subtotal": 14023.04,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 2103.46,
+  "shipping": 5,
+  "total": 16131.5,
+  "amount_paid": 0,
+  "balance_due": 16131.5,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801582734747",
+  "po_number": "PO-72669"
+}

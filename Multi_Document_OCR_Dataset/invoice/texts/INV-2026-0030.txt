@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0030
+Company: PrimeSoft Technologies
+Company Address: 189 Zindabazar Road, Sylhet, Bangladesh
+Customer: TechPoint BD
+Billing Address: 90 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-02-06
+Due Date: 2026-03-23
+Currency: USD
+Subtotal: 11831.04
+Tax: 0.0
+Total: 11841.04
+Balance Due: 11841.04
+Status: unpaid

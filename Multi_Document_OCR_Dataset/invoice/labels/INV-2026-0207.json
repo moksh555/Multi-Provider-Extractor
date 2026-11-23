@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0207",
+  "invoice_number": "INV-2026-0207",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "126 Al Barsha, Chattogram, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "66 Agrabad C/A, Doha, Qatar",
+  "invoice_date": "2026-05-29",
+  "due_date": "2026-06-13",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 444.61,
+      "amount": 889.22
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 7,
+      "unit_price": 147.62,
+      "amount": 1033.34
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 590.53,
+      "amount": 2952.65
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 9,
+      "unit_price": 562.45,
+      "amount": 5062.05
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 10,
+      "unit_price": 267.32,
+      "amount": 2673.2
+    }
+  ],
+  "subtotal": 12610.46,
+  "discount": 630.52,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 11989.94,
+  "amount_paid": 11989.94,
+  "balance_due": 0.0,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801815782276",
+  "po_number": "PO-01407"
+}

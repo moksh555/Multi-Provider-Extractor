@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0859
+Company: SkyNet Office Mart
+Company Address: 97 Road 12, Banani, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 176 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-06-21
+Due Date: 2026-07-21
+Currency: QAR
+Subtotal: 7152.61
+Tax: 1072.89
+Total: 8230.5
+Balance Due: 0.0
+Status: paid

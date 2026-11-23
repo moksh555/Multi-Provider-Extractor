@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SJXL66YA6",
+  "policy_holder": "Andre Pratt",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-02-01",
+  "expiry_date": "2024-02-01",
+  "premium": 182.47,
+  "coverage_amount": 397349.96,
+  "beneficiary": "Jack Anthony",
+  "sample_id": "insurance_document_0739"
+}

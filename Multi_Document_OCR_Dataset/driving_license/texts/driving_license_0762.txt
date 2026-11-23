@@ -1,0 +1,16 @@
+Synthetic Driving License
+Maurice Anderson
+License: DL573560295
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL573560295",
+  "full_name": "Maurice Anderson",
+  "date_of_birth": "2003-05-28",
+  "class": "A",
+  "issue_date": "2020-07-06",
+  "expiry_date": "2025-07-06",
+  "address": "39395 Kelley Track, Brooksport, IL 51989",
+  "sample_id": "driving_license_0762"
+}

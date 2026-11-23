@@ -1,0 +1,16 @@
+Synthetic Driving License
+Patricia Lamb
+License: DL345702711
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL345702711",
+  "full_name": "Patricia Lamb",
+  "date_of_birth": "1992-10-27",
+  "class": "C",
+  "issue_date": "2025-12-14",
+  "expiry_date": "2030-12-14",
+  "address": "65379 Goodwin Tunnel Suite 383, Tammyfort, MH 25931",
+  "sample_id": "driving_license_0081"
+}

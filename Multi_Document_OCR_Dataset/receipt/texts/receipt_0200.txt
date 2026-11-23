@@ -1,0 +1,61 @@
+Receipt RCT-KDQP1HKF
+Merchant: Price-Johnson
+Date: 2022-11-28
+Total: $466.79
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KDQP1HKF",
+  "merchant_name": "Price-Johnson",
+  "date": "2022-11-28",
+  "subtotal": 432.8,
+  "tax": 41.55,
+  "discount": 7.56,
+  "total": 466.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$33.52",
+      "line_total": "$33.52"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$47.73",
+      "line_total": "$95.46"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$2.15",
+      "line_total": "$6.45"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$20.58",
+      "line_total": "$41.16"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$71.45",
+      "line_total": "$142.90"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$34.00",
+      "line_total": "$34.00"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$79.31",
+      "line_total": "$79.31"
+    }
+  ],
+  "sample_id": "receipt_0200"
+}

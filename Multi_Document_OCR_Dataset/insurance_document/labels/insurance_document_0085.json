@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CROYR6CCV",
+  "policy_holder": "Steven Griffin Jr.",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-09-16",
+  "expiry_date": "2024-09-16",
+  "premium": 774.54,
+  "coverage_amount": 320207.59,
+  "beneficiary": "Jason Elliott",
+  "sample_id": "insurance_document_0085"
+}

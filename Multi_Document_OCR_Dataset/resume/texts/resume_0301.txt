@@ -1,0 +1,26 @@
+Resume
+Brian Singh
+Computer Vision Engineer
+Skills: NLP, Pandas, FastAPI, SQL, TensorFlow, Streamlit, Machine Learning, Computer Vision, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Brian Singh",
+  "email": "dholland@example.org",
+  "phone": "973-494-6248",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "Pandas",
+    "FastAPI",
+    "SQL",
+    "TensorFlow",
+    "Streamlit",
+    "Machine Learning",
+    "Computer Vision",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0301"
+}

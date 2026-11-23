@@ -1,0 +1,16 @@
+Bank Statement STM-5XEJ2VBQ
+Holder: Benjamin Stevens
+Closing Balance: $4054.83
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5XEJ2VBQ",
+  "account_holder": "Benjamin Stevens",
+  "account_number_masked": "****5014",
+  "period_start": "2025-08-11",
+  "period_end": "2025-09-10",
+  "opening_balance": 1436.71,
+  "closing_balance": 4054.83,
+  "transactions": 8,
+  "sample_id": "bank_statement_0621"
+}

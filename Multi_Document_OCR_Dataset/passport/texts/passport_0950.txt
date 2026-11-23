@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Lisa Johnson
+Passport No: P24955236
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24955236",
+  "full_name": "Lisa Johnson",
+  "nationality": "AE",
+  "date_of_birth": "1977-08-03",
+  "issue_date": "2020-06-24",
+  "expiry_date": "2030-06-24",
+  "place_of_birth": "Port Robert",
+  "sample_id": "passport_0950"
+}

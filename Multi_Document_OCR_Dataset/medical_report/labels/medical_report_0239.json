@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-A7G315BD",
+  "patient_name": "Stephanie Hester",
+  "visit_date": "2026-05-29",
+  "doctor_name": "Dr. Jennifer Pennington",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0239"
+}

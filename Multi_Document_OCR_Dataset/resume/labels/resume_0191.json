@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Richard Carter",
+  "email": "smurray@example.net",
+  "phone": "+1-204-557-9725x18407",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "Pandas",
+    "Deep Learning",
+    "Python",
+    "FastAPI",
+    "AWS",
+    "Streamlit",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0191"
+}

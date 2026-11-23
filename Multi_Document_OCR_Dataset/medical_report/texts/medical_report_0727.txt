@@ -1,0 +1,14 @@
+Medical Report MED-GMWC52IN
+Patient: Mr. Christopher Perry
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-GMWC52IN",
+  "patient_name": "Mr. Christopher Perry",
+  "visit_date": "2025-12-05",
+  "doctor_name": "Dr. Joshua Nunez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0727"
+}

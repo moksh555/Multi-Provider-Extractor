@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0326",
+  "invoice_number": "INV-2026-0326",
+  "company_name": "BrightStar Electronics",
+  "company_address": "194 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "224 Uttara Sector 7, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-04",
+  "due_date": "2026-04-03",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 584.57,
+      "amount": 1169.14
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 9,
+      "unit_price": 457.86,
+      "amount": 4120.74
+    },
+    {
+      "description": "API Integration",
+      "quantity": 12,
+      "unit_price": 151.07,
+      "amount": 1812.84
+    },
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 40.36,
+      "amount": 242.16
+    }
+  ],
+  "subtotal": 7344.88,
+  "discount": 734.49,
+  "tax_rate": 0.05,
+  "tax": 330.52,
+  "shipping": 0,
+  "total": 6940.91,
+  "amount_paid": 0,
+  "balance_due": 6940.91,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801235871265",
+  "po_number": "PO-06996"
+}

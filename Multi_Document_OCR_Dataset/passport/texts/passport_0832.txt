@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Terry Benson
+Passport No: P38098789
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P38098789",
+  "full_name": "Terry Benson",
+  "nationality": "CA",
+  "date_of_birth": "1997-12-03",
+  "issue_date": "2024-03-31",
+  "expiry_date": "2034-03-31",
+  "place_of_birth": "South Melanieland",
+  "sample_id": "passport_0832"
+}

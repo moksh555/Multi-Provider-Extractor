@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0260
+Company: CityBanking Supplies
+Company Address: 149 Gulshan Avenue, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 48 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-14
+Due Date: 2026-07-29
+Currency: BDT
+Subtotal: 10372.18
+Tax: 1478.04
+Total: 11356.61
+Balance Due: 11356.61
+Status: unpaid

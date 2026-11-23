@@ -1,0 +1,14 @@
+Medical Report MED-87A2Y3DP
+Patient: Michael Ramirez
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-87A2Y3DP",
+  "patient_name": "Michael Ramirez",
+  "visit_date": "2025-03-26",
+  "doctor_name": "Dr. Eric Norman",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0522"
+}

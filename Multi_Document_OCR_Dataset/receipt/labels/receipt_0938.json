@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1TFRSA8Z",
+  "merchant_name": "Young PLC",
+  "date": "2022-10-04",
+  "subtotal": 186.85,
+  "tax": 14.28,
+  "discount": 10.91,
+  "total": 190.22,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$36.35",
+      "line_total": "$109.05"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$17.65",
+      "line_total": "$70.60"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$2.40",
+      "line_total": "$7.20"
+    }
+  ],
+  "sample_id": "receipt_0938"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0073
+Company: BrightStar Electronics
+Company Address: 33 Doha Business Park, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 248 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-05-12
+Due Date: 2026-05-19
+Currency: AED
+Subtotal: 10610.73
+Tax: 530.54
+Total: 11191.27
+Balance Due: 7923.2
+Status: partial

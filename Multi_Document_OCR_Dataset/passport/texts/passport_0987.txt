@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kristen Rivera
+Passport No: P16949729
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P16949729",
+  "full_name": "Kristen Rivera",
+  "nationality": "CA",
+  "date_of_birth": "1969-10-13",
+  "issue_date": "2023-03-01",
+  "expiry_date": "2033-03-01",
+  "place_of_birth": "Ianhaven",
+  "sample_id": "passport_0987"
+}

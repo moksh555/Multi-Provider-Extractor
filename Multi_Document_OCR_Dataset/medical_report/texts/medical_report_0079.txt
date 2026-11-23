@@ -1,0 +1,14 @@
+Medical Report MED-G18PN8LC
+Patient: Hunter Reid
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-G18PN8LC",
+  "patient_name": "Hunter Reid",
+  "visit_date": "2026-10-05",
+  "doctor_name": "Dr. Cheyenne Sharp",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0079"
+}

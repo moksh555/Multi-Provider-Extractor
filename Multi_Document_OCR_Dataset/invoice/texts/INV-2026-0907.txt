@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0907
+Company: BlueRiver Trading Co.
+Company Address: 167 Al Barsha, Chattogram, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 109 Uttara Sector 7, Chattogram, Bangladesh
+Invoice Date: 2026-06-14
+Due Date: 2026-07-14
+Currency: USD
+Subtotal: 1222.44
+Tax: 183.37
+Total: 1455.81
+Balance Due: 1455.81
+Status: unpaid

@@ -1,0 +1,14 @@
+Medical Report MED-C7NY6V9M
+Patient: David Wright
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-C7NY6V9M",
+  "patient_name": "David Wright",
+  "visit_date": "2024-05-02",
+  "doctor_name": "Dr. Ryan Singleton",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0264"
+}

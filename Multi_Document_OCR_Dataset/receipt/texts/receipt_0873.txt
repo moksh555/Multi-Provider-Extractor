@@ -1,0 +1,61 @@
+Receipt RCT-YHVO2N0I
+Merchant: Kim and Sons
+Date: 2022-03-06
+Total: $1239.86
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YHVO2N0I",
+  "merchant_name": "Kim and Sons",
+  "date": "2022-03-06",
+  "subtotal": 1122.12,
+  "tax": 123.56,
+  "discount": 5.82,
+  "total": 1239.86,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$16.50",
+      "line_total": "$33.00"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$54.69",
+      "line_total": "$218.76"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$57.41",
+      "line_total": "$229.64"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$70.74",
+      "line_total": "$282.96"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$24.81",
+      "line_total": "$99.24"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$37.46",
+      "line_total": "$149.84"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$54.34",
+      "line_total": "$108.68"
+    }
+  ],
+  "sample_id": "receipt_0873"
+}

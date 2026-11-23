@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sandra Moore
+License: DL725320222
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL725320222",
+  "full_name": "Sandra Moore",
+  "date_of_birth": "1984-12-11",
+  "class": "A",
+  "issue_date": "2026-10-25",
+  "expiry_date": "2031-10-25",
+  "address": "61618 April Ports, West Sarahburgh, WA 30225",
+  "sample_id": "driving_license_0799"
+}

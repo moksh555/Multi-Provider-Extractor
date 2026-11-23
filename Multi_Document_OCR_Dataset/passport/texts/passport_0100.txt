@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Curtis Newman
+Passport No: P41785090
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P41785090",
+  "full_name": "Curtis Newman",
+  "nationality": "AE",
+  "date_of_birth": "2000-04-13",
+  "issue_date": "2023-08-03",
+  "expiry_date": "2033-08-03",
+  "place_of_birth": "Seanshire",
+  "sample_id": "passport_0100"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-DRO8BNP8
+Merchant: Bray, Warren and Campbell
+Date: 2025-01-25
+Total: $236.52
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DRO8BNP8",
+  "merchant_name": "Bray, Warren and Campbell",
+  "date": "2025-01-25",
+  "subtotal": 225.68,
+  "tax": 19.8,
+  "discount": 8.96,
+  "total": 236.52,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$5.78",
+      "line_total": "$17.34"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$77.49",
+      "line_total": "$154.98"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$53.36",
+      "line_total": "$53.36"
+    }
+  ],
+  "sample_id": "receipt_0038"
+}

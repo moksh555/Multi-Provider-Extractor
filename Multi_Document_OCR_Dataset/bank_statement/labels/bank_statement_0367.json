@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1YE8UNA9",
+  "account_holder": "Sarah Phillips",
+  "account_number_masked": "****1576",
+  "period_start": "2026-03-01",
+  "period_end": "2026-03-31",
+  "opening_balance": 1831.07,
+  "closing_balance": 5494.3,
+  "transactions": 14,
+  "sample_id": "bank_statement_0367"
+}

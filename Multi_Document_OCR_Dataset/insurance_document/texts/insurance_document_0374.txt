@@ -1,0 +1,16 @@
+Insurance Policy POL-1RHOUU9SI
+Holder: Leslie Walters MD
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1RHOUU9SI",
+  "policy_holder": "Leslie Walters MD",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-05-30",
+  "expiry_date": "2026-05-30",
+  "premium": 889.72,
+  "coverage_amount": 462827.66,
+  "beneficiary": "Andrew Mooney",
+  "sample_id": "insurance_document_0374"
+}

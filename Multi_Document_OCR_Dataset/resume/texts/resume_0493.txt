@@ -1,0 +1,27 @@
+Resume
+Heather Richardson
+Software Engineer
+Skills: Streamlit, Machine Learning, Docker, Deep Learning, AWS, Computer Vision, TensorFlow, FastAPI, Python, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Heather Richardson",
+  "email": "jodi94@example.com",
+  "phone": "976-937-9829x30557",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "Machine Learning",
+    "Docker",
+    "Deep Learning",
+    "AWS",
+    "Computer Vision",
+    "TensorFlow",
+    "FastAPI",
+    "Python",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0493"
+}

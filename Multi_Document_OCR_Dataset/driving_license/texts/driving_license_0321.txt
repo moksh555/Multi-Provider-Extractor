@@ -1,0 +1,16 @@
+Synthetic Driving License
+Harry Levine
+License: DL656675709
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL656675709",
+  "full_name": "Harry Levine",
+  "date_of_birth": "1969-07-09",
+  "class": "C",
+  "issue_date": "2023-04-02",
+  "expiry_date": "2028-04-02",
+  "address": "94940 Lane Ports, Lake Veronicatown, LA 64039",
+  "sample_id": "driving_license_0321"
+}

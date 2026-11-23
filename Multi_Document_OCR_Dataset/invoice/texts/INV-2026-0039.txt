@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0039
+Company: Eastern Care Pharmacy
+Company Address: 179 Zindabazar Road, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 115 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-20
+Due Date: 2026-05-05
+Currency: SAR
+Subtotal: 29082.29
+Tax: 2908.23
+Total: 32040.52
+Balance Due: 18161.71
+Status: partial

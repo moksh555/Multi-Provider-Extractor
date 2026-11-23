@@ -1,0 +1,43 @@
+Receipt RCT-89ORVSCY
+Merchant: Williams, Vang and Stanley
+Date: 2025-06-17
+Total: $601.99
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-89ORVSCY",
+  "merchant_name": "Williams, Vang and Stanley",
+  "date": "2025-06-17",
+  "subtotal": 576.53,
+  "tax": 40.35,
+  "discount": 14.89,
+  "total": 601.99,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$31.50",
+      "line_total": "$94.50"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$28.25",
+      "line_total": "$84.75"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$70.07",
+      "line_total": "$280.28"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$58.50",
+      "line_total": "$117.00"
+    }
+  ],
+  "sample_id": "receipt_0207"
+}

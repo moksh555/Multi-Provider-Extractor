@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0500
+Company: CityBanking Supplies
+Company Address: 21 Motijheel C/A, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 103 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-18
+Due Date: 2026-06-25
+Currency: QAR
+Subtotal: 16462.89
+Tax: 740.83
+Total: 15557.43
+Balance Due: 15557.43
+Status: unpaid

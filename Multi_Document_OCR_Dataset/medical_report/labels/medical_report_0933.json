@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CCEMUJX6",
+  "patient_name": "Dr. Laura Richardson MD",
+  "visit_date": "2026-01-06",
+  "doctor_name": "Dr. Joseph Merritt",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0933"
+}

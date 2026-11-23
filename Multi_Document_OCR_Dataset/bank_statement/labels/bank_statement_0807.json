@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DS0YVZVA",
+  "account_holder": "Mary Scott",
+  "account_number_masked": "****4099",
+  "period_start": "2026-11-12",
+  "period_end": "2026-12-12",
+  "opening_balance": 4047.58,
+  "closing_balance": 10453.42,
+  "transactions": 9,
+  "sample_id": "bank_statement_0807"
+}

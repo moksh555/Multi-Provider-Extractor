@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MOE0SY5YP",
+  "policy_holder": "Nathaniel Taylor",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-11-09",
+  "expiry_date": "2024-11-09",
+  "premium": 1134.99,
+  "coverage_amount": 163067.55,
+  "beneficiary": "Alexandra Garcia",
+  "sample_id": "insurance_document_0382"
+}

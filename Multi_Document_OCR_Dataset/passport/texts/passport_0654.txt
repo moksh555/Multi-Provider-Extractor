@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jacqueline Lopez
+Passport No: P24173239
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24173239",
+  "full_name": "Jacqueline Lopez",
+  "nationality": "GB",
+  "date_of_birth": "1982-10-27",
+  "issue_date": "2020-02-09",
+  "expiry_date": "2030-02-09",
+  "place_of_birth": "Johnsonburgh",
+  "sample_id": "passport_0654"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-KBQKTTHB
+Holder: Steven Perry
+Closing Balance: $7645.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KBQKTTHB",
+  "account_holder": "Steven Perry",
+  "account_number_masked": "****5152",
+  "period_start": "2025-11-07",
+  "period_end": "2025-12-07",
+  "opening_balance": 3860.28,
+  "closing_balance": 7645.86,
+  "transactions": 10,
+  "sample_id": "bank_statement_0951"
+}

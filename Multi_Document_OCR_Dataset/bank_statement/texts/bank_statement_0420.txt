@@ -1,0 +1,16 @@
+Bank Statement STM-I10A40JR
+Holder: Deborah Green
+Closing Balance: $9111.04
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I10A40JR",
+  "account_holder": "Deborah Green",
+  "account_number_masked": "****1289",
+  "period_start": "2026-10-14",
+  "period_end": "2026-11-13",
+  "opening_balance": 4473.06,
+  "closing_balance": 9111.04,
+  "transactions": 9,
+  "sample_id": "bank_statement_0420"
+}

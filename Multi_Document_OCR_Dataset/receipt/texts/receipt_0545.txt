@@ -1,0 +1,43 @@
+Receipt RCT-L0NWRN57
+Merchant: Spencer-Gallegos
+Date: 2024-08-25
+Total: $517.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-L0NWRN57",
+  "merchant_name": "Spencer-Gallegos",
+  "date": "2024-08-25",
+  "subtotal": 476.33,
+  "tax": 43.76,
+  "discount": 2.97,
+  "total": 517.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$31.21",
+      "line_total": "$124.84"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$32.01",
+      "line_total": "$32.01"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$76.87",
+      "line_total": "$307.48"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$6.00",
+      "line_total": "$12.00"
+    }
+  ],
+  "sample_id": "receipt_0545"
+}

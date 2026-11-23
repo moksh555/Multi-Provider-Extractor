@@ -1,0 +1,26 @@
+Resume
+Jacob Norman
+Software Engineer
+Skills: Machine Learning, Streamlit, Computer Vision, PyTorch, AWS, Deep Learning, LangChain, Pandas, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Jacob Norman",
+  "email": "browntimothy@example.net",
+  "phone": "612-824-8709x8726",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "Streamlit",
+    "Computer Vision",
+    "PyTorch",
+    "AWS",
+    "Deep Learning",
+    "LangChain",
+    "Pandas",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0075"
+}

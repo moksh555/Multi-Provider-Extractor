@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-3XPB5BAX",
+  "patient_name": "Ian Ford",
+  "visit_date": "2024-04-14",
+  "doctor_name": "Dr. Anthony Williams",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0530"
+}

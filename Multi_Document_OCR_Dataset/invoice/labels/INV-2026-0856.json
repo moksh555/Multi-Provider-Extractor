@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0856",
+  "invoice_number": "INV-2026-0856",
+  "company_name": "Golden Harvest Store",
+  "company_address": "126 Doha Business Park, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "225 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-05-10",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 9,
+      "unit_price": 200.47,
+      "amount": 1804.23
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 11,
+      "unit_price": 243.64,
+      "amount": 2680.04
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 3,
+      "unit_price": 187.58,
+      "amount": 562.74
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 7,
+      "unit_price": 734.22,
+      "amount": 5139.54
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 334.24,
+      "amount": 2673.92
+    }
+  ],
+  "subtotal": 12860.47,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 964.54,
+  "shipping": 10,
+  "total": 13835.01,
+  "amount_paid": 0,
+  "balance_due": 13835.01,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801920692933",
+  "po_number": "PO-05201"
+}

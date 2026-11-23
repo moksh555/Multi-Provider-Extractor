@@ -1,0 +1,27 @@
+Resume
+Jessica Evans
+Computer Vision Engineer
+Skills: Pandas, AWS, Deep Learning, PyTorch, Python, FastAPI, SQL, Machine Learning, TensorFlow, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Jessica Evans",
+  "email": "jonesjeffery@example.org",
+  "phone": "+1-957-437-8315x975",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "AWS",
+    "Deep Learning",
+    "PyTorch",
+    "Python",
+    "FastAPI",
+    "SQL",
+    "Machine Learning",
+    "TensorFlow",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0158"
+}

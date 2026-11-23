@@ -1,0 +1,26 @@
+Resume
+Robert Nunez
+Software Engineer
+Skills: TensorFlow, Computer Vision, Deep Learning, PyTorch, Streamlit, AWS, Pandas, NLP, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Robert Nunez",
+  "email": "stacymolina@example.org",
+  "phone": "(918)383-3401",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "Deep Learning",
+    "PyTorch",
+    "Streamlit",
+    "AWS",
+    "Pandas",
+    "NLP",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0981"
+}

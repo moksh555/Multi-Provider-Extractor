@@ -1,0 +1,49 @@
+Receipt RCT-114PY4FN
+Merchant: Johnson-Munoz
+Date: 2022-12-03
+Total: $357.54
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-114PY4FN",
+  "merchant_name": "Johnson-Munoz",
+  "date": "2022-12-03",
+  "subtotal": 338.87,
+  "tax": 31.93,
+  "discount": 13.26,
+  "total": 357.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$55.07",
+      "line_total": "$110.14"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$7.70",
+      "line_total": "$7.70"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$6.78",
+      "line_total": "$13.56"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$35.33",
+      "line_total": "$35.33"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$57.38",
+      "line_total": "$172.14"
+    }
+  ],
+  "sample_id": "receipt_0508"
+}

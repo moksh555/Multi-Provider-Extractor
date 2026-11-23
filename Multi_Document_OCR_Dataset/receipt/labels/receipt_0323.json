@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1FWT9UA0",
+  "merchant_name": "Cruz, Middleton and Larsen",
+  "date": "2026-02-02",
+  "subtotal": 476.46,
+  "tax": 35.49,
+  "discount": 5.42,
+  "total": 506.53,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$19.94",
+      "line_total": "$39.88"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$16.31",
+      "line_total": "$48.93"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$61.86",
+      "line_total": "$247.44"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$7.55",
+      "line_total": "$22.65"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$51.43",
+      "line_total": "$51.43"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$37.27",
+      "line_total": "$37.27"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$12.20",
+      "line_total": "$12.20"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$8.33",
+      "line_total": "$16.66"
+    }
+  ],
+  "sample_id": "receipt_0323"
+}

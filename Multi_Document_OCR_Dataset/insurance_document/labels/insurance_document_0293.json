@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-H54PIWZNV",
+  "policy_holder": "Marie Graham",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-02-07",
+  "expiry_date": "2025-02-07",
+  "premium": 1967.23,
+  "coverage_amount": 482502.01,
+  "beneficiary": "Rachel Lee",
+  "sample_id": "insurance_document_0293"
+}

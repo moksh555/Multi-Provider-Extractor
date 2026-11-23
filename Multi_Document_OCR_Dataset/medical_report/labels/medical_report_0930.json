@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QEA0S3E3",
+  "patient_name": "Jamie Wilson",
+  "visit_date": "2024-09-30",
+  "doctor_name": "Dr. Glenn Glenn",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0930"
+}

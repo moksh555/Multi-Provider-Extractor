@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7VREN93II",
+  "policy_holder": "Brooke Yu",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-11",
+  "expiry_date": "2024-06-11",
+  "premium": 323.86,
+  "coverage_amount": 248135.33,
+  "beneficiary": "Cody Larson",
+  "sample_id": "insurance_document_0011"
+}

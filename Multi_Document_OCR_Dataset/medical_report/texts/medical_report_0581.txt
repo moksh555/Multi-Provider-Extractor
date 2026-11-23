@@ -1,0 +1,14 @@
+Medical Report MED-00KG8IJI
+Patient: Frank Escobar
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-00KG8IJI",
+  "patient_name": "Frank Escobar",
+  "visit_date": "2025-09-18",
+  "doctor_name": "Dr. Lisa Smith",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0581"
+}

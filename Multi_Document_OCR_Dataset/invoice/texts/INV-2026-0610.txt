@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0610
+Company: CityBanking Supplies
+Company Address: 108 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 220 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-06-22
+Due Date: 2026-06-29
+Currency: SAR
+Subtotal: 12468.81
+Tax: 1184.54
+Total: 13029.91
+Balance Due: 13029.91
+Status: unpaid

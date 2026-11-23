@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-28BT7IRV",
+  "patient_name": "Miranda Hayes",
+  "visit_date": "2026-07-11",
+  "doctor_name": "Dr. Victoria Kemp",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0604"
+}

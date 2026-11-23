@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LCAUDF9M",
+  "account_holder": "Scott Jones",
+  "account_number_masked": "****2604",
+  "period_start": "2025-05-12",
+  "period_end": "2025-06-11",
+  "opening_balance": 4214.84,
+  "closing_balance": 6348.9,
+  "transactions": 11,
+  "sample_id": "bank_statement_0092"
+}

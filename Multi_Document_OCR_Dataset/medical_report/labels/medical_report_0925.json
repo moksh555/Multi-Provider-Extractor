@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-7IATMYSJ",
+  "patient_name": "Daniel Pierce",
+  "visit_date": "2025-07-19",
+  "doctor_name": "Dr. Julie Kelley",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0925"
+}

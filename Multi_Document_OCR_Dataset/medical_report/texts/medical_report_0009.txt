@@ -1,0 +1,14 @@
+Medical Report MED-J0MMFIWT
+Patient: Anita Sanchez
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-J0MMFIWT",
+  "patient_name": "Anita Sanchez",
+  "visit_date": "2026-09-08",
+  "doctor_name": "Dr. Daniel Anderson Jr.",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0009"
+}

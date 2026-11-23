@@ -1,0 +1,14 @@
+Medical Report MED-06XE3N52
+Patient: Ashley Sanders
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-06XE3N52",
+  "patient_name": "Ashley Sanders",
+  "visit_date": "2025-05-18",
+  "doctor_name": "Dr. Jennifer Eaton",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0315"
+}

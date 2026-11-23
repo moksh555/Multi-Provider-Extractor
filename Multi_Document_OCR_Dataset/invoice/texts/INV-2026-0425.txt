@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0425
+Company: Nexus Digital Solutions
+Company Address: 112 Uttara Sector 7, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 38 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-01-21
+Due Date: 2026-03-07
+Currency: AED
+Subtotal: 8481.96
+Tax: 1272.29
+Total: 9804.25
+Balance Due: 9804.25
+Status: overdue

@@ -1,0 +1,55 @@
+Receipt RCT-2CQBYWLK
+Merchant: Wood-Sanchez
+Date: 2024-09-16
+Total: $750.70
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2CQBYWLK",
+  "merchant_name": "Wood-Sanchez",
+  "date": "2024-09-16",
+  "subtotal": 739.29,
+  "tax": 25.79,
+  "discount": 14.38,
+  "total": 750.7,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$51.74",
+      "line_total": "$206.96"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$69.23",
+      "line_total": "$138.46"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$74.04",
+      "line_total": "$148.08"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$75.42",
+      "line_total": "$226.26"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$1.97",
+      "line_total": "$3.94"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$15.59",
+      "line_total": "$15.59"
+    }
+  ],
+  "sample_id": "receipt_0780"
+}

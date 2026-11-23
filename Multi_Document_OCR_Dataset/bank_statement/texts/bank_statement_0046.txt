@@ -1,0 +1,16 @@
+Bank Statement STM-EL8PL6UZ
+Holder: Angelica Lopez
+Closing Balance: $5151.48
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EL8PL6UZ",
+  "account_holder": "Angelica Lopez",
+  "account_number_masked": "****6373",
+  "period_start": "2024-01-16",
+  "period_end": "2024-02-15",
+  "opening_balance": 4411.28,
+  "closing_balance": 5151.48,
+  "transactions": 9,
+  "sample_id": "bank_statement_0046"
+}

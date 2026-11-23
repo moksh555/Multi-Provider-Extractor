@@ -1,0 +1,16 @@
+Insurance Policy POL-SO1LQSRNK
+Holder: Jessica Wilson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SO1LQSRNK",
+  "policy_holder": "Jessica Wilson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-06-18",
+  "expiry_date": "2024-06-18",
+  "premium": 900.91,
+  "coverage_amount": 66704.08,
+  "beneficiary": "Dean Turner",
+  "sample_id": "insurance_document_0489"
+}

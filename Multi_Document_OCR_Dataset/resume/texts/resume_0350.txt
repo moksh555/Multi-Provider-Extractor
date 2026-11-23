@@ -1,0 +1,26 @@
+Resume
+Gary Zamora
+Software Engineer
+Skills: TensorFlow, Python, FastAPI, PyTorch, Docker, Pandas, SQL, NLP, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Gary Zamora",
+  "email": "ccastillo@example.org",
+  "phone": "958-440-8114x415",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "TensorFlow",
+    "Python",
+    "FastAPI",
+    "PyTorch",
+    "Docker",
+    "Pandas",
+    "SQL",
+    "NLP",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0350"
+}

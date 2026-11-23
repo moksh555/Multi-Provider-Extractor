@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Jodi Cook",
+  "email": "rossdonald@example.net",
+  "phone": "4348914105",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Streamlit",
+    "PyTorch",
+    "Python",
+    "Docker",
+    "TensorFlow",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0910"
+}

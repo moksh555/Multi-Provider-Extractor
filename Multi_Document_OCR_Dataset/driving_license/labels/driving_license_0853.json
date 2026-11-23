@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL527875907",
+  "full_name": "Penny Wyatt",
+  "date_of_birth": "1965-02-06",
+  "class": "A",
+  "issue_date": "2020-11-09",
+  "expiry_date": "2025-11-09",
+  "address": "PSC 6852, Box 8306, APO AE 43594",
+  "sample_id": "driving_license_0853"
+}

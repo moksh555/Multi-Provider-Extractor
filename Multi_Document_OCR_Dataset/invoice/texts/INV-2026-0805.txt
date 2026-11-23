@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0805
+Company: BrightStar Electronics
+Company Address: 177 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 181 Uttara Sector 7, Doha, Qatar
+Invoice Date: 2026-06-01
+Due Date: 2026-06-16
+Currency: AED
+Subtotal: 17661.35
+Tax: 1324.6
+Total: 18985.95
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,26 @@
+Resume
+Jennifer Melendez
+Data Analyst
+Skills: Deep Learning, Pandas, Docker, Streamlit, FastAPI, NLP, Machine Learning, LangChain, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Jennifer Melendez",
+  "email": "kingmichael@example.org",
+  "phone": "586-560-4747",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "Pandas",
+    "Docker",
+    "Streamlit",
+    "FastAPI",
+    "NLP",
+    "Machine Learning",
+    "LangChain",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0241"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0264
+Company: Atlas Engineering Ltd.
+Company Address: 137 Road 12, Banani, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 72 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-03-18
+Due Date: 2026-03-25
+Currency: USD
+Subtotal: 14825.85
+Tax: 2112.68
+Total: 16222.24
+Balance Due: 6047.02
+Status: partial

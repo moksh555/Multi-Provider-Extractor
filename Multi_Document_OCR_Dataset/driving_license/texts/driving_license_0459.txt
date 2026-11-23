@@ -1,0 +1,16 @@
+Synthetic Driving License
+Bradley Wallace
+License: DL946960969
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL946960969",
+  "full_name": "Bradley Wallace",
+  "date_of_birth": "1998-09-26",
+  "class": "C",
+  "issue_date": "2026-11-05",
+  "expiry_date": "2031-11-05",
+  "address": "8956 Mcdonald Lodge, Lindamouth, KY 50619",
+  "sample_id": "driving_license_0459"
+}

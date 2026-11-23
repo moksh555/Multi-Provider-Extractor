@@ -1,0 +1,67 @@
+Receipt RCT-OO5VYFRR
+Merchant: Arroyo LLC
+Date: 2024-07-13
+Total: $415.16
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OO5VYFRR",
+  "merchant_name": "Arroyo LLC",
+  "date": "2024-07-13",
+  "subtotal": 381.18,
+  "tax": 44.19,
+  "discount": 10.21,
+  "total": 415.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$1.95",
+      "line_total": "$7.80"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$65.06",
+      "line_total": "$65.06"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$43.80",
+      "line_total": "$131.40"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$1.83",
+      "line_total": "$7.32"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$60.86",
+      "line_total": "$121.72"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$11.36",
+      "line_total": "$11.36"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$29.91",
+      "line_total": "$29.91"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$6.61",
+      "line_total": "$6.61"
+    }
+  ],
+  "sample_id": "receipt_0747"
+}

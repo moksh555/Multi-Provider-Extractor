@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0683",
+  "invoice_number": "INV-2026-0683",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "104 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "194 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-19",
+  "due_date": "2026-02-26",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 412.18,
+      "amount": 824.36
+    },
+    {
+      "description": "Web Development",
+      "quantity": 5,
+      "unit_price": 325.76,
+      "amount": 1628.8
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 602.47,
+      "amount": 7229.64
+    }
+  ],
+  "subtotal": 9682.8,
+  "discount": 484.14,
+  "tax_rate": 0.075,
+  "tax": 689.9,
+  "shipping": 0,
+  "total": 9888.56,
+  "amount_paid": 0,
+  "balance_due": 9888.56,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801873971515",
+  "po_number": "PO-39545"
+}

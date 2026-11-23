@@ -1,0 +1,49 @@
+Receipt RCT-NYMSORQE
+Merchant: Moore-Bryant
+Date: 2023-05-29
+Total: $512.37
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NYMSORQE",
+  "merchant_name": "Moore-Bryant",
+  "date": "2023-05-29",
+  "subtotal": 493.05,
+  "tax": 28.54,
+  "discount": 9.22,
+  "total": 512.37,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$19.21",
+      "line_total": "$38.42"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$60.51",
+      "line_total": "$60.51"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$22.50",
+      "line_total": "$22.50"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$72.95",
+      "line_total": "$291.80"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$39.91",
+      "line_total": "$79.82"
+    }
+  ],
+  "sample_id": "receipt_0905"
+}

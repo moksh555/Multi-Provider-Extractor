@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2E84L9YI",
+  "merchant_name": "Alvarado-Hodge",
+  "date": "2024-08-18",
+  "subtotal": 1045.38,
+  "tax": 111.35,
+  "discount": 2.12,
+  "total": 1154.61,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$59.82",
+      "line_total": "$239.28"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$41.62",
+      "line_total": "$124.86"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$61.09",
+      "line_total": "$244.36"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$46.26",
+      "line_total": "$138.78"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$54.02",
+      "line_total": "$54.02"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$41.46",
+      "line_total": "$124.38"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$57.89",
+      "line_total": "$57.89"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$61.81",
+      "line_total": "$61.81"
+    }
+  ],
+  "sample_id": "receipt_0871"
+}

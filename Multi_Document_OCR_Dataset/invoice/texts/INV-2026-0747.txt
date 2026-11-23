@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0747
+Company: CityBanking Supplies
+Company Address: 167 Zindabazar Road, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 8 Dhanmondi 27, Chattogram, Bangladesh
+Invoice Date: 2026-01-27
+Due Date: 2026-03-13
+Currency: USD
+Subtotal: 17729.52
+Tax: 842.15
+Total: 17685.19
+Balance Due: 17685.19
+Status: unpaid

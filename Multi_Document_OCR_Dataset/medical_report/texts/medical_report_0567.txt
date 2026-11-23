@@ -1,0 +1,14 @@
+Medical Report MED-NLFPH1KT
+Patient: Joseph Salinas
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-NLFPH1KT",
+  "patient_name": "Joseph Salinas",
+  "visit_date": "2025-08-07",
+  "doctor_name": "Dr. Mary Duran",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0567"
+}

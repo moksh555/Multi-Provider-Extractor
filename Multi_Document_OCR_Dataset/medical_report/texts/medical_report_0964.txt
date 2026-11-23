@@ -1,0 +1,14 @@
+Medical Report MED-CU8N3NAR
+Patient: Christopher Douglas
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-CU8N3NAR",
+  "patient_name": "Christopher Douglas",
+  "visit_date": "2024-10-13",
+  "doctor_name": "Dr. Christopher Jensen",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0964"
+}

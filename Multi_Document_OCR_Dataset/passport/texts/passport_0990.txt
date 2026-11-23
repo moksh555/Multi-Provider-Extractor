@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Terri Hawkins
+Passport No: P93538337
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P93538337",
+  "full_name": "Terri Hawkins",
+  "nationality": "US",
+  "date_of_birth": "1993-06-07",
+  "issue_date": "2024-06-22",
+  "expiry_date": "2034-06-22",
+  "place_of_birth": "Johnsonbury",
+  "sample_id": "passport_0990"
+}

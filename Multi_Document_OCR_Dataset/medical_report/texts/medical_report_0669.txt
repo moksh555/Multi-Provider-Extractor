@@ -1,0 +1,14 @@
+Medical Report MED-BAX7H8Z5
+Patient: Melissa Taylor
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BAX7H8Z5",
+  "patient_name": "Melissa Taylor",
+  "visit_date": "2024-07-13",
+  "doctor_name": "Dr. Kirk Livingston",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0669"
+}

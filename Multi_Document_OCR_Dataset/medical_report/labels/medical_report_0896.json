@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-R1H3IJWX",
+  "patient_name": "Michelle Edwards",
+  "visit_date": "2024-11-07",
+  "doctor_name": "Dr. Jesse Hinton",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0896"
+}

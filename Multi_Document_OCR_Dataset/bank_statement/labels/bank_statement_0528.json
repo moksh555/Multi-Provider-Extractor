@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PM5F505O",
+  "account_holder": "Bailey Morales",
+  "account_number_masked": "****2610",
+  "period_start": "2025-06-17",
+  "period_end": "2025-07-17",
+  "opening_balance": 3691.93,
+  "closing_balance": 4823.52,
+  "transactions": 12,
+  "sample_id": "bank_statement_0528"
+}

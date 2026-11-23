@@ -1,0 +1,16 @@
+Bank Statement STM-RRBSZUJB
+Holder: Paul Jones
+Closing Balance: $2538.98
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RRBSZUJB",
+  "account_holder": "Paul Jones",
+  "account_number_masked": "****5591",
+  "period_start": "2026-01-15",
+  "period_end": "2026-02-14",
+  "opening_balance": 1445.84,
+  "closing_balance": 2538.98,
+  "transactions": 10,
+  "sample_id": "bank_statement_0076"
+}

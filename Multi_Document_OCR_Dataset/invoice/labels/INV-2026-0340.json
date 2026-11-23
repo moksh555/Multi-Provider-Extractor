@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0340",
+  "invoice_number": "INV-2026-0340",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "69 Mirpur DOHS, Chattogram, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "129 Dhanmondi 27, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-10",
+  "due_date": "2026-05-25",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 9,
+      "unit_price": 65.22,
+      "amount": 586.98
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 38.32,
+      "amount": 383.2
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 421.81,
+      "amount": 4218.1
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 12,
+      "unit_price": 75.89,
+      "amount": 910.68
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 9,
+      "unit_price": 764.6,
+      "amount": 6881.4
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 187.16,
+      "amount": 1310.12
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 1,
+      "unit_price": 778.6,
+      "amount": 778.6
+    }
+  ],
+  "subtotal": 15069.08,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1506.91,
+  "shipping": 50,
+  "total": 16625.99,
+  "amount_paid": 9333.76,
+  "balance_due": 7292.23,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801551263321",
+  "po_number": "PO-20665"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Ashley Warner",
+  "email": "jasminesullivan@example.org",
+  "phone": "386-539-9454",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "Pandas",
+    "AWS",
+    "Deep Learning",
+    "Python",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0226"
+}

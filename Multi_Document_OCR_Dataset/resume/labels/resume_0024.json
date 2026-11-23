@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Heidi Brown",
+  "email": "kimberly44@example.net",
+  "phone": "8767634933",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "SQL",
+    "PyTorch",
+    "Pandas",
+    "LangChain",
+    "Streamlit",
+    "Deep Learning",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0024"
+}

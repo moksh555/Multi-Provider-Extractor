@@ -1,0 +1,16 @@
+Synthetic Driving License
+Terry Evans
+License: DL351267045
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL351267045",
+  "full_name": "Terry Evans",
+  "date_of_birth": "1997-04-20",
+  "class": "B",
+  "issue_date": "2020-09-12",
+  "expiry_date": "2025-09-12",
+  "address": "9909 Stacey Fords Apt. 412, East Andrea, GA 00851",
+  "sample_id": "driving_license_0041"
+}

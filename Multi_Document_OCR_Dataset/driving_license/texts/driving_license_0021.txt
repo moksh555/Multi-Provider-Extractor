@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andrew Ruiz
+License: DL800849550
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL800849550",
+  "full_name": "Andrew Ruiz",
+  "date_of_birth": "1967-05-10",
+  "class": "C",
+  "issue_date": "2024-09-13",
+  "expiry_date": "2029-09-13",
+  "address": "4330 Raymond Harbors Apt. 458, Frazierside, MA 04118",
+  "sample_id": "driving_license_0021"
+}

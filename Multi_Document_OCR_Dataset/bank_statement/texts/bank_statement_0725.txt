@@ -1,0 +1,16 @@
+Bank Statement STM-GO357BD0
+Holder: Adam Arnold
+Closing Balance: $6845.83
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GO357BD0",
+  "account_holder": "Adam Arnold",
+  "account_number_masked": "****0117",
+  "period_start": "2024-09-06",
+  "period_end": "2024-10-06",
+  "opening_balance": 4652.17,
+  "closing_balance": 6845.83,
+  "transactions": 14,
+  "sample_id": "bank_statement_0725"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-G0NJ32DK",
+  "patient_name": "Donald Wood",
+  "visit_date": "2025-07-13",
+  "doctor_name": "Dr. Zachary Lewis",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0086"
+}

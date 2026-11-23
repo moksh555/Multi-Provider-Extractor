@@ -1,0 +1,14 @@
+Medical Report MED-TYF8VHO8
+Patient: Tiffany Meyer
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TYF8VHO8",
+  "patient_name": "Tiffany Meyer",
+  "visit_date": "2026-01-03",
+  "doctor_name": "Dr. Lori Hudson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0718"
+}

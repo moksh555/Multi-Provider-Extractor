@@ -1,0 +1,16 @@
+Synthetic Driving License
+Robert Murray
+License: DL756411287
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL756411287",
+  "full_name": "Robert Murray",
+  "date_of_birth": "1970-01-10",
+  "class": "C",
+  "issue_date": "2021-11-23",
+  "expiry_date": "2026-11-23",
+  "address": "018 Benjamin Burg, Spencerville, NV 52751",
+  "sample_id": "driving_license_0961"
+}

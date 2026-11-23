@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-N7KCVOOK",
+  "patient_name": "Zachary Wright",
+  "visit_date": "2024-05-03",
+  "doctor_name": "Dr. Kathy Moon",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0723"
+}

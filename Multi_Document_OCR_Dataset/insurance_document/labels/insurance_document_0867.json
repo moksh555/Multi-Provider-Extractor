@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-UQED0GV81",
+  "policy_holder": "Jordan Mason",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-03-21",
+  "expiry_date": "2025-03-21",
+  "premium": 1638.31,
+  "coverage_amount": 235571.06,
+  "beneficiary": "Mr. Charles Young",
+  "sample_id": "insurance_document_0867"
+}

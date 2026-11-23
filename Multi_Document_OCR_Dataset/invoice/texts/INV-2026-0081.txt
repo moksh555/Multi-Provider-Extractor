@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0081
+Company: UrbanBuild Construction
+Company Address: 177 Uttara Sector 7, Doha, Qatar
+Customer: Future School
+Billing Address: 156 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-02-14
+Due Date: 2026-03-16
+Currency: SAR
+Subtotal: 19850.73
+Tax: 2679.85
+Total: 20595.51
+Balance Due: 20595.51
+Status: unpaid

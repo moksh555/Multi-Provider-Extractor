@@ -1,0 +1,16 @@
+Insurance Policy POL-VGOX22INI
+Holder: Vanessa Thomas DVM
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VGOX22INI",
+  "policy_holder": "Vanessa Thomas DVM",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-05-26",
+  "expiry_date": "2024-05-26",
+  "premium": 1377.32,
+  "coverage_amount": 489071.5,
+  "beneficiary": "Emily Grant",
+  "sample_id": "insurance_document_0209"
+}

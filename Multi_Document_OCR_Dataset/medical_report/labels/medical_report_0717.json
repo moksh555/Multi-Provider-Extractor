@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-7S3T6L8N",
+  "patient_name": "Nathaniel Norman",
+  "visit_date": "2026-06-28",
+  "doctor_name": "Dr. Courtney Mack",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0717"
+}

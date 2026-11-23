@@ -1,0 +1,67 @@
+Receipt RCT-ZU1EMTX0
+Merchant: Orozco, Hatfield and Thomas
+Date: 2023-05-10
+Total: $911.77
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZU1EMTX0",
+  "merchant_name": "Orozco, Hatfield and Thomas",
+  "date": "2023-05-10",
+  "subtotal": 881.68,
+  "tax": 32.56,
+  "discount": 2.47,
+  "total": 911.77,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$28.86",
+      "line_total": "$86.58"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$22.89",
+      "line_total": "$91.56"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$28.27",
+      "line_total": "$84.81"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$38.14",
+      "line_total": "$38.14"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$50.06",
+      "line_total": "$200.24"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$71.46",
+      "line_total": "$142.92"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$7.33",
+      "line_total": "$7.33"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$76.70",
+      "line_total": "$230.10"
+    }
+  ],
+  "sample_id": "receipt_0203"
+}

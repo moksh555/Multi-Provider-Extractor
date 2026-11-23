@@ -1,0 +1,14 @@
+Medical Report MED-7X719NY3
+Patient: Joseph Marshall
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7X719NY3",
+  "patient_name": "Joseph Marshall",
+  "visit_date": "2026-07-16",
+  "doctor_name": "Dr. Justin Hampton",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0769"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0933
+Company: Greenline Logistics
+Company Address: 134 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 16 Sheikh Zayed Road, Dhaka, Bangladesh
+Invoice Date: 2026-05-04
+Due Date: 2026-06-03
+Currency: AED
+Subtotal: 14883.98
+Tax: 1339.56
+Total: 14745.14
+Balance Due: 5497.64
+Status: partial

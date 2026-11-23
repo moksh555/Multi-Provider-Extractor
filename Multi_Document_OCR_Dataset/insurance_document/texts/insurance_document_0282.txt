@@ -1,0 +1,16 @@
+Insurance Policy POL-W6UXQM334
+Holder: Charles Roberts
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-W6UXQM334",
+  "policy_holder": "Charles Roberts",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-02-21",
+  "expiry_date": "2027-02-21",
+  "premium": 1946.45,
+  "coverage_amount": 303976.06,
+  "beneficiary": "Luke Solomon",
+  "sample_id": "insurance_document_0282"
+}

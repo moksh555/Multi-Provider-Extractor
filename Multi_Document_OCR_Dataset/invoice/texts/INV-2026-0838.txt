@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0838
+Company: SkyNet Office Mart
+Company Address: 149 Zindabazar Road, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 250 Road 12, Banani, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-02
+Due Date: 2026-02-17
+Currency: AED
+Subtotal: 12456.84
+Tax: 591.7
+Total: 12435.7
+Balance Due: 12435.7
+Status: overdue

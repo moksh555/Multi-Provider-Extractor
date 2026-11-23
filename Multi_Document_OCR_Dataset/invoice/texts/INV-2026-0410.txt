@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0410
+Company: Nova Medical Supplies
+Company Address: 48 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 193 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-04-04
+Due Date: 2026-05-19
+Currency: USD
+Subtotal: 7664.4
+Tax: 383.22
+Total: 8072.62
+Balance Due: 8072.62
+Status: unpaid

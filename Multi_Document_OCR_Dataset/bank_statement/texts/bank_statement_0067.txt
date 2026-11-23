@@ -1,0 +1,16 @@
+Bank Statement STM-HU9IVLX6
+Holder: Tommy Fleming
+Closing Balance: $13476.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HU9IVLX6",
+  "account_holder": "Tommy Fleming",
+  "account_number_masked": "****4861",
+  "period_start": "2025-05-14",
+  "period_end": "2025-06-13",
+  "opening_balance": 4543.35,
+  "closing_balance": 13476.88,
+  "transactions": 12,
+  "sample_id": "bank_statement_0067"
+}

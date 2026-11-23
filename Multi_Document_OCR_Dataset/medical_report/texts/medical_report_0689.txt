@@ -1,0 +1,14 @@
+Medical Report MED-Z7ERKCR2
+Patient: Mark Massey
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Z7ERKCR2",
+  "patient_name": "Mark Massey",
+  "visit_date": "2026-05-25",
+  "doctor_name": "Dr. Christopher Hall",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0689"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jamie Ford",
+  "email": "ecampbell@example.org",
+  "phone": "(894)497-2204x298",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Streamlit",
+    "PyTorch",
+    "Pandas",
+    "Docker",
+    "Machine Learning",
+    "TensorFlow",
+    "Python",
+    "Computer Vision",
+    "AWS",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0125"
+}

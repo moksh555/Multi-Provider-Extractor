@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CSK30LVYL",
+  "policy_holder": "Candace Mitchell",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-10-21",
+  "expiry_date": "2024-10-21",
+  "premium": 2465.96,
+  "coverage_amount": 265413.02,
+  "beneficiary": "Ryan Vaughn",
+  "sample_id": "insurance_document_0159"
+}

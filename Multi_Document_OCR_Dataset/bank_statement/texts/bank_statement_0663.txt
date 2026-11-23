@@ -1,0 +1,16 @@
+Bank Statement STM-12FZXOTC
+Holder: Michael Tyler
+Closing Balance: $1716.26
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-12FZXOTC",
+  "account_holder": "Michael Tyler",
+  "account_number_masked": "****4765",
+  "period_start": "2026-12-16",
+  "period_end": "2027-01-15",
+  "opening_balance": 1228.83,
+  "closing_balance": 1716.26,
+  "transactions": 11,
+  "sample_id": "bank_statement_0663"
+}

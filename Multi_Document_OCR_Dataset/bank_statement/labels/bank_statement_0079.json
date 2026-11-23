@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8S2GT30G",
+  "account_holder": "Valerie Mitchell",
+  "account_number_masked": "****7132",
+  "period_start": "2024-05-08",
+  "period_end": "2024-06-07",
+  "opening_balance": 1068.33,
+  "closing_balance": 1451.32,
+  "transactions": 12,
+  "sample_id": "bank_statement_0079"
+}

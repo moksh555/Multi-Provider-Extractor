@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0414",
+  "invoice_number": "INV-2026-0414",
+  "company_name": "Summit Agro Foods",
+  "company_address": "16 Zindabazar Road, Dhaka, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "228 Doha Business Park, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-07",
+  "due_date": "2026-01-22",
+  "currency": "SAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 3,
+      "unit_price": 411.58,
+      "amount": 1234.74
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 8,
+      "unit_price": 242.02,
+      "amount": 1936.16
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 529.56,
+      "amount": 5295.6
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 12,
+      "unit_price": 615.54,
+      "amount": 7386.48
+    }
+  ],
+  "subtotal": 15852.98,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1585.3,
+  "shipping": 0,
+  "total": 17438.28,
+  "amount_paid": 17438.28,
+  "balance_due": 0.0,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801454185913",
+  "po_number": "PO-91860"
+}

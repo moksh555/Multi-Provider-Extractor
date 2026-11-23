@@ -1,0 +1,16 @@
+Bank Statement STM-2XOG4C8J
+Holder: Amanda Mora
+Closing Balance: $2739.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2XOG4C8J",
+  "account_holder": "Amanda Mora",
+  "account_number_masked": "****7892",
+  "period_start": "2026-04-02",
+  "period_end": "2026-05-02",
+  "opening_balance": 1055.62,
+  "closing_balance": 2739.86,
+  "transactions": 13,
+  "sample_id": "bank_statement_0004"
+}

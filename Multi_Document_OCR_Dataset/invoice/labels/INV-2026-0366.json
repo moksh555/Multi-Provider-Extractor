@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0366",
+  "invoice_number": "INV-2026-0366",
+  "company_name": "Greenline Logistics",
+  "company_address": "26 Road 12, Banani, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "216 Zindabazar Road, Dubai, UAE",
+  "invoice_date": "2026-02-17",
+  "due_date": "2026-04-03",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 12,
+      "unit_price": 821.96,
+      "amount": 9863.52
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 11,
+      "unit_price": 273.05,
+      "amount": 3003.55
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 12,
+      "unit_price": 162.9,
+      "amount": 1954.8
+    }
+  ],
+  "subtotal": 14821.87,
+  "discount": 741.09,
+  "tax_rate": 0.075,
+  "tax": 1056.06,
+  "shipping": 0,
+  "total": 15136.84,
+  "amount_paid": 0,
+  "balance_due": 15136.84,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801449182699",
+  "po_number": "PO-74767"
+}

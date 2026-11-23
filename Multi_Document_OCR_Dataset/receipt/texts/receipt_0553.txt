@@ -1,0 +1,55 @@
+Receipt RCT-M2V31IQF
+Merchant: Brooks-Fleming
+Date: 2023-02-21
+Total: $601.10
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-M2V31IQF",
+  "merchant_name": "Brooks-Fleming",
+  "date": "2023-02-21",
+  "subtotal": 567.99,
+  "tax": 35.54,
+  "discount": 2.43,
+  "total": 601.1,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$43.63",
+      "line_total": "$130.89"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$61.24",
+      "line_total": "$183.72"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$67.86",
+      "line_total": "$135.72"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$71.16",
+      "line_total": "$71.16"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$12.13",
+      "line_total": "$12.13"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$34.37",
+      "line_total": "$34.37"
+    }
+  ],
+  "sample_id": "receipt_0553"
+}

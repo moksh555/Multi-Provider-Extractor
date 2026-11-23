@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J5D5E3H0Y",
+  "policy_holder": "Marcus Garza Jr.",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-07-19",
+  "expiry_date": "2027-07-19",
+  "premium": 1139.04,
+  "coverage_amount": 311914.09,
+  "beneficiary": "Mitchell Smith",
+  "sample_id": "insurance_document_0197"
+}

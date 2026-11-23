@@ -1,0 +1,23 @@
+Resume
+Ricky Rodriguez
+Computer Vision Engineer
+Skills: SQL, PyTorch, LangChain, Computer Vision, FastAPI, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Ricky Rodriguez",
+  "email": "shortdonald@example.com",
+  "phone": "8189058935",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "PyTorch",
+    "LangChain",
+    "Computer Vision",
+    "FastAPI",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0923"
+}

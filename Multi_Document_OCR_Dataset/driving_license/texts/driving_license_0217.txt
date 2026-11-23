@@ -1,0 +1,16 @@
+Synthetic Driving License
+Terri Mckinney
+License: DL843251878
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL843251878",
+  "full_name": "Terri Mckinney",
+  "date_of_birth": "1964-05-05",
+  "class": "A",
+  "issue_date": "2020-07-07",
+  "expiry_date": "2025-07-07",
+  "address": "0810 Thomas Skyway Apt. 342, Francesberg, MP 08631",
+  "sample_id": "driving_license_0217"
+}

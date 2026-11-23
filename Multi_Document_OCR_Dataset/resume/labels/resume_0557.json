@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Justin Davis",
+  "email": "stanleygregory@example.net",
+  "phone": "894.376.4612",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "Machine Learning",
+    "Pandas",
+    "AWS",
+    "TensorFlow",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0557"
+}

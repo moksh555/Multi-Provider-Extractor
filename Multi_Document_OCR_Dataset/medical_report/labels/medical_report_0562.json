@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-UBVMECJ6",
+  "patient_name": "Cameron Anderson",
+  "visit_date": "2024-06-10",
+  "doctor_name": "Dr. Robert Jones",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0562"
+}

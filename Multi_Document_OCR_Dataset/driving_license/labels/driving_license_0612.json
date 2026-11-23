@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL825889697",
+  "full_name": "Jessica Simmons",
+  "date_of_birth": "1984-06-29",
+  "class": "C",
+  "issue_date": "2022-10-04",
+  "expiry_date": "2027-10-04",
+  "address": "95535 Hull Freeway Apt. 190, South Julie, FM 70784",
+  "sample_id": "driving_license_0612"
+}

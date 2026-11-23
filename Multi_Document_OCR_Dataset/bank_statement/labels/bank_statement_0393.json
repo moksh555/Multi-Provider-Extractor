@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6VVWNH83",
+  "account_holder": "Vicki Garcia MD",
+  "account_number_masked": "****7186",
+  "period_start": "2024-12-04",
+  "period_end": "2025-01-03",
+  "opening_balance": 4596.15,
+  "closing_balance": 5606.27,
+  "transactions": 10,
+  "sample_id": "bank_statement_0393"
+}

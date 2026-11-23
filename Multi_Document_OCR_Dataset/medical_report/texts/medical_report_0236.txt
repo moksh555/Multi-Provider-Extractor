@@ -1,0 +1,14 @@
+Medical Report MED-9L660NFF
+Patient: James Alvarado
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-9L660NFF",
+  "patient_name": "James Alvarado",
+  "visit_date": "2026-10-05",
+  "doctor_name": "Dr. Stephanie Gregory",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0236"
+}

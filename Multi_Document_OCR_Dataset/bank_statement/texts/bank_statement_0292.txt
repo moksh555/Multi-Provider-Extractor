@@ -1,0 +1,16 @@
+Bank Statement STM-MHP9NYMS
+Holder: Jeffrey Butler
+Closing Balance: $4100.71
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MHP9NYMS",
+  "account_holder": "Jeffrey Butler",
+  "account_number_masked": "****7546",
+  "period_start": "2026-04-14",
+  "period_end": "2026-05-14",
+  "opening_balance": 704.64,
+  "closing_balance": 4100.71,
+  "transactions": 8,
+  "sample_id": "bank_statement_0292"
+}

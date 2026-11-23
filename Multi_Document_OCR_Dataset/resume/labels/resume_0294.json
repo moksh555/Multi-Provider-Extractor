@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Christopher Riley",
+  "email": "srose@example.com",
+  "phone": "790.698.6361x5276",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "NLP",
+    "FastAPI",
+    "Docker",
+    "Python",
+    "TensorFlow",
+    "Streamlit",
+    "PyTorch",
+    "Pandas",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0294"
+}

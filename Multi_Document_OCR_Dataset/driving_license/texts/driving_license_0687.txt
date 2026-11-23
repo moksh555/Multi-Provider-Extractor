@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nathan Allen
+License: DL945219619
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL945219619",
+  "full_name": "Nathan Allen",
+  "date_of_birth": "1962-08-15",
+  "class": "C",
+  "issue_date": "2021-10-18",
+  "expiry_date": "2026-10-18",
+  "address": "2410 Becky Mount, Lake Carrie, IA 23684",
+  "sample_id": "driving_license_0687"
+}

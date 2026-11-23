@@ -1,0 +1,14 @@
+Medical Report MED-6E99744B
+Patient: Maria Erickson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6E99744B",
+  "patient_name": "Maria Erickson",
+  "visit_date": "2025-04-04",
+  "doctor_name": "Dr. Christopher Walton",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0661"
+}

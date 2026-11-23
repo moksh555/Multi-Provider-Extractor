@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0869",
+  "invoice_number": "INV-2026-0869",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "188 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "211 Agrabad C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-01-13",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 305.77,
+      "amount": 2140.39
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 9,
+      "unit_price": 280.29,
+      "amount": 2522.61
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 277.26,
+      "amount": 2218.08
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 251.8,
+      "amount": 3021.6
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 10,
+      "unit_price": 338.65,
+      "amount": 3386.5
+    },
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 240.8,
+      "amount": 481.6
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 10,
+      "unit_price": 393.18,
+      "amount": 3931.8
+    }
+  ],
+  "subtotal": 17702.58,
+  "discount": 354.05,
+  "tax_rate": 0.15,
+  "tax": 2602.28,
+  "shipping": 5,
+  "total": 19955.81,
+  "amount_paid": 19955.81,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801492045564",
+  "po_number": "PO-96399"
+}

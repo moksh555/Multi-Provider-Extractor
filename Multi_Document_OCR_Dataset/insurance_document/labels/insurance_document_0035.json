@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Y6452H2ZQ",
+  "policy_holder": "Lisa Jimenez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-05-25",
+  "expiry_date": "2025-05-25",
+  "premium": 2303.58,
+  "coverage_amount": 69465.71,
+  "beneficiary": "Anthony Adams",
+  "sample_id": "insurance_document_0035"
+}

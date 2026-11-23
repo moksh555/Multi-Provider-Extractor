@@ -1,0 +1,14 @@
+Medical Report MED-W36COENW
+Patient: Nicholas Hart
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-W36COENW",
+  "patient_name": "Nicholas Hart",
+  "visit_date": "2025-03-30",
+  "doctor_name": "Dr. Lisa Thompson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0351"
+}

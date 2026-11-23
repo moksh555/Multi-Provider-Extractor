@@ -1,0 +1,16 @@
+Insurance Policy POL-PMVXPJ4HN
+Holder: Brittany Hopkins
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PMVXPJ4HN",
+  "policy_holder": "Brittany Hopkins",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-08-07",
+  "expiry_date": "2024-08-07",
+  "premium": 684.55,
+  "coverage_amount": 290242.12,
+  "beneficiary": "Lisa Kirby",
+  "sample_id": "insurance_document_0072"
+}

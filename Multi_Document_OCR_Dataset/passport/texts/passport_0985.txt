@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Anderson
+Passport No: P07953875
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P07953875",
+  "full_name": "Michael Anderson",
+  "nationality": "GB",
+  "date_of_birth": "1979-09-12",
+  "issue_date": "2025-04-05",
+  "expiry_date": "2035-04-05",
+  "place_of_birth": "Careymouth",
+  "sample_id": "passport_0985"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-5S88OKR7
+Merchant: Drake, Allen and Gilbert
+Date: 2025-12-20
+Total: $156.11
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5S88OKR7",
+  "merchant_name": "Drake, Allen and Gilbert",
+  "date": "2025-12-20",
+  "subtotal": 143.47,
+  "tax": 14.58,
+  "discount": 1.94,
+  "total": 156.11,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$5.14",
+      "line_total": "$15.42"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$27.47",
+      "line_total": "$27.47"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$50.29",
+      "line_total": "$100.58"
+    }
+  ],
+  "sample_id": "receipt_0753"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0913
+Company: Greenline Logistics
+Company Address: 172 Doha Business Park, Chattogram, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 171 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-06-18
+Due Date: 2026-07-03
+Currency: BDT
+Subtotal: 10286.4
+Tax: 771.48
+Total: 11082.88
+Balance Due: 6693.45
+Status: partial

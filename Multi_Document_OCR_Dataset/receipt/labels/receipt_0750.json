@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9Y42DJ43",
+  "merchant_name": "George PLC",
+  "date": "2022-02-15",
+  "subtotal": 580.73,
+  "tax": 57.31,
+  "discount": 12.23,
+  "total": 625.81,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$3.02",
+      "line_total": "$6.04"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$39.62",
+      "line_total": "$158.48"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$68.17",
+      "line_total": "$136.34"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$17.80",
+      "line_total": "$71.20"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$45.68",
+      "line_total": "$91.36"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$21.47",
+      "line_total": "$64.41"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$26.45",
+      "line_total": "$52.90"
+    }
+  ],
+  "sample_id": "receipt_0750"
+}

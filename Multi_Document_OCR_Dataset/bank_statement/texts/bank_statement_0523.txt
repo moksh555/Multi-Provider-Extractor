@@ -1,0 +1,16 @@
+Bank Statement STM-7NVLIPMZ
+Holder: Charles Wright
+Closing Balance: $8494.30
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7NVLIPMZ",
+  "account_holder": "Charles Wright",
+  "account_number_masked": "****0856",
+  "period_start": "2026-11-02",
+  "period_end": "2026-12-02",
+  "opening_balance": 4754.45,
+  "closing_balance": 8494.3,
+  "transactions": 13,
+  "sample_id": "bank_statement_0523"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Nicholas Williams
+Passport No: P64358826
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P64358826",
+  "full_name": "Nicholas Williams",
+  "nationality": "CA",
+  "date_of_birth": "2004-01-22",
+  "issue_date": "2023-08-04",
+  "expiry_date": "2033-08-04",
+  "place_of_birth": "Lawrencehaven",
+  "sample_id": "passport_0357"
+}

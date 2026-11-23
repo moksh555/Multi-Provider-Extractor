@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0426
+Company: BlueRiver Trading Co.
+Company Address: 41 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 185 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-16
+Due Date: 2026-02-23
+Currency: SAR
+Subtotal: 23385.63
+Tax: 1110.82
+Total: 23332.17
+Balance Due: 13154.81
+Status: partial

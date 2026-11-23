@@ -1,0 +1,14 @@
+Medical Report MED-BP7FCZ7S
+Patient: Ms. Jamie Fox
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BP7FCZ7S",
+  "patient_name": "Ms. Jamie Fox",
+  "visit_date": "2025-02-26",
+  "doctor_name": "Dr. Colleen Parker MD",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0886"
+}

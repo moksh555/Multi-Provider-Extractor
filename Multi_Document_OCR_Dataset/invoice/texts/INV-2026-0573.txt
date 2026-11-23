@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0573
+Company: Nexus Digital Solutions
+Company Address: 113 Mirpur DOHS, Doha, Qatar
+Customer: Future School
+Billing Address: 55 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-24
+Due Date: 2026-07-01
+Currency: AED
+Subtotal: 18920.67
+Tax: 2838.1
+Total: 21758.77
+Balance Due: 0.0
+Status: paid

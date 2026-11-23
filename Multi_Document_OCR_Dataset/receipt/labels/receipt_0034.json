@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GC5WI6FQ",
+  "merchant_name": "Garcia-Yu",
+  "date": "2023-11-07",
+  "subtotal": 697.11,
+  "tax": 74.45,
+  "discount": 1.6,
+  "total": 769.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$72.01",
+      "line_total": "$72.01"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$54.53",
+      "line_total": "$163.59"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$35.90",
+      "line_total": "$35.90"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$51.48",
+      "line_total": "$154.44"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$37.09",
+      "line_total": "$111.27"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$79.95",
+      "line_total": "$159.90"
+    }
+  ],
+  "sample_id": "receipt_0034"
+}

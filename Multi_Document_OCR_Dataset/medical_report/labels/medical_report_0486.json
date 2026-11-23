@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-AHNBGSLC",
+  "patient_name": "David Howard",
+  "visit_date": "2025-07-27",
+  "doctor_name": "Dr. Nicolas Wells",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0486"
+}

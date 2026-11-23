@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4OFDTRC8",
+  "merchant_name": "Cohen, Mitchell and Paul",
+  "date": "2023-04-26",
+  "subtotal": 334.99,
+  "tax": 39.93,
+  "discount": 6.69,
+  "total": 368.23,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$35.14",
+      "line_total": "$105.42"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$48.69",
+      "line_total": "$97.38"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$40.70",
+      "line_total": "$81.40"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$16.93",
+      "line_total": "$50.79"
+    }
+  ],
+  "sample_id": "receipt_0266"
+}

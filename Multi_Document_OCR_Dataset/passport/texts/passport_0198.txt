@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Todd Terry
+Passport No: P09677867
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P09677867",
+  "full_name": "Todd Terry",
+  "nationality": "CA",
+  "date_of_birth": "1970-11-25",
+  "issue_date": "2026-08-05",
+  "expiry_date": "2036-08-05",
+  "place_of_birth": "East Matthew",
+  "sample_id": "passport_0198"
+}

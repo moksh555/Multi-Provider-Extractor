@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brent Hartman
+Passport No: P21823831
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P21823831",
+  "full_name": "Brent Hartman",
+  "nationality": "AE",
+  "date_of_birth": "1992-12-05",
+  "issue_date": "2024-02-14",
+  "expiry_date": "2034-02-14",
+  "place_of_birth": "Cindyport",
+  "sample_id": "passport_0735"
+}

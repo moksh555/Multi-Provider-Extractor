@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6IMG7ZD3",
+  "merchant_name": "Kennedy, Bailey and Myers",
+  "date": "2026-04-11",
+  "subtotal": 239.05,
+  "tax": 20.37,
+  "discount": 5.83,
+  "total": 253.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$59.29",
+      "line_total": "$118.58"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$1.42",
+      "line_total": "$5.68"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$39.92",
+      "line_total": "$79.84"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$34.95",
+      "line_total": "$34.95"
+    }
+  ],
+  "sample_id": "receipt_0499"
+}

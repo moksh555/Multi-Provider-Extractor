@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL608464335",
+  "full_name": "Thomas Kelly",
+  "date_of_birth": "1983-02-13",
+  "class": "A",
+  "issue_date": "2023-11-10",
+  "expiry_date": "2028-11-10",
+  "address": "321 Amy Well, Margaretport, KY 90343",
+  "sample_id": "driving_license_0363"
+}

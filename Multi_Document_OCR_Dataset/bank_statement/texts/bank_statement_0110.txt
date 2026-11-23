@@ -1,0 +1,16 @@
+Bank Statement STM-R7AAU76T
+Holder: Stephen Cline
+Closing Balance: $4206.17
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-R7AAU76T",
+  "account_holder": "Stephen Cline",
+  "account_number_masked": "****0304",
+  "period_start": "2024-05-30",
+  "period_end": "2024-06-29",
+  "opening_balance": 2960.31,
+  "closing_balance": 4206.17,
+  "transactions": 13,
+  "sample_id": "bank_statement_0110"
+}

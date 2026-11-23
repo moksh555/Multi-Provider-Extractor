@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sonya Davis
+License: DL768878448
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL768878448",
+  "full_name": "Sonya Davis",
+  "date_of_birth": "1999-07-15",
+  "class": "A",
+  "issue_date": "2020-07-07",
+  "expiry_date": "2025-07-07",
+  "address": "111 Walters Corner, Acostahaven, RI 21459",
+  "sample_id": "driving_license_0295"
+}

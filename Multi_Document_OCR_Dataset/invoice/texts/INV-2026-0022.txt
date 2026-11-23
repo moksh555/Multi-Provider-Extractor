@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0022
+Company: Nova Medical Supplies
+Company Address: 115 Road 12, Banani, Sylhet, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 191 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-08
+Due Date: 2026-05-23
+Currency: BDT
+Subtotal: 23556.44
+Tax: 0.0
+Total: 23566.44
+Balance Due: 23566.44
+Status: overdue

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HY2DXM4E",
+  "account_holder": "Peter Fowler",
+  "account_number_masked": "****2701",
+  "period_start": "2026-11-23",
+  "period_end": "2026-12-23",
+  "opening_balance": 1662.93,
+  "closing_balance": 6161.97,
+  "transactions": 10,
+  "sample_id": "bank_statement_0962"
+}

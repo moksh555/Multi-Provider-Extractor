@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PP1VM3I0",
+  "account_holder": "Eric Carrillo",
+  "account_number_masked": "****9738",
+  "period_start": "2024-12-21",
+  "period_end": "2025-01-20",
+  "opening_balance": 1750.97,
+  "closing_balance": 4571.97,
+  "transactions": 10,
+  "sample_id": "bank_statement_0131"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-EMPXKC5I8
+Holder: Wesley Williams
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-EMPXKC5I8",
+  "policy_holder": "Wesley Williams",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-04-23",
+  "expiry_date": "2026-04-23",
+  "premium": 1497.32,
+  "coverage_amount": 331322.65,
+  "beneficiary": "Christopher Pratt",
+  "sample_id": "insurance_document_0466"
+}

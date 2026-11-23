@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0498
+Company: Delta Insurance Services
+Company Address: 106 Agrabad C/A, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 125 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-04-02
+Due Date: 2026-05-02
+Currency: USD
+Subtotal: 14033.35
+Tax: 1375.27
+Total: 15127.95
+Balance Due: 0.0
+Status: paid

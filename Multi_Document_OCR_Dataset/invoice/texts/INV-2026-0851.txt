@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0851
+Company: Atlas Engineering Ltd.
+Company Address: 128 Dhanmondi 27, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 21 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-01-06
+Due Date: 2026-01-21
+Currency: AED
+Subtotal: 6006.64
+Tax: 588.65
+Total: 6480.16
+Balance Due: 6480.16
+Status: unpaid

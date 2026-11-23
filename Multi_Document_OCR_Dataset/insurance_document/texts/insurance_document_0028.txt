@@ -1,0 +1,16 @@
+Insurance Policy POL-M35IXOKC1
+Holder: Elizabeth Perkins
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M35IXOKC1",
+  "policy_holder": "Elizabeth Perkins",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-08-06",
+  "expiry_date": "2027-08-06",
+  "premium": 1332.39,
+  "coverage_amount": 342963.88,
+  "beneficiary": "Joseph Coleman",
+  "sample_id": "insurance_document_0028"
+}

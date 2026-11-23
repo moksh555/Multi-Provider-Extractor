@@ -1,0 +1,24 @@
+Resume
+Teresa Moreno
+Backend Developer
+Skills: NLP, Docker, PyTorch, Deep Learning, Machine Learning, Python, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Teresa Moreno",
+  "email": "nedwards@example.org",
+  "phone": "+1-604-453-3430",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "Docker",
+    "PyTorch",
+    "Deep Learning",
+    "Machine Learning",
+    "Python",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0711"
+}

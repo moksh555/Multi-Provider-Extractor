@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL048379370",
+  "full_name": "Christopher Powell",
+  "date_of_birth": "1984-07-09",
+  "class": "D",
+  "issue_date": "2025-01-19",
+  "expiry_date": "2030-01-19",
+  "address": "65307 Prince Brooks Suite 444, Garrisonville, VI 30379",
+  "sample_id": "driving_license_0188"
+}

@@ -1,0 +1,23 @@
+Resume
+Brian Perry
+Backend Developer
+Skills: Machine Learning, LangChain, NLP, Python, AWS, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Brian Perry",
+  "email": "wardbrandy@example.net",
+  "phone": "667-838-6569x0448",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "Machine Learning",
+    "LangChain",
+    "NLP",
+    "Python",
+    "AWS",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0339"
+}

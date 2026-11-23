@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL138735175",
+  "full_name": "Gregory Moreno",
+  "date_of_birth": "2003-05-11",
+  "class": "D",
+  "issue_date": "2025-07-19",
+  "expiry_date": "2030-07-19",
+  "address": "USNV Pittman, FPO AA 88053",
+  "sample_id": "driving_license_0637"
+}

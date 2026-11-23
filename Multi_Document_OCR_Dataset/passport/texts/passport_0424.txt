@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Daniel Wise
+Passport No: P51265208
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P51265208",
+  "full_name": "Daniel Wise",
+  "nationality": "GB",
+  "date_of_birth": "1995-12-05",
+  "issue_date": "2023-06-29",
+  "expiry_date": "2033-06-29",
+  "place_of_birth": "South Vincentborough",
+  "sample_id": "passport_0424"
+}

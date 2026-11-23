@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QJ4U4FGG",
+  "merchant_name": "Martinez-Mendez",
+  "date": "2025-08-25",
+  "subtotal": 492.74,
+  "tax": 26.2,
+  "discount": 9.07,
+  "total": 509.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$55.02",
+      "line_total": "$165.06"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$64.31",
+      "line_total": "$128.62"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$41.08",
+      "line_total": "$164.32"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$25.42",
+      "line_total": "$25.42"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$4.66",
+      "line_total": "$9.32"
+    }
+  ],
+  "sample_id": "receipt_0961"
+}

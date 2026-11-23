@@ -1,0 +1,25 @@
+Resume
+Laura Cobb
+Machine Learning Engineer
+Skills: TensorFlow, Computer Vision, AWS, PyTorch, FastAPI, Streamlit, Docker, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Laura Cobb",
+  "email": "jay71@example.com",
+  "phone": "(373)910-5208x983",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "AWS",
+    "PyTorch",
+    "FastAPI",
+    "Streamlit",
+    "Docker",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0452"
+}

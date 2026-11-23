@@ -1,0 +1,16 @@
+Bank Statement STM-1NPXI9BF
+Holder: Nicole Martinez
+Closing Balance: $4608.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1NPXI9BF",
+  "account_holder": "Nicole Martinez",
+  "account_number_masked": "****7471",
+  "period_start": "2025-02-07",
+  "period_end": "2025-03-09",
+  "opening_balance": 2240.86,
+  "closing_balance": 4608.88,
+  "transactions": 14,
+  "sample_id": "bank_statement_0511"
+}

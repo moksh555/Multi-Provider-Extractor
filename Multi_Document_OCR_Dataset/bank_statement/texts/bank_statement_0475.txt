@@ -1,0 +1,16 @@
+Bank Statement STM-CUYF84TY
+Holder: Natalie Cline
+Closing Balance: $5984.93
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CUYF84TY",
+  "account_holder": "Natalie Cline",
+  "account_number_masked": "****1778",
+  "period_start": "2026-05-29",
+  "period_end": "2026-06-28",
+  "opening_balance": 4356.26,
+  "closing_balance": 5984.93,
+  "transactions": 13,
+  "sample_id": "bank_statement_0475"
+}

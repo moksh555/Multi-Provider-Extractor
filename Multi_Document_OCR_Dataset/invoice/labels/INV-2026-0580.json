@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0580",
+  "invoice_number": "INV-2026-0580",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "29 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "25 Motijheel C/A, Doha, Qatar",
+  "invoice_date": "2026-05-22",
+  "due_date": "2026-05-29",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 596.6,
+      "amount": 4176.2
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 12,
+      "unit_price": 505.45,
+      "amount": 6065.4
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 592.34,
+      "amount": 2369.36
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 5,
+      "unit_price": 29.75,
+      "amount": 148.75
+    }
+  ],
+  "subtotal": 12759.71,
+  "discount": 255.19,
+  "tax_rate": 0.05,
+  "tax": 625.23,
+  "shipping": 0,
+  "total": 13129.75,
+  "amount_paid": 13129.75,
+  "balance_due": 0.0,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801885262298",
+  "po_number": "PO-48390"
+}

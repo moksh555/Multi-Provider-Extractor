@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ariel Johnson
+Passport No: P82842741
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P82842741",
+  "full_name": "Ariel Johnson",
+  "nationality": "CA",
+  "date_of_birth": "1999-08-01",
+  "issue_date": "2020-06-25",
+  "expiry_date": "2030-06-25",
+  "place_of_birth": "Port Daniel",
+  "sample_id": "passport_0359"
+}

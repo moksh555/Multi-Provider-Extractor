@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-V0FJPSNN",
+  "patient_name": "David Berry",
+  "visit_date": "2026-06-22",
+  "doctor_name": "Dr. Michelle Martinez",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0592"
+}

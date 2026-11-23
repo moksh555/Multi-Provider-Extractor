@@ -1,0 +1,26 @@
+Resume
+Elizabeth Cunningham
+Data Analyst
+Skills: LangChain, PyTorch, TensorFlow, Python, Pandas, AWS, Computer Vision, Machine Learning, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Elizabeth Cunningham",
+  "email": "teresa23@example.com",
+  "phone": "734-804-6682x121",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "LangChain",
+    "PyTorch",
+    "TensorFlow",
+    "Python",
+    "Pandas",
+    "AWS",
+    "Computer Vision",
+    "Machine Learning",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0088"
+}

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0517",
+  "invoice_number": "INV-2026-0517",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "109 Mirpur DOHS, Sylhet, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "176 Doha Business Park, Doha, Qatar",
+  "invoice_date": "2026-01-14",
+  "due_date": "2026-02-13",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 537.35,
+      "amount": 537.35
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 4,
+      "unit_price": 814.81,
+      "amount": 3259.24
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 292.34,
+      "amount": 1169.36
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 12,
+      "unit_price": 108.52,
+      "amount": 1302.24
+    }
+  ],
+  "subtotal": 6268.19,
+  "discount": 626.82,
+  "tax_rate": 0.1,
+  "tax": 564.14,
+  "shipping": 10,
+  "total": 6215.51,
+  "amount_paid": 4421.17,
+  "balance_due": 1794.34,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801584747502",
+  "po_number": "PO-14455"
+}

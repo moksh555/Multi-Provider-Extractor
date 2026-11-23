@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RRZ4AS5L",
+  "patient_name": "Tracy Cooper",
+  "visit_date": "2025-03-10",
+  "doctor_name": "Dr. Elizabeth Freeman",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0537"
+}

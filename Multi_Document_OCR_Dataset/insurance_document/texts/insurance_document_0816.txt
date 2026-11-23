@@ -1,0 +1,16 @@
+Insurance Policy POL-MZVMCPSIL
+Holder: Erika Pace
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MZVMCPSIL",
+  "policy_holder": "Erika Pace",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-10-26",
+  "expiry_date": "2027-10-26",
+  "premium": 1110.01,
+  "coverage_amount": 324524.64,
+  "beneficiary": "Melody Sullivan",
+  "sample_id": "insurance_document_0816"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0958
+Company: SkyNet Office Mart
+Company Address: 175 Sheikh Zayed Road, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 154 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-01-01
+Due Date: 2026-02-15
+Currency: SAR
+Subtotal: 1976.18
+Tax: 88.93
+Total: 1872.49
+Balance Due: 0.0
+Status: paid

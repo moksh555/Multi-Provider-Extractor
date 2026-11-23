@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL027833384",
+  "full_name": "Nathaniel Lee",
+  "date_of_birth": "1963-04-14",
+  "class": "C",
+  "issue_date": "2022-02-21",
+  "expiry_date": "2027-02-21",
+  "address": "39837 Molly Isle, Susantown, IL 25407",
+  "sample_id": "driving_license_0125"
+}

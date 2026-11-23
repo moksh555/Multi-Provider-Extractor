@@ -1,0 +1,16 @@
+Bank Statement STM-8W5GWMRY
+Holder: Clayton May
+Closing Balance: $5041.04
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8W5GWMRY",
+  "account_holder": "Clayton May",
+  "account_number_masked": "****2749",
+  "period_start": "2024-02-02",
+  "period_end": "2024-03-03",
+  "opening_balance": 1235.34,
+  "closing_balance": 5041.04,
+  "transactions": 10,
+  "sample_id": "bank_statement_0460"
+}

@@ -1,0 +1,27 @@
+Resume
+Michael Rivera
+Computer Vision Engineer
+Skills: Streamlit, PyTorch, Docker, Python, AWS, SQL, FastAPI, Deep Learning, Pandas, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Rivera",
+  "email": "grayalicia@example.org",
+  "phone": "207-230-7177x6135",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "PyTorch",
+    "Docker",
+    "Python",
+    "AWS",
+    "SQL",
+    "FastAPI",
+    "Deep Learning",
+    "Pandas",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0318"
+}

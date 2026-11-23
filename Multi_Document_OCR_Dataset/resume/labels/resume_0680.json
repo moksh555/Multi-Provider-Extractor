@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Christopher Baker",
+  "email": "tracywilliams@example.net",
+  "phone": "+1-691-590-5665x1413",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Deep Learning",
+    "LangChain",
+    "TensorFlow",
+    "SQL",
+    "Computer Vision",
+    "Machine Learning",
+    "PyTorch",
+    "FastAPI",
+    "AWS",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0680"
+}

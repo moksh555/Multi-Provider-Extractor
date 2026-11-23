@@ -1,0 +1,16 @@
+Insurance Policy POL-BBSXPK48A
+Holder: Mitchell Rosario
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BBSXPK48A",
+  "policy_holder": "Mitchell Rosario",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-02-23",
+  "expiry_date": "2024-02-23",
+  "premium": 1961.2,
+  "coverage_amount": 407567.95,
+  "beneficiary": "Brandi Williams",
+  "sample_id": "insurance_document_0801"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-VFWBZY7L
+Holder: Brian Fernandez
+Closing Balance: $8987.73
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VFWBZY7L",
+  "account_holder": "Brian Fernandez",
+  "account_number_masked": "****6186",
+  "period_start": "2026-03-18",
+  "period_end": "2026-04-17",
+  "opening_balance": 4539.96,
+  "closing_balance": 8987.73,
+  "transactions": 12,
+  "sample_id": "bank_statement_0451"
+}

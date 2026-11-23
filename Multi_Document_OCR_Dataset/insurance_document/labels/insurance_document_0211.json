@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-H78OKZ1PO",
+  "policy_holder": "Frederick Ellis II",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-01-06",
+  "expiry_date": "2027-01-06",
+  "premium": 1586.19,
+  "coverage_amount": 145959.19,
+  "beneficiary": "Andrew Moss",
+  "sample_id": "insurance_document_0211"
+}

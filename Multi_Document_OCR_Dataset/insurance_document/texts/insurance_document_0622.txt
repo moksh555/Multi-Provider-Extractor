@@ -1,0 +1,16 @@
+Insurance Policy POL-7EHMGOLOQ
+Holder: Gail Mason
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7EHMGOLOQ",
+  "policy_holder": "Gail Mason",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-09-09",
+  "expiry_date": "2027-09-09",
+  "premium": 2059.9,
+  "coverage_amount": 328473.05,
+  "beneficiary": "Kimberly Dixon",
+  "sample_id": "insurance_document_0622"
+}

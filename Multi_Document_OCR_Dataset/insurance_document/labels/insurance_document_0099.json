@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5WFCPKJCS",
+  "policy_holder": "Linda Gonzalez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-08-03",
+  "expiry_date": "2026-08-03",
+  "premium": 1195.55,
+  "coverage_amount": 37876.12,
+  "beneficiary": "Eric Rush",
+  "sample_id": "insurance_document_0099"
+}

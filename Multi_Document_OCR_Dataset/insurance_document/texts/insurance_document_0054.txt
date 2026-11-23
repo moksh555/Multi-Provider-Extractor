@@ -1,0 +1,16 @@
+Insurance Policy POL-DIUOVW1N6
+Holder: Paul Thompson
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DIUOVW1N6",
+  "policy_holder": "Paul Thompson",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-04-20",
+  "expiry_date": "2027-04-20",
+  "premium": 2476.27,
+  "coverage_amount": 159636.32,
+  "beneficiary": "Michael Mason",
+  "sample_id": "insurance_document_0054"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Scott Richardson
+Passport No: P15906501
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P15906501",
+  "full_name": "Scott Richardson",
+  "nationality": "BD",
+  "date_of_birth": "1987-07-17",
+  "issue_date": "2024-01-11",
+  "expiry_date": "2034-01-11",
+  "place_of_birth": "Port Johnmouth",
+  "sample_id": "passport_0970"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FUZY9OP9",
+  "account_holder": "Megan Landry",
+  "account_number_masked": "****8067",
+  "period_start": "2026-03-04",
+  "period_end": "2026-04-03",
+  "opening_balance": 4241.26,
+  "closing_balance": 5264.12,
+  "transactions": 14,
+  "sample_id": "bank_statement_0481"
+}

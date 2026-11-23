@@ -1,0 +1,16 @@
+Insurance Policy POL-POCR0VHV1
+Holder: Laura Roberts
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-POCR0VHV1",
+  "policy_holder": "Laura Roberts",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-01-11",
+  "expiry_date": "2026-01-11",
+  "premium": 928.85,
+  "coverage_amount": 413386.69,
+  "beneficiary": "Kathy Robinson",
+  "sample_id": "insurance_document_0879"
+}

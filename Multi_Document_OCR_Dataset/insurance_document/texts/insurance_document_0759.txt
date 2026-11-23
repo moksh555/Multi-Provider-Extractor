@@ -1,0 +1,16 @@
+Insurance Policy POL-JY2NZ7VEL
+Holder: Miguel Pierce
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JY2NZ7VEL",
+  "policy_holder": "Miguel Pierce",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-04-11",
+  "expiry_date": "2027-04-11",
+  "premium": 2232.96,
+  "coverage_amount": 483259.77,
+  "beneficiary": "Jeffrey Bernard",
+  "sample_id": "insurance_document_0759"
+}

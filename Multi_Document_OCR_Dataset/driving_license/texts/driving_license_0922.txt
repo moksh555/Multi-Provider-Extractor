@@ -1,0 +1,16 @@
+Synthetic Driving License
+Ryan White
+License: DL597723072
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL597723072",
+  "full_name": "Ryan White",
+  "date_of_birth": "1977-02-21",
+  "class": "C",
+  "issue_date": "2021-06-27",
+  "expiry_date": "2026-06-27",
+  "address": "216 Smith Isle Suite 146, Lake Charles, SD 23335",
+  "sample_id": "driving_license_0922"
+}

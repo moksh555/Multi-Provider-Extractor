@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0106",
+  "invoice_number": "INV-2026-0106",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "85 Dhanmondi 27, Dhaka, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "206 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-18",
+  "due_date": "2026-06-17",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 8,
+      "unit_price": 581.9,
+      "amount": 4655.2
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 413.82,
+      "amount": 413.82
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 330.21,
+      "amount": 660.42
+    }
+  ],
+  "subtotal": 5729.44,
+  "discount": 286.47,
+  "tax_rate": 0.15,
+  "tax": 816.45,
+  "shipping": 0,
+  "total": 6259.42,
+  "amount_paid": 0,
+  "balance_due": 6259.42,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801784357223",
+  "po_number": "PO-73513"
+}

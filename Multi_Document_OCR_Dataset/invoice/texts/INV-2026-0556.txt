@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0556
+Company: Summit Agro Foods
+Company Address: 60 Gulshan Avenue, Dubai, UAE
+Customer: Sunrise Apparel
+Billing Address: 193 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-04-10
+Due Date: 2026-04-17
+Currency: QAR
+Subtotal: 14335.44
+Tax: 645.09
+Total: 13551.99
+Balance Due: 8591.36
+Status: partial

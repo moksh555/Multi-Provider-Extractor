@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-KI6E2QHP",
+  "patient_name": "Mark Ellis",
+  "visit_date": "2026-02-04",
+  "doctor_name": "Dr. Douglas Owens",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0716"
+}

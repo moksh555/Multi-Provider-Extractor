@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9D6SV8FL",
+  "merchant_name": "Santos-Marks",
+  "date": "2025-06-22",
+  "subtotal": 509.26,
+  "tax": 18.68,
+  "discount": 12.59,
+  "total": 515.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$41.50",
+      "line_total": "$83.00"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$55.27",
+      "line_total": "$221.08"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$21.32",
+      "line_total": "$85.28"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$1.10",
+      "line_total": "$1.10"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$6.89",
+      "line_total": "$27.56"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$27.44",
+      "line_total": "$27.44"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$63.80",
+      "line_total": "$63.80"
+    }
+  ],
+  "sample_id": "receipt_0985"
+}

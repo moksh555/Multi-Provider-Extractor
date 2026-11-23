@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL623950820",
+  "full_name": "Michelle Mitchell",
+  "date_of_birth": "1990-09-06",
+  "class": "B",
+  "issue_date": "2020-11-07",
+  "expiry_date": "2025-11-07",
+  "address": "Unit 2231 Box 0592, DPO AA 34633",
+  "sample_id": "driving_license_0354"
+}

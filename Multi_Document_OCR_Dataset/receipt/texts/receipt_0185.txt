@@ -1,0 +1,67 @@
+Receipt RCT-AU9DKBPV
+Merchant: Garcia-Mendoza
+Date: 2024-07-27
+Total: $1054.97
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AU9DKBPV",
+  "merchant_name": "Garcia-Mendoza",
+  "date": "2024-07-27",
+  "subtotal": 968.56,
+  "tax": 99.31,
+  "discount": 12.9,
+  "total": 1054.97,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$31.14",
+      "line_total": "$124.56"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$38.51",
+      "line_total": "$77.02"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$67.62",
+      "line_total": "$270.48"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$13.19",
+      "line_total": "$52.76"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$1.92",
+      "line_total": "$3.84"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$57.99",
+      "line_total": "$115.98"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$78.02",
+      "line_total": "$312.08"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$11.84",
+      "line_total": "$11.84"
+    }
+  ],
+  "sample_id": "receipt_0185"
+}

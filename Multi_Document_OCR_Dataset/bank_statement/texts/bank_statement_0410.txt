@@ -1,0 +1,16 @@
+Bank Statement STM-HLOE20RI
+Holder: Max Miller
+Closing Balance: $6238.37
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HLOE20RI",
+  "account_holder": "Max Miller",
+  "account_number_masked": "****2074",
+  "period_start": "2025-11-05",
+  "period_end": "2025-12-05",
+  "opening_balance": 4293.96,
+  "closing_balance": 6238.37,
+  "transactions": 9,
+  "sample_id": "bank_statement_0410"
+}

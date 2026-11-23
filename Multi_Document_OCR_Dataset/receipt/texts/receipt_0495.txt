@@ -1,0 +1,67 @@
+Receipt RCT-06W819FM
+Merchant: Burch, Kim and Hall
+Date: 2026-11-09
+Total: $946.26
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-06W819FM",
+  "merchant_name": "Burch, Kim and Hall",
+  "date": "2026-11-09",
+  "subtotal": 918.52,
+  "tax": 30.56,
+  "discount": 2.82,
+  "total": 946.26,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$79.30",
+      "line_total": "$317.20"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$27.87",
+      "line_total": "$27.87"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$9.18",
+      "line_total": "$36.72"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$14.23",
+      "line_total": "$28.46"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$78.11",
+      "line_total": "$78.11"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$45.04",
+      "line_total": "$180.16"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$26.45",
+      "line_total": "$105.80"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$72.10",
+      "line_total": "$144.20"
+    }
+  ],
+  "sample_id": "receipt_0495"
+}

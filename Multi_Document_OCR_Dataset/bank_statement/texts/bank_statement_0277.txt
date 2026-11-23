@@ -1,0 +1,16 @@
+Bank Statement STM-EO9VAXCZ
+Holder: Pamela Cohen
+Closing Balance: $5246.83
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EO9VAXCZ",
+  "account_holder": "Pamela Cohen",
+  "account_number_masked": "****8703",
+  "period_start": "2025-04-21",
+  "period_end": "2025-05-21",
+  "opening_balance": 3612.45,
+  "closing_balance": 5246.83,
+  "transactions": 8,
+  "sample_id": "bank_statement_0277"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-ZBFSZZX0
+Patient: Tracy Trevino
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZBFSZZX0",
+  "patient_name": "Tracy Trevino",
+  "visit_date": "2025-01-11",
+  "doctor_name": "Dr. Melinda Santos",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0411"
+}

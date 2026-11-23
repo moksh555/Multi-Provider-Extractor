@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mr. Kyle Thomas DDS
+License: DL470108853
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL470108853",
+  "full_name": "Mr. Kyle Thomas DDS",
+  "date_of_birth": "1990-10-02",
+  "class": "D",
+  "issue_date": "2023-08-29",
+  "expiry_date": "2028-08-29",
+  "address": "548 Joshua Vista, Welchborough, NM 38707",
+  "sample_id": "driving_license_0496"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-MKCTHGYM",
+  "patient_name": "Danny Finley",
+  "visit_date": "2025-01-22",
+  "doctor_name": "Dr. James Mcdonald",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0738"
+}

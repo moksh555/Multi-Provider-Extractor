@@ -1,0 +1,14 @@
+Medical Report MED-3CBZ2DLF
+Patient: Connie Brown
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-3CBZ2DLF",
+  "patient_name": "Connie Brown",
+  "visit_date": "2024-12-21",
+  "doctor_name": "Dr. Kevin Fuller",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0047"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-TAIP1KEL
+Holder: Roger Sullivan
+Closing Balance: $7471.78
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TAIP1KEL",
+  "account_holder": "Roger Sullivan",
+  "account_number_masked": "****2399",
+  "period_start": "2024-03-02",
+  "period_end": "2024-04-01",
+  "opening_balance": 2658.52,
+  "closing_balance": 7471.78,
+  "transactions": 14,
+  "sample_id": "bank_statement_0302"
+}

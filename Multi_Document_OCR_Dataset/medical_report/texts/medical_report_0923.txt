@@ -1,0 +1,14 @@
+Medical Report MED-4J926SWH
+Patient: Adam Bradley PhD
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4J926SWH",
+  "patient_name": "Adam Bradley PhD",
+  "visit_date": "2025-04-20",
+  "doctor_name": "Dr. Maria Mercado",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0923"
+}

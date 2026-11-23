@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-K2N7ZRWQE",
+  "policy_holder": "Melissa Church",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-03-21",
+  "expiry_date": "2026-03-21",
+  "premium": 910.68,
+  "coverage_amount": 313894.17,
+  "beneficiary": "Patricia Todd",
+  "sample_id": "insurance_document_0180"
+}

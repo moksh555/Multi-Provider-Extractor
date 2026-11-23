@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL203639711",
+  "full_name": "Denise Gonzalez",
+  "date_of_birth": "1988-07-11",
+  "class": "A",
+  "issue_date": "2025-05-28",
+  "expiry_date": "2030-05-28",
+  "address": "Unit 4741 Box 7595, DPO AA 84626",
+  "sample_id": "driving_license_0663"
+}

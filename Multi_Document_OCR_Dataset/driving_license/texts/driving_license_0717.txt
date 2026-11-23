@@ -1,0 +1,16 @@
+Synthetic Driving License
+Bradley Davis
+License: DL968520859
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL968520859",
+  "full_name": "Bradley Davis",
+  "date_of_birth": "1997-12-03",
+  "class": "D",
+  "issue_date": "2025-07-22",
+  "expiry_date": "2030-07-22",
+  "address": "34245 Barnett Pike, Kathleenberg, MD 55816",
+  "sample_id": "driving_license_0717"
+}

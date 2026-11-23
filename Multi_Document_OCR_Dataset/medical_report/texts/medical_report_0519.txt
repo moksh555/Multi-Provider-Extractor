@@ -1,0 +1,14 @@
+Medical Report MED-S59HZ5LC
+Patient: Jennifer Davidson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S59HZ5LC",
+  "patient_name": "Jennifer Davidson",
+  "visit_date": "2024-04-08",
+  "doctor_name": "Dr. Paul Smith",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0519"
+}

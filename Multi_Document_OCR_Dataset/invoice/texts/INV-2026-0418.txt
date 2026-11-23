@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0418
+Company: Atlas Engineering Ltd.
+Company Address: 19 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 168 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-03-02
+Due Date: 2026-03-09
+Currency: QAR
+Subtotal: 16636.38
+Tax: 2495.46
+Total: 19136.84
+Balance Due: 8165.84
+Status: partial

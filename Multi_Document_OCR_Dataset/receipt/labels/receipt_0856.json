@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XG7NVKBJ",
+  "merchant_name": "Murphy, Gardner and Gonzalez",
+  "date": "2025-03-25",
+  "subtotal": 896.59,
+  "tax": 73.83,
+  "discount": 6.73,
+  "total": 963.69,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$7.47",
+      "line_total": "$7.47"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$11.13",
+      "line_total": "$22.26"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$38.91",
+      "line_total": "$116.73"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$7.91",
+      "line_total": "$7.91"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$56.03",
+      "line_total": "$224.12"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$67.99",
+      "line_total": "$67.99"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$54.49",
+      "line_total": "$163.47"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$71.66",
+      "line_total": "$286.64"
+    }
+  ],
+  "sample_id": "receipt_0856"
+}

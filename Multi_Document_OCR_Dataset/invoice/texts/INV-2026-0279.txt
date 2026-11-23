@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0279
+Company: UrbanBuild Construction
+Company Address: 92 Sheikh Zayed Road, Sylhet, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 145 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-02-06
+Due Date: 2026-03-08
+Currency: QAR
+Subtotal: 12588.91
+Tax: 1850.57
+Total: 14187.7
+Balance Due: 14187.7
+Status: unpaid

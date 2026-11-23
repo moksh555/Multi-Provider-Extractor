@@ -1,0 +1,67 @@
+Receipt RCT-VFSWJZ8D
+Merchant: Green, Vincent and Thompson
+Date: 2021-09-21
+Total: $1001.00
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VFSWJZ8D",
+  "merchant_name": "Green, Vincent and Thompson",
+  "date": "2021-09-21",
+  "subtotal": 926.8,
+  "tax": 77.76,
+  "discount": 3.56,
+  "total": 1001.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$55.03",
+      "line_total": "$220.12"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$36.06",
+      "line_total": "$144.24"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$63.40",
+      "line_total": "$63.40"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$21.32",
+      "line_total": "$85.28"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$49.44",
+      "line_total": "$148.32"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$6.68",
+      "line_total": "$20.04"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$25.54",
+      "line_total": "$102.16"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$35.81",
+      "line_total": "$143.24"
+    }
+  ],
+  "sample_id": "receipt_0892"
+}

@@ -1,0 +1,43 @@
+Receipt RCT-0TVDJI1O
+Merchant: Jones, Powers and King
+Date: 2021-03-26
+Total: $583.05
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0TVDJI1O",
+  "merchant_name": "Jones, Powers and King",
+  "date": "2021-03-26",
+  "subtotal": 566.66,
+  "tax": 21.9,
+  "discount": 5.51,
+  "total": 583.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$62.58",
+      "line_total": "$250.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$10.53",
+      "line_total": "$21.06"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$59.14",
+      "line_total": "$236.56"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$29.36",
+      "line_total": "$58.72"
+    }
+  ],
+  "sample_id": "receipt_0233"
+}

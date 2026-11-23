@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0193",
+  "invoice_number": "INV-2026-0193",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "67 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "120 Sheikh Zayed Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-03",
+  "due_date": "2026-04-17",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 6,
+      "unit_price": 16.33,
+      "amount": 97.98
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 475.05,
+      "amount": 475.05
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 378.82,
+      "amount": 1894.1
+    }
+  ],
+  "subtotal": 2467.13,
+  "discount": 123.36,
+  "tax_rate": 0.05,
+  "tax": 117.19,
+  "shipping": 50,
+  "total": 2510.96,
+  "amount_paid": 0,
+  "balance_due": 2510.96,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801939122218",
+  "po_number": "PO-21121"
+}

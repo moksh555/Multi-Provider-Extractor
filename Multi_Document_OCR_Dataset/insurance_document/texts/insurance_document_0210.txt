@@ -1,0 +1,16 @@
+Insurance Policy POL-97E4UNY18
+Holder: Cole Anderson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-97E4UNY18",
+  "policy_holder": "Cole Anderson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-02-04",
+  "expiry_date": "2024-02-04",
+  "premium": 1517.93,
+  "coverage_amount": 16758.78,
+  "beneficiary": "William Jensen",
+  "sample_id": "insurance_document_0210"
+}

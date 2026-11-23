@@ -1,0 +1,16 @@
+Synthetic Driving License
+Robert Morgan
+License: DL855741038
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL855741038",
+  "full_name": "Robert Morgan",
+  "date_of_birth": "2001-04-11",
+  "class": "A",
+  "issue_date": "2024-01-22",
+  "expiry_date": "2029-01-22",
+  "address": "USNS Gonzalez, FPO AP 53111",
+  "sample_id": "driving_license_0103"
+}

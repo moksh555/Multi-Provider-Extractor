@@ -1,0 +1,23 @@
+Resume
+Dawn Herring
+Backend Developer
+Skills: PyTorch, Docker, LangChain, SQL, Pandas, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Dawn Herring",
+  "email": "millerrobert@example.com",
+  "phone": "001-555-985-9421",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "PyTorch",
+    "Docker",
+    "LangChain",
+    "SQL",
+    "Pandas",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0386"
+}

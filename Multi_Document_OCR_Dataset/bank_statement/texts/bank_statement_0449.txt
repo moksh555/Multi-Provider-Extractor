@@ -1,0 +1,16 @@
+Bank Statement STM-H9M0P875
+Holder: Tyler Hart
+Closing Balance: $2673.80
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H9M0P875",
+  "account_holder": "Tyler Hart",
+  "account_number_masked": "****0586",
+  "period_start": "2025-08-03",
+  "period_end": "2025-09-02",
+  "opening_balance": 2311.19,
+  "closing_balance": 2673.8,
+  "transactions": 12,
+  "sample_id": "bank_statement_0449"
+}

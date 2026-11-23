@@ -1,0 +1,16 @@
+Insurance Policy POL-3BLSYJ4UW
+Holder: Barbara Chandler
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3BLSYJ4UW",
+  "policy_holder": "Barbara Chandler",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-10-10",
+  "expiry_date": "2026-10-10",
+  "premium": 813.76,
+  "coverage_amount": 483582.89,
+  "beneficiary": "Renee Davis",
+  "sample_id": "insurance_document_0653"
+}

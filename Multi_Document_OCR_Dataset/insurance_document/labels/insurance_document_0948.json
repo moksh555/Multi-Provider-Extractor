@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-788G35SFY",
+  "policy_holder": "Keith Brown",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-02-11",
+  "expiry_date": "2025-02-11",
+  "premium": 1865.52,
+  "coverage_amount": 183428.88,
+  "beneficiary": "Dennis Mcgee",
+  "sample_id": "insurance_document_0948"
+}

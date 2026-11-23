@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0087
+Company: BlueRiver Trading Co.
+Company Address: 22 Al Barsha, Dhaka, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 168 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-06-26
+Due Date: 2026-07-03
+Currency: SAR
+Subtotal: 25392.99
+Tax: 2539.3
+Total: 27957.29
+Balance Due: 27957.29
+Status: overdue

@@ -1,0 +1,55 @@
+Receipt RCT-ULP98RL9
+Merchant: Johnson LLC
+Date: 2026-04-12
+Total: $581.92
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ULP98RL9",
+  "merchant_name": "Johnson LLC",
+  "date": "2026-04-12",
+  "subtotal": 552.17,
+  "tax": 40.02,
+  "discount": 10.27,
+  "total": 581.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$6.18",
+      "line_total": "$12.36"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$8.47",
+      "line_total": "$25.41"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$51.39",
+      "line_total": "$154.17"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$62.52",
+      "line_total": "$125.04"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$25.27",
+      "line_total": "$50.54"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$61.55",
+      "line_total": "$184.65"
+    }
+  ],
+  "sample_id": "receipt_0402"
+}

@@ -1,0 +1,49 @@
+Receipt RCT-2GY422KK
+Merchant: Moore-Ayers
+Date: 2022-09-02
+Total: $418.66
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2GY422KK",
+  "merchant_name": "Moore-Ayers",
+  "date": "2022-09-02",
+  "subtotal": 382.18,
+  "tax": 44.38,
+  "discount": 7.9,
+  "total": 418.66,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$34.55",
+      "line_total": "$138.20"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$22.34",
+      "line_total": "$44.68"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$64.67",
+      "line_total": "$129.34"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$21.33",
+      "line_total": "$42.66"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$9.10",
+      "line_total": "$27.30"
+    }
+  ],
+  "sample_id": "receipt_0866"
+}

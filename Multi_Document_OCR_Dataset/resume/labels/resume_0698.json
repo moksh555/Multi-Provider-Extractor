@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Dr. Andrea Powell",
+  "email": "crussell@example.net",
+  "phone": "001-586-416-3386x38130",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "NLP",
+    "PyTorch",
+    "AWS",
+    "SQL",
+    "LangChain",
+    "FastAPI",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0698"
+}

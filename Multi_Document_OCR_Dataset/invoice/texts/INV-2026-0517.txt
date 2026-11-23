@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0517
+Company: Atlas Engineering Ltd.
+Company Address: 109 Mirpur DOHS, Sylhet, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 176 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-01-14
+Due Date: 2026-02-13
+Currency: USD
+Subtotal: 6268.19
+Tax: 564.14
+Total: 6215.51
+Balance Due: 1794.34
+Status: partial

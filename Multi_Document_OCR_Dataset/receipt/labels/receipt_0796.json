@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GCT3M9GX",
+  "merchant_name": "Gibson PLC",
+  "date": "2024-07-01",
+  "subtotal": 522.22,
+  "tax": 43.74,
+  "discount": 9.2,
+  "total": 556.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$51.01",
+      "line_total": "$102.02"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$57.93",
+      "line_total": "$231.72"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$47.12",
+      "line_total": "$188.48"
+    }
+  ],
+  "sample_id": "receipt_0796"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-ZYEKH0E6
+Patient: Brandy Henry
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZYEKH0E6",
+  "patient_name": "Brandy Henry",
+  "visit_date": "2024-07-22",
+  "doctor_name": "Dr. Joshua Ortiz",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0327"
+}

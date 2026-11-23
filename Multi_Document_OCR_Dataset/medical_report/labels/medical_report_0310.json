@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-R8GT5EGC",
+  "patient_name": "Jimmy Gonzalez PhD",
+  "visit_date": "2025-06-10",
+  "doctor_name": "Dr. Nicole Morrow",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0310"
+}

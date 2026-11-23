@@ -1,0 +1,43 @@
+Receipt RCT-V4DUSGEH
+Merchant: Soto Inc
+Date: 2025-01-21
+Total: $550.46
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V4DUSGEH",
+  "merchant_name": "Soto Inc",
+  "date": "2025-01-21",
+  "subtotal": 526.5,
+  "tax": 35.5,
+  "discount": 11.54,
+  "total": 550.46,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$61.20",
+      "line_total": "$244.80"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$13.19",
+      "line_total": "$13.19"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$65.71",
+      "line_total": "$197.13"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$35.69",
+      "line_total": "$71.38"
+    }
+  ],
+  "sample_id": "receipt_0241"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Debra Lam
+Passport No: P46186375
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P46186375",
+  "full_name": "Debra Lam",
+  "nationality": "US",
+  "date_of_birth": "1995-12-30",
+  "issue_date": "2025-03-23",
+  "expiry_date": "2035-03-23",
+  "place_of_birth": "Port Christinafort",
+  "sample_id": "passport_0028"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0817
+Company: Eastern Care Pharmacy
+Company Address: 179 Jumeirah Lake Towers, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 215 Mirpur DOHS, Doha, Qatar
+Invoice Date: 2026-02-07
+Due Date: 2026-02-22
+Currency: BDT
+Subtotal: 12103.06
+Tax: 1089.28
+Total: 11992.03
+Balance Due: 3478.18
+Status: partial

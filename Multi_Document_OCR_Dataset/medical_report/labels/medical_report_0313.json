@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-V2A0JQ9Q",
+  "patient_name": "Nicholas Smith",
+  "visit_date": "2026-07-16",
+  "doctor_name": "Dr. Ashley Trujillo",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0313"
+}

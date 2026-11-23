@@ -1,0 +1,14 @@
+Medical Report MED-4GEFIY0C
+Patient: Brian Sanchez
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4GEFIY0C",
+  "patient_name": "Brian Sanchez",
+  "visit_date": "2026-10-01",
+  "doctor_name": "Dr. Samantha Bautista",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0060"
+}

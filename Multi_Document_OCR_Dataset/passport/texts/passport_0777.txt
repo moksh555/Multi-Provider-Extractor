@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kyle Ramirez
+Passport No: P99229574
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P99229574",
+  "full_name": "Kyle Ramirez",
+  "nationality": "AE",
+  "date_of_birth": "1980-10-12",
+  "issue_date": "2023-04-22",
+  "expiry_date": "2033-04-22",
+  "place_of_birth": "Timothybury",
+  "sample_id": "passport_0777"
+}

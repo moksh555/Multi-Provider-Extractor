@@ -1,0 +1,14 @@
+Medical Report MED-LWCMROE9
+Patient: Joshua Meyers
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LWCMROE9",
+  "patient_name": "Joshua Meyers",
+  "visit_date": "2025-01-09",
+  "doctor_name": "Dr. Adrienne Moon",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0168"
+}

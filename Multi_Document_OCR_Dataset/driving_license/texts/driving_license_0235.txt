@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mason Lewis
+License: DL190566037
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL190566037",
+  "full_name": "Mason Lewis",
+  "date_of_birth": "1993-10-03",
+  "class": "A",
+  "issue_date": "2023-06-13",
+  "expiry_date": "2028-06-13",
+  "address": "136 Cortez Orchard Suite 739, Lake Martha, AK 32439",
+  "sample_id": "driving_license_0235"
+}

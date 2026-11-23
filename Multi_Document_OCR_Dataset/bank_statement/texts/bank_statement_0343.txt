@@ -1,0 +1,16 @@
+Bank Statement STM-BFXPFW8X
+Holder: Olivia Powell
+Closing Balance: $4266.05
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BFXPFW8X",
+  "account_holder": "Olivia Powell",
+  "account_number_masked": "****2958",
+  "period_start": "2024-10-01",
+  "period_end": "2024-10-31",
+  "opening_balance": 538.93,
+  "closing_balance": 4266.05,
+  "transactions": 14,
+  "sample_id": "bank_statement_0343"
+}

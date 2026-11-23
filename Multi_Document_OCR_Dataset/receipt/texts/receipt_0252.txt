@@ -1,0 +1,37 @@
+Receipt RCT-8W9ZJXLH
+Merchant: Jones-Schultz
+Date: 2024-09-07
+Total: $363.65
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8W9ZJXLH",
+  "merchant_name": "Jones-Schultz",
+  "date": "2024-09-07",
+  "subtotal": 348.15,
+  "tax": 27.31,
+  "discount": 11.81,
+  "total": 363.65,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$49.09",
+      "line_total": "$49.09"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$54.14",
+      "line_total": "$54.14"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$61.23",
+      "line_total": "$244.92"
+    }
+  ],
+  "sample_id": "receipt_0252"
+}

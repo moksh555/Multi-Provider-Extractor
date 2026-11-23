@@ -1,0 +1,14 @@
+Medical Report MED-8AZQONAW
+Patient: Lori Williams
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8AZQONAW",
+  "patient_name": "Lori Williams",
+  "visit_date": "2026-08-23",
+  "doctor_name": "Dr. Amber Baker",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0202"
+}

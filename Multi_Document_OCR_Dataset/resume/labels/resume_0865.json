@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Michael Ryan",
+  "email": "robertsonpamela@example.com",
+  "phone": "998.921.2558",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "NLP",
+    "FastAPI",
+    "Docker",
+    "AWS",
+    "Computer Vision",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0865"
+}

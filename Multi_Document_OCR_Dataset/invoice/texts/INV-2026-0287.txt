@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0287
+Company: Eastern Care Pharmacy
+Company Address: 70 Agrabad C/A, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 24 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-02-09
+Due Date: 2026-03-11
+Currency: USD
+Subtotal: 9842.99
+Tax: 482.31
+Total: 10138.44
+Balance Due: 10138.44
+Status: overdue

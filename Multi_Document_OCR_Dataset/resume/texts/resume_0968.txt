@@ -1,0 +1,27 @@
+Resume
+Brandy Ward
+Computer Vision Engineer
+Skills: Deep Learning, Machine Learning, NLP, PyTorch, Streamlit, AWS, LangChain, Pandas, TensorFlow, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Brandy Ward",
+  "email": "yarmstrong@example.net",
+  "phone": "283.259.4326x03224",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "NLP",
+    "PyTorch",
+    "Streamlit",
+    "AWS",
+    "LangChain",
+    "Pandas",
+    "TensorFlow",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0968"
+}

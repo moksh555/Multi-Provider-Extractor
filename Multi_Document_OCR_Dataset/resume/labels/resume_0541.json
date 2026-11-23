@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Jonathan Diaz",
+  "email": "cindybrooks@example.net",
+  "phone": "(887)444-1235x9989",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "TensorFlow",
+    "Pandas",
+    "SQL",
+    "Python",
+    "Computer Vision",
+    "LangChain",
+    "Machine Learning",
+    "Docker",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0541"
+}

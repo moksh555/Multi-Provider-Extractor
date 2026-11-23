@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0684",
+  "invoice_number": "INV-2026-0684",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "164 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "127 Uttara Sector 7, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-05",
+  "due_date": "2026-05-12",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 760.12,
+      "amount": 760.12
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 2,
+      "unit_price": 117.1,
+      "amount": 234.2
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 285.83,
+      "amount": 285.83
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 5,
+      "unit_price": 463.41,
+      "amount": 2317.05
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 539.47,
+      "amount": 5934.17
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 6,
+      "unit_price": 183.84,
+      "amount": 1103.04
+    }
+  ],
+  "subtotal": 10634.41,
+  "discount": 531.72,
+  "tax_rate": 0.075,
+  "tax": 757.7,
+  "shipping": 10,
+  "total": 10870.39,
+  "amount_paid": 10870.39,
+  "balance_due": 0.0,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801515744680",
+  "po_number": "PO-23967"
+}

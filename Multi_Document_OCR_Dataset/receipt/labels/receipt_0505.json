@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZJHO4VUD",
+  "merchant_name": "Rowland-Barrett",
+  "date": "2026-04-17",
+  "subtotal": 512.53,
+  "tax": 60.39,
+  "discount": 6.62,
+  "total": 566.3,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$26.65",
+      "line_total": "$53.30"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$38.24",
+      "line_total": "$114.72"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$39.96",
+      "line_total": "$119.88"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$55.49",
+      "line_total": "$55.49"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$19.27",
+      "line_total": "$38.54"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$37.90",
+      "line_total": "$75.80"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$54.80",
+      "line_total": "$54.80"
+    }
+  ],
+  "sample_id": "receipt_0505"
+}

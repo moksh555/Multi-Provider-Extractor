@@ -1,0 +1,14 @@
+Medical Report MED-7HTWD0H6
+Patient: Kathryn Campbell
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7HTWD0H6",
+  "patient_name": "Kathryn Campbell",
+  "visit_date": "2025-04-19",
+  "doctor_name": "Dr. Jennifer Martinez",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0544"
+}

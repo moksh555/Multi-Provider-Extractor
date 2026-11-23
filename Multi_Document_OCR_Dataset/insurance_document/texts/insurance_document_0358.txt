@@ -1,0 +1,16 @@
+Insurance Policy POL-9212PGYME
+Holder: Jennifer Anderson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9212PGYME",
+  "policy_holder": "Jennifer Anderson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-09-20",
+  "expiry_date": "2026-09-20",
+  "premium": 1801.77,
+  "coverage_amount": 283922.15,
+  "beneficiary": "Lauren Trujillo",
+  "sample_id": "insurance_document_0358"
+}

@@ -1,0 +1,61 @@
+Receipt RCT-FV2BC2NN
+Merchant: Parsons-Hall
+Date: 2021-05-13
+Total: $1046.84
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FV2BC2NN",
+  "merchant_name": "Parsons-Hall",
+  "date": "2021-05-13",
+  "subtotal": 974.36,
+  "tax": 82.89,
+  "discount": 10.41,
+  "total": 1046.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$75.96",
+      "line_total": "$303.84"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$61.28",
+      "line_total": "$245.12"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$32.44",
+      "line_total": "$97.32"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$76.88",
+      "line_total": "$153.76"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$40.42",
+      "line_total": "$80.84"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$21.68",
+      "line_total": "$21.68"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$17.95",
+      "line_total": "$71.80"
+    }
+  ],
+  "sample_id": "receipt_0056"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Allen Gonzalez
+License: DL041098620
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL041098620",
+  "full_name": "Allen Gonzalez",
+  "date_of_birth": "2005-05-11",
+  "class": "C",
+  "issue_date": "2020-11-10",
+  "expiry_date": "2025-11-10",
+  "address": "258 Gregory Brooks Apt. 410, South Diana, FM 15045",
+  "sample_id": "driving_license_0454"
+}

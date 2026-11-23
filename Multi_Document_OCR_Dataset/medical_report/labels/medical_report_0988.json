@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-O4WPJMDE",
+  "patient_name": "Hannah Hensley",
+  "visit_date": "2024-05-30",
+  "doctor_name": "Dr. James Hall",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0988"
+}

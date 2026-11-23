@@ -1,0 +1,55 @@
+Receipt RCT-FTTD96QE
+Merchant: Gibson LLC
+Date: 2022-09-23
+Total: $537.91
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FTTD96QE",
+  "merchant_name": "Gibson LLC",
+  "date": "2022-09-23",
+  "subtotal": 517.29,
+  "tax": 29.42,
+  "discount": 8.8,
+  "total": 537.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$33.82",
+      "line_total": "$101.46"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$20.25",
+      "line_total": "$81.00"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$16.06",
+      "line_total": "$64.24"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$22.82",
+      "line_total": "$22.82"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$74.81",
+      "line_total": "$224.43"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$23.34",
+      "line_total": "$23.34"
+    }
+  ],
+  "sample_id": "receipt_0031"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0711",
+  "invoice_number": "INV-2026-0711",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "22 Motijheel C/A, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "26 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-09",
+  "due_date": "2026-06-23",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 5,
+      "unit_price": 689.45,
+      "amount": 3447.25
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 236.83,
+      "amount": 1657.81
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 3,
+      "unit_price": 804.84,
+      "amount": 2414.52
+    }
+  ],
+  "subtotal": 7519.58,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 7519.58,
+  "amount_paid": 0,
+  "balance_due": 7519.58,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801395742289",
+  "po_number": "PO-26595"
+}

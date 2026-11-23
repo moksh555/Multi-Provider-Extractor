@@ -1,0 +1,26 @@
+Resume
+Kim Ford
+Data Analyst
+Skills: Python, Computer Vision, NLP, TensorFlow, Pandas, SQL, Machine Learning, FastAPI, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Kim Ford",
+  "email": "vincentroy@example.com",
+  "phone": "659.848.8218",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "Computer Vision",
+    "NLP",
+    "TensorFlow",
+    "Pandas",
+    "SQL",
+    "Machine Learning",
+    "FastAPI",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0089"
+}

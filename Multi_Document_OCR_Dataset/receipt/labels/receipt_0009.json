@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DXTAD1IO",
+  "merchant_name": "Allen-Allen",
+  "date": "2026-05-26",
+  "subtotal": 237.07,
+  "tax": 11.76,
+  "discount": 0.88,
+  "total": 247.95,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$14.01",
+      "line_total": "$14.01"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$21.95",
+      "line_total": "$87.80"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$34.42",
+      "line_total": "$103.26"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$16.00",
+      "line_total": "$32.00"
+    }
+  ],
+  "sample_id": "receipt_0009"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XP5CITUF",
+  "merchant_name": "Flores Group",
+  "date": "2024-07-24",
+  "subtotal": 161.9,
+  "tax": 17.99,
+  "discount": 10.26,
+  "total": 169.63,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$33.38",
+      "line_total": "$33.38"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$58.20",
+      "line_total": "$116.40"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$4.04",
+      "line_total": "$12.12"
+    }
+  ],
+  "sample_id": "receipt_0436"
+}

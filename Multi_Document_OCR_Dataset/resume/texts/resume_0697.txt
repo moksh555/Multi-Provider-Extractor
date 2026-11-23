@@ -1,0 +1,26 @@
+Resume
+Christopher Hansen
+Computer Vision Engineer
+Skills: AWS, LangChain, Computer Vision, FastAPI, Docker, NLP, Deep Learning, Python, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Christopher Hansen",
+  "email": "perezrobert@example.net",
+  "phone": "+1-210-385-8777x075",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "AWS",
+    "LangChain",
+    "Computer Vision",
+    "FastAPI",
+    "Docker",
+    "NLP",
+    "Deep Learning",
+    "Python",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0697"
+}

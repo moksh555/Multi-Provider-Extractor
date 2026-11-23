@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-HF9D3QY7",
+  "patient_name": "Michael Martinez",
+  "visit_date": "2024-06-23",
+  "doctor_name": "Dr. Christopher Melton",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0110"
+}

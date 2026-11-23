@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0057
+Company: UrbanBuild Construction
+Company Address: 29 Al Barsha, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 231 Jumeirah Lake Towers, Doha, Qatar
+Invoice Date: 2026-06-18
+Due Date: 2026-06-25
+Currency: BDT
+Subtotal: 36536.21
+Tax: 0.0
+Total: 36561.21
+Balance Due: 13793.51
+Status: partial

@@ -1,0 +1,16 @@
+Insurance Policy POL-6TT9Q1NI1
+Holder: Mark Mcintyre
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6TT9Q1NI1",
+  "policy_holder": "Mark Mcintyre",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-10-02",
+  "expiry_date": "2024-10-02",
+  "premium": 1225.99,
+  "coverage_amount": 260101.88,
+  "beneficiary": "Julian Willis",
+  "sample_id": "insurance_document_0310"
+}

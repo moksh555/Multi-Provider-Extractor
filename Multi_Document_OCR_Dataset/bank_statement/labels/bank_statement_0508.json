@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZR8O9XS2",
+  "account_holder": "Faith Smith",
+  "account_number_masked": "****3487",
+  "period_start": "2026-11-30",
+  "period_end": "2026-12-30",
+  "opening_balance": 4971.49,
+  "closing_balance": 10562.01,
+  "transactions": 12,
+  "sample_id": "bank_statement_0508"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-315H9H4Y
+Holder: Sandra Johnson
+Closing Balance: $4811.16
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-315H9H4Y",
+  "account_holder": "Sandra Johnson",
+  "account_number_masked": "****6291",
+  "period_start": "2026-02-19",
+  "period_end": "2026-03-21",
+  "opening_balance": 603.23,
+  "closing_balance": 4811.16,
+  "transactions": 14,
+  "sample_id": "bank_statement_0241"
+}

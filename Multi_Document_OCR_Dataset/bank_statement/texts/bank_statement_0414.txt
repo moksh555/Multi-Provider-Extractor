@@ -1,0 +1,16 @@
+Bank Statement STM-1DGEJ1DG
+Holder: Marie Ortiz MD
+Closing Balance: $5917.97
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1DGEJ1DG",
+  "account_holder": "Marie Ortiz MD",
+  "account_number_masked": "****5905",
+  "period_start": "2024-12-15",
+  "period_end": "2025-01-14",
+  "opening_balance": 1244.56,
+  "closing_balance": 5917.97,
+  "transactions": 13,
+  "sample_id": "bank_statement_0414"
+}

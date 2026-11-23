@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HB1MTRKZ",
+  "account_holder": "Christopher Charles",
+  "account_number_masked": "****0422",
+  "period_start": "2026-12-13",
+  "period_end": "2027-01-12",
+  "opening_balance": 2984.27,
+  "closing_balance": 4941.71,
+  "transactions": 12,
+  "sample_id": "bank_statement_0356"
+}

@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0465",
+  "invoice_number": "INV-2026-0465",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "149 Motijheel C/A, Sylhet, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "61 Al Barsha, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-11",
+  "due_date": "2026-07-11",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 6,
+      "unit_price": 267.98,
+      "amount": 1607.88
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 573.92,
+      "amount": 5165.28
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 11,
+      "unit_price": 289.96,
+      "amount": 3189.56
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 2,
+      "unit_price": 129.86,
+      "amount": 259.72
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 501.49,
+      "amount": 1002.98
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 660.21,
+      "amount": 660.21
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 237.27,
+      "amount": 1660.89
+    }
+  ],
+  "subtotal": 13546.52,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 2031.98,
+  "shipping": 5,
+  "total": 15583.5,
+  "amount_paid": 15583.5,
+  "balance_due": 0.0,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801672001943",
+  "po_number": "PO-57424"
+}

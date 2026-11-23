@@ -1,0 +1,16 @@
+Bank Statement STM-AJ0IRSC9
+Holder: Carla Kidd
+Closing Balance: $1533.43
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AJ0IRSC9",
+  "account_holder": "Carla Kidd",
+  "account_number_masked": "****2092",
+  "period_start": "2026-07-18",
+  "period_end": "2026-08-17",
+  "opening_balance": 1275.45,
+  "closing_balance": 1533.43,
+  "transactions": 10,
+  "sample_id": "bank_statement_0704"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1406XLYJ",
+  "account_holder": "Christopher Camacho",
+  "account_number_masked": "****7401",
+  "period_start": "2025-12-31",
+  "period_end": "2026-01-30",
+  "opening_balance": 873.92,
+  "closing_balance": 3169.14,
+  "transactions": 8,
+  "sample_id": "bank_statement_0005"
+}

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Hale",
+  "email": "dennislinda@example.net",
+  "phone": "(204)699-3064",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "LangChain",
+    "FastAPI",
+    "Python",
+    "Deep Learning",
+    "Streamlit",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0748"
+}

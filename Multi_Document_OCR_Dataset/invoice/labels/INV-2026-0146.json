@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0146",
+  "invoice_number": "INV-2026-0146",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "175 Dhanmondi 27, Sylhet, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "54 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-03-27",
+  "due_date": "2026-05-11",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 416.42,
+      "amount": 416.42
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 2,
+      "unit_price": 761.66,
+      "amount": 1523.32
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 496.16,
+      "amount": 4961.6
+    }
+  ],
+  "subtotal": 6901.34,
+  "discount": 690.13,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 6221.21,
+  "amount_paid": 6221.21,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801782122418",
+  "po_number": "PO-05042"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-TW70C6ZG
+Patient: Sandra Weber
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TW70C6ZG",
+  "patient_name": "Sandra Weber",
+  "visit_date": "2024-07-27",
+  "doctor_name": "Dr. Melissa Preston",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0800"
+}

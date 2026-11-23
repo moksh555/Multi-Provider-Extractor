@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Leon
+License: DL531163438
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL531163438",
+  "full_name": "Jennifer Leon",
+  "date_of_birth": "1965-10-12",
+  "class": "D",
+  "issue_date": "2022-04-13",
+  "expiry_date": "2027-04-13",
+  "address": "6878 Patel View, South Christopher, VT 55792",
+  "sample_id": "driving_license_0538"
+}

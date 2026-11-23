@@ -1,0 +1,16 @@
+Synthetic Driving License
+Larry King
+License: DL421859851
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL421859851",
+  "full_name": "Larry King",
+  "date_of_birth": "1973-02-24",
+  "class": "A",
+  "issue_date": "2021-01-19",
+  "expiry_date": "2026-01-19",
+  "address": "Unit 8601 Box 3477, DPO AP 76992",
+  "sample_id": "driving_license_0817"
+}

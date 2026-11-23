@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL514693912",
+  "full_name": "Gregory Martin",
+  "date_of_birth": "1979-08-23",
+  "class": "B",
+  "issue_date": "2022-12-09",
+  "expiry_date": "2027-12-09",
+  "address": "3244 Sandra Shores Suite 213, North Carmen, AZ 71257",
+  "sample_id": "driving_license_0632"
+}

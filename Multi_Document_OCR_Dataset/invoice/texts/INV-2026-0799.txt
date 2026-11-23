@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0799
+Company: Nexus Digital Solutions
+Company Address: 10 Doha Business Park, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 244 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-04-09
+Due Date: 2026-05-09
+Currency: SAR
+Subtotal: 20823.16
+Tax: 1405.56
+Total: 20146.4
+Balance Due: 0.0
+Status: paid

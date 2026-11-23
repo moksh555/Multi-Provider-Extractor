@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TD96QE3RZ",
+  "policy_holder": "Susan Smith",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-12-15",
+  "expiry_date": "2027-12-15",
+  "premium": 770.75,
+  "coverage_amount": 419014.73,
+  "beneficiary": "Chase Bentley",
+  "sample_id": "insurance_document_0063"
+}

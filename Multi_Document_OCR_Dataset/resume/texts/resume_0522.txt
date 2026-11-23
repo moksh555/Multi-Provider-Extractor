@@ -1,0 +1,23 @@
+Resume
+Ronald Gordon
+Computer Vision Engineer
+Skills: FastAPI, Machine Learning, LangChain, Computer Vision, Docker, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Ronald Gordon",
+  "email": "fpena@example.org",
+  "phone": "(750)886-2868",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "FastAPI",
+    "Machine Learning",
+    "LangChain",
+    "Computer Vision",
+    "Docker",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0522"
+}

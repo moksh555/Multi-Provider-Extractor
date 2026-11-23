@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL195432769",
+  "full_name": "Robert Gonzalez",
+  "date_of_birth": "1973-04-09",
+  "class": "D",
+  "issue_date": "2024-03-07",
+  "expiry_date": "2029-03-07",
+  "address": "912 Clements Meadow Apt. 015, Whiteton, DE 68060",
+  "sample_id": "driving_license_0499"
+}

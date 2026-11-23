@@ -1,0 +1,25 @@
+Resume
+Dr. Ashley Evans
+Software Engineer
+Skills: TensorFlow, PyTorch, Machine Learning, Deep Learning, SQL, AWS, Pandas, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Dr. Ashley Evans",
+  "email": "margarethendrix@example.com",
+  "phone": "+1-642-956-2860x7813",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "Deep Learning",
+    "SQL",
+    "AWS",
+    "Pandas",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0702"
+}

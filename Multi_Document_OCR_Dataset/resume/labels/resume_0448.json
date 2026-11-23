@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Rebecca Mann",
+  "email": "james60@example.org",
+  "phone": "(650)639-4398",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "LangChain",
+    "Python",
+    "TensorFlow",
+    "FastAPI",
+    "Computer Vision",
+    "Pandas",
+    "Streamlit",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0448"
+}

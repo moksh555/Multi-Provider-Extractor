@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0011
+Company: SkyNet Office Mart
+Company Address: 42 Agrabad C/A, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 171 Motijheel C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-14
+Due Date: 2026-03-16
+Currency: SAR
+Subtotal: 11885.72
+Tax: 873.6
+Total: 12571.61
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SP7J6V45",
+  "account_holder": "Annette Walters",
+  "account_number_masked": "****8461",
+  "period_start": "2026-06-22",
+  "period_end": "2026-07-22",
+  "opening_balance": 4173.65,
+  "closing_balance": 6682.15,
+  "transactions": 8,
+  "sample_id": "bank_statement_0439"
+}

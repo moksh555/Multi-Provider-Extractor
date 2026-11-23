@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Janet Shields",
+  "email": "millerjillian@example.net",
+  "phone": "(889)621-0758",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "FastAPI",
+    "Python",
+    "Computer Vision",
+    "TensorFlow",
+    "NLP",
+    "Docker",
+    "SQL",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0949"
+}

@@ -1,0 +1,25 @@
+Resume
+Jacob Black
+Machine Learning Engineer
+Skills: TensorFlow, Computer Vision, Python, LangChain, Pandas, PyTorch, SQL, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Jacob Black",
+  "email": "keithflores@example.com",
+  "phone": "616-427-4351",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "Python",
+    "LangChain",
+    "Pandas",
+    "PyTorch",
+    "SQL",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0733"
+}

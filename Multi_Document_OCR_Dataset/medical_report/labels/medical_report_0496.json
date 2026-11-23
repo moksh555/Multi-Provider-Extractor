@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-BDCE8ITO",
+  "patient_name": "John Merritt",
+  "visit_date": "2025-09-03",
+  "doctor_name": "Dr. Michelle Greene",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0496"
+}

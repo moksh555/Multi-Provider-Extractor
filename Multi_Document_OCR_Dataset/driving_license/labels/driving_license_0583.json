@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL312549777",
+  "full_name": "Joshua Gomez",
+  "date_of_birth": "1983-12-31",
+  "class": "A",
+  "issue_date": "2021-09-11",
+  "expiry_date": "2026-09-11",
+  "address": "685 Scott Land Apt. 066, West Jaime, HI 78364",
+  "sample_id": "driving_license_0583"
+}

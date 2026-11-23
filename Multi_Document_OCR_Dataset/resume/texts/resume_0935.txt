@@ -1,0 +1,23 @@
+Resume
+David Smith
+Computer Vision Engineer
+Skills: Streamlit, Machine Learning, NLP, Pandas, Python, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "David Smith",
+  "email": "erikstephenson@example.net",
+  "phone": "613-218-0021",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "Machine Learning",
+    "NLP",
+    "Pandas",
+    "Python",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0935"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-5W2ECWZ5
+Patient: Bonnie Shepherd
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5W2ECWZ5",
+  "patient_name": "Bonnie Shepherd",
+  "visit_date": "2025-02-08",
+  "doctor_name": "Dr. Paula Moore",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0635"
+}

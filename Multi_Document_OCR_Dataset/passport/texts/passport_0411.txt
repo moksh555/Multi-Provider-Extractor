@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Tracy Garcia
+Passport No: P93508698
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P93508698",
+  "full_name": "Tracy Garcia",
+  "nationality": "GB",
+  "date_of_birth": "1990-01-03",
+  "issue_date": "2020-04-02",
+  "expiry_date": "2030-04-02",
+  "place_of_birth": "New Johnton",
+  "sample_id": "passport_0411"
+}

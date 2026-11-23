@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZI9VCCMTP",
+  "policy_holder": "David White",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-08-16",
+  "expiry_date": "2024-08-16",
+  "premium": 1242.98,
+  "coverage_amount": 441616.37,
+  "beneficiary": "Laura Sullivan",
+  "sample_id": "insurance_document_0923"
+}

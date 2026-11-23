@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Melinda Nichols
+Passport No: P47814653
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P47814653",
+  "full_name": "Melinda Nichols",
+  "nationality": "AE",
+  "date_of_birth": "1999-03-17",
+  "issue_date": "2021-04-15",
+  "expiry_date": "2031-04-15",
+  "place_of_birth": "South Jeremiahberg",
+  "sample_id": "passport_0384"
+}

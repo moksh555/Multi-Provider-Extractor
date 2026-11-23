@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5E4E9OE94",
+  "policy_holder": "Natalie Ortiz",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-09-03",
+  "expiry_date": "2025-09-03",
+  "premium": 1221.95,
+  "coverage_amount": 362356.05,
+  "beneficiary": "Craig Martinez",
+  "sample_id": "insurance_document_0156"
+}

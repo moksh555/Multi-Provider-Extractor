@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XUY41IBLJ",
+  "policy_holder": "Timothy Koch",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-03-07",
+  "expiry_date": "2027-03-07",
+  "premium": 2205.75,
+  "coverage_amount": 164192.16,
+  "beneficiary": "Elizabeth Brown",
+  "sample_id": "insurance_document_0006"
+}

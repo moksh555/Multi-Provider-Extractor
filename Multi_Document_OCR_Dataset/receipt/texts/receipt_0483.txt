@@ -1,0 +1,37 @@
+Receipt RCT-V51PSXT0
+Merchant: Ortiz Inc
+Date: 2026-09-04
+Total: $202.56
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V51PSXT0",
+  "merchant_name": "Ortiz Inc",
+  "date": "2026-09-04",
+  "subtotal": 195.16,
+  "tax": 10.7,
+  "discount": 3.3,
+  "total": 202.56,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$27.08",
+      "line_total": "$108.32"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$12.37",
+      "line_total": "$37.11"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$49.73",
+      "line_total": "$49.73"
+    }
+  ],
+  "sample_id": "receipt_0483"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0174
+Company: CityBanking Supplies
+Company Address: 128 Al Barsha, Riyadh, Saudi Arabia
+Customer: Karim Enterprise
+Billing Address: 146 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-03-07
+Due Date: 2026-03-14
+Currency: QAR
+Subtotal: 8119.53
+Tax: 0.0
+Total: 7763.55
+Balance Due: 0.0
+Status: paid

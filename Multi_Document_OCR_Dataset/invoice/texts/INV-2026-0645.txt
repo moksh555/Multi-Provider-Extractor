@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0645
+Company: Greenline Logistics
+Company Address: 152 Zindabazar Road, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 60 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-04-10
+Due Date: 2026-04-25
+Currency: USD
+Subtotal: 18228.24
+Tax: 0.0
+Total: 17366.83
+Balance Due: 17366.83
+Status: unpaid

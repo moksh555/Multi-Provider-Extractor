@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-8M0LNK4U",
+  "patient_name": "Mr. James Smith",
+  "visit_date": "2025-03-10",
+  "doctor_name": "Dr. Alexa Solomon",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0172"
+}

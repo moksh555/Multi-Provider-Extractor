@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-J0VYSD3C",
+  "patient_name": "Haley Fuller",
+  "visit_date": "2024-03-18",
+  "doctor_name": "Dr. Dana Schaefer",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0251"
+}

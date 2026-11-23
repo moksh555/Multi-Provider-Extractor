@@ -1,0 +1,14 @@
+Medical Report MED-ZV3U2GDK
+Patient: Kevin Hall
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZV3U2GDK",
+  "patient_name": "Kevin Hall",
+  "visit_date": "2024-04-04",
+  "doctor_name": "Dr. Alexander Morales",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0622"
+}

@@ -1,0 +1,25 @@
+Resume
+Scott Smith
+Software Engineer
+Skills: NLP, PyTorch, LangChain, Pandas, Docker, TensorFlow, Deep Learning, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Scott Smith",
+  "email": "johnsoncatherine@example.org",
+  "phone": "(409)919-4908x17003",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "PyTorch",
+    "LangChain",
+    "Pandas",
+    "Docker",
+    "TensorFlow",
+    "Deep Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0417"
+}

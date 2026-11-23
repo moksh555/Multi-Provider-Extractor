@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Fernando Wright
+Passport No: P10600674
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10600674",
+  "full_name": "Fernando Wright",
+  "nationality": "BD",
+  "date_of_birth": "1999-05-15",
+  "issue_date": "2020-09-16",
+  "expiry_date": "2030-09-16",
+  "place_of_birth": "Marioshire",
+  "sample_id": "passport_0749"
+}

@@ -1,0 +1,23 @@
+Resume
+Steven Lucas
+Backend Developer
+Skills: PyTorch, Streamlit, Python, SQL, Computer Vision, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Steven Lucas",
+  "email": "ryan88@example.net",
+  "phone": "(565)894-8182x7291",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "PyTorch",
+    "Streamlit",
+    "Python",
+    "SQL",
+    "Computer Vision",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0427"
+}

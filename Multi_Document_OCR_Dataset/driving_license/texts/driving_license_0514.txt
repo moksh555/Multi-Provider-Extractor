@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jerry Jackson
+License: DL491103614
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL491103614",
+  "full_name": "Jerry Jackson",
+  "date_of_birth": "1990-09-08",
+  "class": "C",
+  "issue_date": "2021-12-06",
+  "expiry_date": "2026-12-06",
+  "address": "USNS Thompson, FPO AA 17975",
+  "sample_id": "driving_license_0514"
+}

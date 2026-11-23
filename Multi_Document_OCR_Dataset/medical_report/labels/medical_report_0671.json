@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-4OYVERPN",
+  "patient_name": "Lori Brown",
+  "visit_date": "2025-04-05",
+  "doctor_name": "Dr. Gary Owens",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0671"
+}

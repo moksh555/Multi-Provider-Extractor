@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL516025048",
+  "full_name": "David Barnett",
+  "date_of_birth": "1985-04-29",
+  "class": "C",
+  "issue_date": "2023-06-26",
+  "expiry_date": "2028-06-26",
+  "address": "7700 Garcia Pike Suite 498, South Desiree, MN 77529",
+  "sample_id": "driving_license_0233"
+}

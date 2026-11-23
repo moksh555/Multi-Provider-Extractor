@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0586
+Company: Nexus Digital Solutions
+Company Address: 114 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Future School
+Billing Address: 27 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-03-07
+Due Date: 2026-04-06
+Currency: QAR
+Subtotal: 4719.9
+Tax: 0.0
+Total: 4719.9
+Balance Due: 4719.9
+Status: unpaid

@@ -1,0 +1,16 @@
+Insurance Policy POL-07PCEASEH
+Holder: David Cook
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-07PCEASEH",
+  "policy_holder": "David Cook",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-03-21",
+  "expiry_date": "2024-03-21",
+  "premium": 2227.5,
+  "coverage_amount": 252640.42,
+  "beneficiary": "Tracie Johnson",
+  "sample_id": "insurance_document_0850"
+}

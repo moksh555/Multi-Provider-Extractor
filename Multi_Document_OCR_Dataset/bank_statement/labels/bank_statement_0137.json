@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9KRS51ZE",
+  "account_holder": "Susan Dawson",
+  "account_number_masked": "****0122",
+  "period_start": "2026-08-22",
+  "period_end": "2026-09-21",
+  "opening_balance": 4382.15,
+  "closing_balance": 5018.62,
+  "transactions": 11,
+  "sample_id": "bank_statement_0137"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Gina Randall
+License: DL265739806
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL265739806",
+  "full_name": "Gina Randall",
+  "date_of_birth": "1969-04-05",
+  "class": "C",
+  "issue_date": "2025-11-05",
+  "expiry_date": "2030-11-05",
+  "address": "328 Tammy Shore Apt. 461, Tommouth, WA 25334",
+  "sample_id": "driving_license_0333"
+}

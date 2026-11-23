@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL307774630",
+  "full_name": "Michael Goodman",
+  "date_of_birth": "1995-09-06",
+  "class": "D",
+  "issue_date": "2022-06-11",
+  "expiry_date": "2027-06-11",
+  "address": "833 Claudia Highway Suite 228, Jenniferstad, OH 63464",
+  "sample_id": "driving_license_0216"
+}

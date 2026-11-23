@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0698
+Company: BrightStar Electronics
+Company Address: 76 Al Barsha, Dhaka, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 183 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-06-14
+Due Date: 2026-06-29
+Currency: USD
+Subtotal: 23100.54
+Tax: 3291.83
+Total: 25237.34
+Balance Due: 25237.34
+Status: overdue

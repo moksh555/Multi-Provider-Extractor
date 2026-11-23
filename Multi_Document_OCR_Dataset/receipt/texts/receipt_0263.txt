@@ -1,0 +1,67 @@
+Receipt RCT-TMYJ014G
+Merchant: Anderson and Sons
+Date: 2022-07-19
+Total: $1261.46
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TMYJ014G",
+  "merchant_name": "Anderson and Sons",
+  "date": "2022-07-19",
+  "subtotal": 1193.71,
+  "tax": 81.88,
+  "discount": 14.13,
+  "total": 1261.46,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$61.84",
+      "line_total": "$61.84"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$62.87",
+      "line_total": "$188.61"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$65.93",
+      "line_total": "$263.72"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$52.67",
+      "line_total": "$210.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$18.98",
+      "line_total": "$75.92"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$19.46",
+      "line_total": "$77.84"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$27.91",
+      "line_total": "$111.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$67.82",
+      "line_total": "$203.46"
+    }
+  ],
+  "sample_id": "receipt_0263"
+}

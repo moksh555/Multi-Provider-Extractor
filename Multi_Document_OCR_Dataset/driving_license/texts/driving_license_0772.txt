@@ -1,0 +1,16 @@
+Synthetic Driving License
+Bryan Padilla
+License: DL119344036
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL119344036",
+  "full_name": "Bryan Padilla",
+  "date_of_birth": "1979-01-28",
+  "class": "A",
+  "issue_date": "2025-05-04",
+  "expiry_date": "2030-05-04",
+  "address": "11063 Brendan Common, Floreshaven, ID 62897",
+  "sample_id": "driving_license_0772"
+}

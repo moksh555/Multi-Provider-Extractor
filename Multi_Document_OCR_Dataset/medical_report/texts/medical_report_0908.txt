@@ -1,0 +1,14 @@
+Medical Report MED-62758WOS
+Patient: Keith Le
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-62758WOS",
+  "patient_name": "Keith Le",
+  "visit_date": "2024-11-13",
+  "doctor_name": "Dr. Dr. Tiffany Coleman",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0908"
+}

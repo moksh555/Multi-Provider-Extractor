@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-KR5CWQDB",
+  "patient_name": "Jonathan Tate",
+  "visit_date": "2024-11-29",
+  "doctor_name": "Dr. Megan Livingston",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0905"
+}

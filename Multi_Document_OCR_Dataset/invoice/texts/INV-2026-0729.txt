@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0729
+Company: Delta Insurance Services
+Company Address: 11 Jumeirah Lake Towers, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 70 Uttara Sector 7, Dubai, UAE
+Invoice Date: 2026-06-24
+Due Date: 2026-07-01
+Currency: BDT
+Subtotal: 15545.59
+Tax: 0.0
+Total: 14818.31
+Balance Due: 14818.31
+Status: unpaid

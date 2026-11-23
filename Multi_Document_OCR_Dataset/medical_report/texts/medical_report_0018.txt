@@ -1,0 +1,14 @@
+Medical Report MED-GGOKBDWL
+Patient: Michelle Bradley
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-GGOKBDWL",
+  "patient_name": "Michelle Bradley",
+  "visit_date": "2024-05-03",
+  "doctor_name": "Dr. Jason Mayo",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0018"
+}

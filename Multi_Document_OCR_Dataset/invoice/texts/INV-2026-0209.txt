@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0209
+Company: Nexus Digital Solutions
+Company Address: 159 Road 12, Banani, Dhaka, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 55 Jumeirah Lake Towers, Dhaka, Bangladesh
+Invoice Date: 2026-04-07
+Due Date: 2026-05-07
+Currency: SAR
+Subtotal: 12296.54
+Tax: 830.02
+Total: 11946.91
+Balance Due: 11946.91
+Status: overdue

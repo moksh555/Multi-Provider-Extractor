@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL861973435",
+  "full_name": "Charles Ryan MD",
+  "date_of_birth": "1990-08-12",
+  "class": "D",
+  "issue_date": "2020-02-21",
+  "expiry_date": "2025-02-21",
+  "address": "5339 Hall Trail Suite 057, Hughesberg, NM 05353",
+  "sample_id": "driving_license_0049"
+}

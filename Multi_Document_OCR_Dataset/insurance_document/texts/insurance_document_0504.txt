@@ -1,0 +1,16 @@
+Insurance Policy POL-AZ5UH80Q7
+Holder: Sarah Bishop
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AZ5UH80Q7",
+  "policy_holder": "Sarah Bishop",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-06-12",
+  "expiry_date": "2027-06-12",
+  "premium": 2149.6,
+  "coverage_amount": 454349.56,
+  "beneficiary": "Tyler Zavala",
+  "sample_id": "insurance_document_0504"
+}

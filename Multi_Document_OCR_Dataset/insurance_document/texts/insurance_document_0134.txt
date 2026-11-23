@@ -1,0 +1,16 @@
+Insurance Policy POL-NOBBUNKNQ
+Holder: Brian Glover
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NOBBUNKNQ",
+  "policy_holder": "Brian Glover",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-26",
+  "expiry_date": "2025-07-26",
+  "premium": 2084.24,
+  "coverage_amount": 315388.37,
+  "beneficiary": "Steven Baker",
+  "sample_id": "insurance_document_0134"
+}

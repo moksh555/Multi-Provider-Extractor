@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MZX4NKIO",
+  "merchant_name": "Hernandez, Dunlap and Lynch",
+  "date": "2025-10-21",
+  "subtotal": 142.74,
+  "tax": 9.37,
+  "discount": 9.2,
+  "total": 142.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$19.00",
+      "line_total": "$19.00"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$22.09",
+      "line_total": "$88.36"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$17.69",
+      "line_total": "$35.38"
+    }
+  ],
+  "sample_id": "receipt_0721"
+}

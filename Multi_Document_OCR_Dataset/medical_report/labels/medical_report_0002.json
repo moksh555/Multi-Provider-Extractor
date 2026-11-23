@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-M06HCE0L",
+  "patient_name": "Shawn Mann",
+  "visit_date": "2026-03-21",
+  "doctor_name": "Dr. Katherine Vargas MD",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0002"
+}

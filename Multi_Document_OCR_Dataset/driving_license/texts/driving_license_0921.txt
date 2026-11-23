@@ -1,0 +1,16 @@
+Synthetic Driving License
+Parker Vasquez
+License: DL514809091
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL514809091",
+  "full_name": "Parker Vasquez",
+  "date_of_birth": "1967-10-02",
+  "class": "C",
+  "issue_date": "2022-01-30",
+  "expiry_date": "2027-01-30",
+  "address": "1770 Valencia Parks Apt. 682, West Kathyfurt, ND 19326",
+  "sample_id": "driving_license_0921"
+}

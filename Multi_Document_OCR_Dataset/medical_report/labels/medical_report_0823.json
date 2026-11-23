@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-68HJGWBW",
+  "patient_name": "Tiffany Mcdonald",
+  "visit_date": "2025-08-22",
+  "doctor_name": "Dr. Jesus Stark",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0823"
+}

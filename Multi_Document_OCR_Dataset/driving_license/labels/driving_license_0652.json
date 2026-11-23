@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL457284772",
+  "full_name": "Corey Mitchell",
+  "date_of_birth": "1975-09-17",
+  "class": "B",
+  "issue_date": "2024-08-27",
+  "expiry_date": "2029-08-27",
+  "address": "PSC 6945, Box 9648, APO AP 84596",
+  "sample_id": "driving_license_0652"
+}

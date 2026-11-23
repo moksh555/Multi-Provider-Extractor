@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL539083034",
+  "full_name": "Cole Duncan",
+  "date_of_birth": "1980-02-19",
+  "class": "D",
+  "issue_date": "2022-04-22",
+  "expiry_date": "2027-04-22",
+  "address": "560 Atkins Corner Apt. 198, New Derekfort, OH 72800",
+  "sample_id": "driving_license_0858"
+}

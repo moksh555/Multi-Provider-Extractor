@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Timothy Miller
+Passport No: P10420097
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10420097",
+  "full_name": "Timothy Miller",
+  "nationality": "GB",
+  "date_of_birth": "1983-05-16",
+  "issue_date": "2026-05-10",
+  "expiry_date": "2036-05-10",
+  "place_of_birth": "East Veronicabury",
+  "sample_id": "passport_0594"
+}

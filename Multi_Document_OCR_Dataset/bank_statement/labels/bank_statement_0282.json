@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8BGJU7DA",
+  "account_holder": "Alyssa Wood",
+  "account_number_masked": "****6367",
+  "period_start": "2025-12-08",
+  "period_end": "2026-01-07",
+  "opening_balance": 3059.16,
+  "closing_balance": 6440.75,
+  "transactions": 9,
+  "sample_id": "bank_statement_0282"
+}

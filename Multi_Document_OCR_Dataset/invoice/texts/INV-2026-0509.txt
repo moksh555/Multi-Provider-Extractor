@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0509
+Company: Eastern Care Pharmacy
+Company Address: 74 Gulshan Avenue, Dubai, UAE
+Customer: Karim Enterprise
+Billing Address: 205 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-05-29
+Due Date: 2026-06-05
+Currency: SAR
+Subtotal: 21257.32
+Tax: 1062.87
+Total: 22325.19
+Balance Due: 22325.19
+Status: unpaid

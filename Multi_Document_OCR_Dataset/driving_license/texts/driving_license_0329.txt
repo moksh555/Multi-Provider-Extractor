@@ -1,0 +1,16 @@
+Synthetic Driving License
+Gary Brown
+License: DL817678868
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL817678868",
+  "full_name": "Gary Brown",
+  "date_of_birth": "1996-05-06",
+  "class": "B",
+  "issue_date": "2026-08-13",
+  "expiry_date": "2031-08-13",
+  "address": "USNV Thompson, FPO AE 64951",
+  "sample_id": "driving_license_0329"
+}

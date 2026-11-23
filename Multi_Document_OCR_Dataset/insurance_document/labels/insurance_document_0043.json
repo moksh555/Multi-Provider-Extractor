@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-I4WIRE8QJ",
+  "policy_holder": "Jason Gonzalez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-12-10",
+  "expiry_date": "2024-12-10",
+  "premium": 1562.02,
+  "coverage_amount": 482230.02,
+  "beneficiary": "Sherri Diaz",
+  "sample_id": "insurance_document_0043"
+}

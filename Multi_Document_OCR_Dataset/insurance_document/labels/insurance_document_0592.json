@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Z9VLU8WPF",
+  "policy_holder": "Eric Petersen",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-03-28",
+  "expiry_date": "2024-03-28",
+  "premium": 1300.32,
+  "coverage_amount": 460777.26,
+  "beneficiary": "Jennifer Baker",
+  "sample_id": "insurance_document_0592"
+}

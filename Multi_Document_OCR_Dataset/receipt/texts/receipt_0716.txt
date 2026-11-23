@@ -1,0 +1,37 @@
+Receipt RCT-KDPEHDM6
+Merchant: Barnett-Meyer
+Date: 2024-03-24
+Total: $560.60
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KDPEHDM6",
+  "merchant_name": "Barnett-Meyer",
+  "date": "2024-03-24",
+  "subtotal": 516.48,
+  "tax": 50.45,
+  "discount": 6.33,
+  "total": 560.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$15.12",
+      "line_total": "$60.48"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$42.35",
+      "line_total": "$169.40"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$71.65",
+      "line_total": "$286.60"
+    }
+  ],
+  "sample_id": "receipt_0716"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brandi Nielsen
+License: DL936678404
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL936678404",
+  "full_name": "Brandi Nielsen",
+  "date_of_birth": "1991-07-13",
+  "class": "D",
+  "issue_date": "2025-05-14",
+  "expiry_date": "2030-05-14",
+  "address": "26876 Kristin Run, New Anthonymouth, TX 16677",
+  "sample_id": "driving_license_0440"
+}

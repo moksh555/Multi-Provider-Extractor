@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Joshua Fowler",
+  "email": "deborah82@example.net",
+  "phone": "6722712633",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "Deep Learning",
+    "Machine Learning",
+    "Python",
+    "TensorFlow",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0579"
+}

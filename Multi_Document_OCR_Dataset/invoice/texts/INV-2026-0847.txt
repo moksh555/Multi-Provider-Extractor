@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0847
+Company: Delta Insurance Services
+Company Address: 89 Doha Business Park, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 11 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-12
+Due Date: 2026-06-19
+Currency: AED
+Subtotal: 12015.55
+Tax: 811.05
+Total: 11630.04
+Balance Due: 11630.04
+Status: overdue

@@ -1,0 +1,23 @@
+Resume
+Kathleen Peterson
+Backend Developer
+Skills: Streamlit, Docker, SQL, TensorFlow, LangChain, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Kathleen Peterson",
+  "email": "khanmatthew@example.org",
+  "phone": "820.911.4065x26642",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "Docker",
+    "SQL",
+    "TensorFlow",
+    "LangChain",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0189"
+}

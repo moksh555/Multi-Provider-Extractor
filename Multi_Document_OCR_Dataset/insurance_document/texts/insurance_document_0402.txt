@@ -1,0 +1,16 @@
+Insurance Policy POL-XYJCKT1EL
+Holder: Kimberly James
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XYJCKT1EL",
+  "policy_holder": "Kimberly James",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-03-11",
+  "expiry_date": "2027-03-11",
+  "premium": 1586.06,
+  "coverage_amount": 24267.52,
+  "beneficiary": "Melissa Kim",
+  "sample_id": "insurance_document_0402"
+}

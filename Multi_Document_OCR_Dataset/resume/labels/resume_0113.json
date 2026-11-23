@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Todd Baldwin",
+  "email": "sbailey@example.org",
+  "phone": "001-537-627-7685x7606",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "LangChain",
+    "Streamlit",
+    "AWS",
+    "FastAPI",
+    "SQL",
+    "NLP",
+    "Python",
+    "TensorFlow",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0113"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-VYCUYS4M
+Patient: Gary Rios
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-VYCUYS4M",
+  "patient_name": "Gary Rios",
+  "visit_date": "2025-12-13",
+  "doctor_name": "Dr. Edwin Carpenter MD",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0847"
+}

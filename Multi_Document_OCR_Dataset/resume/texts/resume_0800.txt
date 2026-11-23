@@ -1,0 +1,25 @@
+Resume
+Mr. Kenneth Mccoy DDS
+Machine Learning Engineer
+Skills: LangChain, SQL, Python, PyTorch, Streamlit, Docker, Machine Learning, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Mr. Kenneth Mccoy DDS",
+  "email": "morgan54@example.org",
+  "phone": "962.493.3698x3240",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "LangChain",
+    "SQL",
+    "Python",
+    "PyTorch",
+    "Streamlit",
+    "Docker",
+    "Machine Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0800"
+}

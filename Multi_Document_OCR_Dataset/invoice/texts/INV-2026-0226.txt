@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0226
+Company: Eastern Care Pharmacy
+Company Address: 122 Jumeirah Lake Towers, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 144 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-06-05
+Due Date: 2026-07-05
+Currency: BDT
+Subtotal: 15924.54
+Tax: 0.0
+Total: 15924.54
+Balance Due: 15924.54
+Status: unpaid

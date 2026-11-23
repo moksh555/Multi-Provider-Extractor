@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0178
+Company: Nova Medical Supplies
+Company Address: 76 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 197 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-03-10
+Due Date: 2026-03-25
+Currency: QAR
+Subtotal: 9753.94
+Tax: 0.0
+Total: 9276.24
+Balance Due: 0.0
+Status: paid

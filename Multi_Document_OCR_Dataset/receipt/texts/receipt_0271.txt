@@ -1,0 +1,61 @@
+Receipt RCT-23GGODLU
+Merchant: Novak PLC
+Date: 2023-02-16
+Total: $606.02
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-23GGODLU",
+  "merchant_name": "Novak PLC",
+  "date": "2023-02-16",
+  "subtotal": 572.72,
+  "tax": 48.05,
+  "discount": 14.75,
+  "total": 606.02,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$75.17",
+      "line_total": "$300.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$17.89",
+      "line_total": "$35.78"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$14.72",
+      "line_total": "$44.16"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$1.95",
+      "line_total": "$5.85"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$18.39",
+      "line_total": "$73.56"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$4.47",
+      "line_total": "$13.41"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$24.82",
+      "line_total": "$99.28"
+    }
+  ],
+  "sample_id": "receipt_0271"
+}

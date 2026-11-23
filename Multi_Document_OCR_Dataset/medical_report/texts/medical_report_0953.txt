@@ -1,0 +1,14 @@
+Medical Report MED-WALK1CFQ
+Patient: Michael Bennett
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WALK1CFQ",
+  "patient_name": "Michael Bennett",
+  "visit_date": "2025-12-31",
+  "doctor_name": "Dr. Sara Flores",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0953"
+}

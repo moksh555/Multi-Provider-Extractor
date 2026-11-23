@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Thomas
+License: DL434322585
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL434322585",
+  "full_name": "James Thomas",
+  "date_of_birth": "1977-02-20",
+  "class": "B",
+  "issue_date": "2020-12-16",
+  "expiry_date": "2025-12-16",
+  "address": "21969 Tyler Prairie, East Steven, KS 60737",
+  "sample_id": "driving_license_0052"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3TQ1S05WN",
+  "policy_holder": "Denise Delgado",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-05-04",
+  "expiry_date": "2025-05-04",
+  "premium": 883.25,
+  "coverage_amount": 41037.46,
+  "beneficiary": "Bryan Miller",
+  "sample_id": "insurance_document_0360"
+}

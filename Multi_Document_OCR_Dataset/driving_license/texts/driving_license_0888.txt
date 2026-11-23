@@ -1,0 +1,16 @@
+Synthetic Driving License
+Travis Jimenez
+License: DL666235988
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL666235988",
+  "full_name": "Travis Jimenez",
+  "date_of_birth": "1986-03-17",
+  "class": "D",
+  "issue_date": "2025-06-09",
+  "expiry_date": "2030-06-09",
+  "address": "USNS Gray, FPO AE 69749",
+  "sample_id": "driving_license_0888"
+}

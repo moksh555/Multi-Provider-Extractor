@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0074",
+  "invoice_number": "INV-2026-0074",
+  "company_name": "Delta Insurance Services",
+  "company_address": "17 Motijheel C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "110 Mirpur DOHS, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-24",
+  "due_date": "2026-03-11",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "partial",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 10,
+      "unit_price": 527.49,
+      "amount": 5274.9
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 8,
+      "unit_price": 354.9,
+      "amount": 2839.2
+    }
+  ],
+  "subtotal": 8114.1,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 811.41,
+  "shipping": 25,
+  "total": 8950.51,
+  "amount_paid": 4381.41,
+  "balance_due": 4569.1,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801211856879",
+  "po_number": "PO-73549"
+}

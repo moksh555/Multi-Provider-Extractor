@@ -1,0 +1,16 @@
+Bank Statement STM-T1S9J3MV
+Holder: Lindsay White
+Closing Balance: $3110.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T1S9J3MV",
+  "account_holder": "Lindsay White",
+  "account_number_masked": "****7340",
+  "period_start": "2026-04-05",
+  "period_end": "2026-05-05",
+  "opening_balance": 2786.5,
+  "closing_balance": 3110.38,
+  "transactions": 12,
+  "sample_id": "bank_statement_0371"
+}

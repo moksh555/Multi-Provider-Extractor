@@ -1,0 +1,55 @@
+Receipt RCT-JD1KSIBS
+Merchant: Miller, Jackson and Garcia
+Date: 2024-10-09
+Total: $687.53
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JD1KSIBS",
+  "merchant_name": "Miller, Jackson and Garcia",
+  "date": "2024-10-09",
+  "subtotal": 662.84,
+  "tax": 25.76,
+  "discount": 1.07,
+  "total": 687.53,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$35.17",
+      "line_total": "$140.68"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$26.04",
+      "line_total": "$104.16"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$15.19",
+      "line_total": "$15.19"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$51.98",
+      "line_total": "$155.94"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$24.27",
+      "line_total": "$24.27"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$74.20",
+      "line_total": "$222.60"
+    }
+  ],
+  "sample_id": "receipt_0262"
+}

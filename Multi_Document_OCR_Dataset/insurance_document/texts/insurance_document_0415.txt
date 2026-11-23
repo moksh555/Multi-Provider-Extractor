@@ -1,0 +1,16 @@
+Insurance Policy POL-OZDUCKQVI
+Holder: Michael Williams
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OZDUCKQVI",
+  "policy_holder": "Michael Williams",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-01-27",
+  "expiry_date": "2027-01-27",
+  "premium": 498.47,
+  "coverage_amount": 246363.58,
+  "beneficiary": "Amanda Williams",
+  "sample_id": "insurance_document_0415"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-G5VMF60Y
+Merchant: Stevens, Scott and Lopez
+Date: 2024-03-13
+Total: $283.62
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G5VMF60Y",
+  "merchant_name": "Stevens, Scott and Lopez",
+  "date": "2024-03-13",
+  "subtotal": 275.59,
+  "tax": 21.0,
+  "discount": 12.97,
+  "total": 283.62,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$13.87",
+      "line_total": "$13.87"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$52.14",
+      "line_total": "$104.28"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$52.48",
+      "line_total": "$157.44"
+    }
+  ],
+  "sample_id": "receipt_0114"
+}

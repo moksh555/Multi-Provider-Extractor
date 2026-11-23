@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-CUJVXHSH",
+  "merchant_name": "Payne LLC",
+  "date": "2026-06-08",
+  "subtotal": 468.91,
+  "tax": 38.79,
+  "discount": 14.02,
+  "total": 493.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$21.36",
+      "line_total": "$21.36"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$47.55",
+      "line_total": "$47.55"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$2.12",
+      "line_total": "$6.36"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$12.29",
+      "line_total": "$24.58"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$24.43",
+      "line_total": "$97.72"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$59.88",
+      "line_total": "$119.76"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$9.01",
+      "line_total": "$36.04"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$57.77",
+      "line_total": "$115.54"
+    }
+  ],
+  "sample_id": "receipt_0755"
+}

@@ -1,0 +1,24 @@
+Resume
+Jessica Wallace
+Computer Vision Engineer
+Skills: AWS, NLP, Streamlit, Computer Vision, Docker, Deep Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Jessica Wallace",
+  "email": "thomaskaren@example.com",
+  "phone": "(776)521-3545x61431",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "NLP",
+    "Streamlit",
+    "Computer Vision",
+    "Docker",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0871"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christopher Jackson
+Passport No: P02609528
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P02609528",
+  "full_name": "Christopher Jackson",
+  "nationality": "BD",
+  "date_of_birth": "2002-06-08",
+  "issue_date": "2022-04-05",
+  "expiry_date": "2032-04-05",
+  "place_of_birth": "Melissahaven",
+  "sample_id": "passport_0263"
+}

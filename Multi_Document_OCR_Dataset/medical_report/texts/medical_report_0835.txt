@@ -1,0 +1,14 @@
+Medical Report MED-TLBNK3HZ
+Patient: Mitchell Burns
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TLBNK3HZ",
+  "patient_name": "Mitchell Burns",
+  "visit_date": "2025-12-27",
+  "doctor_name": "Dr. Pamela Clark",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0835"
+}

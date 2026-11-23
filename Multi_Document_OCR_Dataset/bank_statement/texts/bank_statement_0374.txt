@@ -1,0 +1,16 @@
+Bank Statement STM-VD8H3CHU
+Holder: Jeremy Torres
+Closing Balance: $8744.10
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VD8H3CHU",
+  "account_holder": "Jeremy Torres",
+  "account_number_masked": "****9097",
+  "period_start": "2024-11-30",
+  "period_end": "2024-12-30",
+  "opening_balance": 4827.74,
+  "closing_balance": 8744.1,
+  "transactions": 8,
+  "sample_id": "bank_statement_0374"
+}

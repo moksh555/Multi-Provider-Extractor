@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JLOPO6J0M",
+  "policy_holder": "Kara Taylor",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-09-23",
+  "expiry_date": "2025-09-23",
+  "premium": 1185.37,
+  "coverage_amount": 118441.92,
+  "beneficiary": "Hannah Sanchez",
+  "sample_id": "insurance_document_0839"
+}

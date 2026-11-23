@@ -1,0 +1,16 @@
+Bank Statement STM-Z23QKG8J
+Holder: Christopher Scott
+Closing Balance: $6293.56
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z23QKG8J",
+  "account_holder": "Christopher Scott",
+  "account_number_masked": "****3797",
+  "period_start": "2026-01-10",
+  "period_end": "2026-02-09",
+  "opening_balance": 4568.83,
+  "closing_balance": 6293.56,
+  "transactions": 10,
+  "sample_id": "bank_statement_0546"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Daniel Barker
+License: DL719827192
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL719827192",
+  "full_name": "Daniel Barker",
+  "date_of_birth": "1984-11-22",
+  "class": "B",
+  "issue_date": "2021-01-09",
+  "expiry_date": "2026-01-09",
+  "address": "919 Roman Cliff Suite 262, East Tannerhaven, NH 71352",
+  "sample_id": "driving_license_0970"
+}

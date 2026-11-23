@@ -1,0 +1,43 @@
+Receipt RCT-M97XO485
+Merchant: Flores-Diaz
+Date: 2021-12-16
+Total: $358.58
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-M97XO485",
+  "merchant_name": "Flores-Diaz",
+  "date": "2021-12-16",
+  "subtotal": 338.45,
+  "tax": 26.51,
+  "discount": 6.38,
+  "total": 358.58,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$47.84",
+      "line_total": "$47.84"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$44.73",
+      "line_total": "$178.92"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$50.37",
+      "line_total": "$50.37"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$20.44",
+      "line_total": "$61.32"
+    }
+  ],
+  "sample_id": "receipt_0496"
+}

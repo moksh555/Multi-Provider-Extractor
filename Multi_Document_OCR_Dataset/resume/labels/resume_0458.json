@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Linda Murillo",
+  "email": "tina78@example.org",
+  "phone": "970-740-7936x518",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "Deep Learning",
+    "LangChain",
+    "Python",
+    "Streamlit",
+    "Machine Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0458"
+}

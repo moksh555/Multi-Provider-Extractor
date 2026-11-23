@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL144592321",
+  "full_name": "Scott Gordon",
+  "date_of_birth": "1974-02-20",
+  "class": "A",
+  "issue_date": "2023-05-31",
+  "expiry_date": "2028-05-31",
+  "address": "127 Natalie Place, North Timothyberg, MH 79599",
+  "sample_id": "driving_license_0239"
+}

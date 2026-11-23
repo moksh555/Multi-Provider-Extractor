@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KKBP2QD6V",
+  "policy_holder": "Steven Martin",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-07-18",
+  "expiry_date": "2027-07-18",
+  "premium": 1346.59,
+  "coverage_amount": 128549.69,
+  "beneficiary": "Eric Lyons",
+  "sample_id": "insurance_document_0112"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-24DSYSYMM
+Holder: Dennis Thomas
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-24DSYSYMM",
+  "policy_holder": "Dennis Thomas",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-05-11",
+  "expiry_date": "2026-05-11",
+  "premium": 2408.24,
+  "coverage_amount": 236029.15,
+  "beneficiary": "Tracey Hendrix",
+  "sample_id": "insurance_document_0780"
+}

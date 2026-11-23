@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Joy King",
+  "email": "dcraig@example.org",
+  "phone": "688-852-1148",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "Streamlit",
+    "Pandas",
+    "FastAPI",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0550"
+}

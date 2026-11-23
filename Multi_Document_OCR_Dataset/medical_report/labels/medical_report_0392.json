@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GSXM3QKS",
+  "patient_name": "Diana Malone MD",
+  "visit_date": "2026-03-08",
+  "doctor_name": "Dr. Jason Vincent",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0392"
+}

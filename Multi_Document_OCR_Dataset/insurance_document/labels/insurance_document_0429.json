@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GSB98V341",
+  "policy_holder": "Kristina Coffey",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-02-23",
+  "expiry_date": "2026-02-23",
+  "premium": 686.31,
+  "coverage_amount": 225690.65,
+  "beneficiary": "Steven Bowman",
+  "sample_id": "insurance_document_0429"
+}

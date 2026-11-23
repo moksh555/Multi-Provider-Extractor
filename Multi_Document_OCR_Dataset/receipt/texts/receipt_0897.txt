@@ -1,0 +1,61 @@
+Receipt RCT-524HIARM
+Merchant: Compton, Owens and Decker
+Date: 2024-08-03
+Total: $940.84
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-524HIARM",
+  "merchant_name": "Compton, Owens and Decker",
+  "date": "2024-08-03",
+  "subtotal": 915.3,
+  "tax": 32.79,
+  "discount": 7.25,
+  "total": 940.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$73.22",
+      "line_total": "$73.22"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$33.93",
+      "line_total": "$67.86"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$32.42",
+      "line_total": "$97.26"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$60.12",
+      "line_total": "$180.36"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$45.33",
+      "line_total": "$181.32"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$66.58",
+      "line_total": "$266.32"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$48.96",
+      "line_total": "$48.96"
+    }
+  ],
+  "sample_id": "receipt_0897"
+}

@@ -1,0 +1,26 @@
+Resume
+Valerie Velasquez
+Software Engineer
+Skills: SQL, Streamlit, FastAPI, PyTorch, Computer Vision, Python, AWS, Docker, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Valerie Velasquez",
+  "email": "sandrasimmons@example.com",
+  "phone": "001-558-389-9872x4446",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "Streamlit",
+    "FastAPI",
+    "PyTorch",
+    "Computer Vision",
+    "Python",
+    "AWS",
+    "Docker",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0937"
+}

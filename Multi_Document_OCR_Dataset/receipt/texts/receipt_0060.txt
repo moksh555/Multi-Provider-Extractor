@@ -1,0 +1,49 @@
+Receipt RCT-L9MO1SDI
+Merchant: Henson, Hoffman and Herman
+Date: 2022-05-17
+Total: $800.91
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-L9MO1SDI",
+  "merchant_name": "Henson, Hoffman and Herman",
+  "date": "2022-05-17",
+  "subtotal": 752.32,
+  "tax": 56.31,
+  "discount": 7.72,
+  "total": 800.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$12.13",
+      "line_total": "$24.26"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$75.69",
+      "line_total": "$227.07"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$77.05",
+      "line_total": "$154.10"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$74.77",
+      "line_total": "$224.31"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$61.29",
+      "line_total": "$122.58"
+    }
+  ],
+  "sample_id": "receipt_0060"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-8MEMZVCG
+Patient: Shelly Jones
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8MEMZVCG",
+  "patient_name": "Shelly Jones",
+  "visit_date": "2025-12-20",
+  "doctor_name": "Dr. Dorothy Rodriguez",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0146"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KTISWLWT6",
+  "policy_holder": "Caitlin Harris",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-08-22",
+  "expiry_date": "2026-08-22",
+  "premium": 2349.89,
+  "coverage_amount": 492617.63,
+  "beneficiary": "Brittany Mcguire",
+  "sample_id": "insurance_document_0798"
+}

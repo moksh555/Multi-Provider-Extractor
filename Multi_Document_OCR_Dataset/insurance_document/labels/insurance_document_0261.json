@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-26YS445GD",
+  "policy_holder": "Kelly Patel",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-06-13",
+  "expiry_date": "2025-06-13",
+  "premium": 1845.94,
+  "coverage_amount": 283925.51,
+  "beneficiary": "Nicole Wilson",
+  "sample_id": "insurance_document_0261"
+}

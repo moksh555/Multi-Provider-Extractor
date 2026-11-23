@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KXYWZ76DD",
+  "policy_holder": "Sean Chapman",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-03",
+  "expiry_date": "2024-07-03",
+  "premium": 1666.11,
+  "coverage_amount": 311967.58,
+  "beneficiary": "Rachel Johnson",
+  "sample_id": "insurance_document_0736"
+}

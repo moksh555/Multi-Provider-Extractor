@@ -1,0 +1,16 @@
+Insurance Policy POL-H7U0S3KDZ
+Holder: Melissa Allen
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-H7U0S3KDZ",
+  "policy_holder": "Melissa Allen",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-06-29",
+  "expiry_date": "2026-06-29",
+  "premium": 2235.53,
+  "coverage_amount": 251695.22,
+  "beneficiary": "Tamara Baird",
+  "sample_id": "insurance_document_0831"
+}

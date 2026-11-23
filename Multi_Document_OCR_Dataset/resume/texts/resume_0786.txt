@@ -1,0 +1,26 @@
+Resume
+Eric Owens
+Computer Vision Engineer
+Skills: TensorFlow, Docker, SQL, FastAPI, NLP, LangChain, Computer Vision, Machine Learning, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Eric Owens",
+  "email": "vsalazar@example.net",
+  "phone": "925.869.6411x350",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "SQL",
+    "FastAPI",
+    "NLP",
+    "LangChain",
+    "Computer Vision",
+    "Machine Learning",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0786"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Denise Foley
+Passport No: P10527402
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10527402",
+  "full_name": "Denise Foley",
+  "nationality": "BD",
+  "date_of_birth": "1970-11-02",
+  "issue_date": "2020-10-27",
+  "expiry_date": "2030-10-27",
+  "place_of_birth": "South Jason",
+  "sample_id": "passport_0486"
+}

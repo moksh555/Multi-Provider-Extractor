@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jenna Jensen
+License: DL595540768
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL595540768",
+  "full_name": "Jenna Jensen",
+  "date_of_birth": "1962-04-30",
+  "class": "A",
+  "issue_date": "2023-03-10",
+  "expiry_date": "2028-03-10",
+  "address": "626 Richard Island, South Jerry, VT 17059",
+  "sample_id": "driving_license_0563"
+}

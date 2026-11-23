@@ -1,0 +1,26 @@
+Resume
+Julie Mason
+Computer Vision Engineer
+Skills: SQL, PyTorch, AWS, Deep Learning, Computer Vision, Python, Pandas, TensorFlow, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Julie Mason",
+  "email": "kimberly65@example.com",
+  "phone": "001-546-498-9062",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "SQL",
+    "PyTorch",
+    "AWS",
+    "Deep Learning",
+    "Computer Vision",
+    "Python",
+    "Pandas",
+    "TensorFlow",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0153"
+}

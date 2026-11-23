@@ -1,0 +1,16 @@
+Synthetic Driving License
+Robert Hines
+License: DL273919170
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL273919170",
+  "full_name": "Robert Hines",
+  "date_of_birth": "2001-05-31",
+  "class": "D",
+  "issue_date": "2022-05-08",
+  "expiry_date": "2027-05-08",
+  "address": "135 Julie Inlet Suite 554, Stevenville, NJ 07536",
+  "sample_id": "driving_license_0196"
+}

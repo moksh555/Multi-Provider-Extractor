@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jeffrey Hawkins
+License: DL185571588
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL185571588",
+  "full_name": "Jeffrey Hawkins",
+  "date_of_birth": "1973-09-23",
+  "class": "B",
+  "issue_date": "2023-05-30",
+  "expiry_date": "2028-05-30",
+  "address": "15819 Shields Bridge, Robertland, VA 73840",
+  "sample_id": "driving_license_0136"
+}

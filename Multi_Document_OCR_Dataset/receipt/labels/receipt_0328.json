@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KX496K4O",
+  "merchant_name": "Mullins-Gutierrez",
+  "date": "2026-12-26",
+  "subtotal": 924.9,
+  "tax": 108.25,
+  "discount": 1.82,
+  "total": 1031.33,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$51.94",
+      "line_total": "$155.82"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$8.51",
+      "line_total": "$34.04"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$22.70",
+      "line_total": "$68.10"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$7.30",
+      "line_total": "$29.20"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$49.37",
+      "line_total": "$197.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$56.02",
+      "line_total": "$168.06"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$68.05",
+      "line_total": "$272.20"
+    }
+  ],
+  "sample_id": "receipt_0328"
+}

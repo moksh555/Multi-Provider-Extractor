@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0494",
+  "invoice_number": "INV-2026-0494",
+  "company_name": "Metro Print House",
+  "company_address": "147 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "230 Al Barsha, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-19",
+  "due_date": "2026-02-03",
+  "currency": "AED",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 787.89,
+      "amount": 787.89
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 259.97,
+      "amount": 2339.73
+    }
+  ],
+  "subtotal": 3127.62,
+  "discount": 156.38,
+  "tax_rate": 0.15,
+  "tax": 445.69,
+  "shipping": 5,
+  "total": 3421.93,
+  "amount_paid": 0,
+  "balance_due": 3421.93,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801877248535",
+  "po_number": "PO-07625"
+}

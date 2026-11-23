@@ -1,0 +1,67 @@
+Receipt RCT-LUOAY12T
+Merchant: Lambert Inc
+Date: 2024-07-06
+Total: $670.02
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LUOAY12T",
+  "merchant_name": "Lambert Inc",
+  "date": "2024-07-06",
+  "subtotal": 626.38,
+  "tax": 49.63,
+  "discount": 5.99,
+  "total": 670.02,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$37.45",
+      "line_total": "$112.35"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$73.78",
+      "line_total": "$73.78"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$30.68",
+      "line_total": "$30.68"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$42.08",
+      "line_total": "$84.16"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$16.59",
+      "line_total": "$33.18"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$70.95",
+      "line_total": "$70.95"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$50.47",
+      "line_total": "$100.94"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$60.17",
+      "line_total": "$120.34"
+    }
+  ],
+  "sample_id": "receipt_0372"
+}

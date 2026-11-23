@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL083793849",
+  "full_name": "Jessica Mora",
+  "date_of_birth": "1970-10-24",
+  "class": "A",
+  "issue_date": "2022-07-17",
+  "expiry_date": "2027-07-17",
+  "address": "33344 Reyes Meadows Apt. 934, South Henry, WY 19630",
+  "sample_id": "driving_license_0395"
+}

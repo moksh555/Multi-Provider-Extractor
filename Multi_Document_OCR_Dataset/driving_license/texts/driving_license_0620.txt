@@ -1,0 +1,16 @@
+Synthetic Driving License
+Rhonda Franklin
+License: DL507095333
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL507095333",
+  "full_name": "Rhonda Franklin",
+  "date_of_birth": "1962-04-11",
+  "class": "D",
+  "issue_date": "2022-07-13",
+  "expiry_date": "2027-07-13",
+  "address": "2770 Smith Camp Suite 783, Brownland, KY 80497",
+  "sample_id": "driving_license_0620"
+}

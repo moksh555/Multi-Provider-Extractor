@@ -1,0 +1,16 @@
+Insurance Policy POL-8C1GRA47S
+Holder: Karen Sosa
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8C1GRA47S",
+  "policy_holder": "Karen Sosa",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-03-10",
+  "expiry_date": "2024-03-10",
+  "premium": 1985.82,
+  "coverage_amount": 260168.45,
+  "beneficiary": "Kevin Little",
+  "sample_id": "insurance_document_0327"
+}

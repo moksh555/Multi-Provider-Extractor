@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0307
+Company: Golden Harvest Store
+Company Address: 89 Gulshan Avenue, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 243 Al Barsha, Sylhet, Bangladesh
+Invoice Date: 2026-02-28
+Due Date: 2026-03-07
+Currency: SAR
+Subtotal: 14308.3
+Tax: 0.0
+Total: 14047.13
+Balance Due: 14047.13
+Status: overdue

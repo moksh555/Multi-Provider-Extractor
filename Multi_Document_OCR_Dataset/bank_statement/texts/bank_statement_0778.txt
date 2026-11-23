@@ -1,0 +1,16 @@
+Bank Statement STM-8PO6AMAQ
+Holder: Cynthia Watson
+Closing Balance: $6110.26
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8PO6AMAQ",
+  "account_holder": "Cynthia Watson",
+  "account_number_masked": "****5570",
+  "period_start": "2025-07-26",
+  "period_end": "2025-08-25",
+  "opening_balance": 3071.57,
+  "closing_balance": 6110.26,
+  "transactions": 10,
+  "sample_id": "bank_statement_0778"
+}

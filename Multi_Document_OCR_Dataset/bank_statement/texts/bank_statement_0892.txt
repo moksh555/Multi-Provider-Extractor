@@ -1,0 +1,16 @@
+Bank Statement STM-0QG1L11O
+Holder: Wendy Mcdaniel
+Closing Balance: $5536.06
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-0QG1L11O",
+  "account_holder": "Wendy Mcdaniel",
+  "account_number_masked": "****0221",
+  "period_start": "2025-08-18",
+  "period_end": "2025-09-17",
+  "opening_balance": 3336.62,
+  "closing_balance": 5536.06,
+  "transactions": 8,
+  "sample_id": "bank_statement_0892"
+}

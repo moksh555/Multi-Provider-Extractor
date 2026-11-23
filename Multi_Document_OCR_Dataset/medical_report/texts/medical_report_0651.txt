@@ -1,0 +1,14 @@
+Medical Report MED-QUJQ9KVX
+Patient: Dr. Maureen Johnson
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QUJQ9KVX",
+  "patient_name": "Dr. Maureen Johnson",
+  "visit_date": "2024-03-30",
+  "doctor_name": "Dr. Benjamin Anderson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0651"
+}

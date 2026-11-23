@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-44JCK2ZC",
+  "patient_name": "Kenneth Smith",
+  "visit_date": "2025-02-25",
+  "doctor_name": "Dr. Christine Martinez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0482"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kimberly Macias
+Passport No: P50206610
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P50206610",
+  "full_name": "Kimberly Macias",
+  "nationality": "CA",
+  "date_of_birth": "1996-02-22",
+  "issue_date": "2025-01-05",
+  "expiry_date": "2035-01-05",
+  "place_of_birth": "Lake Lindsay",
+  "sample_id": "passport_0432"
+}

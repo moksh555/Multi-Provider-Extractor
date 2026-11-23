@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0595",
+  "invoice_number": "INV-2026-0595",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "38 Al Barsha, Dubai, UAE",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "32 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-13",
+  "due_date": "2026-02-28",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 207.95,
+      "amount": 2495.4
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 287.12,
+      "amount": 1148.48
+    }
+  ],
+  "subtotal": 3643.88,
+  "discount": 72.88,
+  "tax_rate": 0.075,
+  "tax": 267.82,
+  "shipping": 10,
+  "total": 3848.82,
+  "amount_paid": 3848.82,
+  "balance_due": 0.0,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801691058391",
+  "po_number": "PO-67806"
+}

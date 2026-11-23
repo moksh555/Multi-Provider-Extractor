@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Derek Lopez
+Passport No: P37246083
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P37246083",
+  "full_name": "Derek Lopez",
+  "nationality": "BD",
+  "date_of_birth": "1989-11-15",
+  "issue_date": "2022-09-20",
+  "expiry_date": "2032-09-20",
+  "place_of_birth": "New Ericville",
+  "sample_id": "passport_0070"
+}

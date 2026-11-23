@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0235
+Company: Royal Diagnostics Center
+Company Address: 19 Zindabazar Road, Chattogram, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 39 Al Barsha, Dubai, UAE
+Invoice Date: 2026-01-21
+Due Date: 2026-01-28
+Currency: BDT
+Subtotal: 11811.39
+Tax: 590.57
+Total: 12401.96
+Balance Due: 12401.96
+Status: unpaid

@@ -1,0 +1,16 @@
+Bank Statement STM-N3KE9OUJ
+Holder: John Wilson
+Closing Balance: $5749.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-N3KE9OUJ",
+  "account_holder": "John Wilson",
+  "account_number_masked": "****4246",
+  "period_start": "2024-09-12",
+  "period_end": "2024-10-12",
+  "opening_balance": 3681.07,
+  "closing_balance": 5749.86,
+  "transactions": 10,
+  "sample_id": "bank_statement_0052"
+}

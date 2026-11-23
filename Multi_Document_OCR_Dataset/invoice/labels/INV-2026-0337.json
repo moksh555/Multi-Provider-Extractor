@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0337",
+  "invoice_number": "INV-2026-0337",
+  "company_name": "BrightStar Electronics",
+  "company_address": "131 Zindabazar Road, Doha, Qatar",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "88 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-06-28",
+  "due_date": "2026-07-13",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 207.57,
+      "amount": 2075.7
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 8,
+      "unit_price": 482.3,
+      "amount": 3858.4
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 6,
+      "unit_price": 438.23,
+      "amount": 2629.38
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 639.66,
+      "amount": 4477.62
+    },
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 76.46,
+      "amount": 458.76
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 8,
+      "unit_price": 515.39,
+      "amount": 4123.12
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 386.47,
+      "amount": 772.94
+    }
+  ],
+  "subtotal": 18395.92,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 2759.39,
+  "shipping": 0,
+  "total": 21155.31,
+  "amount_paid": 13658.73,
+  "balance_due": 7496.58,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801737420365",
+  "po_number": "PO-79438"
+}

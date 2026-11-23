@@ -1,0 +1,16 @@
+Bank Statement STM-9YXJH8KG
+Holder: Michele Neal
+Closing Balance: $4907.90
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9YXJH8KG",
+  "account_holder": "Michele Neal",
+  "account_number_masked": "****7039",
+  "period_start": "2025-03-01",
+  "period_end": "2025-03-31",
+  "opening_balance": 3744.55,
+  "closing_balance": 4907.9,
+  "transactions": 10,
+  "sample_id": "bank_statement_0554"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Charles Oconnor
+Passport No: P47782717
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P47782717",
+  "full_name": "Charles Oconnor",
+  "nationality": "BD",
+  "date_of_birth": "1983-05-25",
+  "issue_date": "2025-01-19",
+  "expiry_date": "2035-01-19",
+  "place_of_birth": "Sarahburgh",
+  "sample_id": "passport_0126"
+}

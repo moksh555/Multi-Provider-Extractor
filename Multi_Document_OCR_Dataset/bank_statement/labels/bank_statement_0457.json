@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2CS2CMQ2",
+  "account_holder": "Alexis Peterson",
+  "account_number_masked": "****6090",
+  "period_start": "2024-01-06",
+  "period_end": "2024-02-05",
+  "opening_balance": 2874.28,
+  "closing_balance": 4578.62,
+  "transactions": 12,
+  "sample_id": "bank_statement_0457"
+}

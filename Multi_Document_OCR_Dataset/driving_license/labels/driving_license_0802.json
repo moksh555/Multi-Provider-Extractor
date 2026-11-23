@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL848906008",
+  "full_name": "David Tapia",
+  "date_of_birth": "1987-01-02",
+  "class": "C",
+  "issue_date": "2023-01-30",
+  "expiry_date": "2028-01-30",
+  "address": "609 Cooper Landing Apt. 469, Reidshire, AZ 89514",
+  "sample_id": "driving_license_0802"
+}

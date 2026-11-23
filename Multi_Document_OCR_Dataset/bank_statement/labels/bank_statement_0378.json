@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RYBCN78H",
+  "account_holder": "Ana Collins",
+  "account_number_masked": "****1314",
+  "period_start": "2024-10-29",
+  "period_end": "2024-11-28",
+  "opening_balance": 1950.3,
+  "closing_balance": 3484.25,
+  "transactions": 10,
+  "sample_id": "bank_statement_0378"
+}

@@ -1,0 +1,49 @@
+Receipt RCT-83JUWLIU
+Merchant: Patel, Johnston and Adams
+Date: 2021-03-20
+Total: $432.84
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-83JUWLIU",
+  "merchant_name": "Patel, Johnston and Adams",
+  "date": "2021-03-20",
+  "subtotal": 391.65,
+  "tax": 44.68,
+  "discount": 3.49,
+  "total": 432.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$59.41",
+      "line_total": "$118.82"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$14.79",
+      "line_total": "$44.37"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$27.42",
+      "line_total": "$54.84"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$66.35",
+      "line_total": "$132.70"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$20.46",
+      "line_total": "$40.92"
+    }
+  ],
+  "sample_id": "receipt_0932"
+}

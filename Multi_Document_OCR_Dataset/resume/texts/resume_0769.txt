@@ -1,0 +1,27 @@
+Resume
+Steven Scott
+Software Engineer
+Skills: AWS, NLP, Streamlit, Deep Learning, Python, Docker, Computer Vision, LangChain, TensorFlow, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Steven Scott",
+  "email": "tonyparker@example.com",
+  "phone": "315-778-7378",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "NLP",
+    "Streamlit",
+    "Deep Learning",
+    "Python",
+    "Docker",
+    "Computer Vision",
+    "LangChain",
+    "TensorFlow",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0769"
+}

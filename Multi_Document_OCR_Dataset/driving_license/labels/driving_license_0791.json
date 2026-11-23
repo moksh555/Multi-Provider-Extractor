@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL438340090",
+  "full_name": "Walter Powers",
+  "date_of_birth": "1997-09-02",
+  "class": "C",
+  "issue_date": "2024-03-17",
+  "expiry_date": "2029-03-17",
+  "address": "10613 Kathleen Street, Marissaborough, FM 78260",
+  "sample_id": "driving_license_0791"
+}

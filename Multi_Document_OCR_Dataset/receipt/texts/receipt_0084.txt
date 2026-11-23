@@ -1,0 +1,55 @@
+Receipt RCT-7D30MM2S
+Merchant: Rose, Burch and Montoya
+Date: 2024-11-27
+Total: $585.43
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7D30MM2S",
+  "merchant_name": "Rose, Burch and Montoya",
+  "date": "2024-11-27",
+  "subtotal": 527.57,
+  "tax": 61.34,
+  "discount": 3.48,
+  "total": 585.43,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$58.04",
+      "line_total": "$232.16"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$6.31",
+      "line_total": "$18.93"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$2.78",
+      "line_total": "$2.78"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$54.49",
+      "line_total": "$54.49"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$41.76",
+      "line_total": "$83.52"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$45.23",
+      "line_total": "$135.69"
+    }
+  ],
+  "sample_id": "receipt_0084"
+}

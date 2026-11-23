@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JSG65KXVF",
+  "policy_holder": "James Brown",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-01-09",
+  "expiry_date": "2027-01-09",
+  "premium": 2389.33,
+  "coverage_amount": 461992.7,
+  "beneficiary": "William Baker",
+  "sample_id": "insurance_document_0010"
+}

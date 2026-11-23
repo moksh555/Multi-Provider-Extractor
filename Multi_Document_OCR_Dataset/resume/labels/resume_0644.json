@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Nancy Pittman",
+  "email": "kathrynwilliams@example.org",
+  "phone": "(543)403-2977x4443",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Python",
+    "Pandas",
+    "Deep Learning",
+    "LangChain",
+    "NLP",
+    "SQL",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0644"
+}

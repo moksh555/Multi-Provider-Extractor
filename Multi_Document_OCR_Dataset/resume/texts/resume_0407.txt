@@ -1,0 +1,26 @@
+Resume
+Rhonda Brown
+Data Analyst
+Skills: Deep Learning, FastAPI, Pandas, Machine Learning, Docker, Computer Vision, NLP, Python, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Rhonda Brown",
+  "email": "stanleyamanda@example.org",
+  "phone": "001-423-224-6872",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "FastAPI",
+    "Pandas",
+    "Machine Learning",
+    "Docker",
+    "Computer Vision",
+    "NLP",
+    "Python",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0407"
+}

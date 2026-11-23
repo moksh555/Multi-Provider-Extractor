@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0561
+Company: Delta Insurance Services
+Company Address: 86 Doha Business Park, Dubai, UAE
+Customer: Future School
+Billing Address: 149 Agrabad C/A, Dubai, UAE
+Invoice Date: 2026-03-26
+Due Date: 2026-05-10
+Currency: USD
+Subtotal: 19126.33
+Tax: 937.19
+Total: 19680.99
+Balance Due: 19680.99
+Status: unpaid

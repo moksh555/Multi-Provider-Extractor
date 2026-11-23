@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0597",
+  "invoice_number": "INV-2026-0597",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "106 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "customer_name": "Rahim Traders",
+  "billing_address": "245 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-08",
+  "due_date": "2026-03-15",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 463.94,
+      "amount": 3247.58
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 11,
+      "unit_price": 236.98,
+      "amount": 2606.78
+    }
+  ],
+  "subtotal": 5854.36,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 5854.36,
+  "amount_paid": 0,
+  "balance_due": 5854.36,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801114151371",
+  "po_number": "PO-25152"
+}

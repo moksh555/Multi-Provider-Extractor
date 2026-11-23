@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IEKZ9L87",
+  "patient_name": "Kathy Acevedo",
+  "visit_date": "2025-12-23",
+  "doctor_name": "Dr. Janice Bates",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0389"
+}

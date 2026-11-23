@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Dylan Schwartz
+Passport No: P42854321
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P42854321",
+  "full_name": "Dylan Schwartz",
+  "nationality": "BD",
+  "date_of_birth": "1978-05-09",
+  "issue_date": "2025-04-13",
+  "expiry_date": "2035-04-13",
+  "place_of_birth": "Edwardsberg",
+  "sample_id": "passport_0545"
+}

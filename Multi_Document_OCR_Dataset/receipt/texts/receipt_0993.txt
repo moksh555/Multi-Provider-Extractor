@@ -1,0 +1,67 @@
+Receipt RCT-QNKV78RT
+Merchant: White-Gill
+Date: 2023-10-30
+Total: $1034.67
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QNKV78RT",
+  "merchant_name": "White-Gill",
+  "date": "2023-10-30",
+  "subtotal": 942.8,
+  "tax": 103.25,
+  "discount": 11.38,
+  "total": 1034.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$7.37",
+      "line_total": "$14.74"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$37.18",
+      "line_total": "$37.18"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$43.29",
+      "line_total": "$129.87"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$64.25",
+      "line_total": "$192.75"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$36.24",
+      "line_total": "$144.96"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$47.58",
+      "line_total": "$190.32"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$27.12",
+      "line_total": "$108.48"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$41.50",
+      "line_total": "$124.50"
+    }
+  ],
+  "sample_id": "receipt_0993"
+}

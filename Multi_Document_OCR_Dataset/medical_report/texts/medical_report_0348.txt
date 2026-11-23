@@ -1,0 +1,14 @@
+Medical Report MED-FN3N20VR
+Patient: Daniel Brown
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-FN3N20VR",
+  "patient_name": "Daniel Brown",
+  "visit_date": "2025-01-07",
+  "doctor_name": "Dr. Steven Owen",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0348"
+}

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Bradley Lee",
+  "email": "hortoncarrie@example.net",
+  "phone": "718-212-1652",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Deep Learning",
+    "NLP",
+    "SQL",
+    "Python",
+    "Pandas",
+    "Computer Vision",
+    "Machine Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0607"
+}

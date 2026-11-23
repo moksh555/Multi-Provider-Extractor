@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Theodore Vargas II
+Passport No: P52376715
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P52376715",
+  "full_name": "Theodore Vargas II",
+  "nationality": "BD",
+  "date_of_birth": "1986-03-29",
+  "issue_date": "2023-08-10",
+  "expiry_date": "2033-08-10",
+  "place_of_birth": "Rebeccaburgh",
+  "sample_id": "passport_0748"
+}

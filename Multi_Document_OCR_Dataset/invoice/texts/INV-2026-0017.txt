@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0017
+Company: Metro Print House
+Company Address: 88 Zindabazar Road, Chattogram, Bangladesh
+Customer: TechPoint BD
+Billing Address: 31 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-03-22
+Due Date: 2026-03-29
+Currency: QAR
+Subtotal: 18504.96
+Tax: 925.25
+Total: 19440.21
+Balance Due: 19440.21
+Status: unpaid

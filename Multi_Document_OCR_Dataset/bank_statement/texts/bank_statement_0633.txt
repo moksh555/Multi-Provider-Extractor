@@ -1,0 +1,16 @@
+Bank Statement STM-26QEX3ZL
+Holder: Joshua Erickson
+Closing Balance: $5221.40
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-26QEX3ZL",
+  "account_holder": "Joshua Erickson",
+  "account_number_masked": "****9900",
+  "period_start": "2024-11-12",
+  "period_end": "2024-12-12",
+  "opening_balance": 3479.92,
+  "closing_balance": 5221.4,
+  "transactions": 11,
+  "sample_id": "bank_statement_0633"
+}

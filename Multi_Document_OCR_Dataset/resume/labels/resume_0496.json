@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Robert Ortega",
+  "email": "joseph70@example.org",
+  "phone": "+1-841-759-1242",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "SQL",
+    "Pandas",
+    "LangChain",
+    "FastAPI",
+    "PyTorch",
+    "TensorFlow",
+    "Deep Learning",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0496"
+}

@@ -1,0 +1,25 @@
+Resume
+Michelle Rivera
+Computer Vision Engineer
+Skills: SQL, FastAPI, PyTorch, AWS, TensorFlow, Computer Vision, Deep Learning, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Michelle Rivera",
+  "email": "chris52@example.net",
+  "phone": "001-514-247-8674x28021",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "FastAPI",
+    "PyTorch",
+    "AWS",
+    "TensorFlow",
+    "Computer Vision",
+    "Deep Learning",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0180"
+}

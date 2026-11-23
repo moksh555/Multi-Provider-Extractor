@@ -1,0 +1,55 @@
+Receipt RCT-B2FLURMW
+Merchant: Maynard-Ruiz
+Date: 2025-07-20
+Total: $856.39
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-B2FLURMW",
+  "merchant_name": "Maynard-Ruiz",
+  "date": "2025-07-20",
+  "subtotal": 814.78,
+  "tax": 51.24,
+  "discount": 9.63,
+  "total": 856.39,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$50.08",
+      "line_total": "$200.32"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$59.85",
+      "line_total": "$59.85"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$79.74",
+      "line_total": "$239.22"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$27.94",
+      "line_total": "$83.82"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$53.40",
+      "line_total": "$213.60"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$5.99",
+      "line_total": "$17.97"
+    }
+  ],
+  "sample_id": "receipt_0414"
+}

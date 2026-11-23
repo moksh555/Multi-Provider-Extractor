@@ -1,0 +1,16 @@
+Insurance Policy POL-C56T4UFEL
+Holder: Alexander Collins
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-C56T4UFEL",
+  "policy_holder": "Alexander Collins",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-01-02",
+  "expiry_date": "2026-01-02",
+  "premium": 619.98,
+  "coverage_amount": 132269.57,
+  "beneficiary": "Tina Sanders",
+  "sample_id": "insurance_document_0025"
+}

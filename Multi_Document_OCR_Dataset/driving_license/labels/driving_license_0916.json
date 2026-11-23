@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL602406269",
+  "full_name": "Emily Mcdonald",
+  "date_of_birth": "1962-09-24",
+  "class": "D",
+  "issue_date": "2025-04-12",
+  "expiry_date": "2030-04-12",
+  "address": "1337 Patricia Plains Suite 449, Lake Susanshire, MD 06764",
+  "sample_id": "driving_license_0916"
+}

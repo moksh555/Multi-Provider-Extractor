@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL213351779",
+  "full_name": "Austin Reynolds",
+  "date_of_birth": "1968-01-15",
+  "class": "D",
+  "issue_date": "2025-03-14",
+  "expiry_date": "2030-03-14",
+  "address": "8231 Jason Parkway Suite 587, Lake Kevinborough, OK 88566",
+  "sample_id": "driving_license_0699"
+}

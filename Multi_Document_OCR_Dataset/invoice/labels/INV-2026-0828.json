@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0828",
+  "invoice_number": "INV-2026-0828",
+  "company_name": "Summit Agro Foods",
+  "company_address": "100 Gulshan Avenue, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "95 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-26",
+  "due_date": "2026-07-10",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 6,
+      "unit_price": 97.12,
+      "amount": 582.72
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 12,
+      "unit_price": 231.71,
+      "amount": 2780.52
+    }
+  ],
+  "subtotal": 3363.24,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 252.24,
+  "shipping": 50,
+  "total": 3665.48,
+  "amount_paid": 0,
+  "balance_due": 3665.48,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801443111724",
+  "po_number": "PO-94639"
+}

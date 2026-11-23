@@ -1,0 +1,14 @@
+Medical Report MED-KXSNPC5D
+Patient: Jeff Wagner
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KXSNPC5D",
+  "patient_name": "Jeff Wagner",
+  "visit_date": "2026-12-17",
+  "doctor_name": "Dr. Stephen Greer",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0293"
+}

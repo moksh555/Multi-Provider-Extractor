@@ -1,0 +1,14 @@
+Medical Report MED-8ERTMCQH
+Patient: Kelly Daniel
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8ERTMCQH",
+  "patient_name": "Kelly Daniel",
+  "visit_date": "2025-12-20",
+  "doctor_name": "Dr. Kelly King",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0325"
+}

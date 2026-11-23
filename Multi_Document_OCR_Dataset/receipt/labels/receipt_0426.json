@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HQTYLU58",
+  "merchant_name": "Rodriguez, Brown and Watson",
+  "date": "2022-08-14",
+  "subtotal": 523.37,
+  "tax": 60.4,
+  "discount": 5.81,
+  "total": 577.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$77.70",
+      "line_total": "$77.70"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$47.41",
+      "line_total": "$142.23"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$42.85",
+      "line_total": "$42.85"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$20.66",
+      "line_total": "$41.32"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$3.33",
+      "line_total": "$6.66"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$27.21",
+      "line_total": "$27.21"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$46.35",
+      "line_total": "$185.40"
+    }
+  ],
+  "sample_id": "receipt_0426"
+}

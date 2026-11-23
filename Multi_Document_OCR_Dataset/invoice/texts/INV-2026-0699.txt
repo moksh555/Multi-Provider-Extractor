@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0699
+Company: Royal Diagnostics Center
+Company Address: 80 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 162 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-01-13
+Due Date: 2026-01-28
+Currency: BDT
+Subtotal: 4785.56
+Tax: 358.92
+Total: 5154.48
+Balance Due: 5154.48
+Status: overdue

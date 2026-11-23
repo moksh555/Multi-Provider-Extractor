@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FEAG9QHO",
+  "patient_name": "Antonio Gardner",
+  "visit_date": "2024-01-23",
+  "doctor_name": "Dr. Aaron Young",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0295"
+}

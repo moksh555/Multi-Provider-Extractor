@@ -1,0 +1,16 @@
+Bank Statement STM-KV6IARLS
+Holder: Tara Barton
+Closing Balance: $7563.59
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KV6IARLS",
+  "account_holder": "Tara Barton",
+  "account_number_masked": "****1675",
+  "period_start": "2026-10-18",
+  "period_end": "2026-11-17",
+  "opening_balance": 4877.43,
+  "closing_balance": 7563.59,
+  "transactions": 11,
+  "sample_id": "bank_statement_0043"
+}

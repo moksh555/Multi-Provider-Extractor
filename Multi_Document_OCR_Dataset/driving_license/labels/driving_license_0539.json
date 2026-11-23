@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL221622107",
+  "full_name": "Paula Shepherd",
+  "date_of_birth": "1987-11-10",
+  "class": "D",
+  "issue_date": "2025-03-16",
+  "expiry_date": "2030-03-16",
+  "address": "50305 Rosario Creek, West Michaelberg, LA 60845",
+  "sample_id": "driving_license_0539"
+}

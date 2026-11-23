@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AZJMWN2K",
+  "account_holder": "James Lopez",
+  "account_number_masked": "****0002",
+  "period_start": "2026-06-21",
+  "period_end": "2026-07-21",
+  "opening_balance": 2079.53,
+  "closing_balance": 213.06,
+  "transactions": 10,
+  "sample_id": "bank_statement_0547"
+}

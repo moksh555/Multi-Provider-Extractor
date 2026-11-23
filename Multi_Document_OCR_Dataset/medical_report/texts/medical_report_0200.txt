@@ -1,0 +1,14 @@
+Medical Report MED-TUGSWUNS
+Patient: Emily Holloway
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TUGSWUNS",
+  "patient_name": "Emily Holloway",
+  "visit_date": "2026-02-26",
+  "doctor_name": "Dr. Carrie Schneider",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0200"
+}

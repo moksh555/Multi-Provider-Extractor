@@ -1,0 +1,16 @@
+Insurance Policy POL-K7BPGYVYV
+Holder: Melissa Castro
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-K7BPGYVYV",
+  "policy_holder": "Melissa Castro",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-12-30",
+  "expiry_date": "2024-12-30",
+  "premium": 2419.78,
+  "coverage_amount": 377174.06,
+  "beneficiary": "Brian Bennett",
+  "sample_id": "insurance_document_0397"
+}

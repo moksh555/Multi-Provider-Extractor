@@ -1,0 +1,16 @@
+Insurance Policy POL-BFH024KWK
+Holder: Patrick Perkins
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BFH024KWK",
+  "policy_holder": "Patrick Perkins",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-01-23",
+  "expiry_date": "2024-01-23",
+  "premium": 1437.39,
+  "coverage_amount": 281984.18,
+  "beneficiary": "Teresa Wade",
+  "sample_id": "insurance_document_0303"
+}

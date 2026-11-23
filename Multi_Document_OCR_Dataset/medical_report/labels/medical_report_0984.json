@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IP1WW0AU",
+  "patient_name": "Marie Christensen",
+  "visit_date": "2026-11-18",
+  "doctor_name": "Dr. Joshua Reid Jr.",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0984"
+}

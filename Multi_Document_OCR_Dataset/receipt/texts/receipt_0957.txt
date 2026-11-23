@@ -1,0 +1,49 @@
+Receipt RCT-09O08NE4
+Merchant: Hernandez LLC
+Date: 2021-08-13
+Total: $238.05
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-09O08NE4",
+  "merchant_name": "Hernandez LLC",
+  "date": "2021-08-13",
+  "subtotal": 221.44,
+  "tax": 23.51,
+  "discount": 6.9,
+  "total": 238.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$31.76",
+      "line_total": "$63.52"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$4.78",
+      "line_total": "$4.78"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$53.71",
+      "line_total": "$53.71"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$65.62",
+      "line_total": "$65.62"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$33.81",
+      "line_total": "$33.81"
+    }
+  ],
+  "sample_id": "receipt_0957"
+}

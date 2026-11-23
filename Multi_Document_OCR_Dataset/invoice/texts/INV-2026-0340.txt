@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0340
+Company: BlueRiver Trading Co.
+Company Address: 69 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 129 Dhanmondi 27, Sylhet, Bangladesh
+Invoice Date: 2026-04-10
+Due Date: 2026-05-25
+Currency: USD
+Subtotal: 15069.08
+Tax: 1506.91
+Total: 16625.99
+Balance Due: 7292.23
+Status: partial

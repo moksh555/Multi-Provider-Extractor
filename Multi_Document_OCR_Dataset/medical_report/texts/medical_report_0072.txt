@@ -1,0 +1,14 @@
+Medical Report MED-YKYFBP4Q
+Patient: Jennifer Johnston
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YKYFBP4Q",
+  "patient_name": "Jennifer Johnston",
+  "visit_date": "2026-04-10",
+  "doctor_name": "Dr. Gary Morris",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0072"
+}

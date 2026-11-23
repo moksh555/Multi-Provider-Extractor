@@ -1,0 +1,16 @@
+Insurance Policy POL-76AV3S2SU
+Holder: Pamela Carr
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-76AV3S2SU",
+  "policy_holder": "Pamela Carr",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-03-16",
+  "expiry_date": "2025-03-16",
+  "premium": 1021.64,
+  "coverage_amount": 295516.26,
+  "beneficiary": "Ronald Taylor",
+  "sample_id": "insurance_document_0818"
+}

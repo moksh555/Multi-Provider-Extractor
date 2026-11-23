@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kyle King
+Passport No: P90337433
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P90337433",
+  "full_name": "Kyle King",
+  "nationality": "CA",
+  "date_of_birth": "1974-09-11",
+  "issue_date": "2021-03-04",
+  "expiry_date": "2031-03-04",
+  "place_of_birth": "East Allisonchester",
+  "sample_id": "passport_0526"
+}

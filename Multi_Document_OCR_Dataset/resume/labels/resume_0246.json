@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Paul Larsen",
+  "email": "ernestwright@example.net",
+  "phone": "968-726-8221",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "Deep Learning",
+    "Machine Learning",
+    "Pandas",
+    "SQL",
+    "Docker",
+    "NLP",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0246"
+}

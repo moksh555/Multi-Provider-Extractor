@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-A5QSSHLL",
+  "patient_name": "Mrs. Alicia Bowers",
+  "visit_date": "2025-12-11",
+  "doctor_name": "Dr. Jason Bruce",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0702"
+}

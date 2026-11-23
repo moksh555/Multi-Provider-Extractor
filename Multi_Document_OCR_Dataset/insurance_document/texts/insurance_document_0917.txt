@@ -1,0 +1,16 @@
+Insurance Policy POL-CPK7PWTG2
+Holder: Zachary Moreno
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CPK7PWTG2",
+  "policy_holder": "Zachary Moreno",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-03-12",
+  "expiry_date": "2025-03-12",
+  "premium": 851.14,
+  "coverage_amount": 159638.07,
+  "beneficiary": "Denise Hoffman",
+  "sample_id": "insurance_document_0917"
+}

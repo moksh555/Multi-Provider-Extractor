@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Faith Quinn
+Passport No: P19813959
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P19813959",
+  "full_name": "Faith Quinn",
+  "nationality": "BD",
+  "date_of_birth": "1982-11-08",
+  "issue_date": "2021-03-20",
+  "expiry_date": "2031-03-20",
+  "place_of_birth": "Christinemouth",
+  "sample_id": "passport_0284"
+}

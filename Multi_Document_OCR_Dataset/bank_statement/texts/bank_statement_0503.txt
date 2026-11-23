@@ -1,0 +1,16 @@
+Bank Statement STM-Z0MSG1B3
+Holder: Wanda Burton
+Closing Balance: $3703.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z0MSG1B3",
+  "account_holder": "Wanda Burton",
+  "account_number_masked": "****8711",
+  "period_start": "2025-07-01",
+  "period_end": "2025-07-31",
+  "opening_balance": 3298.52,
+  "closing_balance": 3703.36,
+  "transactions": 14,
+  "sample_id": "bank_statement_0503"
+}

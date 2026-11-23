@@ -1,0 +1,24 @@
+Resume
+Andrew Hendricks
+Machine Learning Engineer
+Skills: FastAPI, TensorFlow, PyTorch, SQL, Deep Learning, AWS, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Andrew Hendricks",
+  "email": "doconnor@example.net",
+  "phone": "592.278.8881",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "TensorFlow",
+    "PyTorch",
+    "SQL",
+    "Deep Learning",
+    "AWS",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0288"
+}

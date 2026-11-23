@@ -1,0 +1,16 @@
+Synthetic Driving License
+Chad Zamora
+License: DL520884310
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL520884310",
+  "full_name": "Chad Zamora",
+  "date_of_birth": "2004-08-14",
+  "class": "C",
+  "issue_date": "2023-04-25",
+  "expiry_date": "2028-04-25",
+  "address": "50488 Clinton Mount, Ericview, MN 76805",
+  "sample_id": "driving_license_0277"
+}

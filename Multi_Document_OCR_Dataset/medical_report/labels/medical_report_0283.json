@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-N6BMXQRH",
+  "patient_name": "Lucas Manning",
+  "visit_date": "2025-08-02",
+  "doctor_name": "Dr. Katherine Wilkins",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0283"
+}

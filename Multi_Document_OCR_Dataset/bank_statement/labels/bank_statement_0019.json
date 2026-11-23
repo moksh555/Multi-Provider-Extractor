@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PB01QCTE",
+  "account_holder": "James Meyers",
+  "account_number_masked": "****0234",
+  "period_start": "2024-01-22",
+  "period_end": "2024-02-21",
+  "opening_balance": 3805.89,
+  "closing_balance": 3618.83,
+  "transactions": 8,
+  "sample_id": "bank_statement_0019"
+}

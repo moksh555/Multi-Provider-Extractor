@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sandy Todd
+License: DL733867961
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL733867961",
+  "full_name": "Sandy Todd",
+  "date_of_birth": "1976-11-11",
+  "class": "B",
+  "issue_date": "2020-06-30",
+  "expiry_date": "2025-06-30",
+  "address": "38885 Martin Dam Suite 866, West Michelleshire, NY 54963",
+  "sample_id": "driving_license_0935"
+}

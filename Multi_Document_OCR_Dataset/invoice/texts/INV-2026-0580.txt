@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0580
+Company: PrimeSoft Technologies
+Company Address: 29 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 25 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-05-22
+Due Date: 2026-05-29
+Currency: AED
+Subtotal: 12759.71
+Tax: 625.23
+Total: 13129.75
+Balance Due: 0.0
+Status: paid

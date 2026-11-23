@@ -1,0 +1,27 @@
+Resume
+Tony Brooks
+Software Engineer
+Skills: Docker, AWS, SQL, PyTorch, TensorFlow, Machine Learning, Streamlit, LangChain, FastAPI, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Tony Brooks",
+  "email": "fkemp@example.com",
+  "phone": "(222)702-1758x92839",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "AWS",
+    "SQL",
+    "PyTorch",
+    "TensorFlow",
+    "Machine Learning",
+    "Streamlit",
+    "LangChain",
+    "FastAPI",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0930"
+}

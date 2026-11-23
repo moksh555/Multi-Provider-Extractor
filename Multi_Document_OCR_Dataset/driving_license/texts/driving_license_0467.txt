@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kenneth Mclaughlin
+License: DL795594487
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL795594487",
+  "full_name": "Kenneth Mclaughlin",
+  "date_of_birth": "1966-04-16",
+  "class": "B",
+  "issue_date": "2026-01-21",
+  "expiry_date": "2031-01-21",
+  "address": "4692 Wright River Suite 762, South Hollyton, IA 21201",
+  "sample_id": "driving_license_0467"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GZZ0JKIBU",
+  "policy_holder": "Sara Brown",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-11-11",
+  "expiry_date": "2024-11-11",
+  "premium": 249.72,
+  "coverage_amount": 11869.63,
+  "beneficiary": "Ashley Larson",
+  "sample_id": "insurance_document_0242"
+}

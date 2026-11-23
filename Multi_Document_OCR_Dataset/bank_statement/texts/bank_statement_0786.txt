@@ -1,0 +1,16 @@
+Bank Statement STM-OO4116SG
+Holder: Veronica Glenn
+Closing Balance: $4438.14
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OO4116SG",
+  "account_holder": "Veronica Glenn",
+  "account_number_masked": "****6460",
+  "period_start": "2026-12-04",
+  "period_end": "2027-01-03",
+  "opening_balance": 2389.89,
+  "closing_balance": 4438.14,
+  "transactions": 10,
+  "sample_id": "bank_statement_0786"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Troy Holmes
+Passport No: P44791866
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P44791866",
+  "full_name": "Troy Holmes",
+  "nationality": "AE",
+  "date_of_birth": "1996-08-31",
+  "issue_date": "2022-09-10",
+  "expiry_date": "2032-09-10",
+  "place_of_birth": "Brownmouth",
+  "sample_id": "passport_0278"
+}

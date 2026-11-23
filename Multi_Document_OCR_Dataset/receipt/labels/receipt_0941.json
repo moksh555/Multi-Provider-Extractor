@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-M4ML2IQR",
+  "merchant_name": "Watson-Hall",
+  "date": "2023-09-19",
+  "subtotal": 116.7,
+  "tax": 6.48,
+  "discount": 5.61,
+  "total": 117.57,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$30.90",
+      "line_total": "$30.90"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$47.76",
+      "line_total": "$47.76"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$9.51",
+      "line_total": "$38.04"
+    }
+  ],
+  "sample_id": "receipt_0941"
+}

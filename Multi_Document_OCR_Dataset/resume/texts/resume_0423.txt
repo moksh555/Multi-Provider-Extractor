@@ -1,0 +1,27 @@
+Resume
+Lisa Carr
+Software Engineer
+Skills: FastAPI, Python, Deep Learning, Pandas, Docker, LangChain, PyTorch, Computer Vision, Machine Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Lisa Carr",
+  "email": "lewiseric@example.net",
+  "phone": "001-335-375-3848",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "FastAPI",
+    "Python",
+    "Deep Learning",
+    "Pandas",
+    "Docker",
+    "LangChain",
+    "PyTorch",
+    "Computer Vision",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0423"
+}

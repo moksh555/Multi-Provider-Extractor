@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0546
+Company: Nova Medical Supplies
+Company Address: 118 Zindabazar Road, Doha, Qatar
+Customer: Trust Finance Office
+Billing Address: 193 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-17
+Due Date: 2026-07-01
+Currency: AED
+Subtotal: 19292.49
+Tax: 0.0
+Total: 19292.49
+Balance Due: 5201.93
+Status: partial

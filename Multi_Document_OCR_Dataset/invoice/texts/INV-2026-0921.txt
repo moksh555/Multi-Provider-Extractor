@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0921
+Company: Summit Agro Foods
+Company Address: 180 Jumeirah Lake Towers, Doha, Qatar
+Customer: Trust Finance Office
+Billing Address: 156 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-02-28
+Due Date: 2026-03-07
+Currency: BDT
+Subtotal: 9707.58
+Tax: 691.67
+Total: 9923.87
+Balance Due: 9923.87
+Status: overdue

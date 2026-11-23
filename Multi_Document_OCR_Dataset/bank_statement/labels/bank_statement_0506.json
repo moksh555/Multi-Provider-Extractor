@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BH80ET40",
+  "account_holder": "Tracy Torres",
+  "account_number_masked": "****8666",
+  "period_start": "2026-08-17",
+  "period_end": "2026-09-16",
+  "opening_balance": 4355.35,
+  "closing_balance": 6229.91,
+  "transactions": 13,
+  "sample_id": "bank_statement_0506"
+}

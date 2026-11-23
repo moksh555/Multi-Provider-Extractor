@@ -1,0 +1,25 @@
+Resume
+Dr. Chelsea Horton
+Backend Developer
+Skills: Pandas, PyTorch, TensorFlow, Deep Learning, FastAPI, Machine Learning, AWS, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Dr. Chelsea Horton",
+  "email": "salassierra@example.net",
+  "phone": "001-571-854-7595x013",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "PyTorch",
+    "TensorFlow",
+    "Deep Learning",
+    "FastAPI",
+    "Machine Learning",
+    "AWS",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0656"
+}

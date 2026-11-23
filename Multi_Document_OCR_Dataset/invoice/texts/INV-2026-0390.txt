@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0390
+Company: Atlas Engineering Ltd.
+Company Address: 87 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Global Mart
+Billing Address: 204 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-02-19
+Due Date: 2026-03-21
+Currency: AED
+Subtotal: 20948.61
+Tax: 1885.38
+Total: 20744.13
+Balance Due: 20744.13
+Status: unpaid

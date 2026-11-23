@@ -1,0 +1,26 @@
+Resume
+Evelyn Townsend
+Machine Learning Engineer
+Skills: Pandas, Docker, NLP, Computer Vision, PyTorch, Streamlit, SQL, Python, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Evelyn Townsend",
+  "email": "zjennings@example.org",
+  "phone": "928.884.0766x420",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "Docker",
+    "NLP",
+    "Computer Vision",
+    "PyTorch",
+    "Streamlit",
+    "SQL",
+    "Python",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0098"
+}

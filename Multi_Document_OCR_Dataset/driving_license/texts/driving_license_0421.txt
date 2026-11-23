@@ -1,0 +1,16 @@
+Synthetic Driving License
+Andrew Nielsen
+License: DL544062565
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL544062565",
+  "full_name": "Andrew Nielsen",
+  "date_of_birth": "1978-08-17",
+  "class": "B",
+  "issue_date": "2020-07-19",
+  "expiry_date": "2025-07-19",
+  "address": "846 Blackwell Squares, Jennifermouth, PW 45610",
+  "sample_id": "driving_license_0421"
+}

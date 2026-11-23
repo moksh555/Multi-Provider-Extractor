@@ -1,0 +1,16 @@
+Insurance Policy POL-KZ3NWXROG
+Holder: Ryan Taylor DDS
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KZ3NWXROG",
+  "policy_holder": "Ryan Taylor DDS",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-02-04",
+  "expiry_date": "2024-02-04",
+  "premium": 1628.39,
+  "coverage_amount": 437982.9,
+  "beneficiary": "Ann Hernandez",
+  "sample_id": "insurance_document_0644"
+}

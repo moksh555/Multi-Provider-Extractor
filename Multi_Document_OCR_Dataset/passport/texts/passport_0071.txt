@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: John Williamson
+Passport No: P20450843
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P20450843",
+  "full_name": "John Williamson",
+  "nationality": "BD",
+  "date_of_birth": "1973-06-09",
+  "issue_date": "2020-01-18",
+  "expiry_date": "2030-01-18",
+  "place_of_birth": "Jordanmouth",
+  "sample_id": "passport_0071"
+}

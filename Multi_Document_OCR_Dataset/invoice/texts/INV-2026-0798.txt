@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0798
+Company: Greenline Logistics
+Company Address: 89 Gulshan Avenue, Dubai, UAE
+Customer: Digital Learning Hub
+Billing Address: 66 Sheikh Zayed Road, Dhaka, Bangladesh
+Invoice Date: 2026-05-30
+Due Date: 2026-06-29
+Currency: BDT
+Subtotal: 6713.49
+Tax: 906.32
+Total: 6948.46
+Balance Due: 0.0
+Status: paid

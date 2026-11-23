@@ -1,0 +1,14 @@
+Medical Report MED-6BRIXYWZ
+Patient: Billy Webster
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6BRIXYWZ",
+  "patient_name": "Billy Webster",
+  "visit_date": "2025-05-20",
+  "doctor_name": "Dr. Marissa Clark",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0416"
+}

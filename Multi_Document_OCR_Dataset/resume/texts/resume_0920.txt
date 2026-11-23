@@ -1,0 +1,25 @@
+Resume
+Nathan Lynch
+Machine Learning Engineer
+Skills: Streamlit, Python, Machine Learning, SQL, NLP, Pandas, FastAPI, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Nathan Lynch",
+  "email": "joshuasmith@example.com",
+  "phone": "995-811-3030",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "NLP",
+    "Pandas",
+    "FastAPI",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0920"
+}

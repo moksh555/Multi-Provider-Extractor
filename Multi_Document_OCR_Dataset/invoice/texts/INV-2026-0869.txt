@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0869
+Company: Eastern Care Pharmacy
+Company Address: 188 Agrabad C/A, Doha, Qatar
+Customer: Ocean Exporters
+Billing Address: 211 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-01-06
+Due Date: 2026-01-13
+Currency: USD
+Subtotal: 17702.58
+Tax: 2602.28
+Total: 19955.81
+Balance Due: 0.0
+Status: paid

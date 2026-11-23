@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL366934213",
+  "full_name": "Timothy Davis",
+  "date_of_birth": "1961-05-06",
+  "class": "C",
+  "issue_date": "2024-07-05",
+  "expiry_date": "2029-07-05",
+  "address": "PSC 2125, Box 9020, APO AE 84117",
+  "sample_id": "driving_license_0661"
+}

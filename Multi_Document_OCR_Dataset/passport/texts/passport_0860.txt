@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Sharon Freeman
+Passport No: P30038588
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P30038588",
+  "full_name": "Sharon Freeman",
+  "nationality": "BD",
+  "date_of_birth": "1968-07-08",
+  "issue_date": "2023-02-05",
+  "expiry_date": "2033-02-05",
+  "place_of_birth": "Alvarezland",
+  "sample_id": "passport_0860"
+}

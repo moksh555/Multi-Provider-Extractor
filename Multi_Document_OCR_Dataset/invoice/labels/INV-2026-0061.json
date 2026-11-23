@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0061",
+  "invoice_number": "INV-2026-0061",
+  "company_name": "Delta Insurance Services",
+  "company_address": "94 Motijheel C/A, Dhaka, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "3 Gulshan Avenue, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-26",
+  "due_date": "2026-03-13",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 12,
+      "unit_price": 429.39,
+      "amount": 5152.68
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 414.49,
+      "amount": 414.49
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 783.1,
+      "amount": 5481.7
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 2,
+      "unit_price": 707.97,
+      "amount": 1415.94
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 270.61,
+      "amount": 1623.66
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 4,
+      "unit_price": 446.78,
+      "amount": 1787.12
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 8,
+      "unit_price": 90.2,
+      "amount": 721.6
+    }
+  ],
+  "subtotal": 16597.19,
+  "discount": 829.86,
+  "tax_rate": 0.1,
+  "tax": 1576.73,
+  "shipping": 50,
+  "total": 17394.06,
+  "amount_paid": 10408.29,
+  "balance_due": 6985.77,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801007031897",
+  "po_number": "PO-55344"
+}

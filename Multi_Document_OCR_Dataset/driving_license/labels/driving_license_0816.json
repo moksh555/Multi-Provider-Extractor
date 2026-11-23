@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL964098170",
+  "full_name": "Nathaniel Walter",
+  "date_of_birth": "1991-08-05",
+  "class": "A",
+  "issue_date": "2025-04-24",
+  "expiry_date": "2030-04-24",
+  "address": "527 Sanchez Orchard, Sarahmouth, ND 45248",
+  "sample_id": "driving_license_0816"
+}

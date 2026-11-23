@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL336976468",
+  "full_name": "Elizabeth Campbell",
+  "date_of_birth": "1990-01-23",
+  "class": "D",
+  "issue_date": "2025-03-09",
+  "expiry_date": "2030-03-09",
+  "address": "18510 Olson Inlet Suite 567, Port Dillon, SC 60916",
+  "sample_id": "driving_license_0429"
+}

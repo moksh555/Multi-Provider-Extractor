@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL478274247",
+  "full_name": "Jeremiah Lopez",
+  "date_of_birth": "1981-01-13",
+  "class": "C",
+  "issue_date": "2023-01-17",
+  "expiry_date": "2028-01-17",
+  "address": "16719 Edward Valleys Suite 131, Obrienbury, WI 68995",
+  "sample_id": "driving_license_0040"
+}

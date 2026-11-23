@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Cynthia Cook
+Passport No: P05670142
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P05670142",
+  "full_name": "Cynthia Cook",
+  "nationality": "US",
+  "date_of_birth": "1976-05-05",
+  "issue_date": "2020-01-04",
+  "expiry_date": "2030-01-04",
+  "place_of_birth": "New Abigail",
+  "sample_id": "passport_0117"
+}

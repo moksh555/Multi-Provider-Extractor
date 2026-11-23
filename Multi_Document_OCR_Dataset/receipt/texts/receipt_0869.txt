@@ -1,0 +1,43 @@
+Receipt RCT-A54VDJPC
+Merchant: Olsen PLC
+Date: 2021-04-18
+Total: $604.55
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A54VDJPC",
+  "merchant_name": "Olsen PLC",
+  "date": "2021-04-18",
+  "subtotal": 557.63,
+  "tax": 53.26,
+  "discount": 6.34,
+  "total": 604.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$9.11",
+      "line_total": "$36.44"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$66.51",
+      "line_total": "$266.04"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$58.50",
+      "line_total": "$234.00"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$7.05",
+      "line_total": "$21.15"
+    }
+  ],
+  "sample_id": "receipt_0869"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL866036884",
+  "full_name": "Kelly Silva",
+  "date_of_birth": "1999-01-22",
+  "class": "A",
+  "issue_date": "2020-12-27",
+  "expiry_date": "2025-12-27",
+  "address": "Unit 7262 Box 5701, DPO AA 91039",
+  "sample_id": "driving_license_0347"
+}

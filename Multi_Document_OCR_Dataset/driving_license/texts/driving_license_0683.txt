@@ -1,0 +1,16 @@
+Synthetic Driving License
+Bonnie Lawson
+License: DL848901597
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL848901597",
+  "full_name": "Bonnie Lawson",
+  "date_of_birth": "1982-04-19",
+  "class": "D",
+  "issue_date": "2024-02-18",
+  "expiry_date": "2029-02-18",
+  "address": "3319 White Estate, Piercestad, WV 29042",
+  "sample_id": "driving_license_0683"
+}

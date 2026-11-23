@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DFDW79WCX",
+  "policy_holder": "Noah Leblanc",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-08-08",
+  "expiry_date": "2024-08-08",
+  "premium": 419.47,
+  "coverage_amount": 124010.57,
+  "beneficiary": "Shannon Luna",
+  "sample_id": "insurance_document_0357"
+}

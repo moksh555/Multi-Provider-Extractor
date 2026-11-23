@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0234
+Company: Atlas Engineering Ltd.
+Company Address: 29 Dhanmondi 27, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 200 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-03-03
+Due Date: 2026-04-02
+Currency: BDT
+Subtotal: 10504.65
+Tax: 0.0
+Total: 10509.65
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0315",
+  "invoice_number": "INV-2026-0315",
+  "company_name": "CityBanking Supplies",
+  "company_address": "16 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "47 Road 12, Banani, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-03-26",
+  "due_date": "2026-04-02",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 11,
+      "unit_price": 297.69,
+      "amount": 3274.59
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 5,
+      "unit_price": 383.54,
+      "amount": 1917.7
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 6,
+      "unit_price": 393.81,
+      "amount": 2362.86
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 184.3,
+      "amount": 552.9
+    }
+  ],
+  "subtotal": 8108.05,
+  "discount": 405.4,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 7727.65,
+  "amount_paid": 0,
+  "balance_due": 7727.65,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801343888367",
+  "po_number": "PO-82817"
+}

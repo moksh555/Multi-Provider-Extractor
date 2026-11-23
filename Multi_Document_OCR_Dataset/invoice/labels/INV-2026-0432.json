@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0432",
+  "invoice_number": "INV-2026-0432",
+  "company_name": "Greenline Logistics",
+  "company_address": "190 Jumeirah Lake Towers, Dhaka, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "4 Al Barsha, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-16",
+  "due_date": "2026-07-16",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 9,
+      "unit_price": 564.62,
+      "amount": 5081.58
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 12,
+      "unit_price": 333.01,
+      "amount": 3996.12
+    },
+    {
+      "description": "API Integration",
+      "quantity": 10,
+      "unit_price": 495.75,
+      "amount": 4957.5
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 441.2,
+      "amount": 3970.8
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 512.23,
+      "amount": 6146.76
+    }
+  ],
+  "subtotal": 24152.76,
+  "discount": 2415.28,
+  "tax_rate": 0.05,
+  "tax": 1086.87,
+  "shipping": 5,
+  "total": 22829.35,
+  "amount_paid": 22829.35,
+  "balance_due": 0.0,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801478186228",
+  "po_number": "PO-89597"
+}

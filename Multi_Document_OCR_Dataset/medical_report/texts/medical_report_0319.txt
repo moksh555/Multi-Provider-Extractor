@@ -1,0 +1,14 @@
+Medical Report MED-OWPNM7CX
+Patient: Nicholas Vaughn
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OWPNM7CX",
+  "patient_name": "Nicholas Vaughn",
+  "visit_date": "2024-07-31",
+  "doctor_name": "Dr. Gregory Cantrell",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0319"
+}

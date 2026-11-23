@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0949
+Company: CityBanking Supplies
+Company Address: 116 Al Barsha, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 127 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-04-18
+Due Date: 2026-06-02
+Currency: AED
+Subtotal: 11659.24
+Tax: 1748.89
+Total: 13433.13
+Balance Due: 13433.13
+Status: overdue

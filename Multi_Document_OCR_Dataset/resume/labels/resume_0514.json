@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Monica Campbell",
+  "email": "omullins@example.net",
+  "phone": "+1-908-394-1319x8596",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "Streamlit",
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "LangChain",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0514"
+}

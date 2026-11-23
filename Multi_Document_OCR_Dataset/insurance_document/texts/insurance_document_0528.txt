@@ -1,0 +1,16 @@
+Insurance Policy POL-5GGSJ6VV8
+Holder: Kelly Bentley
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5GGSJ6VV8",
+  "policy_holder": "Kelly Bentley",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-14",
+  "expiry_date": "2027-03-14",
+  "premium": 549.75,
+  "coverage_amount": 461002.47,
+  "beneficiary": "Lori Strickland",
+  "sample_id": "insurance_document_0528"
+}

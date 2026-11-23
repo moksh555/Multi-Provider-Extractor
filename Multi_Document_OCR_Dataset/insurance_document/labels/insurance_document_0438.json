@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-6ZDCUJQ6F",
+  "policy_holder": "George Green",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-03-19",
+  "expiry_date": "2024-03-19",
+  "premium": 1701.76,
+  "coverage_amount": 140553.88,
+  "beneficiary": "Phillip Taylor",
+  "sample_id": "insurance_document_0438"
+}

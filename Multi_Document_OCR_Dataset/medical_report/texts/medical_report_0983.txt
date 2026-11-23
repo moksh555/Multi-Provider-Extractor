@@ -1,0 +1,14 @@
+Medical Report MED-DQN972FO
+Patient: Daisy Brown
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DQN972FO",
+  "patient_name": "Daisy Brown",
+  "visit_date": "2026-08-25",
+  "doctor_name": "Dr. Toni Thompson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0983"
+}

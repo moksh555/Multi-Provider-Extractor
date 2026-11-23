@@ -1,0 +1,14 @@
+Medical Report MED-OUQR5O1C
+Patient: Dawn Le
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OUQR5O1C",
+  "patient_name": "Dawn Le",
+  "visit_date": "2024-09-10",
+  "doctor_name": "Dr. Katherine Clark",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0237"
+}

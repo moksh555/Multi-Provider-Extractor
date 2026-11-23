@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Melanie Ramirez",
+  "email": "mmahoney@example.net",
+  "phone": "(697)259-1448",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Machine Learning",
+    "Pandas",
+    "Computer Vision",
+    "Streamlit",
+    "Docker",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0609"
+}

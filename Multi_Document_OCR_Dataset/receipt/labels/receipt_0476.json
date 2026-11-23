@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VNZVZN2H",
+  "merchant_name": "Horton, Gregory and Compton",
+  "date": "2024-07-11",
+  "subtotal": 400.51,
+  "tax": 24.97,
+  "discount": 0.31,
+  "total": 425.17,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$20.65",
+      "line_total": "$61.95"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$30.98",
+      "line_total": "$61.96"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$55.23",
+      "line_total": "$55.23"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$36.73",
+      "line_total": "$36.73"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$46.16",
+      "line_total": "$184.64"
+    }
+  ],
+  "sample_id": "receipt_0476"
+}

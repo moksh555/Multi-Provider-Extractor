@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Adam James
+Passport No: P09790549
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P09790549",
+  "full_name": "Adam James",
+  "nationality": "CA",
+  "date_of_birth": "1986-05-23",
+  "issue_date": "2023-12-25",
+  "expiry_date": "2033-12-25",
+  "place_of_birth": "Thomasbury",
+  "sample_id": "passport_0153"
+}

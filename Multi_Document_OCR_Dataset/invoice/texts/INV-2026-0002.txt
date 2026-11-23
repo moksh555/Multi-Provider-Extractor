@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0002
+Company: UrbanBuild Construction
+Company Address: 21 Doha Business Park, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 138 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-01-21
+Due Date: 2026-02-20
+Currency: QAR
+Subtotal: 15231.42
+Tax: 2284.71
+Total: 17526.13
+Balance Due: 9819.4
+Status: partial

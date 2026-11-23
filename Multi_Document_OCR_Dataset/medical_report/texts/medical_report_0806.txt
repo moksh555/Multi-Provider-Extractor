@@ -1,0 +1,14 @@
+Medical Report MED-68ZA1HIP
+Patient: James Little
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-68ZA1HIP",
+  "patient_name": "James Little",
+  "visit_date": "2024-12-23",
+  "doctor_name": "Dr. Michelle Poole",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0806"
+}

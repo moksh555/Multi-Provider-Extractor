@@ -1,0 +1,16 @@
+Insurance Policy POL-QPU3ET1OV
+Holder: Sheri Ballard
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QPU3ET1OV",
+  "policy_holder": "Sheri Ballard",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-05-25",
+  "expiry_date": "2027-05-25",
+  "premium": 739.46,
+  "coverage_amount": 150573.74,
+  "beneficiary": "Eric Briggs",
+  "sample_id": "insurance_document_0822"
+}

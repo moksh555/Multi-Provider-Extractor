@@ -1,0 +1,55 @@
+Receipt RCT-3REM5PUU
+Merchant: Terry, Mann and Martin
+Date: 2024-10-15
+Total: $794.05
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3REM5PUU",
+  "merchant_name": "Terry, Mann and Martin",
+  "date": "2024-10-15",
+  "subtotal": 726.27,
+  "tax": 78.39,
+  "discount": 10.61,
+  "total": 794.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$61.19",
+      "line_total": "$122.38"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$53.71",
+      "line_total": "$214.84"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$8.06",
+      "line_total": "$24.18"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$19.39",
+      "line_total": "$77.56"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$43.74",
+      "line_total": "$131.22"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$52.03",
+      "line_total": "$156.09"
+    }
+  ],
+  "sample_id": "receipt_0247"
+}

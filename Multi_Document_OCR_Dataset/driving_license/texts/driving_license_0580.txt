@@ -1,0 +1,16 @@
+Synthetic Driving License
+Justin Salas
+License: DL455698748
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL455698748",
+  "full_name": "Justin Salas",
+  "date_of_birth": "1995-01-08",
+  "class": "C",
+  "issue_date": "2024-09-03",
+  "expiry_date": "2029-09-03",
+  "address": "117 Jason Skyway, South Lori, ID 64417",
+  "sample_id": "driving_license_0580"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0685
+Company: Metro Print House
+Company Address: 172 Al Barsha, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 216 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-01
+Due Date: 2026-05-16
+Currency: USD
+Subtotal: 14680.38
+Tax: 734.02
+Total: 15419.4
+Balance Due: 15419.4
+Status: unpaid

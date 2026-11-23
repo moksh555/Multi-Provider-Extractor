@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Sandra Craig",
+  "email": "todd94@example.com",
+  "phone": "(481)566-0284x136",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Docker",
+    "NLP",
+    "PyTorch",
+    "LangChain",
+    "AWS",
+    "Computer Vision",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0259"
+}

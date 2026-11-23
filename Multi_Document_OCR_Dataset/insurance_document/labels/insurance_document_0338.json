@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HZN4KGEUI",
+  "policy_holder": "Michael Copeland",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-07-06",
+  "expiry_date": "2025-07-06",
+  "premium": 2033.73,
+  "coverage_amount": 282116.62,
+  "beneficiary": "Margaret Moran",
+  "sample_id": "insurance_document_0338"
+}

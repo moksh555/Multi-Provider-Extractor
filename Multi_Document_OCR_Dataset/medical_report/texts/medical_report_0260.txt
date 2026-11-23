@@ -1,0 +1,14 @@
+Medical Report MED-V9C1C2G0
+Patient: Gordon Miller
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-V9C1C2G0",
+  "patient_name": "Gordon Miller",
+  "visit_date": "2026-08-28",
+  "doctor_name": "Dr. Jessica Williams",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0260"
+}

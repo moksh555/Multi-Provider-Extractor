@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0196",
+  "invoice_number": "INV-2026-0196",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "31 Zindabazar Road, Doha, Qatar",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "132 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-21",
+  "due_date": "2026-02-20",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 9,
+      "unit_price": 176.66,
+      "amount": 1589.94
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 11,
+      "unit_price": 285.22,
+      "amount": 3137.42
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 694.71,
+      "amount": 8336.52
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 4,
+      "unit_price": 602.15,
+      "amount": 2408.6
+    }
+  ],
+  "subtotal": 15472.48,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 15472.48,
+  "amount_paid": 15472.48,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801790287445",
+  "po_number": "PO-64571"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A6XVAJ2K",
+  "merchant_name": "Reyes-Griffin",
+  "date": "2024-02-02",
+  "subtotal": 517.92,
+  "tax": 27.71,
+  "discount": 10.67,
+  "total": 534.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$37.26",
+      "line_total": "$111.78"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$24.87",
+      "line_total": "$99.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$1.58",
+      "line_total": "$1.58"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$24.58",
+      "line_total": "$73.74"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$6.04",
+      "line_total": "$24.16"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$69.06",
+      "line_total": "$207.18"
+    }
+  ],
+  "sample_id": "receipt_0115"
+}

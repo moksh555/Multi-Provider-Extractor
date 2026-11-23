@@ -1,0 +1,27 @@
+Resume
+Felicia Cannon
+Software Engineer
+Skills: SQL, FastAPI, PyTorch, Python, TensorFlow, LangChain, NLP, AWS, Streamlit, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Felicia Cannon",
+  "email": "williamscristina@example.com",
+  "phone": "001-209-413-1117x8619",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "SQL",
+    "FastAPI",
+    "PyTorch",
+    "Python",
+    "TensorFlow",
+    "LangChain",
+    "NLP",
+    "AWS",
+    "Streamlit",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0013"
+}

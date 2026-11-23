@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sarah Brown
+License: DL879685643
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL879685643",
+  "full_name": "Sarah Brown",
+  "date_of_birth": "1964-11-13",
+  "class": "D",
+  "issue_date": "2022-07-02",
+  "expiry_date": "2027-07-02",
+  "address": "458 Warren Square, New Brian, OK 96147",
+  "sample_id": "driving_license_0300"
+}

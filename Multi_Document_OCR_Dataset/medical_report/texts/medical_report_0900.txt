@@ -1,0 +1,14 @@
+Medical Report MED-N6ANK74N
+Patient: Brittany Rhodes
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-N6ANK74N",
+  "patient_name": "Brittany Rhodes",
+  "visit_date": "2025-08-25",
+  "doctor_name": "Dr. Alexis Barnes",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0900"
+}

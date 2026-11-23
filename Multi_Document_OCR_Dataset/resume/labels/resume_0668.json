@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Michelle Schwartz",
+  "email": "danielmoore@example.com",
+  "phone": "(397)946-0302x312",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Machine Learning",
+    "NLP",
+    "Streamlit",
+    "Computer Vision",
+    "SQL",
+    "TensorFlow",
+    "Docker",
+    "Deep Learning",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0668"
+}

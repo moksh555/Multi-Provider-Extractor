@@ -1,0 +1,16 @@
+Insurance Policy POL-GBIBF57J2
+Holder: Shari Kelley
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GBIBF57J2",
+  "policy_holder": "Shari Kelley",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-03-06",
+  "expiry_date": "2025-03-06",
+  "premium": 1392.34,
+  "coverage_amount": 10685.98,
+  "beneficiary": "Stephen Baker",
+  "sample_id": "insurance_document_0695"
+}

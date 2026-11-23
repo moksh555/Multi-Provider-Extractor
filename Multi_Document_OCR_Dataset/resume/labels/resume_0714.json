@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Benjamin Hayes",
+  "email": "boyleamanda@example.net",
+  "phone": "+1-764-564-1473x5946",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Docker",
+    "Computer Vision",
+    "PyTorch",
+    "SQL",
+    "Streamlit",
+    "Pandas",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0714"
+}

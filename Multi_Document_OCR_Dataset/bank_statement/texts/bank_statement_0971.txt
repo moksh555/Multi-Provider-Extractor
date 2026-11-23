@@ -1,0 +1,16 @@
+Bank Statement STM-4V90I8QD
+Holder: Donna Aguilar
+Closing Balance: $7961.99
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4V90I8QD",
+  "account_holder": "Donna Aguilar",
+  "account_number_masked": "****2489",
+  "period_start": "2024-01-20",
+  "period_end": "2024-02-19",
+  "opening_balance": 4068.66,
+  "closing_balance": 7961.99,
+  "transactions": 14,
+  "sample_id": "bank_statement_0971"
+}

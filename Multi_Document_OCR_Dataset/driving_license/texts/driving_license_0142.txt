@@ -1,0 +1,16 @@
+Synthetic Driving License
+Carol Salazar
+License: DL098499897
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL098499897",
+  "full_name": "Carol Salazar",
+  "date_of_birth": "1977-01-11",
+  "class": "D",
+  "issue_date": "2021-10-14",
+  "expiry_date": "2026-10-14",
+  "address": "6101 Walker Summit Apt. 756, Bartonshire, UT 66098",
+  "sample_id": "driving_license_0142"
+}

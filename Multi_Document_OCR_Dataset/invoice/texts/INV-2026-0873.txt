@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0873
+Company: Greenline Logistics
+Company Address: 98 Road 12, Banani, Dubai, UAE
+Customer: Bengal Motors
+Billing Address: 72 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-06-03
+Due Date: 2026-06-18
+Currency: BDT
+Subtotal: 17089.65
+Tax: 2563.45
+Total: 19653.1
+Balance Due: 19653.1
+Status: unpaid

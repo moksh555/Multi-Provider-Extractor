@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Shane Harrington",
+  "email": "katelynsalazar@example.org",
+  "phone": "583.838.7688",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Computer Vision",
+    "Streamlit",
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "AWS",
+    "Pandas",
+    "TensorFlow",
+    "Python",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0877"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0783
+Company: Golden Harvest Store
+Company Address: 135 Doha Business Park, Dhaka, Bangladesh
+Customer: Rahim Traders
+Billing Address: 154 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-02-09
+Due Date: 2026-02-24
+Currency: BDT
+Subtotal: 7865.7
+Tax: 0.0
+Total: 7865.7
+Balance Due: 7865.7
+Status: unpaid

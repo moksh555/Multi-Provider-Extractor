@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Mark Barr",
+  "email": "allison23@example.com",
+  "phone": "684.357.2080x2410",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "LangChain",
+    "Docker",
+    "Deep Learning",
+    "NLP",
+    "AWS",
+    "Streamlit",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0572"
+}

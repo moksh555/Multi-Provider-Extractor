@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0982",
+  "invoice_number": "INV-2026-0982",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "44 Jumeirah Lake Towers, Dhaka, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "223 Gulshan Avenue, Doha, Qatar",
+  "invoice_date": "2026-02-26",
+  "due_date": "2026-03-28",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 415.55,
+      "amount": 4155.5
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 416.11,
+      "amount": 2496.66
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 732.33,
+      "amount": 1464.66
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 26.09,
+      "amount": 52.18
+    }
+  ],
+  "subtotal": 8169.0,
+  "discount": 163.38,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 10,
+  "total": 8015.62,
+  "amount_paid": 8015.62,
+  "balance_due": 0.0,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801041732019",
+  "po_number": "PO-68395"
+}

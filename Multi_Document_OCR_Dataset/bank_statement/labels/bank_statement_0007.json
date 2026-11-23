@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-L6DOWX1H",
+  "account_holder": "Aaron Brown",
+  "account_number_masked": "****5893",
+  "period_start": "2026-09-21",
+  "period_end": "2026-10-21",
+  "opening_balance": 2077.67,
+  "closing_balance": 3264.85,
+  "transactions": 14,
+  "sample_id": "bank_statement_0007"
+}

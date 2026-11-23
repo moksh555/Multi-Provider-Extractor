@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-I88TB38WX",
+  "policy_holder": "Brian Hughes",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-01-02",
+  "expiry_date": "2024-01-02",
+  "premium": 263.22,
+  "coverage_amount": 461687.25,
+  "beneficiary": "Timothy Harris",
+  "sample_id": "insurance_document_0573"
+}

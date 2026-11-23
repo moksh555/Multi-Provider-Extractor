@@ -1,0 +1,16 @@
+Synthetic Driving License
+Luis Ellis Jr.
+License: DL606551693
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL606551693",
+  "full_name": "Luis Ellis Jr.",
+  "date_of_birth": "1963-09-11",
+  "class": "A",
+  "issue_date": "2020-04-26",
+  "expiry_date": "2025-04-26",
+  "address": "9657 Jordan View Apt. 459, South Leon, MO 42331",
+  "sample_id": "driving_license_0138"
+}

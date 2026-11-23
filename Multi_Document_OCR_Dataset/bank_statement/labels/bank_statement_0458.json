@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-64TCWBBK",
+  "account_holder": "Brenda Oconnor",
+  "account_number_masked": "****7010",
+  "period_start": "2026-04-01",
+  "period_end": "2026-05-01",
+  "opening_balance": 1916.59,
+  "closing_balance": 7139.89,
+  "transactions": 8,
+  "sample_id": "bank_statement_0458"
+}

@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Kyle Smith DDS",
+  "email": "oedwards@example.net",
+  "phone": "+1-245-703-7548x078",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "Deep Learning",
+    "FastAPI",
+    "Machine Learning",
+    "PyTorch",
+    "NLP",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0391"
+}

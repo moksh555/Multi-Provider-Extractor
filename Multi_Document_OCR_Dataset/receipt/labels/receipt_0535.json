@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SZF4LUR0",
+  "merchant_name": "Stephens, Smith and Williams",
+  "date": "2026-12-20",
+  "subtotal": 584.32,
+  "tax": 19.14,
+  "discount": 1.87,
+  "total": 601.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$51.84",
+      "line_total": "$207.36"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$5.10",
+      "line_total": "$15.30"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$53.42",
+      "line_total": "$53.42"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$31.09",
+      "line_total": "$124.36"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$45.97",
+      "line_total": "$183.88"
+    }
+  ],
+  "sample_id": "receipt_0535"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NCME6F4O",
+  "patient_name": "Judy Bailey",
+  "visit_date": "2024-07-29",
+  "doctor_name": "Dr. Kimberly Cummings",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0292"
+}

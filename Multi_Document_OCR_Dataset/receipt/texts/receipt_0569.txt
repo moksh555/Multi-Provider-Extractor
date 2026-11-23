@@ -1,0 +1,49 @@
+Receipt RCT-ZUZTLSUY
+Merchant: Webb-Mendez
+Date: 2022-01-05
+Total: $358.66
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZUZTLSUY",
+  "merchant_name": "Webb-Mendez",
+  "date": "2022-01-05",
+  "subtotal": 347.22,
+  "tax": 12.62,
+  "discount": 1.18,
+  "total": 358.66,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$78.33",
+      "line_total": "$234.99"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$10.81",
+      "line_total": "$10.81"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$5.63",
+      "line_total": "$11.26"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$20.47",
+      "line_total": "$61.41"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$28.75",
+      "line_total": "$28.75"
+    }
+  ],
+  "sample_id": "receipt_0569"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-8RHOEHAP
+Holder: Michael Downs
+Closing Balance: $5185.11
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8RHOEHAP",
+  "account_holder": "Michael Downs",
+  "account_number_masked": "****9829",
+  "period_start": "2025-12-15",
+  "period_end": "2026-01-14",
+  "opening_balance": 2892.61,
+  "closing_balance": 5185.11,
+  "transactions": 12,
+  "sample_id": "bank_statement_0087"
+}

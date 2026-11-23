@@ -1,0 +1,55 @@
+Receipt RCT-OX05ZHI6
+Merchant: Smith and Sons
+Date: 2023-06-09
+Total: $332.98
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OX05ZHI6",
+  "merchant_name": "Smith and Sons",
+  "date": "2023-06-09",
+  "subtotal": 320.36,
+  "tax": 17.65,
+  "discount": 5.03,
+  "total": 332.98,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$8.06",
+      "line_total": "$8.06"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$58.07",
+      "line_total": "$58.07"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$6.21",
+      "line_total": "$12.42"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$58.44",
+      "line_total": "$58.44"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$14.71",
+      "line_total": "$14.71"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$56.22",
+      "line_total": "$168.66"
+    }
+  ],
+  "sample_id": "receipt_0830"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0675
+Company: Golden Harvest Store
+Company Address: 99 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 214 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-30
+Due Date: 2026-06-29
+Currency: SAR
+Subtotal: 12592.63
+Tax: 1234.08
+Total: 13574.86
+Balance Due: 7024.89
+Status: partial

@@ -1,0 +1,55 @@
+Receipt RCT-DU7V8FY1
+Merchant: Rodriguez-Galvan
+Date: 2021-02-28
+Total: $544.42
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DU7V8FY1",
+  "merchant_name": "Rodriguez-Galvan",
+  "date": "2021-02-28",
+  "subtotal": 493.56,
+  "tax": 56.42,
+  "discount": 5.56,
+  "total": 544.42,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$35.57",
+      "line_total": "$35.57"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$72.58",
+      "line_total": "$72.58"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$72.60",
+      "line_total": "$145.20"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$29.81",
+      "line_total": "$29.81"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$34.12",
+      "line_total": "$102.36"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$54.02",
+      "line_total": "$108.04"
+    }
+  ],
+  "sample_id": "receipt_0979"
+}

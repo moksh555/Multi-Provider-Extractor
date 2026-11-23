@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0704
+Company: Golden Harvest Store
+Company Address: 174 Zindabazar Road, Sylhet, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 73 Sheikh Zayed Road, Doha, Qatar
+Invoice Date: 2026-02-22
+Due Date: 2026-04-08
+Currency: SAR
+Subtotal: 10746.01
+Tax: 765.65
+Total: 10979.36
+Balance Due: 0.0
+Status: paid

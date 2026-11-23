@@ -1,0 +1,14 @@
+Medical Report MED-AD8R92JS
+Patient: Mary Brennan
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-AD8R92JS",
+  "patient_name": "Mary Brennan",
+  "visit_date": "2024-11-17",
+  "doctor_name": "Dr. Rachel Hoffman",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0240"
+}

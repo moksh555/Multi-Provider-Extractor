@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0102",
+  "invoice_number": "INV-2026-0102",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "196 Al Barsha, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "243 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-06-09",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 10,
+      "unit_price": 698.82,
+      "amount": 6988.2
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 563.42,
+      "amount": 5634.2
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 3,
+      "unit_price": 617.77,
+      "amount": 1853.31
+    },
+    {
+      "description": "Web Development",
+      "quantity": 8,
+      "unit_price": 510.28,
+      "amount": 4082.24
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 4,
+      "unit_price": 326.45,
+      "amount": 1305.8
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 21.95,
+      "amount": 43.9
+    }
+  ],
+  "subtotal": 19907.65,
+  "discount": 995.38,
+  "tax_rate": 0.05,
+  "tax": 945.61,
+  "shipping": 25,
+  "total": 19882.88,
+  "amount_paid": 0,
+  "balance_due": 19882.88,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801686195857",
+  "po_number": "PO-06950"
+}

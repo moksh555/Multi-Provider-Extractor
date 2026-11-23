@@ -1,0 +1,14 @@
+Medical Report MED-5IXC82Q6
+Patient: Pamela Powell
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5IXC82Q6",
+  "patient_name": "Pamela Powell",
+  "visit_date": "2026-07-22",
+  "doctor_name": "Dr. Michael Mathews",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0600"
+}

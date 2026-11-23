@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Tara Nguyen",
+  "email": "shelbymitchell@example.net",
+  "phone": "586-339-0616x82497",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Deep Learning",
+    "LangChain",
+    "NLP",
+    "SQL",
+    "FastAPI",
+    "Computer Vision",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0170"
+}

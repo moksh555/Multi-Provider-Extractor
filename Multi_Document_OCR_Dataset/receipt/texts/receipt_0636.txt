@@ -1,0 +1,43 @@
+Receipt RCT-YJ5N860A
+Merchant: Crawford, Anderson and Walters
+Date: 2023-03-12
+Total: $269.58
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YJ5N860A",
+  "merchant_name": "Crawford, Anderson and Walters",
+  "date": "2023-03-12",
+  "subtotal": 266.93,
+  "tax": 8.26,
+  "discount": 5.61,
+  "total": 269.58,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$24.86",
+      "line_total": "$74.58"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$40.67",
+      "line_total": "$122.01"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$1.93",
+      "line_total": "$5.79"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$64.55",
+      "line_total": "$64.55"
+    }
+  ],
+  "sample_id": "receipt_0636"
+}

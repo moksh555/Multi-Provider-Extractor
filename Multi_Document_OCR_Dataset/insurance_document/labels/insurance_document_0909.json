@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7X5RRNYCI",
+  "policy_holder": "Philip Barnes",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-04-04",
+  "expiry_date": "2025-04-04",
+  "premium": 477.21,
+  "coverage_amount": 308234.21,
+  "beneficiary": "Diana Mcdonald",
+  "sample_id": "insurance_document_0909"
+}

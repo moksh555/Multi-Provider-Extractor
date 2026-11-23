@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JK9E0OAW",
+  "merchant_name": "Wade Group",
+  "date": "2023-05-26",
+  "subtotal": 440.08,
+  "tax": 36.43,
+  "discount": 11.35,
+  "total": 465.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$11.58",
+      "line_total": "$34.74"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$25.59",
+      "line_total": "$25.59"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$69.80",
+      "line_total": "$69.80"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$43.60",
+      "line_total": "$43.60"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$32.36",
+      "line_total": "$64.72"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$67.21",
+      "line_total": "$201.63"
+    }
+  ],
+  "sample_id": "receipt_0518"
+}

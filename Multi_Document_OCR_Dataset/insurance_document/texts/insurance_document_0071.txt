@@ -1,0 +1,16 @@
+Insurance Policy POL-NYRUIWQY6
+Holder: Amy Martinez
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NYRUIWQY6",
+  "policy_holder": "Amy Martinez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-08-12",
+  "expiry_date": "2025-08-12",
+  "premium": 1732.71,
+  "coverage_amount": 87408.05,
+  "beneficiary": "Christopher Morris",
+  "sample_id": "insurance_document_0071"
+}

@@ -1,0 +1,43 @@
+Receipt RCT-DVNFF2WC
+Merchant: Thomas, Randall and Smith
+Date: 2022-11-11
+Total: $399.66
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DVNFF2WC",
+  "merchant_name": "Thomas, Randall and Smith",
+  "date": "2022-11-11",
+  "subtotal": 374.03,
+  "tax": 33.41,
+  "discount": 7.78,
+  "total": 399.66,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$11.24",
+      "line_total": "$11.24"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$30.41",
+      "line_total": "$30.41"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$68.40",
+      "line_total": "$273.60"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$29.39",
+      "line_total": "$58.78"
+    }
+  ],
+  "sample_id": "receipt_0944"
+}

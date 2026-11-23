@@ -1,0 +1,14 @@
+Medical Report MED-TK01TXLB
+Patient: Dennis Aguirre
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TK01TXLB",
+  "patient_name": "Dennis Aguirre",
+  "visit_date": "2024-12-12",
+  "doctor_name": "Dr. Jean Edwards",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0759"
+}

@@ -1,0 +1,23 @@
+Resume
+Stacy Burnett
+Data Analyst
+Skills: LangChain, Computer Vision, SQL, PyTorch, AWS, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Stacy Burnett",
+  "email": "gomezgrant@example.net",
+  "phone": "630.848.6251x5217",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "LangChain",
+    "Computer Vision",
+    "SQL",
+    "PyTorch",
+    "AWS",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0064"
+}

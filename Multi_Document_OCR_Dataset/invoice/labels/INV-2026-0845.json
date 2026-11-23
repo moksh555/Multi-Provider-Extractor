@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0845",
+  "invoice_number": "INV-2026-0845",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "36 Road 12, Banani, Dubai, UAE",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "93 Gulshan Avenue, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-02-05",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 2,
+      "unit_price": 175.79,
+      "amount": 351.58
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 6,
+      "unit_price": 316.5,
+      "amount": 1899.0
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 263.51,
+      "amount": 2635.1
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 12,
+      "unit_price": 405.73,
+      "amount": 4868.76
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 11,
+      "unit_price": 581.37,
+      "amount": 6395.07
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 816.4,
+      "amount": 8164.0
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 12,
+      "unit_price": 398.9,
+      "amount": 4786.8
+    }
+  ],
+  "subtotal": 29100.31,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 29150.31,
+  "amount_paid": 29150.31,
+  "balance_due": 0.0,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801470578554",
+  "po_number": "PO-58447"
+}

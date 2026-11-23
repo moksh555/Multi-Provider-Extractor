@@ -1,0 +1,16 @@
+Insurance Policy POL-LCQH1UF22
+Holder: Kristin Williams
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LCQH1UF22",
+  "policy_holder": "Kristin Williams",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-06-12",
+  "expiry_date": "2027-06-12",
+  "premium": 1152.23,
+  "coverage_amount": 220410.76,
+  "beneficiary": "Brian Campbell",
+  "sample_id": "insurance_document_0265"
+}

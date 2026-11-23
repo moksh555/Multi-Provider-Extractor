@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7V5F1BCPP",
+  "policy_holder": "Andrew Bradford",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-06-24",
+  "expiry_date": "2026-06-24",
+  "premium": 1105.76,
+  "coverage_amount": 115628.79,
+  "beneficiary": "Mary Duran",
+  "sample_id": "insurance_document_0092"
+}

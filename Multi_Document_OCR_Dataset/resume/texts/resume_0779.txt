@@ -1,0 +1,23 @@
+Resume
+Patty Jones
+Software Engineer
+Skills: AWS, NLP, SQL, TensorFlow, FastAPI, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Patty Jones",
+  "email": "zolsen@example.com",
+  "phone": "609.552.1858x680",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "AWS",
+    "NLP",
+    "SQL",
+    "TensorFlow",
+    "FastAPI",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0779"
+}

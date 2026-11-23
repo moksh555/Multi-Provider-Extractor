@@ -1,0 +1,25 @@
+Resume
+Raymond Sanford
+Software Engineer
+Skills: Python, Docker, PyTorch, LangChain, Pandas, FastAPI, NLP, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Raymond Sanford",
+  "email": "christopher89@example.net",
+  "phone": "+1-581-897-8551x79154",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Python",
+    "Docker",
+    "PyTorch",
+    "LangChain",
+    "Pandas",
+    "FastAPI",
+    "NLP",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0972"
+}

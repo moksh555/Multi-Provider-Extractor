@@ -1,0 +1,24 @@
+Resume
+Penny Murphy
+Computer Vision Engineer
+Skills: Python, Machine Learning, Streamlit, TensorFlow, NLP, SQL, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Penny Murphy",
+  "email": "janetbrown@example.net",
+  "phone": "+1-657-923-5019",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Streamlit",
+    "TensorFlow",
+    "NLP",
+    "SQL",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0552"
+}

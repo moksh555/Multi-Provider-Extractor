@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RFTMTTQL",
+  "merchant_name": "Martinez Ltd",
+  "date": "2023-02-12",
+  "subtotal": 862.39,
+  "tax": 86.53,
+  "discount": 3.98,
+  "total": 944.94,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$19.45",
+      "line_total": "$77.80"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$26.14",
+      "line_total": "$26.14"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$31.50",
+      "line_total": "$126.00"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$77.22",
+      "line_total": "$308.88"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$69.71",
+      "line_total": "$209.13"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$42.55",
+      "line_total": "$42.55"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$58.07",
+      "line_total": "$58.07"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$6.91",
+      "line_total": "$13.82"
+    }
+  ],
+  "sample_id": "receipt_0032"
+}

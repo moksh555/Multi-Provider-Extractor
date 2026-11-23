@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL249502283",
+  "full_name": "Dr. James Howard",
+  "date_of_birth": "1987-06-14",
+  "class": "D",
+  "issue_date": "2024-10-06",
+  "expiry_date": "2029-10-06",
+  "address": "14675 Elaine Crescent, South Stephanie, TN 15382",
+  "sample_id": "driving_license_0638"
+}

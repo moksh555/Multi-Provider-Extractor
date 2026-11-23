@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL025555437",
+  "full_name": "Jonathan Torres",
+  "date_of_birth": "2004-11-24",
+  "class": "C",
+  "issue_date": "2021-09-09",
+  "expiry_date": "2026-09-09",
+  "address": "4789 Hamilton Spur, West Wendy, NM 47588",
+  "sample_id": "driving_license_0200"
+}

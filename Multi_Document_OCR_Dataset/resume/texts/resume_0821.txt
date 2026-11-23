@@ -1,0 +1,23 @@
+Resume
+April Brennan
+Computer Vision Engineer
+Skills: Deep Learning, Machine Learning, NLP, Streamlit, AWS, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "April Brennan",
+  "email": "nbaker@example.com",
+  "phone": "+1-450-780-4660x638",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Deep Learning",
+    "Machine Learning",
+    "NLP",
+    "Streamlit",
+    "AWS",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0821"
+}

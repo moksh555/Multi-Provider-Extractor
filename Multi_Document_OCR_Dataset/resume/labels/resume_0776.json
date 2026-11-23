@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "William Adams",
+  "email": "christine92@example.net",
+  "phone": "379-519-6909",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "Computer Vision",
+    "Pandas",
+    "PyTorch",
+    "Deep Learning",
+    "Docker",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0776"
+}

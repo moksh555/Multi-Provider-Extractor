@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IFIIT2018",
+  "policy_holder": "Julie Miller",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-03-06",
+  "expiry_date": "2026-03-06",
+  "premium": 964.44,
+  "coverage_amount": 421218.9,
+  "beneficiary": "Ann Kennedy",
+  "sample_id": "insurance_document_0231"
+}

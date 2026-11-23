@@ -1,0 +1,16 @@
+Insurance Policy POL-T70EBPY9E
+Holder: Sarah Mooney
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-T70EBPY9E",
+  "policy_holder": "Sarah Mooney",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-03-05",
+  "expiry_date": "2026-03-05",
+  "premium": 2272.14,
+  "coverage_amount": 183640.21,
+  "beneficiary": "Keith Shaw",
+  "sample_id": "insurance_document_0824"
+}

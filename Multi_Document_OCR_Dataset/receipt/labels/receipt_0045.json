@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-75UUZPEA",
+  "merchant_name": "Shea Group",
+  "date": "2024-08-23",
+  "subtotal": 182.49,
+  "tax": 18.27,
+  "discount": 1.15,
+  "total": 199.61,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$7.96",
+      "line_total": "$23.88"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$35.42",
+      "line_total": "$70.84"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$32.27",
+      "line_total": "$32.27"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$18.50",
+      "line_total": "$55.50"
+    }
+  ],
+  "sample_id": "receipt_0045"
+}

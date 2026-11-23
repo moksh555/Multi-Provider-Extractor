@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SWSIETX7",
+  "patient_name": "Trevor Gross",
+  "visit_date": "2026-06-17",
+  "doctor_name": "Dr. Nicole Moss",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0148"
+}

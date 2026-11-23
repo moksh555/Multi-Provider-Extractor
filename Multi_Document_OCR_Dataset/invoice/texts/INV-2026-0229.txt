@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0229
+Company: Nexus Digital Solutions
+Company Address: 37 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 210 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-22
+Due Date: 2026-02-06
+Currency: BDT
+Subtotal: 8056.01
+Tax: 1147.98
+Total: 8801.19
+Balance Due: 8801.19
+Status: overdue

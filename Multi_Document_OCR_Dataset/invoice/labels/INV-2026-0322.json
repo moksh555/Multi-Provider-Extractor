@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0322",
+  "invoice_number": "INV-2026-0322",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "143 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "168 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-05-25",
+  "due_date": "2026-07-09",
+  "currency": "QAR",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 4,
+      "unit_price": 254.67,
+      "amount": 1018.68
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 374.39,
+      "amount": 2620.73
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 28.07,
+      "amount": 224.56
+    }
+  ],
+  "subtotal": 3863.97,
+  "discount": 77.28,
+  "tax_rate": 0.075,
+  "tax": 284.0,
+  "shipping": 0,
+  "total": 4070.69,
+  "amount_paid": 0,
+  "balance_due": 4070.69,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801563977650",
+  "po_number": "PO-93595"
+}

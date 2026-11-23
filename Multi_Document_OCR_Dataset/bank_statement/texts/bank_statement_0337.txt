@@ -1,0 +1,16 @@
+Bank Statement STM-P56EFIQ0
+Holder: James Tran
+Closing Balance: $2503.34
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P56EFIQ0",
+  "account_holder": "James Tran",
+  "account_number_masked": "****3001",
+  "period_start": "2025-01-07",
+  "period_end": "2025-02-06",
+  "opening_balance": 2543.13,
+  "closing_balance": 2503.34,
+  "transactions": 8,
+  "sample_id": "bank_statement_0337"
+}

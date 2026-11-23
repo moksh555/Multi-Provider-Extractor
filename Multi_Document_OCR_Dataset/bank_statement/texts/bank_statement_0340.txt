@@ -1,0 +1,16 @@
+Bank Statement STM-CIPTNPNZ
+Holder: Kimberly Young
+Closing Balance: $5890.49
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CIPTNPNZ",
+  "account_holder": "Kimberly Young",
+  "account_number_masked": "****6708",
+  "period_start": "2025-08-24",
+  "period_end": "2025-09-23",
+  "opening_balance": 2355.28,
+  "closing_balance": 5890.49,
+  "transactions": 13,
+  "sample_id": "bank_statement_0340"
+}

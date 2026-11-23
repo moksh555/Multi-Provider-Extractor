@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-D2ZDLX1Q",
+  "merchant_name": "Steele, Mcfarland and Buchanan",
+  "date": "2023-07-06",
+  "subtotal": 394.65,
+  "tax": 17.91,
+  "discount": 11.52,
+  "total": 401.04,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$31.97",
+      "line_total": "$95.91"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$36.81",
+      "line_total": "$110.43"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$38.55",
+      "line_total": "$38.55"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$37.44",
+      "line_total": "$149.76"
+    }
+  ],
+  "sample_id": "receipt_0182"
+}

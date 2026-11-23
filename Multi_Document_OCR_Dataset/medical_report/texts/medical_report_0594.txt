@@ -1,0 +1,14 @@
+Medical Report MED-29KWUKBF
+Patient: Chelsey Duncan
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-29KWUKBF",
+  "patient_name": "Chelsey Duncan",
+  "visit_date": "2024-10-08",
+  "doctor_name": "Dr. Trevor Aguilar",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0594"
+}

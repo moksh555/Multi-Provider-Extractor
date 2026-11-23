@@ -1,0 +1,37 @@
+Receipt RCT-IHDIY4NR
+Merchant: Flynn-Pearson
+Date: 2024-11-12
+Total: $539.79
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IHDIY4NR",
+  "merchant_name": "Flynn-Pearson",
+  "date": "2024-11-12",
+  "subtotal": 523.14,
+  "tax": 30.68,
+  "discount": 14.03,
+  "total": 539.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$56.20",
+      "line_total": "$224.80"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$66.68",
+      "line_total": "$266.72"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$31.62",
+      "line_total": "$31.62"
+    }
+  ],
+  "sample_id": "receipt_0385"
+}

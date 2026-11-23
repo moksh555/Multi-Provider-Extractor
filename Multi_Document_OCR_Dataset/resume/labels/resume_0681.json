@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Cantu",
+  "email": "aguilarthomas@example.org",
+  "phone": "(942)536-3743",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "SQL",
+    "Computer Vision",
+    "Machine Learning",
+    "AWS",
+    "FastAPI",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0681"
+}

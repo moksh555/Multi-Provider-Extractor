@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0098
+Company: Summit Agro Foods
+Company Address: 57 Agrabad C/A, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 214 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-01-30
+Due Date: 2026-02-14
+Currency: QAR
+Subtotal: 13912.46
+Tax: 1982.53
+Total: 15204.37
+Balance Due: 0.0
+Status: paid

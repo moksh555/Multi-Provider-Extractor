@@ -1,0 +1,16 @@
+Insurance Policy POL-C682U9WT2
+Holder: Dr. Alexis Shea
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-C682U9WT2",
+  "policy_holder": "Dr. Alexis Shea",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-02-05",
+  "expiry_date": "2026-02-05",
+  "premium": 1484.54,
+  "coverage_amount": 115452.54,
+  "beneficiary": "Cathy Sanders",
+  "sample_id": "insurance_document_0889"
+}

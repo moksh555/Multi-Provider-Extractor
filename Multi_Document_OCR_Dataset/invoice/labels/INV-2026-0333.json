@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0333",
+  "invoice_number": "INV-2026-0333",
+  "company_name": "Summit Agro Foods",
+  "company_address": "30 Mirpur DOHS, Dhaka, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "184 Gulshan Avenue, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-21",
+  "due_date": "2026-05-06",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 4,
+      "unit_price": 408.83,
+      "amount": 1635.32
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 839.84,
+      "amount": 10078.08
+    },
+    {
+      "description": "API Integration",
+      "quantity": 12,
+      "unit_price": 164.67,
+      "amount": 1976.04
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 12,
+      "unit_price": 577.33,
+      "amount": 6927.96
+    }
+  ],
+  "subtotal": 20617.4,
+  "discount": 1030.87,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 19586.53,
+  "amount_paid": 19586.53,
+  "balance_due": 0.0,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801101115967",
+  "po_number": "PO-01391"
+}

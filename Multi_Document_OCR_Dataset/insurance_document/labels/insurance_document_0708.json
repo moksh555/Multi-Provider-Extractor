@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RR9VWE77N",
+  "policy_holder": "Alejandro Rios",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-10-15",
+  "expiry_date": "2026-10-15",
+  "premium": 1402.22,
+  "coverage_amount": 251374.69,
+  "beneficiary": "Kimberly David",
+  "sample_id": "insurance_document_0708"
+}

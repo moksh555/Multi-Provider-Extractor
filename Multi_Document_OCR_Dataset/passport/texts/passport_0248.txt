@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mr. Keith West
+Passport No: P38850349
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P38850349",
+  "full_name": "Mr. Keith West",
+  "nationality": "GB",
+  "date_of_birth": "1999-01-26",
+  "issue_date": "2023-06-09",
+  "expiry_date": "2033-06-09",
+  "place_of_birth": "Elizabethchester",
+  "sample_id": "passport_0248"
+}

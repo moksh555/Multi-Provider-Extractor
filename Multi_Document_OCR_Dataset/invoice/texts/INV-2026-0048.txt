@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0048
+Company: BlueRiver Trading Co.
+Company Address: 86 Sheikh Zayed Road, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 28 Dhanmondi 27, Sylhet, Bangladesh
+Invoice Date: 2026-04-27
+Due Date: 2026-06-11
+Currency: BDT
+Subtotal: 3848.16
+Tax: 288.61
+Total: 4186.77
+Balance Due: 4186.77
+Status: overdue

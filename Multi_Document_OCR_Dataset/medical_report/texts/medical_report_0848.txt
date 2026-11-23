@@ -1,0 +1,14 @@
+Medical Report MED-WXOUCBF8
+Patient: Kelli Willis
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WXOUCBF8",
+  "patient_name": "Kelli Willis",
+  "visit_date": "2026-03-26",
+  "doctor_name": "Dr. Bryan Smith",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0848"
+}

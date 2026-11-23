@@ -1,0 +1,14 @@
+Medical Report MED-3Z01Q3KX
+Patient: Michael Miller
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-3Z01Q3KX",
+  "patient_name": "Michael Miller",
+  "visit_date": "2025-12-08",
+  "doctor_name": "Dr. Albert Ray",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0935"
+}

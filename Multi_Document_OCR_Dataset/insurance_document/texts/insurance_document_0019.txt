@@ -1,0 +1,16 @@
+Insurance Policy POL-LBR7TCS4C
+Holder: Courtney Gonzalez
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LBR7TCS4C",
+  "policy_holder": "Courtney Gonzalez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-10-14",
+  "expiry_date": "2027-10-14",
+  "premium": 2171.13,
+  "coverage_amount": 207850.02,
+  "beneficiary": "David Alvarez",
+  "sample_id": "insurance_document_0019"
+}

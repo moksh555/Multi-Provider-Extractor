@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FVIUCLHQ",
+  "merchant_name": "Ortega-Neal",
+  "date": "2026-06-06",
+  "subtotal": 244.32,
+  "tax": 23.61,
+  "discount": 12.61,
+  "total": 255.32,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$11.82",
+      "line_total": "$35.46"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$1.08",
+      "line_total": "$4.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$68.18",
+      "line_total": "$204.54"
+    }
+  ],
+  "sample_id": "receipt_0848"
+}

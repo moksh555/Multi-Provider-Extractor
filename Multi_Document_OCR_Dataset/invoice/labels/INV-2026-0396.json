@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0396",
+  "invoice_number": "INV-2026-0396",
+  "company_name": "Golden Harvest Store",
+  "company_address": "37 Uttara Sector 7, Doha, Qatar",
+  "customer_name": "Future School",
+  "billing_address": "238 Gulshan Avenue, Dubai, UAE",
+  "invoice_date": "2026-01-03",
+  "due_date": "2026-01-18",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 102.83,
+      "amount": 719.81
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 702.79,
+      "amount": 2811.16
+    },
+    {
+      "description": "Web Development",
+      "quantity": 3,
+      "unit_price": 401.83,
+      "amount": 1205.49
+    }
+  ],
+  "subtotal": 4736.46,
+  "discount": 473.65,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 4287.81,
+  "amount_paid": 4287.81,
+  "balance_due": 0.0,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801931485357",
+  "po_number": "PO-15082"
+}

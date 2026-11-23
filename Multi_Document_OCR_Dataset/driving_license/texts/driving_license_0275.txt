@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Garcia
+License: DL423565099
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL423565099",
+  "full_name": "Jennifer Garcia",
+  "date_of_birth": "1993-07-28",
+  "class": "C",
+  "issue_date": "2026-04-18",
+  "expiry_date": "2031-04-18",
+  "address": "761 Laura Plaza Suite 852, Mahoneymouth, OH 43054",
+  "sample_id": "driving_license_0275"
+}

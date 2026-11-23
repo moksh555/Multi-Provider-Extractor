@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Roy Vargas
+Passport No: P40548969
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P40548969",
+  "full_name": "Roy Vargas",
+  "nationality": "US",
+  "date_of_birth": "1985-01-09",
+  "issue_date": "2023-08-09",
+  "expiry_date": "2033-08-09",
+  "place_of_birth": "Kimberlyborough",
+  "sample_id": "passport_0412"
+}

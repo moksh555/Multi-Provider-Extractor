@@ -1,0 +1,24 @@
+Resume
+Ryan Woodard
+Backend Developer
+Skills: Deep Learning, TensorFlow, LangChain, SQL, Python, Pandas, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Ryan Woodard",
+  "email": "eringates@example.com",
+  "phone": "(271)499-9275x23710",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Deep Learning",
+    "TensorFlow",
+    "LangChain",
+    "SQL",
+    "Python",
+    "Pandas",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0843"
+}

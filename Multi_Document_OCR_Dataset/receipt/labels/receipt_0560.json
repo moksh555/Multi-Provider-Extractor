@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EOV0D68F",
+  "merchant_name": "Friedman, Wood and Cox",
+  "date": "2026-06-10",
+  "subtotal": 701.18,
+  "tax": 25.26,
+  "discount": 12.34,
+  "total": 714.1,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$38.91",
+      "line_total": "$155.64"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$19.43",
+      "line_total": "$38.86"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$35.51",
+      "line_total": "$106.53"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$47.05",
+      "line_total": "$141.15"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$64.75",
+      "line_total": "$259.00"
+    }
+  ],
+  "sample_id": "receipt_0560"
+}

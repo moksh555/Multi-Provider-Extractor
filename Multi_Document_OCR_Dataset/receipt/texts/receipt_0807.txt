@@ -1,0 +1,61 @@
+Receipt RCT-EEKOT16M
+Merchant: Terry-Price
+Date: 2023-09-14
+Total: $787.45
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EEKOT16M",
+  "merchant_name": "Terry-Price",
+  "date": "2023-09-14",
+  "subtotal": 762.9,
+  "tax": 25.98,
+  "discount": 1.43,
+  "total": 787.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$31.21",
+      "line_total": "$124.84"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$68.82",
+      "line_total": "$275.28"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$18.48",
+      "line_total": "$73.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$60.37",
+      "line_total": "$181.11"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$67.28",
+      "line_total": "$67.28"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$24.86",
+      "line_total": "$24.86"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$15.61",
+      "line_total": "$15.61"
+    }
+  ],
+  "sample_id": "receipt_0807"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JY83EP2X",
+  "patient_name": "Donna Cooper",
+  "visit_date": "2025-12-25",
+  "doctor_name": "Dr. Keith Hodge Jr.",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0131"
+}

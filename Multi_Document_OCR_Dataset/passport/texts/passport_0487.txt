@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Karl Stein
+Passport No: P46290830
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P46290830",
+  "full_name": "Karl Stein",
+  "nationality": "CA",
+  "date_of_birth": "1968-12-15",
+  "issue_date": "2024-02-01",
+  "expiry_date": "2034-02-01",
+  "place_of_birth": "Josebury",
+  "sample_id": "passport_0487"
+}

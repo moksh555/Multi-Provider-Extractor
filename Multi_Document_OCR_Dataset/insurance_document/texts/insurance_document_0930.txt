@@ -1,0 +1,16 @@
+Insurance Policy POL-086OKWOAL
+Holder: Luis Ortiz
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-086OKWOAL",
+  "policy_holder": "Luis Ortiz",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-06-14",
+  "expiry_date": "2025-06-14",
+  "premium": 2156.27,
+  "coverage_amount": 296344.48,
+  "beneficiary": "Jessica Cook",
+  "sample_id": "insurance_document_0930"
+}

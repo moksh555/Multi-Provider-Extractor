@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FZ4KWP7M",
+  "patient_name": "Kevin Cook",
+  "visit_date": "2025-11-03",
+  "doctor_name": "Dr. Justin Blake",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0713"
+}

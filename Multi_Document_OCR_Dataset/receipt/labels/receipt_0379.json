@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-J4X0LY66",
+  "merchant_name": "Daniels-Pacheco",
+  "date": "2022-11-25",
+  "subtotal": 532.45,
+  "tax": 32.78,
+  "discount": 5.12,
+  "total": 560.11,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$75.30",
+      "line_total": "$75.30"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$67.18",
+      "line_total": "$268.72"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$16.24",
+      "line_total": "$16.24"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$7.63",
+      "line_total": "$22.89"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$22.77",
+      "line_total": "$22.77"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$14.66",
+      "line_total": "$58.64"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$22.63",
+      "line_total": "$67.89"
+    }
+  ],
+  "sample_id": "receipt_0379"
+}

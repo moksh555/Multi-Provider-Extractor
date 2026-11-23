@@ -1,0 +1,16 @@
+Bank Statement STM-T52LK3TW
+Holder: Jacqueline Owens
+Closing Balance: $5690.31
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T52LK3TW",
+  "account_holder": "Jacqueline Owens",
+  "account_number_masked": "****1255",
+  "period_start": "2026-08-28",
+  "period_end": "2026-09-27",
+  "opening_balance": 1678.6,
+  "closing_balance": 5690.31,
+  "transactions": 14,
+  "sample_id": "bank_statement_0142"
+}

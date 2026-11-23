@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Martin
+License: DL983041583
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL983041583",
+  "full_name": "Michael Martin",
+  "date_of_birth": "1962-08-24",
+  "class": "D",
+  "issue_date": "2024-04-16",
+  "expiry_date": "2029-04-16",
+  "address": "8902 Oconnell Avenue Apt. 279, Davisview, IN 49107",
+  "sample_id": "driving_license_0243"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-M6GMFT1PW
+Holder: Amber Curry
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M6GMFT1PW",
+  "policy_holder": "Amber Curry",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-25",
+  "expiry_date": "2027-03-25",
+  "premium": 1772.91,
+  "coverage_amount": 368167.88,
+  "beneficiary": "Nina Henson",
+  "sample_id": "insurance_document_0873"
+}

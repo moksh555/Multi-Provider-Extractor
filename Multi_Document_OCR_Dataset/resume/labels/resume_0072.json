@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Pamela Ramirez",
+  "email": "uhubbard@example.com",
+  "phone": "635-587-2717",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "Pandas",
+    "Deep Learning",
+    "FastAPI",
+    "NLP",
+    "TensorFlow",
+    "Docker",
+    "Python",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0072"
+}

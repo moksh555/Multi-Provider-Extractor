@@ -1,0 +1,16 @@
+Insurance Policy POL-8KZRUIN3O
+Holder: Kimberly Williams
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8KZRUIN3O",
+  "policy_holder": "Kimberly Williams",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-02-28",
+  "expiry_date": "2027-02-28",
+  "premium": 595.52,
+  "coverage_amount": 498659.81,
+  "beneficiary": "Mr. Johnathan Galloway",
+  "sample_id": "insurance_document_0182"
+}

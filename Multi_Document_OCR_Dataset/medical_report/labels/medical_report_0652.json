@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-OU5QIT0E",
+  "patient_name": "Justin Dunn",
+  "visit_date": "2025-02-07",
+  "doctor_name": "Dr. Beth Perez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0652"
+}

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0647",
+  "invoice_number": "INV-2026-0647",
+  "company_name": "Summit Agro Foods",
+  "company_address": "181 Road 12, Banani, Chattogram, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "178 Zindabazar Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-04-05",
+  "due_date": "2026-04-12",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 2,
+      "unit_price": 570.72,
+      "amount": 1141.44
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 561.51,
+      "amount": 3930.57
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 841.32,
+      "amount": 5889.24
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 10,
+      "unit_price": 683.88,
+      "amount": 6838.8
+    }
+  ],
+  "subtotal": 17800.05,
+  "discount": 890.0,
+  "tax_rate": 0.1,
+  "tax": 1691.01,
+  "shipping": 5,
+  "total": 18606.06,
+  "amount_paid": 5610.19,
+  "balance_due": 12995.87,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801366010363",
+  "po_number": "PO-30609"
+}

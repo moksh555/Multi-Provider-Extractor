@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RQA4MP66",
+  "patient_name": "Elizabeth Arellano",
+  "visit_date": "2026-08-03",
+  "doctor_name": "Dr. Jamie Patton",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0040"
+}

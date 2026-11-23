@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TLVAEUUW",
+  "account_holder": "Erika Mays",
+  "account_number_masked": "****3656",
+  "period_start": "2024-04-16",
+  "period_end": "2024-05-16",
+  "opening_balance": 2753.6,
+  "closing_balance": 4280.13,
+  "transactions": 12,
+  "sample_id": "bank_statement_0974"
+}

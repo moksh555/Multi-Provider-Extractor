@@ -1,0 +1,25 @@
+Resume
+Kristina Cameron
+Data Analyst
+Skills: Python, TensorFlow, Deep Learning, AWS, LangChain, SQL, Computer Vision, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Kristina Cameron",
+  "email": "pcastro@example.com",
+  "phone": "001-537-667-6497x37805",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Deep Learning",
+    "AWS",
+    "LangChain",
+    "SQL",
+    "Computer Vision",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0610"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KEGVKA65",
+  "account_holder": "Michael Crawford",
+  "account_number_masked": "****7322",
+  "period_start": "2024-12-06",
+  "period_end": "2025-01-05",
+  "opening_balance": 4623.46,
+  "closing_balance": 5792.16,
+  "transactions": 9,
+  "sample_id": "bank_statement_0278"
+}

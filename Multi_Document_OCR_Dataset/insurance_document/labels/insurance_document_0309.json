@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FTJ5CCASB",
+  "policy_holder": "Brett Thomas",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-31",
+  "expiry_date": "2027-03-31",
+  "premium": 1084.22,
+  "coverage_amount": 299117.79,
+  "beneficiary": "Deanna David",
+  "sample_id": "insurance_document_0309"
+}

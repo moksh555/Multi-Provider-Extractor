@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0995",
+  "invoice_number": "INV-2026-0995",
+  "company_name": "Metro Print House",
+  "company_address": "174 Road 12, Banani, Riyadh, Saudi Arabia",
+  "customer_name": "TechPoint BD",
+  "billing_address": "159 Dhanmondi 27, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-25",
+  "due_date": "2026-06-01",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 10,
+      "unit_price": 136.96,
+      "amount": 1369.6
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 9,
+      "unit_price": 232.73,
+      "amount": 2094.57
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 343.3,
+      "amount": 2403.1
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 7,
+      "unit_price": 804.81,
+      "amount": 5633.67
+    }
+  ],
+  "subtotal": 11500.94,
+  "discount": 1150.09,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 10400.85,
+  "amount_paid": 7170.16,
+  "balance_due": 3230.69,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801610905806",
+  "po_number": "PO-78871"
+}

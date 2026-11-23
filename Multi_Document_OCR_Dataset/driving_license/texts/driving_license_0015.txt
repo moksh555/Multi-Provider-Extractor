@@ -1,0 +1,16 @@
+Synthetic Driving License
+Barry Hensley
+License: DL700035245
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL700035245",
+  "full_name": "Barry Hensley",
+  "date_of_birth": "2002-05-28",
+  "class": "D",
+  "issue_date": "2022-09-22",
+  "expiry_date": "2027-09-22",
+  "address": "909 Robert Prairie, Sarahborough, TN 94373",
+  "sample_id": "driving_license_0015"
+}

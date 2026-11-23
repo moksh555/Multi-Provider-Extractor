@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0058
+Company: CityBanking Supplies
+Company Address: 184 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 98 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-03-17
+Due Date: 2026-04-01
+Currency: USD
+Subtotal: 9631.89
+Tax: 722.39
+Total: 10379.28
+Balance Due: 0.0
+Status: paid

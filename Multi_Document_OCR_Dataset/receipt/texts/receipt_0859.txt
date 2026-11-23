@@ -1,0 +1,55 @@
+Receipt RCT-C9M2ZEH9
+Merchant: Brock, Mcguire and Miller
+Date: 2023-03-08
+Total: $737.09
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-C9M2ZEH9",
+  "merchant_name": "Brock, Mcguire and Miller",
+  "date": "2023-03-08",
+  "subtotal": 700.83,
+  "tax": 42.58,
+  "discount": 6.32,
+  "total": 737.09,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$7.07",
+      "line_total": "$14.14"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$46.69",
+      "line_total": "$140.07"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$55.45",
+      "line_total": "$166.35"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$38.62",
+      "line_total": "$77.24"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$60.23",
+      "line_total": "$180.69"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$40.78",
+      "line_total": "$122.34"
+    }
+  ],
+  "sample_id": "receipt_0859"
+}

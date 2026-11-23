@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A57E8A54",
+  "merchant_name": "Patterson, Carroll and Arnold",
+  "date": "2023-05-05",
+  "subtotal": 804.97,
+  "tax": 39.39,
+  "discount": 1.36,
+  "total": 843.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$35.65",
+      "line_total": "$142.60"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$61.91",
+      "line_total": "$123.82"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$77.57",
+      "line_total": "$77.57"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$60.77",
+      "line_total": "$121.54"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$59.51",
+      "line_total": "$238.04"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$33.80",
+      "line_total": "$101.40"
+    }
+  ],
+  "sample_id": "receipt_0409"
+}

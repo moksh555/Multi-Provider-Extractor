@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL549531328",
+  "full_name": "Curtis Smith",
+  "date_of_birth": "1985-03-15",
+  "class": "D",
+  "issue_date": "2020-08-27",
+  "expiry_date": "2025-08-27",
+  "address": "489 Bailey Via, Jeremyborough, NH 53448",
+  "sample_id": "driving_license_0246"
+}

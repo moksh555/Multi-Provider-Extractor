@@ -1,0 +1,16 @@
+Synthetic Driving License
+Christopher Clark
+License: DL047610316
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL047610316",
+  "full_name": "Christopher Clark",
+  "date_of_birth": "1969-07-30",
+  "class": "D",
+  "issue_date": "2024-01-11",
+  "expiry_date": "2029-01-11",
+  "address": "76563 Johnson Glen, Lake Sallymouth, TN 98631",
+  "sample_id": "driving_license_0469"
+}

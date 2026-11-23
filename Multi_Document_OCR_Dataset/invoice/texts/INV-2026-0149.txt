@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0149
+Company: Delta Insurance Services
+Company Address: 104 Al Barsha, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 181 Al Barsha, Dhaka, Bangladesh
+Invoice Date: 2026-06-10
+Due Date: 2026-06-17
+Currency: SAR
+Subtotal: 17763.13
+Tax: 2664.47
+Total: 20452.6
+Balance Due: 5672.3
+Status: partial

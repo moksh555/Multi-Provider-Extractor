@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Melissa Bailey",
+  "email": "robert29@example.net",
+  "phone": "537.541.5358",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "FastAPI",
+    "Python",
+    "Streamlit",
+    "Computer Vision",
+    "Deep Learning",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0743"
+}

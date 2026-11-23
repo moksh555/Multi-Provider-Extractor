@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FWO70WBU",
+  "patient_name": "Kelly Morgan",
+  "visit_date": "2026-07-27",
+  "doctor_name": "Dr. Christopher Bates",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0990"
+}

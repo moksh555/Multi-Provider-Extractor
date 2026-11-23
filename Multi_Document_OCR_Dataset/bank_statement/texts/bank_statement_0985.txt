@@ -1,0 +1,16 @@
+Bank Statement STM-SY0LJ2FH
+Holder: Andre Flores
+Closing Balance: $5467.07
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SY0LJ2FH",
+  "account_holder": "Andre Flores",
+  "account_number_masked": "****0024",
+  "period_start": "2025-05-17",
+  "period_end": "2025-06-16",
+  "opening_balance": 3150.99,
+  "closing_balance": 5467.07,
+  "transactions": 12,
+  "sample_id": "bank_statement_0985"
+}

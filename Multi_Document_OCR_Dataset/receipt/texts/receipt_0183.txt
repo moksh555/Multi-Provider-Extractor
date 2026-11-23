@@ -1,0 +1,55 @@
+Receipt RCT-USOZDUCK
+Merchant: Flores, Lamb and Carr
+Date: 2026-03-04
+Total: $654.71
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-USOZDUCK",
+  "merchant_name": "Flores, Lamb and Carr",
+  "date": "2026-03-04",
+  "subtotal": 608.68,
+  "tax": 50.91,
+  "discount": 4.88,
+  "total": 654.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$50.05",
+      "line_total": "$100.10"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$31.32",
+      "line_total": "$125.28"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$65.30",
+      "line_total": "$130.60"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$45.81",
+      "line_total": "$183.24"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$14.67",
+      "line_total": "$29.34"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$10.03",
+      "line_total": "$40.12"
+    }
+  ],
+  "sample_id": "receipt_0183"
+}

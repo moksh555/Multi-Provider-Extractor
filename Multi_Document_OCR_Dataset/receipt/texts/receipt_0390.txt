@@ -1,0 +1,55 @@
+Receipt RCT-3UBLBV03
+Merchant: Price, Goodman and Young
+Date: 2022-02-19
+Total: $1174.67
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3UBLBV03",
+  "merchant_name": "Price, Goodman and Young",
+  "date": "2022-02-19",
+  "subtotal": 1105.84,
+  "tax": 80.24,
+  "discount": 11.41,
+  "total": 1174.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$74.27",
+      "line_total": "$222.81"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$32.66",
+      "line_total": "$130.64"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$58.01",
+      "line_total": "$174.03"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$77.25",
+      "line_total": "$309.00"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$79.60",
+      "line_total": "$238.80"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$30.56",
+      "line_total": "$30.56"
+    }
+  ],
+  "sample_id": "receipt_0390"
+}

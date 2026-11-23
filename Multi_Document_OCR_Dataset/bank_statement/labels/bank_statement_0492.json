@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RPE7PKUB",
+  "account_holder": "Michelle Ryan",
+  "account_number_masked": "****4167",
+  "period_start": "2024-07-21",
+  "period_end": "2024-08-20",
+  "opening_balance": 2423.09,
+  "closing_balance": 3435.61,
+  "transactions": 11,
+  "sample_id": "bank_statement_0492"
+}

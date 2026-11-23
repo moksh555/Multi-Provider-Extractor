@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Townsend
+License: DL485688304
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL485688304",
+  "full_name": "Jennifer Townsend",
+  "date_of_birth": "1967-03-25",
+  "class": "D",
+  "issue_date": "2026-03-08",
+  "expiry_date": "2031-03-08",
+  "address": "550 Timothy Views Apt. 325, Alyssahaven, OR 80777",
+  "sample_id": "driving_license_0849"
+}

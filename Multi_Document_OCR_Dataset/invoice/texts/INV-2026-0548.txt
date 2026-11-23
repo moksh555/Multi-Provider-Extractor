@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0548
+Company: PrimeSoft Technologies
+Company Address: 143 Zindabazar Road, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 209 Agrabad C/A, Dhaka, Bangladesh
+Invoice Date: 2026-03-25
+Due Date: 2026-04-09
+Currency: QAR
+Subtotal: 9772.13
+Tax: 1465.82
+Total: 11287.95
+Balance Due: 11287.95
+Status: unpaid

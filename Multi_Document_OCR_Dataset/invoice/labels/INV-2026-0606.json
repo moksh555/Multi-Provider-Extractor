@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0606",
+  "invoice_number": "INV-2026-0606",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "100 Agrabad C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "158 Doha Business Park, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-21",
+  "due_date": "2026-03-07",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 6,
+      "unit_price": 156.86,
+      "amount": 941.16
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 762.71,
+      "amount": 8389.81
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 113.27,
+      "amount": 226.54
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 474.28,
+      "amount": 1422.84
+    }
+  ],
+  "subtotal": 10980.35,
+  "discount": 549.02,
+  "tax_rate": 0.1,
+  "tax": 1043.13,
+  "shipping": 50,
+  "total": 11524.46,
+  "amount_paid": 0,
+  "balance_due": 11524.46,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801354070101",
+  "po_number": "PO-45906"
+}

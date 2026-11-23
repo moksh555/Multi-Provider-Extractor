@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0497
+Company: Metro Print House
+Company Address: 112 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Global Mart
+Billing Address: 239 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-05-08
+Due Date: 2026-05-23
+Currency: SAR
+Subtotal: 7024.93
+Tax: 333.68
+Total: 7007.36
+Balance Due: 7007.36
+Status: overdue

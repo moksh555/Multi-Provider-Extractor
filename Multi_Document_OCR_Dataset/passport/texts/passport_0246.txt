@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Melvin Nguyen
+Passport No: P04206205
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P04206205",
+  "full_name": "Melvin Nguyen",
+  "nationality": "BD",
+  "date_of_birth": "1988-08-27",
+  "issue_date": "2023-03-31",
+  "expiry_date": "2033-03-31",
+  "place_of_birth": "Danielside",
+  "sample_id": "passport_0246"
+}

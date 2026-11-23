@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CZ8P5AIE",
+  "account_holder": "Michael Allen",
+  "account_number_masked": "****2405",
+  "period_start": "2025-07-30",
+  "period_end": "2025-08-29",
+  "opening_balance": 2889.71,
+  "closing_balance": 4403.63,
+  "transactions": 8,
+  "sample_id": "bank_statement_0085"
+}

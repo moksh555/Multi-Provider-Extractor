@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL932254303",
+  "full_name": "Kathleen Sims",
+  "date_of_birth": "1996-11-10",
+  "class": "B",
+  "issue_date": "2024-05-20",
+  "expiry_date": "2029-05-20",
+  "address": "866 Kenneth Mews, Jenniferview, NC 42756",
+  "sample_id": "driving_license_0649"
+}

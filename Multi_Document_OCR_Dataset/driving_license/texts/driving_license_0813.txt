@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jessica Johnson
+License: DL102118525
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL102118525",
+  "full_name": "Jessica Johnson",
+  "date_of_birth": "1984-09-17",
+  "class": "D",
+  "issue_date": "2022-07-16",
+  "expiry_date": "2027-07-16",
+  "address": "205 Long Mountain, Kevinside, PA 43373",
+  "sample_id": "driving_license_0813"
+}

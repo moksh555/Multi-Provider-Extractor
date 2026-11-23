@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0932
+Company: PrimeSoft Technologies
+Company Address: 74 Sheikh Zayed Road, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 209 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-05-24
+Due Date: 2026-06-08
+Currency: QAR
+Subtotal: 15885.08
+Tax: 1191.38
+Total: 17086.46
+Balance Due: 7215.95
+Status: partial

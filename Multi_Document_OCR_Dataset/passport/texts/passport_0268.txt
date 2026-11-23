@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Debbie Pena
+Passport No: P35290300
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P35290300",
+  "full_name": "Debbie Pena",
+  "nationality": "CA",
+  "date_of_birth": "1975-09-13",
+  "issue_date": "2022-09-27",
+  "expiry_date": "2032-09-27",
+  "place_of_birth": "Santanafurt",
+  "sample_id": "passport_0268"
+}

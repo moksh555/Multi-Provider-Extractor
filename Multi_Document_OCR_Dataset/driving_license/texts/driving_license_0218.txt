@@ -1,0 +1,16 @@
+Synthetic Driving License
+Elizabeth Molina
+License: DL680914949
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL680914949",
+  "full_name": "Elizabeth Molina",
+  "date_of_birth": "1971-11-01",
+  "class": "B",
+  "issue_date": "2023-05-21",
+  "expiry_date": "2028-05-21",
+  "address": "98386 William Underpass Suite 066, Fryemouth, OH 07552",
+  "sample_id": "driving_license_0218"
+}

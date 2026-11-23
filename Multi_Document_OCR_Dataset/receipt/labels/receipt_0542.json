@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V5CIX39E",
+  "merchant_name": "Conley PLC",
+  "date": "2024-08-28",
+  "subtotal": 346.47,
+  "tax": 29.73,
+  "discount": 10.75,
+  "total": 365.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$1.44",
+      "line_total": "$2.88"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$3.67",
+      "line_total": "$14.68"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$44.89",
+      "line_total": "$179.56"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$23.43",
+      "line_total": "$23.43"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$31.48",
+      "line_total": "$125.92"
+    }
+  ],
+  "sample_id": "receipt_0542"
+}

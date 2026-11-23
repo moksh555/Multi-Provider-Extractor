@@ -1,0 +1,16 @@
+Insurance Policy POL-H0UHK7X3B
+Holder: Joseph Cruz Jr.
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-H0UHK7X3B",
+  "policy_holder": "Joseph Cruz Jr.",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-06-19",
+  "expiry_date": "2027-06-19",
+  "premium": 2139.08,
+  "coverage_amount": 38173.4,
+  "beneficiary": "Suzanne Wagner",
+  "sample_id": "insurance_document_0678"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-2GI14Z9P",
+  "patient_name": "Jacob Reilly",
+  "visit_date": "2024-02-20",
+  "doctor_name": "Dr. Robert Levine",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0156"
+}

@@ -1,0 +1,23 @@
+Resume
+Anthony Pratt
+Machine Learning Engineer
+Skills: Machine Learning, SQL, Python, Pandas, Deep Learning, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Anthony Pratt",
+  "email": "christopher06@example.org",
+  "phone": "(540)951-0265",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Machine Learning",
+    "SQL",
+    "Python",
+    "Pandas",
+    "Deep Learning",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0392"
+}

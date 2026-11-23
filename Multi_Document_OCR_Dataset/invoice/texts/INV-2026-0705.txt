@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0705
+Company: Summit Agro Foods
+Company Address: 145 Dhanmondi 27, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 85 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-05-01
+Due Date: 2026-06-15
+Currency: SAR
+Subtotal: 5707.88
+Tax: 0.0
+Total: 5707.88
+Balance Due: 5707.88
+Status: unpaid

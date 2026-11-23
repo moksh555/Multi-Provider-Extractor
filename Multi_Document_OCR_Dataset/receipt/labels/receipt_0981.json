@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-P8YOQVP7",
+  "merchant_name": "Perez, Williams and Graham",
+  "date": "2026-03-09",
+  "subtotal": 245.47,
+  "tax": 8.1,
+  "discount": 6.55,
+  "total": 247.02,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$54.58",
+      "line_total": "$163.74"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$5.41",
+      "line_total": "$5.41"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$25.44",
+      "line_total": "$76.32"
+    }
+  ],
+  "sample_id": "receipt_0981"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-GEQ20HWOB
+Holder: Valerie Ray
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GEQ20HWOB",
+  "policy_holder": "Valerie Ray",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-02-21",
+  "expiry_date": "2027-02-21",
+  "premium": 2038.38,
+  "coverage_amount": 114045.59,
+  "beneficiary": "Robert Smith",
+  "sample_id": "insurance_document_0401"
+}

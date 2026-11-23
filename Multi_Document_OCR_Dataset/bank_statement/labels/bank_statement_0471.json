@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8G5950NT",
+  "account_holder": "Sandra Floyd",
+  "account_number_masked": "****1802",
+  "period_start": "2025-11-07",
+  "period_end": "2025-12-07",
+  "opening_balance": 1650.41,
+  "closing_balance": 5084.43,
+  "transactions": 8,
+  "sample_id": "bank_statement_0471"
+}

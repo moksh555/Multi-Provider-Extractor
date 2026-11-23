@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0191
+Company: BlueRiver Trading Co.
+Company Address: 23 Zindabazar Road, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 103 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-04-16
+Due Date: 2026-05-01
+Currency: QAR
+Subtotal: 24095.53
+Tax: 2289.08
+Total: 25204.83
+Balance Due: 0.0
+Status: paid

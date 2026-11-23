@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1DNMMJBQE",
+  "policy_holder": "Michael Miles",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-06-11",
+  "expiry_date": "2024-06-11",
+  "premium": 1433.86,
+  "coverage_amount": 416408.29,
+  "beneficiary": "Andrea Reid",
+  "sample_id": "insurance_document_0003"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL972502226",
+  "full_name": "Patrick Taylor",
+  "date_of_birth": "1961-02-08",
+  "class": "C",
+  "issue_date": "2021-05-24",
+  "expiry_date": "2026-05-24",
+  "address": "70756 Joseph Ramp, North Matthew, HI 85499",
+  "sample_id": "driving_license_0862"
+}

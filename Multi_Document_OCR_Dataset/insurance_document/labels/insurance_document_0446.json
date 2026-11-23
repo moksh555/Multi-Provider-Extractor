@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-39YL9UE42",
+  "policy_holder": "Seth Douglas",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-04-29",
+  "expiry_date": "2027-04-29",
+  "premium": 532.81,
+  "coverage_amount": 40978.72,
+  "beneficiary": "Matthew Lopez",
+  "sample_id": "insurance_document_0446"
+}

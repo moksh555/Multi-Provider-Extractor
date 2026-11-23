@@ -1,0 +1,25 @@
+Resume
+Belinda Haley
+Backend Developer
+Skills: FastAPI, PyTorch, LangChain, SQL, NLP, TensorFlow, AWS, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Belinda Haley",
+  "email": "markbaird@example.net",
+  "phone": "385.876.2648",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "PyTorch",
+    "LangChain",
+    "SQL",
+    "NLP",
+    "TensorFlow",
+    "AWS",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0234"
+}

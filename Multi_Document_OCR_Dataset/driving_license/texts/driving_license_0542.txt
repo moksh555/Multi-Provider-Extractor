@@ -1,0 +1,16 @@
+Synthetic Driving License
+Charles Rose
+License: DL255165754
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL255165754",
+  "full_name": "Charles Rose",
+  "date_of_birth": "1968-02-05",
+  "class": "A",
+  "issue_date": "2022-09-02",
+  "expiry_date": "2027-09-02",
+  "address": "USCGC Jenkins, FPO AA 58693",
+  "sample_id": "driving_license_0542"
+}

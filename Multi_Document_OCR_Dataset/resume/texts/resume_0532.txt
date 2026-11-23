@@ -1,0 +1,27 @@
+Resume
+Tyler Hines
+Backend Developer
+Skills: Computer Vision, PyTorch, Machine Learning, Python, FastAPI, Pandas, Docker, Deep Learning, Streamlit, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Tyler Hines",
+  "email": "john52@example.net",
+  "phone": "001-660-288-5329x873",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "PyTorch",
+    "Machine Learning",
+    "Python",
+    "FastAPI",
+    "Pandas",
+    "Docker",
+    "Deep Learning",
+    "Streamlit",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0532"
+}

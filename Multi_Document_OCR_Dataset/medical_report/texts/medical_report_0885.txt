@@ -1,0 +1,14 @@
+Medical Report MED-QH9UG0PC
+Patient: Joanna Avila
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QH9UG0PC",
+  "patient_name": "Joanna Avila",
+  "visit_date": "2025-02-16",
+  "doctor_name": "Dr. Kathleen Butler",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0885"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brian Reyes
+Passport No: P81379559
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P81379559",
+  "full_name": "Brian Reyes",
+  "nationality": "BD",
+  "date_of_birth": "2002-12-02",
+  "issue_date": "2020-09-04",
+  "expiry_date": "2030-09-04",
+  "place_of_birth": "South Christina",
+  "sample_id": "passport_0602"
+}

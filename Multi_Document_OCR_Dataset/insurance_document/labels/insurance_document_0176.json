@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-W2QITNGVN",
+  "policy_holder": "Brian Simmons",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-08-27",
+  "expiry_date": "2025-08-27",
+  "premium": 2019.37,
+  "coverage_amount": 359423.18,
+  "beneficiary": "Deborah Herrera",
+  "sample_id": "insurance_document_0176"
+}

@@ -1,0 +1,25 @@
+Resume
+Megan Krueger
+Software Engineer
+Skills: SQL, Computer Vision, NLP, Streamlit, TensorFlow, Deep Learning, Docker, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Megan Krueger",
+  "email": "charlessims@example.org",
+  "phone": "726-911-9789x25946",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "SQL",
+    "Computer Vision",
+    "NLP",
+    "Streamlit",
+    "TensorFlow",
+    "Deep Learning",
+    "Docker",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0263"
+}

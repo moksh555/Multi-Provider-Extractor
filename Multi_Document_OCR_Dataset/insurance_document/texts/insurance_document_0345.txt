@@ -1,0 +1,16 @@
+Insurance Policy POL-RB1S9DWD7
+Holder: James Torres
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RB1S9DWD7",
+  "policy_holder": "James Torres",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-09-25",
+  "expiry_date": "2025-09-25",
+  "premium": 665.87,
+  "coverage_amount": 371420.68,
+  "beneficiary": "Justin Castillo",
+  "sample_id": "insurance_document_0345"
+}

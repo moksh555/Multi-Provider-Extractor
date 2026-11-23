@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3IAVX56L",
+  "merchant_name": "Black, Martin and Clark",
+  "date": "2022-07-17",
+  "subtotal": 213.64,
+  "tax": 8.43,
+  "discount": 3.57,
+  "total": 218.5,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$14.13",
+      "line_total": "$28.26"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$28.95",
+      "line_total": "$28.95"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$29.02",
+      "line_total": "$87.06"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$22.40",
+      "line_total": "$22.40"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$46.97",
+      "line_total": "$46.97"
+    }
+  ],
+  "sample_id": "receipt_0709"
+}

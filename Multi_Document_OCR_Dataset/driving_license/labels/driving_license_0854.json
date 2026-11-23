@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL110362264",
+  "full_name": "Theresa Smith",
+  "date_of_birth": "1970-12-24",
+  "class": "A",
+  "issue_date": "2020-11-10",
+  "expiry_date": "2025-11-10",
+  "address": "44626 Jessica Lake Apt. 448, North Tonyaville, PR 00937",
+  "sample_id": "driving_license_0854"
+}

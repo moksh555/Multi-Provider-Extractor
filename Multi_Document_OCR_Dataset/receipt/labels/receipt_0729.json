@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Y56CA037",
+  "merchant_name": "Bryant, Macdonald and Howard",
+  "date": "2022-08-08",
+  "subtotal": 350.97,
+  "tax": 36.32,
+  "discount": 10.56,
+  "total": 376.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$17.98",
+      "line_total": "$53.94"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$75.16",
+      "line_total": "$75.16"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$37.22",
+      "line_total": "$74.44"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$15.43",
+      "line_total": "$15.43"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$33.00",
+      "line_total": "$132.00"
+    }
+  ],
+  "sample_id": "receipt_0729"
+}

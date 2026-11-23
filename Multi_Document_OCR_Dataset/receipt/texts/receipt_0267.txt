@@ -1,0 +1,49 @@
+Receipt RCT-VILURQBD
+Merchant: Campbell and Sons
+Date: 2026-02-13
+Total: $592.41
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VILURQBD",
+  "merchant_name": "Campbell and Sons",
+  "date": "2026-02-13",
+  "subtotal": 580.01,
+  "tax": 25.64,
+  "discount": 13.24,
+  "total": 592.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$49.43",
+      "line_total": "$197.72"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$20.68",
+      "line_total": "$82.72"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$31.39",
+      "line_total": "$125.56"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$32.09",
+      "line_total": "$32.09"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$70.96",
+      "line_total": "$141.92"
+    }
+  ],
+  "sample_id": "receipt_0267"
+}

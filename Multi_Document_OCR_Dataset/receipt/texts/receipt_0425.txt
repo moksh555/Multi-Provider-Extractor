@@ -1,0 +1,67 @@
+Receipt RCT-UD79ZTD3
+Merchant: Cook, Hardy and Singh
+Date: 2023-07-23
+Total: $870.20
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UD79ZTD3",
+  "merchant_name": "Cook, Hardy and Singh",
+  "date": "2023-07-23",
+  "subtotal": 793.78,
+  "tax": 78.42,
+  "discount": 2.0,
+  "total": 870.2,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$37.76",
+      "line_total": "$75.52"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$49.89",
+      "line_total": "$199.56"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$6.11",
+      "line_total": "$24.44"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$45.24",
+      "line_total": "$45.24"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$38.65",
+      "line_total": "$115.95"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$54.88",
+      "line_total": "$54.88"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$46.01",
+      "line_total": "$138.03"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$35.04",
+      "line_total": "$140.16"
+    }
+  ],
+  "sample_id": "receipt_0425"
+}

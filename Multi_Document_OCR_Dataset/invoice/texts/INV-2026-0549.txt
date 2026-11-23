@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0549
+Company: Greenline Logistics
+Company Address: 157 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 39 Al Barsha, Doha, Qatar
+Invoice Date: 2026-05-01
+Due Date: 2026-05-16
+Currency: USD
+Subtotal: 20590.76
+Tax: 1467.09
+Total: 21028.31
+Balance Due: 21028.31
+Status: overdue

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ralph Johnston
+Passport No: P03599239
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P03599239",
+  "full_name": "Ralph Johnston",
+  "nationality": "CA",
+  "date_of_birth": "1983-01-10",
+  "issue_date": "2022-09-09",
+  "expiry_date": "2032-09-09",
+  "place_of_birth": "Sethport",
+  "sample_id": "passport_0447"
+}

@@ -1,0 +1,55 @@
+Receipt RCT-AGP34SLQ
+Merchant: Ryan, White and Maxwell
+Date: 2023-01-12
+Total: $791.33
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AGP34SLQ",
+  "merchant_name": "Ryan, White and Maxwell",
+  "date": "2023-01-12",
+  "subtotal": 752.02,
+  "tax": 52.7,
+  "discount": 13.39,
+  "total": 791.33,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$45.45",
+      "line_total": "$90.90"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$61.88",
+      "line_total": "$185.64"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$78.52",
+      "line_total": "$314.08"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$44.85",
+      "line_total": "$89.70"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$36.45",
+      "line_total": "$36.45"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$11.75",
+      "line_total": "$35.25"
+    }
+  ],
+  "sample_id": "receipt_0697"
+}

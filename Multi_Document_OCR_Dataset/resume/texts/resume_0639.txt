@@ -1,0 +1,23 @@
+Resume
+Mary Turner
+Backend Developer
+Skills: LangChain, Deep Learning, SQL, Computer Vision, AWS, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Mary Turner",
+  "email": "matthew66@example.com",
+  "phone": "(892)999-0722",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "LangChain",
+    "Deep Learning",
+    "SQL",
+    "Computer Vision",
+    "AWS",
+    "Pandas"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0639"
+}

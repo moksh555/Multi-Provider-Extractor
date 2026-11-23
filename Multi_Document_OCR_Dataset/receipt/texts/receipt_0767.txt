@@ -1,0 +1,67 @@
+Receipt RCT-YOFVYG72
+Merchant: Carney, Douglas and Hopkins
+Date: 2021-04-25
+Total: $939.33
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YOFVYG72",
+  "merchant_name": "Carney, Douglas and Hopkins",
+  "date": "2021-04-25",
+  "subtotal": 869.29,
+  "tax": 72.2,
+  "discount": 2.16,
+  "total": 939.33,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$44.23",
+      "line_total": "$44.23"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$74.34",
+      "line_total": "$148.68"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$41.35",
+      "line_total": "$41.35"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$52.26",
+      "line_total": "$52.26"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$73.32",
+      "line_total": "$73.32"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$69.97",
+      "line_total": "$69.97"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$47.30",
+      "line_total": "$189.20"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$62.57",
+      "line_total": "$250.28"
+    }
+  ],
+  "sample_id": "receipt_0767"
+}

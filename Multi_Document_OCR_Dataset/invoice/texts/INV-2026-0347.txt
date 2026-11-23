@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0347
+Company: Royal Diagnostics Center
+Company Address: 167 Sheikh Zayed Road, Dhaka, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 174 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-05-08
+Due Date: 2026-06-07
+Currency: AED
+Subtotal: 9522.15
+Tax: 678.45
+Total: 9774.49
+Balance Due: 0.0
+Status: paid

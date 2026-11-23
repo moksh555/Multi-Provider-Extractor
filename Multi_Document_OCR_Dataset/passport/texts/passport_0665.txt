@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kelly Velasquez
+Passport No: P97683187
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P97683187",
+  "full_name": "Kelly Velasquez",
+  "nationality": "US",
+  "date_of_birth": "1970-08-26",
+  "issue_date": "2026-11-06",
+  "expiry_date": "2036-11-06",
+  "place_of_birth": "Spearsland",
+  "sample_id": "passport_0665"
+}

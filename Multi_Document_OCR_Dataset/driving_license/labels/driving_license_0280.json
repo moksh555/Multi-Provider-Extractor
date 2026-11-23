@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL228483541",
+  "full_name": "Nicholas Long",
+  "date_of_birth": "1964-10-24",
+  "class": "A",
+  "issue_date": "2026-07-18",
+  "expiry_date": "2031-07-18",
+  "address": "64622 Miller Ports, New Raymondland, MO 66275",
+  "sample_id": "driving_license_0280"
+}

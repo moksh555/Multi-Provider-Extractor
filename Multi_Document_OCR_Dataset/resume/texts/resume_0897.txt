@@ -1,0 +1,26 @@
+Resume
+Paul Andrews
+Data Analyst
+Skills: Pandas, Streamlit, Docker, LangChain, AWS, NLP, Deep Learning, Python, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Paul Andrews",
+  "email": "garymeyer@example.org",
+  "phone": "(479)493-8959x458",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Pandas",
+    "Streamlit",
+    "Docker",
+    "LangChain",
+    "AWS",
+    "NLP",
+    "Deep Learning",
+    "Python",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0897"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-EFT5NNHS",
+  "patient_name": "Andrea Johnson",
+  "visit_date": "2025-03-25",
+  "doctor_name": "Dr. Kristen Underwood",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0106"
+}

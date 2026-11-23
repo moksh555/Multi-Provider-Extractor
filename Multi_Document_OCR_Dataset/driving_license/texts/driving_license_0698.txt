@@ -1,0 +1,16 @@
+Synthetic Driving License
+Katherine Thompson
+License: DL610349153
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL610349153",
+  "full_name": "Katherine Thompson",
+  "date_of_birth": "1998-12-02",
+  "class": "D",
+  "issue_date": "2021-08-31",
+  "expiry_date": "2026-08-31",
+  "address": "448 Matthew Springs Suite 712, Smithhaven, NJ 65484",
+  "sample_id": "driving_license_0698"
+}

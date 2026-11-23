@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0286
+Company: Metro Print House
+Company Address: 57 Road 12, Banani, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 208 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-06-01
+Due Date: 2026-07-16
+Currency: SAR
+Subtotal: 20376.21
+Tax: 998.43
+Total: 20967.12
+Balance Due: 20967.12
+Status: overdue

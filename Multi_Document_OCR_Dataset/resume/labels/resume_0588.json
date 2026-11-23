@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Oscar Williams",
+  "email": "munozdana@example.com",
+  "phone": "5817900567",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "FastAPI",
+    "NLP",
+    "TensorFlow",
+    "AWS",
+    "LangChain",
+    "Machine Learning",
+    "PyTorch",
+    "SQL",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0588"
+}

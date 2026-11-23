@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QCG41RK4",
+  "merchant_name": "Miller-Castro",
+  "date": "2024-11-25",
+  "subtotal": 348.04,
+  "tax": 24.0,
+  "discount": 4.57,
+  "total": 367.47,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$30.27",
+      "line_total": "$121.08"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$68.87",
+      "line_total": "$137.74"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$20.31",
+      "line_total": "$20.31"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$22.97",
+      "line_total": "$68.91"
+    }
+  ],
+  "sample_id": "receipt_0626"
+}

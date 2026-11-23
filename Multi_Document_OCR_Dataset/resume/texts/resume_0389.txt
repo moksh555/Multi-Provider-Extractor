@@ -1,0 +1,23 @@
+Resume
+Julie Beck
+Backend Developer
+Skills: Deep Learning, Docker, FastAPI, SQL, Machine Learning, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Julie Beck",
+  "email": "michael79@example.org",
+  "phone": "(377)901-1549",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Deep Learning",
+    "Docker",
+    "FastAPI",
+    "SQL",
+    "Machine Learning",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0389"
+}

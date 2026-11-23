@@ -1,0 +1,23 @@
+Resume
+Megan Garcia
+Computer Vision Engineer
+Skills: Computer Vision, NLP, Machine Learning, Docker, TensorFlow, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Megan Garcia",
+  "email": "jensenpamela@example.com",
+  "phone": "(698)345-5766x345",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Computer Vision",
+    "NLP",
+    "Machine Learning",
+    "Docker",
+    "TensorFlow",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0245"
+}

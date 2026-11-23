@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dakota Montes
+License: DL956181743
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL956181743",
+  "full_name": "Dakota Montes",
+  "date_of_birth": "2000-01-13",
+  "class": "B",
+  "issue_date": "2023-03-28",
+  "expiry_date": "2028-03-28",
+  "address": "75482 Joseph Stravenue, Wardbury, FL 99225",
+  "sample_id": "driving_license_0419"
+}

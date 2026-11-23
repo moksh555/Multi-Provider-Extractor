@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9WGGVYJ2",
+  "account_holder": "Andrew Richard",
+  "account_number_masked": "****0638",
+  "period_start": "2025-06-23",
+  "period_end": "2025-07-23",
+  "opening_balance": 623.2,
+  "closing_balance": 4236.26,
+  "transactions": 13,
+  "sample_id": "bank_statement_0923"
+}

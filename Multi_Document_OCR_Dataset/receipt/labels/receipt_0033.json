@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YX444NLZ",
+  "merchant_name": "Odonnell, Brooks and David",
+  "date": "2026-06-22",
+  "subtotal": 390.33,
+  "tax": 26.19,
+  "discount": 10.23,
+  "total": 406.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$19.55",
+      "line_total": "$19.55"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$59.99",
+      "line_total": "$119.98"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$61.07",
+      "line_total": "$61.07"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$14.14",
+      "line_total": "$56.56"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$4.63",
+      "line_total": "$4.63"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$29.32",
+      "line_total": "$87.96"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$20.29",
+      "line_total": "$40.58"
+    }
+  ],
+  "sample_id": "receipt_0033"
+}

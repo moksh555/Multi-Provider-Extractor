@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL346597513",
+  "full_name": "Sarah Robinson",
+  "date_of_birth": "1991-03-25",
+  "class": "D",
+  "issue_date": "2026-07-22",
+  "expiry_date": "2031-07-22",
+  "address": "USCGC Stein, FPO AE 91908",
+  "sample_id": "driving_license_0839"
+}

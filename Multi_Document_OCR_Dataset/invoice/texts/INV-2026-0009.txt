@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0009
+Company: Golden Harvest Store
+Company Address: 184 Agrabad C/A, Riyadh, Saudi Arabia
+Customer: Global Mart
+Billing Address: 27 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-04-15
+Due Date: 2026-04-30
+Currency: BDT
+Subtotal: 17527.98
+Tax: 832.58
+Total: 17484.16
+Balance Due: 17484.16
+Status: unpaid

@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-S22WYBOW",
+  "merchant_name": "Cole PLC",
+  "date": "2022-01-09",
+  "subtotal": 562.18,
+  "tax": 47.1,
+  "discount": 14.19,
+  "total": 595.09,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$7.96",
+      "line_total": "$31.84"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$30.30",
+      "line_total": "$60.60"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$74.52",
+      "line_total": "$298.08"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$57.22",
+      "line_total": "$171.66"
+    }
+  ],
+  "sample_id": "receipt_0143"
+}

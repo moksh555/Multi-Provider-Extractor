@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FKC781HF",
+  "account_holder": "Christian Shelton",
+  "account_number_masked": "****1659",
+  "period_start": "2025-10-12",
+  "period_end": "2025-11-11",
+  "opening_balance": 1921.12,
+  "closing_balance": 5465.56,
+  "transactions": 13,
+  "sample_id": "bank_statement_0135"
+}

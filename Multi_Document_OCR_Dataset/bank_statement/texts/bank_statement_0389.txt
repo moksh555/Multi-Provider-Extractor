@@ -1,0 +1,16 @@
+Bank Statement STM-B2JMZNG9
+Holder: Sarah Roberson
+Closing Balance: $7348.57
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B2JMZNG9",
+  "account_holder": "Sarah Roberson",
+  "account_number_masked": "****2744",
+  "period_start": "2025-06-11",
+  "period_end": "2025-07-11",
+  "opening_balance": 4272.94,
+  "closing_balance": 7348.57,
+  "transactions": 10,
+  "sample_id": "bank_statement_0389"
+}

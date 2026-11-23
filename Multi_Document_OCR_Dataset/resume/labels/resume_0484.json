@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Brandon Moore",
+  "email": "jonathansimmons@example.org",
+  "phone": "(780)319-9050x2406",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "Pandas",
+    "FastAPI",
+    "AWS",
+    "Deep Learning",
+    "Computer Vision",
+    "Docker",
+    "NLP",
+    "Machine Learning",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0484"
+}

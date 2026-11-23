@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL895425571",
+  "full_name": "Ryan Lamb",
+  "date_of_birth": "1998-04-29",
+  "class": "D",
+  "issue_date": "2026-03-26",
+  "expiry_date": "2031-03-26",
+  "address": "29667 Patrick Meadow Apt. 532, Joshuaberg, AZ 80993",
+  "sample_id": "driving_license_0172"
+}

@@ -1,0 +1,23 @@
+Resume
+Devin Dennis
+Data Analyst
+Skills: PyTorch, Pandas, Python, Docker, AWS, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Devin Dennis",
+  "email": "changjohn@example.org",
+  "phone": "422.458.3376",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "PyTorch",
+    "Pandas",
+    "Python",
+    "Docker",
+    "AWS",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0945"
+}

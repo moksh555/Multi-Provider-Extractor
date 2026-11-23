@@ -1,0 +1,27 @@
+Resume
+Lynn Santos
+Data Analyst
+Skills: Python, Computer Vision, Machine Learning, SQL, TensorFlow, Docker, Pandas, Streamlit, NLP, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Lynn Santos",
+  "email": "pmartin@example.com",
+  "phone": "496.856.4001x9154",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "Computer Vision",
+    "Machine Learning",
+    "SQL",
+    "TensorFlow",
+    "Docker",
+    "Pandas",
+    "Streamlit",
+    "NLP",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0592"
+}

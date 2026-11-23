@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL885169195",
+  "full_name": "Gabriel Huff",
+  "date_of_birth": "1999-03-29",
+  "class": "A",
+  "issue_date": "2022-08-04",
+  "expiry_date": "2027-08-04",
+  "address": "9908 Jennifer Station Apt. 711, East Curtis, GA 94067",
+  "sample_id": "driving_license_0786"
+}

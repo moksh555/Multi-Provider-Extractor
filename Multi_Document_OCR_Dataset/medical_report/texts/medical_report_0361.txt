@@ -1,0 +1,14 @@
+Medical Report MED-Q94UJX9T
+Patient: Jason Miles
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Q94UJX9T",
+  "patient_name": "Jason Miles",
+  "visit_date": "2025-09-05",
+  "doctor_name": "Dr. Bailey Fitzgerald",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0361"
+}

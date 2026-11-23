@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL377376049",
+  "full_name": "Jonathan Parks",
+  "date_of_birth": "1996-07-12",
+  "class": "C",
+  "issue_date": "2025-06-07",
+  "expiry_date": "2030-06-07",
+  "address": "52812 Hall Point, Lindamouth, VA 25793",
+  "sample_id": "driving_license_0269"
+}

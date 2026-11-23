@@ -1,0 +1,61 @@
+Receipt RCT-ZGXVXC6S
+Merchant: Sullivan-Mcgrath
+Date: 2022-05-25
+Total: $693.64
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZGXVXC6S",
+  "merchant_name": "Sullivan-Mcgrath",
+  "date": "2022-05-25",
+  "subtotal": 671.57,
+  "tax": 22.83,
+  "discount": 0.76,
+  "total": 693.64,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$55.23",
+      "line_total": "$55.23"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$9.41",
+      "line_total": "$37.64"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$17.70",
+      "line_total": "$70.80"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$44.47",
+      "line_total": "$133.41"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$45.95",
+      "line_total": "$137.85"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$14.23",
+      "line_total": "$56.92"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$44.93",
+      "line_total": "$179.72"
+    }
+  ],
+  "sample_id": "receipt_0599"
+}

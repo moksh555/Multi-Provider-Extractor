@@ -1,0 +1,67 @@
+Receipt RCT-QY9MBAAX
+Merchant: Martinez, Gray and Moss
+Date: 2021-04-10
+Total: $768.49
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QY9MBAAX",
+  "merchant_name": "Martinez, Gray and Moss",
+  "date": "2021-04-10",
+  "subtotal": 716.94,
+  "tax": 58.7,
+  "discount": 7.15,
+  "total": 768.49,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$26.48",
+      "line_total": "$26.48"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$55.35",
+      "line_total": "$55.35"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$35.68",
+      "line_total": "$35.68"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$63.21",
+      "line_total": "$63.21"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$79.08",
+      "line_total": "$158.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$54.10",
+      "line_total": "$216.40"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$21.60",
+      "line_total": "$64.80"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$48.43",
+      "line_total": "$96.86"
+    }
+  ],
+  "sample_id": "receipt_0511"
+}

@@ -1,0 +1,55 @@
+Receipt RCT-HSJ0BI6A
+Merchant: Carr, Lopez and Bond
+Date: 2026-12-02
+Total: $569.61
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HSJ0BI6A",
+  "merchant_name": "Carr, Lopez and Bond",
+  "date": "2026-12-02",
+  "subtotal": 516.64,
+  "tax": 61.68,
+  "discount": 8.71,
+  "total": 569.61,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$24.58",
+      "line_total": "$73.74"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$33.19",
+      "line_total": "$66.38"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$51.97",
+      "line_total": "$103.94"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$9.10",
+      "line_total": "$9.10"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$55.60",
+      "line_total": "$222.40"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$41.08",
+      "line_total": "$41.08"
+    }
+  ],
+  "sample_id": "receipt_0521"
+}

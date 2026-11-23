@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL053074997",
+  "full_name": "Mark Carter",
+  "date_of_birth": "1999-08-28",
+  "class": "A",
+  "issue_date": "2021-07-29",
+  "expiry_date": "2026-07-29",
+  "address": "9709 Frey Lakes, Jamesview, NC 03573",
+  "sample_id": "driving_license_0768"
+}

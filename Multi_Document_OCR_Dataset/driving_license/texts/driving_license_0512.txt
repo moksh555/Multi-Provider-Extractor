@@ -1,0 +1,16 @@
+Synthetic Driving License
+Angela Mitchell
+License: DL710758863
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL710758863",
+  "full_name": "Angela Mitchell",
+  "date_of_birth": "1992-07-10",
+  "class": "C",
+  "issue_date": "2021-01-27",
+  "expiry_date": "2026-01-27",
+  "address": "USS Hayden, FPO AA 89241",
+  "sample_id": "driving_license_0512"
+}

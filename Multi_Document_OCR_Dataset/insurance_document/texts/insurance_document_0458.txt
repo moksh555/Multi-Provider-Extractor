@@ -1,0 +1,16 @@
+Insurance Policy POL-23QIUA08E
+Holder: John Carr
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-23QIUA08E",
+  "policy_holder": "John Carr",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-05-04",
+  "expiry_date": "2025-05-04",
+  "premium": 1661.38,
+  "coverage_amount": 54457.46,
+  "beneficiary": "Amanda Watts",
+  "sample_id": "insurance_document_0458"
+}

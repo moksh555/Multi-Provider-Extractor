@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SHVFHZLA",
+  "merchant_name": "Moody-Greene",
+  "date": "2023-02-14",
+  "subtotal": 478.88,
+  "tax": 33.78,
+  "discount": 3.94,
+  "total": 508.72,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$76.36",
+      "line_total": "$152.72"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$58.52",
+      "line_total": "$58.52"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$61.43",
+      "line_total": "$61.43"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$25.89",
+      "line_total": "$103.56"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$19.79",
+      "line_total": "$79.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$23.49",
+      "line_total": "$23.49"
+    }
+  ],
+  "sample_id": "receipt_0977"
+}

@@ -1,0 +1,25 @@
+Resume
+Kevin Bentley
+Data Analyst
+Skills: LangChain, Streamlit, SQL, Computer Vision, Docker, PyTorch, Deep Learning, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Kevin Bentley",
+  "email": "qjohnson@example.com",
+  "phone": "3434109077",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "LangChain",
+    "Streamlit",
+    "SQL",
+    "Computer Vision",
+    "Docker",
+    "PyTorch",
+    "Deep Learning",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0468"
+}

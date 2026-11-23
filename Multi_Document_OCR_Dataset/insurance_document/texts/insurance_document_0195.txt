@@ -1,0 +1,16 @@
+Insurance Policy POL-GU2HBIK2U
+Holder: Karina Kim
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GU2HBIK2U",
+  "policy_holder": "Karina Kim",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-01-30",
+  "expiry_date": "2027-01-30",
+  "premium": 1335.72,
+  "coverage_amount": 290629.89,
+  "beneficiary": "Michael Lopez",
+  "sample_id": "insurance_document_0195"
+}

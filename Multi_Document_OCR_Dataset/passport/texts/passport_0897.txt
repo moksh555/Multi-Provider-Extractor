@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: David Villa
+Passport No: P24608837
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24608837",
+  "full_name": "David Villa",
+  "nationality": "BD",
+  "date_of_birth": "1984-01-06",
+  "issue_date": "2023-10-14",
+  "expiry_date": "2033-10-14",
+  "place_of_birth": "Kellyshire",
+  "sample_id": "passport_0897"
+}

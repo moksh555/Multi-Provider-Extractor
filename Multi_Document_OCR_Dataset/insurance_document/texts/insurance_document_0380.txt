@@ -1,0 +1,16 @@
+Insurance Policy POL-DH8UZB7KR
+Holder: Erika Potts
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DH8UZB7KR",
+  "policy_holder": "Erika Potts",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-02-07",
+  "expiry_date": "2024-02-07",
+  "premium": 945.34,
+  "coverage_amount": 182437.41,
+  "beneficiary": "Deborah Anderson",
+  "sample_id": "insurance_document_0380"
+}

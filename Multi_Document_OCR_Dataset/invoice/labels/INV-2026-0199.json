@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0199",
+  "invoice_number": "INV-2026-0199",
+  "company_name": "CityBanking Supplies",
+  "company_address": "50 Gulshan Avenue, Chattogram, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "138 Motijheel C/A, Dubai, UAE",
+  "invoice_date": "2026-01-18",
+  "due_date": "2026-03-04",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 3,
+      "unit_price": 516.32,
+      "amount": 1548.96
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 10,
+      "unit_price": 178.9,
+      "amount": 1789.0
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 5,
+      "unit_price": 177.83,
+      "amount": 889.15
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 61.86,
+      "amount": 494.88
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 10,
+      "unit_price": 687.97,
+      "amount": 6879.7
+    }
+  ],
+  "subtotal": 11601.69,
+  "discount": 232.03,
+  "tax_rate": 0.05,
+  "tax": 568.48,
+  "shipping": 25,
+  "total": 11963.14,
+  "amount_paid": 0,
+  "balance_due": 11963.14,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801984572847",
+  "po_number": "PO-72681"
+}

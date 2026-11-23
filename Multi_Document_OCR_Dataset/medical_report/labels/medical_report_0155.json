@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-L8GAU1Y2",
+  "patient_name": "Kelsey Hansen",
+  "visit_date": "2025-06-03",
+  "doctor_name": "Dr. Karen Garcia",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0155"
+}

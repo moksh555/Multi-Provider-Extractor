@@ -1,0 +1,14 @@
+Medical Report MED-TZQNEGJ5
+Patient: Melissa Howard
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TZQNEGJ5",
+  "patient_name": "Melissa Howard",
+  "visit_date": "2026-07-18",
+  "doctor_name": "Dr. Rebecca Moore",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0736"
+}

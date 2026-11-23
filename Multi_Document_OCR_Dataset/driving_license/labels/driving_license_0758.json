@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL762180750",
+  "full_name": "David Rice",
+  "date_of_birth": "1998-01-02",
+  "class": "C",
+  "issue_date": "2025-02-03",
+  "expiry_date": "2030-02-03",
+  "address": "501 Robert Place, New Jennifermouth, MN 05538",
+  "sample_id": "driving_license_0758"
+}

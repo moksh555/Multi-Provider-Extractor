@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jeffrey Salas
+License: DL693255154
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL693255154",
+  "full_name": "Jeffrey Salas",
+  "date_of_birth": "1987-07-06",
+  "class": "C",
+  "issue_date": "2026-06-24",
+  "expiry_date": "2031-06-24",
+  "address": "392 Robert Cape Apt. 780, Schmidtfort, AS 91812",
+  "sample_id": "driving_license_0345"
+}

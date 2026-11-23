@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5PGBA9IN2",
+  "policy_holder": "Patrick Clark",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-10-20",
+  "expiry_date": "2026-10-20",
+  "premium": 1390.78,
+  "coverage_amount": 418782.64,
+  "beneficiary": "Robert Thomas",
+  "sample_id": "insurance_document_0442"
+}

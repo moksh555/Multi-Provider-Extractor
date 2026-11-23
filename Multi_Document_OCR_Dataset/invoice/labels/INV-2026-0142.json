@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0142",
+  "invoice_number": "INV-2026-0142",
+  "company_name": "Delta Insurance Services",
+  "company_address": "48 Doha Business Park, Sylhet, Bangladesh",
+  "customer_name": "TechPoint BD",
+  "billing_address": "232 Motijheel C/A, Doha, Qatar",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-02-15",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 331.68,
+      "amount": 331.68
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 2,
+      "unit_price": 485.62,
+      "amount": 971.24
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 582.11,
+      "amount": 3492.66
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 540.37,
+      "amount": 540.37
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 458.16,
+      "amount": 2748.96
+    },
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 716.27,
+      "amount": 1432.54
+    }
+  ],
+  "subtotal": 9517.45,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 951.75,
+  "shipping": 5,
+  "total": 10474.2,
+  "amount_paid": 0,
+  "balance_due": 10474.2,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801259623164",
+  "po_number": "PO-84100"
+}

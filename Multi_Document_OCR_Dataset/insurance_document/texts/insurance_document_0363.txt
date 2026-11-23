@@ -1,0 +1,16 @@
+Insurance Policy POL-HZA7X73QX
+Holder: Kenneth Neal
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HZA7X73QX",
+  "policy_holder": "Kenneth Neal",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-02-16",
+  "expiry_date": "2027-02-16",
+  "premium": 1889.48,
+  "coverage_amount": 446311.0,
+  "beneficiary": "Victoria Bell",
+  "sample_id": "insurance_document_0363"
+}

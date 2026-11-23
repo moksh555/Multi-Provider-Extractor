@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL344046319",
+  "full_name": "Brandon Fleming",
+  "date_of_birth": "1966-01-08",
+  "class": "A",
+  "issue_date": "2021-01-08",
+  "expiry_date": "2026-01-08",
+  "address": "518 Vance Vista Apt. 258, North Tracie, WY 18703",
+  "sample_id": "driving_license_0094"
+}

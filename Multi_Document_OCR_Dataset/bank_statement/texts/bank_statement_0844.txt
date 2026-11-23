@@ -1,0 +1,16 @@
+Bank Statement STM-I0159OAX
+Holder: Dwayne Luna
+Closing Balance: $6203.07
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I0159OAX",
+  "account_holder": "Dwayne Luna",
+  "account_number_masked": "****5742",
+  "period_start": "2025-05-19",
+  "period_end": "2025-06-18",
+  "opening_balance": 508.86,
+  "closing_balance": 6203.07,
+  "transactions": 11,
+  "sample_id": "bank_statement_0844"
+}

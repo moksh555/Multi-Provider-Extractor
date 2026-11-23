@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0422
+Company: Golden Harvest Store
+Company Address: 192 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Global Mart
+Billing Address: 232 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-04-19
+Due Date: 2026-04-26
+Currency: AED
+Subtotal: 19055.06
+Tax: 0.0
+Total: 18152.31
+Balance Due: 18152.31
+Status: overdue

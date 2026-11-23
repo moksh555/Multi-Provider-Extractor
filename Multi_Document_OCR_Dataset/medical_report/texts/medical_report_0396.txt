@@ -1,0 +1,14 @@
+Medical Report MED-DU4DXNYB
+Patient: William Fleming
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DU4DXNYB",
+  "patient_name": "William Fleming",
+  "visit_date": "2026-11-13",
+  "doctor_name": "Dr. Franklin Thornton",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0396"
+}

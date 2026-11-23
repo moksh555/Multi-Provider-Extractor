@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-B2AYA4Y0",
+  "patient_name": "Erica Medina",
+  "visit_date": "2026-07-01",
+  "doctor_name": "Dr. Kelly Perez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0088"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Cameron Bryant
+Passport No: P89735358
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P89735358",
+  "full_name": "Cameron Bryant",
+  "nationality": "US",
+  "date_of_birth": "1971-02-05",
+  "issue_date": "2024-09-08",
+  "expiry_date": "2034-09-08",
+  "place_of_birth": "Port Christianburgh",
+  "sample_id": "passport_0191"
+}

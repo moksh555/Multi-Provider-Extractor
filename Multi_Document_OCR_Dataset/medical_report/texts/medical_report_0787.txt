@@ -1,0 +1,14 @@
+Medical Report MED-MHR8ZLC5
+Patient: Stephanie Olson
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MHR8ZLC5",
+  "patient_name": "Stephanie Olson",
+  "visit_date": "2026-01-04",
+  "doctor_name": "Dr. Jessica Johnson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0787"
+}

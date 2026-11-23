@@ -1,0 +1,14 @@
+Medical Report MED-YBPQCUPY
+Patient: Jeffery Lamb
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YBPQCUPY",
+  "patient_name": "Jeffery Lamb",
+  "visit_date": "2024-09-08",
+  "doctor_name": "Dr. Todd Warner",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0765"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jason Cabrera",
+  "email": "mirandajoshua@example.org",
+  "phone": "365-251-1286x381",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "AWS",
+    "Docker",
+    "Deep Learning",
+    "Streamlit",
+    "NLP",
+    "Computer Vision",
+    "TensorFlow",
+    "Python",
+    "FastAPI",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0450"
+}

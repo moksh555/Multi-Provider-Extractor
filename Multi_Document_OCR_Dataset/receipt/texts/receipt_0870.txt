@@ -1,0 +1,61 @@
+Receipt RCT-YNXJ5YHY
+Merchant: Love Ltd
+Date: 2025-02-16
+Total: $685.22
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YNXJ5YHY",
+  "merchant_name": "Love Ltd",
+  "date": "2025-02-16",
+  "subtotal": 634.83,
+  "tax": 59.21,
+  "discount": 8.82,
+  "total": 685.22,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$2.47",
+      "line_total": "$7.41"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$61.00",
+      "line_total": "$183.00"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$62.74",
+      "line_total": "$188.22"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$39.27",
+      "line_total": "$78.54"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$11.72",
+      "line_total": "$11.72"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$63.84",
+      "line_total": "$127.68"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$38.26",
+      "line_total": "$38.26"
+    }
+  ],
+  "sample_id": "receipt_0870"
+}

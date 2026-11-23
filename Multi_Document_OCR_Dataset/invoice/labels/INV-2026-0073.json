@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0073",
+  "invoice_number": "INV-2026-0073",
+  "company_name": "BrightStar Electronics",
+  "company_address": "33 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "248 Dhanmondi 27, Dubai, UAE",
+  "invoice_date": "2026-05-12",
+  "due_date": "2026-05-19",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 9,
+      "unit_price": 637.88,
+      "amount": 5740.92
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 2,
+      "unit_price": 397.04,
+      "amount": 794.08
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 18.07,
+      "amount": 36.14
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 3,
+      "unit_price": 174.83,
+      "amount": 524.49
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 6,
+      "unit_price": 585.85,
+      "amount": 3515.1
+    }
+  ],
+  "subtotal": 10610.73,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 530.54,
+  "shipping": 50,
+  "total": 11191.27,
+  "amount_paid": 3268.07,
+  "balance_due": 7923.2,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801280094198",
+  "po_number": "PO-30415"
+}

@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JDX0PKOV",
+  "merchant_name": "Alexander Group",
+  "date": "2026-12-10",
+  "subtotal": 562.01,
+  "tax": 25.51,
+  "discount": 3.05,
+  "total": 584.47,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$9.63",
+      "line_total": "$38.52"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$76.76",
+      "line_total": "$153.52"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$5.20",
+      "line_total": "$5.20"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$19.86",
+      "line_total": "$59.58"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$18.89",
+      "line_total": "$56.67"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$32.04",
+      "line_total": "$128.16"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$40.12",
+      "line_total": "$120.36"
+    }
+  ],
+  "sample_id": "receipt_0333"
+}

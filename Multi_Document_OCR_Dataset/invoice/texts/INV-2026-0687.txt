@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0687
+Company: UrbanBuild Construction
+Company Address: 107 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 190 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-04-22
+Due Date: 2026-06-06
+Currency: QAR
+Subtotal: 8729.89
+Tax: 872.99
+Total: 9612.88
+Balance Due: 9612.88
+Status: unpaid

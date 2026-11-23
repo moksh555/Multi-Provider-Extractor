@@ -1,0 +1,61 @@
+Receipt RCT-O6J0M3LO
+Merchant: Murray-Steele
+Date: 2022-11-14
+Total: $730.29
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-O6J0M3LO",
+  "merchant_name": "Murray-Steele",
+  "date": "2022-11-14",
+  "subtotal": 704.53,
+  "tax": 31.37,
+  "discount": 5.61,
+  "total": 730.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$75.88",
+      "line_total": "$75.88"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$48.79",
+      "line_total": "$97.58"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$64.39",
+      "line_total": "$64.39"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$73.07",
+      "line_total": "$219.21"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$41.97",
+      "line_total": "$41.97"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$78.83",
+      "line_total": "$157.66"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$23.92",
+      "line_total": "$47.84"
+    }
+  ],
+  "sample_id": "receipt_0367"
+}

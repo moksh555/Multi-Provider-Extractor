@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BN5ELB45L",
+  "policy_holder": "Michael Brooks",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-07-31",
+  "expiry_date": "2024-07-31",
+  "premium": 1358.97,
+  "coverage_amount": 332902.3,
+  "beneficiary": "Terry Stokes",
+  "sample_id": "insurance_document_0408"
+}

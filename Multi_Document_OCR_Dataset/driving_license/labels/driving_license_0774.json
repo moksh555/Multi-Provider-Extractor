@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL220742112",
+  "full_name": "Samuel Avila",
+  "date_of_birth": "1967-05-01",
+  "class": "D",
+  "issue_date": "2023-05-06",
+  "expiry_date": "2028-05-06",
+  "address": "949 Hunter Heights Apt. 645, New Adrian, FM 90092",
+  "sample_id": "driving_license_0774"
+}

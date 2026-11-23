@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0751
+Company: BrightStar Electronics
+Company Address: 115 Jumeirah Lake Towers, Doha, Qatar
+Customer: TechPoint BD
+Billing Address: 186 Doha Business Park, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-27
+Due Date: 2026-04-13
+Currency: SAR
+Subtotal: 7226.82
+Tax: 542.01
+Total: 7793.83
+Balance Due: 0.0
+Status: paid

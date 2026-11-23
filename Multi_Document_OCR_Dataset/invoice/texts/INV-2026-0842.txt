@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0842
+Company: Atlas Engineering Ltd.
+Company Address: 190 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 153 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-03-21
+Due Date: 2026-04-20
+Currency: USD
+Subtotal: 14063.91
+Tax: 1406.39
+Total: 15480.3
+Balance Due: 15480.3
+Status: unpaid

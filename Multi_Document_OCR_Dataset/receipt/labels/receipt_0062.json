@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YE9O2M71",
+  "merchant_name": "Stephens-Levine",
+  "date": "2023-03-27",
+  "subtotal": 822.51,
+  "tax": 25.91,
+  "discount": 4.97,
+  "total": 843.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$4.58",
+      "line_total": "$4.58"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$64.51",
+      "line_total": "$193.53"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$48.89",
+      "line_total": "$97.78"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$74.58",
+      "line_total": "$223.74"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$32.04",
+      "line_total": "$64.08"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$41.08",
+      "line_total": "$123.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$38.52",
+      "line_total": "$115.56"
+    }
+  ],
+  "sample_id": "receipt_0062"
+}

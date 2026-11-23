@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KPZ0D63Y",
+  "account_holder": "Steven Harris",
+  "account_number_masked": "****7075",
+  "period_start": "2024-09-15",
+  "period_end": "2024-10-15",
+  "opening_balance": 2584.26,
+  "closing_balance": 4892.65,
+  "transactions": 13,
+  "sample_id": "bank_statement_0984"
+}

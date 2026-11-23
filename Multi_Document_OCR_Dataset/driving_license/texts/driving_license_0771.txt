@@ -1,0 +1,16 @@
+Synthetic Driving License
+Austin Armstrong
+License: DL213034046
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL213034046",
+  "full_name": "Austin Armstrong",
+  "date_of_birth": "2001-09-14",
+  "class": "A",
+  "issue_date": "2021-03-22",
+  "expiry_date": "2026-03-22",
+  "address": "00591 Brandi Well, Welchmouth, WY 87655",
+  "sample_id": "driving_license_0771"
+}

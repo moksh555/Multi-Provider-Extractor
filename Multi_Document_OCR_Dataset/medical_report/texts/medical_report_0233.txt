@@ -1,0 +1,14 @@
+Medical Report MED-QXW7DS7K
+Patient: Robin Floyd
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QXW7DS7K",
+  "patient_name": "Robin Floyd",
+  "visit_date": "2026-05-23",
+  "doctor_name": "Dr. Marilyn Henderson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0233"
+}

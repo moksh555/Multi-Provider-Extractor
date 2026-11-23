@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0968",
+  "invoice_number": "INV-2026-0968",
+  "company_name": "Metro Print House",
+  "company_address": "107 Dhanmondi 27, Doha, Qatar",
+  "customer_name": "Global Mart",
+  "billing_address": "94 Zindabazar Road, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-24",
+  "due_date": "2026-03-31",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 113.83,
+      "amount": 796.81
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 2,
+      "unit_price": 833.73,
+      "amount": 1667.46
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 205.27,
+      "amount": 2052.7
+    }
+  ],
+  "subtotal": 4516.97,
+  "discount": 90.34,
+  "tax_rate": 0.075,
+  "tax": 332.0,
+  "shipping": 0,
+  "total": 4758.63,
+  "amount_paid": 0,
+  "balance_due": 4758.63,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801328176498",
+  "po_number": "PO-60385"
+}

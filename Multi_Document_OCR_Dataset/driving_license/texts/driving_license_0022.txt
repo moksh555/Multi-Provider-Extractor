@@ -1,0 +1,16 @@
+Synthetic Driving License
+Wesley White
+License: DL927236237
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL927236237",
+  "full_name": "Wesley White",
+  "date_of_birth": "1966-07-05",
+  "class": "D",
+  "issue_date": "2020-02-08",
+  "expiry_date": "2025-02-08",
+  "address": "USNV Johnson, FPO AP 57460",
+  "sample_id": "driving_license_0022"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0973
+Company: Nexus Digital Solutions
+Company Address: 20 Mirpur DOHS, Sylhet, Bangladesh
+Customer: TechPoint BD
+Billing Address: 177 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-06-16
+Due Date: 2026-06-23
+Currency: USD
+Subtotal: 6689.25
+Tax: 451.52
+Total: 6471.84
+Balance Due: 3657.08
+Status: partial

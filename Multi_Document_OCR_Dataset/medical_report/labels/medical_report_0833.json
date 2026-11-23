@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-INCU3R89",
+  "patient_name": "Kimberly Hernandez",
+  "visit_date": "2024-10-09",
+  "doctor_name": "Dr. Casey Brown",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0833"
+}

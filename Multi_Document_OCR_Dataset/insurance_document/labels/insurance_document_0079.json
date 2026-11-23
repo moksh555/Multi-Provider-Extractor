@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F8KRD5EQY",
+  "policy_holder": "Raymond Thomas",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-05-08",
+  "expiry_date": "2026-05-08",
+  "premium": 1517.87,
+  "coverage_amount": 366033.58,
+  "beneficiary": "Tyler Miller",
+  "sample_id": "insurance_document_0079"
+}

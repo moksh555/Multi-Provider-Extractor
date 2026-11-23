@@ -1,0 +1,14 @@
+Medical Report MED-69ZT9KOF
+Patient: Deborah Mahoney
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-69ZT9KOF",
+  "patient_name": "Deborah Mahoney",
+  "visit_date": "2026-11-17",
+  "doctor_name": "Dr. Donald Harrison",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0898"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-2C0CMEKS
+Patient: Stephen Wilson
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2C0CMEKS",
+  "patient_name": "Stephen Wilson",
+  "visit_date": "2026-09-17",
+  "doctor_name": "Dr. Valerie Harper",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0457"
+}

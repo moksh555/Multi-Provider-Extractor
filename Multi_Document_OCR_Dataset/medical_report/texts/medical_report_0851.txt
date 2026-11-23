@@ -1,0 +1,14 @@
+Medical Report MED-XB3DIEBY
+Patient: David Martin
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XB3DIEBY",
+  "patient_name": "David Martin",
+  "visit_date": "2024-10-18",
+  "doctor_name": "Dr. Veronica Walls",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0851"
+}

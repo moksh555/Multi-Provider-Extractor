@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0570
+Company: CityBanking Supplies
+Company Address: 54 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Rahim Traders
+Billing Address: 86 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-05-19
+Due Date: 2026-06-03
+Currency: USD
+Subtotal: 6254.96
+Tax: 0.0
+Total: 6259.96
+Balance Due: 3641.31
+Status: partial

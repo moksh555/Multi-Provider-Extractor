@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-F090983V",
+  "patient_name": "Austin Farrell",
+  "visit_date": "2026-07-07",
+  "doctor_name": "Dr. Laura Chan",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0205"
+}

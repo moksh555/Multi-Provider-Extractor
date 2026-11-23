@@ -1,0 +1,16 @@
+Bank Statement STM-ZZV7W234
+Holder: Bryan Wheeler
+Closing Balance: $5901.85
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZZV7W234",
+  "account_holder": "Bryan Wheeler",
+  "account_number_masked": "****9506",
+  "period_start": "2025-07-25",
+  "period_end": "2025-08-24",
+  "opening_balance": 2285.58,
+  "closing_balance": 5901.85,
+  "transactions": 11,
+  "sample_id": "bank_statement_0789"
+}

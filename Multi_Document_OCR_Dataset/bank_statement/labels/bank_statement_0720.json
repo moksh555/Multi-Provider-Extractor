@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CVKMV4HM",
+  "account_holder": "Steven Baker",
+  "account_number_masked": "****7642",
+  "period_start": "2025-12-28",
+  "period_end": "2026-01-27",
+  "opening_balance": 4995.67,
+  "closing_balance": 9837.59,
+  "transactions": 14,
+  "sample_id": "bank_statement_0720"
+}

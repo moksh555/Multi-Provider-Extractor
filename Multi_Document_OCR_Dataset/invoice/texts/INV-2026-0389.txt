@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0389
+Company: CityBanking Supplies
+Company Address: 21 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 25 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-02
+Due Date: 2026-03-19
+Currency: USD
+Subtotal: 10373.17
+Tax: 518.66
+Total: 10896.83
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Rebekah Johnston",
+  "email": "jonathanharris@example.com",
+  "phone": "410-929-5838x50833",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "NLP",
+    "Computer Vision",
+    "PyTorch",
+    "LangChain",
+    "FastAPI",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0804"
+}

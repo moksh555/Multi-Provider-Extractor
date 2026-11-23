@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0718",
+  "invoice_number": "INV-2026-0718",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "184 Al Barsha, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "210 Jumeirah Lake Towers, Dubai, UAE",
+  "invoice_date": "2026-05-03",
+  "due_date": "2026-05-18",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 9,
+      "unit_price": 113.14,
+      "amount": 1018.26
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 214.3,
+      "amount": 2357.3
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 6,
+      "unit_price": 824.26,
+      "amount": 4945.56
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 518.17,
+      "amount": 1036.34
+    }
+  ],
+  "subtotal": 9357.46,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 9357.46,
+  "amount_paid": 0,
+  "balance_due": 9357.46,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801751147598",
+  "po_number": "PO-13667"
+}

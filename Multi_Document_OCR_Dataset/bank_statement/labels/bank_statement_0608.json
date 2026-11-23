@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KJLG3OXF",
+  "account_holder": "Tammy Cunningham",
+  "account_number_masked": "****1783",
+  "period_start": "2026-09-08",
+  "period_end": "2026-10-08",
+  "opening_balance": 4154.05,
+  "closing_balance": 8682.14,
+  "transactions": 9,
+  "sample_id": "bank_statement_0608"
+}

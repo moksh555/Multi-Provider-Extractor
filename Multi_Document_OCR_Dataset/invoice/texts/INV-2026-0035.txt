@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0035
+Company: SkyNet Office Mart
+Company Address: 124 Agrabad C/A, Doha, Qatar
+Customer: Bengal Motors
+Billing Address: 62 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-02-19
+Due Date: 2026-03-21
+Currency: QAR
+Subtotal: 17727.33
+Tax: 1737.28
+Total: 19110.06
+Balance Due: 19110.06
+Status: overdue

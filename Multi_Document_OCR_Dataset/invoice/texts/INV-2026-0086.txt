@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0086
+Company: Nexus Digital Solutions
+Company Address: 146 Agrabad C/A, Riyadh, Saudi Arabia
+Customer: Rahim Traders
+Billing Address: 96 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-05-16
+Due Date: 2026-05-31
+Currency: USD
+Subtotal: 24763.66
+Tax: 1238.18
+Total: 26001.84
+Balance Due: 0.0
+Status: paid

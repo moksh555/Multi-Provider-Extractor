@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL823554715",
+  "full_name": "Robert Carey",
+  "date_of_birth": "1966-05-13",
+  "class": "D",
+  "issue_date": "2023-05-22",
+  "expiry_date": "2028-05-22",
+  "address": "017 Mayer Mills, East Juliaview, TX 93456",
+  "sample_id": "driving_license_0441"
+}

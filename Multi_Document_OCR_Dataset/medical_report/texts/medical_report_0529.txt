@@ -1,0 +1,14 @@
+Medical Report MED-1JZDZ1SW
+Patient: Amy Sullivan
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-1JZDZ1SW",
+  "patient_name": "Amy Sullivan",
+  "visit_date": "2024-11-11",
+  "doctor_name": "Dr. Daisy Grimes",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0529"
+}

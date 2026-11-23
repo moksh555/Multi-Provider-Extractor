@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-X5ZU2ZUEU",
+  "policy_holder": "Tricia Perez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-06-21",
+  "expiry_date": "2027-06-21",
+  "premium": 1409.57,
+  "coverage_amount": 381231.43,
+  "beneficiary": "Cynthia Weiss",
+  "sample_id": "insurance_document_0566"
+}

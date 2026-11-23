@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0708",
+  "invoice_number": "INV-2026-0708",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "27 Motijheel C/A, Dubai, UAE",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "111 Road 12, Banani, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-19",
+  "due_date": "2026-05-26",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 9,
+      "unit_price": 255.47,
+      "amount": 2299.23
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 8,
+      "unit_price": 542.57,
+      "amount": 4340.56
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 10,
+      "unit_price": 476.89,
+      "amount": 4768.9
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 7,
+      "unit_price": 77.8,
+      "amount": 544.6
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 337.14,
+      "amount": 2697.12
+    }
+  ],
+  "subtotal": 14650.41,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 2197.56,
+  "shipping": 5,
+  "total": 16852.97,
+  "amount_paid": 0,
+  "balance_due": 16852.97,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801882301961",
+  "po_number": "PO-58108"
+}

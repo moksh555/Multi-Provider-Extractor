@@ -1,0 +1,16 @@
+Synthetic Driving License
+Angela Davis
+License: DL909184550
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL909184550",
+  "full_name": "Angela Davis",
+  "date_of_birth": "1999-04-10",
+  "class": "D",
+  "issue_date": "2025-09-17",
+  "expiry_date": "2030-09-17",
+  "address": "2585 Anderson Lights Apt. 499, West Yvonnemouth, GU 05845",
+  "sample_id": "driving_license_0735"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL136677720",
+  "full_name": "Steven Peterson",
+  "date_of_birth": "1965-04-09",
+  "class": "C",
+  "issue_date": "2020-08-01",
+  "expiry_date": "2025-08-01",
+  "address": "56778 Tammy Mews, Ritashire, MS 01802",
+  "sample_id": "driving_license_0556"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-4AUJI6CP
+Patient: Angela Clay
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4AUJI6CP",
+  "patient_name": "Angela Clay",
+  "visit_date": "2026-01-05",
+  "doctor_name": "Dr. Jacob Nelson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0641"
+}

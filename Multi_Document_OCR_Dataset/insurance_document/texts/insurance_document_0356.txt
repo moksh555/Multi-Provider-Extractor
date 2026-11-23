@@ -1,0 +1,16 @@
+Insurance Policy POL-WLGJE2AB2
+Holder: Rebecca Warner
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WLGJE2AB2",
+  "policy_holder": "Rebecca Warner",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-11-10",
+  "expiry_date": "2027-11-10",
+  "premium": 1538.99,
+  "coverage_amount": 191985.35,
+  "beneficiary": "Ellen Mooney",
+  "sample_id": "insurance_document_0356"
+}

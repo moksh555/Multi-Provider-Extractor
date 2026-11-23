@@ -1,0 +1,16 @@
+Insurance Policy POL-A37E1J7V2
+Holder: Paula Perez
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-A37E1J7V2",
+  "policy_holder": "Paula Perez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-08-06",
+  "expiry_date": "2024-08-06",
+  "premium": 1410.84,
+  "coverage_amount": 410945.13,
+  "beneficiary": "Charles Lee",
+  "sample_id": "insurance_document_0701"
+}

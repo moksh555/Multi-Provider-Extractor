@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I5QXJYMZ",
+  "account_holder": "Wesley Collins",
+  "account_number_masked": "****1589",
+  "period_start": "2026-01-04",
+  "period_end": "2026-02-03",
+  "opening_balance": 1637.37,
+  "closing_balance": 5295.0,
+  "transactions": 9,
+  "sample_id": "bank_statement_0926"
+}

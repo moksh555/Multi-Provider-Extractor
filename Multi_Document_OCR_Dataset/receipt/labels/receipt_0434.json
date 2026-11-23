@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G08ZZKK4",
+  "merchant_name": "Buchanan-Sanchez",
+  "date": "2023-12-08",
+  "subtotal": 330.95,
+  "tax": 39.58,
+  "discount": 7.03,
+  "total": 363.5,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$66.01",
+      "line_total": "$264.04"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$44.83",
+      "line_total": "$44.83"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$11.04",
+      "line_total": "$22.08"
+    }
+  ],
+  "sample_id": "receipt_0434"
+}

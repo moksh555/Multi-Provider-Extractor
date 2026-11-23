@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0613
+Company: Nexus Digital Solutions
+Company Address: 37 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 101 Gulshan Avenue, Dubai, UAE
+Invoice Date: 2026-03-30
+Due Date: 2026-04-06
+Currency: QAR
+Subtotal: 15354.57
+Tax: 690.96
+Total: 14560.07
+Balance Due: 0.0
+Status: paid

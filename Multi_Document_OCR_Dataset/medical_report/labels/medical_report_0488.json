@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GMMTFHSF",
+  "patient_name": "Justin Lin",
+  "visit_date": "2026-12-10",
+  "doctor_name": "Dr. Jennifer Sims",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0488"
+}

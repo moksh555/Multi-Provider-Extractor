@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL486458487",
+  "full_name": "Robert Wilson",
+  "date_of_birth": "1996-03-05",
+  "class": "A",
+  "issue_date": "2024-02-07",
+  "expiry_date": "2029-02-07",
+  "address": "238 Andrea Isle, Mullenbury, AS 53591",
+  "sample_id": "driving_license_0144"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DN80OCO39",
+  "policy_holder": "Charles Zavala",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-08",
+  "expiry_date": "2024-06-08",
+  "premium": 2063.41,
+  "coverage_amount": 239533.69,
+  "beneficiary": "Peter Petersen",
+  "sample_id": "insurance_document_0715"
+}

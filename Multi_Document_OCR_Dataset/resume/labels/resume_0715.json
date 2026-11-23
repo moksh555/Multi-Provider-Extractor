@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Lucas Marquez",
+  "email": "sheltonlaura@example.org",
+  "phone": "(419)796-3230x477",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "TensorFlow",
+    "Python",
+    "Computer Vision",
+    "Docker",
+    "Pandas",
+    "Machine Learning",
+    "SQL",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0715"
+}

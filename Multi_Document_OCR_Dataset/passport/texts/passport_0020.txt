@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Sharon Green
+Passport No: P94284817
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P94284817",
+  "full_name": "Sharon Green",
+  "nationality": "BD",
+  "date_of_birth": "1992-12-20",
+  "issue_date": "2023-02-26",
+  "expiry_date": "2033-02-26",
+  "place_of_birth": "Port Jennaville",
+  "sample_id": "passport_0020"
+}

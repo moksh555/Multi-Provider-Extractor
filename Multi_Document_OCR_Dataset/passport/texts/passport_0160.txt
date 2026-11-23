@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Shane Clark
+Passport No: P50456812
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P50456812",
+  "full_name": "Shane Clark",
+  "nationality": "BD",
+  "date_of_birth": "1990-10-26",
+  "issue_date": "2024-03-27",
+  "expiry_date": "2034-03-27",
+  "place_of_birth": "South Joe",
+  "sample_id": "passport_0160"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ONBNPJDN",
+  "merchant_name": "Lee Group",
+  "date": "2024-10-06",
+  "subtotal": 106.81,
+  "tax": 5.14,
+  "discount": 9.92,
+  "total": 102.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$13.86",
+      "line_total": "$41.58"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$17.74",
+      "line_total": "$17.74"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$15.83",
+      "line_total": "$47.49"
+    }
+  ],
+  "sample_id": "receipt_0311"
+}

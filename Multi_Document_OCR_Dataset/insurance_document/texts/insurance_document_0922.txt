@@ -1,0 +1,16 @@
+Insurance Policy POL-HS4DILRZQ
+Holder: Michael Khan
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HS4DILRZQ",
+  "policy_holder": "Michael Khan",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-09-12",
+  "expiry_date": "2027-09-12",
+  "premium": 1048.35,
+  "coverage_amount": 480268.54,
+  "beneficiary": "Daniel Pratt",
+  "sample_id": "insurance_document_0922"
+}

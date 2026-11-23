@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GERSDUHH",
+  "merchant_name": "Grant, Reese and Miranda",
+  "date": "2023-01-19",
+  "subtotal": 211.3,
+  "tax": 10.8,
+  "discount": 7.28,
+  "total": 214.82,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$35.82",
+      "line_total": "$143.28"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$7.30",
+      "line_total": "$14.60"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$10.85",
+      "line_total": "$43.40"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$3.34",
+      "line_total": "$10.02"
+    }
+  ],
+  "sample_id": "receipt_0278"
+}

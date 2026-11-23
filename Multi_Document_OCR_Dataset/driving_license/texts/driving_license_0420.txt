@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Perez
+License: DL112624850
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL112624850",
+  "full_name": "Jennifer Perez",
+  "date_of_birth": "2004-04-08",
+  "class": "B",
+  "issue_date": "2022-09-01",
+  "expiry_date": "2027-09-01",
+  "address": "7850 Thomas Branch Apt. 155, Holdenburgh, NE 08557",
+  "sample_id": "driving_license_0420"
+}

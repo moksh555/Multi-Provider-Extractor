@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-J7A0KLL5",
+  "account_holder": "Eric Mathis",
+  "account_number_masked": "****8911",
+  "period_start": "2026-02-27",
+  "period_end": "2026-03-29",
+  "opening_balance": 1157.49,
+  "closing_balance": 3811.06,
+  "transactions": 14,
+  "sample_id": "bank_statement_0675"
+}

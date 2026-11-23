@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0615
+Company: CityBanking Supplies
+Company Address: 122 Doha Business Park, Chattogram, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 140 Dhanmondi 27, Chattogram, Bangladesh
+Invoice Date: 2026-04-04
+Due Date: 2026-04-19
+Currency: BDT
+Subtotal: 15963.08
+Tax: 1197.23
+Total: 17185.31
+Balance Due: 17185.31
+Status: unpaid

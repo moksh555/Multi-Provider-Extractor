@@ -1,0 +1,16 @@
+Synthetic Driving License
+Carmen Bond
+License: DL685188272
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL685188272",
+  "full_name": "Carmen Bond",
+  "date_of_birth": "1973-03-21",
+  "class": "A",
+  "issue_date": "2024-11-26",
+  "expiry_date": "2029-11-26",
+  "address": "971 Stokes Motorway, New Robert, OK 08068",
+  "sample_id": "driving_license_0117"
+}

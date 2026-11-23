@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0811",
+  "invoice_number": "INV-2026-0811",
+  "company_name": "CityBanking Supplies",
+  "company_address": "102 Dhanmondi 27, Sylhet, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "154 Doha Business Park, Chattogram, Bangladesh",
+  "invoice_date": "2026-04-05",
+  "due_date": "2026-05-05",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 11,
+      "unit_price": 136.44,
+      "amount": 1500.84
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 6,
+      "unit_price": 260.62,
+      "amount": 1563.72
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 426.18,
+      "amount": 4687.98
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 5,
+      "unit_price": 321.31,
+      "amount": 1606.55
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 6,
+      "unit_price": 247.02,
+      "amount": 1482.12
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 3,
+      "unit_price": 190.57,
+      "amount": 571.71
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 3,
+      "unit_price": 724.98,
+      "amount": 2174.94
+    }
+  ],
+  "subtotal": 13587.86,
+  "discount": 1358.79,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 12279.07,
+  "amount_paid": 12279.07,
+  "balance_due": 0.0,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801825600233",
+  "po_number": "PO-95364"
+}

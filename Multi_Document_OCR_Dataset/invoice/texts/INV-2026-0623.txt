@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0623
+Company: Eastern Care Pharmacy
+Company Address: 99 Al Barsha, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 243 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-04
+Due Date: 2026-03-11
+Currency: QAR
+Subtotal: 20495.98
+Tax: 2049.6
+Total: 22555.58
+Balance Due: 22555.58
+Status: overdue

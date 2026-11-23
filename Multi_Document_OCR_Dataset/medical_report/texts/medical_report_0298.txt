@@ -1,0 +1,14 @@
+Medical Report MED-KRNL1OS9
+Patient: Jason Smith
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KRNL1OS9",
+  "patient_name": "Jason Smith",
+  "visit_date": "2024-11-16",
+  "doctor_name": "Dr. Megan Frazier",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0298"
+}

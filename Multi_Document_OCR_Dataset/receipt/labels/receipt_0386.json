@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1630POCR",
+  "merchant_name": "Adams-Little",
+  "date": "2021-04-21",
+  "subtotal": 224.95,
+  "tax": 11.03,
+  "discount": 6.53,
+  "total": 229.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$30.16",
+      "line_total": "$60.32"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$49.23",
+      "line_total": "$49.23"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$52.00",
+      "line_total": "$52.00"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$15.85",
+      "line_total": "$63.40"
+    }
+  ],
+  "sample_id": "receipt_0386"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-6ZYZH1YQ",
+  "patient_name": "Lauren Wagner",
+  "visit_date": "2026-08-09",
+  "doctor_name": "Dr. Ashley Nichols",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0654"
+}

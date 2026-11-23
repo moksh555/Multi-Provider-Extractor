@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL322279370",
+  "full_name": "James Davidson",
+  "date_of_birth": "1992-04-03",
+  "class": "A",
+  "issue_date": "2022-08-25",
+  "expiry_date": "2027-08-25",
+  "address": "1418 Terri Drives, Peterland, ME 92077",
+  "sample_id": "driving_license_0161"
+}

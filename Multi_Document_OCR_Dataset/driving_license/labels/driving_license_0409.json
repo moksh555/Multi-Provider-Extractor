@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL651057181",
+  "full_name": "Bruce Jackson",
+  "date_of_birth": "1962-08-24",
+  "class": "D",
+  "issue_date": "2023-07-29",
+  "expiry_date": "2028-07-29",
+  "address": "974 Vazquez Spurs Suite 412, North James, GU 02583",
+  "sample_id": "driving_license_0409"
+}

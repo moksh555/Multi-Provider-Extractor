@@ -1,0 +1,14 @@
+Medical Report MED-9PSH82OD
+Patient: Samuel Harris
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-9PSH82OD",
+  "patient_name": "Samuel Harris",
+  "visit_date": "2026-12-04",
+  "doctor_name": "Dr. Jeffrey Gilbert",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0278"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-OWZGVN54
+Holder: Daniel Reyes
+Closing Balance: $4944.22
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OWZGVN54",
+  "account_holder": "Daniel Reyes",
+  "account_number_masked": "****3451",
+  "period_start": "2026-04-15",
+  "period_end": "2026-05-15",
+  "opening_balance": 1980.66,
+  "closing_balance": 4944.22,
+  "transactions": 10,
+  "sample_id": "bank_statement_0777"
+}

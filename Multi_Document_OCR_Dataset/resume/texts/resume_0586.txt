@@ -1,0 +1,27 @@
+Resume
+Adam Harmon
+Backend Developer
+Skills: SQL, Python, Deep Learning, PyTorch, NLP, AWS, FastAPI, TensorFlow, Pandas, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Adam Harmon",
+  "email": "ncosta@example.net",
+  "phone": "2316721135",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "SQL",
+    "Python",
+    "Deep Learning",
+    "PyTorch",
+    "NLP",
+    "AWS",
+    "FastAPI",
+    "TensorFlow",
+    "Pandas",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0586"
+}

@@ -1,0 +1,49 @@
+Receipt RCT-7WTP0KZU
+Merchant: Harris-Norris
+Date: 2025-10-26
+Total: $732.78
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7WTP0KZU",
+  "merchant_name": "Harris-Norris",
+  "date": "2025-10-26",
+  "subtotal": 711.09,
+  "tax": 24.48,
+  "discount": 2.79,
+  "total": 732.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$44.74",
+      "line_total": "$44.74"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$57.37",
+      "line_total": "$172.11"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$50.55",
+      "line_total": "$151.65"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$44.21",
+      "line_total": "$176.84"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$55.25",
+      "line_total": "$165.75"
+    }
+  ],
+  "sample_id": "receipt_0749"
+}

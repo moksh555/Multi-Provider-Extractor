@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Dennis Hoffman",
+  "email": "kathy79@example.net",
+  "phone": "001-974-725-4290x43682",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Streamlit",
+    "Machine Learning",
+    "SQL",
+    "PyTorch",
+    "AWS",
+    "TensorFlow",
+    "Docker",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0842"
+}

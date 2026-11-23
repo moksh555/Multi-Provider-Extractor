@@ -1,0 +1,16 @@
+Insurance Policy POL-8HMBR5XQT
+Holder: Lisa Hamilton
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8HMBR5XQT",
+  "policy_holder": "Lisa Hamilton",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-06-01",
+  "expiry_date": "2026-06-01",
+  "premium": 438.77,
+  "coverage_amount": 139591.72,
+  "beneficiary": "Gary Mccann",
+  "sample_id": "insurance_document_0133"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0550
+Company: BlueRiver Trading Co.
+Company Address: 104 Motijheel C/A, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 34 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-05-02
+Due Date: 2026-06-01
+Currency: BDT
+Subtotal: 8484.58
+Tax: 763.61
+Total: 8449.73
+Balance Due: 0.0
+Status: paid

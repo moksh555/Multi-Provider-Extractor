@@ -1,0 +1,23 @@
+Resume
+Jason Gomez
+Computer Vision Engineer
+Skills: Computer Vision, Pandas, Python, AWS, Streamlit, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Jason Gomez",
+  "email": "thomasjohnson@example.net",
+  "phone": "(849)569-2771x1952",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Computer Vision",
+    "Pandas",
+    "Python",
+    "AWS",
+    "Streamlit",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0038"
+}

@@ -1,0 +1,23 @@
+Resume
+Chase Davies
+Machine Learning Engineer
+Skills: SQL, Streamlit, Docker, Computer Vision, FastAPI, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Chase Davies",
+  "email": "daniellewebb@example.net",
+  "phone": "+1-275-467-9813",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Streamlit",
+    "Docker",
+    "Computer Vision",
+    "FastAPI",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0355"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FH9XB4FH",
+  "patient_name": "Katherine Guzman",
+  "visit_date": "2025-10-23",
+  "doctor_name": "Dr. Marcus Harvey",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0443"
+}

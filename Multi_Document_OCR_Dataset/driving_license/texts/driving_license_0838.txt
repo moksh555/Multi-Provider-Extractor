@@ -1,0 +1,16 @@
+Synthetic Driving License
+Maurice Rose
+License: DL116548176
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL116548176",
+  "full_name": "Maurice Rose",
+  "date_of_birth": "1995-05-05",
+  "class": "D",
+  "issue_date": "2020-10-06",
+  "expiry_date": "2025-10-06",
+  "address": "330 Webb Isle Suite 760, Laurieview, CT 19895",
+  "sample_id": "driving_license_0838"
+}

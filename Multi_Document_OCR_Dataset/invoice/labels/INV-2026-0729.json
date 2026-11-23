@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0729",
+  "invoice_number": "INV-2026-0729",
+  "company_name": "Delta Insurance Services",
+  "company_address": "11 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "70 Uttara Sector 7, Dubai, UAE",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-07-01",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 2,
+      "unit_price": 631.48,
+      "amount": 1262.96
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 12,
+      "unit_price": 712.84,
+      "amount": 8554.08
+    },
+    {
+      "description": "API Integration",
+      "quantity": 11,
+      "unit_price": 411.46,
+      "amount": 4526.06
+    },
+    {
+      "description": "API Integration",
+      "quantity": 3,
+      "unit_price": 400.83,
+      "amount": 1202.49
+    }
+  ],
+  "subtotal": 15545.59,
+  "discount": 777.28,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 14818.31,
+  "amount_paid": 0,
+  "balance_due": 14818.31,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801699825455",
+  "po_number": "PO-38579"
+}

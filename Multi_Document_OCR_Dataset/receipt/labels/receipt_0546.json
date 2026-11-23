@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-07X887LG",
+  "merchant_name": "Lewis, Montgomery and Robinson",
+  "date": "2023-05-27",
+  "subtotal": 1075.44,
+  "tax": 117.68,
+  "discount": 3.28,
+  "total": 1189.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$76.47",
+      "line_total": "$152.94"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$52.92",
+      "line_total": "$158.76"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$19.67",
+      "line_total": "$59.01"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$71.84",
+      "line_total": "$143.68"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$56.50",
+      "line_total": "$169.50"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$26.30",
+      "line_total": "$52.60"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$34.01",
+      "line_total": "$102.03"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$59.23",
+      "line_total": "$236.92"
+    }
+  ],
+  "sample_id": "receipt_0546"
+}

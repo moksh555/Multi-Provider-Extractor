@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Stephanie Lane
+Passport No: P98212725
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P98212725",
+  "full_name": "Stephanie Lane",
+  "nationality": "US",
+  "date_of_birth": "1990-01-26",
+  "issue_date": "2020-05-06",
+  "expiry_date": "2030-05-06",
+  "place_of_birth": "East Bryan",
+  "sample_id": "passport_0310"
+}

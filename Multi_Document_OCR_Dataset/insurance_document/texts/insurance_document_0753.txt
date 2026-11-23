@@ -1,0 +1,16 @@
+Insurance Policy POL-LICKHHUZ8
+Holder: Keith Thomas
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LICKHHUZ8",
+  "policy_holder": "Keith Thomas",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-03-21",
+  "expiry_date": "2027-03-21",
+  "premium": 2244.54,
+  "coverage_amount": 216657.57,
+  "beneficiary": "Benjamin Brown",
+  "sample_id": "insurance_document_0753"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LX8EAK8Y",
+  "account_holder": "Ricky Hall",
+  "account_number_masked": "****8113",
+  "period_start": "2024-09-09",
+  "period_end": "2024-10-09",
+  "opening_balance": 3961.58,
+  "closing_balance": 6181.78,
+  "transactions": 9,
+  "sample_id": "bank_statement_0120"
+}

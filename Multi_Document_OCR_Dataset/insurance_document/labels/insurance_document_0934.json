@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OHN3DG60E",
+  "policy_holder": "Katrina Cooper",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-09-04",
+  "expiry_date": "2024-09-04",
+  "premium": 2358.86,
+  "coverage_amount": 372914.58,
+  "beneficiary": "Angela Doyle",
+  "sample_id": "insurance_document_0934"
+}

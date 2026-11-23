@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-88L12QFAF",
+  "policy_holder": "Kimberly Mueller",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-09-09",
+  "expiry_date": "2025-09-09",
+  "premium": 851.91,
+  "coverage_amount": 100450.89,
+  "beneficiary": "Wesley Johnson",
+  "sample_id": "insurance_document_0876"
+}

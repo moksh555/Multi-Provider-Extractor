@@ -1,0 +1,16 @@
+Insurance Policy POL-11KERPETI
+Holder: Jared Bennett
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-11KERPETI",
+  "policy_holder": "Jared Bennett",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-09-30",
+  "expiry_date": "2027-09-30",
+  "premium": 2038.76,
+  "coverage_amount": 45316.99,
+  "beneficiary": "Mark Warner",
+  "sample_id": "insurance_document_0094"
+}

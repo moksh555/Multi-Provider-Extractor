@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jonathan Clark
+License: DL799399069
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL799399069",
+  "full_name": "Jonathan Clark",
+  "date_of_birth": "1979-10-26",
+  "class": "A",
+  "issue_date": "2026-05-05",
+  "expiry_date": "2031-05-05",
+  "address": "6472 Tiffany Spur Apt. 143, Chaseborough, FL 97303",
+  "sample_id": "driving_license_0253"
+}

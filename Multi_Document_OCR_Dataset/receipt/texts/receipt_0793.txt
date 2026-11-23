@@ -1,0 +1,61 @@
+Receipt RCT-7KJFCLCC
+Merchant: Mathews, Wright and Jensen
+Date: 2026-05-13
+Total: $690.18
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7KJFCLCC",
+  "merchant_name": "Mathews, Wright and Jensen",
+  "date": "2026-05-13",
+  "subtotal": 659.35,
+  "tax": 37.79,
+  "discount": 6.96,
+  "total": 690.18,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$67.15",
+      "line_total": "$268.60"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$73.74",
+      "line_total": "$147.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$7.31",
+      "line_total": "$7.31"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$68.56",
+      "line_total": "$68.56"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$10.16",
+      "line_total": "$40.64"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$47.05",
+      "line_total": "$47.05"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$79.71",
+      "line_total": "$79.71"
+    }
+  ],
+  "sample_id": "receipt_0793"
+}

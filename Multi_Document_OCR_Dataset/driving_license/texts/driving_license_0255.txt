@@ -1,0 +1,16 @@
+Synthetic Driving License
+Isaac Castro
+License: DL220210379
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL220210379",
+  "full_name": "Isaac Castro",
+  "date_of_birth": "1997-02-21",
+  "class": "D",
+  "issue_date": "2025-07-12",
+  "expiry_date": "2030-07-12",
+  "address": "USNV Cooper, FPO AA 16391",
+  "sample_id": "driving_license_0255"
+}

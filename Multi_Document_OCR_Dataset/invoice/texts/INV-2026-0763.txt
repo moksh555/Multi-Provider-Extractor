@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0763
+Company: UrbanBuild Construction
+Company Address: 155 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Al Noor Clinic
+Billing Address: 106 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-01-03
+Due Date: 2026-01-18
+Currency: USD
+Subtotal: 17903.6
+Tax: 0.0
+Total: 16123.24
+Balance Due: 0.0
+Status: paid

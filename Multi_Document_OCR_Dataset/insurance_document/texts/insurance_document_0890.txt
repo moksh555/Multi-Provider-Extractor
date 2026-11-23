@@ -1,0 +1,16 @@
+Insurance Policy POL-7JYGSBOGK
+Holder: Craig Lopez
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7JYGSBOGK",
+  "policy_holder": "Craig Lopez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-04-13",
+  "expiry_date": "2026-04-13",
+  "premium": 612.98,
+  "coverage_amount": 393204.78,
+  "beneficiary": "Catherine Rangel",
+  "sample_id": "insurance_document_0890"
+}

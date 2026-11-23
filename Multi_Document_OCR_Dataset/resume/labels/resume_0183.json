@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Kristine Gray",
+  "email": "joshuawood@example.org",
+  "phone": "433.529.5945",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "Computer Vision",
+    "SQL",
+    "Machine Learning",
+    "TensorFlow",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0183"
+}

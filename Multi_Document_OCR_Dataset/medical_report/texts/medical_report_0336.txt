@@ -1,0 +1,14 @@
+Medical Report MED-8GME2X0L
+Patient: Robert Dominguez
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8GME2X0L",
+  "patient_name": "Robert Dominguez",
+  "visit_date": "2026-04-04",
+  "doctor_name": "Dr. Daniel Terrell",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0336"
+}

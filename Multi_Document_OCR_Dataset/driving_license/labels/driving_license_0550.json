@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL235127761",
+  "full_name": "Douglas Cox",
+  "date_of_birth": "1996-10-23",
+  "class": "D",
+  "issue_date": "2023-08-01",
+  "expiry_date": "2028-08-01",
+  "address": "747 Hines Mills, North Teresa, NM 05690",
+  "sample_id": "driving_license_0550"
+}

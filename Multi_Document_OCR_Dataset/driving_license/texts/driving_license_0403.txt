@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dr. Rebecca Anderson DVM
+License: DL760603286
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL760603286",
+  "full_name": "Dr. Rebecca Anderson DVM",
+  "date_of_birth": "1969-09-05",
+  "class": "C",
+  "issue_date": "2020-03-19",
+  "expiry_date": "2025-03-19",
+  "address": "0189 Davis Glens Apt. 361, Port Jaredfurt, WI 53243",
+  "sample_id": "driving_license_0403"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sarah Adams
+License: DL348581548
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL348581548",
+  "full_name": "Sarah Adams",
+  "date_of_birth": "1992-12-07",
+  "class": "A",
+  "issue_date": "2025-02-02",
+  "expiry_date": "2030-02-02",
+  "address": "9363 Edward Burgs, Port Margaret, NH 64121",
+  "sample_id": "driving_license_0383"
+}

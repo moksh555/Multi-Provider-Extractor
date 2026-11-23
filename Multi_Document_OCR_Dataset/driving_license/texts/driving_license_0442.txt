@@ -1,0 +1,16 @@
+Synthetic Driving License
+Brandon Austin
+License: DL446593385
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL446593385",
+  "full_name": "Brandon Austin",
+  "date_of_birth": "1999-01-21",
+  "class": "C",
+  "issue_date": "2026-05-12",
+  "expiry_date": "2031-05-12",
+  "address": "75047 Adrian View, Rodriguezview, OK 66079",
+  "sample_id": "driving_license_0442"
+}

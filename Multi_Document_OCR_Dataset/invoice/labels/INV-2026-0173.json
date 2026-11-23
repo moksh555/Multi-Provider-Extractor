@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0173",
+  "invoice_number": "INV-2026-0173",
+  "company_name": "Summit Agro Foods",
+  "company_address": "180 Gulshan Avenue, Sylhet, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "132 Agrabad C/A, Dubai, UAE",
+  "invoice_date": "2026-04-25",
+  "due_date": "2026-06-09",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 7,
+      "unit_price": 690.86,
+      "amount": 4836.02
+    },
+    {
+      "description": "API Integration",
+      "quantity": 3,
+      "unit_price": 373.52,
+      "amount": 1120.56
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 42.05,
+      "amount": 84.1
+    },
+    {
+      "description": "Web Development",
+      "quantity": 8,
+      "unit_price": 577.56,
+      "amount": 4620.48
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 451.97,
+      "amount": 3615.76
+    }
+  ],
+  "subtotal": 14276.92,
+  "discount": 1427.69,
+  "tax_rate": 0.15,
+  "tax": 1927.38,
+  "shipping": 50,
+  "total": 14826.61,
+  "amount_paid": 7596.25,
+  "balance_due": 7230.36,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801408396324",
+  "po_number": "PO-55955"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Samuel Edwards
+License: DL391974847
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL391974847",
+  "full_name": "Samuel Edwards",
+  "date_of_birth": "1993-10-17",
+  "class": "C",
+  "issue_date": "2020-08-28",
+  "expiry_date": "2025-08-28",
+  "address": "287 Timothy Light Apt. 153, Jamieberg, KY 80276",
+  "sample_id": "driving_license_0693"
+}

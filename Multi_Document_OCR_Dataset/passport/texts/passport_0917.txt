@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christine Kelley
+Passport No: P89238234
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P89238234",
+  "full_name": "Christine Kelley",
+  "nationality": "AE",
+  "date_of_birth": "1976-02-27",
+  "issue_date": "2026-05-22",
+  "expiry_date": "2036-05-22",
+  "place_of_birth": "East Heather",
+  "sample_id": "passport_0917"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SY7P1ZSCM",
+  "policy_holder": "Adam Atkins",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-12-03",
+  "expiry_date": "2024-12-03",
+  "premium": 1153.09,
+  "coverage_amount": 202700.47,
+  "beneficiary": "Samuel Edwards",
+  "sample_id": "insurance_document_0552"
+}

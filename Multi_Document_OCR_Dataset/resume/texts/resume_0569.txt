@@ -1,0 +1,27 @@
+Resume
+Shawn Buchanan
+Backend Developer
+Skills: Streamlit, PyTorch, AWS, NLP, Deep Learning, Machine Learning, SQL, Python, Computer Vision, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Shawn Buchanan",
+  "email": "glambert@example.net",
+  "phone": "940.475.5380x53659",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "PyTorch",
+    "AWS",
+    "NLP",
+    "Deep Learning",
+    "Machine Learning",
+    "SQL",
+    "Python",
+    "Computer Vision",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0569"
+}

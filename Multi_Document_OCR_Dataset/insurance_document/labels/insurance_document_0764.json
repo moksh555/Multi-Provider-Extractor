@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DDAQJRTME",
+  "policy_holder": "Brandon Rogers",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-06-22",
+  "expiry_date": "2024-06-22",
+  "premium": 963.54,
+  "coverage_amount": 113912.35,
+  "beneficiary": "David Gonzalez",
+  "sample_id": "insurance_document_0764"
+}

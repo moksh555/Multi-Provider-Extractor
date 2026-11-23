@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL875775151",
+  "full_name": "Nicholas Hall",
+  "date_of_birth": "1964-09-28",
+  "class": "B",
+  "issue_date": "2026-05-24",
+  "expiry_date": "2031-05-24",
+  "address": "753 Daniel Extensions Suite 610, Dannyland, NV 49564",
+  "sample_id": "driving_license_0603"
+}

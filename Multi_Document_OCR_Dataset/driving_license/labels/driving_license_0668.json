@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL049099115",
+  "full_name": "Ellen Cannon",
+  "date_of_birth": "1978-05-02",
+  "class": "A",
+  "issue_date": "2022-08-25",
+  "expiry_date": "2027-08-25",
+  "address": "2702 Nicole Hollow Suite 123, South Christopher, IA 20704",
+  "sample_id": "driving_license_0668"
+}

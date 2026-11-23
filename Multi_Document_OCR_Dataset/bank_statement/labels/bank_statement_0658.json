@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3OVWUMZT",
+  "account_holder": "Brandon Mckenzie",
+  "account_number_masked": "****0129",
+  "period_start": "2025-12-25",
+  "period_end": "2026-01-24",
+  "opening_balance": 1011.97,
+  "closing_balance": 2096.74,
+  "transactions": 11,
+  "sample_id": "bank_statement_0658"
+}

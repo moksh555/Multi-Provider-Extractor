@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BUKCNYDI",
+  "account_holder": "Donald Wallace",
+  "account_number_masked": "****7411",
+  "period_start": "2026-07-08",
+  "period_end": "2026-08-07",
+  "opening_balance": 3263.27,
+  "closing_balance": 6099.73,
+  "transactions": 10,
+  "sample_id": "bank_statement_0598"
+}

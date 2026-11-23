@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Ryan Gonzalez",
+  "email": "iellis@example.net",
+  "phone": "+1-777-928-7156x5969",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Deep Learning",
+    "Streamlit",
+    "Docker",
+    "Machine Learning",
+    "NLP",
+    "LangChain",
+    "Python",
+    "Pandas",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0341"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0803
+Company: Greenline Logistics
+Company Address: 80 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 1 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-02-25
+Due Date: 2026-03-12
+Currency: AED
+Subtotal: 5680.46
+Tax: 426.03
+Total: 6131.49
+Balance Due: 0.0
+Status: paid

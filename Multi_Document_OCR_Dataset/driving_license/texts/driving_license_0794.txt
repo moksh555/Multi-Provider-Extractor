@@ -1,0 +1,16 @@
+Synthetic Driving License
+Daniel Lee
+License: DL123279249
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL123279249",
+  "full_name": "Daniel Lee",
+  "date_of_birth": "1991-04-09",
+  "class": "C",
+  "issue_date": "2026-03-08",
+  "expiry_date": "2031-03-08",
+  "address": "46040 Kevin Greens Suite 310, Thompsonville, CO 95503",
+  "sample_id": "driving_license_0794"
+}

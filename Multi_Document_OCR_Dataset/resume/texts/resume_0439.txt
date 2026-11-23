@@ -1,0 +1,24 @@
+Resume
+Joan Craig
+Backend Developer
+Skills: Streamlit, TensorFlow, SQL, Deep Learning, Python, NLP, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Joan Craig",
+  "email": "johnathan63@example.net",
+  "phone": "267-702-0715x37842",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Streamlit",
+    "TensorFlow",
+    "SQL",
+    "Deep Learning",
+    "Python",
+    "NLP",
+    "Pandas"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0439"
+}

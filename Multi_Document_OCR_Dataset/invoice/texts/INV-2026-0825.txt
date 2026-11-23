@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0825
+Company: Metro Print House
+Company Address: 19 Dhanmondi 27, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 25 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-02
+Due Date: 2026-03-17
+Currency: USD
+Subtotal: 24333.24
+Tax: 0.0
+Total: 23856.58
+Balance Due: 0.0
+Status: paid

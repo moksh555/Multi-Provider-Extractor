@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL519843402",
+  "full_name": "Brandon Nunez",
+  "date_of_birth": "1979-08-18",
+  "class": "D",
+  "issue_date": "2020-03-22",
+  "expiry_date": "2025-03-22",
+  "address": "275 Robinson Ports, Ianborough, NM 97115",
+  "sample_id": "driving_license_0249"
+}

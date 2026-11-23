@@ -1,0 +1,16 @@
+Bank Statement STM-P89B8R9X
+Holder: Joshua Castillo
+Closing Balance: $4990.27
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P89B8R9X",
+  "account_holder": "Joshua Castillo",
+  "account_number_masked": "****0904",
+  "period_start": "2025-10-18",
+  "period_end": "2025-11-17",
+  "opening_balance": 1529.35,
+  "closing_balance": 4990.27,
+  "transactions": 10,
+  "sample_id": "bank_statement_0966"
+}

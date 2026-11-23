@@ -1,0 +1,16 @@
+Insurance Policy POL-LOFN1R4KZ
+Holder: Andrew Ramirez
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LOFN1R4KZ",
+  "policy_holder": "Andrew Ramirez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-04-29",
+  "expiry_date": "2024-04-29",
+  "premium": 1458.48,
+  "coverage_amount": 484215.23,
+  "beneficiary": "Christopher Singleton",
+  "sample_id": "insurance_document_0161"
+}

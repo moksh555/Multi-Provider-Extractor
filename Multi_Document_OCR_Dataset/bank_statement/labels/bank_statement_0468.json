@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-X696GHSK",
+  "account_holder": "Matthew Bray",
+  "account_number_masked": "****4445",
+  "period_start": "2024-05-15",
+  "period_end": "2024-06-14",
+  "opening_balance": 2664.33,
+  "closing_balance": 7104.29,
+  "transactions": 14,
+  "sample_id": "bank_statement_0468"
+}

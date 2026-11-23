@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2WX7PTX6",
+  "merchant_name": "Hill Inc",
+  "date": "2022-08-06",
+  "subtotal": 472.4,
+  "tax": 35.45,
+  "discount": 7.41,
+  "total": 500.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$63.62",
+      "line_total": "$127.24"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$10.82",
+      "line_total": "$43.28"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$75.47",
+      "line_total": "$301.88"
+    }
+  ],
+  "sample_id": "receipt_0028"
+}

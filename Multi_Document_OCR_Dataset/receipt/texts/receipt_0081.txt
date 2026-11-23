@@ -1,0 +1,49 @@
+Receipt RCT-AO4N5PP3
+Merchant: Schneider-Murphy
+Date: 2022-07-12
+Total: $877.04
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AO4N5PP3",
+  "merchant_name": "Schneider-Murphy",
+  "date": "2022-07-12",
+  "subtotal": 819.73,
+  "tax": 66.19,
+  "discount": 8.88,
+  "total": 877.04,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$38.84",
+      "line_total": "$77.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$77.53",
+      "line_total": "$310.12"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$77.45",
+      "line_total": "$309.80"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$30.71",
+      "line_total": "$92.13"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$10.00",
+      "line_total": "$30.00"
+    }
+  ],
+  "sample_id": "receipt_0081"
+}

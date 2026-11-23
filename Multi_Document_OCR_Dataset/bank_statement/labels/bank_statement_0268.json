@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AVPM6DYS",
+  "account_holder": "Courtney Hernandez",
+  "account_number_masked": "****1287",
+  "period_start": "2024-05-13",
+  "period_end": "2024-06-12",
+  "opening_balance": 4909.44,
+  "closing_balance": 10652.1,
+  "transactions": 11,
+  "sample_id": "bank_statement_0268"
+}

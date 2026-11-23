@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DE5E8NQ9",
+  "account_holder": "Catherine Cole",
+  "account_number_masked": "****7910",
+  "period_start": "2024-11-16",
+  "period_end": "2024-12-16",
+  "opening_balance": 4892.93,
+  "closing_balance": 6449.08,
+  "transactions": 8,
+  "sample_id": "bank_statement_0858"
+}

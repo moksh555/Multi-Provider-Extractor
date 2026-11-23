@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-IPATZ7BY",
+  "account_holder": "Matthew Carpenter",
+  "account_number_masked": "****7126",
+  "period_start": "2025-07-31",
+  "period_end": "2025-08-30",
+  "opening_balance": 3526.51,
+  "closing_balance": 12609.19,
+  "transactions": 14,
+  "sample_id": "bank_statement_0708"
+}

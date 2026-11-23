@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FVNTPKAR",
+  "patient_name": "Kevin Carter",
+  "visit_date": "2024-04-27",
+  "doctor_name": "Dr. Luis Montgomery",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0733"
+}

@@ -1,0 +1,24 @@
+Resume
+Louis Eaton DDS
+Machine Learning Engineer
+Skills: Computer Vision, AWS, FastAPI, Docker, NLP, Streamlit, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Louis Eaton DDS",
+  "email": "dana02@example.net",
+  "phone": "986-776-0304x09346",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "AWS",
+    "FastAPI",
+    "Docker",
+    "NLP",
+    "Streamlit",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0217"
+}

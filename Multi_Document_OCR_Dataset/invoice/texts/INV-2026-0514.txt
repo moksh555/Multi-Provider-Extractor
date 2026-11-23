@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0514
+Company: Delta Insurance Services
+Company Address: 188 Motijheel C/A, Chattogram, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 220 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-01-20
+Due Date: 2026-03-06
+Currency: SAR
+Subtotal: 16270.29
+Tax: 2391.73
+Total: 18336.61
+Balance Due: 18336.61
+Status: overdue

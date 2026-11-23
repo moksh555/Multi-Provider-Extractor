@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WQ1GAZ5U",
+  "merchant_name": "Walls, Chen and Harris",
+  "date": "2023-05-23",
+  "subtotal": 1085.88,
+  "tax": 43.67,
+  "discount": 2.88,
+  "total": 1126.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$75.04",
+      "line_total": "$225.12"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$42.26",
+      "line_total": "$42.26"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$12.67",
+      "line_total": "$50.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$67.69",
+      "line_total": "$203.07"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$68.95",
+      "line_total": "$206.85"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$67.83",
+      "line_total": "$135.66"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$52.04",
+      "line_total": "$156.12"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$33.06",
+      "line_total": "$66.12"
+    }
+  ],
+  "sample_id": "receipt_0221"
+}

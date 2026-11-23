@@ -1,0 +1,16 @@
+Bank Statement STM-PQV9RI45
+Holder: Brandon Lee
+Closing Balance: $4578.94
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PQV9RI45",
+  "account_holder": "Brandon Lee",
+  "account_number_masked": "****9012",
+  "period_start": "2026-03-14",
+  "period_end": "2026-04-13",
+  "opening_balance": 2219.42,
+  "closing_balance": 4578.94,
+  "transactions": 14,
+  "sample_id": "bank_statement_0972"
+}

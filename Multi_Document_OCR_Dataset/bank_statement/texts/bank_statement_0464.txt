@@ -1,0 +1,16 @@
+Bank Statement STM-T5JZTFBQ
+Holder: Sarah Jackson
+Closing Balance: $5594.80
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T5JZTFBQ",
+  "account_holder": "Sarah Jackson",
+  "account_number_masked": "****9611",
+  "period_start": "2026-03-20",
+  "period_end": "2026-04-19",
+  "opening_balance": 3932.87,
+  "closing_balance": 5594.8,
+  "transactions": 12,
+  "sample_id": "bank_statement_0464"
+}

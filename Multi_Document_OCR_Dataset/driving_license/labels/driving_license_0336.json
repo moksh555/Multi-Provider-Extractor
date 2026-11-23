@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL137128744",
+  "full_name": "Anne Carr",
+  "date_of_birth": "1978-11-26",
+  "class": "B",
+  "issue_date": "2026-08-16",
+  "expiry_date": "2031-08-16",
+  "address": "17993 Linda Meadow, Lisafurt, MD 16334",
+  "sample_id": "driving_license_0336"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-WORLEWUH
+Patient: Charles Thompson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WORLEWUH",
+  "patient_name": "Charles Thompson",
+  "visit_date": "2024-07-26",
+  "doctor_name": "Dr. Adam Ramirez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0057"
+}

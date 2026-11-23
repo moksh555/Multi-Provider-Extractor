@@ -1,0 +1,16 @@
+Bank Statement STM-UYOIUINX
+Holder: Benjamin Marshall
+Closing Balance: $8602.20
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UYOIUINX",
+  "account_holder": "Benjamin Marshall",
+  "account_number_masked": "****0362",
+  "period_start": "2026-11-25",
+  "period_end": "2026-12-25",
+  "opening_balance": 4801.72,
+  "closing_balance": 8602.2,
+  "transactions": 10,
+  "sample_id": "bank_statement_0594"
+}

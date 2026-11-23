@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AGSUSMESJ",
+  "policy_holder": "Kevin Rios",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-23",
+  "expiry_date": "2027-03-23",
+  "premium": 715.34,
+  "coverage_amount": 226956.63,
+  "beneficiary": "Jose Juarez",
+  "sample_id": "insurance_document_0330"
+}

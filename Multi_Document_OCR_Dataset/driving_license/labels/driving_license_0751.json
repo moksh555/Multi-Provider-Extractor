@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL479814713",
+  "full_name": "Kimberly Davidson",
+  "date_of_birth": "1971-06-11",
+  "class": "D",
+  "issue_date": "2022-01-14",
+  "expiry_date": "2027-01-14",
+  "address": "46358 Madison Spur, Rodgershaven, PR 23869",
+  "sample_id": "driving_license_0751"
+}

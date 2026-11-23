@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3SKSO6DK",
+  "account_holder": "Stephen Phillips",
+  "account_number_masked": "****5501",
+  "period_start": "2024-11-07",
+  "period_end": "2024-12-07",
+  "opening_balance": 3228.23,
+  "closing_balance": 871.1,
+  "transactions": 9,
+  "sample_id": "bank_statement_0237"
+}

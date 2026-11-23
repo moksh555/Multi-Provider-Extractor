@@ -1,0 +1,16 @@
+Bank Statement STM-CIU4BMRC
+Holder: Jack Gutierrez PhD
+Closing Balance: $4328.87
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CIU4BMRC",
+  "account_holder": "Jack Gutierrez PhD",
+  "account_number_masked": "****7663",
+  "period_start": "2026-04-25",
+  "period_end": "2026-05-25",
+  "opening_balance": 3171.49,
+  "closing_balance": 4328.87,
+  "transactions": 10,
+  "sample_id": "bank_statement_0607"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-ILYCAY4L
+Patient: Alyssa Charles
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ILYCAY4L",
+  "patient_name": "Alyssa Charles",
+  "visit_date": "2026-12-03",
+  "doctor_name": "Dr. Kylie Mccann",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0623"
+}

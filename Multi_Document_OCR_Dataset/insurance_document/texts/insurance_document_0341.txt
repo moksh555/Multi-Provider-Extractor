@@ -1,0 +1,16 @@
+Insurance Policy POL-U3MOMYVUX
+Holder: Natalie Gordon
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-U3MOMYVUX",
+  "policy_holder": "Natalie Gordon",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-12-24",
+  "expiry_date": "2024-12-24",
+  "premium": 2450.91,
+  "coverage_amount": 149458.28,
+  "beneficiary": "Alexis Smith",
+  "sample_id": "insurance_document_0341"
+}

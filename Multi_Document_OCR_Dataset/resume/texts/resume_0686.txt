@@ -1,0 +1,25 @@
+Resume
+Jorge Sanchez
+Backend Developer
+Skills: Streamlit, Computer Vision, Pandas, NLP, PyTorch, Docker, LangChain, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Jorge Sanchez",
+  "email": "carolynfernandez@example.net",
+  "phone": "001-630-882-2781",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "Streamlit",
+    "Computer Vision",
+    "Pandas",
+    "NLP",
+    "PyTorch",
+    "Docker",
+    "LangChain",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0686"
+}

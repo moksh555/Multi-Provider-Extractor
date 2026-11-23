@@ -1,0 +1,25 @@
+Resume
+Rose Cooper
+Computer Vision Engineer
+Skills: Pandas, Docker, Deep Learning, Streamlit, LangChain, AWS, Computer Vision, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Rose Cooper",
+  "email": "susanelliott@example.org",
+  "phone": "001-245-213-5996x42606",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "Docker",
+    "Deep Learning",
+    "Streamlit",
+    "LangChain",
+    "AWS",
+    "Computer Vision",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0896"
+}

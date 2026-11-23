@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WAGJM3P0",
+  "account_holder": "Lori Thompson",
+  "account_number_masked": "****6032",
+  "period_start": "2026-01-16",
+  "period_end": "2026-02-15",
+  "opening_balance": 855.38,
+  "closing_balance": 2317.84,
+  "transactions": 14,
+  "sample_id": "bank_statement_0994"
+}

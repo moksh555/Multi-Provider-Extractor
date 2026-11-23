@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL409759866",
+  "full_name": "Stephen Kim",
+  "date_of_birth": "1970-10-16",
+  "class": "B",
+  "issue_date": "2025-01-13",
+  "expiry_date": "2030-01-13",
+  "address": "3416 Zachary Union Suite 484, Lopezland, HI 18408",
+  "sample_id": "driving_license_0263"
+}

@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-E9Z5JL6U",
+  "merchant_name": "Smith, Swanson and Glass",
+  "date": "2022-11-11",
+  "subtotal": 551.32,
+  "tax": 57.69,
+  "discount": 0.15,
+  "total": 608.86,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$64.42",
+      "line_total": "$128.84"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$38.30",
+      "line_total": "$114.90"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$74.24",
+      "line_total": "$222.72"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$42.43",
+      "line_total": "$84.86"
+    }
+  ],
+  "sample_id": "receipt_0373"
+}

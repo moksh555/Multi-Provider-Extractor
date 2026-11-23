@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michelle Henderson
+License: DL480561542
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL480561542",
+  "full_name": "Michelle Henderson",
+  "date_of_birth": "1984-11-30",
+  "class": "C",
+  "issue_date": "2021-08-16",
+  "expiry_date": "2026-08-16",
+  "address": "623 Montgomery Forges, Whiteside, PA 10620",
+  "sample_id": "driving_license_0544"
+}

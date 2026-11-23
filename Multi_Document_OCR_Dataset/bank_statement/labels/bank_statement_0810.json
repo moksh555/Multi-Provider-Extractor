@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JPFZYOQJ",
+  "account_holder": "Kendra Campbell",
+  "account_number_masked": "****8989",
+  "period_start": "2026-11-01",
+  "period_end": "2026-12-01",
+  "opening_balance": 3230.85,
+  "closing_balance": 5771.33,
+  "transactions": 9,
+  "sample_id": "bank_statement_0810"
+}

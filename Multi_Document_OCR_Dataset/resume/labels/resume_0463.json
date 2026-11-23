@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Adam Lambert",
+  "email": "melissa29@example.com",
+  "phone": "955-421-7504x9988",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "FastAPI",
+    "AWS",
+    "Docker",
+    "LangChain",
+    "Pandas",
+    "Deep Learning",
+    "Computer Vision",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0463"
+}

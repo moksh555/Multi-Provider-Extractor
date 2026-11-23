@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QAVD2XN7",
+  "account_holder": "Jason Taylor",
+  "account_number_masked": "****2792",
+  "period_start": "2024-07-13",
+  "period_end": "2024-08-12",
+  "opening_balance": 4972.19,
+  "closing_balance": 6807.24,
+  "transactions": 14,
+  "sample_id": "bank_statement_0813"
+}

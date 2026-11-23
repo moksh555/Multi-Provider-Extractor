@@ -1,0 +1,14 @@
+Medical Report MED-M9VNR3LS
+Patient: Stephanie Smith MD
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-M9VNR3LS",
+  "patient_name": "Stephanie Smith MD",
+  "visit_date": "2024-06-26",
+  "doctor_name": "Dr. Robert Dickerson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0329"
+}

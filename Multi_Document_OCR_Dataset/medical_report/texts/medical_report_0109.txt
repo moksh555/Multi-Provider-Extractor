@@ -1,0 +1,14 @@
+Medical Report MED-21ZQDP8P
+Patient: James Petersen
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-21ZQDP8P",
+  "patient_name": "James Petersen",
+  "visit_date": "2026-06-16",
+  "doctor_name": "Dr. Christine Sanchez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0109"
+}

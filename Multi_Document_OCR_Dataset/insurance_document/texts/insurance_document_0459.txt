@@ -1,0 +1,16 @@
+Insurance Policy POL-RKZ40AQ15
+Holder: Carl Khan
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RKZ40AQ15",
+  "policy_holder": "Carl Khan",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-01-14",
+  "expiry_date": "2025-01-14",
+  "premium": 1999.86,
+  "coverage_amount": 191506.03,
+  "beneficiary": "Sharon Burke",
+  "sample_id": "insurance_document_0459"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-XTHNM5C5
+Patient: Megan Harmon
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XTHNM5C5",
+  "patient_name": "Megan Harmon",
+  "visit_date": "2024-04-16",
+  "doctor_name": "Dr. Louis Crawford",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0208"
+}

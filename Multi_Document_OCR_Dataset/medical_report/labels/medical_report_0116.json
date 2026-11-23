@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CPMV0Y8X",
+  "patient_name": "Deanna Henry",
+  "visit_date": "2025-03-21",
+  "doctor_name": "Dr. Rebecca Crawford",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0116"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-1000
+Company: Atlas Engineering Ltd.
+Company Address: 38 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: Global Mart
+Billing Address: 142 Mirpur DOHS, Chattogram, Bangladesh
+Invoice Date: 2026-04-07
+Due Date: 2026-04-14
+Currency: QAR
+Subtotal: 3283.5
+Tax: 443.27
+Total: 3448.42
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0VGNXB5JT",
+  "policy_holder": "Matthew Watkins",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-01",
+  "expiry_date": "2027-05-01",
+  "premium": 2487.34,
+  "coverage_amount": 334365.26,
+  "beneficiary": "Ana Torres",
+  "sample_id": "insurance_document_0269"
+}

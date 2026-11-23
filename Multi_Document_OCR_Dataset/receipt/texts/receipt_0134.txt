@@ -1,0 +1,67 @@
+Receipt RCT-N3BFH024
+Merchant: Thomas, Hoover and Nicholson
+Date: 2024-04-23
+Total: $574.29
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-N3BFH024",
+  "merchant_name": "Thomas, Hoover and Nicholson",
+  "date": "2024-04-23",
+  "subtotal": 563.75,
+  "tax": 20.62,
+  "discount": 10.08,
+  "total": 574.29,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$54.51",
+      "line_total": "$163.53"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$44.73",
+      "line_total": "$44.73"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$4.30",
+      "line_total": "$4.30"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$25.07",
+      "line_total": "$25.07"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$33.60",
+      "line_total": "$67.20"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$15.54",
+      "line_total": "$31.08"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$10.06",
+      "line_total": "$20.12"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$51.93",
+      "line_total": "$207.72"
+    }
+  ],
+  "sample_id": "receipt_0134"
+}

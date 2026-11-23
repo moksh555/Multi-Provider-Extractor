@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL045510557",
+  "full_name": "Thomas Maldonado",
+  "date_of_birth": "1994-07-24",
+  "class": "C",
+  "issue_date": "2020-02-20",
+  "expiry_date": "2025-02-20",
+  "address": "727 Cooper Villages Suite 140, Williamsshire, WI 28592",
+  "sample_id": "driving_license_0191"
+}

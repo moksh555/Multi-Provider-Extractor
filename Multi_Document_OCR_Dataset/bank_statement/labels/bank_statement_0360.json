@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LED0Z4ZM",
+  "account_holder": "Richard Thomas",
+  "account_number_masked": "****3274",
+  "period_start": "2026-06-10",
+  "period_end": "2026-07-10",
+  "opening_balance": 1086.94,
+  "closing_balance": 2619.14,
+  "transactions": 10,
+  "sample_id": "bank_statement_0360"
+}

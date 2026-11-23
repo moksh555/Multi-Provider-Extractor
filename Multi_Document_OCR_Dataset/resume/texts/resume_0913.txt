@@ -1,0 +1,23 @@
+Resume
+Samantha Benson
+Machine Learning Engineer
+Skills: Computer Vision, SQL, Pandas, TensorFlow, NLP, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Samantha Benson",
+  "email": "brittanymoore@example.org",
+  "phone": "722.330.3358x233",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "SQL",
+    "Pandas",
+    "TensorFlow",
+    "NLP",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0913"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL092688411",
+  "full_name": "Christopher Garcia",
+  "date_of_birth": "1983-05-31",
+  "class": "B",
+  "issue_date": "2023-05-26",
+  "expiry_date": "2028-05-26",
+  "address": "914 Angela Divide Apt. 255, Port Becky, MH 71301",
+  "sample_id": "driving_license_0945"
+}

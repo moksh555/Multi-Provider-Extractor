@@ -1,0 +1,16 @@
+Insurance Policy POL-IRDLK9EN7
+Holder: Monica Atkinson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IRDLK9EN7",
+  "policy_holder": "Monica Atkinson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-10-24",
+  "expiry_date": "2025-10-24",
+  "premium": 485.99,
+  "coverage_amount": 49720.99,
+  "beneficiary": "Robert Cooper",
+  "sample_id": "insurance_document_0529"
+}

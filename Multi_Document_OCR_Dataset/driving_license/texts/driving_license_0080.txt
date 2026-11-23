@@ -1,0 +1,16 @@
+Synthetic Driving License
+Zachary Moore
+License: DL897282127
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL897282127",
+  "full_name": "Zachary Moore",
+  "date_of_birth": "1972-04-08",
+  "class": "A",
+  "issue_date": "2021-02-01",
+  "expiry_date": "2026-02-01",
+  "address": "880 Walter River, New Nicholas, GA 24204",
+  "sample_id": "driving_license_0080"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0420
+Company: CityBanking Supplies
+Company Address: 50 Al Barsha, Riyadh, Saudi Arabia
+Customer: Rahim Traders
+Billing Address: 169 Road 12, Banani, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-19
+Due Date: 2026-07-19
+Currency: USD
+Subtotal: 25751.81
+Tax: 1261.84
+Total: 26503.61
+Balance Due: 0.0
+Status: paid

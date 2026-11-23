@@ -1,0 +1,16 @@
+Bank Statement STM-EHGSUWG6
+Holder: Amanda Kelly
+Closing Balance: $7350.35
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EHGSUWG6",
+  "account_holder": "Amanda Kelly",
+  "account_number_masked": "****9286",
+  "period_start": "2026-08-08",
+  "period_end": "2026-09-07",
+  "opening_balance": 3963.89,
+  "closing_balance": 7350.35,
+  "transactions": 9,
+  "sample_id": "bank_statement_0728"
+}

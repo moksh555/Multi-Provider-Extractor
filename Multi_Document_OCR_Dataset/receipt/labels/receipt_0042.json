@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5Z8VMUHX",
+  "merchant_name": "Hayes-Wheeler",
+  "date": "2023-07-08",
+  "subtotal": 169.65,
+  "tax": 9.26,
+  "discount": 11.44,
+  "total": 167.47,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$10.08",
+      "line_total": "$30.24"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$64.77",
+      "line_total": "$129.54"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$3.29",
+      "line_total": "$9.87"
+    }
+  ],
+  "sample_id": "receipt_0042"
+}

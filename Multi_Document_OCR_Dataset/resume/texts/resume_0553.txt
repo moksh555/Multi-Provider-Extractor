@@ -1,0 +1,23 @@
+Resume
+Brittany Grimes
+Data Analyst
+Skills: FastAPI, Streamlit, TensorFlow, NLP, Computer Vision, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Brittany Grimes",
+  "email": "andrewpierce@example.net",
+  "phone": "200-814-2866",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "FastAPI",
+    "Streamlit",
+    "TensorFlow",
+    "NLP",
+    "Computer Vision",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0553"
+}

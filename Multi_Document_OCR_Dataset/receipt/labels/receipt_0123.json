@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EOQ4YRP5",
+  "merchant_name": "Flores, Harper and Chambers",
+  "date": "2022-11-15",
+  "subtotal": 173.69,
+  "tax": 11.15,
+  "discount": 5.38,
+  "total": 179.46,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$78.54",
+      "line_total": "$78.54"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$33.87",
+      "line_total": "$33.87"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$15.32",
+      "line_total": "$61.28"
+    }
+  ],
+  "sample_id": "receipt_0123"
+}

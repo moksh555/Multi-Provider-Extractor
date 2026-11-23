@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Heather Bates
+Passport No: P10004467
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10004467",
+  "full_name": "Heather Bates",
+  "nationality": "AE",
+  "date_of_birth": "1981-01-02",
+  "issue_date": "2025-11-07",
+  "expiry_date": "2035-11-07",
+  "place_of_birth": "West Lawrenceland",
+  "sample_id": "passport_0144"
+}

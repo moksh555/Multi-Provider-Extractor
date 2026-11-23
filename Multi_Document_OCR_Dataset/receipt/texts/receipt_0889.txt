@@ -1,0 +1,67 @@
+Receipt RCT-ADD0GN7R
+Merchant: Edwards Group
+Date: 2024-02-09
+Total: $731.35
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ADD0GN7R",
+  "merchant_name": "Edwards Group",
+  "date": "2024-02-09",
+  "subtotal": 687.55,
+  "tax": 57.04,
+  "discount": 13.24,
+  "total": 731.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$60.54",
+      "line_total": "$60.54"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$41.21",
+      "line_total": "$82.42"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$10.58",
+      "line_total": "$31.74"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$58.66",
+      "line_total": "$175.98"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$25.34",
+      "line_total": "$76.02"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$37.31",
+      "line_total": "$111.93"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$19.44",
+      "line_total": "$58.32"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$45.30",
+      "line_total": "$90.60"
+    }
+  ],
+  "sample_id": "receipt_0889"
+}

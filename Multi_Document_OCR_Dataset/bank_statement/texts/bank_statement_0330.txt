@@ -1,0 +1,16 @@
+Bank Statement STM-TAIJ82T2
+Holder: Jennifer Smith
+Closing Balance: $7430.60
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TAIJ82T2",
+  "account_holder": "Jennifer Smith",
+  "account_number_masked": "****1004",
+  "period_start": "2024-01-15",
+  "period_end": "2024-02-14",
+  "opening_balance": 3680.14,
+  "closing_balance": 7430.6,
+  "transactions": 12,
+  "sample_id": "bank_statement_0330"
+}

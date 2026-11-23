@@ -1,0 +1,14 @@
+Medical Report MED-V8JDY5QT
+Patient: Mary Livingston
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-V8JDY5QT",
+  "patient_name": "Mary Livingston",
+  "visit_date": "2026-11-19",
+  "doctor_name": "Dr. Amanda Moreno",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0027"
+}

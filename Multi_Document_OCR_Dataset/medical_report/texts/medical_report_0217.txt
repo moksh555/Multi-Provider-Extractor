@@ -1,0 +1,14 @@
+Medical Report MED-EC7S5C5K
+Patient: Virginia Nguyen
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EC7S5C5K",
+  "patient_name": "Virginia Nguyen",
+  "visit_date": "2024-04-26",
+  "doctor_name": "Dr. Thomas Guzman",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0217"
+}

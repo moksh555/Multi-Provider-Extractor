@@ -1,0 +1,16 @@
+Synthetic Driving License
+Chelsea Oliver
+License: DL588017883
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL588017883",
+  "full_name": "Chelsea Oliver",
+  "date_of_birth": "2002-12-18",
+  "class": "B",
+  "issue_date": "2021-09-24",
+  "expiry_date": "2026-09-24",
+  "address": "1295 Patricia Squares, New Eduardo, GU 58841",
+  "sample_id": "driving_license_0745"
+}

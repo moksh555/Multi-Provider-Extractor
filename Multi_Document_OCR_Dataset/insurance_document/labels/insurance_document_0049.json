@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZR1YXR2DH",
+  "policy_holder": "Ana Hill",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-09-19",
+  "expiry_date": "2025-09-19",
+  "premium": 1700.22,
+  "coverage_amount": 190820.02,
+  "beneficiary": "Kimberly Nguyen",
+  "sample_id": "insurance_document_0049"
+}

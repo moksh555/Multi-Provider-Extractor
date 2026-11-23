@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Donna Freeman
+Passport No: P87720042
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P87720042",
+  "full_name": "Donna Freeman",
+  "nationality": "AE",
+  "date_of_birth": "2001-06-03",
+  "issue_date": "2023-07-06",
+  "expiry_date": "2033-07-06",
+  "place_of_birth": "Port Amber",
+  "sample_id": "passport_0068"
+}

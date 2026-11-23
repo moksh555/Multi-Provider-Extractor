@@ -1,0 +1,55 @@
+Receipt RCT-C1QKBHB7
+Merchant: Smith, Ballard and Santana
+Date: 2026-10-13
+Total: $823.49
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-C1QKBHB7",
+  "merchant_name": "Smith, Ballard and Santana",
+  "date": "2026-10-13",
+  "subtotal": 785.89,
+  "tax": 49.56,
+  "discount": 11.96,
+  "total": 823.49,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$3.89",
+      "line_total": "$11.67"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$29.20",
+      "line_total": "$87.60"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$22.58",
+      "line_total": "$67.74"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$71.27",
+      "line_total": "$285.08"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$27.78",
+      "line_total": "$111.12"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$55.67",
+      "line_total": "$222.68"
+    }
+  ],
+  "sample_id": "receipt_0054"
+}

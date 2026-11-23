@@ -1,0 +1,16 @@
+Synthetic Driving License
+Deborah Smith
+License: DL697742487
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL697742487",
+  "full_name": "Deborah Smith",
+  "date_of_birth": "1989-08-23",
+  "class": "B",
+  "issue_date": "2020-10-26",
+  "expiry_date": "2025-10-26",
+  "address": "6577 Medina Burgs Suite 453, Port William, PA 04287",
+  "sample_id": "driving_license_0988"
+}

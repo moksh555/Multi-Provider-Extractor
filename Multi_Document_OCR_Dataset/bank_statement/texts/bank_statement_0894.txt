@@ -1,0 +1,16 @@
+Bank Statement STM-VJ8YYK2V
+Holder: Ashley Fisher
+Closing Balance: $7358.69
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VJ8YYK2V",
+  "account_holder": "Ashley Fisher",
+  "account_number_masked": "****2028",
+  "period_start": "2025-02-06",
+  "period_end": "2025-03-08",
+  "opening_balance": 2137.3,
+  "closing_balance": 7358.69,
+  "transactions": 12,
+  "sample_id": "bank_statement_0894"
+}

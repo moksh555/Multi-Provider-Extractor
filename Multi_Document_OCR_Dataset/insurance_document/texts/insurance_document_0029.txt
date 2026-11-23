@@ -1,0 +1,16 @@
+Insurance Policy POL-4LA5JU9BV
+Holder: Kristen Terry
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4LA5JU9BV",
+  "policy_holder": "Kristen Terry",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-10-04",
+  "expiry_date": "2025-10-04",
+  "premium": 1158.62,
+  "coverage_amount": 492275.57,
+  "beneficiary": "Sean Henry",
+  "sample_id": "insurance_document_0029"
+}

@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EU122JN8",
+  "merchant_name": "Lin LLC",
+  "date": "2022-08-10",
+  "subtotal": 751.6,
+  "tax": 82.6,
+  "discount": 13.76,
+  "total": 820.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$20.56",
+      "line_total": "$61.68"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$61.05",
+      "line_total": "$244.20"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$29.85",
+      "line_total": "$59.70"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$45.01",
+      "line_total": "$180.04"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$44.00",
+      "line_total": "$176.00"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$4.32",
+      "line_total": "$8.64"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$10.67",
+      "line_total": "$21.34"
+    }
+  ],
+  "sample_id": "receipt_0921"
+}

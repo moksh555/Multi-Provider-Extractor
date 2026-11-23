@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BVKHV09A",
+  "account_holder": "Suzanne Ramirez",
+  "account_number_masked": "****0170",
+  "period_start": "2025-12-05",
+  "period_end": "2026-01-04",
+  "opening_balance": 4088.19,
+  "closing_balance": 6165.36,
+  "transactions": 14,
+  "sample_id": "bank_statement_0953"
+}

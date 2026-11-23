@@ -1,0 +1,16 @@
+Bank Statement STM-JBLINEEW
+Holder: Cheryl Gonzales
+Closing Balance: $2637.50
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JBLINEEW",
+  "account_holder": "Cheryl Gonzales",
+  "account_number_masked": "****9463",
+  "period_start": "2025-09-05",
+  "period_end": "2025-10-05",
+  "opening_balance": 1585.73,
+  "closing_balance": 2637.5,
+  "transactions": 8,
+  "sample_id": "bank_statement_0345"
+}

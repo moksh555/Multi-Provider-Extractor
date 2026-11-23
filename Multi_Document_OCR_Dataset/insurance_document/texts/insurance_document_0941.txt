@@ -1,0 +1,16 @@
+Insurance Policy POL-O6P43AR6J
+Holder: David Warner
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-O6P43AR6J",
+  "policy_holder": "David Warner",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-09-06",
+  "expiry_date": "2027-09-06",
+  "premium": 1405.17,
+  "coverage_amount": 478883.62,
+  "beneficiary": "Tammy Cox",
+  "sample_id": "insurance_document_0941"
+}

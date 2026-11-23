@@ -1,0 +1,16 @@
+Bank Statement STM-5GIEUUF9
+Holder: Crystal Shelton
+Closing Balance: $9223.80
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5GIEUUF9",
+  "account_holder": "Crystal Shelton",
+  "account_number_masked": "****1809",
+  "period_start": "2026-03-27",
+  "period_end": "2026-04-26",
+  "opening_balance": 4958.08,
+  "closing_balance": 9223.8,
+  "transactions": 11,
+  "sample_id": "bank_statement_0903"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Alexander Robles
+License: DL956588099
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL956588099",
+  "full_name": "Alexander Robles",
+  "date_of_birth": "1960-01-28",
+  "class": "C",
+  "issue_date": "2026-04-12",
+  "expiry_date": "2031-04-12",
+  "address": "USNV Wright, FPO AA 31743",
+  "sample_id": "driving_license_0446"
+}

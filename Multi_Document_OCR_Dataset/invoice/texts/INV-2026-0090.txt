@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0090
+Company: BlueRiver Trading Co.
+Company Address: 174 Mirpur DOHS, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 218 Uttara Sector 7, Dubai, UAE
+Invoice Date: 2026-02-12
+Due Date: 2026-02-19
+Currency: SAR
+Subtotal: 10344.64
+Tax: 506.89
+Total: 10654.64
+Balance Due: 5609.31
+Status: partial

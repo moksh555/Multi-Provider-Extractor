@@ -1,0 +1,16 @@
+Bank Statement STM-S2E6XDMR
+Holder: Robert Herrera
+Closing Balance: $6155.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S2E6XDMR",
+  "account_holder": "Robert Herrera",
+  "account_number_masked": "****2005",
+  "period_start": "2026-05-18",
+  "period_end": "2026-06-17",
+  "opening_balance": 665.7,
+  "closing_balance": 6155.38,
+  "transactions": 10,
+  "sample_id": "bank_statement_0525"
+}

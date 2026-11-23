@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XDD8IUZV3",
+  "policy_holder": "Dawn Day",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-12-12",
+  "expiry_date": "2025-12-12",
+  "premium": 1660.07,
+  "coverage_amount": 225720.09,
+  "beneficiary": "John Petty",
+  "sample_id": "insurance_document_0959"
+}

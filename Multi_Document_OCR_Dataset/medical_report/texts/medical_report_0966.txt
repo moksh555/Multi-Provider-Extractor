@@ -1,0 +1,14 @@
+Medical Report MED-TKOV8MW6
+Patient: Kenneth Kane
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TKOV8MW6",
+  "patient_name": "Kenneth Kane",
+  "visit_date": "2024-05-12",
+  "doctor_name": "Dr. Tammy Kelley",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0966"
+}

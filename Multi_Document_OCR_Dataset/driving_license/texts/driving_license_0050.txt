@@ -1,0 +1,16 @@
+Synthetic Driving License
+Vincent Rivera
+License: DL819687479
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL819687479",
+  "full_name": "Vincent Rivera",
+  "date_of_birth": "1984-03-25",
+  "class": "D",
+  "issue_date": "2026-11-27",
+  "expiry_date": "2031-11-27",
+  "address": "87026 Charles Tunnel Suite 596, Port Markside, MS 42006",
+  "sample_id": "driving_license_0050"
+}

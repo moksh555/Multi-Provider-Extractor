@@ -1,0 +1,49 @@
+Receipt RCT-R4UR1BOC
+Merchant: Anderson-Powers
+Date: 2024-05-08
+Total: $442.92
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-R4UR1BOC",
+  "merchant_name": "Anderson-Powers",
+  "date": "2024-05-08",
+  "subtotal": 409.75,
+  "tax": 46.89,
+  "discount": 13.72,
+  "total": 442.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$30.76",
+      "line_total": "$123.04"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$26.76",
+      "line_total": "$107.04"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$42.31",
+      "line_total": "$42.31"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$50.65",
+      "line_total": "$101.30"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$12.02",
+      "line_total": "$36.06"
+    }
+  ],
+  "sample_id": "receipt_0997"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL726423859",
+  "full_name": "Amy Compton",
+  "date_of_birth": "1962-11-01",
+  "class": "A",
+  "issue_date": "2024-10-28",
+  "expiry_date": "2029-10-28",
+  "address": "8812 Christensen Lights Suite 694, East Adam, OK 29049",
+  "sample_id": "driving_license_0527"
+}

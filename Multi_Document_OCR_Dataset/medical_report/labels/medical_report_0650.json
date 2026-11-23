@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-217AQ15I",
+  "patient_name": "Adriana Diaz",
+  "visit_date": "2024-10-09",
+  "doctor_name": "Dr. Krystal Crawford",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0650"
+}

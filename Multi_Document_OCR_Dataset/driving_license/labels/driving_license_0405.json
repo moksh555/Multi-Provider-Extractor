@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL570934706",
+  "full_name": "Jacob Lopez",
+  "date_of_birth": "1991-11-19",
+  "class": "B",
+  "issue_date": "2023-05-23",
+  "expiry_date": "2028-05-23",
+  "address": "85732 Rose Rue, West Taylorland, PW 63102",
+  "sample_id": "driving_license_0405"
+}

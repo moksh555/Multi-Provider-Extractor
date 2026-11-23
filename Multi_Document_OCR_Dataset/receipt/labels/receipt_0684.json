@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-O9S4ZNMZ",
+  "merchant_name": "Lane Group",
+  "date": "2025-06-28",
+  "subtotal": 851.28,
+  "tax": 31.71,
+  "discount": 2.39,
+  "total": 880.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$78.70",
+      "line_total": "$236.10"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$68.33",
+      "line_total": "$273.32"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$63.42",
+      "line_total": "$190.26"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$37.90",
+      "line_total": "$151.60"
+    }
+  ],
+  "sample_id": "receipt_0684"
+}

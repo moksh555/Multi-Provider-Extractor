@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NMJ5IAN8N",
+  "policy_holder": "Julie Harris",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-09-10",
+  "expiry_date": "2024-09-10",
+  "premium": 538.24,
+  "coverage_amount": 366880.43,
+  "beneficiary": "Susan Gregory MD",
+  "sample_id": "insurance_document_0669"
+}

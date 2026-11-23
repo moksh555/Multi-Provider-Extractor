@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WBK9J07U",
+  "patient_name": "Carrie Thomas",
+  "visit_date": "2024-06-15",
+  "doctor_name": "Dr. Kevin Saunders",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0528"
+}

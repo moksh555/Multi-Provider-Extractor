@@ -1,0 +1,16 @@
+Bank Statement STM-5CS9UI14
+Holder: Stacey Le MD
+Closing Balance: $10799.25
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5CS9UI14",
+  "account_holder": "Stacey Le MD",
+  "account_number_masked": "****8115",
+  "period_start": "2026-01-10",
+  "period_end": "2026-02-09",
+  "opening_balance": 4719.24,
+  "closing_balance": 10799.25,
+  "transactions": 14,
+  "sample_id": "bank_statement_0034"
+}

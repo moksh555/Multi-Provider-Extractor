@@ -1,0 +1,26 @@
+Resume
+Ian Austin
+Data Analyst
+Skills: NLP, LangChain, Deep Learning, Streamlit, TensorFlow, Docker, AWS, FastAPI, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Ian Austin",
+  "email": "ryan16@example.net",
+  "phone": "515-673-3768x4091",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "LangChain",
+    "Deep Learning",
+    "Streamlit",
+    "TensorFlow",
+    "Docker",
+    "AWS",
+    "FastAPI",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0893"
+}

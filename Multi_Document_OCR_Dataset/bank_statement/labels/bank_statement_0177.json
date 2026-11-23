@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UDI4SP7Q",
+  "account_holder": "Rachel Martinez",
+  "account_number_masked": "****3271",
+  "period_start": "2024-10-13",
+  "period_end": "2024-11-12",
+  "opening_balance": 1674.18,
+  "closing_balance": 6792.8,
+  "transactions": 12,
+  "sample_id": "bank_statement_0177"
+}

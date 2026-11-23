@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0187
+Company: UrbanBuild Construction
+Company Address: 63 Sheikh Zayed Road, Doha, Qatar
+Customer: Future School
+Billing Address: 246 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-29
+Due Date: 2026-04-28
+Currency: SAR
+Subtotal: 16024.1
+Tax: 785.18
+Total: 16488.8
+Balance Due: 6820.54
+Status: partial

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-VDI48M0K",
+  "patient_name": "Jerry Baker",
+  "visit_date": "2024-08-13",
+  "doctor_name": "Dr. Chelsea Schmitt",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0894"
+}

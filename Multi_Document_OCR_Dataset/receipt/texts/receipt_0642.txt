@@ -1,0 +1,55 @@
+Receipt RCT-JYDFZDTC
+Merchant: Wright, Nelson and Martinez
+Date: 2025-11-05
+Total: $481.70
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JYDFZDTC",
+  "merchant_name": "Wright, Nelson and Martinez",
+  "date": "2025-11-05",
+  "subtotal": 469.49,
+  "tax": 25.5,
+  "discount": 13.29,
+  "total": 481.7,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$59.26",
+      "line_total": "$59.26"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$5.93",
+      "line_total": "$5.93"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$60.09",
+      "line_total": "$120.18"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$43.97",
+      "line_total": "$87.94"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$1.30",
+      "line_total": "$1.30"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$64.96",
+      "line_total": "$194.88"
+    }
+  ],
+  "sample_id": "receipt_0642"
+}

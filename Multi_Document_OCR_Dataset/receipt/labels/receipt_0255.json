@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-X7B7P9JY",
+  "merchant_name": "Oliver-Vasquez",
+  "date": "2026-03-27",
+  "subtotal": 482.56,
+  "tax": 23.03,
+  "discount": 4.94,
+  "total": 500.65,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$70.82",
+      "line_total": "$70.82"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$22.96",
+      "line_total": "$22.96"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$25.98",
+      "line_total": "$103.92"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$27.44",
+      "line_total": "$54.88"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$78.27",
+      "line_total": "$156.54"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$73.44",
+      "line_total": "$73.44"
+    }
+  ],
+  "sample_id": "receipt_0255"
+}

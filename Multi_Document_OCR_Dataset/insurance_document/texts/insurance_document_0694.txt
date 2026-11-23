@@ -1,0 +1,16 @@
+Insurance Policy POL-FHZ52QZSK
+Holder: Lindsey Charles
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FHZ52QZSK",
+  "policy_holder": "Lindsey Charles",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-08-29",
+  "expiry_date": "2025-08-29",
+  "premium": 1805.65,
+  "coverage_amount": 280553.95,
+  "beneficiary": "April Duncan",
+  "sample_id": "insurance_document_0694"
+}

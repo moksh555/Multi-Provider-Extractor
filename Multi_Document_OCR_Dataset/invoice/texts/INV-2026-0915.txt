@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0915
+Company: Delta Insurance Services
+Company Address: 194 Agrabad C/A, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 138 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-06-10
+Due Date: 2026-07-10
+Currency: USD
+Subtotal: 24308.97
+Tax: 3646.35
+Total: 28005.32
+Balance Due: 0.0
+Status: paid

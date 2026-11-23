@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL771957711",
+  "full_name": "Eugene Patterson",
+  "date_of_birth": "1984-02-10",
+  "class": "A",
+  "issue_date": "2021-04-28",
+  "expiry_date": "2026-04-28",
+  "address": "64525 Ford Knolls, Tonyville, HI 85114",
+  "sample_id": "driving_license_0229"
+}

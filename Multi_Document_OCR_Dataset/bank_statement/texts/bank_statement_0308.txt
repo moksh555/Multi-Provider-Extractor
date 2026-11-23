@@ -1,0 +1,16 @@
+Bank Statement STM-Q2OAZFUU
+Holder: Michael Buckley
+Closing Balance: $5155.43
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Q2OAZFUU",
+  "account_holder": "Michael Buckley",
+  "account_number_masked": "****1497",
+  "period_start": "2024-04-23",
+  "period_end": "2024-05-23",
+  "opening_balance": 2445.46,
+  "closing_balance": 5155.43,
+  "transactions": 14,
+  "sample_id": "bank_statement_0308"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-4CKRN83O",
+  "patient_name": "Emily Wilson",
+  "visit_date": "2026-01-20",
+  "doctor_name": "Dr. Cory White",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0638"
+}

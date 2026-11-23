@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0523",
+  "invoice_number": "INV-2026-0523",
+  "company_name": "Delta Insurance Services",
+  "company_address": "51 Sheikh Zayed Road, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "86 Zindabazar Road, Dubai, UAE",
+  "invoice_date": "2026-06-25",
+  "due_date": "2026-08-09",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 385.8,
+      "amount": 385.8
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 5,
+      "unit_price": 122.6,
+      "amount": 613.0
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 759.37,
+      "amount": 8353.07
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 3,
+      "unit_price": 410.67,
+      "amount": 1232.01
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 181.9,
+      "amount": 2182.8
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 619.82,
+      "amount": 2479.28
+    }
+  ],
+  "subtotal": 15245.96,
+  "discount": 1524.6,
+  "tax_rate": 0.05,
+  "tax": 686.07,
+  "shipping": 10,
+  "total": 14417.43,
+  "amount_paid": 0,
+  "balance_due": 14417.43,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801416257864",
+  "po_number": "PO-60295"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Bridges
+Passport No: P33535844
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P33535844",
+  "full_name": "Michael Bridges",
+  "nationality": "GB",
+  "date_of_birth": "1968-01-27",
+  "issue_date": "2022-08-04",
+  "expiry_date": "2032-08-04",
+  "place_of_birth": "Carterfurt",
+  "sample_id": "passport_0872"
+}

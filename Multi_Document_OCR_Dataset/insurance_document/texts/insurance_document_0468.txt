@@ -1,0 +1,16 @@
+Insurance Policy POL-1BMQF7ZK9
+Holder: Brandon Ellis
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1BMQF7ZK9",
+  "policy_holder": "Brandon Ellis",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-11-27",
+  "expiry_date": "2024-11-27",
+  "premium": 686.21,
+  "coverage_amount": 30164.21,
+  "beneficiary": "Mario Wheeler",
+  "sample_id": "insurance_document_0468"
+}

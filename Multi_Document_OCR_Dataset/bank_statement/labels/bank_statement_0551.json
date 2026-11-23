@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B890ZM8J",
+  "account_holder": "Ann Brown",
+  "account_number_masked": "****3489",
+  "period_start": "2025-07-31",
+  "period_end": "2025-08-30",
+  "opening_balance": 661.01,
+  "closing_balance": 6737.61,
+  "transactions": 14,
+  "sample_id": "bank_statement_0551"
+}

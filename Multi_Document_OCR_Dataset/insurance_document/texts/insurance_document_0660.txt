@@ -1,0 +1,16 @@
+Insurance Policy POL-JXNECRYSA
+Holder: Mary Greer
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JXNECRYSA",
+  "policy_holder": "Mary Greer",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-18",
+  "expiry_date": "2027-03-18",
+  "premium": 1261.21,
+  "coverage_amount": 349925.67,
+  "beneficiary": "Olivia Reese",
+  "sample_id": "insurance_document_0660"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SSD1JIUO",
+  "account_holder": "Bernard Hicks",
+  "account_number_masked": "****3698",
+  "period_start": "2025-05-12",
+  "period_end": "2025-06-11",
+  "opening_balance": 730.17,
+  "closing_balance": 5229.97,
+  "transactions": 12,
+  "sample_id": "bank_statement_0332"
+}

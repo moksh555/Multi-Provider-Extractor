@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Marilyn Goodman
+Passport No: P80072364
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P80072364",
+  "full_name": "Marilyn Goodman",
+  "nationality": "GB",
+  "date_of_birth": "1966-12-19",
+  "issue_date": "2021-01-13",
+  "expiry_date": "2031-01-13",
+  "place_of_birth": "East Evan",
+  "sample_id": "passport_0223"
+}

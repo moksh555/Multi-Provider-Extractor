@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HS1EV2SO",
+  "account_holder": "James Armstrong",
+  "account_number_masked": "****7967",
+  "period_start": "2026-11-19",
+  "period_end": "2026-12-19",
+  "opening_balance": 4126.91,
+  "closing_balance": 5643.25,
+  "transactions": 10,
+  "sample_id": "bank_statement_0210"
+}

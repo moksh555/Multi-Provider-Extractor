@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joseph Smith
+License: DL178202693
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL178202693",
+  "full_name": "Joseph Smith",
+  "date_of_birth": "2000-10-05",
+  "class": "D",
+  "issue_date": "2026-02-03",
+  "expiry_date": "2031-02-03",
+  "address": "3269 Heath Corners Apt. 219, Bellchester, MD 18828",
+  "sample_id": "driving_license_0158"
+}

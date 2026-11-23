@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0076
+Company: Royal Diagnostics Center
+Company Address: 94 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 207 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-02-15
+Due Date: 2026-03-17
+Currency: USD
+Subtotal: 25547.37
+Tax: 1149.63
+Total: 24167.26
+Balance Due: 0.0
+Status: paid

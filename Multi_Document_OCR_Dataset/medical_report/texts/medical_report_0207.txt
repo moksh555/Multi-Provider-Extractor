@@ -1,0 +1,14 @@
+Medical Report MED-Q70AAII7
+Patient: Wyatt Roy
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Q70AAII7",
+  "patient_name": "Wyatt Roy",
+  "visit_date": "2025-10-01",
+  "doctor_name": "Dr. William Becker",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0207"
+}

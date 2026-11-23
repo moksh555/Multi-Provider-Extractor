@@ -1,0 +1,49 @@
+Receipt RCT-0DOF83GA
+Merchant: Morrow-Miller
+Date: 2022-06-15
+Total: $246.99
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0DOF83GA",
+  "merchant_name": "Morrow-Miller",
+  "date": "2022-06-15",
+  "subtotal": 235.56,
+  "tax": 21.87,
+  "discount": 10.44,
+  "total": 246.99,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$29.33",
+      "line_total": "$29.33"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$52.68",
+      "line_total": "$52.68"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$8.80",
+      "line_total": "$35.20"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$27.06",
+      "line_total": "$27.06"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$30.43",
+      "line_total": "$91.29"
+    }
+  ],
+  "sample_id": "receipt_0968"
+}

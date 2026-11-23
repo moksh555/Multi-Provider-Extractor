@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AQ665DLXZ",
+  "policy_holder": "Chloe Rodriguez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-09-11",
+  "expiry_date": "2024-09-11",
+  "premium": 337.04,
+  "coverage_amount": 356051.09,
+  "beneficiary": "Larry Bradford",
+  "sample_id": "insurance_document_0392"
+}

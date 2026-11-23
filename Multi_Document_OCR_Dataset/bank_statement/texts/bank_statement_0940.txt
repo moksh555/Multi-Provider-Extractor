@@ -1,0 +1,16 @@
+Bank Statement STM-DZ6477DF
+Holder: David Reynolds
+Closing Balance: $-1067.74
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DZ6477DF",
+  "account_holder": "David Reynolds",
+  "account_number_masked": "****3336",
+  "period_start": "2026-05-08",
+  "period_end": "2026-06-07",
+  "opening_balance": 1123.48,
+  "closing_balance": -1067.74,
+  "transactions": 10,
+  "sample_id": "bank_statement_0940"
+}

@@ -1,0 +1,27 @@
+Resume
+Ashley Conner
+Computer Vision Engineer
+Skills: Docker, Python, Streamlit, SQL, PyTorch, FastAPI, LangChain, Pandas, TensorFlow, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Ashley Conner",
+  "email": "robin48@example.com",
+  "phone": "596.326.2591",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Docker",
+    "Python",
+    "Streamlit",
+    "SQL",
+    "PyTorch",
+    "FastAPI",
+    "LangChain",
+    "Pandas",
+    "TensorFlow",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0279"
+}

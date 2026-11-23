@@ -1,0 +1,16 @@
+Insurance Policy POL-Y5APYX4L4
+Holder: Cody Parsons
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Y5APYX4L4",
+  "policy_holder": "Cody Parsons",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-07-15",
+  "expiry_date": "2025-07-15",
+  "premium": 409.69,
+  "coverage_amount": 263964.68,
+  "beneficiary": "David Tapia",
+  "sample_id": "insurance_document_0582"
+}

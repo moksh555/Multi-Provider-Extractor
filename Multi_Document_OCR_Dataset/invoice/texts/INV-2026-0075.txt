@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0075
+Company: BrightStar Electronics
+Company Address: 79 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Future School
+Billing Address: 82 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-01-08
+Due Date: 2026-02-07
+Currency: USD
+Subtotal: 17073.68
+Tax: 2509.83
+Total: 19267.04
+Balance Due: 19267.04
+Status: overdue

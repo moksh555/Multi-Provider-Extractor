@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0894",
+  "invoice_number": "INV-2026-0894",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "79 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "customer_name": "Future School",
+  "billing_address": "157 Mirpur DOHS, Sylhet, Bangladesh",
+  "invoice_date": "2026-06-19",
+  "due_date": "2026-08-03",
+  "currency": "AED",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 3,
+      "unit_price": 221.18,
+      "amount": 663.54
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 6,
+      "unit_price": 188.53,
+      "amount": 1131.18
+    },
+    {
+      "description": "API Integration",
+      "quantity": 10,
+      "unit_price": 452.84,
+      "amount": 4528.4
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 6,
+      "unit_price": 651.86,
+      "amount": 3911.16
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 311.23,
+      "amount": 622.46
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 399.29,
+      "amount": 399.29
+    }
+  ],
+  "subtotal": 11256.03,
+  "discount": 1125.6,
+  "tax_rate": 0.15,
+  "tax": 1519.56,
+  "shipping": 0,
+  "total": 11649.99,
+  "amount_paid": 0,
+  "balance_due": 11649.99,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801390584598",
+  "po_number": "PO-09852"
+}

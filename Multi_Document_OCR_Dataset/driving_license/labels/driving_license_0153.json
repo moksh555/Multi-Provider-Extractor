@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL597255833",
+  "full_name": "Jaime Jones",
+  "date_of_birth": "1973-02-20",
+  "class": "A",
+  "issue_date": "2023-04-04",
+  "expiry_date": "2028-04-04",
+  "address": "8457 Murphy Alley, Lake Teresastad, PR 08801",
+  "sample_id": "driving_license_0153"
+}

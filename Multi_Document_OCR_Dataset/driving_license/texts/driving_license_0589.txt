@@ -1,0 +1,16 @@
+Synthetic Driving License
+William Chase
+License: DL391076690
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL391076690",
+  "full_name": "William Chase",
+  "date_of_birth": "1986-07-13",
+  "class": "D",
+  "issue_date": "2024-09-13",
+  "expiry_date": "2029-09-13",
+  "address": "7039 Howard Summit, East Samanthafurt, SC 14647",
+  "sample_id": "driving_license_0589"
+}

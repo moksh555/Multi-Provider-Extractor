@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL641296681",
+  "full_name": "Heather Brown",
+  "date_of_birth": "1990-10-03",
+  "class": "D",
+  "issue_date": "2023-11-21",
+  "expiry_date": "2028-11-21",
+  "address": "80403 Michelle Ford Suite 657, Guzmanburgh, PW 64946",
+  "sample_id": "driving_license_0792"
+}

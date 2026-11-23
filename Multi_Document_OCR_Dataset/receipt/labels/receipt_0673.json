@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-F070VK32",
+  "merchant_name": "Adams, Carter and Butler",
+  "date": "2026-04-28",
+  "subtotal": 382.79,
+  "tax": 33.93,
+  "discount": 9.04,
+  "total": 407.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$17.45",
+      "line_total": "$17.45"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$51.68",
+      "line_total": "$206.72"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$8.46",
+      "line_total": "$25.38"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$33.31",
+      "line_total": "$133.24"
+    }
+  ],
+  "sample_id": "receipt_0673"
+}

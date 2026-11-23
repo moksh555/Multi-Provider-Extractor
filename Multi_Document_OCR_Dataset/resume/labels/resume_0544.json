@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Mary Patrick",
+  "email": "walterssuzanne@example.org",
+  "phone": "316-469-4602",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "Machine Learning",
+    "Docker",
+    "TensorFlow",
+    "Python",
+    "Deep Learning",
+    "AWS",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0544"
+}

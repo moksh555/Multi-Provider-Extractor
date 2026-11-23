@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0382
+Company: Nexus Digital Solutions
+Company Address: 92 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Karim Enterprise
+Billing Address: 207 Al Barsha, Doha, Qatar
+Invoice Date: 2026-01-21
+Due Date: 2026-01-28
+Currency: BDT
+Subtotal: 10463.02
+Tax: 0.0
+Total: 9964.87
+Balance Due: 9964.87
+Status: overdue

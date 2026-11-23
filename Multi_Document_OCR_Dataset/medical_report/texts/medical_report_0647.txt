@@ -1,0 +1,14 @@
+Medical Report MED-HMXQRVGS
+Patient: David Peters
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-HMXQRVGS",
+  "patient_name": "David Peters",
+  "visit_date": "2026-10-04",
+  "doctor_name": "Dr. Michael Smith",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0647"
+}

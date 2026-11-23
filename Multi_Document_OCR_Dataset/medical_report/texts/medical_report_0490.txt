@@ -1,0 +1,14 @@
+Medical Report MED-OKDOM3TC
+Patient: Raymond Crosby
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OKDOM3TC",
+  "patient_name": "Raymond Crosby",
+  "visit_date": "2026-04-20",
+  "doctor_name": "Dr. Charlene Blackwell",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0490"
+}

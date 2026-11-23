@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-F01ZLZWD",
+  "patient_name": "Robert Wright",
+  "visit_date": "2025-01-11",
+  "doctor_name": "Dr. Holly Myers",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0121"
+}

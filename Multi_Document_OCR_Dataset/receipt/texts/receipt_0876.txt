@@ -1,0 +1,49 @@
+Receipt RCT-BOO0F00M
+Merchant: Ruiz-Allen
+Date: 2026-11-22
+Total: $569.74
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BOO0F00M",
+  "merchant_name": "Ruiz-Allen",
+  "date": "2026-11-22",
+  "subtotal": 522.41,
+  "tax": 55.89,
+  "discount": 8.56,
+  "total": 569.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$20.43",
+      "line_total": "$61.29"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$69.33",
+      "line_total": "$138.66"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$34.96",
+      "line_total": "$139.84"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$69.07",
+      "line_total": "$69.07"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$37.85",
+      "line_total": "$113.55"
+    }
+  ],
+  "sample_id": "receipt_0876"
+}

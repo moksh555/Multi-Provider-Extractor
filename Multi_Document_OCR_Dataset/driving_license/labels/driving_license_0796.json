@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL127445231",
+  "full_name": "Tina Walter",
+  "date_of_birth": "1994-05-13",
+  "class": "B",
+  "issue_date": "2024-10-24",
+  "expiry_date": "2029-10-24",
+  "address": "40433 Patrick Run Apt. 968, Connerton, LA 48215",
+  "sample_id": "driving_license_0796"
+}

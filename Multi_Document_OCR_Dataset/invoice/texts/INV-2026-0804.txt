@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0804
+Company: Royal Diagnostics Center
+Company Address: 156 Sheikh Zayed Road, Dubai, UAE
+Customer: Global Mart
+Billing Address: 68 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-06-02
+Due Date: 2026-06-17
+Currency: USD
+Subtotal: 2025.69
+Tax: 0.0
+Total: 2050.69
+Balance Due: 1425.05
+Status: partial

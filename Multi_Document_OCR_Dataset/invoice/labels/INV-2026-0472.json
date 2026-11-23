@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0472",
+  "invoice_number": "INV-2026-0472",
+  "company_name": "Summit Agro Foods",
+  "company_address": "44 Dhanmondi 27, Dubai, UAE",
+  "customer_name": "Rahim Traders",
+  "billing_address": "147 Gulshan Avenue, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-22",
+  "due_date": "2026-03-01",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 379.3,
+      "amount": 3034.4
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 11,
+      "unit_price": 766.56,
+      "amount": 8432.16
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 6,
+      "unit_price": 793.43,
+      "amount": 4760.58
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 8,
+      "unit_price": 728.67,
+      "amount": 5829.36
+    }
+  ],
+  "subtotal": 22056.5,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 1102.83,
+  "shipping": 0,
+  "total": 23159.33,
+  "amount_paid": 23159.33,
+  "balance_due": 0.0,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801638271620",
+  "po_number": "PO-99752"
+}

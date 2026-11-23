@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8TNJXCML",
+  "merchant_name": "Morgan PLC",
+  "date": "2022-09-07",
+  "subtotal": 616.28,
+  "tax": 45.38,
+  "discount": 13.04,
+  "total": 648.62,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$29.81",
+      "line_total": "$59.62"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$46.70",
+      "line_total": "$93.40"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$13.58",
+      "line_total": "$40.74"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$8.45",
+      "line_total": "$16.90"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$45.21",
+      "line_total": "$135.63"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$43.61",
+      "line_total": "$130.83"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$34.79",
+      "line_total": "$139.16"
+    }
+  ],
+  "sample_id": "receipt_0822"
+}

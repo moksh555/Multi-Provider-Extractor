@@ -1,0 +1,14 @@
+Medical Report MED-0UUFXFEM
+Patient: Benjamin Mccarty
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0UUFXFEM",
+  "patient_name": "Benjamin Mccarty",
+  "visit_date": "2025-09-19",
+  "doctor_name": "Dr. Jacob Frazier",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0406"
+}

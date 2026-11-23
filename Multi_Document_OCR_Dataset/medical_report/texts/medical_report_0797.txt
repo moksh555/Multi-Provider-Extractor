@@ -1,0 +1,14 @@
+Medical Report MED-FMNW0XM5
+Patient: Ryan Stevens
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-FMNW0XM5",
+  "patient_name": "Ryan Stevens",
+  "visit_date": "2025-03-23",
+  "doctor_name": "Dr. Rachel Faulkner",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0797"
+}

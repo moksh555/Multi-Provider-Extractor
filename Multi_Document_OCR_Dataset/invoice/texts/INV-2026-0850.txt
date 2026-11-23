@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0850
+Company: Nova Medical Supplies
+Company Address: 17 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Bengal Motors
+Billing Address: 35 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-06-18
+Due Date: 2026-08-02
+Currency: QAR
+Subtotal: 29302.58
+Tax: 1977.92
+Total: 28355.24
+Balance Due: 28355.24
+Status: overdue

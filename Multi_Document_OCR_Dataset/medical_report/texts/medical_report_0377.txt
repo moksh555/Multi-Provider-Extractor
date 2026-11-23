@@ -1,0 +1,14 @@
+Medical Report MED-Z4AQQI8Q
+Patient: Scott Martin
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Z4AQQI8Q",
+  "patient_name": "Scott Martin",
+  "visit_date": "2024-03-10",
+  "doctor_name": "Dr. Kristin Berger",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0377"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-1YXWEU4H
+Holder: Jeffrey Wallace
+Closing Balance: $2776.49
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1YXWEU4H",
+  "account_holder": "Jeffrey Wallace",
+  "account_number_masked": "****3512",
+  "period_start": "2026-12-25",
+  "period_end": "2027-01-24",
+  "opening_balance": 2603.58,
+  "closing_balance": 2776.49,
+  "transactions": 8,
+  "sample_id": "bank_statement_0866"
+}

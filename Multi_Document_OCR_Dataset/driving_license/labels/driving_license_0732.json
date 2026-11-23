@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL098814096",
+  "full_name": "William Wright",
+  "date_of_birth": "1987-01-17",
+  "class": "B",
+  "issue_date": "2025-04-26",
+  "expiry_date": "2030-04-26",
+  "address": "7423 Yang Terrace, Kimberlyburgh, PR 66015",
+  "sample_id": "driving_license_0732"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GDIJ6VRU",
+  "patient_name": "Dwayne Mitchell",
+  "visit_date": "2024-11-01",
+  "doctor_name": "Dr. Cassandra Acevedo",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0375"
+}

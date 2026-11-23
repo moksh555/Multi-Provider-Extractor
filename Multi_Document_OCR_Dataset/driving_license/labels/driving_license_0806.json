@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL951315886",
+  "full_name": "Kyle Simmons",
+  "date_of_birth": "1970-12-23",
+  "class": "B",
+  "issue_date": "2025-11-07",
+  "expiry_date": "2030-11-07",
+  "address": "77306 Kelsey Cape, Ianmouth, VI 90027",
+  "sample_id": "driving_license_0806"
+}

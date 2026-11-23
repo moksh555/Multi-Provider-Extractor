@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ronald Koch
+Passport No: P38403890
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P38403890",
+  "full_name": "Ronald Koch",
+  "nationality": "US",
+  "date_of_birth": "1982-04-07",
+  "issue_date": "2023-10-17",
+  "expiry_date": "2033-10-17",
+  "place_of_birth": "Patrickfort",
+  "sample_id": "passport_0807"
+}

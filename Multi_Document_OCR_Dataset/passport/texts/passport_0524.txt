@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ashley Jones
+Passport No: P93895155
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P93895155",
+  "full_name": "Ashley Jones",
+  "nationality": "GB",
+  "date_of_birth": "1983-06-03",
+  "issue_date": "2020-12-11",
+  "expiry_date": "2030-12-11",
+  "place_of_birth": "Stephanieborough",
+  "sample_id": "passport_0524"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Eddie Wong",
+  "email": "rachel51@example.net",
+  "phone": "816.533.2533",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "Machine Learning",
+    "Docker",
+    "NLP",
+    "Python",
+    "Streamlit",
+    "TensorFlow",
+    "Pandas",
+    "SQL",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0860"
+}

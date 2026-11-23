@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-J6AVP1EO",
+  "account_holder": "Barbara Kelley",
+  "account_number_masked": "****0392",
+  "period_start": "2026-07-14",
+  "period_end": "2026-08-13",
+  "opening_balance": 1894.21,
+  "closing_balance": 7386.62,
+  "transactions": 13,
+  "sample_id": "bank_statement_0009"
+}

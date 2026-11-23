@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XL1BS0ZR",
+  "merchant_name": "Thompson LLC",
+  "date": "2021-10-06",
+  "subtotal": 165.05,
+  "tax": 13.05,
+  "discount": 7.87,
+  "total": 170.23,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$42.30",
+      "line_total": "$42.30"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$60.62",
+      "line_total": "$60.62"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$7.41",
+      "line_total": "$22.23"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$39.90",
+      "line_total": "$39.90"
+    }
+  ],
+  "sample_id": "receipt_0454"
+}

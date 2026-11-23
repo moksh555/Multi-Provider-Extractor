@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PMB6XGK6",
+  "merchant_name": "Fry and Sons",
+  "date": "2023-07-08",
+  "subtotal": 665.6,
+  "tax": 45.69,
+  "discount": 3.98,
+  "total": 707.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$9.45",
+      "line_total": "$28.35"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$15.36",
+      "line_total": "$61.44"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$56.46",
+      "line_total": "$225.84"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$31.31",
+      "line_total": "$125.24"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$74.91",
+      "line_total": "$224.73"
+    }
+  ],
+  "sample_id": "receipt_0565"
+}

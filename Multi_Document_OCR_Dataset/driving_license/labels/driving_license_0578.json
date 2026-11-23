@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL357998200",
+  "full_name": "Shannon Ramsey MD",
+  "date_of_birth": "1988-05-02",
+  "class": "A",
+  "issue_date": "2026-03-16",
+  "expiry_date": "2031-03-16",
+  "address": "004 Daniel Hollow Apt. 459, Nelsonburgh, DC 76975",
+  "sample_id": "driving_license_0578"
+}

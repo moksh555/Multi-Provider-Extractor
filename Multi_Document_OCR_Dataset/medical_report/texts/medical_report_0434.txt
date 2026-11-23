@@ -1,0 +1,14 @@
+Medical Report MED-GACQK4TH
+Patient: James Johnson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-GACQK4TH",
+  "patient_name": "James Johnson",
+  "visit_date": "2024-05-26",
+  "doctor_name": "Dr. Mr. David Arnold",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0434"
+}

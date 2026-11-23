@@ -1,0 +1,16 @@
+Bank Statement STM-W9X6REAV
+Holder: Crystal Baxter
+Closing Balance: $8359.21
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-W9X6REAV",
+  "account_holder": "Crystal Baxter",
+  "account_number_masked": "****0322",
+  "period_start": "2024-03-09",
+  "period_end": "2024-04-08",
+  "opening_balance": 4756.64,
+  "closing_balance": 8359.21,
+  "transactions": 10,
+  "sample_id": "bank_statement_0672"
+}

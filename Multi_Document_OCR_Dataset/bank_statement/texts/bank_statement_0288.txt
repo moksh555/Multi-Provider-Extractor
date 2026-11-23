@@ -1,0 +1,16 @@
+Bank Statement STM-GD5ML524
+Holder: Joshua York
+Closing Balance: $3327.91
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GD5ML524",
+  "account_holder": "Joshua York",
+  "account_number_masked": "****9157",
+  "period_start": "2025-03-21",
+  "period_end": "2025-04-20",
+  "opening_balance": 3006.87,
+  "closing_balance": 3327.91,
+  "transactions": 14,
+  "sample_id": "bank_statement_0288"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0642
+Company: Royal Diagnostics Center
+Company Address: 38 Zindabazar Road, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 219 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-04-17
+Due Date: 2026-05-17
+Currency: QAR
+Subtotal: 12746.88
+Tax: 1720.83
+Total: 13193.02
+Balance Due: 0.0
+Status: paid

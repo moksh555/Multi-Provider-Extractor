@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H4WLXA85",
+  "account_holder": "Anna Barker",
+  "account_number_masked": "****9884",
+  "period_start": "2026-06-23",
+  "period_end": "2026-07-23",
+  "opening_balance": 2891.57,
+  "closing_balance": 4204.29,
+  "transactions": 13,
+  "sample_id": "bank_statement_0995"
+}

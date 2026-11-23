@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WXM6QKT2",
+  "patient_name": "Samantha Smith",
+  "visit_date": "2026-10-30",
+  "doctor_name": "Dr. Dennis Garcia",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0436"
+}

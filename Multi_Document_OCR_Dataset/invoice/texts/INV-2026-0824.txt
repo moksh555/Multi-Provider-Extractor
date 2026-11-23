@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0824
+Company: Golden Harvest Store
+Company Address: 87 Agrabad C/A, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 180 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-05-28
+Due Date: 2026-06-27
+Currency: USD
+Subtotal: 13270.92
+Tax: 995.32
+Total: 14291.24
+Balance Due: 14291.24
+Status: overdue

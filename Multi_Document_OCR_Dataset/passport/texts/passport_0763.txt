@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: David Stephens
+Passport No: P81566861
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P81566861",
+  "full_name": "David Stephens",
+  "nationality": "AE",
+  "date_of_birth": "1975-05-05",
+  "issue_date": "2022-08-15",
+  "expiry_date": "2032-08-15",
+  "place_of_birth": "Austinville",
+  "sample_id": "passport_0763"
+}

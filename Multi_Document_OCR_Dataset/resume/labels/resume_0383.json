@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jesus Levine",
+  "email": "zacharyhenry@example.com",
+  "phone": "001-703-631-2223",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "Streamlit",
+    "Docker",
+    "Machine Learning",
+    "Pandas",
+    "Python",
+    "SQL",
+    "Computer Vision",
+    "NLP",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0383"
+}

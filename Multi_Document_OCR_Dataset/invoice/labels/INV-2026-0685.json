@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0685",
+  "invoice_number": "INV-2026-0685",
+  "company_name": "Metro Print House",
+  "company_address": "172 Al Barsha, Chattogram, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "216 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-16",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 638.17,
+      "amount": 4467.19
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 6,
+      "unit_price": 776.25,
+      "amount": 4657.5
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 5,
+      "unit_price": 845.41,
+      "amount": 4227.05
+    },
+    {
+      "description": "Web Development",
+      "quantity": 2,
+      "unit_price": 664.32,
+      "amount": 1328.64
+    }
+  ],
+  "subtotal": 14680.38,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 734.02,
+  "shipping": 5,
+  "total": 15419.4,
+  "amount_paid": 0,
+  "balance_due": 15419.4,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801250384885",
+  "po_number": "PO-93881"
+}

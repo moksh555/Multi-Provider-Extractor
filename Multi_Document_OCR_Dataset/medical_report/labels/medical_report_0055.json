@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LE768NU7",
+  "patient_name": "William Malone",
+  "visit_date": "2025-06-02",
+  "doctor_name": "Dr. Mr. Adam Russell",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0055"
+}

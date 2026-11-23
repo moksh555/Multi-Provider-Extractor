@@ -1,0 +1,24 @@
+Resume
+Marc Bell
+Software Engineer
+Skills: LangChain, Docker, FastAPI, Python, TensorFlow, Streamlit, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Marc Bell",
+  "email": "jacksonjeremy@example.com",
+  "phone": "001-323-881-6226x64849",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "LangChain",
+    "Docker",
+    "FastAPI",
+    "Python",
+    "TensorFlow",
+    "Streamlit",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0890"
+}

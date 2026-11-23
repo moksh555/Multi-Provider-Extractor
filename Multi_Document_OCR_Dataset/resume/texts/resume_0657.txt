@@ -1,0 +1,25 @@
+Resume
+Gabriel Bradley
+Backend Developer
+Skills: LangChain, TensorFlow, Python, SQL, Computer Vision, Deep Learning, Pandas, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Gabriel Bradley",
+  "email": "elizabethpatton@example.net",
+  "phone": "359-363-7813",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "LangChain",
+    "TensorFlow",
+    "Python",
+    "SQL",
+    "Computer Vision",
+    "Deep Learning",
+    "Pandas",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0657"
+}

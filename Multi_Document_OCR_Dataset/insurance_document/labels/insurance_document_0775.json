@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-U2MDA7FYS",
+  "policy_holder": "Fred Lopez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-07-01",
+  "expiry_date": "2027-07-01",
+  "premium": 1448.38,
+  "coverage_amount": 89677.34,
+  "beneficiary": "Brian Bartlett",
+  "sample_id": "insurance_document_0775"
+}

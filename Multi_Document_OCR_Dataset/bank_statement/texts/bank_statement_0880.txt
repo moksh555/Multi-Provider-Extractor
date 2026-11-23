@@ -1,0 +1,16 @@
+Bank Statement STM-RB1GH14U
+Holder: Monique Fernandez
+Closing Balance: $7664.55
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RB1GH14U",
+  "account_holder": "Monique Fernandez",
+  "account_number_masked": "****6497",
+  "period_start": "2025-03-21",
+  "period_end": "2025-04-20",
+  "opening_balance": 3830.71,
+  "closing_balance": 7664.55,
+  "transactions": 13,
+  "sample_id": "bank_statement_0880"
+}

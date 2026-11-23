@@ -1,0 +1,16 @@
+Bank Statement STM-SJX9A1PR
+Holder: Robert Hancock
+Closing Balance: $3498.98
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SJX9A1PR",
+  "account_holder": "Robert Hancock",
+  "account_number_masked": "****9137",
+  "period_start": "2024-12-29",
+  "period_end": "2025-01-28",
+  "opening_balance": 1117.1,
+  "closing_balance": 3498.98,
+  "transactions": 9,
+  "sample_id": "bank_statement_0907"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-NF225AA3",
+  "account_holder": "Holly Hoffman",
+  "account_number_masked": "****8810",
+  "period_start": "2024-05-24",
+  "period_end": "2024-06-23",
+  "opening_balance": 1203.1,
+  "closing_balance": 4342.08,
+  "transactions": 13,
+  "sample_id": "bank_statement_0020"
+}

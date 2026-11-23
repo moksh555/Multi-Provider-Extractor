@@ -1,0 +1,14 @@
+Medical Report MED-M3Z5A0KM
+Patient: Debbie Bean
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-M3Z5A0KM",
+  "patient_name": "Debbie Bean",
+  "visit_date": "2026-03-14",
+  "doctor_name": "Dr. Theresa Garcia",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0387"
+}

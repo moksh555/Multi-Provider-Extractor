@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL646936664",
+  "full_name": "Raven Taylor",
+  "date_of_birth": "1987-02-10",
+  "class": "A",
+  "issue_date": "2024-07-30",
+  "expiry_date": "2029-07-30",
+  "address": "277 Rebecca Brook Suite 328, Rodriguezport, IA 39973",
+  "sample_id": "driving_license_0084"
+}

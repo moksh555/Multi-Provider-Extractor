@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Donald Brown
+Passport No: P67796219
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P67796219",
+  "full_name": "Donald Brown",
+  "nationality": "AE",
+  "date_of_birth": "1985-03-26",
+  "issue_date": "2024-01-12",
+  "expiry_date": "2034-01-12",
+  "place_of_birth": "Christopherville",
+  "sample_id": "passport_0036"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-PD798UI9
+Holder: Pamela Mahoney
+Closing Balance: $7949.02
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PD798UI9",
+  "account_holder": "Pamela Mahoney",
+  "account_number_masked": "****1835",
+  "period_start": "2024-10-05",
+  "period_end": "2024-11-04",
+  "opening_balance": 2539.25,
+  "closing_balance": 7949.02,
+  "transactions": 14,
+  "sample_id": "bank_statement_0470"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0645",
+  "invoice_number": "INV-2026-0645",
+  "company_name": "Greenline Logistics",
+  "company_address": "152 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "60 Gulshan Avenue, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-10",
+  "due_date": "2026-04-25",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 9,
+      "unit_price": 564.96,
+      "amount": 5084.64
+    },
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 46.85,
+      "amount": 468.5
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 593.83,
+      "amount": 4156.81
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 750.58,
+      "amount": 4503.48
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 399.37,
+      "amount": 3594.33
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 12,
+      "unit_price": 35.04,
+      "amount": 420.48
+    }
+  ],
+  "subtotal": 18228.24,
+  "discount": 911.41,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 17366.83,
+  "amount_paid": 0,
+  "balance_due": 17366.83,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801611471670",
+  "po_number": "PO-40826"
+}

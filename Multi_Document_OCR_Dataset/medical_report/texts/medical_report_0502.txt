@@ -1,0 +1,14 @@
+Medical Report MED-0SKOXTPI
+Patient: Jessica Mcconnell
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0SKOXTPI",
+  "patient_name": "Jessica Mcconnell",
+  "visit_date": "2026-10-21",
+  "doctor_name": "Dr. Robert Knight",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0502"
+}

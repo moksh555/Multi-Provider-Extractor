@@ -1,0 +1,16 @@
+Synthetic Driving License
+Amanda Newman
+License: DL071419744
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL071419744",
+  "full_name": "Amanda Newman",
+  "date_of_birth": "1961-10-05",
+  "class": "B",
+  "issue_date": "2025-01-15",
+  "expiry_date": "2030-01-15",
+  "address": "4455 Miller Trail, Troyton, MO 39618",
+  "sample_id": "driving_license_0576"
+}

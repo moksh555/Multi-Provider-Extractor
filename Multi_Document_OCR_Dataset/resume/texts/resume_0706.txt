@@ -1,0 +1,25 @@
+Resume
+Sandra Molina
+Data Analyst
+Skills: Python, TensorFlow, Deep Learning, Docker, Computer Vision, Streamlit, PyTorch, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Sandra Molina",
+  "email": "misty25@example.net",
+  "phone": "001-967-703-2718x8758",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Deep Learning",
+    "Docker",
+    "Computer Vision",
+    "Streamlit",
+    "PyTorch",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0706"
+}

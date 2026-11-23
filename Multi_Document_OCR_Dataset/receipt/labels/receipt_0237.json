@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-D1FPE60Q",
+  "merchant_name": "Sutton, Todd and Taylor",
+  "date": "2026-06-10",
+  "subtotal": 845.78,
+  "tax": 80.53,
+  "discount": 14.03,
+  "total": 912.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$47.23",
+      "line_total": "$188.92"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$45.99",
+      "line_total": "$137.97"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$27.37",
+      "line_total": "$27.37"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$78.38",
+      "line_total": "$313.52"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$3.92",
+      "line_total": "$11.76"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$41.56",
+      "line_total": "$166.24"
+    }
+  ],
+  "sample_id": "receipt_0237"
+}

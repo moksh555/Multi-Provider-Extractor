@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0256
+Company: SkyNet Office Mart
+Company Address: 133 Doha Business Park, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 222 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-05-30
+Due Date: 2026-06-06
+Currency: BDT
+Subtotal: 12962.54
+Tax: 1847.16
+Total: 14161.57
+Balance Due: 14161.57
+Status: unpaid

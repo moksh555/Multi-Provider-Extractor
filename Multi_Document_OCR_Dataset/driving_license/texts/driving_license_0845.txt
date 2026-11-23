@@ -1,0 +1,16 @@
+Synthetic Driving License
+Elizabeth Valdez
+License: DL538884685
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL538884685",
+  "full_name": "Elizabeth Valdez",
+  "date_of_birth": "1971-05-30",
+  "class": "C",
+  "issue_date": "2025-10-19",
+  "expiry_date": "2030-10-19",
+  "address": "45337 Jacqueline Camp Apt. 091, North Whitney, DC 20073",
+  "sample_id": "driving_license_0845"
+}

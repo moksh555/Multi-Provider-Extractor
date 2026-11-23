@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Luis Mcdaniel",
+  "email": "anita31@example.org",
+  "phone": "5592308989",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "LangChain",
+    "Pandas",
+    "Machine Learning",
+    "Computer Vision",
+    "Python",
+    "FastAPI",
+    "SQL",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0988"
+}

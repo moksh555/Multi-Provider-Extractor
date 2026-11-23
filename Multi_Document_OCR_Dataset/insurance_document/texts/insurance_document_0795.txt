@@ -1,0 +1,16 @@
+Insurance Policy POL-YH36MOTCG
+Holder: Stephen Phillips
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YH36MOTCG",
+  "policy_holder": "Stephen Phillips",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-10-13",
+  "expiry_date": "2026-10-13",
+  "premium": 572.53,
+  "coverage_amount": 111662.64,
+  "beneficiary": "Ronald Moore",
+  "sample_id": "insurance_document_0795"
+}

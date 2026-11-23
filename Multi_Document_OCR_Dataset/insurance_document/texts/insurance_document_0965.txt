@@ -1,0 +1,16 @@
+Insurance Policy POL-U1TOZHDV5
+Holder: Amanda Hall
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-U1TOZHDV5",
+  "policy_holder": "Amanda Hall",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-06-23",
+  "expiry_date": "2025-06-23",
+  "premium": 466.92,
+  "coverage_amount": 176680.34,
+  "beneficiary": "Thomas Burke",
+  "sample_id": "insurance_document_0965"
+}

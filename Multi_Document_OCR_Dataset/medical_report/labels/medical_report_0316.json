@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-76QYVII1",
+  "patient_name": "John Skinner",
+  "visit_date": "2026-12-06",
+  "doctor_name": "Dr. James Davila",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0316"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-26ABCBAB",
+  "patient_name": "Angela Carrillo",
+  "visit_date": "2026-12-18",
+  "doctor_name": "Dr. Brenda Dunn",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0400"
+}

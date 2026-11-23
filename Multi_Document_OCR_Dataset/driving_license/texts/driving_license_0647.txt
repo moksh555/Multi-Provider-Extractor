@@ -1,0 +1,16 @@
+Synthetic Driving License
+Johnny Jenkins
+License: DL579533903
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL579533903",
+  "full_name": "Johnny Jenkins",
+  "date_of_birth": "2002-08-05",
+  "class": "C",
+  "issue_date": "2021-03-20",
+  "expiry_date": "2026-03-20",
+  "address": "59960 Vaughn Throughway, Gardnermouth, SD 31399",
+  "sample_id": "driving_license_0647"
+}

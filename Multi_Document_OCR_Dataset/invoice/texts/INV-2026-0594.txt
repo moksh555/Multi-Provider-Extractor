@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0594
+Company: Atlas Engineering Ltd.
+Company Address: 149 Motijheel C/A, Dhaka, Bangladesh
+Customer: Global Mart
+Billing Address: 21 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-01-26
+Due Date: 2026-02-02
+Currency: SAR
+Subtotal: 23735.78
+Tax: 1186.79
+Total: 24932.57
+Balance Due: 0.0
+Status: paid

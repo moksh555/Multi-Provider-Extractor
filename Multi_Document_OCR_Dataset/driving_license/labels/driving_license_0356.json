@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL288371094",
+  "full_name": "Elizabeth Kemp",
+  "date_of_birth": "1960-08-05",
+  "class": "A",
+  "issue_date": "2026-01-26",
+  "expiry_date": "2031-01-26",
+  "address": "Unit 9297 Box 5170, DPO AE 89368",
+  "sample_id": "driving_license_0356"
+}

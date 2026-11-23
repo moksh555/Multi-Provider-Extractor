@@ -1,0 +1,16 @@
+Synthetic Driving License
+Alexander David
+License: DL472471100
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL472471100",
+  "full_name": "Alexander David",
+  "date_of_birth": "2001-05-16",
+  "class": "B",
+  "issue_date": "2025-02-23",
+  "expiry_date": "2030-02-23",
+  "address": "27061 Mendez Neck, New Troy, AR 22305",
+  "sample_id": "driving_license_0957"
+}

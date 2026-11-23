@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SMPM675B",
+  "account_holder": "Jennifer Anderson",
+  "account_number_masked": "****2074",
+  "period_start": "2026-02-01",
+  "period_end": "2026-03-03",
+  "opening_balance": 1742.2,
+  "closing_balance": 3159.83,
+  "transactions": 8,
+  "sample_id": "bank_statement_0718"
+}

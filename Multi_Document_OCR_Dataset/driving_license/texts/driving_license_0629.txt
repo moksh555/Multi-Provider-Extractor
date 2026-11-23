@@ -1,0 +1,16 @@
+Synthetic Driving License
+Julie Garcia
+License: DL129736695
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL129736695",
+  "full_name": "Julie Garcia",
+  "date_of_birth": "1989-09-15",
+  "class": "C",
+  "issue_date": "2026-06-27",
+  "expiry_date": "2031-06-27",
+  "address": "21288 Strong Knoll Apt. 683, Davidmouth, OR 80292",
+  "sample_id": "driving_license_0629"
+}

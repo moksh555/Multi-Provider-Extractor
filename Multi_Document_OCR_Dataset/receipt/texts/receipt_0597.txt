@@ -1,0 +1,61 @@
+Receipt RCT-UX64BIW8
+Merchant: Rivera, Brown and Yang
+Date: 2025-08-23
+Total: $765.44
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UX64BIW8",
+  "merchant_name": "Rivera, Brown and Yang",
+  "date": "2025-08-23",
+  "subtotal": 708.74,
+  "tax": 68.27,
+  "discount": 11.57,
+  "total": 765.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$2.10",
+      "line_total": "$4.20"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$31.34",
+      "line_total": "$31.34"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$63.77",
+      "line_total": "$127.54"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$71.81",
+      "line_total": "$215.43"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$27.39",
+      "line_total": "$109.56"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$68.72",
+      "line_total": "$206.16"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$14.51",
+      "line_total": "$14.51"
+    }
+  ],
+  "sample_id": "receipt_0597"
+}

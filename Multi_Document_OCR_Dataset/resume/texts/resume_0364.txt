@@ -1,0 +1,27 @@
+Resume
+Adam Graham
+Computer Vision Engineer
+Skills: Docker, AWS, LangChain, Pandas, NLP, Deep Learning, Machine Learning, PyTorch, Computer Vision, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Adam Graham",
+  "email": "xlittle@example.org",
+  "phone": "(573)447-6714x9986",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Docker",
+    "AWS",
+    "LangChain",
+    "Pandas",
+    "NLP",
+    "Deep Learning",
+    "Machine Learning",
+    "PyTorch",
+    "Computer Vision",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0364"
+}

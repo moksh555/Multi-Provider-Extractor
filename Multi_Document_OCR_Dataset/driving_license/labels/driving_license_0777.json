@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL399773141",
+  "full_name": "Charles Christensen",
+  "date_of_birth": "1988-05-21",
+  "class": "D",
+  "issue_date": "2021-04-10",
+  "expiry_date": "2026-04-10",
+  "address": "56265 Ryan Viaduct, East Brittany, HI 28942",
+  "sample_id": "driving_license_0777"
+}

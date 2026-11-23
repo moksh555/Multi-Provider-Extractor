@@ -1,0 +1,67 @@
+Receipt RCT-YR8NKRZ2
+Merchant: Howell PLC
+Date: 2026-12-19
+Total: $1452.49
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YR8NKRZ2",
+  "merchant_name": "Howell PLC",
+  "date": "2026-12-19",
+  "subtotal": 1398.93,
+  "tax": 59.33,
+  "discount": 5.77,
+  "total": 1452.49,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$7.31",
+      "line_total": "$14.62"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$31.84",
+      "line_total": "$95.52"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$58.61",
+      "line_total": "$175.83"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$70.24",
+      "line_total": "$280.96"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$79.83",
+      "line_total": "$319.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$15.20",
+      "line_total": "$60.80"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$73.91",
+      "line_total": "$295.64"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$78.12",
+      "line_total": "$156.24"
+    }
+  ],
+  "sample_id": "receipt_0743"
+}

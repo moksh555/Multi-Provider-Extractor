@@ -1,0 +1,16 @@
+Insurance Policy POL-79OR7875A
+Holder: Brandi Ferrell
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-79OR7875A",
+  "policy_holder": "Brandi Ferrell",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-05-19",
+  "expiry_date": "2027-05-19",
+  "premium": 375.38,
+  "coverage_amount": 491667.01,
+  "beneficiary": "Paul Martin DVM",
+  "sample_id": "insurance_document_0146"
+}

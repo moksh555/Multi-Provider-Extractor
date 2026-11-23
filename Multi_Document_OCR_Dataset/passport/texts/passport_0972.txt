@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Dennis Diaz
+Passport No: P75429092
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P75429092",
+  "full_name": "Dennis Diaz",
+  "nationality": "US",
+  "date_of_birth": "1965-09-11",
+  "issue_date": "2026-08-30",
+  "expiry_date": "2036-08-30",
+  "place_of_birth": "Thompsonstad",
+  "sample_id": "passport_0972"
+}

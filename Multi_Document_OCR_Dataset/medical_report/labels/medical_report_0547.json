@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-25ECRILM",
+  "patient_name": "Maria Andrews",
+  "visit_date": "2025-08-24",
+  "doctor_name": "Dr. Jeffrey Harper DVM",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0547"
+}

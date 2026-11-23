@@ -1,0 +1,16 @@
+Insurance Policy POL-7W2SEHE2A
+Holder: Christopher Parks
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7W2SEHE2A",
+  "policy_holder": "Christopher Parks",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-03-18",
+  "expiry_date": "2027-03-18",
+  "premium": 998.01,
+  "coverage_amount": 403794.25,
+  "beneficiary": "Melissa Williams",
+  "sample_id": "insurance_document_0124"
+}

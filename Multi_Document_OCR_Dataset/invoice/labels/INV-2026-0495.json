@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0495",
+  "invoice_number": "INV-2026-0495",
+  "company_name": "CityBanking Supplies",
+  "company_address": "147 Gulshan Avenue, Dhaka, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "148 Agrabad C/A, Doha, Qatar",
+  "invoice_date": "2026-05-06",
+  "due_date": "2026-05-13",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 11,
+      "unit_price": 780.05,
+      "amount": 8580.55
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 11,
+      "unit_price": 720.27,
+      "amount": 7922.97
+    }
+  ],
+  "subtotal": 16503.52,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 2475.53,
+  "shipping": 0,
+  "total": 18979.05,
+  "amount_paid": 8970.4,
+  "balance_due": 10008.65,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801035442836",
+  "po_number": "PO-67507"
+}

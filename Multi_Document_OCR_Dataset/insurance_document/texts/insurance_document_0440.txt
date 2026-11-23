@@ -1,0 +1,16 @@
+Insurance Policy POL-Y2ET9MKB9
+Holder: Vickie Richardson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Y2ET9MKB9",
+  "policy_holder": "Vickie Richardson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-01-18",
+  "expiry_date": "2026-01-18",
+  "premium": 1392.41,
+  "coverage_amount": 480853.51,
+  "beneficiary": "Jeffrey Brown",
+  "sample_id": "insurance_document_0440"
+}

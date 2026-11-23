@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-APJC9RTO",
+  "patient_name": "Andrea Oliver",
+  "visit_date": "2026-10-20",
+  "doctor_name": "Dr. Edgar Martinez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0029"
+}

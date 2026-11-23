@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-K2YSI9ZF",
+  "account_holder": "Ashley Howard",
+  "account_number_masked": "****0061",
+  "period_start": "2024-02-04",
+  "period_end": "2024-03-05",
+  "opening_balance": 3486.03,
+  "closing_balance": 5451.21,
+  "transactions": 9,
+  "sample_id": "bank_statement_0702"
+}

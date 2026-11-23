@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Melissa Aguilar",
+  "email": "oliviaperry@example.net",
+  "phone": "456-994-9060",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "SQL",
+    "Docker",
+    "Machine Learning",
+    "FastAPI",
+    "NLP",
+    "Pandas",
+    "Streamlit",
+    "Deep Learning",
+    "LangChain",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0826"
+}

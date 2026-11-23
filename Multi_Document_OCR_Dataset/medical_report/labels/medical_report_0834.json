@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-HHGKD1WJ",
+  "patient_name": "Alexander Phillips",
+  "visit_date": "2025-07-07",
+  "doctor_name": "Dr. Dawn Nunez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0834"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0336
+Company: Royal Diagnostics Center
+Company Address: 121 Mirpur DOHS, Dubai, UAE
+Customer: Future School
+Billing Address: 249 Al Barsha, Dhaka, Bangladesh
+Invoice Date: 2026-04-01
+Due Date: 2026-04-08
+Currency: USD
+Subtotal: 8877.03
+Tax: 798.93
+Total: 8813.26
+Balance Due: 4719.51
+Status: partial

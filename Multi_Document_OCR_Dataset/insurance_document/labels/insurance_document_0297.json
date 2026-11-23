@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-H1T939AYQ",
+  "policy_holder": "Scott Gordon",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-06-26",
+  "expiry_date": "2027-06-26",
+  "premium": 700.31,
+  "coverage_amount": 29539.85,
+  "beneficiary": "Gail Wilson",
+  "sample_id": "insurance_document_0297"
+}

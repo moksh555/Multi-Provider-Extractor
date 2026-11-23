@@ -1,0 +1,14 @@
+Medical Report MED-E6VL133J
+Patient: Haley Willis
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-E6VL133J",
+  "patient_name": "Haley Willis",
+  "visit_date": "2024-03-16",
+  "doctor_name": "Dr. Amanda Zamora",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0511"
+}

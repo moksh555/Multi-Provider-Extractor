@@ -1,0 +1,37 @@
+Receipt RCT-JTJ27YH6
+Merchant: Williams Group
+Date: 2021-09-03
+Total: $470.78
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JTJ27YH6",
+  "merchant_name": "Williams Group",
+  "date": "2021-09-03",
+  "subtotal": 439.06,
+  "tax": 35.72,
+  "discount": 4.0,
+  "total": 470.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$78.17",
+      "line_total": "$234.51"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$34.95",
+      "line_total": "$104.85"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$49.85",
+      "line_total": "$99.70"
+    }
+  ],
+  "sample_id": "receipt_0473"
+}

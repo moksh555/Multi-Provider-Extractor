@@ -1,0 +1,16 @@
+Insurance Policy POL-OJUV0GYUB
+Holder: Tammy Hughes
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OJUV0GYUB",
+  "policy_holder": "Tammy Hughes",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-08-10",
+  "expiry_date": "2027-08-10",
+  "premium": 1717.8,
+  "coverage_amount": 395044.25,
+  "beneficiary": "Vanessa Edwards",
+  "sample_id": "insurance_document_0160"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-L9X3CV1S
+Holder: John Brock
+Closing Balance: $7064.27
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-L9X3CV1S",
+  "account_holder": "John Brock",
+  "account_number_masked": "****5002",
+  "period_start": "2026-03-28",
+  "period_end": "2026-04-27",
+  "opening_balance": 4250.97,
+  "closing_balance": 7064.27,
+  "transactions": 8,
+  "sample_id": "bank_statement_0276"
+}

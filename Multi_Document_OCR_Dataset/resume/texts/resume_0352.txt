@@ -1,0 +1,26 @@
+Resume
+Reginald Huber
+Backend Developer
+Skills: TensorFlow, Streamlit, Deep Learning, Machine Learning, NLP, AWS, Python, PyTorch, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Reginald Huber",
+  "email": "emarsh@example.com",
+  "phone": "+1-221-573-6838x50957",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Streamlit",
+    "Deep Learning",
+    "Machine Learning",
+    "NLP",
+    "AWS",
+    "Python",
+    "PyTorch",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0352"
+}

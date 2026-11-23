@@ -1,0 +1,16 @@
+Synthetic Driving License
+Melanie Williams
+License: DL344966199
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL344966199",
+  "full_name": "Melanie Williams",
+  "date_of_birth": "1994-05-18",
+  "class": "D",
+  "issue_date": "2024-09-10",
+  "expiry_date": "2029-09-10",
+  "address": "35137 Ashley Ridge Apt. 063, West Adambury, TN 43853",
+  "sample_id": "driving_license_0752"
+}

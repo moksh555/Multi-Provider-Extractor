@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GHR09SKD",
+  "merchant_name": "Pena, Marshall and Ramos",
+  "date": "2023-03-07",
+  "subtotal": 409.82,
+  "tax": 28.54,
+  "discount": 2.77,
+  "total": 435.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$15.18",
+      "line_total": "$45.54"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$22.67",
+      "line_total": "$45.34"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$56.10",
+      "line_total": "$168.30"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$9.10",
+      "line_total": "$36.40"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$38.08",
+      "line_total": "$114.24"
+    }
+  ],
+  "sample_id": "receipt_0025"
+}

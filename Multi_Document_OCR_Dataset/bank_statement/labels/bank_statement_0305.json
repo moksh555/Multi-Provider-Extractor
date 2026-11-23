@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EIFU43U4",
+  "account_holder": "Aaron Smith",
+  "account_number_masked": "****1557",
+  "period_start": "2026-09-03",
+  "period_end": "2026-10-03",
+  "opening_balance": 3134.71,
+  "closing_balance": 9143.47,
+  "transactions": 12,
+  "sample_id": "bank_statement_0305"
+}

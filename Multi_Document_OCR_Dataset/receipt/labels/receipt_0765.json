@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HRQSU95I",
+  "merchant_name": "Huerta, Cox and Alexander",
+  "date": "2021-08-20",
+  "subtotal": 567.37,
+  "tax": 46.69,
+  "discount": 10.55,
+  "total": 603.51,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$66.09",
+      "line_total": "$198.27"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$54.02",
+      "line_total": "$54.02"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$78.77",
+      "line_total": "$315.08"
+    }
+  ],
+  "sample_id": "receipt_0765"
+}

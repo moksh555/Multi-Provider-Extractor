@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL369466169",
+  "full_name": "Chad Carlson",
+  "date_of_birth": "1996-09-02",
+  "class": "C",
+  "issue_date": "2020-04-03",
+  "expiry_date": "2025-04-03",
+  "address": "355 Franco Circles, Port Sarahshire, PA 45752",
+  "sample_id": "driving_license_0955"
+}

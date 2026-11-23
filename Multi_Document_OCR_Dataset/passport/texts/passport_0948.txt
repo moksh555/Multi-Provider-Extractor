@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Carlos Zamora
+Passport No: P64584474
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P64584474",
+  "full_name": "Carlos Zamora",
+  "nationality": "AE",
+  "date_of_birth": "1999-09-17",
+  "issue_date": "2026-01-13",
+  "expiry_date": "2036-01-13",
+  "place_of_birth": "South Amyport",
+  "sample_id": "passport_0948"
+}

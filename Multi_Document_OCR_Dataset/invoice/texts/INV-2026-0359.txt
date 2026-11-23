@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0359
+Company: Royal Diagnostics Center
+Company Address: 111 Jumeirah Lake Towers, Doha, Qatar
+Customer: Sunrise Apparel
+Billing Address: 186 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-04-30
+Due Date: 2026-05-30
+Currency: QAR
+Subtotal: 20571.48
+Tax: 1388.57
+Total: 19902.9
+Balance Due: 19902.9
+Status: overdue

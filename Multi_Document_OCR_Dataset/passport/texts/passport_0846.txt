@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Joseph Wallace
+Passport No: P28611155
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P28611155",
+  "full_name": "Joseph Wallace",
+  "nationality": "CA",
+  "date_of_birth": "1993-07-06",
+  "issue_date": "2021-12-15",
+  "expiry_date": "2031-12-15",
+  "place_of_birth": "North James",
+  "sample_id": "passport_0846"
+}

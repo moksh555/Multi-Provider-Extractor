@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-629PK5RJ",
+  "patient_name": "Gloria Fisher",
+  "visit_date": "2025-06-17",
+  "doctor_name": "Dr. Sharon Frazier",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0340"
+}

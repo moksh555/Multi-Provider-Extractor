@@ -1,0 +1,16 @@
+Bank Statement STM-CH3O1HC1
+Holder: Mrs. Carol Morton DVM
+Closing Balance: $4935.72
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CH3O1HC1",
+  "account_holder": "Mrs. Carol Morton DVM",
+  "account_number_masked": "****6201",
+  "period_start": "2024-12-29",
+  "period_end": "2025-01-28",
+  "opening_balance": 857.97,
+  "closing_balance": 4935.72,
+  "transactions": 11,
+  "sample_id": "bank_statement_0454"
+}

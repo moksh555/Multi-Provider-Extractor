@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: George Kirk
+Passport No: P97281414
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P97281414",
+  "full_name": "George Kirk",
+  "nationality": "GB",
+  "date_of_birth": "1977-01-31",
+  "issue_date": "2025-09-21",
+  "expiry_date": "2035-09-21",
+  "place_of_birth": "New Thomaschester",
+  "sample_id": "passport_0992"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Farrell
+License: DL098998142
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL098998142",
+  "full_name": "Michael Farrell",
+  "date_of_birth": "1995-12-24",
+  "class": "B",
+  "issue_date": "2020-08-28",
+  "expiry_date": "2025-08-28",
+  "address": "16400 Wise Route Suite 278, Hoffmanville, CA 91074",
+  "sample_id": "driving_license_0018"
+}

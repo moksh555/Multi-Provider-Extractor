@@ -1,0 +1,23 @@
+Resume
+Charles Fisher
+Computer Vision Engineer
+Skills: SQL, AWS, Machine Learning, Streamlit, Pandas, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Charles Fisher",
+  "email": "karen50@example.net",
+  "phone": "455-673-1492x662",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "AWS",
+    "Machine Learning",
+    "Streamlit",
+    "Pandas",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0876"
+}

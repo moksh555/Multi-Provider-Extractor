@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL940759160",
+  "full_name": "Gregory Davis",
+  "date_of_birth": "1994-12-22",
+  "class": "B",
+  "issue_date": "2023-06-21",
+  "expiry_date": "2028-06-21",
+  "address": "552 William Cliff Apt. 908, Lake James, LA 23015",
+  "sample_id": "driving_license_0368"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PNMMMG12",
+  "account_holder": "Brendan Roberts",
+  "account_number_masked": "****2689",
+  "period_start": "2026-01-11",
+  "period_end": "2026-02-10",
+  "opening_balance": 603.0,
+  "closing_balance": 4710.94,
+  "transactions": 13,
+  "sample_id": "bank_statement_0982"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-C0B4MSKYV
+Holder: Kelly Fernandez
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-C0B4MSKYV",
+  "policy_holder": "Kelly Fernandez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-06-15",
+  "expiry_date": "2026-06-15",
+  "premium": 1027.76,
+  "coverage_amount": 412839.96,
+  "beneficiary": "Jorge Collins",
+  "sample_id": "insurance_document_0302"
+}

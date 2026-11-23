@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL242263467",
+  "full_name": "Cody Thompson",
+  "date_of_birth": "1991-10-26",
+  "class": "B",
+  "issue_date": "2026-06-20",
+  "expiry_date": "2031-06-20",
+  "address": "7746 Kathryn Ridge Apt. 601, East Juanville, CO 49326",
+  "sample_id": "driving_license_0990"
+}

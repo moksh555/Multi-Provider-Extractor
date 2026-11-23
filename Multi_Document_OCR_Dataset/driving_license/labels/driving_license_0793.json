@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL950521655",
+  "full_name": "Kyle Norton",
+  "date_of_birth": "1973-09-01",
+  "class": "C",
+  "issue_date": "2022-06-04",
+  "expiry_date": "2027-06-04",
+  "address": "91009 Mercedes Harbor, West Seanshire, GA 13245",
+  "sample_id": "driving_license_0793"
+}

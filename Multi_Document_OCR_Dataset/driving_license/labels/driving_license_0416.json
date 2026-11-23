@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL460518471",
+  "full_name": "Anthony Smith",
+  "date_of_birth": "1972-02-20",
+  "class": "D",
+  "issue_date": "2024-05-29",
+  "expiry_date": "2029-05-29",
+  "address": "228 Lindsay Junction Suite 193, New Jeffreyview, MA 47063",
+  "sample_id": "driving_license_0416"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL206058251",
+  "full_name": "Nathaniel Clark",
+  "date_of_birth": "1970-10-06",
+  "class": "B",
+  "issue_date": "2020-12-19",
+  "expiry_date": "2025-12-19",
+  "address": "751 Singleton Meadow Suite 377, West Donberg, ME 97206",
+  "sample_id": "driving_license_0462"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-PNIQFG51B
+Holder: Betty Hughes
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PNIQFG51B",
+  "policy_holder": "Betty Hughes",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-06-13",
+  "expiry_date": "2027-06-13",
+  "premium": 1943.21,
+  "coverage_amount": 443040.74,
+  "beneficiary": "Sonya Gordon",
+  "sample_id": "insurance_document_0157"
+}

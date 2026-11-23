@@ -1,0 +1,16 @@
+Synthetic Driving License
+Charlotte Sandoval
+License: DL451505729
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL451505729",
+  "full_name": "Charlotte Sandoval",
+  "date_of_birth": "1970-08-29",
+  "class": "A",
+  "issue_date": "2021-06-11",
+  "expiry_date": "2026-06-11",
+  "address": "9660 Jamie Terrace, New Cristianside, HI 48446",
+  "sample_id": "driving_license_0145"
+}

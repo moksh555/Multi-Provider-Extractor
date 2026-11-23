@@ -1,0 +1,37 @@
+Receipt RCT-T6ERQ5A8
+Merchant: Hernandez, Andrade and Turner
+Date: 2022-05-06
+Total: $284.55
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-T6ERQ5A8",
+  "merchant_name": "Hernandez, Andrade and Turner",
+  "date": "2022-05-06",
+  "subtotal": 278.11,
+  "tax": 13.49,
+  "discount": 7.05,
+  "total": 284.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$62.28",
+      "line_total": "$186.84"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$25.10",
+      "line_total": "$50.20"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$41.07",
+      "line_total": "$41.07"
+    }
+  ],
+  "sample_id": "receipt_0666"
+}

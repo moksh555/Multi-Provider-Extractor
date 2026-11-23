@@ -1,0 +1,16 @@
+Bank Statement STM-N3T268O2
+Holder: Jason Graham
+Closing Balance: $2632.51
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-N3T268O2",
+  "account_holder": "Jason Graham",
+  "account_number_masked": "****8741",
+  "period_start": "2024-11-03",
+  "period_end": "2024-12-03",
+  "opening_balance": 1714.5,
+  "closing_balance": 2632.51,
+  "transactions": 8,
+  "sample_id": "bank_statement_0952"
+}

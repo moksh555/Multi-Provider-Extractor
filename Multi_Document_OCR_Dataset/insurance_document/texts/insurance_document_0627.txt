@@ -1,0 +1,16 @@
+Insurance Policy POL-2B2O31I0M
+Holder: Laura Vaughn
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2B2O31I0M",
+  "policy_holder": "Laura Vaughn",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-01-09",
+  "expiry_date": "2027-01-09",
+  "premium": 248.7,
+  "coverage_amount": 459662.31,
+  "beneficiary": "Juan Evans",
+  "sample_id": "insurance_document_0627"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0447
+Company: Delta Insurance Services
+Company Address: 83 Gulshan Avenue, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 138 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-05-30
+Due Date: 2026-06-06
+Currency: BDT
+Subtotal: 1611.03
+Tax: 80.55
+Total: 1716.58
+Balance Due: 1716.58
+Status: unpaid

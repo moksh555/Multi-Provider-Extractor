@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GXJEXUJU",
+  "patient_name": "Paul Johnson",
+  "visit_date": "2024-11-01",
+  "doctor_name": "Dr. Lindsay Hernandez",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0230"
+}

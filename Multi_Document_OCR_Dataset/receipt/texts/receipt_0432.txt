@@ -1,0 +1,43 @@
+Receipt RCT-HY7AI339
+Merchant: Anderson, Taylor and Fields
+Date: 2025-05-17
+Total: $517.58
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HY7AI339",
+  "merchant_name": "Anderson, Taylor and Fields",
+  "date": "2025-05-17",
+  "subtotal": 487.96,
+  "tax": 43.33,
+  "discount": 13.71,
+  "total": 517.58,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$4.54",
+      "line_total": "$18.16"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$50.12",
+      "line_total": "$100.24"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$54.75",
+      "line_total": "$219.00"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$75.28",
+      "line_total": "$150.56"
+    }
+  ],
+  "sample_id": "receipt_0432"
+}

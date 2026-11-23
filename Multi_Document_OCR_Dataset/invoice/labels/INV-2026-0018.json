@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0018",
+  "invoice_number": "INV-2026-0018",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "73 Gulshan Avenue, Doha, Qatar",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "196 Motijheel C/A, Doha, Qatar",
+  "invoice_date": "2026-06-02",
+  "due_date": "2026-06-17",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 7,
+      "unit_price": 265.13,
+      "amount": 1855.91
+    },
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 521.31,
+      "amount": 521.31
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 4,
+      "unit_price": 534.68,
+      "amount": 2138.72
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 11,
+      "unit_price": 76.36,
+      "amount": 839.96
+    }
+  ],
+  "subtotal": 5355.9,
+  "discount": 267.8,
+  "tax_rate": 0.1,
+  "tax": 508.81,
+  "shipping": 0,
+  "total": 5596.91,
+  "amount_paid": 0,
+  "balance_due": 5596.91,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801514640228",
+  "po_number": "PO-02275"
+}

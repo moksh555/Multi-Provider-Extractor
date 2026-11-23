@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0038",
+  "invoice_number": "INV-2026-0038",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "127 Road 12, Banani, Sylhet, Bangladesh",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "52 Road 12, Banani, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-11",
+  "due_date": "2026-02-10",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 11,
+      "unit_price": 168.91,
+      "amount": 1858.01
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 1,
+      "unit_price": 737.0,
+      "amount": 737.0
+    },
+    {
+      "description": "Web Development",
+      "quantity": 5,
+      "unit_price": 112.81,
+      "amount": 564.05
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 756.95,
+      "amount": 5298.65
+    }
+  ],
+  "subtotal": 8457.71,
+  "discount": 422.89,
+  "tax_rate": 0.15,
+  "tax": 1205.22,
+  "shipping": 50,
+  "total": 9290.04,
+  "amount_paid": 0,
+  "balance_due": 9290.04,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801839449587",
+  "po_number": "PO-06853"
+}

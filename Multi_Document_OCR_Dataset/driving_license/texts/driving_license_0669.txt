@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sarah Brooks
+License: DL441146359
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL441146359",
+  "full_name": "Sarah Brooks",
+  "date_of_birth": "1978-01-25",
+  "class": "D",
+  "issue_date": "2023-01-18",
+  "expiry_date": "2028-01-18",
+  "address": "78637 Guerra Squares Apt. 162, Kathrynberg, MO 43376",
+  "sample_id": "driving_license_0669"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Judy Robinson
+License: DL404440226
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL404440226",
+  "full_name": "Judy Robinson",
+  "date_of_birth": "1977-07-17",
+  "class": "A",
+  "issue_date": "2025-02-18",
+  "expiry_date": "2030-02-18",
+  "address": "108 Hoffman Ranch Suite 417, West Vanessamouth, VI 36792",
+  "sample_id": "driving_license_0193"
+}

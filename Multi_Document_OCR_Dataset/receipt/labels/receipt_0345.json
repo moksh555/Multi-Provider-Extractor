@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2D50N97C",
+  "merchant_name": "Cook-Trujillo",
+  "date": "2023-10-23",
+  "subtotal": 166.04,
+  "tax": 10.62,
+  "discount": 14.83,
+  "total": 161.83,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$35.88",
+      "line_total": "$35.88"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$73.96",
+      "line_total": "$73.96"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$56.20",
+      "line_total": "$56.20"
+    }
+  ],
+  "sample_id": "receipt_0345"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ARPYYFGT",
+  "merchant_name": "Roth, Lee and Griffin",
+  "date": "2024-10-11",
+  "subtotal": 316.2,
+  "tax": 10.64,
+  "discount": 0.44,
+  "total": 326.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$62.40",
+      "line_total": "$124.80"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$20.01",
+      "line_total": "$40.02"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$50.46",
+      "line_total": "$151.38"
+    }
+  ],
+  "sample_id": "receipt_0525"
+}

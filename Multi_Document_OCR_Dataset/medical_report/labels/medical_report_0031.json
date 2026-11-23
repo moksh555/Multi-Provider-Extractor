@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9WNPUDR0",
+  "patient_name": "Whitney Clark",
+  "visit_date": "2024-01-13",
+  "doctor_name": "Dr. Jeffery Dominguez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0031"
+}

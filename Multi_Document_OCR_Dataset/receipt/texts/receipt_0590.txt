@@ -1,0 +1,55 @@
+Receipt RCT-9967ST8L
+Merchant: Donaldson, Sparks and Roberts
+Date: 2023-07-23
+Total: $873.50
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9967ST8L",
+  "merchant_name": "Donaldson, Sparks and Roberts",
+  "date": "2023-07-23",
+  "subtotal": 846.55,
+  "tax": 39.32,
+  "discount": 12.37,
+  "total": 873.5,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$73.29",
+      "line_total": "$293.16"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$27.39",
+      "line_total": "$82.17"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$74.23",
+      "line_total": "$296.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$29.45",
+      "line_total": "$117.80"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$7.32",
+      "line_total": "$21.96"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$17.27",
+      "line_total": "$34.54"
+    }
+  ],
+  "sample_id": "receipt_0590"
+}

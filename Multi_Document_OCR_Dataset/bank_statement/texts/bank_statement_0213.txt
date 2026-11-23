@@ -1,0 +1,16 @@
+Bank Statement STM-I6S7PK67
+Holder: Kevin Hughes
+Closing Balance: $3809.52
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I6S7PK67",
+  "account_holder": "Kevin Hughes",
+  "account_number_masked": "****5158",
+  "period_start": "2025-05-11",
+  "period_end": "2025-06-10",
+  "opening_balance": 3712.32,
+  "closing_balance": 3809.52,
+  "transactions": 8,
+  "sample_id": "bank_statement_0213"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0548",
+  "invoice_number": "INV-2026-0548",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "143 Zindabazar Road, Doha, Qatar",
+  "customer_name": "Rahim Traders",
+  "billing_address": "209 Agrabad C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-25",
+  "due_date": "2026-04-09",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 16.29,
+      "amount": 114.03
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 2,
+      "unit_price": 251.84,
+      "amount": 503.68
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 11,
+      "unit_price": 832.22,
+      "amount": 9154.42
+    }
+  ],
+  "subtotal": 9772.13,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 1465.82,
+  "shipping": 50,
+  "total": 11287.95,
+  "amount_paid": 0,
+  "balance_due": 11287.95,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801916707768",
+  "po_number": "PO-87521"
+}

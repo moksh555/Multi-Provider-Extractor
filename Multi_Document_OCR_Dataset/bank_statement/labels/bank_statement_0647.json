@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MK6YWGXQ",
+  "account_holder": "Kenneth Wheeler",
+  "account_number_masked": "****2796",
+  "period_start": "2024-08-19",
+  "period_end": "2024-09-18",
+  "opening_balance": 2085.87,
+  "closing_balance": 4075.84,
+  "transactions": 9,
+  "sample_id": "bank_statement_0647"
+}

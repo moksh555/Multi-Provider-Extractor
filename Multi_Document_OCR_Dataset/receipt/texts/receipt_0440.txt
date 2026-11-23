@@ -1,0 +1,49 @@
+Receipt RCT-YJ0UFO2H
+Merchant: Hawkins, Ramirez and Reynolds
+Date: 2025-08-12
+Total: $529.31
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YJ0UFO2H",
+  "merchant_name": "Hawkins, Ramirez and Reynolds",
+  "date": "2025-08-12",
+  "subtotal": 512.99,
+  "tax": 29.85,
+  "discount": 13.53,
+  "total": 529.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$69.57",
+      "line_total": "$139.14"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$25.98",
+      "line_total": "$103.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$63.17",
+      "line_total": "$63.17"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$1.68",
+      "line_total": "$1.68"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$68.36",
+      "line_total": "$205.08"
+    }
+  ],
+  "sample_id": "receipt_0440"
+}

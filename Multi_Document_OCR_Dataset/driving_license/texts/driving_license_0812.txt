@@ -1,0 +1,16 @@
+Synthetic Driving License
+Paul Williams
+License: DL430391112
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL430391112",
+  "full_name": "Paul Williams",
+  "date_of_birth": "2004-04-13",
+  "class": "D",
+  "issue_date": "2025-10-25",
+  "expiry_date": "2030-10-25",
+  "address": "35679 Kaitlyn Crossroad Suite 986, East Carol, LA 65661",
+  "sample_id": "driving_license_0812"
+}

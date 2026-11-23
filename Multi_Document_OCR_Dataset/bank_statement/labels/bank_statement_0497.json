@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FXV2YREL",
+  "account_holder": "Edward Moore",
+  "account_number_masked": "****8397",
+  "period_start": "2026-04-01",
+  "period_end": "2026-05-01",
+  "opening_balance": 509.1,
+  "closing_balance": 2697.43,
+  "transactions": 13,
+  "sample_id": "bank_statement_0497"
+}

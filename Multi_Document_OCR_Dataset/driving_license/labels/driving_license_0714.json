@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL943007910",
+  "full_name": "Christine Singh",
+  "date_of_birth": "1985-08-23",
+  "class": "D",
+  "issue_date": "2026-03-19",
+  "expiry_date": "2031-03-19",
+  "address": "62282 Michael Creek Apt. 073, Richardstad, PW 35258",
+  "sample_id": "driving_license_0714"
+}

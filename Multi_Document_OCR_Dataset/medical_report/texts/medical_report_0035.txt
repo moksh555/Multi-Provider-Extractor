@@ -1,0 +1,14 @@
+Medical Report MED-BWTDG67R
+Patient: Whitney Turner
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BWTDG67R",
+  "patient_name": "Whitney Turner",
+  "visit_date": "2026-12-11",
+  "doctor_name": "Dr. Sean Martin",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0035"
+}

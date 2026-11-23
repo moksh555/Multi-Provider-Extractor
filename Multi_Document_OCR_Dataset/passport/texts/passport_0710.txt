@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Leslie Bautista
+Passport No: P94301745
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P94301745",
+  "full_name": "Leslie Bautista",
+  "nationality": "US",
+  "date_of_birth": "1990-04-13",
+  "issue_date": "2021-09-12",
+  "expiry_date": "2031-09-12",
+  "place_of_birth": "Port Tammyland",
+  "sample_id": "passport_0710"
+}

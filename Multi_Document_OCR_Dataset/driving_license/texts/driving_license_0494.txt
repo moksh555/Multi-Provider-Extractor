@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tracy Kim
+License: DL798908408
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL798908408",
+  "full_name": "Tracy Kim",
+  "date_of_birth": "1985-11-14",
+  "class": "A",
+  "issue_date": "2020-11-11",
+  "expiry_date": "2025-11-11",
+  "address": "41115 Julie Crescent Suite 256, West Bryanside, ID 51376",
+  "sample_id": "driving_license_0494"
+}

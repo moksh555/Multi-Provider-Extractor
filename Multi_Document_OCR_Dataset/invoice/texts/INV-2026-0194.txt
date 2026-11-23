@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0194
+Company: Summit Agro Foods
+Company Address: 177 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 240 Agrabad C/A, Sylhet, Bangladesh
+Invoice Date: 2026-04-27
+Due Date: 2026-05-12
+Currency: AED
+Subtotal: 12363.62
+Tax: 556.36
+Total: 11688.62
+Balance Due: 4151.87
+Status: partial

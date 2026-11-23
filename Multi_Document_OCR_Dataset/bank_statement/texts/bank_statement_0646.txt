@@ -1,0 +1,16 @@
+Bank Statement STM-R72PVK3Y
+Holder: Tracy Mcguire
+Closing Balance: $3164.95
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-R72PVK3Y",
+  "account_holder": "Tracy Mcguire",
+  "account_number_masked": "****3474",
+  "period_start": "2026-08-21",
+  "period_end": "2026-09-20",
+  "opening_balance": 3684.62,
+  "closing_balance": 3164.95,
+  "transactions": 14,
+  "sample_id": "bank_statement_0646"
+}

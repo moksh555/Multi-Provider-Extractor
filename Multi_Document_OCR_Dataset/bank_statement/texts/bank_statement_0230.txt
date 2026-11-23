@@ -1,0 +1,16 @@
+Bank Statement STM-G877FXV7
+Holder: Donald Reynolds
+Closing Balance: $4748.56
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-G877FXV7",
+  "account_holder": "Donald Reynolds",
+  "account_number_masked": "****3087",
+  "period_start": "2024-01-16",
+  "period_end": "2024-02-15",
+  "opening_balance": 4061.96,
+  "closing_balance": 4748.56,
+  "transactions": 11,
+  "sample_id": "bank_statement_0230"
+}

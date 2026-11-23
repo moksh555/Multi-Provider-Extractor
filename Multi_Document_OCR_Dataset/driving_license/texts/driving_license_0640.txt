@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dean Brown
+License: DL444833126
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL444833126",
+  "full_name": "Dean Brown",
+  "date_of_birth": "1992-03-19",
+  "class": "C",
+  "issue_date": "2020-12-03",
+  "expiry_date": "2025-12-03",
+  "address": "0476 Ashley Expressway, Port Colleen, RI 80553",
+  "sample_id": "driving_license_0640"
+}

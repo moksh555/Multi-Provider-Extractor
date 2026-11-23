@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S68AUWQY",
+  "account_holder": "Tracy Dennis",
+  "account_number_masked": "****9016",
+  "period_start": "2025-07-28",
+  "period_end": "2025-08-27",
+  "opening_balance": 4632.47,
+  "closing_balance": 5856.93,
+  "transactions": 8,
+  "sample_id": "bank_statement_0819"
+}

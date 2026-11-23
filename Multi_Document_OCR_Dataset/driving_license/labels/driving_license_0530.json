@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL349639300",
+  "full_name": "William Garrett",
+  "date_of_birth": "1992-11-14",
+  "class": "A",
+  "issue_date": "2023-11-29",
+  "expiry_date": "2028-11-29",
+  "address": "42408 Jennifer Spurs Suite 498, Port Scott, MD 35732",
+  "sample_id": "driving_license_0530"
+}

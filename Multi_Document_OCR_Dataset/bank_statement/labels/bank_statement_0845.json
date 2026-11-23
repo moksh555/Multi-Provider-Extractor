@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6QWFT52M",
+  "account_holder": "Anthony Hurst",
+  "account_number_masked": "****9817",
+  "period_start": "2024-11-23",
+  "period_end": "2024-12-23",
+  "opening_balance": 1679.82,
+  "closing_balance": 1904.65,
+  "transactions": 9,
+  "sample_id": "bank_statement_0845"
+}

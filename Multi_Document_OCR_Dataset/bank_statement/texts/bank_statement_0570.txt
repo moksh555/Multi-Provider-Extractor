@@ -1,0 +1,16 @@
+Bank Statement STM-G84YNERV
+Holder: Brent Stewart
+Closing Balance: $2842.71
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-G84YNERV",
+  "account_holder": "Brent Stewart",
+  "account_number_masked": "****6472",
+  "period_start": "2025-05-31",
+  "period_end": "2025-06-30",
+  "opening_balance": 1608.13,
+  "closing_balance": 2842.71,
+  "transactions": 14,
+  "sample_id": "bank_statement_0570"
+}

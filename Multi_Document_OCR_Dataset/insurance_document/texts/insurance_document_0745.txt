@@ -1,0 +1,16 @@
+Insurance Policy POL-DK6DRN4OR
+Holder: Benjamin Jordan
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DK6DRN4OR",
+  "policy_holder": "Benjamin Jordan",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-04-27",
+  "expiry_date": "2026-04-27",
+  "premium": 295.11,
+  "coverage_amount": 480016.41,
+  "beneficiary": "Adrian Krueger",
+  "sample_id": "insurance_document_0745"
+}

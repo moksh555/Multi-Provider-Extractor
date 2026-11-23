@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0208",
+  "invoice_number": "INV-2026-0208",
+  "company_name": "CityBanking Supplies",
+  "company_address": "116 Al Barsha, Sylhet, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "188 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-03-17",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 2,
+      "unit_price": 387.46,
+      "amount": 774.92
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 3,
+      "unit_price": 177.19,
+      "amount": 531.57
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 4,
+      "unit_price": 226.37,
+      "amount": 905.48
+    }
+  ],
+  "subtotal": 2211.97,
+  "discount": 110.6,
+  "tax_rate": 0.05,
+  "tax": 105.07,
+  "shipping": 10,
+  "total": 2216.44,
+  "amount_paid": 0,
+  "balance_due": 2216.44,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801668123235",
+  "po_number": "PO-46107"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-UW45SEAD",
+  "patient_name": "Keith Harrison",
+  "visit_date": "2024-07-06",
+  "doctor_name": "Dr. Jessica Riley",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0157"
+}

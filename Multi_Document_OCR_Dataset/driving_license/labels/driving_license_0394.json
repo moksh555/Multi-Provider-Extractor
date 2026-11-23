@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL803977718",
+  "full_name": "Lindsay Hernandez",
+  "date_of_birth": "1968-07-21",
+  "class": "C",
+  "issue_date": "2026-09-04",
+  "expiry_date": "2031-09-04",
+  "address": "USNS Valentine, FPO AE 02351",
+  "sample_id": "driving_license_0394"
+}

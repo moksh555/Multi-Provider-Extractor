@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL939313119",
+  "full_name": "Ethan Villanueva",
+  "date_of_birth": "2003-09-16",
+  "class": "B",
+  "issue_date": "2023-07-23",
+  "expiry_date": "2028-07-23",
+  "address": "2846 Karen Crossroad Apt. 867, New Michaelburgh, NH 16277",
+  "sample_id": "driving_license_0251"
+}

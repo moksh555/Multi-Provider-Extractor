@@ -1,0 +1,14 @@
+Medical Report MED-G86WFYTJ
+Patient: Lori Cameron
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-G86WFYTJ",
+  "patient_name": "Lori Cameron",
+  "visit_date": "2026-05-25",
+  "doctor_name": "Dr. Sandra Collier",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0344"
+}

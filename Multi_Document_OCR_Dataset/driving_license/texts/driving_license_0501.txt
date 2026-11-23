@@ -1,0 +1,16 @@
+Synthetic Driving License
+Bradley Burns
+License: DL628979677
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL628979677",
+  "full_name": "Bradley Burns",
+  "date_of_birth": "1999-08-30",
+  "class": "A",
+  "issue_date": "2023-10-19",
+  "expiry_date": "2028-10-19",
+  "address": "99974 Laura Falls, Washingtonchester, ME 75398",
+  "sample_id": "driving_license_0501"
+}

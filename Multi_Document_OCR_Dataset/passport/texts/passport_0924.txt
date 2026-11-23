@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brittany Harris
+Passport No: P02632615
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P02632615",
+  "full_name": "Brittany Harris",
+  "nationality": "US",
+  "date_of_birth": "1986-08-21",
+  "issue_date": "2024-05-30",
+  "expiry_date": "2034-05-30",
+  "place_of_birth": "Lake Priscillaburgh",
+  "sample_id": "passport_0924"
+}

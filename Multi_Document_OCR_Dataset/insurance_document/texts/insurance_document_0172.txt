@@ -1,0 +1,16 @@
+Insurance Policy POL-RWZC4XL99
+Holder: Bailey Hall
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RWZC4XL99",
+  "policy_holder": "Bailey Hall",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-03-29",
+  "expiry_date": "2024-03-29",
+  "premium": 666.84,
+  "coverage_amount": 451623.75,
+  "beneficiary": "Michelle Olson",
+  "sample_id": "insurance_document_0172"
+}

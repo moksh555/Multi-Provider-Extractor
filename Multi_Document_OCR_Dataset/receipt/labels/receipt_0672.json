@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OERUT9C4",
+  "merchant_name": "Gonzalez-Hess",
+  "date": "2026-02-06",
+  "subtotal": 327.63,
+  "tax": 16.16,
+  "discount": 8.82,
+  "total": 334.97,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$33.16",
+      "line_total": "$66.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$61.01",
+      "line_total": "$122.02"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$15.51",
+      "line_total": "$31.02"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$52.19",
+      "line_total": "$52.19"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$28.04",
+      "line_total": "$56.08"
+    }
+  ],
+  "sample_id": "receipt_0672"
+}

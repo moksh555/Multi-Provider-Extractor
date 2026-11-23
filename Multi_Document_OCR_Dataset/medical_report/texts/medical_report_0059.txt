@@ -1,0 +1,14 @@
+Medical Report MED-3C9CNAVI
+Patient: Kristen Chavez
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-3C9CNAVI",
+  "patient_name": "Kristen Chavez",
+  "visit_date": "2026-07-10",
+  "doctor_name": "Dr. Crystal Wu",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0059"
+}

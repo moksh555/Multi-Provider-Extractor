@@ -1,0 +1,16 @@
+Bank Statement STM-SJH3HIPC
+Holder: Antonio Martin
+Closing Balance: $5077.39
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SJH3HIPC",
+  "account_holder": "Antonio Martin",
+  "account_number_masked": "****9530",
+  "period_start": "2026-12-05",
+  "period_end": "2027-01-04",
+  "opening_balance": 2744.48,
+  "closing_balance": 5077.39,
+  "transactions": 12,
+  "sample_id": "bank_statement_0628"
+}

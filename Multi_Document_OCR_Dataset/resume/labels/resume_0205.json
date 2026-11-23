@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Melissa Smith",
+  "email": "sethsanders@example.com",
+  "phone": "322-489-8907x49935",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "Machine Learning",
+    "Python",
+    "Deep Learning",
+    "Streamlit",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0205"
+}

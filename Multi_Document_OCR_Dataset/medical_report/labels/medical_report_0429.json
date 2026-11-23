@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-BUQILUVG",
+  "patient_name": "Bridget Mendez",
+  "visit_date": "2025-10-11",
+  "doctor_name": "Dr. Michelle Wood",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0429"
+}

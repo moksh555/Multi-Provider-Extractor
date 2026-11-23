@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Dylan Meyer",
+  "email": "jgreene@example.com",
+  "phone": "001-298-294-8481x70361",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "Docker",
+    "LangChain",
+    "PyTorch",
+    "Python",
+    "Machine Learning",
+    "Computer Vision",
+    "TensorFlow",
+    "SQL",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0299"
+}

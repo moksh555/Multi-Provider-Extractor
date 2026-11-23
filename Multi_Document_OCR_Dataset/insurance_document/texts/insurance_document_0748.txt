@@ -1,0 +1,16 @@
+Insurance Policy POL-F5EHLH07J
+Holder: Christie Torres
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F5EHLH07J",
+  "policy_holder": "Christie Torres",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-02-13",
+  "expiry_date": "2025-02-13",
+  "premium": 2388.69,
+  "coverage_amount": 180791.16,
+  "beneficiary": "Robert Reyes",
+  "sample_id": "insurance_document_0748"
+}

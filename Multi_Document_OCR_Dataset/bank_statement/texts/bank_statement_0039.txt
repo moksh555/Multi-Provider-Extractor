@@ -1,0 +1,16 @@
+Bank Statement STM-K6ILSIDB
+Holder: Julie Thompson
+Closing Balance: $3400.11
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-K6ILSIDB",
+  "account_holder": "Julie Thompson",
+  "account_number_masked": "****9428",
+  "period_start": "2024-12-26",
+  "period_end": "2025-01-25",
+  "opening_balance": 1797.09,
+  "closing_balance": 3400.11,
+  "transactions": 11,
+  "sample_id": "bank_statement_0039"
+}

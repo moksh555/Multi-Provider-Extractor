@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL311465490",
+  "full_name": "Thomas Cole",
+  "date_of_birth": "1968-12-19",
+  "class": "D",
+  "issue_date": "2026-11-13",
+  "expiry_date": "2031-11-13",
+  "address": "903 Christina Crossing, Joelchester, WV 32423",
+  "sample_id": "driving_license_0475"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Frederick King
+License: DL555129739
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL555129739",
+  "full_name": "Frederick King",
+  "date_of_birth": "1997-03-29",
+  "class": "B",
+  "issue_date": "2022-02-21",
+  "expiry_date": "2027-02-21",
+  "address": "06445 Pearson Junction Apt. 311, East Eric, VT 59149",
+  "sample_id": "driving_license_0994"
+}

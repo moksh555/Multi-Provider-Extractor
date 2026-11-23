@@ -1,0 +1,55 @@
+Receipt RCT-1YEND6BW
+Merchant: Miranda LLC
+Date: 2021-05-11
+Total: $593.14
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1YEND6BW",
+  "merchant_name": "Miranda LLC",
+  "date": "2021-05-11",
+  "subtotal": 581.73,
+  "tax": 22.88,
+  "discount": 11.47,
+  "total": 593.14,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$53.28",
+      "line_total": "$159.84"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$16.64",
+      "line_total": "$33.28"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$24.20",
+      "line_total": "$24.20"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$31.04",
+      "line_total": "$124.16"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$53.17",
+      "line_total": "$53.17"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$62.36",
+      "line_total": "$187.08"
+    }
+  ],
+  "sample_id": "receipt_0551"
+}

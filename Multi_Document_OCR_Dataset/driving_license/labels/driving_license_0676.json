@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL514823963",
+  "full_name": "Jimmy Williamson",
+  "date_of_birth": "1987-08-18",
+  "class": "A",
+  "issue_date": "2024-08-12",
+  "expiry_date": "2029-08-12",
+  "address": "PSC 8970, Box 1550, APO AE 80370",
+  "sample_id": "driving_license_0676"
+}

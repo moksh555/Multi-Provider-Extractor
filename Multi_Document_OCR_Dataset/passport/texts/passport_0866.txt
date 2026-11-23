@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Thomas Garcia
+Passport No: P10353184
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10353184",
+  "full_name": "Thomas Garcia",
+  "nationality": "GB",
+  "date_of_birth": "1988-08-18",
+  "issue_date": "2023-08-10",
+  "expiry_date": "2033-08-10",
+  "place_of_birth": "North Sarah",
+  "sample_id": "passport_0866"
+}

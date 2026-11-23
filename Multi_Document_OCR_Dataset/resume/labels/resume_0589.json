@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Zachary Brown",
+  "email": "bnguyen@example.org",
+  "phone": "(649)323-5777",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "SQL",
+    "Computer Vision",
+    "Streamlit",
+    "Machine Learning",
+    "TensorFlow",
+    "LangChain",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0589"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Victor Perez",
+  "email": "jackiemartinez@example.com",
+  "phone": "(870)825-4616x8444",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Docker",
+    "AWS",
+    "FastAPI",
+    "TensorFlow",
+    "Computer Vision",
+    "LangChain",
+    "Python",
+    "Streamlit",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0608"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-LKH0XZPW",
+  "account_holder": "Zachary Yu",
+  "account_number_masked": "****1784",
+  "period_start": "2026-02-17",
+  "period_end": "2026-03-19",
+  "opening_balance": 2229.52,
+  "closing_balance": 6149.01,
+  "transactions": 9,
+  "sample_id": "bank_statement_0732"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mary Jackson
+Passport No: P87134028
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P87134028",
+  "full_name": "Mary Jackson",
+  "nationality": "GB",
+  "date_of_birth": "2000-08-24",
+  "issue_date": "2021-10-02",
+  "expiry_date": "2031-10-02",
+  "place_of_birth": "Port Nicoleshire",
+  "sample_id": "passport_0541"
+}

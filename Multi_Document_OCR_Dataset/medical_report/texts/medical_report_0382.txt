@@ -1,0 +1,14 @@
+Medical Report MED-7KIGFVM3
+Patient: Denise Pierce
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7KIGFVM3",
+  "patient_name": "Denise Pierce",
+  "visit_date": "2025-08-23",
+  "doctor_name": "Dr. Christy Hill",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0382"
+}

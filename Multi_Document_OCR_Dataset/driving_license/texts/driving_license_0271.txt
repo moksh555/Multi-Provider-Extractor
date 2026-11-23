@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kristen Jones
+License: DL249728561
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL249728561",
+  "full_name": "Kristen Jones",
+  "date_of_birth": "1962-09-28",
+  "class": "C",
+  "issue_date": "2022-09-17",
+  "expiry_date": "2027-09-17",
+  "address": "8570 Gross Brook Suite 935, Lake Tammyfurt, ID 69191",
+  "sample_id": "driving_license_0271"
+}

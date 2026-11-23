@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0308
+Company: Royal Diagnostics Center
+Company Address: 198 Mirpur DOHS, Dubai, UAE
+Customer: Rahim Traders
+Billing Address: 12 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-06-03
+Due Date: 2026-06-18
+Currency: BDT
+Subtotal: 12482.29
+Tax: 0.0
+Total: 12257.64
+Balance Due: 0.0
+Status: paid

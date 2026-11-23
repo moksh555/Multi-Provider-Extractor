@@ -1,0 +1,16 @@
+Insurance Policy POL-F0R8U7WPG
+Holder: David Romero
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F0R8U7WPG",
+  "policy_holder": "David Romero",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-04-15",
+  "expiry_date": "2025-04-15",
+  "premium": 555.88,
+  "coverage_amount": 240421.29,
+  "beneficiary": "Russell Bird",
+  "sample_id": "insurance_document_0526"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-L3BVEANN",
+  "patient_name": "Cynthia Pineda DVM",
+  "visit_date": "2024-02-25",
+  "doctor_name": "Dr. Sheena Clarke",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0951"
+}

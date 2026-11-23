@@ -1,0 +1,23 @@
+Resume
+Nicole Morris
+Data Analyst
+Skills: PyTorch, FastAPI, Docker, Machine Learning, Streamlit, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Nicole Morris",
+  "email": "joeljohnson@example.org",
+  "phone": "202.775.0769x7693",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "PyTorch",
+    "FastAPI",
+    "Docker",
+    "Machine Learning",
+    "Streamlit",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0881"
+}

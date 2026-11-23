@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S8LXSOL1",
+  "account_holder": "Patricia Tucker",
+  "account_number_masked": "****4334",
+  "period_start": "2026-10-07",
+  "period_end": "2026-11-06",
+  "opening_balance": 2084.29,
+  "closing_balance": 3675.39,
+  "transactions": 9,
+  "sample_id": "bank_statement_0207"
+}

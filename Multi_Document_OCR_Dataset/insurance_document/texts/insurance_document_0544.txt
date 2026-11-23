@@ -1,0 +1,16 @@
+Insurance Policy POL-QPSVY74ZQ
+Holder: Brian Moore
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QPSVY74ZQ",
+  "policy_holder": "Brian Moore",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-12-27",
+  "expiry_date": "2027-12-27",
+  "premium": 1049.08,
+  "coverage_amount": 214261.93,
+  "beneficiary": "Andrea Herrera",
+  "sample_id": "insurance_document_0544"
+}

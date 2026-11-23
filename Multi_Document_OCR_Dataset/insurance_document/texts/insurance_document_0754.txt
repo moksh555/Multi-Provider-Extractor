@@ -1,0 +1,16 @@
+Insurance Policy POL-1LLH2R9PE
+Holder: Cory Charles
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1LLH2R9PE",
+  "policy_holder": "Cory Charles",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-05-16",
+  "expiry_date": "2027-05-16",
+  "premium": 897.96,
+  "coverage_amount": 197600.18,
+  "beneficiary": "Michael Downs",
+  "sample_id": "insurance_document_0754"
+}

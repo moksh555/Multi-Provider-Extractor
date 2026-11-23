@@ -1,0 +1,16 @@
+Insurance Policy POL-Y7FHWJWXZ
+Holder: Tommy Mcclure
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Y7FHWJWXZ",
+  "policy_holder": "Tommy Mcclure",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-09-08",
+  "expiry_date": "2027-09-08",
+  "premium": 1661.7,
+  "coverage_amount": 260599.45,
+  "beneficiary": "Pamela Jenkins",
+  "sample_id": "insurance_document_0667"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZMYOA2VCY",
+  "policy_holder": "Lance Robinson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-10-24",
+  "expiry_date": "2024-10-24",
+  "premium": 890.48,
+  "coverage_amount": 493320.29,
+  "beneficiary": "Kristen Smith",
+  "sample_id": "insurance_document_0731"
+}

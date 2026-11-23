@@ -1,0 +1,16 @@
+Bank Statement STM-C3JR7T3S
+Holder: Ryan Thomas
+Closing Balance: $2951.28
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-C3JR7T3S",
+  "account_holder": "Ryan Thomas",
+  "account_number_masked": "****1353",
+  "period_start": "2026-05-11",
+  "period_end": "2026-06-10",
+  "opening_balance": 1396.36,
+  "closing_balance": 2951.28,
+  "transactions": 8,
+  "sample_id": "bank_statement_0036"
+}

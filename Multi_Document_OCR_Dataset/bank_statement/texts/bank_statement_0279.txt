@@ -1,0 +1,16 @@
+Bank Statement STM-RVMWW3SZ
+Holder: Caitlin Rich
+Closing Balance: $6422.15
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RVMWW3SZ",
+  "account_holder": "Caitlin Rich",
+  "account_number_masked": "****5566",
+  "period_start": "2024-06-04",
+  "period_end": "2024-07-04",
+  "opening_balance": 4625.03,
+  "closing_balance": 6422.15,
+  "transactions": 12,
+  "sample_id": "bank_statement_0279"
+}

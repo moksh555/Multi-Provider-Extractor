@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0787
+Company: BlueRiver Trading Co.
+Company Address: 110 Zindabazar Road, Dubai, UAE
+Customer: Karim Enterprise
+Billing Address: 36 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-13
+Due Date: 2026-04-20
+Currency: SAR
+Subtotal: 3103.05
+Tax: 279.27
+Total: 3122.01
+Balance Due: 1498.34
+Status: partial

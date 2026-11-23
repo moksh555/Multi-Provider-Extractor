@@ -1,0 +1,23 @@
+Resume
+Leslie Anderson
+Backend Developer
+Skills: Python, SQL, LangChain, Computer Vision, AWS, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Leslie Anderson",
+  "email": "reedjulie@example.net",
+  "phone": "+1-831-724-4129x0759",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "Python",
+    "SQL",
+    "LangChain",
+    "Computer Vision",
+    "AWS",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0106"
+}

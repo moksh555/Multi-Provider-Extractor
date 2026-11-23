@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0824",
+  "invoice_number": "INV-2026-0824",
+  "company_name": "Golden Harvest Store",
+  "company_address": "87 Agrabad C/A, Dubai, UAE",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "180 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-28",
+  "due_date": "2026-06-27",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 1,
+      "unit_price": 546.7,
+      "amount": 546.7
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 2,
+      "unit_price": 670.06,
+      "amount": 1340.12
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 12,
+      "unit_price": 234.96,
+      "amount": 2819.52
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 697.53,
+      "amount": 1395.06
+    },
+    {
+      "description": "Web Development",
+      "quantity": 12,
+      "unit_price": 597.46,
+      "amount": 7169.52
+    }
+  ],
+  "subtotal": 13270.92,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 995.32,
+  "shipping": 25,
+  "total": 14291.24,
+  "amount_paid": 0,
+  "balance_due": 14291.24,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801568896544",
+  "po_number": "PO-85313"
+}

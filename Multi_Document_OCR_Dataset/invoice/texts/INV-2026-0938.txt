@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0938
+Company: Eastern Care Pharmacy
+Company Address: 113 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: MediLife Hospital
+Billing Address: 136 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-06-28
+Due Date: 2026-07-28
+Currency: QAR
+Subtotal: 5947.05
+Tax: 446.03
+Total: 6393.08
+Balance Due: 3403.65
+Status: partial

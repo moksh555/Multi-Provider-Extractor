@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0160
+Company: CityBanking Supplies
+Company Address: 137 Zindabazar Road, Riyadh, Saudi Arabia
+Customer: Trust Finance Office
+Billing Address: 197 Sheikh Zayed Road, Doha, Qatar
+Invoice Date: 2026-03-11
+Due Date: 2026-04-25
+Currency: AED
+Subtotal: 3447.74
+Tax: 491.3
+Total: 3766.65
+Balance Due: 3766.65
+Status: overdue

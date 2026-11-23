@@ -1,0 +1,67 @@
+Receipt RCT-WK501EPE
+Merchant: Heath-Perez
+Date: 2024-04-28
+Total: $612.36
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WK501EPE",
+  "merchant_name": "Heath-Perez",
+  "date": "2024-04-28",
+  "subtotal": 582.71,
+  "tax": 38.79,
+  "discount": 9.14,
+  "total": 612.36,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$49.23",
+      "line_total": "$49.23"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$15.14",
+      "line_total": "$30.28"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$2.35",
+      "line_total": "$4.70"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$23.46",
+      "line_total": "$23.46"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$63.87",
+      "line_total": "$127.74"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$58.89",
+      "line_total": "$176.67"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$38.21",
+      "line_total": "$38.21"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$66.21",
+      "line_total": "$132.42"
+    }
+  ],
+  "sample_id": "receipt_0641"
+}

@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0460",
+  "invoice_number": "INV-2026-0460",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "167 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Trust Finance Office",
+  "billing_address": "155 Sheikh Zayed Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-01-31",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 364.36,
+      "amount": 1457.44
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 9,
+      "unit_price": 302.71,
+      "amount": 2724.39
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 8,
+      "unit_price": 342.35,
+      "amount": 2738.8
+    }
+  ],
+  "subtotal": 6920.63,
+  "discount": 138.41,
+  "tax_rate": 0.05,
+  "tax": 339.11,
+  "shipping": 0,
+  "total": 7121.33,
+  "amount_paid": 0,
+  "balance_due": 7121.33,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801901671518",
+  "po_number": "PO-30410"
+}

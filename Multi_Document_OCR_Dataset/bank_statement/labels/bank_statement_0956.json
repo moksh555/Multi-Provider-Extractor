@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BQT1DTRB",
+  "account_holder": "Patrick Davis",
+  "account_number_masked": "****4247",
+  "period_start": "2025-11-10",
+  "period_end": "2025-12-10",
+  "opening_balance": 765.12,
+  "closing_balance": 2339.72,
+  "transactions": 9,
+  "sample_id": "bank_statement_0956"
+}

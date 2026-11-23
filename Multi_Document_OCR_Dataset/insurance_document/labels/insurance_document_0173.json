@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YUJ7YKTXG",
+  "policy_holder": "Claire Obrien",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-02-02",
+  "expiry_date": "2024-02-02",
+  "premium": 2408.3,
+  "coverage_amount": 297647.69,
+  "beneficiary": "John Robinson",
+  "sample_id": "insurance_document_0173"
+}

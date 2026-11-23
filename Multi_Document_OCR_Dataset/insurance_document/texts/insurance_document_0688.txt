@@ -1,0 +1,16 @@
+Insurance Policy POL-HQ6DG8NKD
+Holder: Kevin Carney
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HQ6DG8NKD",
+  "policy_holder": "Kevin Carney",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-10-30",
+  "expiry_date": "2027-10-30",
+  "premium": 1433.21,
+  "coverage_amount": 432367.39,
+  "beneficiary": "Jonathan Jefferson DVM",
+  "sample_id": "insurance_document_0688"
+}

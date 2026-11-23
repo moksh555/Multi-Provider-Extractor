@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0917
+Company: Delta Insurance Services
+Company Address: 195 Sheikh Zayed Road, Dhaka, Bangladesh
+Customer: TechPoint BD
+Billing Address: 152 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-03-11
+Due Date: 2026-04-25
+Currency: QAR
+Subtotal: 14203.53
+Tax: 710.18
+Total: 14923.71
+Balance Due: 14923.71
+Status: overdue

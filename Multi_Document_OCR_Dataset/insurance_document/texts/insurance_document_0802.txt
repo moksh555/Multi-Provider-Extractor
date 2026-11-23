@@ -1,0 +1,16 @@
+Insurance Policy POL-T4Y0TB1ZP
+Holder: James Bowman
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-T4Y0TB1ZP",
+  "policy_holder": "James Bowman",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-01-30",
+  "expiry_date": "2027-01-30",
+  "premium": 447.89,
+  "coverage_amount": 224596.9,
+  "beneficiary": "Shane Alexander",
+  "sample_id": "insurance_document_0802"
+}

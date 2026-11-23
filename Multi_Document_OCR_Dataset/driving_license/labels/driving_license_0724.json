@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL598311015",
+  "full_name": "Tiffany Phillips",
+  "date_of_birth": "1981-03-20",
+  "class": "C",
+  "issue_date": "2020-08-01",
+  "expiry_date": "2025-08-01",
+  "address": "PSC 6775, Box 2401, APO AA 93344",
+  "sample_id": "driving_license_0724"
+}

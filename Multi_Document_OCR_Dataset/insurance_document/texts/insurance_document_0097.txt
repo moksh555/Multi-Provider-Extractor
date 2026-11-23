@@ -1,0 +1,16 @@
+Insurance Policy POL-2CWTG1M8X
+Holder: Emily Rodriguez
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2CWTG1M8X",
+  "policy_holder": "Emily Rodriguez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-04-28",
+  "expiry_date": "2025-04-28",
+  "premium": 364.67,
+  "coverage_amount": 135424.43,
+  "beneficiary": "Eric Ward",
+  "sample_id": "insurance_document_0097"
+}

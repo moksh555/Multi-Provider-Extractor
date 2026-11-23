@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0649
+Company: Greenline Logistics
+Company Address: 114 Agrabad C/A, Chattogram, Bangladesh
+Customer: TechPoint BD
+Billing Address: 207 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-13
+Due Date: 2026-05-28
+Currency: BDT
+Subtotal: 11786.56
+Tax: 559.86
+Total: 11757.09
+Balance Due: 4541.42
+Status: partial

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Peterson
+License: DL894547345
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL894547345",
+  "full_name": "Michael Peterson",
+  "date_of_birth": "2004-06-24",
+  "class": "C",
+  "issue_date": "2024-01-19",
+  "expiry_date": "2029-01-19",
+  "address": "Unit 0674 Box 4716, DPO AE 81452",
+  "sample_id": "driving_license_0520"
+}

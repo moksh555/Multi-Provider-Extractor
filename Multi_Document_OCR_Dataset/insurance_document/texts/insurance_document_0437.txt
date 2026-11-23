@@ -1,0 +1,16 @@
+Insurance Policy POL-J3GC9HOXD
+Holder: Danny Shepard
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J3GC9HOXD",
+  "policy_holder": "Danny Shepard",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-06-02",
+  "expiry_date": "2026-06-02",
+  "premium": 639.76,
+  "coverage_amount": 325235.7,
+  "beneficiary": "Danielle Warner",
+  "sample_id": "insurance_document_0437"
+}

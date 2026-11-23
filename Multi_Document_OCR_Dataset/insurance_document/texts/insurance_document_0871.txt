@@ -1,0 +1,16 @@
+Insurance Policy POL-KM8T0JSHH
+Holder: Logan Tapia
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KM8T0JSHH",
+  "policy_holder": "Logan Tapia",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-03-06",
+  "expiry_date": "2024-03-06",
+  "premium": 2314.17,
+  "coverage_amount": 263344.61,
+  "beneficiary": "Rodney Allen",
+  "sample_id": "insurance_document_0871"
+}

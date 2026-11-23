@@ -1,0 +1,14 @@
+Medical Report MED-YLA83GUL
+Patient: Shane Bell
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YLA83GUL",
+  "patient_name": "Shane Bell",
+  "visit_date": "2026-02-04",
+  "doctor_name": "Dr. Arthur Drake",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0985"
+}

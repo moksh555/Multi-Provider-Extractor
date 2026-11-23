@@ -1,0 +1,16 @@
+Bank Statement STM-7FINATJQ
+Holder: Denise Sutton
+Closing Balance: $5908.08
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7FINATJQ",
+  "account_holder": "Denise Sutton",
+  "account_number_masked": "****8255",
+  "period_start": "2024-04-30",
+  "period_end": "2024-05-30",
+  "opening_balance": 1624.67,
+  "closing_balance": 5908.08,
+  "transactions": 11,
+  "sample_id": "bank_statement_0188"
+}

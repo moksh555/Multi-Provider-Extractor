@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VROBW1PY",
+  "account_holder": "Jose Lucas",
+  "account_number_masked": "****7727",
+  "period_start": "2024-06-18",
+  "period_end": "2024-07-18",
+  "opening_balance": 4120.09,
+  "closing_balance": 7294.17,
+  "transactions": 14,
+  "sample_id": "bank_statement_0287"
+}

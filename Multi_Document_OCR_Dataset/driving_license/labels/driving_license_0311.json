@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL399350267",
+  "full_name": "Matthew Miranda",
+  "date_of_birth": "1999-10-01",
+  "class": "C",
+  "issue_date": "2022-07-12",
+  "expiry_date": "2027-07-12",
+  "address": "94562 Mccormick Islands, Freemanland, NJ 15297",
+  "sample_id": "driving_license_0311"
+}

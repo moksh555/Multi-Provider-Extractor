@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0412
+Company: Royal Diagnostics Center
+Company Address: 165 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 102 Road 12, Banani, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-08
+Due Date: 2026-02-23
+Currency: USD
+Subtotal: 11406.33
+Tax: 570.32
+Total: 12001.65
+Balance Due: 12001.65
+Status: unpaid

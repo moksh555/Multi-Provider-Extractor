@@ -1,0 +1,25 @@
+Resume
+Jason Jones
+Backend Developer
+Skills: NLP, LangChain, Pandas, PyTorch, Machine Learning, Docker, SQL, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Jason Jones",
+  "email": "christianparker@example.net",
+  "phone": "+1-873-326-5234x6554",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "LangChain",
+    "Pandas",
+    "PyTorch",
+    "Machine Learning",
+    "Docker",
+    "SQL",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0701"
+}

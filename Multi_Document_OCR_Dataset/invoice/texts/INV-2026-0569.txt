@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0569
+Company: Summit Agro Foods
+Company Address: 184 Road 12, Banani, Sylhet, Bangladesh
+Customer: TechPoint BD
+Billing Address: 19 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-04-01
+Due Date: 2026-05-01
+Currency: AED
+Subtotal: 7502.8
+Tax: 375.14
+Total: 7902.94
+Balance Due: 0.0
+Status: paid

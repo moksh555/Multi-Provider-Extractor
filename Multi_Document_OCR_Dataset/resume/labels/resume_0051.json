@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Anna Poole",
+  "email": "watsonkenneth@example.net",
+  "phone": "858-626-8687",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "Computer Vision",
+    "Deep Learning",
+    "Streamlit",
+    "AWS",
+    "NLP",
+    "Pandas",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0051"
+}

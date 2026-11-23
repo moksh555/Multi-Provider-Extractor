@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Patricia Maynard",
+  "email": "josephwagner@example.com",
+  "phone": "(887)801-3215",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Pandas",
+    "TensorFlow",
+    "Docker",
+    "NLP",
+    "Deep Learning",
+    "LangChain",
+    "FastAPI",
+    "PyTorch",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0958"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-TRC85EHPZ
+Holder: Kyle Watkins
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TRC85EHPZ",
+  "policy_holder": "Kyle Watkins",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-11-22",
+  "expiry_date": "2024-11-22",
+  "premium": 1556.83,
+  "coverage_amount": 470185.58,
+  "beneficiary": "Ashlee Miller",
+  "sample_id": "insurance_document_0611"
+}

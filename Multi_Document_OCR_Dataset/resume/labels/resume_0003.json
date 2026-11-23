@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Brooke Keith",
+  "email": "tonyaholmes@example.net",
+  "phone": "2984322101",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "Docker",
+    "LangChain",
+    "Pandas",
+    "Python",
+    "Computer Vision",
+    "Machine Learning",
+    "SQL",
+    "NLP",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0003"
+}

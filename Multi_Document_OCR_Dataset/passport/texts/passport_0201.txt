@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christine Arellano
+Passport No: P13957064
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P13957064",
+  "full_name": "Christine Arellano",
+  "nationality": "BD",
+  "date_of_birth": "1981-09-29",
+  "issue_date": "2025-07-22",
+  "expiry_date": "2035-07-22",
+  "place_of_birth": "South Devinland",
+  "sample_id": "passport_0201"
+}

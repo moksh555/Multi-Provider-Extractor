@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ELCQSE3T",
+  "merchant_name": "Mcdonald Inc",
+  "date": "2023-01-16",
+  "subtotal": 186.19,
+  "tax": 16.23,
+  "discount": 8.26,
+  "total": 194.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$66.68",
+      "line_total": "$66.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$14.01",
+      "line_total": "$42.03"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$28.34",
+      "line_total": "$56.68"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$20.80",
+      "line_total": "$20.80"
+    }
+  ],
+  "sample_id": "receipt_0058"
+}

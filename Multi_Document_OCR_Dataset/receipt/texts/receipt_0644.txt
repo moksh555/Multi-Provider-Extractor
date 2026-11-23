@@ -1,0 +1,61 @@
+Receipt RCT-5S6Y5H3O
+Merchant: Smith-Crawford
+Date: 2021-12-08
+Total: $467.15
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5S6Y5H3O",
+  "merchant_name": "Smith-Crawford",
+  "date": "2021-12-08",
+  "subtotal": 432.13,
+  "tax": 45.99,
+  "discount": 10.97,
+  "total": 467.15,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$70.78",
+      "line_total": "$70.78"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$32.41",
+      "line_total": "$64.82"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$35.29",
+      "line_total": "$70.58"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$1.06",
+      "line_total": "$1.06"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$13.25",
+      "line_total": "$26.50"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$72.11",
+      "line_total": "$144.22"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$54.17",
+      "line_total": "$54.17"
+    }
+  ],
+  "sample_id": "receipt_0644"
+}

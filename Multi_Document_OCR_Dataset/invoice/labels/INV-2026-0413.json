@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0413",
+  "invoice_number": "INV-2026-0413",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "82 Mirpur DOHS, Dhaka, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "24 Zindabazar Road, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-23",
+  "due_date": "2026-07-07",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 3,
+      "unit_price": 134.41,
+      "amount": 403.23
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 7,
+      "unit_price": 116.46,
+      "amount": 815.22
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 597.93,
+      "amount": 2391.72
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 615.57,
+      "amount": 3693.42
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 12,
+      "unit_price": 627.7,
+      "amount": 7532.4
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 4,
+      "unit_price": 610.6,
+      "amount": 2442.4
+    }
+  ],
+  "subtotal": 17278.39,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1295.88,
+  "shipping": 25,
+  "total": 18599.27,
+  "amount_paid": 0,
+  "balance_due": 18599.27,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801375872411",
+  "po_number": "PO-95537"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RPG2H2TH",
+  "patient_name": "Alyssa House",
+  "visit_date": "2025-12-23",
+  "doctor_name": "Dr. Benjamin Jacobson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0064"
+}

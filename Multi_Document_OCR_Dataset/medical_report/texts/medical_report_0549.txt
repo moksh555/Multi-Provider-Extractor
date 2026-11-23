@@ -1,0 +1,14 @@
+Medical Report MED-PUEH1ERD
+Patient: Phyllis Beck
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-PUEH1ERD",
+  "patient_name": "Phyllis Beck",
+  "visit_date": "2026-02-14",
+  "doctor_name": "Dr. Tammy Coleman",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0549"
+}

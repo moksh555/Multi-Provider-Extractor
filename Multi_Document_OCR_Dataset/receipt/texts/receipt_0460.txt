@@ -1,0 +1,67 @@
+Receipt RCT-NBPQGA6X
+Merchant: Johnson-Alexander
+Date: 2024-02-25
+Total: $1128.57
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NBPQGA6X",
+  "merchant_name": "Johnson-Alexander",
+  "date": "2024-02-25",
+  "subtotal": 1069.05,
+  "tax": 67.79,
+  "discount": 8.27,
+  "total": 1128.57,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$17.01",
+      "line_total": "$68.04"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$54.03",
+      "line_total": "$54.03"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$55.48",
+      "line_total": "$110.96"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$70.01",
+      "line_total": "$70.01"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$63.57",
+      "line_total": "$254.28"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$29.76",
+      "line_total": "$89.28"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$65.84",
+      "line_total": "$263.36"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$53.03",
+      "line_total": "$159.09"
+    }
+  ],
+  "sample_id": "receipt_0460"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HZ2OMTZJK",
+  "policy_holder": "Erika Johnson",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-10-11",
+  "expiry_date": "2027-10-11",
+  "premium": 1902.12,
+  "coverage_amount": 177576.51,
+  "beneficiary": "Tammy Hernandez",
+  "sample_id": "insurance_document_0332"
+}

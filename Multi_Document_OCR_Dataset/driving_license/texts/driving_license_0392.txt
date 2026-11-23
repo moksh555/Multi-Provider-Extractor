@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Fuller
+License: DL002018092
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL002018092",
+  "full_name": "James Fuller",
+  "date_of_birth": "1988-04-01",
+  "class": "C",
+  "issue_date": "2020-03-29",
+  "expiry_date": "2025-03-29",
+  "address": "23829 Sparks Island, Mendozaberg, KS 23239",
+  "sample_id": "driving_license_0392"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SHZ8BRHQ",
+  "account_holder": "Amanda Norman",
+  "account_number_masked": "****7783",
+  "period_start": "2024-06-18",
+  "period_end": "2024-07-18",
+  "opening_balance": 1190.32,
+  "closing_balance": 2616.83,
+  "transactions": 10,
+  "sample_id": "bank_statement_0674"
+}

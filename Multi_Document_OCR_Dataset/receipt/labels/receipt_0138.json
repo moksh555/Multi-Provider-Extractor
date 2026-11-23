@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WJ0UUNNV",
+  "merchant_name": "Miller Group",
+  "date": "2021-11-15",
+  "subtotal": 965.93,
+  "tax": 100.0,
+  "discount": 9.92,
+  "total": 1056.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$77.84",
+      "line_total": "$311.36"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$28.88",
+      "line_total": "$115.52"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$63.62",
+      "line_total": "$254.48"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$35.75",
+      "line_total": "$71.50"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$41.65",
+      "line_total": "$41.65"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$12.87",
+      "line_total": "$25.74"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$48.56",
+      "line_total": "$145.68"
+    }
+  ],
+  "sample_id": "receipt_0138"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KFEEKOT1",
+  "account_holder": "Sara Maynard",
+  "account_number_masked": "****6640",
+  "period_start": "2024-09-01",
+  "period_end": "2024-10-01",
+  "opening_balance": 2116.32,
+  "closing_balance": 5801.31,
+  "transactions": 9,
+  "sample_id": "bank_statement_0234"
+}

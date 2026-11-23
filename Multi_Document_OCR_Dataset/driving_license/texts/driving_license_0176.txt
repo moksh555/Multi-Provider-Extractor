@@ -1,0 +1,16 @@
+Synthetic Driving License
+Casey Johnson
+License: DL483909919
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL483909919",
+  "full_name": "Casey Johnson",
+  "date_of_birth": "2002-12-19",
+  "class": "B",
+  "issue_date": "2022-09-20",
+  "expiry_date": "2027-09-20",
+  "address": "87059 Lindsay Junctions, Port Megan, MD 08307",
+  "sample_id": "driving_license_0176"
+}

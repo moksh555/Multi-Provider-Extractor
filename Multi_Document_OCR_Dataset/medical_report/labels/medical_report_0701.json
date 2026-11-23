@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RHWFGGAK",
+  "patient_name": "Jenna Salinas",
+  "visit_date": "2025-11-26",
+  "doctor_name": "Dr. Jose Banks",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0701"
+}

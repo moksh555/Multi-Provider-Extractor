@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0338",
+  "invoice_number": "INV-2026-0338",
+  "company_name": "Greenline Logistics",
+  "company_address": "175 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "155 Gulshan Avenue, Sylhet, Bangladesh",
+  "invoice_date": "2026-01-16",
+  "due_date": "2026-01-31",
+  "currency": "QAR",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 5,
+      "unit_price": 227.75,
+      "amount": 1138.75
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 5,
+      "unit_price": 29.29,
+      "amount": 146.45
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 318.39,
+      "amount": 636.78
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 535.0,
+      "amount": 4280.0
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 508.02,
+      "amount": 1524.06
+    }
+  ],
+  "subtotal": 7726.04,
+  "discount": 386.3,
+  "tax_rate": 0.05,
+  "tax": 366.99,
+  "shipping": 5,
+  "total": 7711.73,
+  "amount_paid": 2343.38,
+  "balance_due": 5368.35,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801416253003",
+  "po_number": "PO-41830"
+}

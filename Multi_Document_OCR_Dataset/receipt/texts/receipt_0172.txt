@@ -1,0 +1,55 @@
+Receipt RCT-GV6TOLAQ
+Merchant: Oconnell-Clark
+Date: 2023-04-08
+Total: $262.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GV6TOLAQ",
+  "merchant_name": "Oconnell-Clark",
+  "date": "2023-04-08",
+  "subtotal": 262.37,
+  "tax": 11.29,
+  "discount": 11.54,
+  "total": 262.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$26.60",
+      "line_total": "$79.80"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$8.20",
+      "line_total": "$8.20"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$7.74",
+      "line_total": "$23.22"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$30.92",
+      "line_total": "$61.84"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$61.69",
+      "line_total": "$61.69"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$13.81",
+      "line_total": "$27.62"
+    }
+  ],
+  "sample_id": "receipt_0172"
+}

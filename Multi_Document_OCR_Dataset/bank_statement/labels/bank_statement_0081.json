@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GQ34PGGC",
+  "account_holder": "Heather Wolf",
+  "account_number_masked": "****8767",
+  "period_start": "2024-04-23",
+  "period_end": "2024-05-23",
+  "opening_balance": 1989.99,
+  "closing_balance": 1373.31,
+  "transactions": 13,
+  "sample_id": "bank_statement_0081"
+}

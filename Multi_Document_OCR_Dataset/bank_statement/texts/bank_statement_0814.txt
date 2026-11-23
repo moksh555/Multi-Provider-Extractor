@@ -1,0 +1,16 @@
+Bank Statement STM-I9LE0NCN
+Holder: Brittany Fisher
+Closing Balance: $7497.43
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I9LE0NCN",
+  "account_holder": "Brittany Fisher",
+  "account_number_masked": "****4691",
+  "period_start": "2025-12-22",
+  "period_end": "2026-01-21",
+  "opening_balance": 2442.97,
+  "closing_balance": 7497.43,
+  "transactions": 13,
+  "sample_id": "bank_statement_0814"
+}

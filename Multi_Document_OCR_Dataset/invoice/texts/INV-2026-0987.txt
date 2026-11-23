@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0987
+Company: Eastern Care Pharmacy
+Company Address: 113 Road 12, Banani, Dhaka, Bangladesh
+Customer: TechPoint BD
+Billing Address: 227 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-21
+Due Date: 2026-03-08
+Currency: AED
+Subtotal: 3557.82
+Tax: 0.0
+Total: 3389.93
+Balance Due: 3389.93
+Status: unpaid

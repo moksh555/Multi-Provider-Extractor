@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Lisa Williams
+Passport No: P99850158
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P99850158",
+  "full_name": "Lisa Williams",
+  "nationality": "CA",
+  "date_of_birth": "1988-08-16",
+  "issue_date": "2023-03-14",
+  "expiry_date": "2033-03-14",
+  "place_of_birth": "Brianport",
+  "sample_id": "passport_0776"
+}

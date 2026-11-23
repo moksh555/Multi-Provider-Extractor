@@ -1,0 +1,16 @@
+Bank Statement STM-RBPED02G
+Holder: Brittney Wagner
+Closing Balance: $40.24
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RBPED02G",
+  "account_holder": "Brittney Wagner",
+  "account_number_masked": "****4169",
+  "period_start": "2025-04-21",
+  "period_end": "2025-05-21",
+  "opening_balance": 1847.27,
+  "closing_balance": 40.24,
+  "transactions": 14,
+  "sample_id": "bank_statement_0561"
+}

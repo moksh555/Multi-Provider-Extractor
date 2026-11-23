@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mary Martinez
+License: DL809332277
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL809332277",
+  "full_name": "Mary Martinez",
+  "date_of_birth": "1977-09-01",
+  "class": "D",
+  "issue_date": "2023-12-31",
+  "expiry_date": "2028-12-31",
+  "address": "493 Lori Port, Audreymouth, IA 88019",
+  "sample_id": "driving_license_0967"
+}

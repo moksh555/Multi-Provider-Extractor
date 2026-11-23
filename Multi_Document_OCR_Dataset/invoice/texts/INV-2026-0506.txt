@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0506
+Company: BrightStar Electronics
+Company Address: 67 Mirpur DOHS, Dubai, UAE
+Customer: Karim Enterprise
+Billing Address: 105 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-30
+Due Date: 2026-05-30
+Currency: QAR
+Subtotal: 10758.94
+Tax: 527.19
+Total: 11095.95
+Balance Due: 0.0
+Status: paid

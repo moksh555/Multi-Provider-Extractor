@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Maria Ramirez
+Passport No: P72663566
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P72663566",
+  "full_name": "Maria Ramirez",
+  "nationality": "GB",
+  "date_of_birth": "1983-08-17",
+  "issue_date": "2021-12-22",
+  "expiry_date": "2031-12-22",
+  "place_of_birth": "Clarkland",
+  "sample_id": "passport_0202"
+}

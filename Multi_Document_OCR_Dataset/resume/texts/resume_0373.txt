@@ -1,0 +1,27 @@
+Resume
+Christopher Howard
+Backend Developer
+Skills: Pandas, Python, Docker, SQL, Streamlit, Computer Vision, PyTorch, Machine Learning, FastAPI, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Christopher Howard",
+  "email": "icarpenter@example.org",
+  "phone": "(823)314-5968x89109",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "Python",
+    "Docker",
+    "SQL",
+    "Streamlit",
+    "Computer Vision",
+    "PyTorch",
+    "Machine Learning",
+    "FastAPI",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0373"
+}

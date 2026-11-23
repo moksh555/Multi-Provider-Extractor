@@ -1,0 +1,14 @@
+Medical Report MED-RODQ4AKM
+Patient: Mark Le
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RODQ4AKM",
+  "patient_name": "Mark Le",
+  "visit_date": "2024-08-19",
+  "doctor_name": "Dr. Holly Walker",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0111"
+}

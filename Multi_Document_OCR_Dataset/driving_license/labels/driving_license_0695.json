@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL953697352",
+  "full_name": "Angela Yates",
+  "date_of_birth": "1977-07-02",
+  "class": "D",
+  "issue_date": "2026-02-22",
+  "expiry_date": "2031-02-22",
+  "address": "42337 Billy Rest, Andrealand, WA 25406",
+  "sample_id": "driving_license_0695"
+}

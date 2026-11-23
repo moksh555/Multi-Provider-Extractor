@@ -1,0 +1,16 @@
+Bank Statement STM-S83JQ1NK
+Holder: James Rice
+Closing Balance: $7767.89
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S83JQ1NK",
+  "account_holder": "James Rice",
+  "account_number_masked": "****9001",
+  "period_start": "2025-11-22",
+  "period_end": "2025-12-22",
+  "opening_balance": 3505.18,
+  "closing_balance": 7767.89,
+  "transactions": 9,
+  "sample_id": "bank_statement_0713"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-GQ9AZHDQ
+Merchant: Palmer Group
+Date: 2022-01-23
+Total: $254.86
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-GQ9AZHDQ",
+  "merchant_name": "Palmer Group",
+  "date": "2022-01-23",
+  "subtotal": 234.93,
+  "tax": 26.32,
+  "discount": 6.39,
+  "total": 254.86,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$6.27",
+      "line_total": "$12.54"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$50.68",
+      "line_total": "$152.04"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$23.45",
+      "line_total": "$70.35"
+    }
+  ],
+  "sample_id": "receipt_0374"
+}

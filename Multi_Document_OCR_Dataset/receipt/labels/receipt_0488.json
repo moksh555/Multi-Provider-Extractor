@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LBU9W3GG",
+  "merchant_name": "Brady and Sons",
+  "date": "2025-05-20",
+  "subtotal": 559.3,
+  "tax": 57.57,
+  "discount": 5.38,
+  "total": 611.49,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$47.88",
+      "line_total": "$143.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$11.95",
+      "line_total": "$35.85"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$13.43",
+      "line_total": "$40.29"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$48.91",
+      "line_total": "$195.64"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$32.08",
+      "line_total": "$32.08"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$55.90",
+      "line_total": "$111.80"
+    }
+  ],
+  "sample_id": "receipt_0488"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QTNP098T",
+  "patient_name": "Allison Mahoney",
+  "visit_date": "2024-02-19",
+  "doctor_name": "Dr. Preston Johnson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0707"
+}

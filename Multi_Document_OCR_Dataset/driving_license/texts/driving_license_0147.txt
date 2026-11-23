@@ -1,0 +1,16 @@
+Synthetic Driving License
+James Thomas
+License: DL518193368
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL518193368",
+  "full_name": "James Thomas",
+  "date_of_birth": "1990-03-06",
+  "class": "D",
+  "issue_date": "2025-09-08",
+  "expiry_date": "2030-09-08",
+  "address": "662 Reid Square, New Garrett, LA 18889",
+  "sample_id": "driving_license_0147"
+}

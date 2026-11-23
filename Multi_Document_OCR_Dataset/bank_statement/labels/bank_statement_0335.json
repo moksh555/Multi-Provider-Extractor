@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-R024LPO6",
+  "account_holder": "Carol Bowman",
+  "account_number_masked": "****2606",
+  "period_start": "2024-12-11",
+  "period_end": "2025-01-10",
+  "opening_balance": 4411.87,
+  "closing_balance": 5110.59,
+  "transactions": 12,
+  "sample_id": "bank_statement_0335"
+}

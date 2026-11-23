@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0267
+Company: BlueRiver Trading Co.
+Company Address: 70 Dhanmondi 27, Dhaka, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 20 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-01-29
+Due Date: 2026-02-05
+Currency: BDT
+Subtotal: 6482.28
+Tax: 437.55
+Total: 6276.6
+Balance Due: 6276.6
+Status: unpaid

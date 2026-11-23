@@ -1,0 +1,16 @@
+Bank Statement STM-VSKP30TX
+Holder: Julian Gray
+Closing Balance: $5591.90
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VSKP30TX",
+  "account_holder": "Julian Gray",
+  "account_number_masked": "****9165",
+  "period_start": "2025-05-30",
+  "period_end": "2025-06-29",
+  "opening_balance": 1766.52,
+  "closing_balance": 5591.9,
+  "transactions": 9,
+  "sample_id": "bank_statement_0021"
+}

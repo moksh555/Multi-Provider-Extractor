@@ -1,0 +1,16 @@
+Bank Statement STM-14LYF6NX
+Holder: Robin Brewer
+Closing Balance: $6695.89
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-14LYF6NX",
+  "account_holder": "Robin Brewer",
+  "account_number_masked": "****5585",
+  "period_start": "2026-12-31",
+  "period_end": "2027-01-30",
+  "opening_balance": 3485.97,
+  "closing_balance": 6695.89,
+  "transactions": 14,
+  "sample_id": "bank_statement_0285"
+}

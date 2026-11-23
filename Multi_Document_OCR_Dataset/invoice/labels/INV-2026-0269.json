@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0269",
+  "invoice_number": "INV-2026-0269",
+  "company_name": "Summit Agro Foods",
+  "company_address": "76 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "81 Gulshan Avenue, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-15",
+  "due_date": "2026-05-30",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 3,
+      "unit_price": 745.93,
+      "amount": 2237.79
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 3,
+      "unit_price": 109.7,
+      "amount": 329.1
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 9,
+      "unit_price": 606.98,
+      "amount": 5462.82
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 12,
+      "unit_price": 93.04,
+      "amount": 1116.48
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 7,
+      "unit_price": 28.15,
+      "amount": 197.05
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 119.46,
+      "amount": 238.92
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 769.39,
+      "amount": 5385.73
+    }
+  ],
+  "subtotal": 14967.89,
+  "discount": 748.39,
+  "tax_rate": 0.15,
+  "tax": 2132.92,
+  "shipping": 5,
+  "total": 16357.42,
+  "amount_paid": 0,
+  "balance_due": 16357.42,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801457188569",
+  "po_number": "PO-07344"
+}

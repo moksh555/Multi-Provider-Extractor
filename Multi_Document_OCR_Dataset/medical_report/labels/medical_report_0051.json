@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-TYLKQDEO",
+  "patient_name": "Alexander Williams",
+  "visit_date": "2025-01-01",
+  "doctor_name": "Dr. Zachary Mccall",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0051"
+}

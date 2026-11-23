@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0592",
+  "invoice_number": "INV-2026-0592",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "112 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "146 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-30",
+  "due_date": "2026-06-06",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 4,
+      "unit_price": 408.99,
+      "amount": 1635.96
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 561.02,
+      "amount": 4488.16
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 11,
+      "unit_price": 238.4,
+      "amount": 2622.4
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 5,
+      "unit_price": 46.39,
+      "amount": 231.95
+    }
+  ],
+  "subtotal": 8978.47,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 448.92,
+  "shipping": 25,
+  "total": 9452.39,
+  "amount_paid": 0,
+  "balance_due": 9452.39,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801727984202",
+  "po_number": "PO-51026"
+}

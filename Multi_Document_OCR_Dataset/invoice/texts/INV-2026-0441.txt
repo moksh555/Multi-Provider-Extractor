@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0441
+Company: CityBanking Supplies
+Company Address: 43 Sheikh Zayed Road, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 72 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-04-16
+Due Date: 2026-04-23
+Currency: QAR
+Subtotal: 7257.74
+Tax: 725.77
+Total: 7983.51
+Balance Due: 7983.51
+Status: unpaid

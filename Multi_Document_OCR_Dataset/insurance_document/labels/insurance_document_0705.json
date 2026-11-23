@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M7DBFPMGP",
+  "policy_holder": "Andre Cortez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-07-03",
+  "expiry_date": "2027-07-03",
+  "premium": 2065.8,
+  "coverage_amount": 180708.98,
+  "beneficiary": "Michele Ford",
+  "sample_id": "insurance_document_0705"
+}

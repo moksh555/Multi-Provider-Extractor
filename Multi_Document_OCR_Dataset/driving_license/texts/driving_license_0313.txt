@@ -1,0 +1,16 @@
+Synthetic Driving License
+David Moore
+License: DL345152371
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL345152371",
+  "full_name": "David Moore",
+  "date_of_birth": "1973-10-15",
+  "class": "A",
+  "issue_date": "2023-08-14",
+  "expiry_date": "2028-08-14",
+  "address": "3966 Stephens Freeway, Lake Elizabeth, WA 93812",
+  "sample_id": "driving_license_0313"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0903
+Company: Nova Medical Supplies
+Company Address: 139 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Rahim Traders
+Billing Address: 73 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-06-16
+Due Date: 2026-07-16
+Currency: BDT
+Subtotal: 26672.32
+Tax: 2667.23
+Total: 29349.55
+Balance Due: 29349.55
+Status: overdue

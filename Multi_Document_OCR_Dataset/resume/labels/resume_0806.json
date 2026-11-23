@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Thompson",
+  "email": "candice31@example.com",
+  "phone": "836-351-3386x13674",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "TensorFlow",
+    "Pandas",
+    "SQL",
+    "Docker",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0806"
+}

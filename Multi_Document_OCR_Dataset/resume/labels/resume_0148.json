@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Jennifer Ramirez",
+  "email": "hwade@example.com",
+  "phone": "855-975-1247x64000",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "AWS",
+    "SQL",
+    "Computer Vision",
+    "LangChain",
+    "Streamlit",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0148"
+}

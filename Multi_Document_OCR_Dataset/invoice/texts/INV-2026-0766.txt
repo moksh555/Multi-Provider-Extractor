@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0766
+Company: UrbanBuild Construction
+Company Address: 154 Zindabazar Road, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 73 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-15
+Due Date: 2026-03-30
+Currency: BDT
+Subtotal: 17672.91
+Tax: 1325.47
+Total: 19003.38
+Balance Due: 10657.5
+Status: partial

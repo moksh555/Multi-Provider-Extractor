@@ -1,0 +1,55 @@
+Receipt RCT-67N385C6
+Merchant: Scott Inc
+Date: 2024-04-10
+Total: $537.38
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-67N385C6",
+  "merchant_name": "Scott Inc",
+  "date": "2024-04-10",
+  "subtotal": 516.4,
+  "tax": 31.29,
+  "discount": 10.31,
+  "total": 537.38,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$28.25",
+      "line_total": "$113.00"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$18.12",
+      "line_total": "$18.12"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$21.17",
+      "line_total": "$63.51"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$23.27",
+      "line_total": "$23.27"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$6.05",
+      "line_total": "$12.10"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$71.60",
+      "line_total": "$286.40"
+    }
+  ],
+  "sample_id": "receipt_0819"
+}

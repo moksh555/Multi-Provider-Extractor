@@ -1,0 +1,25 @@
+Resume
+Katherine Guzman
+Software Engineer
+Skills: FastAPI, SQL, LangChain, TensorFlow, Streamlit, Deep Learning, Machine Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Katherine Guzman",
+  "email": "natalie90@example.net",
+  "phone": "441.528.6558x16759",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "SQL",
+    "LangChain",
+    "TensorFlow",
+    "Streamlit",
+    "Deep Learning",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0243"
+}

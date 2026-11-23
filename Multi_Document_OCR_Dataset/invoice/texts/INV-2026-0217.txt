@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0217
+Company: BlueRiver Trading Co.
+Company Address: 19 Agrabad C/A, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 77 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-06-04
+Due Date: 2026-06-19
+Currency: QAR
+Subtotal: 20927.2
+Tax: 1569.54
+Total: 22546.74
+Balance Due: 9607.49
+Status: partial

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kenneth Martin
+License: DL294991202
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL294991202",
+  "full_name": "Kenneth Martin",
+  "date_of_birth": "1997-01-21",
+  "class": "D",
+  "issue_date": "2024-03-05",
+  "expiry_date": "2029-03-05",
+  "address": "202 Nielsen Path, Greeneshire, SC 02941",
+  "sample_id": "driving_license_0236"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mark Dickson
+License: DL329566172
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL329566172",
+  "full_name": "Mark Dickson",
+  "date_of_birth": "2004-11-06",
+  "class": "C",
+  "issue_date": "2021-01-09",
+  "expiry_date": "2026-01-09",
+  "address": "4049 Ballard Road, Lake Meganville, OR 44651",
+  "sample_id": "driving_license_0380"
+}

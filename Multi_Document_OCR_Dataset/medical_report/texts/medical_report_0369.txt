@@ -1,0 +1,14 @@
+Medical Report MED-Z7257HAY
+Patient: Anna Wright
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Z7257HAY",
+  "patient_name": "Anna Wright",
+  "visit_date": "2024-08-10",
+  "doctor_name": "Dr. Lori Weaver",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0369"
+}

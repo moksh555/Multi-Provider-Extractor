@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joanna Ramos
+License: DL303113642
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL303113642",
+  "full_name": "Joanna Ramos",
+  "date_of_birth": "1997-11-01",
+  "class": "B",
+  "issue_date": "2022-01-05",
+  "expiry_date": "2027-01-05",
+  "address": "75854 Quinn Manors, Lauramouth, WY 93912",
+  "sample_id": "driving_license_0936"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-QQPWDXYAS
+Holder: John Lewis
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QQPWDXYAS",
+  "policy_holder": "John Lewis",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-01-30",
+  "expiry_date": "2025-01-30",
+  "premium": 377.06,
+  "coverage_amount": 16021.41,
+  "beneficiary": "Karen Lewis",
+  "sample_id": "insurance_document_0588"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Nancy Duffy
+Passport No: P62362323
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P62362323",
+  "full_name": "Nancy Duffy",
+  "nationality": "CA",
+  "date_of_birth": "1986-09-01",
+  "issue_date": "2020-04-09",
+  "expiry_date": "2030-04-09",
+  "place_of_birth": "North Matthew",
+  "sample_id": "passport_0380"
+}

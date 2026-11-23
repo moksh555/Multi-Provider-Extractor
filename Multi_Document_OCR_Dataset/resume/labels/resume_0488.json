@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Brandi Brooks",
+  "email": "jonathanbarker@example.com",
+  "phone": "(563)562-8862",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "Computer Vision",
+    "NLP",
+    "LangChain",
+    "PyTorch",
+    "SQL",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0488"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-AWUHJ1L9
+Holder: Suzanne Williams
+Closing Balance: $5817.13
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AWUHJ1L9",
+  "account_holder": "Suzanne Williams",
+  "account_number_masked": "****7642",
+  "period_start": "2024-08-11",
+  "period_end": "2024-09-10",
+  "opening_balance": 937.27,
+  "closing_balance": 5817.13,
+  "transactions": 8,
+  "sample_id": "bank_statement_0342"
+}

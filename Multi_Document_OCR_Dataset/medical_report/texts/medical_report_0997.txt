@@ -1,0 +1,14 @@
+Medical Report MED-SS8FEXX4
+Patient: Shane Castillo
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-SS8FEXX4",
+  "patient_name": "Shane Castillo",
+  "visit_date": "2026-12-26",
+  "doctor_name": "Dr. Jeffrey Weaver",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0997"
+}

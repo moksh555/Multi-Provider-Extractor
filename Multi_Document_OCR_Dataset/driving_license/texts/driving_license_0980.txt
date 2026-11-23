@@ -1,0 +1,16 @@
+Synthetic Driving License
+Daniel Cortez
+License: DL826280435
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL826280435",
+  "full_name": "Daniel Cortez",
+  "date_of_birth": "1977-11-22",
+  "class": "D",
+  "issue_date": "2022-05-30",
+  "expiry_date": "2027-05-30",
+  "address": "PSC 5230, Box 4588, APO AE 53009",
+  "sample_id": "driving_license_0980"
+}

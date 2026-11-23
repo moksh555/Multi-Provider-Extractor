@@ -1,0 +1,49 @@
+Receipt RCT-B0HQ6DG8
+Merchant: Cox, Mills and Cruz
+Date: 2025-01-29
+Total: $248.36
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-B0HQ6DG8",
+  "merchant_name": "Cox, Mills and Cruz",
+  "date": "2025-01-29",
+  "subtotal": 228.08,
+  "tax": 22.09,
+  "discount": 1.81,
+  "total": 248.36,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$8.65",
+      "line_total": "$8.65"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$27.17",
+      "line_total": "$54.34"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$19.82",
+      "line_total": "$59.46"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$47.16",
+      "line_total": "$94.32"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$11.31",
+      "line_total": "$11.31"
+    }
+  ],
+  "sample_id": "receipt_0300"
+}

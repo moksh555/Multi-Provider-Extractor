@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FARYULYW",
+  "patient_name": "Timothy Thomas",
+  "visit_date": "2025-10-21",
+  "doctor_name": "Dr. Joshua Jackson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0322"
+}

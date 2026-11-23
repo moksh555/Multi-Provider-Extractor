@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Mark Harris",
+  "email": "edwardcisneros@example.org",
+  "phone": "(588)416-9035",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Pandas",
+    "PyTorch",
+    "Computer Vision",
+    "Docker",
+    "Deep Learning",
+    "SQL",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0999"
+}

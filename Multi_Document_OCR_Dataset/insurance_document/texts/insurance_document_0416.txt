@@ -1,0 +1,16 @@
+Insurance Policy POL-CHYP9UMYG
+Holder: Kevin Horn
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CHYP9UMYG",
+  "policy_holder": "Kevin Horn",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-12-28",
+  "expiry_date": "2027-12-28",
+  "premium": 1486.57,
+  "coverage_amount": 248448.85,
+  "beneficiary": "Mallory Barnett",
+  "sample_id": "insurance_document_0416"
+}

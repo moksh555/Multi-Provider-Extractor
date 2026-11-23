@@ -1,0 +1,16 @@
+Insurance Policy POL-8NVN439EN
+Holder: Chelsea Norris
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8NVN439EN",
+  "policy_holder": "Chelsea Norris",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-06-29",
+  "expiry_date": "2026-06-29",
+  "premium": 142.28,
+  "coverage_amount": 374140.78,
+  "beneficiary": "Whitney Williams",
+  "sample_id": "insurance_document_0578"
+}

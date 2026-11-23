@@ -1,0 +1,14 @@
+Medical Report MED-Q9U2QCKI
+Patient: Kimberly Yates
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Q9U2QCKI",
+  "patient_name": "Kimberly Yates",
+  "visit_date": "2024-05-13",
+  "doctor_name": "Dr. Jennifer Flores",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0987"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-49QDO3HG
+Patient: Mrs. Melissa Sanchez
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-49QDO3HG",
+  "patient_name": "Mrs. Melissa Sanchez",
+  "visit_date": "2025-04-10",
+  "doctor_name": "Dr. Holly Wolfe",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0360"
+}

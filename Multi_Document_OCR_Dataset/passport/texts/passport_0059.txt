@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michael Parks
+Passport No: P17352248
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P17352248",
+  "full_name": "Michael Parks",
+  "nationality": "CA",
+  "date_of_birth": "1982-07-18",
+  "issue_date": "2026-08-17",
+  "expiry_date": "2036-08-17",
+  "place_of_birth": "South Larrychester",
+  "sample_id": "passport_0059"
+}

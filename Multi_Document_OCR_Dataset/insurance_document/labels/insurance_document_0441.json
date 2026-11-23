@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CQ1XGBNGZ",
+  "policy_holder": "Andrew Bailey",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-07-15",
+  "expiry_date": "2027-07-15",
+  "premium": 1759.45,
+  "coverage_amount": 248386.74,
+  "beneficiary": "Dana Carter",
+  "sample_id": "insurance_document_0441"
+}

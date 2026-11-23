@@ -1,0 +1,27 @@
+Resume
+Tara Garner
+Backend Developer
+Skills: Streamlit, SQL, PyTorch, Machine Learning, FastAPI, Computer Vision, Deep Learning, LangChain, NLP, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Tara Garner",
+  "email": "jacquelinerobles@example.org",
+  "phone": "(917)666-6899x212",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "SQL",
+    "PyTorch",
+    "Machine Learning",
+    "FastAPI",
+    "Computer Vision",
+    "Deep Learning",
+    "LangChain",
+    "NLP",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0819"
+}

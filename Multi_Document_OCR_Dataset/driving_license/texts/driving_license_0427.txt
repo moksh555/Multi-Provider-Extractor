@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Baker
+License: DL006187943
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL006187943",
+  "full_name": "Jennifer Baker",
+  "date_of_birth": "1979-01-18",
+  "class": "B",
+  "issue_date": "2020-02-16",
+  "expiry_date": "2025-02-16",
+  "address": "7622 Todd Mount Apt. 881, South Thomas, WA 21058",
+  "sample_id": "driving_license_0427"
+}

@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-II6L3UEY",
+  "merchant_name": "Key-Higgins",
+  "date": "2021-08-04",
+  "subtotal": 407.65,
+  "tax": 22.93,
+  "discount": 11.77,
+  "total": 418.81,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$76.37",
+      "line_total": "$76.37"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$69.42",
+      "line_total": "$277.68"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$7.82",
+      "line_total": "$23.46"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$30.14",
+      "line_total": "$30.14"
+    }
+  ],
+  "sample_id": "receipt_0097"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0618",
+  "invoice_number": "INV-2026-0618",
+  "company_name": "CityBanking Supplies",
+  "company_address": "183 Sheikh Zayed Road, Doha, Qatar",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "162 Uttara Sector 7, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-07",
+  "due_date": "2026-05-07",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 257.23,
+      "amount": 1800.61
+    },
+    {
+      "description": "API Integration",
+      "quantity": 10,
+      "unit_price": 617.13,
+      "amount": 6171.3
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 9,
+      "unit_price": 727.65,
+      "amount": 6548.85
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 5,
+      "unit_price": 663.9,
+      "amount": 3319.5
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 525.82,
+      "amount": 525.82
+    }
+  ],
+  "subtotal": 18366.08,
+  "discount": 918.3,
+  "tax_rate": 0.075,
+  "tax": 1308.58,
+  "shipping": 5,
+  "total": 18761.36,
+  "amount_paid": 0,
+  "balance_due": 18761.36,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801182166376",
+  "po_number": "PO-91857"
+}

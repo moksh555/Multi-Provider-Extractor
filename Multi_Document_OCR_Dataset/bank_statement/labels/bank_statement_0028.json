@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-A16KJ752",
+  "account_holder": "Abigail Acevedo",
+  "account_number_masked": "****4804",
+  "period_start": "2025-02-23",
+  "period_end": "2025-03-25",
+  "opening_balance": 1041.46,
+  "closing_balance": 5332.99,
+  "transactions": 13,
+  "sample_id": "bank_statement_0028"
+}

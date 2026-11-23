@@ -1,0 +1,16 @@
+Bank Statement STM-H78I44IV
+Holder: Ruth Stanton
+Closing Balance: $3109.20
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H78I44IV",
+  "account_holder": "Ruth Stanton",
+  "account_number_masked": "****7058",
+  "period_start": "2026-02-11",
+  "period_end": "2026-03-13",
+  "opening_balance": 1278.8,
+  "closing_balance": 3109.2,
+  "transactions": 14,
+  "sample_id": "bank_statement_0859"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-OYEYQE68
+Holder: Monica Mullen
+Closing Balance: $7489.82
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OYEYQE68",
+  "account_holder": "Monica Mullen",
+  "account_number_masked": "****4163",
+  "period_start": "2024-05-11",
+  "period_end": "2024-06-10",
+  "opening_balance": 4593.66,
+  "closing_balance": 7489.82,
+  "transactions": 9,
+  "sample_id": "bank_statement_0258"
+}

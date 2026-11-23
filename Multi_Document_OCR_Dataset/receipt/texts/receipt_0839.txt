@@ -1,0 +1,61 @@
+Receipt RCT-HLCNPTT3
+Merchant: Gonzales, Sharp and Adams
+Date: 2024-12-20
+Total: $797.38
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HLCNPTT3",
+  "merchant_name": "Gonzales, Sharp and Adams",
+  "date": "2024-12-20",
+  "subtotal": 756.48,
+  "tax": 54.76,
+  "discount": 13.86,
+  "total": 797.38,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$41.03",
+      "line_total": "$123.09"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$53.25",
+      "line_total": "$106.50"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$50.77",
+      "line_total": "$203.08"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$18.05",
+      "line_total": "$72.20"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$41.89",
+      "line_total": "$125.67"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$3.31",
+      "line_total": "$6.62"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$29.83",
+      "line_total": "$119.32"
+    }
+  ],
+  "sample_id": "receipt_0839"
+}

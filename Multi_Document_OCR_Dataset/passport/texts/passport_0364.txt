@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ryan Cook
+Passport No: P70995989
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P70995989",
+  "full_name": "Ryan Cook",
+  "nationality": "CA",
+  "date_of_birth": "1965-08-02",
+  "issue_date": "2026-01-01",
+  "expiry_date": "2036-01-01",
+  "place_of_birth": "New Jeremyton",
+  "sample_id": "passport_0364"
+}

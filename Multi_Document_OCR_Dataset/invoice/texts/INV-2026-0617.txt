@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0617
+Company: SkyNet Office Mart
+Company Address: 91 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Apex Health Ltd
+Billing Address: 188 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-10
+Due Date: 2026-06-24
+Currency: BDT
+Subtotal: 2096.03
+Tax: 314.4
+Total: 2415.43
+Balance Due: 0.0
+Status: paid

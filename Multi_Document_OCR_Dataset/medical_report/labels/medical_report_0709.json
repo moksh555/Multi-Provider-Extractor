@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QL4XWOH6",
+  "patient_name": "Charles Guerra",
+  "visit_date": "2025-01-03",
+  "doctor_name": "Dr. Kristin Medina",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0709"
+}

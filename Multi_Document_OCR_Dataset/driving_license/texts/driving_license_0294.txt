@@ -1,0 +1,16 @@
+Synthetic Driving License
+Stephanie Ford
+License: DL160914586
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL160914586",
+  "full_name": "Stephanie Ford",
+  "date_of_birth": "1976-04-05",
+  "class": "D",
+  "issue_date": "2026-11-08",
+  "expiry_date": "2031-11-08",
+  "address": "812 Phillip Islands, Johnsonmouth, OR 93907",
+  "sample_id": "driving_license_0294"
+}

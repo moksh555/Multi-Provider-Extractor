@@ -1,0 +1,14 @@
+Medical Report MED-ESG12BE2
+Patient: Amber Smith
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ESG12BE2",
+  "patient_name": "Amber Smith",
+  "visit_date": "2025-10-15",
+  "doctor_name": "Dr. Rachel Nelson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0291"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0696
+Company: BlueRiver Trading Co.
+Company Address: 183 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Karim Enterprise
+Billing Address: 120 Agrabad C/A, Dhaka, Bangladesh
+Invoice Date: 2026-01-30
+Due Date: 2026-03-16
+Currency: BDT
+Subtotal: 9955.45
+Tax: 975.63
+Total: 10731.97
+Balance Due: 10731.97
+Status: unpaid

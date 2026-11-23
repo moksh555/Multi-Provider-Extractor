@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7WXE6SYLZ",
+  "policy_holder": "Natalie Meza",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-09-18",
+  "expiry_date": "2024-09-18",
+  "premium": 576.58,
+  "coverage_amount": 335815.42,
+  "beneficiary": "Daniel Guerrero",
+  "sample_id": "insurance_document_0031"
+}

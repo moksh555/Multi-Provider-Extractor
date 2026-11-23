@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL412006643",
+  "full_name": "Raymond Mccarthy",
+  "date_of_birth": "1995-10-29",
+  "class": "D",
+  "issue_date": "2022-03-07",
+  "expiry_date": "2027-03-07",
+  "address": "193 Sonia Village Suite 268, Henryview, TX 16261",
+  "sample_id": "driving_license_0655"
+}

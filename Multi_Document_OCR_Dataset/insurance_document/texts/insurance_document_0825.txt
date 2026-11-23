@@ -1,0 +1,16 @@
+Insurance Policy POL-OUZE66VW9
+Holder: Kurt Williams
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OUZE66VW9",
+  "policy_holder": "Kurt Williams",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-06-01",
+  "expiry_date": "2024-06-01",
+  "premium": 1878.22,
+  "coverage_amount": 183929.24,
+  "beneficiary": "Mr. Troy Hansen",
+  "sample_id": "insurance_document_0825"
+}

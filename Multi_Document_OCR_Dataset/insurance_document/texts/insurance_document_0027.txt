@@ -1,0 +1,16 @@
+Insurance Policy POL-L7253J2D5
+Holder: Jerry Christensen
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-L7253J2D5",
+  "policy_holder": "Jerry Christensen",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-03-31",
+  "expiry_date": "2025-03-31",
+  "premium": 594.98,
+  "coverage_amount": 460041.43,
+  "beneficiary": "Mary Rogers",
+  "sample_id": "insurance_document_0027"
+}

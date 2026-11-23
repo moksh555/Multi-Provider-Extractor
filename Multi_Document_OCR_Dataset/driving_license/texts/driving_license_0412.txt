@@ -1,0 +1,16 @@
+Synthetic Driving License
+Edward Gallegos
+License: DL841107024
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL841107024",
+  "full_name": "Edward Gallegos",
+  "date_of_birth": "1978-03-13",
+  "class": "A",
+  "issue_date": "2022-04-17",
+  "expiry_date": "2027-04-17",
+  "address": "16679 Johnson Locks Suite 899, Hallton, NC 02993",
+  "sample_id": "driving_license_0412"
+}

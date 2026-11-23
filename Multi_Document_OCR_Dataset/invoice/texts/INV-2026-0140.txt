@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0140
+Company: Eastern Care Pharmacy
+Company Address: 115 Gulshan Avenue, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 27 Al Barsha, Dubai, UAE
+Invoice Date: 2026-03-31
+Due Date: 2026-04-15
+Currency: AED
+Subtotal: 8479.7
+Tax: 423.99
+Total: 8903.69
+Balance Due: 2446.34
+Status: partial

@@ -1,0 +1,67 @@
+Receipt RCT-JR8FL9V2
+Merchant: Mclaughlin-Khan
+Date: 2026-02-07
+Total: $547.85
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JR8FL9V2",
+  "merchant_name": "Mclaughlin-Khan",
+  "date": "2026-02-07",
+  "subtotal": 524.14,
+  "tax": 35.85,
+  "discount": 12.14,
+  "total": 547.85,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$18.58",
+      "line_total": "$18.58"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$21.40",
+      "line_total": "$64.20"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$48.74",
+      "line_total": "$48.74"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$49.07",
+      "line_total": "$98.14"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$60.08",
+      "line_total": "$240.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$15.68",
+      "line_total": "$15.68"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$6.59",
+      "line_total": "$19.77"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$18.71",
+      "line_total": "$18.71"
+    }
+  ],
+  "sample_id": "receipt_0949"
+}

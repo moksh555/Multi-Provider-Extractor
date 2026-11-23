@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-WRJD1X4N",
+  "patient_name": "Richard Contreras",
+  "visit_date": "2024-02-04",
+  "doctor_name": "Dr. James Gomez",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0118"
+}

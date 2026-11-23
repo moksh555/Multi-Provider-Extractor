@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8DH9PTFN",
+  "merchant_name": "Vargas Group",
+  "date": "2024-11-26",
+  "subtotal": 245.03,
+  "tax": 15.12,
+  "discount": 8.14,
+  "total": 252.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$30.25",
+      "line_total": "$30.25"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$24.85",
+      "line_total": "$24.85"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$56.25",
+      "line_total": "$56.25"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$33.42",
+      "line_total": "$133.68"
+    }
+  ],
+  "sample_id": "receipt_0319"
+}

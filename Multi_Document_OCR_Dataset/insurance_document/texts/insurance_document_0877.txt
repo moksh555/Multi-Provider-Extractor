@@ -1,0 +1,16 @@
+Insurance Policy POL-4P0FT1AFD
+Holder: Lindsey Hines DDS
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4P0FT1AFD",
+  "policy_holder": "Lindsey Hines DDS",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-11-07",
+  "expiry_date": "2027-11-07",
+  "premium": 1057.83,
+  "coverage_amount": 114121.02,
+  "beneficiary": "Debbie Estrada",
+  "sample_id": "insurance_document_0877"
+}

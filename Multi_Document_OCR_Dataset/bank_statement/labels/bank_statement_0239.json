@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MD3BPEQP",
+  "account_holder": "Derek Clark",
+  "account_number_masked": "****1535",
+  "period_start": "2026-10-05",
+  "period_end": "2026-11-04",
+  "opening_balance": 1306.95,
+  "closing_balance": 2708.7,
+  "transactions": 9,
+  "sample_id": "bank_statement_0239"
+}

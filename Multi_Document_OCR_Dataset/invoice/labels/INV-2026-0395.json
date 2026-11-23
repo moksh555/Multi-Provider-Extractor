@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0395",
+  "invoice_number": "INV-2026-0395",
+  "company_name": "Metro Print House",
+  "company_address": "82 Motijheel C/A, Chattogram, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "15 Doha Business Park, Dubai, UAE",
+  "invoice_date": "2026-02-05",
+  "due_date": "2026-03-22",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 680.48,
+      "amount": 6124.32
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 12,
+      "unit_price": 534.58,
+      "amount": 6414.96
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 785.24,
+      "amount": 5496.68
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 596.79,
+      "amount": 5967.9
+    }
+  ],
+  "subtotal": 24003.86,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 3600.58,
+  "shipping": 25,
+  "total": 27629.44,
+  "amount_paid": 0,
+  "balance_due": 27629.44,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801723550122",
+  "po_number": "PO-99371"
+}

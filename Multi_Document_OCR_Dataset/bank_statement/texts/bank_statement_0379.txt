@@ -1,0 +1,16 @@
+Bank Statement STM-ADF5JJ00
+Holder: Laura Oneal
+Closing Balance: $9921.24
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ADF5JJ00",
+  "account_holder": "Laura Oneal",
+  "account_number_masked": "****1177",
+  "period_start": "2025-07-21",
+  "period_end": "2025-08-20",
+  "opening_balance": 4589.48,
+  "closing_balance": 9921.24,
+  "transactions": 13,
+  "sample_id": "bank_statement_0379"
+}

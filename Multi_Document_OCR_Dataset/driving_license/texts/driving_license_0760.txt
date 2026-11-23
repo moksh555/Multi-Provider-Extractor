@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joanna Adkins
+License: DL217588436
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL217588436",
+  "full_name": "Joanna Adkins",
+  "date_of_birth": "1994-02-18",
+  "class": "A",
+  "issue_date": "2021-11-06",
+  "expiry_date": "2026-11-06",
+  "address": "7727 Walker Heights Apt. 642, Jodychester, AS 39803",
+  "sample_id": "driving_license_0760"
+}

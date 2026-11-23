@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL042643438",
+  "full_name": "Joshua Barnes",
+  "date_of_birth": "1988-02-11",
+  "class": "D",
+  "issue_date": "2023-07-01",
+  "expiry_date": "2028-07-01",
+  "address": "611 Jose Shores Suite 768, East David, GA 11822",
+  "sample_id": "driving_license_0808"
+}

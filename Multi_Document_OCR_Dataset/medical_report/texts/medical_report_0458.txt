@@ -1,0 +1,14 @@
+Medical Report MED-NGXKLSPO
+Patient: Jason Austin
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-NGXKLSPO",
+  "patient_name": "Jason Austin",
+  "visit_date": "2024-08-28",
+  "doctor_name": "Dr. Debra Hernandez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0458"
+}

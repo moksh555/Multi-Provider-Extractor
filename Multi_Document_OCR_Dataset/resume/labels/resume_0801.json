@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Charlene Howard",
+  "email": "derek73@example.org",
+  "phone": "001-372-822-1553x250",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "Pandas",
+    "FastAPI",
+    "AWS",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0801"
+}

@@ -1,0 +1,61 @@
+Receipt RCT-421VMEFO
+Merchant: Reid-Martinez
+Date: 2025-02-24
+Total: $448.21
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-421VMEFO",
+  "merchant_name": "Reid-Martinez",
+  "date": "2025-02-24",
+  "subtotal": 419.33,
+  "tax": 36.73,
+  "discount": 7.85,
+  "total": 448.21,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$20.25",
+      "line_total": "$81.00"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$8.90",
+      "line_total": "$17.80"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$2.23",
+      "line_total": "$4.46"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$1.50",
+      "line_total": "$1.50"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$56.83",
+      "line_total": "$56.83"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$55.79",
+      "line_total": "$223.16"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$17.29",
+      "line_total": "$34.58"
+    }
+  ],
+  "sample_id": "receipt_0196"
+}

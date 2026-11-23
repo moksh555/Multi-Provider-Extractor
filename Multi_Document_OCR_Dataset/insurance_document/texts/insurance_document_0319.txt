@@ -1,0 +1,16 @@
+Insurance Policy POL-VINDH4SPF
+Holder: Amy Bishop
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VINDH4SPF",
+  "policy_holder": "Amy Bishop",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-12-30",
+  "expiry_date": "2024-12-30",
+  "premium": 1252.57,
+  "coverage_amount": 311226.6,
+  "beneficiary": "Brian Brown",
+  "sample_id": "insurance_document_0319"
+}

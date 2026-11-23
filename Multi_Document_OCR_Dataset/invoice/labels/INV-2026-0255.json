@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0255",
+  "invoice_number": "INV-2026-0255",
+  "company_name": "CityBanking Supplies",
+  "company_address": "45 Jumeirah Lake Towers, Dubai, UAE",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "178 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-06-25",
+  "due_date": "2026-07-25",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 8,
+      "unit_price": 31.3,
+      "amount": 250.4
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 1,
+      "unit_price": 814.21,
+      "amount": 814.21
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 644.43,
+      "amount": 1288.86
+    },
+    {
+      "description": "API Integration",
+      "quantity": 5,
+      "unit_price": 670.34,
+      "amount": 3351.7
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 322.16,
+      "amount": 2899.44
+    }
+  ],
+  "subtotal": 8604.61,
+  "discount": 430.23,
+  "tax_rate": 0.1,
+  "tax": 817.44,
+  "shipping": 25,
+  "total": 9016.82,
+  "amount_paid": 4703.49,
+  "balance_due": 4313.33,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801808164758",
+  "po_number": "PO-02915"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Anthony Washington
+License: DL230005115
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL230005115",
+  "full_name": "Anthony Washington",
+  "date_of_birth": "1967-11-14",
+  "class": "D",
+  "issue_date": "2026-06-08",
+  "expiry_date": "2031-06-08",
+  "address": "48942 Kelly Lane Suite 489, Reynoldschester, AR 43345",
+  "sample_id": "driving_license_0987"
+}

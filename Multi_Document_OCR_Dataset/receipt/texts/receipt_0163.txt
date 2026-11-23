@@ -1,0 +1,67 @@
+Receipt RCT-1NKBTFSH
+Merchant: Miller-Mccall
+Date: 2021-07-26
+Total: $1139.98
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1NKBTFSH",
+  "merchant_name": "Miller-Mccall",
+  "date": "2021-07-26",
+  "subtotal": 1061.94,
+  "tax": 86.46,
+  "discount": 8.42,
+  "total": 1139.98,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$60.47",
+      "line_total": "$241.88"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$35.12",
+      "line_total": "$70.24"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$11.44",
+      "line_total": "$22.88"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$46.14",
+      "line_total": "$184.56"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$21.74",
+      "line_total": "$86.96"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$62.13",
+      "line_total": "$248.52"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$38.99",
+      "line_total": "$77.98"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$32.23",
+      "line_total": "$128.92"
+    }
+  ],
+  "sample_id": "receipt_0163"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-KYPOFKJW6
+Holder: Martin Oconnell
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KYPOFKJW6",
+  "policy_holder": "Martin Oconnell",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-04-08",
+  "expiry_date": "2027-04-08",
+  "premium": 1748.56,
+  "coverage_amount": 234500.41,
+  "beneficiary": "Darren Ellis",
+  "sample_id": "insurance_document_0521"
+}

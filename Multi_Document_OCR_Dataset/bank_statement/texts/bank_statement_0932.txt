@@ -1,0 +1,16 @@
+Bank Statement STM-FLOH5RI7
+Holder: John Patrick
+Closing Balance: $1701.28
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FLOH5RI7",
+  "account_holder": "John Patrick",
+  "account_number_masked": "****6783",
+  "period_start": "2024-03-26",
+  "period_end": "2024-04-25",
+  "opening_balance": 1502.27,
+  "closing_balance": 1701.28,
+  "transactions": 8,
+  "sample_id": "bank_statement_0932"
+}

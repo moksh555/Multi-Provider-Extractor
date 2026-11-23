@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL747652792",
+  "full_name": "Samantha Holloway",
+  "date_of_birth": "2000-08-02",
+  "class": "D",
+  "issue_date": "2025-01-06",
+  "expiry_date": "2030-01-06",
+  "address": "6985 Neal Track, Lake Darlenemouth, WY 84531",
+  "sample_id": "driving_license_0391"
+}

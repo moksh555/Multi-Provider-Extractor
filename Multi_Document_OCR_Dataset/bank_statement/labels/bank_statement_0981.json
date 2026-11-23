@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-458LPU5G",
+  "account_holder": "Susan Smith",
+  "account_number_masked": "****1022",
+  "period_start": "2024-12-18",
+  "period_end": "2025-01-17",
+  "opening_balance": 4581.92,
+  "closing_balance": 4621.06,
+  "transactions": 9,
+  "sample_id": "bank_statement_0981"
+}

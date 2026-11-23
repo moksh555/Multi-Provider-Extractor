@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0123
+Company: Eastern Care Pharmacy
+Company Address: 107 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: Trust Finance Office
+Billing Address: 157 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-28
+Due Date: 2026-04-14
+Currency: BDT
+Subtotal: 25365.29
+Tax: 2485.8
+Total: 27343.78
+Balance Due: 27343.78
+Status: unpaid

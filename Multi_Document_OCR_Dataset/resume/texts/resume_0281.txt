@@ -1,0 +1,25 @@
+Resume
+Jason Roberts
+Machine Learning Engineer
+Skills: Computer Vision, AWS, LangChain, SQL, FastAPI, Machine Learning, Streamlit, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Jason Roberts",
+  "email": "richardneal@example.net",
+  "phone": "(525)249-2036",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Computer Vision",
+    "AWS",
+    "LangChain",
+    "SQL",
+    "FastAPI",
+    "Machine Learning",
+    "Streamlit",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0281"
+}

@@ -1,0 +1,55 @@
+Receipt RCT-WY1ZE5HB
+Merchant: Novak LLC
+Date: 2023-05-10
+Total: $583.68
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WY1ZE5HB",
+  "merchant_name": "Novak LLC",
+  "date": "2023-05-10",
+  "subtotal": 532.25,
+  "tax": 62.94,
+  "discount": 11.51,
+  "total": 583.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$11.64",
+      "line_total": "$46.56"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$4.02",
+      "line_total": "$12.06"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$56.73",
+      "line_total": "$56.73"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$54.94",
+      "line_total": "$164.82"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$79.67",
+      "line_total": "$159.34"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$46.37",
+      "line_total": "$92.74"
+    }
+  ],
+  "sample_id": "receipt_0966"
+}

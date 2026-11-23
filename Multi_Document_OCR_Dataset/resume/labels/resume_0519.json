@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Jeffrey Park",
+  "email": "katherineflores@example.com",
+  "phone": "4345563338",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "SQL",
+    "FastAPI",
+    "PyTorch",
+    "Python",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0519"
+}

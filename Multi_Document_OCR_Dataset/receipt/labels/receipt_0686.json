@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PJ0MMUG8",
+  "merchant_name": "Ho, Soto and Alexander",
+  "date": "2024-02-07",
+  "subtotal": 413.9,
+  "tax": 41.81,
+  "discount": 7.51,
+  "total": 448.2,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$8.98",
+      "line_total": "$8.98"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$44.19",
+      "line_total": "$88.38"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$37.62",
+      "line_total": "$75.24"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$19.45",
+      "line_total": "$77.80"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$54.50",
+      "line_total": "$163.50"
+    }
+  ],
+  "sample_id": "receipt_0686"
+}

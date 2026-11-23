@@ -1,0 +1,14 @@
+Medical Report MED-7FM7DEYC
+Patient: Tammy Butler
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7FM7DEYC",
+  "patient_name": "Tammy Butler",
+  "visit_date": "2024-06-20",
+  "doctor_name": "Dr. Joshua Rodriguez",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0263"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-Y1HTRFW1
+Patient: Vanessa Garcia
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Y1HTRFW1",
+  "patient_name": "Vanessa Garcia",
+  "visit_date": "2024-03-06",
+  "doctor_name": "Dr. Matthew Stone",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0739"
+}

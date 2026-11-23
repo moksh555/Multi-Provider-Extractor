@@ -1,0 +1,14 @@
+Medical Report MED-LJO7WN36
+Patient: Robin Thomas MD
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LJO7WN36",
+  "patient_name": "Robin Thomas MD",
+  "visit_date": "2024-04-06",
+  "doctor_name": "Dr. Hailey Lara",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0100"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-1KRAHTZR
+Patient: Dylan Mason
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-1KRAHTZR",
+  "patient_name": "Dylan Mason",
+  "visit_date": "2026-09-17",
+  "doctor_name": "Dr. John Davis",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0187"
+}

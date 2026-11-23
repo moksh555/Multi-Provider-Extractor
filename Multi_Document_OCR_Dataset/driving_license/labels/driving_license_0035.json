@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL483276346",
+  "full_name": "Tyler Reid",
+  "date_of_birth": "2005-11-10",
+  "class": "B",
+  "issue_date": "2025-04-22",
+  "expiry_date": "2030-04-22",
+  "address": "2849 Marshall Views, Marcusbury, MP 11860",
+  "sample_id": "driving_license_0035"
+}

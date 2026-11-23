@@ -1,0 +1,14 @@
+Medical Report MED-S6AYXM9K
+Patient: Joel Friedman
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-S6AYXM9K",
+  "patient_name": "Joel Friedman",
+  "visit_date": "2026-06-02",
+  "doctor_name": "Dr. Joan Thompson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0331"
+}

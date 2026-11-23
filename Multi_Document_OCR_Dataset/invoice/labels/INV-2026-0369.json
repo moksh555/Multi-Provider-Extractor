@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0369",
+  "invoice_number": "INV-2026-0369",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "49 Gulshan Avenue, Dhaka, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "245 Agrabad C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-03-11",
+  "due_date": "2026-03-26",
+  "currency": "USD",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 8,
+      "unit_price": 438.08,
+      "amount": 3504.64
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 525.3,
+      "amount": 5778.3
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 672.34,
+      "amount": 4034.04
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 3,
+      "unit_price": 334.6,
+      "amount": 1003.8
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 9,
+      "unit_price": 803.64,
+      "amount": 7232.76
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 10,
+      "unit_price": 685.28,
+      "amount": 6852.8
+    }
+  ],
+  "subtotal": 28406.34,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 2130.48,
+  "shipping": 0,
+  "total": 30536.82,
+  "amount_paid": 0,
+  "balance_due": 30536.82,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801135619733",
+  "po_number": "PO-37158"
+}

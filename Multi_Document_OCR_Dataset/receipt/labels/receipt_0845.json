@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7V8PRCMZ",
+  "merchant_name": "Ballard, Rogers and Harper",
+  "date": "2022-08-09",
+  "subtotal": 538.61,
+  "tax": 57.37,
+  "discount": 1.36,
+  "total": 594.62,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$18.98",
+      "line_total": "$75.92"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$76.23",
+      "line_total": "$152.46"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$62.75",
+      "line_total": "$188.25"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$40.66",
+      "line_total": "$121.98"
+    }
+  ],
+  "sample_id": "receipt_0845"
+}

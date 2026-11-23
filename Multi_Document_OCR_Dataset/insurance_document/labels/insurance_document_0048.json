@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B4GH2M5ZJ",
+  "policy_holder": "Anthony Harmon",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-11-24",
+  "expiry_date": "2026-11-24",
+  "premium": 2376.39,
+  "coverage_amount": 51950.35,
+  "beneficiary": "Nichole Alvarez",
+  "sample_id": "insurance_document_0048"
+}

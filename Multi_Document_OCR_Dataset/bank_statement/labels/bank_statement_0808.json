@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P4QXL6QP",
+  "account_holder": "Francis Burgess",
+  "account_number_masked": "****4925",
+  "period_start": "2025-03-14",
+  "period_end": "2025-04-13",
+  "opening_balance": 3613.4,
+  "closing_balance": 4300.09,
+  "transactions": 14,
+  "sample_id": "bank_statement_0808"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JH7RUABD",
+  "patient_name": "Caitlyn Salazar",
+  "visit_date": "2024-07-01",
+  "doctor_name": "Dr. Derrick Stevens",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0080"
+}

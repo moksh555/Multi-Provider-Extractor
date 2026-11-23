@@ -1,0 +1,16 @@
+Insurance Policy POL-7MHXOFKCG
+Holder: Kevin Wood
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7MHXOFKCG",
+  "policy_holder": "Kevin Wood",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-11-18",
+  "expiry_date": "2025-11-18",
+  "premium": 1686.07,
+  "coverage_amount": 225047.08,
+  "beneficiary": "Jeremy Riddle",
+  "sample_id": "insurance_document_0994"
+}

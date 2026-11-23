@@ -1,0 +1,55 @@
+Receipt RCT-VMXQYJRO
+Merchant: Garcia Inc
+Date: 2022-10-20
+Total: $941.06
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VMXQYJRO",
+  "merchant_name": "Garcia Inc",
+  "date": "2022-10-20",
+  "subtotal": 920.28,
+  "tax": 29.29,
+  "discount": 8.51,
+  "total": 941.06,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$72.48",
+      "line_total": "$289.92"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$51.97",
+      "line_total": "$103.94"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$78.93",
+      "line_total": "$157.86"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$22.15",
+      "line_total": "$22.15"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$55.50",
+      "line_total": "$166.50"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$59.97",
+      "line_total": "$179.91"
+    }
+  ],
+  "sample_id": "receipt_0503"
+}

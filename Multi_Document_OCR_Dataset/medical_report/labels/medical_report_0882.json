@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-338M138F",
+  "patient_name": "Amanda Mcbride",
+  "visit_date": "2025-07-01",
+  "doctor_name": "Dr. Glen Pearson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0882"
+}

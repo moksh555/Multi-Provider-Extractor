@@ -1,0 +1,27 @@
+Resume
+Gabriel Whitaker
+Backend Developer
+Skills: Pandas, Computer Vision, TensorFlow, PyTorch, Streamlit, AWS, SQL, NLP, Deep Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Gabriel Whitaker",
+  "email": "millsanthony@example.net",
+  "phone": "+1-882-852-1288",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "Computer Vision",
+    "TensorFlow",
+    "PyTorch",
+    "Streamlit",
+    "AWS",
+    "SQL",
+    "NLP",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0336"
+}

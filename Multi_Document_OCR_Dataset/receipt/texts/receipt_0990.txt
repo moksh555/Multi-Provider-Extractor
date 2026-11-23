@@ -1,0 +1,61 @@
+Receipt RCT-RD2KX2SW
+Merchant: Curtis, Turner and Taylor
+Date: 2025-05-21
+Total: $373.44
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RD2KX2SW",
+  "merchant_name": "Curtis, Turner and Taylor",
+  "date": "2025-05-21",
+  "subtotal": 344.01,
+  "tax": 40.48,
+  "discount": 11.05,
+  "total": 373.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$22.56",
+      "line_total": "$67.68"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$17.70",
+      "line_total": "$17.70"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$14.50",
+      "line_total": "$58.00"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$36.09",
+      "line_total": "$108.27"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$3.12",
+      "line_total": "$9.36"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$15.43",
+      "line_total": "$30.86"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$26.07",
+      "line_total": "$52.14"
+    }
+  ],
+  "sample_id": "receipt_0990"
+}

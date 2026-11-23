@@ -1,0 +1,16 @@
+Insurance Policy POL-0KW3PGSF3
+Holder: Terry Yoder
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0KW3PGSF3",
+  "policy_holder": "Terry Yoder",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-01-17",
+  "expiry_date": "2026-01-17",
+  "premium": 2212.2,
+  "coverage_amount": 63601.87,
+  "beneficiary": "Sara Freeman",
+  "sample_id": "insurance_document_0938"
+}

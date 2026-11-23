@@ -1,0 +1,24 @@
+Resume
+Andrea Hartman
+Computer Vision Engineer
+Skills: FastAPI, Deep Learning, Pandas, Python, PyTorch, Machine Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Andrea Hartman",
+  "email": "brandonwillis@example.net",
+  "phone": "(421)776-8012x696",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "Deep Learning",
+    "Pandas",
+    "Python",
+    "PyTorch",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0527"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Monica Medina
+License: DL361101524
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL361101524",
+  "full_name": "Monica Medina",
+  "date_of_birth": "1960-11-10",
+  "class": "D",
+  "issue_date": "2026-07-10",
+  "expiry_date": "2031-07-10",
+  "address": "801 Shannon Hollow Apt. 217, Alejandrabury, OK 58219",
+  "sample_id": "driving_license_0972"
+}

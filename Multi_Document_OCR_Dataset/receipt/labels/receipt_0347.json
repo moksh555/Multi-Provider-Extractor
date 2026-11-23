@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XR3URMWU",
+  "merchant_name": "Robinson PLC",
+  "date": "2022-07-19",
+  "subtotal": 223.01,
+  "tax": 11.32,
+  "discount": 9.02,
+  "total": 225.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$50.41",
+      "line_total": "$201.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$11.05",
+      "line_total": "$11.05"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$10.32",
+      "line_total": "$10.32"
+    }
+  ],
+  "sample_id": "receipt_0347"
+}

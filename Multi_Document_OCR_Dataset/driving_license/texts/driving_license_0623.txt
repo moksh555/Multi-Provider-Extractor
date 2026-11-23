@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sarah Fernandez
+License: DL000380194
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL000380194",
+  "full_name": "Sarah Fernandez",
+  "date_of_birth": "1987-01-17",
+  "class": "D",
+  "issue_date": "2026-11-06",
+  "expiry_date": "2031-11-06",
+  "address": "1187 William Freeway, West Ashley, MP 89763",
+  "sample_id": "driving_license_0623"
+}

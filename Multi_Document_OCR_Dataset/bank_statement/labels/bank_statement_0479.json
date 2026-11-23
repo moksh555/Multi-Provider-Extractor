@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CJVV0M96",
+  "account_holder": "Allison Friedman",
+  "account_number_masked": "****3346",
+  "period_start": "2026-12-26",
+  "period_end": "2027-01-25",
+  "opening_balance": 2728.19,
+  "closing_balance": 1912.09,
+  "transactions": 9,
+  "sample_id": "bank_statement_0479"
+}

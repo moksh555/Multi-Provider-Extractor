@@ -1,0 +1,25 @@
+Resume
+Chloe Maxwell
+Software Engineer
+Skills: Pandas, Python, TensorFlow, LangChain, Deep Learning, Computer Vision, PyTorch, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Chloe Maxwell",
+  "email": "smithjennifer@example.org",
+  "phone": "(442)465-3793",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Pandas",
+    "Python",
+    "TensorFlow",
+    "LangChain",
+    "Deep Learning",
+    "Computer Vision",
+    "PyTorch",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0199"
+}

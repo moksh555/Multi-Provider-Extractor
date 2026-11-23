@@ -1,0 +1,16 @@
+Insurance Policy POL-C3FZ47I07
+Holder: Alejandra Buck
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-C3FZ47I07",
+  "policy_holder": "Alejandra Buck",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-09-25",
+  "expiry_date": "2026-09-25",
+  "premium": 1851.2,
+  "coverage_amount": 156559.87,
+  "beneficiary": "Alexander Cochran",
+  "sample_id": "insurance_document_0654"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL323246338",
+  "full_name": "Kevin Stark",
+  "date_of_birth": "2001-10-22",
+  "class": "D",
+  "issue_date": "2021-02-07",
+  "expiry_date": "2026-02-07",
+  "address": "56915 Morris Estate Suite 752, Jeffreyshire, GU 23484",
+  "sample_id": "driving_license_0177"
+}

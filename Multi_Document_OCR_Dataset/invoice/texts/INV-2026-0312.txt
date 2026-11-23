@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0312
+Company: Eastern Care Pharmacy
+Company Address: 191 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 80 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-06
+Due Date: 2026-06-13
+Currency: USD
+Subtotal: 8863.69
+Tax: 443.18
+Total: 9306.87
+Balance Due: 9306.87
+Status: overdue

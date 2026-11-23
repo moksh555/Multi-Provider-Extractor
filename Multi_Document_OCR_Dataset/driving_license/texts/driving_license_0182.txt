@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Spencer
+License: DL050529086
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL050529086",
+  "full_name": "Jennifer Spencer",
+  "date_of_birth": "1976-01-31",
+  "class": "A",
+  "issue_date": "2021-03-14",
+  "expiry_date": "2026-03-14",
+  "address": "PSC 8444, Box 3106, APO AP 72546",
+  "sample_id": "driving_license_0182"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0833",
+  "invoice_number": "INV-2026-0833",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "32 Dhanmondi 27, Riyadh, Saudi Arabia",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "128 Road 12, Banani, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-05-02",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 11,
+      "unit_price": 143.87,
+      "amount": 1582.57
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 5,
+      "unit_price": 708.69,
+      "amount": 3543.45
+    },
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 246.99,
+      "amount": 1481.94
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 775.93,
+      "amount": 775.93
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 4,
+      "unit_price": 295.7,
+      "amount": 1182.8
+    }
+  ],
+  "subtotal": 8566.69,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 8571.69,
+  "amount_paid": 0,
+  "balance_due": 8571.69,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801661224872",
+  "po_number": "PO-22309"
+}

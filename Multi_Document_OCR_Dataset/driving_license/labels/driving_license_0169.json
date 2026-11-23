@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL947432411",
+  "full_name": "Lauren Moore",
+  "date_of_birth": "1970-02-14",
+  "class": "D",
+  "issue_date": "2020-05-11",
+  "expiry_date": "2025-05-11",
+  "address": "6185 Shannon Mountain Suite 112, Margaretton, IL 43465",
+  "sample_id": "driving_license_0169"
+}

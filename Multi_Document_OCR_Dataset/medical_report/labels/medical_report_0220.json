@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-PW3V7Q82",
+  "patient_name": "William Huff",
+  "visit_date": "2024-10-03",
+  "doctor_name": "Dr. Alexander Roberson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0220"
+}

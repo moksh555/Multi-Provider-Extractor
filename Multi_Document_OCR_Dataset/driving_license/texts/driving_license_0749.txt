@@ -1,0 +1,16 @@
+Synthetic Driving License
+Thomas Morse
+License: DL155616383
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL155616383",
+  "full_name": "Thomas Morse",
+  "date_of_birth": "1969-04-28",
+  "class": "D",
+  "issue_date": "2023-01-15",
+  "expiry_date": "2028-01-15",
+  "address": "158 Sherman Row, West Luke, NV 26458",
+  "sample_id": "driving_license_0749"
+}

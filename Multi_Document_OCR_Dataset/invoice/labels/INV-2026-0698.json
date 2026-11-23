@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0698",
+  "invoice_number": "INV-2026-0698",
+  "company_name": "BrightStar Electronics",
+  "company_address": "76 Al Barsha, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "183 Zindabazar Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-14",
+  "due_date": "2026-06-29",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 601.89,
+      "amount": 7222.68
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 12,
+      "unit_price": 372.47,
+      "amount": 4469.64
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 5,
+      "unit_price": 804.61,
+      "amount": 4023.05
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 173.41,
+      "amount": 1734.1
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 491.79,
+      "amount": 5409.69
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 241.38,
+      "amount": 241.38
+    }
+  ],
+  "subtotal": 23100.54,
+  "discount": 1155.03,
+  "tax_rate": 0.15,
+  "tax": 3291.83,
+  "shipping": 0,
+  "total": 25237.34,
+  "amount_paid": 0,
+  "balance_due": 25237.34,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801751935524",
+  "po_number": "PO-27582"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0576
+Company: SkyNet Office Mart
+Company Address: 126 Road 12, Banani, Chattogram, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 183 Dhanmondi 27, Dhaka, Bangladesh
+Invoice Date: 2026-04-18
+Due Date: 2026-06-02
+Currency: AED
+Subtotal: 22292.34
+Tax: 3009.47
+Total: 23072.58
+Balance Due: 23072.58
+Status: overdue

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0235",
+  "invoice_number": "INV-2026-0235",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "19 Zindabazar Road, Chattogram, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "39 Al Barsha, Dubai, UAE",
+  "invoice_date": "2026-01-21",
+  "due_date": "2026-01-28",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 520.56,
+      "amount": 6246.72
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 384.78,
+      "amount": 2308.68
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 6,
+      "unit_price": 252.89,
+      "amount": 1517.34
+    },
+    {
+      "description": "API Integration",
+      "quantity": 7,
+      "unit_price": 41.69,
+      "amount": 291.83
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 4,
+      "unit_price": 183.83,
+      "amount": 735.32
+    },
+    {
+      "description": "API Integration",
+      "quantity": 10,
+      "unit_price": 71.15,
+      "amount": 711.5
+    }
+  ],
+  "subtotal": 11811.39,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 590.57,
+  "shipping": 0,
+  "total": 12401.96,
+  "amount_paid": 0,
+  "balance_due": 12401.96,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801648185970",
+  "po_number": "PO-03912"
+}

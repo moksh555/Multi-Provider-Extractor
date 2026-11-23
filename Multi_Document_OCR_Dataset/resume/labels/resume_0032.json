@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "John Moore",
+  "email": "gomezmegan@example.net",
+  "phone": "688.821.7648",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Python",
+    "Docker",
+    "Machine Learning",
+    "Computer Vision",
+    "AWS",
+    "PyTorch",
+    "Streamlit",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0032"
+}

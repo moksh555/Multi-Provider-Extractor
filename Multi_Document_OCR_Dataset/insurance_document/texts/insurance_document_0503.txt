@@ -1,0 +1,16 @@
+Insurance Policy POL-2XK2PTHOW
+Holder: Ellen Alexander
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-2XK2PTHOW",
+  "policy_holder": "Ellen Alexander",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-10-07",
+  "expiry_date": "2027-10-07",
+  "premium": 1936.99,
+  "coverage_amount": 98494.42,
+  "beneficiary": "Theresa Freeman",
+  "sample_id": "insurance_document_0503"
+}

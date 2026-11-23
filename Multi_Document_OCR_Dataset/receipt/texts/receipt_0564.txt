@@ -1,0 +1,43 @@
+Receipt RCT-NDVDXDF6
+Merchant: Beltran, Lee and Newman
+Date: 2024-01-13
+Total: $427.54
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NDVDXDF6",
+  "merchant_name": "Beltran, Lee and Newman",
+  "date": "2024-01-13",
+  "subtotal": 417.17,
+  "tax": 22.23,
+  "discount": 11.86,
+  "total": 427.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$37.61",
+      "line_total": "$75.22"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$53.50",
+      "line_total": "$214.00"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$4.41",
+      "line_total": "$13.23"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$57.36",
+      "line_total": "$114.72"
+    }
+  ],
+  "sample_id": "receipt_0564"
+}

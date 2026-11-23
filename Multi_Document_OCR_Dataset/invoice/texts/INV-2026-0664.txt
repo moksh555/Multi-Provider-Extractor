@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0664
+Company: UrbanBuild Construction
+Company Address: 96 Sheikh Zayed Road, Dubai, UAE
+Customer: Ocean Exporters
+Billing Address: 189 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-02-18
+Due Date: 2026-04-04
+Currency: USD
+Subtotal: 4456.68
+Tax: 655.13
+Total: 5047.68
+Balance Due: 5047.68
+Status: unpaid

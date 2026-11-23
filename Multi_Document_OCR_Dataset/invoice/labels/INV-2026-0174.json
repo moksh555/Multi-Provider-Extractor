@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0174",
+  "invoice_number": "INV-2026-0174",
+  "company_name": "CityBanking Supplies",
+  "company_address": "128 Al Barsha, Riyadh, Saudi Arabia",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "146 Zindabazar Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-03-07",
+  "due_date": "2026-03-14",
+  "currency": "QAR",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 46.11,
+      "amount": 322.77
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 12,
+      "unit_price": 258.62,
+      "amount": 3103.44
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 12,
+      "unit_price": 391.11,
+      "amount": 4693.32
+    }
+  ],
+  "subtotal": 8119.53,
+  "discount": 405.98,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 7763.55,
+  "amount_paid": 7763.55,
+  "balance_due": 0.0,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801629811768",
+  "po_number": "PO-15011"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VHHPBMYOF",
+  "policy_holder": "Allen Nguyen",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-09-19",
+  "expiry_date": "2024-09-19",
+  "premium": 2454.12,
+  "coverage_amount": 271720.58,
+  "beneficiary": "Ian Jordan",
+  "sample_id": "insurance_document_0040"
+}

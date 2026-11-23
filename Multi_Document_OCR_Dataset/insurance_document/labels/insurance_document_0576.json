@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-QI9MQVAYX",
+  "policy_holder": "Randy Roach",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-31",
+  "expiry_date": "2027-05-31",
+  "premium": 1254.14,
+  "coverage_amount": 451708.05,
+  "beneficiary": "Dennis Conrad",
+  "sample_id": "insurance_document_0576"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Christopher Douglas",
+  "email": "wbaker@example.net",
+  "phone": "420.355.4829x8781",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "SQL",
+    "Python",
+    "FastAPI",
+    "LangChain",
+    "Computer Vision",
+    "PyTorch",
+    "Machine Learning",
+    "TensorFlow",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0332"
+}

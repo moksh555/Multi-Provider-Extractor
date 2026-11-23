@@ -1,0 +1,14 @@
+Medical Report MED-17CSO2HB
+Patient: Mark Stewart
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-17CSO2HB",
+  "patient_name": "Mark Stewart",
+  "visit_date": "2026-09-20",
+  "doctor_name": "Dr. Taylor Jones",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0037"
+}

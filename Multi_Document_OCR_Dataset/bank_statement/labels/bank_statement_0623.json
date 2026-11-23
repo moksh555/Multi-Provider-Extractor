@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZHBN2F4I",
+  "account_holder": "Rebecca Willis",
+  "account_number_masked": "****2833",
+  "period_start": "2026-03-25",
+  "period_end": "2026-04-24",
+  "opening_balance": 2708.31,
+  "closing_balance": 3937.06,
+  "transactions": 9,
+  "sample_id": "bank_statement_0623"
+}

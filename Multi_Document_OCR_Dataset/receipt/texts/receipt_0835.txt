@@ -1,0 +1,37 @@
+Receipt RCT-TGU8TL77
+Merchant: Hampton-Christensen
+Date: 2024-04-06
+Total: $262.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TGU8TL77",
+  "merchant_name": "Hampton-Christensen",
+  "date": "2024-04-06",
+  "subtotal": 265.2,
+  "tax": 11.28,
+  "discount": 14.36,
+  "total": 262.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$71.46",
+      "line_total": "$71.46"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$39.14",
+      "line_total": "$117.42"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$76.32",
+      "line_total": "$76.32"
+    }
+  ],
+  "sample_id": "receipt_0835"
+}

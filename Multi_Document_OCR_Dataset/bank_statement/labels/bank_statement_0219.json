@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HMEZVSQ3",
+  "account_holder": "Matthew Wright",
+  "account_number_masked": "****6345",
+  "period_start": "2025-03-13",
+  "period_end": "2025-04-12",
+  "opening_balance": 785.87,
+  "closing_balance": 3069.73,
+  "transactions": 14,
+  "sample_id": "bank_statement_0219"
+}

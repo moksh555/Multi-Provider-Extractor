@@ -1,0 +1,37 @@
+Receipt RCT-37PD7CDZ
+Merchant: Stone-Hunter
+Date: 2025-09-30
+Total: $267.22
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-37PD7CDZ",
+  "merchant_name": "Stone-Hunter",
+  "date": "2025-09-30",
+  "subtotal": 246.83,
+  "tax": 25.4,
+  "discount": 5.01,
+  "total": 267.22,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$49.67",
+      "line_total": "$149.01"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$22.18",
+      "line_total": "$22.18"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$75.64",
+      "line_total": "$75.64"
+    }
+  ],
+  "sample_id": "receipt_0952"
+}

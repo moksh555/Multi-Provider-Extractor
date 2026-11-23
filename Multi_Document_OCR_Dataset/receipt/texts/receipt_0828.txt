@@ -1,0 +1,49 @@
+Receipt RCT-UQDJI6SO
+Merchant: Davis-Scott
+Date: 2025-05-06
+Total: $440.35
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UQDJI6SO",
+  "merchant_name": "Davis-Scott",
+  "date": "2025-05-06",
+  "subtotal": 427.58,
+  "tax": 25.64,
+  "discount": 12.87,
+  "total": 440.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$2.81",
+      "line_total": "$5.62"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$75.45",
+      "line_total": "$75.45"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$65.57",
+      "line_total": "$131.14"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$29.82",
+      "line_total": "$119.28"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$32.03",
+      "line_total": "$96.09"
+    }
+  ],
+  "sample_id": "receipt_0828"
+}

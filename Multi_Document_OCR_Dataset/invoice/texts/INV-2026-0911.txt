@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0911
+Company: Golden Harvest Store
+Company Address: 126 Dhanmondi 27, Dubai, UAE
+Customer: Smart Retail LLC
+Billing Address: 159 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-02-12
+Due Date: 2026-03-14
+Currency: USD
+Subtotal: 31948.95
+Tax: 2396.17
+Total: 34350.12
+Balance Due: 0.0
+Status: paid

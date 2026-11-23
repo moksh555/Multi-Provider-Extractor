@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-TTV2MUDC",
+  "patient_name": "Justin Arellano",
+  "visit_date": "2026-04-02",
+  "doctor_name": "Dr. Joseph Yu",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0631"
+}

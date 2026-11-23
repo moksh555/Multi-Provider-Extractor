@@ -1,0 +1,16 @@
+Insurance Policy POL-9X8SYLEMR
+Holder: Curtis Griffin
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9X8SYLEMR",
+  "policy_holder": "Curtis Griffin",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-09-28",
+  "expiry_date": "2027-09-28",
+  "premium": 1810.09,
+  "coverage_amount": 340379.31,
+  "beneficiary": "Derrick Burke",
+  "sample_id": "insurance_document_0289"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-89X22J7Q4
+Holder: Brenda Horn
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-89X22J7Q4",
+  "policy_holder": "Brenda Horn",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-01-29",
+  "expiry_date": "2026-01-29",
+  "premium": 465.07,
+  "coverage_amount": 173523.86,
+  "beneficiary": "Erin Gonzalez",
+  "sample_id": "insurance_document_0919"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL889448788",
+  "full_name": "Nathan Wilkerson",
+  "date_of_birth": "1974-05-21",
+  "class": "A",
+  "issue_date": "2022-12-04",
+  "expiry_date": "2027-12-04",
+  "address": "288 West Curve, Kellychester, AZ 93924",
+  "sample_id": "driving_license_0548"
+}

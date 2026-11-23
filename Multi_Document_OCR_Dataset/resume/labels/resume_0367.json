@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Melissa Schmitt",
+  "email": "dtate@example.net",
+  "phone": "001-652-989-0566x51837",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "Pandas",
+    "Computer Vision",
+    "Machine Learning",
+    "NLP",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0367"
+}

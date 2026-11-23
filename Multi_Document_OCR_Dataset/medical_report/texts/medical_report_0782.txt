@@ -1,0 +1,14 @@
+Medical Report MED-DTTUJZ3Q
+Patient: Brian Gibson
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DTTUJZ3Q",
+  "patient_name": "Brian Gibson",
+  "visit_date": "2026-03-23",
+  "doctor_name": "Dr. Sheila Hines",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0782"
+}

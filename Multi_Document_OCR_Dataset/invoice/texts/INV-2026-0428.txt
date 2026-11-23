@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0428
+Company: PrimeSoft Technologies
+Company Address: 57 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 39 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-04-26
+Due Date: 2026-06-10
+Currency: SAR
+Subtotal: 10829.24
+Tax: 771.58
+Total: 11059.36
+Balance Due: 11059.36
+Status: overdue

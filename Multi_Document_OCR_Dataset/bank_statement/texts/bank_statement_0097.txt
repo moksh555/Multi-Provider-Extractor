@@ -1,0 +1,16 @@
+Bank Statement STM-M767JEZ2
+Holder: Rachel Daniels
+Closing Balance: $4500.59
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-M767JEZ2",
+  "account_holder": "Rachel Daniels",
+  "account_number_masked": "****1058",
+  "period_start": "2024-12-02",
+  "period_end": "2025-01-01",
+  "opening_balance": 3373.67,
+  "closing_balance": 4500.59,
+  "transactions": 11,
+  "sample_id": "bank_statement_0097"
+}

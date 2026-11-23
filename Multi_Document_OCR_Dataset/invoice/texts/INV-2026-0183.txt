@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0183
+Company: PrimeSoft Technologies
+Company Address: 199 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 32 Jumeirah Lake Towers, Sylhet, Bangladesh
+Invoice Date: 2026-01-18
+Due Date: 2026-01-25
+Currency: SAR
+Subtotal: 27617.97
+Tax: 4059.84
+Total: 31135.45
+Balance Due: 31135.45
+Status: overdue

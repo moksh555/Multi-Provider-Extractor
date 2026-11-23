@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tiffany Chase
+License: DL160572446
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL160572446",
+  "full_name": "Tiffany Chase",
+  "date_of_birth": "1975-12-24",
+  "class": "D",
+  "issue_date": "2020-06-07",
+  "expiry_date": "2025-06-07",
+  "address": "04016 Davenport Crossing, West Connieview, PR 84882",
+  "sample_id": "driving_license_0887"
+}

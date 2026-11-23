@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Charles Poole",
+  "email": "pbrown@example.net",
+  "phone": "(218)967-0663x20162",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "TensorFlow",
+    "SQL",
+    "Machine Learning",
+    "Pandas",
+    "LangChain",
+    "PyTorch",
+    "Docker",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0118"
+}

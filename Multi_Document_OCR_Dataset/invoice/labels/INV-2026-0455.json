@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0455",
+  "invoice_number": "INV-2026-0455",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "57 Dhanmondi 27, Riyadh, Saudi Arabia",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "15 Dhanmondi 27, Doha, Qatar",
+  "invoice_date": "2026-03-02",
+  "due_date": "2026-03-17",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 2,
+      "unit_price": 74.25,
+      "amount": 148.5
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 11,
+      "unit_price": 453.42,
+      "amount": 4987.62
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 322.79,
+      "amount": 322.79
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 6,
+      "unit_price": 735.12,
+      "amount": 4410.72
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 12,
+      "unit_price": 482.65,
+      "amount": 5791.8
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 8,
+      "unit_price": 286.55,
+      "amount": 2292.4
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 502.11,
+      "amount": 3514.77
+    }
+  ],
+  "subtotal": 21468.6,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 1073.43,
+  "shipping": 50,
+  "total": 22592.03,
+  "amount_paid": 14656.44,
+  "balance_due": 7935.59,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801799319459",
+  "po_number": "PO-23773"
+}

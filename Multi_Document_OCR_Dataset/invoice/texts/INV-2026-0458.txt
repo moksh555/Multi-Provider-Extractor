@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0458
+Company: Metro Print House
+Company Address: 78 Al Barsha, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 228 Al Barsha, Dubai, UAE
+Invoice Date: 2026-01-13
+Due Date: 2026-01-20
+Currency: SAR
+Subtotal: 21785.64
+Tax: 1089.28
+Total: 22924.92
+Balance Due: 22924.92
+Status: unpaid

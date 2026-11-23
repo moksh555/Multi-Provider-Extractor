@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZNV6L8JV",
+  "merchant_name": "Morgan-Thomas",
+  "date": "2026-11-25",
+  "subtotal": 618.64,
+  "tax": 59.4,
+  "discount": 12.97,
+  "total": 665.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$79.49",
+      "line_total": "$158.98"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$70.79",
+      "line_total": "$283.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$4.51",
+      "line_total": "$9.02"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$67.34",
+      "line_total": "$134.68"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$8.20",
+      "line_total": "$32.80"
+    }
+  ],
+  "sample_id": "receipt_0998"
+}

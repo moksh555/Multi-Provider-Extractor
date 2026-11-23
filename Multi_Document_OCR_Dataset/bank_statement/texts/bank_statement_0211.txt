@@ -1,0 +1,16 @@
+Bank Statement STM-533UOT47
+Holder: Dakota Zamora
+Closing Balance: $1490.22
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-533UOT47",
+  "account_holder": "Dakota Zamora",
+  "account_number_masked": "****0517",
+  "period_start": "2024-11-08",
+  "period_end": "2024-12-08",
+  "opening_balance": 1560.05,
+  "closing_balance": 1490.22,
+  "transactions": 11,
+  "sample_id": "bank_statement_0211"
+}

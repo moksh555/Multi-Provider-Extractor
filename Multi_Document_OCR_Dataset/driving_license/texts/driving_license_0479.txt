@@ -1,0 +1,16 @@
+Synthetic Driving License
+Christopher Gonzalez
+License: DL011894190
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL011894190",
+  "full_name": "Christopher Gonzalez",
+  "date_of_birth": "1992-09-02",
+  "class": "B",
+  "issue_date": "2023-03-13",
+  "expiry_date": "2028-03-13",
+  "address": "4973 Huffman Orchard, West Raymondburgh, NJ 58353",
+  "sample_id": "driving_license_0479"
+}

@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SNJCZOBD",
+  "merchant_name": "Flowers-King",
+  "date": "2026-03-07",
+  "subtotal": 814.14,
+  "tax": 40.1,
+  "discount": 3.96,
+  "total": 850.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$43.30",
+      "line_total": "$129.90"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$66.43",
+      "line_total": "$265.72"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$77.10",
+      "line_total": "$231.30"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$53.87",
+      "line_total": "$107.74"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$39.74",
+      "line_total": "$79.48"
+    }
+  ],
+  "sample_id": "receipt_0664"
+}

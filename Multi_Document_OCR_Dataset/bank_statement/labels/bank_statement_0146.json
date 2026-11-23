@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6C2RRA3P",
+  "account_holder": "Daniel Ramirez",
+  "account_number_masked": "****0451",
+  "period_start": "2025-10-09",
+  "period_end": "2025-11-08",
+  "opening_balance": 3579.22,
+  "closing_balance": 5455.75,
+  "transactions": 10,
+  "sample_id": "bank_statement_0146"
+}

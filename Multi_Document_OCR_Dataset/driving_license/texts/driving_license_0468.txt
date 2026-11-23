@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mark Carter
+License: DL098459364
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL098459364",
+  "full_name": "Mark Carter",
+  "date_of_birth": "1968-02-18",
+  "class": "C",
+  "issue_date": "2024-02-05",
+  "expiry_date": "2029-02-05",
+  "address": "PSC 3768, Box 1511, APO AP 43232",
+  "sample_id": "driving_license_0468"
+}

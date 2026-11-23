@@ -1,0 +1,49 @@
+Receipt RCT-LL6DOWX1
+Merchant: Fischer, Ward and Ortega
+Date: 2023-04-09
+Total: $603.21
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LL6DOWX1",
+  "merchant_name": "Fischer, Ward and Ortega",
+  "date": "2023-04-09",
+  "subtotal": 554.81,
+  "tax": 51.38,
+  "discount": 2.98,
+  "total": 603.21,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$27.62",
+      "line_total": "$82.86"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$60.63",
+      "line_total": "$181.89"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$2.26",
+      "line_total": "$6.78"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$72.80",
+      "line_total": "$218.40"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$32.44",
+      "line_total": "$64.88"
+    }
+  ],
+  "sample_id": "receipt_0422"
+}

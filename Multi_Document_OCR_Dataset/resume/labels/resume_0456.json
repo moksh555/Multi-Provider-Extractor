@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Christopher Patterson",
+  "email": "dan14@example.net",
+  "phone": "(804)438-4504",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Python",
+    "AWS",
+    "Pandas",
+    "FastAPI",
+    "Deep Learning",
+    "Streamlit",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0456"
+}

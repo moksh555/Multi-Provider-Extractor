@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Timothy Fields",
+  "email": "beltransamantha@example.net",
+  "phone": "+1-556-274-0920x16759",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "Deep Learning",
+    "LangChain",
+    "Computer Vision",
+    "TensorFlow",
+    "SQL",
+    "Machine Learning",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0605"
+}

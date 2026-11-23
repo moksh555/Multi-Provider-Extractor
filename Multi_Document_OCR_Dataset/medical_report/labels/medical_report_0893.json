@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ISOTU4U0",
+  "patient_name": "Christopher Young",
+  "visit_date": "2025-04-18",
+  "doctor_name": "Dr. Michelle Lamb",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0893"
+}

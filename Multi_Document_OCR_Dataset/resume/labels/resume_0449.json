@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Sarah Quinn",
+  "email": "thompsonjessica@example.net",
+  "phone": "474-627-1832",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "Computer Vision",
+    "Machine Learning",
+    "LangChain",
+    "Deep Learning",
+    "PyTorch",
+    "SQL",
+    "AWS",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0449"
+}

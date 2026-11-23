@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Jeremy Morris",
+  "email": "chad76@example.com",
+  "phone": "353-798-1889x07378",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "NLP",
+    "Docker",
+    "SQL",
+    "TensorFlow",
+    "AWS",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0154"
+}

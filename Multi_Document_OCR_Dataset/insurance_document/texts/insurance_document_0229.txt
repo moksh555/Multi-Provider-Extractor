@@ -1,0 +1,16 @@
+Insurance Policy POL-NPX2I9TAN
+Holder: Justin Irwin
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NPX2I9TAN",
+  "policy_holder": "Justin Irwin",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-09-09",
+  "expiry_date": "2026-09-09",
+  "premium": 1415.95,
+  "coverage_amount": 247492.95,
+  "beneficiary": "Douglas Johnson",
+  "sample_id": "insurance_document_0229"
+}

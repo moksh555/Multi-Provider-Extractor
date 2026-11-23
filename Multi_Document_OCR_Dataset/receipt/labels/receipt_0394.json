@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XYDUPPGB",
+  "merchant_name": "Neal-Gill",
+  "date": "2023-07-08",
+  "subtotal": 585.7,
+  "tax": 63.09,
+  "discount": 12.75,
+  "total": 636.04,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$75.69",
+      "line_total": "$302.76"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$14.15",
+      "line_total": "$28.30"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$76.20",
+      "line_total": "$76.20"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$44.61",
+      "line_total": "$178.44"
+    }
+  ],
+  "sample_id": "receipt_0394"
+}

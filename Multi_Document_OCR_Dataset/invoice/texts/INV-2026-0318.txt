@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0318
+Company: Nova Medical Supplies
+Company Address: 147 Sheikh Zayed Road, Chattogram, Bangladesh
+Customer: Bengal Motors
+Billing Address: 25 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-02
+Due Date: 2026-06-01
+Currency: USD
+Subtotal: 10442.59
+Tax: 704.87
+Total: 10103.2
+Balance Due: 10103.2
+Status: unpaid

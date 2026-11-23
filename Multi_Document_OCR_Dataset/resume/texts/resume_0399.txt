@@ -1,0 +1,24 @@
+Resume
+Charles Gregory
+Software Engineer
+Skills: AWS, LangChain, Python, FastAPI, TensorFlow, Docker, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Charles Gregory",
+  "email": "samuelhill@example.org",
+  "phone": "001-851-385-2557",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "AWS",
+    "LangChain",
+    "Python",
+    "FastAPI",
+    "TensorFlow",
+    "Docker",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0399"
+}

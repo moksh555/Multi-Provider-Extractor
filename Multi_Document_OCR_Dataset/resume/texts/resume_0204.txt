@@ -1,0 +1,24 @@
+Resume
+Jonathan Irwin
+Computer Vision Engineer
+Skills: Python, PyTorch, Computer Vision, Machine Learning, FastAPI, LangChain, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Jonathan Irwin",
+  "email": "grantvanessa@example.net",
+  "phone": "926-393-7650x1676",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Computer Vision",
+    "Machine Learning",
+    "FastAPI",
+    "LangChain",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0204"
+}

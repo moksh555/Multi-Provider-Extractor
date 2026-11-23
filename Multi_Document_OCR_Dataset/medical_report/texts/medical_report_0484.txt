@@ -1,0 +1,14 @@
+Medical Report MED-BY97HM84
+Patient: Christopher Higgins
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BY97HM84",
+  "patient_name": "Christopher Higgins",
+  "visit_date": "2024-04-22",
+  "doctor_name": "Dr. Benjamin Dawson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0484"
+}

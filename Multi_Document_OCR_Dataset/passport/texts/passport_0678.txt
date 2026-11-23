@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kristin West
+Passport No: P68267169
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P68267169",
+  "full_name": "Kristin West",
+  "nationality": "BD",
+  "date_of_birth": "1978-04-25",
+  "issue_date": "2026-10-22",
+  "expiry_date": "2036-10-22",
+  "place_of_birth": "Port Lori",
+  "sample_id": "passport_0678"
+}

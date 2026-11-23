@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jeremiah Walsh
+License: DL593793465
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL593793465",
+  "full_name": "Jeremiah Walsh",
+  "date_of_birth": "1974-06-10",
+  "class": "B",
+  "issue_date": "2022-01-23",
+  "expiry_date": "2027-01-23",
+  "address": "41027 Alvarez Mountains Apt. 667, Dustinchester, AL 38353",
+  "sample_id": "driving_license_0324"
+}

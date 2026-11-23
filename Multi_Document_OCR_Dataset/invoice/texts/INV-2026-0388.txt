@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0388
+Company: SkyNet Office Mart
+Company Address: 28 Gulshan Avenue, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 164 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-01-28
+Due Date: 2026-02-27
+Currency: BDT
+Subtotal: 4844.22
+Tax: 435.98
+Total: 4805.78
+Balance Due: 4805.78
+Status: unpaid

@@ -1,0 +1,16 @@
+Bank Statement STM-TG5HJ99V
+Holder: Steven Roberts
+Closing Balance: $7813.22
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TG5HJ99V",
+  "account_holder": "Steven Roberts",
+  "account_number_masked": "****2368",
+  "period_start": "2024-02-16",
+  "period_end": "2024-03-17",
+  "opening_balance": 2854.29,
+  "closing_balance": 7813.22,
+  "transactions": 10,
+  "sample_id": "bank_statement_0661"
+}

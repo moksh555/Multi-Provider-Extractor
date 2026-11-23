@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Diana Martinez",
+  "email": "andrewherrera@example.com",
+  "phone": "001-996-607-5789x849",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "NLP",
+    "FastAPI",
+    "Streamlit",
+    "PyTorch",
+    "Computer Vision",
+    "Python",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0223"
+}

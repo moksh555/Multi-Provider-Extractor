@@ -1,0 +1,55 @@
+Receipt RCT-ZA8E83MT
+Merchant: Bonilla-Barker
+Date: 2022-04-04
+Total: $750.84
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZA8E83MT",
+  "merchant_name": "Bonilla-Barker",
+  "date": "2022-04-04",
+  "subtotal": 714.58,
+  "tax": 51.25,
+  "discount": 14.99,
+  "total": 750.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$9.36",
+      "line_total": "$18.72"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$76.45",
+      "line_total": "$229.35"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$64.63",
+      "line_total": "$129.26"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$58.87",
+      "line_total": "$176.61"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$38.84",
+      "line_total": "$116.52"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$11.03",
+      "line_total": "$44.12"
+    }
+  ],
+  "sample_id": "receipt_0674"
+}

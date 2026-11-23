@@ -1,0 +1,14 @@
+Medical Report MED-X86Y4IYT
+Patient: Amy Thomas
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-X86Y4IYT",
+  "patient_name": "Amy Thomas",
+  "visit_date": "2026-01-12",
+  "doctor_name": "Dr. Douglas Hahn",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0120"
+}

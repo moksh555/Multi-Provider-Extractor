@@ -1,0 +1,14 @@
+Medical Report MED-D3QCTPVN
+Patient: Jessica Salazar
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-D3QCTPVN",
+  "patient_name": "Jessica Salazar",
+  "visit_date": "2024-03-22",
+  "doctor_name": "Dr. Katie Parsons",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0374"
+}

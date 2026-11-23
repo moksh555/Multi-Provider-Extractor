@@ -1,0 +1,16 @@
+Bank Statement STM-PN3VWTKC
+Holder: Michael Perez
+Closing Balance: $7433.53
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PN3VWTKC",
+  "account_holder": "Michael Perez",
+  "account_number_masked": "****4111",
+  "period_start": "2026-02-02",
+  "period_end": "2026-03-04",
+  "opening_balance": 3116.65,
+  "closing_balance": 7433.53,
+  "transactions": 12,
+  "sample_id": "bank_statement_0189"
+}

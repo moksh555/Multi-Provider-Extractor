@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mr. Justin Murillo
+License: DL327510201
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL327510201",
+  "full_name": "Mr. Justin Murillo",
+  "date_of_birth": "1984-12-01",
+  "class": "C",
+  "issue_date": "2021-06-28",
+  "expiry_date": "2026-06-28",
+  "address": "969 Francis Squares, Lindaview, NE 49027",
+  "sample_id": "driving_license_0737"
+}

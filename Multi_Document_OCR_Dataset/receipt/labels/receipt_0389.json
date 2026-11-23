@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YJMK3TGM",
+  "merchant_name": "Young PLC",
+  "date": "2021-03-13",
+  "subtotal": 984.5,
+  "tax": 51.16,
+  "discount": 12.38,
+  "total": 1023.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$51.24",
+      "line_total": "$153.72"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$58.82",
+      "line_total": "$176.46"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$14.84",
+      "line_total": "$29.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$58.42",
+      "line_total": "$116.84"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$71.52",
+      "line_total": "$286.08"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$55.43",
+      "line_total": "$221.72"
+    }
+  ],
+  "sample_id": "receipt_0389"
+}

@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0692",
+  "invoice_number": "INV-2026-0692",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "97 Zindabazar Road, Riyadh, Saudi Arabia",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "139 Agrabad C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-04",
+  "due_date": "2026-02-03",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 343.03,
+      "amount": 1372.12
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 49.24,
+      "amount": 344.68
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 290.55,
+      "amount": 1452.75
+    },
+    {
+      "description": "API Integration",
+      "quantity": 3,
+      "unit_price": 200.92,
+      "amount": 602.76
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 8,
+      "unit_price": 71.55,
+      "amount": 572.4
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 6,
+      "unit_price": 429.14,
+      "amount": 2574.84
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 10,
+      "unit_price": 542.05,
+      "amount": 5420.5
+    }
+  ],
+  "subtotal": 12340.05,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 617.0,
+  "shipping": 0,
+  "total": 12957.05,
+  "amount_paid": 0,
+  "balance_due": 12957.05,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801375499601",
+  "po_number": "PO-01155"
+}

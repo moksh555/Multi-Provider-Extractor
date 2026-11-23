@@ -1,0 +1,14 @@
+Medical Report MED-W8KD5PM7
+Patient: Sarah Robinson
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-W8KD5PM7",
+  "patient_name": "Sarah Robinson",
+  "visit_date": "2026-05-19",
+  "doctor_name": "Dr. Joseph Carter",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0742"
+}

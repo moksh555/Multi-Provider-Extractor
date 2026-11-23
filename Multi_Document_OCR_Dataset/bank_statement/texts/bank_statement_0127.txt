@@ -1,0 +1,16 @@
+Bank Statement STM-441WMKXI
+Holder: Stephen Novak
+Closing Balance: $8053.57
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-441WMKXI",
+  "account_holder": "Stephen Novak",
+  "account_number_masked": "****0325",
+  "period_start": "2025-11-07",
+  "period_end": "2025-12-07",
+  "opening_balance": 3891.74,
+  "closing_balance": 8053.57,
+  "transactions": 14,
+  "sample_id": "bank_statement_0127"
+}

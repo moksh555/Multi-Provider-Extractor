@@ -1,0 +1,61 @@
+Receipt RCT-32NBZWBH
+Merchant: Rhodes-Randolph
+Date: 2025-08-08
+Total: $923.92
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-32NBZWBH",
+  "merchant_name": "Rhodes-Randolph",
+  "date": "2025-08-08",
+  "subtotal": 880.67,
+  "tax": 46.16,
+  "discount": 2.91,
+  "total": 923.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$63.14",
+      "line_total": "$189.42"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$10.94",
+      "line_total": "$21.88"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$64.36",
+      "line_total": "$193.08"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$20.97",
+      "line_total": "$83.88"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$21.67",
+      "line_total": "$21.67"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$44.25",
+      "line_total": "$88.50"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$70.56",
+      "line_total": "$282.24"
+    }
+  ],
+  "sample_id": "receipt_0513"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL559439455",
+  "full_name": "Lisa Patterson",
+  "date_of_birth": "1983-09-19",
+  "class": "D",
+  "issue_date": "2026-11-03",
+  "expiry_date": "2031-11-03",
+  "address": "09584 Mario Squares, Keithview, PR 67926",
+  "sample_id": "driving_license_0151"
+}

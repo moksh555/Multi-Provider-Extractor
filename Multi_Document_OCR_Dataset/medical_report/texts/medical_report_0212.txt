@@ -1,0 +1,14 @@
+Medical Report MED-JJQKXTD4
+Patient: Annette Simpson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JJQKXTD4",
+  "patient_name": "Annette Simpson",
+  "visit_date": "2025-10-08",
+  "doctor_name": "Dr. Steven Barrett",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0212"
+}

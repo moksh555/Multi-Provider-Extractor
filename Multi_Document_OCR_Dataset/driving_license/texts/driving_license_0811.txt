@@ -1,0 +1,16 @@
+Synthetic Driving License
+Daniel Thompson
+License: DL064290415
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL064290415",
+  "full_name": "Daniel Thompson",
+  "date_of_birth": "2005-07-26",
+  "class": "A",
+  "issue_date": "2023-09-28",
+  "expiry_date": "2028-09-28",
+  "address": "28217 Ashlee Gateway, Francostad, IN 34903",
+  "sample_id": "driving_license_0811"
+}

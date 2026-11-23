@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Cheryl Barron",
+  "email": "melaniejohnson@example.org",
+  "phone": "787-964-1261x395",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "SQL",
+    "FastAPI",
+    "Pandas",
+    "LangChain",
+    "Deep Learning",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0546"
+}

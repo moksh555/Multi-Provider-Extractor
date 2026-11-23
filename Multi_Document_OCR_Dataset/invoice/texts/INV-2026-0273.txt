@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0273
+Company: Nova Medical Supplies
+Company Address: 160 Motijheel C/A, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 173 Agrabad C/A, Sylhet, Bangladesh
+Invoice Date: 2026-05-01
+Due Date: 2026-05-16
+Currency: SAR
+Subtotal: 16321.05
+Tax: 1599.46
+Total: 17619.09
+Balance Due: 17619.09
+Status: unpaid

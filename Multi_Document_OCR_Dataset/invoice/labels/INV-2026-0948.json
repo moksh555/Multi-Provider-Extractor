@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0948",
+  "invoice_number": "INV-2026-0948",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "34 Motijheel C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "107 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-18",
+  "due_date": "2026-04-25",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 7,
+      "unit_price": 661.21,
+      "amount": 4628.47
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 9,
+      "unit_price": 104.62,
+      "amount": 941.58
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 10,
+      "unit_price": 448.94,
+      "amount": 4489.4
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 7,
+      "unit_price": 662.51,
+      "amount": 4637.57
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 8,
+      "unit_price": 696.96,
+      "amount": 5575.68
+    }
+  ],
+  "subtotal": 20272.7,
+  "discount": 405.45,
+  "tax_rate": 0.05,
+  "tax": 993.36,
+  "shipping": 5,
+  "total": 20865.61,
+  "amount_paid": 20865.61,
+  "balance_due": 0.0,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801558563010",
+  "po_number": "PO-50272"
+}

@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Jennifer Gay",
+  "email": "yolandabrown@example.com",
+  "phone": "262.910.5164",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "FastAPI",
+    "Machine Learning",
+    "Deep Learning",
+    "SQL",
+    "PyTorch",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0558"
+}

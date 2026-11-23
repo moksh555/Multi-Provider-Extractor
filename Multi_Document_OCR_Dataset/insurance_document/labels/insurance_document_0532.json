@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NOX8FK207",
+  "policy_holder": "Vincent Mathews",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-09-26",
+  "expiry_date": "2024-09-26",
+  "premium": 974.53,
+  "coverage_amount": 57094.63,
+  "beneficiary": "Mr. Justin Murillo",
+  "sample_id": "insurance_document_0532"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Melissa Johnson
+Passport No: P69320178
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P69320178",
+  "full_name": "Melissa Johnson",
+  "nationality": "BD",
+  "date_of_birth": "1991-09-07",
+  "issue_date": "2023-05-24",
+  "expiry_date": "2033-05-24",
+  "place_of_birth": "Gomezmouth",
+  "sample_id": "passport_0691"
+}

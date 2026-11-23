@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-I4OFWWNC2",
+  "policy_holder": "Elizabeth Evans MD",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-04-05",
+  "expiry_date": "2026-04-05",
+  "premium": 1347.16,
+  "coverage_amount": 146330.59,
+  "beneficiary": "Alison Short",
+  "sample_id": "insurance_document_0200"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-BJJZ4VVV
+Patient: Brittney Hunter
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BJJZ4VVV",
+  "patient_name": "Brittney Hunter",
+  "visit_date": "2026-10-14",
+  "doctor_name": "Dr. Brittany Hull",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0783"
+}

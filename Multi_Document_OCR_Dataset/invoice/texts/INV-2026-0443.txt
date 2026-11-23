@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0443
+Company: BrightStar Electronics
+Company Address: 93 Gulshan Avenue, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 127 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-21
+Due Date: 2026-03-28
+Currency: QAR
+Subtotal: 6338.84
+Tax: 316.94
+Total: 6705.78
+Balance Due: 0.0
+Status: paid

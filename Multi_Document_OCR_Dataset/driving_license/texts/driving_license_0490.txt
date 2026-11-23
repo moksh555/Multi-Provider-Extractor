@@ -1,0 +1,16 @@
+Synthetic Driving License
+Joseph Tapia
+License: DL665266395
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL665266395",
+  "full_name": "Joseph Tapia",
+  "date_of_birth": "1992-08-27",
+  "class": "A",
+  "issue_date": "2020-07-30",
+  "expiry_date": "2025-07-30",
+  "address": "7978 Keller Alley, Allenstad, VI 06498",
+  "sample_id": "driving_license_0490"
+}

@@ -1,0 +1,26 @@
+Resume
+Amy Mccoy
+Machine Learning Engineer
+Skills: Pandas, TensorFlow, FastAPI, SQL, LangChain, Machine Learning, Computer Vision, Deep Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Amy Mccoy",
+  "email": "duncanmegan@example.com",
+  "phone": "(654)784-0000x40046",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "TensorFlow",
+    "FastAPI",
+    "SQL",
+    "LangChain",
+    "Machine Learning",
+    "Computer Vision",
+    "Deep Learning",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0606"
+}

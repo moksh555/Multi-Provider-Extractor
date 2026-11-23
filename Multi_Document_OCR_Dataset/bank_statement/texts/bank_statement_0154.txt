@@ -1,0 +1,16 @@
+Bank Statement STM-ZL87FJ8B
+Holder: Cindy Pacheco
+Closing Balance: $3262.63
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZL87FJ8B",
+  "account_holder": "Cindy Pacheco",
+  "account_number_masked": "****2506",
+  "period_start": "2026-08-30",
+  "period_end": "2026-09-29",
+  "opening_balance": 1179.61,
+  "closing_balance": 3262.63,
+  "transactions": 11,
+  "sample_id": "bank_statement_0154"
+}

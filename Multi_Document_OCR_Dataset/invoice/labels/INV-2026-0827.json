@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0827",
+  "invoice_number": "INV-2026-0827",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "156 Road 12, Banani, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "18 Al Barsha, Dubai, UAE",
+  "invoice_date": "2026-01-13",
+  "due_date": "2026-01-20",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 28.31,
+      "amount": 254.79
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 399.48,
+      "amount": 3195.84
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 8,
+      "unit_price": 668.88,
+      "amount": 5351.04
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 573.0,
+      "amount": 2865.0
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 3,
+      "unit_price": 595.43,
+      "amount": 1786.29
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 749.75,
+      "amount": 2249.25
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 2,
+      "unit_price": 482.19,
+      "amount": 964.38
+    }
+  ],
+  "subtotal": 16666.59,
+  "discount": 833.33,
+  "tax_rate": 0.1,
+  "tax": 1583.33,
+  "shipping": 10,
+  "total": 17426.59,
+  "amount_paid": 0,
+  "balance_due": 17426.59,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801679304235",
+  "po_number": "PO-37698"
+}

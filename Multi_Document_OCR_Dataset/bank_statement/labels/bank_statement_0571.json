@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-L1DSP7IO",
+  "account_holder": "Elizabeth Jones",
+  "account_number_masked": "****4240",
+  "period_start": "2026-12-12",
+  "period_end": "2027-01-11",
+  "opening_balance": 1483.84,
+  "closing_balance": 6556.66,
+  "transactions": 9,
+  "sample_id": "bank_statement_0571"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IN8910T2F",
+  "policy_holder": "Christine Gilbert",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-02-18",
+  "expiry_date": "2024-02-18",
+  "premium": 674.53,
+  "coverage_amount": 179747.61,
+  "beneficiary": "Angel Bailey",
+  "sample_id": "insurance_document_0219"
+}

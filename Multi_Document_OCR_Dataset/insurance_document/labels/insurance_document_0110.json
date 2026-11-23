@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7OONNCILD",
+  "policy_holder": "Anna Robertson",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-10-27",
+  "expiry_date": "2024-10-27",
+  "premium": 447.49,
+  "coverage_amount": 150570.9,
+  "beneficiary": "Timothy Wood",
+  "sample_id": "insurance_document_0110"
+}

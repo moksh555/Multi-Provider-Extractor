@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZV9Z8CUX",
+  "account_holder": "Alicia Miller",
+  "account_number_masked": "****2838",
+  "period_start": "2026-02-27",
+  "period_end": "2026-03-29",
+  "opening_balance": 3976.31,
+  "closing_balance": 8304.72,
+  "transactions": 14,
+  "sample_id": "bank_statement_0665"
+}

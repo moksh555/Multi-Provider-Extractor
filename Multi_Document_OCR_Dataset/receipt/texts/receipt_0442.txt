@@ -1,0 +1,49 @@
+Receipt RCT-7VG688U5
+Merchant: Mayer-Wallace
+Date: 2021-12-15
+Total: $868.51
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7VG688U5",
+  "merchant_name": "Mayer-Wallace",
+  "date": "2021-12-15",
+  "subtotal": 788.38,
+  "tax": 80.37,
+  "discount": 0.24,
+  "total": 868.51,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$11.66",
+      "line_total": "$23.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$73.42",
+      "line_total": "$293.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$76.96",
+      "line_total": "$153.92"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$57.20",
+      "line_total": "$171.60"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$48.62",
+      "line_total": "$145.86"
+    }
+  ],
+  "sample_id": "receipt_0442"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-FLIG5GKZ
+Merchant: Miranda-Mitchell
+Date: 2023-12-20
+Total: $519.83
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FLIG5GKZ",
+  "merchant_name": "Miranda-Mitchell",
+  "date": "2023-12-20",
+  "subtotal": 482.3,
+  "tax": 39.87,
+  "discount": 2.34,
+  "total": 519.83,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$46.72",
+      "line_total": "$140.16"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$66.53",
+      "line_total": "$266.12"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$76.02",
+      "line_total": "$76.02"
+    }
+  ],
+  "sample_id": "receipt_0381"
+}

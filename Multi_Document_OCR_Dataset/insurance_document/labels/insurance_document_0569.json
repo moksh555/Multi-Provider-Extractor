@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-EDGFJDLOG",
+  "policy_holder": "Nathan Pierce",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-10-28",
+  "expiry_date": "2025-10-28",
+  "premium": 551.87,
+  "coverage_amount": 359517.31,
+  "beneficiary": "Maria Foster",
+  "sample_id": "insurance_document_0569"
+}

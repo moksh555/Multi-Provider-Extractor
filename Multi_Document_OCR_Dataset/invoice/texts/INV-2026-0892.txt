@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0892
+Company: Nova Medical Supplies
+Company Address: 152 Agrabad C/A, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 186 Motijheel C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-30
+Due Date: 2026-04-14
+Currency: BDT
+Subtotal: 10175.24
+Tax: 1373.66
+Total: 10531.38
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lindsey Browning
+License: DL481017294
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL481017294",
+  "full_name": "Lindsey Browning",
+  "date_of_birth": "1969-10-18",
+  "class": "A",
+  "issue_date": "2021-11-11",
+  "expiry_date": "2026-11-11",
+  "address": "63062 Adams Rapid Suite 133, Lake Markland, RI 38227",
+  "sample_id": "driving_license_0679"
+}

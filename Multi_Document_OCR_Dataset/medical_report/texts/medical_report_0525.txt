@@ -1,0 +1,14 @@
+Medical Report MED-ZM3ZVLCS
+Patient: Gregory Deleon
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZM3ZVLCS",
+  "patient_name": "Gregory Deleon",
+  "visit_date": "2026-05-14",
+  "doctor_name": "Dr. Amanda Smith",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0525"
+}

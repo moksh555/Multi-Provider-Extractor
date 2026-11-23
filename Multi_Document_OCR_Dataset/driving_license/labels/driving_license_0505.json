@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL398074982",
+  "full_name": "Cole Evans",
+  "date_of_birth": "1998-01-09",
+  "class": "B",
+  "issue_date": "2024-08-23",
+  "expiry_date": "2029-08-23",
+  "address": "839 Ramirez Stream, Jonesview, KS 50541",
+  "sample_id": "driving_license_0505"
+}

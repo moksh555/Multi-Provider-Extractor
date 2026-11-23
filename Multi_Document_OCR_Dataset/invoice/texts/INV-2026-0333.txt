@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0333
+Company: Summit Agro Foods
+Company Address: 30 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Global Mart
+Billing Address: 184 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-04-21
+Due Date: 2026-05-06
+Currency: BDT
+Subtotal: 20617.4
+Tax: 0.0
+Total: 19586.53
+Balance Due: 0.0
+Status: paid

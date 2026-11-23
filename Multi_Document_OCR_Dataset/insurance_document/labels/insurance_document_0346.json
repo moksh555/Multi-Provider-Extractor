@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PESGBM65Q",
+  "policy_holder": "Keith Lee",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-11",
+  "expiry_date": "2025-07-11",
+  "premium": 1425.54,
+  "coverage_amount": 76206.3,
+  "beneficiary": "David Gentry",
+  "sample_id": "insurance_document_0346"
+}

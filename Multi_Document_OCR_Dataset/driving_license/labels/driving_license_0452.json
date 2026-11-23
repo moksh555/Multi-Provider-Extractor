@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL562666655",
+  "full_name": "Michael Mcdonald",
+  "date_of_birth": "1964-09-25",
+  "class": "A",
+  "issue_date": "2023-11-08",
+  "expiry_date": "2028-11-08",
+  "address": "465 Daniel Wells Apt. 730, Lake Jerry, RI 28437",
+  "sample_id": "driving_license_0452"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-6PJPVWP8
+Holder: Corey Reyes
+Closing Balance: $9476.64
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6PJPVWP8",
+  "account_holder": "Corey Reyes",
+  "account_number_masked": "****6797",
+  "period_start": "2025-02-05",
+  "period_end": "2025-03-07",
+  "opening_balance": 2270.0,
+  "closing_balance": 9476.64,
+  "transactions": 13,
+  "sample_id": "bank_statement_0444"
+}

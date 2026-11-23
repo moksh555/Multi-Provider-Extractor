@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0051
+Company: CityBanking Supplies
+Company Address: 107 Uttara Sector 7, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 97 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-19
+Due Date: 2026-07-04
+Currency: AED
+Subtotal: 11882.63
+Tax: 534.72
+Total: 11229.09
+Balance Due: 0.0
+Status: paid

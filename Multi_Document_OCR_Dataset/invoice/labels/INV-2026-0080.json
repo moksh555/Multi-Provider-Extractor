@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0080",
+  "invoice_number": "INV-2026-0080",
+  "company_name": "Greenline Logistics",
+  "company_address": "20 Motijheel C/A, Dhaka, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "175 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-10",
+  "due_date": "2026-06-25",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 9,
+      "unit_price": 342.57,
+      "amount": 3083.13
+    },
+    {
+      "description": "Web Development",
+      "quantity": 5,
+      "unit_price": 445.58,
+      "amount": 2227.9
+    }
+  ],
+  "subtotal": 5311.03,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 398.33,
+  "shipping": 0,
+  "total": 5709.36,
+  "amount_paid": 3672.69,
+  "balance_due": 2036.67,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801571155911",
+  "po_number": "PO-77888"
+}

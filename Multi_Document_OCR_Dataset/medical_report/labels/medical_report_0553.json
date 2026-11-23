@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-PYR93DZO",
+  "patient_name": "Brian Lee",
+  "visit_date": "2025-06-01",
+  "doctor_name": "Dr. Dillon Williams",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0553"
+}

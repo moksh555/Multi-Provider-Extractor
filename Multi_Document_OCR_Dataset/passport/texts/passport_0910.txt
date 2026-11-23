@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Matthew Rubio
+Passport No: P26439709
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P26439709",
+  "full_name": "Matthew Rubio",
+  "nationality": "CA",
+  "date_of_birth": "1976-12-19",
+  "issue_date": "2025-04-29",
+  "expiry_date": "2035-04-29",
+  "place_of_birth": "Josephstad",
+  "sample_id": "passport_0910"
+}

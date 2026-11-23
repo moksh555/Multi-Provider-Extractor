@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Thomas Greene",
+  "email": "jay70@example.net",
+  "phone": "9639239988",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "NLP",
+    "AWS",
+    "Pandas",
+    "Docker",
+    "LangChain",
+    "Computer Vision",
+    "FastAPI",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0834"
+}

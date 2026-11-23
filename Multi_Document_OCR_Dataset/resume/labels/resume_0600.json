@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Elizabeth Richards",
+  "email": "wrightalexander@example.net",
+  "phone": "(487)483-7921x316",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "Python",
+    "Docker",
+    "LangChain",
+    "Deep Learning",
+    "Streamlit",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0600"
+}

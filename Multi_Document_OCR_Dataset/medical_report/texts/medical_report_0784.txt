@@ -1,0 +1,14 @@
+Medical Report MED-81F9QXZV
+Patient: Robin Carson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-81F9QXZV",
+  "patient_name": "Robin Carson",
+  "visit_date": "2026-06-28",
+  "doctor_name": "Dr. Jamie Rivera",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0784"
+}

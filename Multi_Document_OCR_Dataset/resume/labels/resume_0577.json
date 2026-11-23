@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Mackenzie Greene",
+  "email": "srodgers@example.net",
+  "phone": "(941)891-3780x498",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "Streamlit",
+    "TensorFlow",
+    "Python",
+    "Deep Learning",
+    "AWS",
+    "FastAPI",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0577"
+}

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Michael Potter",
+  "email": "greid@example.net",
+  "phone": "+1-774-600-5975x8344",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Deep Learning",
+    "TensorFlow",
+    "AWS",
+    "FastAPI",
+    "PyTorch",
+    "Docker",
+    "Python",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0824"
+}

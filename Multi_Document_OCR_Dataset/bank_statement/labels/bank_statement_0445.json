@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GBOPH2V9",
+  "account_holder": "Adam Payne",
+  "account_number_masked": "****8874",
+  "period_start": "2025-12-23",
+  "period_end": "2026-01-22",
+  "opening_balance": 664.11,
+  "closing_balance": 1994.87,
+  "transactions": 9,
+  "sample_id": "bank_statement_0445"
+}

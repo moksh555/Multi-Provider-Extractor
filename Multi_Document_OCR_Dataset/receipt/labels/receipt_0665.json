@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PP7SDWYQ",
+  "merchant_name": "Bender, Gonzalez and Compton",
+  "date": "2026-12-07",
+  "subtotal": 1087.01,
+  "tax": 55.81,
+  "discount": 12.47,
+  "total": 1130.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$63.75",
+      "line_total": "$191.25"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$46.44",
+      "line_total": "$185.76"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$40.13",
+      "line_total": "$160.52"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$46.00",
+      "line_total": "$46.00"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$75.14",
+      "line_total": "$225.42"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$69.82",
+      "line_total": "$209.46"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$68.60",
+      "line_total": "$68.60"
+    }
+  ],
+  "sample_id": "receipt_0665"
+}

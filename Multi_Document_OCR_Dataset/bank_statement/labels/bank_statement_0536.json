@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T4XS3DF7",
+  "account_holder": "Matthew Bruce",
+  "account_number_masked": "****8164",
+  "period_start": "2025-10-13",
+  "period_end": "2025-11-12",
+  "opening_balance": 2615.58,
+  "closing_balance": 3925.45,
+  "transactions": 11,
+  "sample_id": "bank_statement_0536"
+}

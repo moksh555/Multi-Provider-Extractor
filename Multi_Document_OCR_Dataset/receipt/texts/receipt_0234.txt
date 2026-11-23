@@ -1,0 +1,67 @@
+Receipt RCT-R5RUP13W
+Merchant: Aguirre-Benjamin
+Date: 2025-11-14
+Total: $1056.00
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-R5RUP13W",
+  "merchant_name": "Aguirre-Benjamin",
+  "date": "2025-11-14",
+  "subtotal": 987.21,
+  "tax": 74.99,
+  "discount": 6.2,
+  "total": 1056.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$4.19",
+      "line_total": "$4.19"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$54.44",
+      "line_total": "$217.76"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$42.66",
+      "line_total": "$170.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$37.99",
+      "line_total": "$113.97"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$24.73",
+      "line_total": "$98.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$67.48",
+      "line_total": "$202.44"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$45.91",
+      "line_total": "$137.73"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$41.56",
+      "line_total": "$41.56"
+    }
+  ],
+  "sample_id": "receipt_0234"
+}

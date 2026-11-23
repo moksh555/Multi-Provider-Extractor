@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0621
+Company: Delta Insurance Services
+Company Address: 22 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 171 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-01-05
+Due Date: 2026-02-04
+Currency: USD
+Subtotal: 8739.45
+Tax: 1284.7
+Total: 9859.36
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-418ZITZH",
+  "account_holder": "Caleb Lopez",
+  "account_number_masked": "****5654",
+  "period_start": "2024-07-30",
+  "period_end": "2024-08-29",
+  "opening_balance": 4122.22,
+  "closing_balance": 6267.14,
+  "transactions": 9,
+  "sample_id": "bank_statement_0418"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-Q6ULM9KGZ
+Holder: Timothy Wright
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Q6ULM9KGZ",
+  "policy_holder": "Timothy Wright",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-09-14",
+  "expiry_date": "2025-09-14",
+  "premium": 1850.19,
+  "coverage_amount": 286216.07,
+  "beneficiary": "Jasmine Ross",
+  "sample_id": "insurance_document_0426"
+}

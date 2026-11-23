@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0122
+Company: UrbanBuild Construction
+Company Address: 178 Dhanmondi 27, Dhaka, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 5 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-09
+Due Date: 2026-04-24
+Currency: SAR
+Subtotal: 10861.18
+Tax: 773.86
+Total: 11141.98
+Balance Due: 0.0
+Status: paid

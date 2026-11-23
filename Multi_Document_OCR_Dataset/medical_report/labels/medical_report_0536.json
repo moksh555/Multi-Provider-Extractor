@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ETYF95AZ",
+  "patient_name": "Jacob Watson",
+  "visit_date": "2024-07-14",
+  "doctor_name": "Dr. Sandra Craig",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0536"
+}

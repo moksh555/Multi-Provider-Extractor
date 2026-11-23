@@ -1,0 +1,61 @@
+Receipt RCT-K94W6WUU
+Merchant: Rodriguez and Sons
+Date: 2024-10-05
+Total: $881.92
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-K94W6WUU",
+  "merchant_name": "Rodriguez and Sons",
+  "date": "2024-10-05",
+  "subtotal": 794.42,
+  "tax": 91.38,
+  "discount": 3.88,
+  "total": 881.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$73.89",
+      "line_total": "$221.67"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$20.59",
+      "line_total": "$82.36"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$70.10",
+      "line_total": "$210.30"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$25.28",
+      "line_total": "$50.56"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$63.54",
+      "line_total": "$63.54"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$32.25",
+      "line_total": "$32.25"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$66.87",
+      "line_total": "$133.74"
+    }
+  ],
+  "sample_id": "receipt_0624"
+}

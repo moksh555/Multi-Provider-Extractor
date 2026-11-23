@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RID3U94SG",
+  "policy_holder": "Michelle Mooney",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-07-12",
+  "expiry_date": "2024-07-12",
+  "premium": 357.98,
+  "coverage_amount": 403907.38,
+  "beneficiary": "Terri Hendricks",
+  "sample_id": "insurance_document_0770"
+}

@@ -1,0 +1,25 @@
+Resume
+Christine Dickerson
+Software Engineer
+Skills: PyTorch, Computer Vision, SQL, FastAPI, TensorFlow, Pandas, Docker, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Christine Dickerson",
+  "email": "chandavid@example.org",
+  "phone": "+1-210-260-8917",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "Computer Vision",
+    "SQL",
+    "FastAPI",
+    "TensorFlow",
+    "Pandas",
+    "Docker",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0410"
+}

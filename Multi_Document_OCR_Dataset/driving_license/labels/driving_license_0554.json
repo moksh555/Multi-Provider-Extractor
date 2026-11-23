@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL718724186",
+  "full_name": "Joshua Fry",
+  "date_of_birth": "1985-05-21",
+  "class": "D",
+  "issue_date": "2022-02-14",
+  "expiry_date": "2027-02-14",
+  "address": "9096 Sharon Lake, Irwinborough, AR 28221",
+  "sample_id": "driving_license_0554"
+}

@@ -1,0 +1,24 @@
+Resume
+Ray Sanford
+Computer Vision Engineer
+Skills: Deep Learning, NLP, Streamlit, AWS, PyTorch, Machine Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Ray Sanford",
+  "email": "sarabyrd@example.net",
+  "phone": "+1-888-604-9704",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Deep Learning",
+    "NLP",
+    "Streamlit",
+    "AWS",
+    "PyTorch",
+    "Machine Learning",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0778"
+}

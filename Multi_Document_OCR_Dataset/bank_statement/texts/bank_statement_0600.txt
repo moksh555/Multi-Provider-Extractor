@@ -1,0 +1,16 @@
+Bank Statement STM-HV9B4H8R
+Holder: Stanley Gilbert
+Closing Balance: $5818.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HV9B4H8R",
+  "account_holder": "Stanley Gilbert",
+  "account_number_masked": "****8035",
+  "period_start": "2024-01-31",
+  "period_end": "2024-03-01",
+  "opening_balance": 3802.78,
+  "closing_balance": 5818.36,
+  "transactions": 12,
+  "sample_id": "bank_statement_0600"
+}

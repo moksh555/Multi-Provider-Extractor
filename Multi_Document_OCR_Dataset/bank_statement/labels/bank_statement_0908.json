@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OQ5GLIGY",
+  "account_holder": "Jose Gomez",
+  "account_number_masked": "****3039",
+  "period_start": "2025-09-03",
+  "period_end": "2025-10-03",
+  "opening_balance": 540.68,
+  "closing_balance": 1664.39,
+  "transactions": 10,
+  "sample_id": "bank_statement_0908"
+}

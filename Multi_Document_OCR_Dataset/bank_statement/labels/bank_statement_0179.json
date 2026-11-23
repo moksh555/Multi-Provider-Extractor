@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-A763BUPG",
+  "account_holder": "Veronica Walker",
+  "account_number_masked": "****1604",
+  "period_start": "2026-09-04",
+  "period_end": "2026-10-04",
+  "opening_balance": 4261.79,
+  "closing_balance": 9086.84,
+  "transactions": 13,
+  "sample_id": "bank_statement_0179"
+}

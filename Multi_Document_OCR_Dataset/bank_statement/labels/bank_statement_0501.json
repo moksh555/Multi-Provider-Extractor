@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TAC9PFHJ",
+  "account_holder": "Alexander Miller",
+  "account_number_masked": "****1728",
+  "period_start": "2024-07-01",
+  "period_end": "2024-07-31",
+  "opening_balance": 2285.2,
+  "closing_balance": 5383.79,
+  "transactions": 13,
+  "sample_id": "bank_statement_0501"
+}

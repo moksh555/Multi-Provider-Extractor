@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0372",
+  "invoice_number": "INV-2026-0372",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "192 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "Bengal Motors",
+  "billing_address": "223 Doha Business Park, Doha, Qatar",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-04-17",
+  "currency": "USD",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 11,
+      "unit_price": 288.61,
+      "amount": 3174.71
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 65.89,
+      "amount": 197.67
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 97.95,
+      "amount": 97.95
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 1,
+      "unit_price": 403.09,
+      "amount": 403.09
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 464.33,
+      "amount": 3250.31
+    }
+  ],
+  "subtotal": 7123.73,
+  "discount": 142.47,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 6986.26,
+  "amount_paid": 0,
+  "balance_due": 6986.26,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801557016586",
+  "po_number": "PO-02719"
+}

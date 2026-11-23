@@ -1,0 +1,23 @@
+Resume
+Eugene Baird
+Data Analyst
+Skills: Docker, TensorFlow, Computer Vision, Pandas, Deep Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Eugene Baird",
+  "email": "bradleydunlap@example.org",
+  "phone": "+1-377-851-3061x0922",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Docker",
+    "TensorFlow",
+    "Computer Vision",
+    "Pandas",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0411"
+}

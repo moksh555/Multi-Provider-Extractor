@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-L3RJ4AN9",
+  "patient_name": "Mark Austin",
+  "visit_date": "2025-03-19",
+  "doctor_name": "Dr. Joanna Munoz",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0762"
+}

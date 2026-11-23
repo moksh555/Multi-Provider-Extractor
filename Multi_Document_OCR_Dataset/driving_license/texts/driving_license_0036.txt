@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jerry Christensen
+License: DL626609238
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL626609238",
+  "full_name": "Jerry Christensen",
+  "date_of_birth": "1973-03-21",
+  "class": "A",
+  "issue_date": "2020-04-10",
+  "expiry_date": "2025-04-10",
+  "address": "0752 Lewis Union Suite 549, Angelahaven, ID 11722",
+  "sample_id": "driving_license_0036"
+}

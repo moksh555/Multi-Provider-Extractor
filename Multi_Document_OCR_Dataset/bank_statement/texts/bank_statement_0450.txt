@@ -1,0 +1,16 @@
+Bank Statement STM-A2X17ZQL
+Holder: Joel Lopez
+Closing Balance: $2148.87
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-A2X17ZQL",
+  "account_holder": "Joel Lopez",
+  "account_number_masked": "****5947",
+  "period_start": "2025-01-08",
+  "period_end": "2025-02-07",
+  "opening_balance": 3062.16,
+  "closing_balance": 2148.87,
+  "transactions": 11,
+  "sample_id": "bank_statement_0450"
+}

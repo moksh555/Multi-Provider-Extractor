@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Ashley Larson
+Passport No: P11404569
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P11404569",
+  "full_name": "Ashley Larson",
+  "nationality": "GB",
+  "date_of_birth": "1980-07-02",
+  "issue_date": "2020-02-25",
+  "expiry_date": "2030-02-25",
+  "place_of_birth": "Simpsonville",
+  "sample_id": "passport_0075"
+}

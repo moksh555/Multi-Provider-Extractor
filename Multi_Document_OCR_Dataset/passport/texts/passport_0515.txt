@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kristina Harrington
+Passport No: P54339873
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P54339873",
+  "full_name": "Kristina Harrington",
+  "nationality": "US",
+  "date_of_birth": "1968-05-13",
+  "issue_date": "2023-07-16",
+  "expiry_date": "2033-07-16",
+  "place_of_birth": "West Katherinechester",
+  "sample_id": "passport_0515"
+}

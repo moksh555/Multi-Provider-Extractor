@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0998
+Company: Golden Harvest Store
+Company Address: 186 Doha Business Park, Riyadh, Saudi Arabia
+Customer: Al Noor Clinic
+Billing Address: 141 Uttara Sector 7, Dubai, UAE
+Invoice Date: 2026-06-05
+Due Date: 2026-06-20
+Currency: SAR
+Subtotal: 10516.87
+Tax: 499.55
+Total: 10490.58
+Balance Due: 7198.32
+Status: partial

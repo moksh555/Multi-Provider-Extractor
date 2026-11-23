@@ -1,0 +1,61 @@
+Receipt RCT-TLV0GUB5
+Merchant: Henson, Baker and Anderson
+Date: 2024-04-19
+Total: $943.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TLV0GUB5",
+  "merchant_name": "Henson, Baker and Anderson",
+  "date": "2024-04-19",
+  "subtotal": 879.33,
+  "tax": 76.96,
+  "discount": 13.17,
+  "total": 943.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$35.06",
+      "line_total": "$35.06"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$19.68",
+      "line_total": "$19.68"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$66.73",
+      "line_total": "$200.19"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$43.20",
+      "line_total": "$172.80"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$59.53",
+      "line_total": "$238.12"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$73.30",
+      "line_total": "$146.60"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$66.88",
+      "line_total": "$66.88"
+    }
+  ],
+  "sample_id": "receipt_0530"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Cheryl Morrow
+Passport No: P82597056
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P82597056",
+  "full_name": "Cheryl Morrow",
+  "nationality": "GB",
+  "date_of_birth": "1987-08-16",
+  "issue_date": "2020-08-12",
+  "expiry_date": "2030-08-12",
+  "place_of_birth": "West Denise",
+  "sample_id": "passport_0207"
+}

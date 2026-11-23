@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-U0F80GNY",
+  "account_holder": "Richard Barrera",
+  "account_number_masked": "****8014",
+  "period_start": "2024-07-26",
+  "period_end": "2024-08-25",
+  "opening_balance": 3871.85,
+  "closing_balance": 5576.12,
+  "transactions": 8,
+  "sample_id": "bank_statement_0456"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jose Lee
+License: DL256964748
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL256964748",
+  "full_name": "Jose Lee",
+  "date_of_birth": "1980-11-16",
+  "class": "B",
+  "issue_date": "2023-04-04",
+  "expiry_date": "2028-04-04",
+  "address": "26611 Roger Curve Suite 371, Ericafurt, OR 73766",
+  "sample_id": "driving_license_0426"
+}

@@ -1,0 +1,23 @@
+Resume
+Donna Murillo
+Computer Vision Engineer
+Skills: AWS, Deep Learning, LangChain, TensorFlow, Docker, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Donna Murillo",
+  "email": "kristinevans@example.com",
+  "phone": "+1-476-809-4837x74029",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "AWS",
+    "Deep Learning",
+    "LangChain",
+    "TensorFlow",
+    "Docker",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0160"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0117",
+  "invoice_number": "INV-2026-0117",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "63 Al Barsha, Dubai, UAE",
+  "customer_name": "Rahim Traders",
+  "billing_address": "238 Gulshan Avenue, Dubai, UAE",
+  "invoice_date": "2026-06-13",
+  "due_date": "2026-06-20",
+  "currency": "AED",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 9,
+      "unit_price": 42.23,
+      "amount": 380.07
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 73.62,
+      "amount": 368.1
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 9,
+      "unit_price": 89.77,
+      "amount": 807.93
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 9,
+      "unit_price": 332.45,
+      "amount": 2992.05
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 9,
+      "unit_price": 561.09,
+      "amount": 5049.81
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 11,
+      "unit_price": 805.8,
+      "amount": 8863.8
+    }
+  ],
+  "subtotal": 18461.76,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1384.63,
+  "shipping": 25,
+  "total": 19871.39,
+  "amount_paid": 0,
+  "balance_due": 19871.39,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801577567417",
+  "po_number": "PO-55655"
+}

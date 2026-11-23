@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL446425316",
+  "full_name": "Kayla Rodriguez",
+  "date_of_birth": "2003-08-28",
+  "class": "C",
+  "issue_date": "2025-11-28",
+  "expiry_date": "2030-11-28",
+  "address": "7321 Kelly Lights, Wrightburgh, GU 43418",
+  "sample_id": "driving_license_0100"
+}

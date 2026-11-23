@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Hannah Braun
+Passport No: P02314808
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P02314808",
+  "full_name": "Hannah Braun",
+  "nationality": "CA",
+  "date_of_birth": "1969-08-14",
+  "issue_date": "2020-02-09",
+  "expiry_date": "2030-02-09",
+  "place_of_birth": "Markport",
+  "sample_id": "passport_0213"
+}

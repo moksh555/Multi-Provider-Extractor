@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0880
+Company: Golden Harvest Store
+Company Address: 32 Doha Business Park, Riyadh, Saudi Arabia
+Customer: Rahim Traders
+Billing Address: 171 Zindabazar Road, Doha, Qatar
+Invoice Date: 2026-04-11
+Due Date: 2026-04-26
+Currency: QAR
+Subtotal: 16832.49
+Tax: 0.0
+Total: 16000.87
+Balance Due: 7954.19
+Status: partial

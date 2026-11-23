@@ -1,0 +1,16 @@
+Insurance Policy POL-N1MXF1PI2
+Holder: Paul Elliott
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-N1MXF1PI2",
+  "policy_holder": "Paul Elliott",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-04-18",
+  "expiry_date": "2026-04-18",
+  "premium": 2257.4,
+  "coverage_amount": 476401.87,
+  "beneficiary": "James Casey",
+  "sample_id": "insurance_document_0551"
+}

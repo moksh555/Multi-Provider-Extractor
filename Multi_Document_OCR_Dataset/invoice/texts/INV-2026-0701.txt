@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0701
+Company: UrbanBuild Construction
+Company Address: 27 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 224 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-03-27
+Due Date: 2026-05-11
+Currency: AED
+Subtotal: 10644.74
+Tax: 1064.47
+Total: 11734.21
+Balance Due: 4945.19
+Status: partial

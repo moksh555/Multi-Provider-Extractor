@@ -1,0 +1,14 @@
+Medical Report MED-U5ADNX0N
+Patient: Jack Davidson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-U5ADNX0N",
+  "patient_name": "Jack Davidson",
+  "visit_date": "2025-02-28",
+  "doctor_name": "Dr. Daryl Flores",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0788"
+}

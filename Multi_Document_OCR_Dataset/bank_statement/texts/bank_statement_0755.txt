@@ -1,0 +1,16 @@
+Bank Statement STM-6H2U8V7L
+Holder: Joan Ortiz
+Closing Balance: $2558.25
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6H2U8V7L",
+  "account_holder": "Joan Ortiz",
+  "account_number_masked": "****6644",
+  "period_start": "2025-06-29",
+  "period_end": "2025-07-29",
+  "opening_balance": 1515.88,
+  "closing_balance": 2558.25,
+  "transactions": 9,
+  "sample_id": "bank_statement_0755"
+}

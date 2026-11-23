@@ -1,0 +1,16 @@
+Synthetic Driving License
+Monica Castillo
+License: DL805343911
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL805343911",
+  "full_name": "Monica Castillo",
+  "date_of_birth": "1979-11-02",
+  "class": "A",
+  "issue_date": "2022-02-10",
+  "expiry_date": "2027-02-10",
+  "address": "0930 Park Summit, Johnhaven, TX 80349",
+  "sample_id": "driving_license_0513"
+}

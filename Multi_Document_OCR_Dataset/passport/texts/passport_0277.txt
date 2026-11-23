@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Devin Stuart
+Passport No: P33185940
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P33185940",
+  "full_name": "Devin Stuart",
+  "nationality": "AE",
+  "date_of_birth": "1974-12-06",
+  "issue_date": "2021-06-16",
+  "expiry_date": "2031-06-16",
+  "place_of_birth": "South Christopher",
+  "sample_id": "passport_0277"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-D8QBA3JP
+Patient: Michael Thornton
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-D8QBA3JP",
+  "patient_name": "Michael Thornton",
+  "visit_date": "2026-03-31",
+  "doctor_name": "Dr. Joseph Sutton",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0498"
+}

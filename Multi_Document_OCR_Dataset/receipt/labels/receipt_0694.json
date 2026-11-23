@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZO2I5WLL",
+  "merchant_name": "Ramos Group",
+  "date": "2022-01-07",
+  "subtotal": 411.39,
+  "tax": 18.1,
+  "discount": 7.58,
+  "total": 421.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$2.35",
+      "line_total": "$7.05"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$73.05",
+      "line_total": "$219.15"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$61.73",
+      "line_total": "$185.19"
+    }
+  ],
+  "sample_id": "receipt_0694"
+}

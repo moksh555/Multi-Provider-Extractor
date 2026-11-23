@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0010
+Company: Eastern Care Pharmacy
+Company Address: 81 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 131 Motijheel C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-18
+Due Date: 2026-06-17
+Currency: USD
+Subtotal: 9457.21
+Tax: 709.29
+Total: 10191.5
+Balance Due: 0.0
+Status: paid

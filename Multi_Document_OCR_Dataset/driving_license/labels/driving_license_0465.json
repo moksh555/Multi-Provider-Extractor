@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL109236154",
+  "full_name": "Eddie Warren",
+  "date_of_birth": "1969-07-13",
+  "class": "C",
+  "issue_date": "2024-12-13",
+  "expiry_date": "2029-12-13",
+  "address": "025 Myers Creek Apt. 867, South Stephanieborough, DC 27459",
+  "sample_id": "driving_license_0465"
+}

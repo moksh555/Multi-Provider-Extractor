@@ -1,0 +1,16 @@
+Bank Statement STM-9HAXHF72
+Holder: Aaron Myers
+Closing Balance: $6185.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9HAXHF72",
+  "account_holder": "Aaron Myers",
+  "account_number_masked": "****3683",
+  "period_start": "2024-04-20",
+  "period_end": "2024-05-20",
+  "opening_balance": 2114.16,
+  "closing_balance": 6185.38,
+  "transactions": 8,
+  "sample_id": "bank_statement_0512"
+}

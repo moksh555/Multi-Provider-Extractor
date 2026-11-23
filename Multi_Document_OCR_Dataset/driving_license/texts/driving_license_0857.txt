@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nicole Bell MD
+License: DL177024790
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL177024790",
+  "full_name": "Nicole Bell MD",
+  "date_of_birth": "1963-01-11",
+  "class": "C",
+  "issue_date": "2023-01-12",
+  "expiry_date": "2028-01-12",
+  "address": "86323 Ayala Summit Apt. 378, Hughesstad, ID 06001",
+  "sample_id": "driving_license_0857"
+}

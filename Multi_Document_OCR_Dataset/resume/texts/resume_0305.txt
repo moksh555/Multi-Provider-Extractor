@@ -1,0 +1,24 @@
+Resume
+Benjamin Esparza
+Backend Developer
+Skills: FastAPI, SQL, PyTorch, Pandas, LangChain, AWS, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Benjamin Esparza",
+  "email": "natashasmith@example.org",
+  "phone": "001-618-364-1761x30236",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "SQL",
+    "PyTorch",
+    "Pandas",
+    "LangChain",
+    "AWS",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0305"
+}

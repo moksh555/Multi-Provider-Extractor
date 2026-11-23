@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-N04OAE7L",
+  "merchant_name": "Gonzalez Ltd",
+  "date": "2026-03-17",
+  "subtotal": 196.43,
+  "tax": 12.22,
+  "discount": 3.25,
+  "total": 205.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$7.52",
+      "line_total": "$7.52"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$12.08",
+      "line_total": "$48.32"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$14.48",
+      "line_total": "$28.96"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$15.00",
+      "line_total": "$15.00"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$14.31",
+      "line_total": "$57.24"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$13.13",
+      "line_total": "$39.39"
+    }
+  ],
+  "sample_id": "receipt_0269"
+}

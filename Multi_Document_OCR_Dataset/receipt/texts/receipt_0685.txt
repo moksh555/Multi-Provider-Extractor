@@ -1,0 +1,43 @@
+Receipt RCT-XNB9DSSR
+Merchant: Logan LLC
+Date: 2024-05-19
+Total: $553.75
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-XNB9DSSR",
+  "merchant_name": "Logan LLC",
+  "date": "2024-05-19",
+  "subtotal": 535.46,
+  "tax": 23.33,
+  "discount": 5.04,
+  "total": 553.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$25.74",
+      "line_total": "$51.48"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$25.30",
+      "line_total": "$50.60"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$70.42",
+      "line_total": "$281.68"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$75.85",
+      "line_total": "$151.70"
+    }
+  ],
+  "sample_id": "receipt_0685"
+}

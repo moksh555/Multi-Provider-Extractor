@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0928",
+  "invoice_number": "INV-2026-0928",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "115 Agrabad C/A, Dubai, UAE",
+  "customer_name": "Future School",
+  "billing_address": "111 Mirpur DOHS, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-15",
+  "due_date": "2026-06-14",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 543.23,
+      "amount": 4889.07
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 10,
+      "unit_price": 777.41,
+      "amount": 7774.1
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 3,
+      "unit_price": 145.11,
+      "amount": 435.33
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 6,
+      "unit_price": 71.95,
+      "amount": 431.7
+    }
+  ],
+  "subtotal": 13530.2,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1014.76,
+  "shipping": 0,
+  "total": 14544.96,
+  "amount_paid": 8245.94,
+  "balance_due": 6299.02,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801340777771",
+  "po_number": "PO-30401"
+}

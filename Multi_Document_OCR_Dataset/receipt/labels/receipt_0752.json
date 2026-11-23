@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-35LJM6C7",
+  "merchant_name": "Rodriguez-Wilson",
+  "date": "2024-08-18",
+  "subtotal": 657.98,
+  "tax": 32.67,
+  "discount": 14.09,
+  "total": 676.56,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$44.54",
+      "line_total": "$89.08"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$3.33",
+      "line_total": "$3.33"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$78.79",
+      "line_total": "$236.37"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$15.56",
+      "line_total": "$31.12"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$73.18",
+      "line_total": "$146.36"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$37.93",
+      "line_total": "$151.72"
+    }
+  ],
+  "sample_id": "receipt_0752"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5Y4XVRYD",
+  "merchant_name": "Holloway-Henry",
+  "date": "2021-03-06",
+  "subtotal": 463.92,
+  "tax": 34.34,
+  "discount": 12.3,
+  "total": 485.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$75.95",
+      "line_total": "$75.95"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$31.80",
+      "line_total": "$63.60"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$72.87",
+      "line_total": "$72.87"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$41.23",
+      "line_total": "$82.46"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$55.14",
+      "line_total": "$110.28"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$58.76",
+      "line_total": "$58.76"
+    }
+  ],
+  "sample_id": "receipt_0847"
+}

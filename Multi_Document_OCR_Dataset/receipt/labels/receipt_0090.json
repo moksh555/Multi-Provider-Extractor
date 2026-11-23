@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-61BW4A7F",
+  "merchant_name": "Harris-Moody",
+  "date": "2026-02-13",
+  "subtotal": 252.71,
+  "tax": 13.28,
+  "discount": 5.58,
+  "total": 260.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$79.66",
+      "line_total": "$159.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$13.56",
+      "line_total": "$40.68"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$52.71",
+      "line_total": "$52.71"
+    }
+  ],
+  "sample_id": "receipt_0090"
+}

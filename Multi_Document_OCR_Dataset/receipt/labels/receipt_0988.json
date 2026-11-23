@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-B37BQ3R0",
+  "merchant_name": "Norman, Vang and Sanchez",
+  "date": "2021-04-26",
+  "subtotal": 921.79,
+  "tax": 62.68,
+  "discount": 8.93,
+  "total": 975.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$30.41",
+      "line_total": "$30.41"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$53.54",
+      "line_total": "$160.62"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$55.20",
+      "line_total": "$110.40"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$3.59",
+      "line_total": "$7.18"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$49.99",
+      "line_total": "$99.98"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$72.45",
+      "line_total": "$217.35"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$52.23",
+      "line_total": "$156.69"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$69.58",
+      "line_total": "$139.16"
+    }
+  ],
+  "sample_id": "receipt_0988"
+}

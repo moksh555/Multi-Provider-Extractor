@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kristine Moran
+Passport No: P75798143
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P75798143",
+  "full_name": "Kristine Moran",
+  "nationality": "GB",
+  "date_of_birth": "1989-12-10",
+  "issue_date": "2020-05-28",
+  "expiry_date": "2030-05-28",
+  "place_of_birth": "South Jennifer",
+  "sample_id": "passport_0296"
+}

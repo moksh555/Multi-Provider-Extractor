@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Tiffany Johnston",
+  "email": "hugheswilliam@example.org",
+  "phone": "763.941.1048",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "AWS",
+    "Pandas",
+    "TensorFlow",
+    "NLP",
+    "Python",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0534"
+}

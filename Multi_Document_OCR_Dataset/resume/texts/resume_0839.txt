@@ -1,0 +1,25 @@
+Resume
+Christian Hernandez
+Backend Developer
+Skills: Pandas, FastAPI, Docker, Machine Learning, NLP, LangChain, Computer Vision, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Christian Hernandez",
+  "email": "cjohnson@example.com",
+  "phone": "748.625.2292x546",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "FastAPI",
+    "Docker",
+    "Machine Learning",
+    "NLP",
+    "LangChain",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0839"
+}

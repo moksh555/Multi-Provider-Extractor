@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0415
+Company: SkyNet Office Mart
+Company Address: 73 Road 12, Banani, Dhaka, Bangladesh
+Customer: Rahim Traders
+Billing Address: 5 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-04-14
+Due Date: 2026-05-29
+Currency: QAR
+Subtotal: 10304.36
+Tax: 734.19
+Total: 10523.33
+Balance Due: 10523.33
+Status: overdue

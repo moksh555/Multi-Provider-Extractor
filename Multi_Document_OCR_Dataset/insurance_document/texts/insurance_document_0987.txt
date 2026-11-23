@@ -1,0 +1,16 @@
+Insurance Policy POL-CHHXA7HY7
+Holder: David Simpson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CHHXA7HY7",
+  "policy_holder": "David Simpson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-05-07",
+  "expiry_date": "2025-05-07",
+  "premium": 1689.83,
+  "coverage_amount": 458470.04,
+  "beneficiary": "Brandon Lee",
+  "sample_id": "insurance_document_0987"
+}

@@ -1,0 +1,23 @@
+Resume
+Makayla Young
+Software Engineer
+Skills: PyTorch, NLP, SQL, Pandas, Computer Vision, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Makayla Young",
+  "email": "jody47@example.com",
+  "phone": "(753)495-0111",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "PyTorch",
+    "NLP",
+    "SQL",
+    "Pandas",
+    "Computer Vision",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0313"
+}

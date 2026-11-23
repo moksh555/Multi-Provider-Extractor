@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-C79XWWDQ",
+  "patient_name": "Emily Garrett",
+  "visit_date": "2025-04-08",
+  "doctor_name": "Dr. Jennifer Ford",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0808"
+}

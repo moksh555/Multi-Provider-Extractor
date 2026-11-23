@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL108461941",
+  "full_name": "Carlos Johnson",
+  "date_of_birth": "1999-04-20",
+  "class": "A",
+  "issue_date": "2025-11-10",
+  "expiry_date": "2030-11-10",
+  "address": "Unit 2609 Box 3106, DPO AA 69310",
+  "sample_id": "driving_license_0522"
+}

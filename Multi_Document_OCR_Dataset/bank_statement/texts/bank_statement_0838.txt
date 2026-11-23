@@ -1,0 +1,16 @@
+Bank Statement STM-OVFV7HWU
+Holder: Juan Walker
+Closing Balance: $5941.09
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OVFV7HWU",
+  "account_holder": "Juan Walker",
+  "account_number_masked": "****7806",
+  "period_start": "2024-05-09",
+  "period_end": "2024-06-08",
+  "opening_balance": 2290.84,
+  "closing_balance": 5941.09,
+  "transactions": 12,
+  "sample_id": "bank_statement_0838"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0122",
+  "invoice_number": "INV-2026-0122",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "178 Dhanmondi 27, Dhaka, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "5 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-09",
+  "due_date": "2026-04-24",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 2,
+      "unit_price": 164.96,
+      "amount": 329.92
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 480.1,
+      "amount": 3840.8
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 216.3,
+      "amount": 216.3
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 288.87,
+      "amount": 1444.35
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 12,
+      "unit_price": 140.2,
+      "amount": 1682.4
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 11,
+      "unit_price": 304.31,
+      "amount": 3347.41
+    }
+  ],
+  "subtotal": 10861.18,
+  "discount": 543.06,
+  "tax_rate": 0.075,
+  "tax": 773.86,
+  "shipping": 50,
+  "total": 11141.98,
+  "amount_paid": 11141.98,
+  "balance_due": 0.0,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801295868880",
+  "po_number": "PO-52186"
+}

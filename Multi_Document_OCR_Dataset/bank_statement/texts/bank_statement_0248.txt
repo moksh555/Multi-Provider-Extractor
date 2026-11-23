@@ -1,0 +1,16 @@
+Bank Statement STM-46NZ3HA6
+Holder: Kenneth Rodriguez
+Closing Balance: $4998.15
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-46NZ3HA6",
+  "account_holder": "Kenneth Rodriguez",
+  "account_number_masked": "****6128",
+  "period_start": "2024-04-26",
+  "period_end": "2024-05-26",
+  "opening_balance": 3750.72,
+  "closing_balance": 4998.15,
+  "transactions": 12,
+  "sample_id": "bank_statement_0248"
+}

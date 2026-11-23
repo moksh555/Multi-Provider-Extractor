@@ -1,0 +1,14 @@
+Medical Report MED-OOETQ0DA
+Patient: Anthony Smith
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-OOETQ0DA",
+  "patient_name": "Anthony Smith",
+  "visit_date": "2024-11-17",
+  "doctor_name": "Dr. Maria Jordan",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0097"
+}

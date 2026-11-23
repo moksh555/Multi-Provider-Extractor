@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0690
+Company: Eastern Care Pharmacy
+Company Address: 193 Dhanmondi 27, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 103 Motijheel C/A, Chattogram, Bangladesh
+Invoice Date: 2026-06-01
+Due Date: 2026-06-16
+Currency: QAR
+Subtotal: 18095.25
+Tax: 2442.86
+Total: 18753.58
+Balance Due: 18753.58
+Status: overdue

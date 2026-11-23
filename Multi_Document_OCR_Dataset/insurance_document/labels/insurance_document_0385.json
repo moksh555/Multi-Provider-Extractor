@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OOP767J2D",
+  "policy_holder": "Tamara Huang",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-02-23",
+  "expiry_date": "2024-02-23",
+  "premium": 1934.63,
+  "coverage_amount": 309870.98,
+  "beneficiary": "Cassandra Moreno",
+  "sample_id": "insurance_document_0385"
+}

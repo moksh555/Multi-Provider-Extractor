@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0406
+Company: CityBanking Supplies
+Company Address: 198 Mirpur DOHS, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 26 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-03-14
+Due Date: 2026-04-28
+Currency: SAR
+Subtotal: 27440.18
+Tax: 1303.41
+Total: 27371.58
+Balance Due: 27371.58
+Status: overdue

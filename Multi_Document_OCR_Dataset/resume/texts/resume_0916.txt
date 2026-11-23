@@ -1,0 +1,27 @@
+Resume
+James Lewis
+Backend Developer
+Skills: NLP, Docker, FastAPI, TensorFlow, Pandas, Python, Computer Vision, Streamlit, Deep Learning, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "James Lewis",
+  "email": "rlamb@example.org",
+  "phone": "985.616.3238x13705",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "NLP",
+    "Docker",
+    "FastAPI",
+    "TensorFlow",
+    "Pandas",
+    "Python",
+    "Computer Vision",
+    "Streamlit",
+    "Deep Learning",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0916"
+}

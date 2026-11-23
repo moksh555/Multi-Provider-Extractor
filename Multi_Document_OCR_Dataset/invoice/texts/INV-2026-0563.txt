@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0563
+Company: BrightStar Electronics
+Company Address: 92 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 216 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-29
+Due Date: 2026-04-13
+Currency: SAR
+Subtotal: 13913.18
+Tax: 1363.49
+Total: 15008.41
+Balance Due: 0.0
+Status: paid

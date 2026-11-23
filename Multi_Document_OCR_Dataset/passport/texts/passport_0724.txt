@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Robin Hernandez
+Passport No: P12430366
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P12430366",
+  "full_name": "Robin Hernandez",
+  "nationality": "CA",
+  "date_of_birth": "1966-01-22",
+  "issue_date": "2022-02-22",
+  "expiry_date": "2032-02-22",
+  "place_of_birth": "Whitneyburgh",
+  "sample_id": "passport_0724"
+}

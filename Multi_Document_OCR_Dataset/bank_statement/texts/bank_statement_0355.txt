@@ -1,0 +1,16 @@
+Bank Statement STM-1FZXFCN0
+Holder: Mr. Joshua Cohen
+Closing Balance: $4549.23
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1FZXFCN0",
+  "account_holder": "Mr. Joshua Cohen",
+  "account_number_masked": "****3074",
+  "period_start": "2024-08-28",
+  "period_end": "2024-09-27",
+  "opening_balance": 2274.68,
+  "closing_balance": 4549.23,
+  "transactions": 14,
+  "sample_id": "bank_statement_0355"
+}

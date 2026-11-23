@@ -1,0 +1,16 @@
+Bank Statement STM-5D7HFVSV
+Holder: Ryan Taylor
+Closing Balance: $2121.59
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5D7HFVSV",
+  "account_holder": "Ryan Taylor",
+  "account_number_masked": "****0524",
+  "period_start": "2024-03-24",
+  "period_end": "2024-04-23",
+  "opening_balance": 971.84,
+  "closing_balance": 2121.59,
+  "transactions": 8,
+  "sample_id": "bank_statement_0670"
+}

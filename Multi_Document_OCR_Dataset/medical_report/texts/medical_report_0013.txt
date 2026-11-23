@@ -1,0 +1,14 @@
+Medical Report MED-4P7B7M1Y
+Patient: Elizabeth Mejia
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4P7B7M1Y",
+  "patient_name": "Elizabeth Mejia",
+  "visit_date": "2026-10-06",
+  "doctor_name": "Dr. Frank Ramirez",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0013"
+}

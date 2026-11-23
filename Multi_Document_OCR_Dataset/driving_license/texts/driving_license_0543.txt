@@ -1,0 +1,16 @@
+Synthetic Driving License
+Melissa Mitchell
+License: DL738787921
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL738787921",
+  "full_name": "Melissa Mitchell",
+  "date_of_birth": "1979-03-17",
+  "class": "D",
+  "issue_date": "2023-01-29",
+  "expiry_date": "2028-01-29",
+  "address": "282 Randy Manors, Spencerview, PW 75482",
+  "sample_id": "driving_license_0543"
+}

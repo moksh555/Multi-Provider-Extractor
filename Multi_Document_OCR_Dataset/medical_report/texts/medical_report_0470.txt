@@ -1,0 +1,14 @@
+Medical Report MED-4ZKRWAYE
+Patient: Steven Shepherd
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4ZKRWAYE",
+  "patient_name": "Steven Shepherd",
+  "visit_date": "2026-05-25",
+  "doctor_name": "Dr. Zachary Wilkerson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0470"
+}

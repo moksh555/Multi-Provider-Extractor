@@ -1,0 +1,16 @@
+Insurance Policy POL-7UUBCXULJ
+Holder: Colleen Brock
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7UUBCXULJ",
+  "policy_holder": "Colleen Brock",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-05-03",
+  "expiry_date": "2025-05-03",
+  "premium": 752.16,
+  "coverage_amount": 74130.36,
+  "beneficiary": "Julie Grant",
+  "sample_id": "insurance_document_0020"
+}

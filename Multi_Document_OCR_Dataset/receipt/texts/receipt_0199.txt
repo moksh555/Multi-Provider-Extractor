@@ -1,0 +1,55 @@
+Receipt RCT-LHYL2LD0
+Merchant: Douglas-Farley
+Date: 2023-03-31
+Total: $618.39
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LHYL2LD0",
+  "merchant_name": "Douglas-Farley",
+  "date": "2023-03-31",
+  "subtotal": 603.75,
+  "tax": 25.02,
+  "discount": 10.38,
+  "total": 618.39,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$38.21",
+      "line_total": "$38.21"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$71.35",
+      "line_total": "$71.35"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$74.30",
+      "line_total": "$148.60"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$31.60",
+      "line_total": "$63.20"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$57.87",
+      "line_total": "$231.48"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$16.97",
+      "line_total": "$50.91"
+    }
+  ],
+  "sample_id": "receipt_0199"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-I5RYBNML
+Holder: Tina Wilson
+Closing Balance: $2382.54
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-I5RYBNML",
+  "account_holder": "Tina Wilson",
+  "account_number_masked": "****1106",
+  "period_start": "2025-01-04",
+  "period_end": "2025-02-03",
+  "opening_balance": 1680.38,
+  "closing_balance": 2382.54,
+  "transactions": 12,
+  "sample_id": "bank_statement_0891"
+}

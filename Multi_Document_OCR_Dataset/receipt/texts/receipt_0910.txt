@@ -1,0 +1,67 @@
+Receipt RCT-HS5OK6BU
+Merchant: Cunningham-Phillips
+Date: 2025-09-24
+Total: $772.24
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HS5OK6BU",
+  "merchant_name": "Cunningham-Phillips",
+  "date": "2025-09-24",
+  "subtotal": 738.69,
+  "tax": 36.94,
+  "discount": 3.39,
+  "total": 772.24,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$9.56",
+      "line_total": "$38.24"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$30.80",
+      "line_total": "$123.20"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$39.17",
+      "line_total": "$39.17"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$51.28",
+      "line_total": "$51.28"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$40.42",
+      "line_total": "$40.42"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$44.10",
+      "line_total": "$132.30"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$52.88",
+      "line_total": "$52.88"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$65.30",
+      "line_total": "$261.20"
+    }
+  ],
+  "sample_id": "receipt_0910"
+}

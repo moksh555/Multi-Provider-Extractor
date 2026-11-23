@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL961035403",
+  "full_name": "Matthew Smith",
+  "date_of_birth": "1963-07-31",
+  "class": "B",
+  "issue_date": "2024-01-05",
+  "expiry_date": "2029-01-05",
+  "address": "3287 Angela Vista, South Dennismouth, TN 70117",
+  "sample_id": "driving_license_0027"
+}

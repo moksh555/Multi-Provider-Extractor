@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DO0D3FVNV",
+  "policy_holder": "Cody Foster",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-08-17",
+  "expiry_date": "2025-08-17",
+  "premium": 503.71,
+  "coverage_amount": 344363.25,
+  "beneficiary": "Derek Henderson",
+  "sample_id": "insurance_document_0719"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-LAJCJG5U",
+  "patient_name": "George Johnson",
+  "visit_date": "2025-11-11",
+  "doctor_name": "Dr. Christopher Butler",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0916"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-L2QGV3DR2
+Holder: James Gilbert
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-L2QGV3DR2",
+  "policy_holder": "James Gilbert",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-05-10",
+  "expiry_date": "2024-05-10",
+  "premium": 2034.6,
+  "coverage_amount": 218843.62,
+  "beneficiary": "Matthew Patton",
+  "sample_id": "insurance_document_0445"
+}

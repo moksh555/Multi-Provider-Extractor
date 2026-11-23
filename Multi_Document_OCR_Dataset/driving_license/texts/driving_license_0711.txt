@@ -1,0 +1,16 @@
+Synthetic Driving License
+Patrick Singh
+License: DL785681933
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL785681933",
+  "full_name": "Patrick Singh",
+  "date_of_birth": "1996-02-15",
+  "class": "B",
+  "issue_date": "2025-05-07",
+  "expiry_date": "2030-05-07",
+  "address": "6336 Christopher Extensions Apt. 231, Yangstad, WA 42035",
+  "sample_id": "driving_license_0711"
+}

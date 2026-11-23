@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-6UUMA2F7",
+  "patient_name": "Victoria James",
+  "visit_date": "2025-02-23",
+  "doctor_name": "Dr. Christina Ellis",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0180"
+}

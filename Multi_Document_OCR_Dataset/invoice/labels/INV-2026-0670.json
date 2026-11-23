@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0670",
+  "invoice_number": "INV-2026-0670",
+  "company_name": "Greenline Logistics",
+  "company_address": "19 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "84 Sheikh Zayed Road, Dubai, UAE",
+  "invoice_date": "2026-06-16",
+  "due_date": "2026-07-01",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 9,
+      "unit_price": 674.76,
+      "amount": 6072.84
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 5,
+      "unit_price": 658.27,
+      "amount": 3291.35
+    },
+    {
+      "description": "API Integration",
+      "quantity": 3,
+      "unit_price": 411.82,
+      "amount": 1235.46
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 9,
+      "unit_price": 49.11,
+      "amount": 441.99
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 375.02,
+      "amount": 1875.1
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "unit_price": 685.36,
+      "amount": 1370.72
+    }
+  ],
+  "subtotal": 14287.46,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 714.37,
+  "shipping": 25,
+  "total": 15026.83,
+  "amount_paid": 11050.94,
+  "balance_due": 3975.89,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801029508842",
+  "po_number": "PO-75471"
+}

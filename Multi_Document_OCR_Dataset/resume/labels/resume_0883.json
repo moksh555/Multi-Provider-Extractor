@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Christina Pace",
+  "email": "andreastewart@example.net",
+  "phone": "390-370-5695x10636",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Streamlit",
+    "Computer Vision",
+    "PyTorch",
+    "FastAPI",
+    "AWS",
+    "Deep Learning",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0883"
+}

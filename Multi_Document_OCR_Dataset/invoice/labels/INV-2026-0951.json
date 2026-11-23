@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0951",
+  "invoice_number": "INV-2026-0951",
+  "company_name": "Summit Agro Foods",
+  "company_address": "121 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "36 Agrabad C/A, Dubai, UAE",
+  "invoice_date": "2026-05-18",
+  "due_date": "2026-06-02",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 456.3,
+      "amount": 912.6
+    },
+    {
+      "description": "API Integration",
+      "quantity": 12,
+      "unit_price": 519.38,
+      "amount": 6232.56
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 542.49,
+      "amount": 3254.94
+    }
+  ],
+  "subtotal": 10400.1,
+  "discount": 208.0,
+  "tax_rate": 0.1,
+  "tax": 1019.21,
+  "shipping": 10,
+  "total": 11221.31,
+  "amount_paid": 0,
+  "balance_due": 11221.31,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801870978880",
+  "po_number": "PO-84601"
+}

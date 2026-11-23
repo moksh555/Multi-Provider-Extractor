@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-OLE1QXRJ",
+  "account_holder": "Steven Snyder",
+  "account_number_masked": "****1287",
+  "period_start": "2024-04-21",
+  "period_end": "2024-05-21",
+  "opening_balance": 2547.47,
+  "closing_balance": 4160.94,
+  "transactions": 10,
+  "sample_id": "bank_statement_0318"
+}

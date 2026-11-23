@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0476
+Company: SkyNet Office Mart
+Company Address: 14 Zindabazar Road, Doha, Qatar
+Customer: Smart Retail LLC
+Billing Address: 216 Jumeirah Lake Towers, Dubai, UAE
+Invoice Date: 2026-05-11
+Due Date: 2026-06-10
+Currency: USD
+Subtotal: 14937.73
+Tax: 1493.77
+Total: 16436.5
+Balance Due: 10770.29
+Status: partial

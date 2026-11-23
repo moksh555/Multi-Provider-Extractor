@@ -1,0 +1,16 @@
+Insurance Policy POL-8TVQ05PXT
+Holder: Michael Cruz
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8TVQ05PXT",
+  "policy_holder": "Michael Cruz",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-09-13",
+  "expiry_date": "2026-09-13",
+  "premium": 1404.41,
+  "coverage_amount": 404306.81,
+  "beneficiary": "Valerie Miller",
+  "sample_id": "insurance_document_0347"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0403",
+  "invoice_number": "INV-2026-0403",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "184 Zindabazar Road, Sylhet, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "58 Road 12, Banani, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-20",
+  "due_date": "2026-03-27",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 3,
+      "unit_price": 47.48,
+      "amount": 142.44
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 288.9,
+      "amount": 3466.8
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 5,
+      "unit_price": 676.09,
+      "amount": 3380.45
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 184.98,
+      "amount": 1109.88
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 2,
+      "unit_price": 281.86,
+      "amount": 563.72
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 283.14,
+      "amount": 566.28
+    }
+  ],
+  "subtotal": 9229.57,
+  "discount": 461.48,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 5,
+  "total": 8773.09,
+  "amount_paid": 8773.09,
+  "balance_due": 0.0,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801173884852",
+  "po_number": "PO-48092"
+}

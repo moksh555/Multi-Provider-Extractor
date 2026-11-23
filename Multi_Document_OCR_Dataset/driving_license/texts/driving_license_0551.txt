@@ -1,0 +1,16 @@
+Synthetic Driving License
+Dustin Ortiz
+License: DL472687141
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL472687141",
+  "full_name": "Dustin Ortiz",
+  "date_of_birth": "1993-11-07",
+  "class": "B",
+  "issue_date": "2026-05-25",
+  "expiry_date": "2031-05-25",
+  "address": "5895 Miller Loop, Bakerton, RI 84893",
+  "sample_id": "driving_license_0551"
+}

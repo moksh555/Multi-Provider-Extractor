@@ -1,0 +1,16 @@
+Insurance Policy POL-61I2HGJ11
+Holder: Kathleen Robertson
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-61I2HGJ11",
+  "policy_holder": "Kathleen Robertson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-07-10",
+  "expiry_date": "2027-07-10",
+  "premium": 351.25,
+  "coverage_amount": 317454.47,
+  "beneficiary": "Mr. Alexander Landry MD",
+  "sample_id": "insurance_document_0074"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-36FAOPRMO",
+  "policy_holder": "Margaret Andrews",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-12-17",
+  "expiry_date": "2026-12-17",
+  "premium": 1849.68,
+  "coverage_amount": 148358.4,
+  "beneficiary": "Eduardo Hall",
+  "sample_id": "insurance_document_0655"
+}

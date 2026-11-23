@@ -1,0 +1,67 @@
+Receipt RCT-ZGEGG4JY
+Merchant: Jones-Parker
+Date: 2026-11-22
+Total: $800.99
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZGEGG4JY",
+  "merchant_name": "Jones-Parker",
+  "date": "2026-11-22",
+  "subtotal": 773.31,
+  "tax": 40.23,
+  "discount": 12.55,
+  "total": 800.99,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$33.53",
+      "line_total": "$33.53"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$58.95",
+      "line_total": "$117.90"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$25.37",
+      "line_total": "$76.11"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$71.43",
+      "line_total": "$71.43"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$23.92",
+      "line_total": "$71.76"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$61.10",
+      "line_total": "$183.30"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$53.88",
+      "line_total": "$107.76"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$55.76",
+      "line_total": "$111.52"
+    }
+  ],
+  "sample_id": "receipt_0863"
+}

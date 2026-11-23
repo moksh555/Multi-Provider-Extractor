@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christopher Callahan
+Passport No: P93372731
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P93372731",
+  "full_name": "Christopher Callahan",
+  "nationality": "AE",
+  "date_of_birth": "1999-10-04",
+  "issue_date": "2022-01-09",
+  "expiry_date": "2032-01-09",
+  "place_of_birth": "Tammyburgh",
+  "sample_id": "passport_0294"
+}

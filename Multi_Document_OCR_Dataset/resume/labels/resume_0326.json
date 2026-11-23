@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Dawn Kim",
+  "email": "petersonmichelle@example.org",
+  "phone": "+1-886-605-6688x0316",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "NLP",
+    "Computer Vision",
+    "Streamlit",
+    "TensorFlow",
+    "Python",
+    "FastAPI",
+    "PyTorch",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0326"
+}

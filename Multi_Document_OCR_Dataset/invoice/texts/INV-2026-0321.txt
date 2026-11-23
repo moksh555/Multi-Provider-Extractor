@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0321
+Company: Greenline Logistics
+Company Address: 34 Al Barsha, Chattogram, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 154 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-02-15
+Due Date: 2026-04-01
+Currency: BDT
+Subtotal: 24810.15
+Tax: 2481.02
+Total: 27301.17
+Balance Due: 27301.17
+Status: unpaid

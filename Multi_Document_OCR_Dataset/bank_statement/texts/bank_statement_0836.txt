@@ -1,0 +1,16 @@
+Bank Statement STM-281RA4N9
+Holder: Dr. Scott Murphy
+Closing Balance: $7185.26
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-281RA4N9",
+  "account_holder": "Dr. Scott Murphy",
+  "account_number_masked": "****1162",
+  "period_start": "2024-11-29",
+  "period_end": "2024-12-29",
+  "opening_balance": 953.71,
+  "closing_balance": 7185.26,
+  "transactions": 14,
+  "sample_id": "bank_statement_0836"
+}

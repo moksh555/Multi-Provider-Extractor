@@ -1,0 +1,14 @@
+Medical Report MED-E8FGKVTR
+Patient: Nicole Foster
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-E8FGKVTR",
+  "patient_name": "Nicole Foster",
+  "visit_date": "2025-02-15",
+  "doctor_name": "Dr. Rebecca Hanson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0513"
+}

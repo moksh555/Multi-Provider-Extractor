@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F6BR2LED",
+  "account_holder": "Sandra Kirby",
+  "account_number_masked": "****7434",
+  "period_start": "2026-01-08",
+  "period_end": "2026-02-07",
+  "opening_balance": 2353.67,
+  "closing_balance": 4213.22,
+  "transactions": 12,
+  "sample_id": "bank_statement_0714"
+}

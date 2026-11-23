@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZMNRPNUZ",
+  "account_holder": "Andrew Oneill",
+  "account_number_masked": "****5092",
+  "period_start": "2024-11-04",
+  "period_end": "2024-12-04",
+  "opening_balance": 2047.2,
+  "closing_balance": 3945.73,
+  "transactions": 11,
+  "sample_id": "bank_statement_0829"
+}

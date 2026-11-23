@@ -1,0 +1,49 @@
+Receipt RCT-DEYCZNYC
+Merchant: Grimes-Burns
+Date: 2026-12-29
+Total: $614.31
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DEYCZNYC",
+  "merchant_name": "Grimes-Burns",
+  "date": "2026-12-29",
+  "subtotal": 583.39,
+  "tax": 41.34,
+  "discount": 10.42,
+  "total": 614.31,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$71.87",
+      "line_total": "$287.48"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$65.66",
+      "line_total": "$131.32"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$29.20",
+      "line_total": "$58.40"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$40.51",
+      "line_total": "$40.51"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$65.68",
+      "line_total": "$65.68"
+    }
+  ],
+  "sample_id": "receipt_0991"
+}

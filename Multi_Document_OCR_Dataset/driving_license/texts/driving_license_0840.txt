@@ -1,0 +1,16 @@
+Synthetic Driving License
+Heidi Newton
+License: DL007264632
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL007264632",
+  "full_name": "Heidi Newton",
+  "date_of_birth": "1981-03-24",
+  "class": "B",
+  "issue_date": "2021-03-07",
+  "expiry_date": "2026-03-07",
+  "address": "1329 Fry Shore Apt. 506, Briggsberg, MT 62520",
+  "sample_id": "driving_license_0840"
+}

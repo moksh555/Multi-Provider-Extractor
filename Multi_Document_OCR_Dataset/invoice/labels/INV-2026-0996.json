@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0996",
+  "invoice_number": "INV-2026-0996",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "175 Sheikh Zayed Road, Dhaka, Bangladesh",
+  "customer_name": "Ocean Exporters",
+  "billing_address": "131 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-06-17",
+  "due_date": "2026-06-24",
+  "currency": "SAR",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 8,
+      "unit_price": 796.58,
+      "amount": 6372.64
+    },
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 125.5,
+      "amount": 1255.0
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 3,
+      "unit_price": 663.5,
+      "amount": 1990.5
+    }
+  ],
+  "subtotal": 9618.14,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 9618.14,
+  "amount_paid": 0,
+  "balance_due": 9618.14,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801203410685",
+  "po_number": "PO-37446"
+}

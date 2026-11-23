@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Deanna Franco
+Passport No: P23369663
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P23369663",
+  "full_name": "Deanna Franco",
+  "nationality": "US",
+  "date_of_birth": "2000-01-02",
+  "issue_date": "2025-01-22",
+  "expiry_date": "2035-01-22",
+  "place_of_birth": "Clarkbury",
+  "sample_id": "passport_0722"
+}

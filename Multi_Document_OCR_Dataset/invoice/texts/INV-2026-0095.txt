@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0095
+Company: SkyNet Office Mart
+Company Address: 156 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 19 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-05-15
+Due Date: 2026-05-30
+Currency: BDT
+Subtotal: 12723.45
+Tax: 1908.52
+Total: 14681.97
+Balance Due: 0.0
+Status: paid

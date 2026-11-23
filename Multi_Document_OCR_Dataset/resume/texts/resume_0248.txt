@@ -1,0 +1,27 @@
+Resume
+James Roberts
+Software Engineer
+Skills: NLP, SQL, Machine Learning, TensorFlow, Pandas, FastAPI, LangChain, PyTorch, Python, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "James Roberts",
+  "email": "thompsonsavannah@example.org",
+  "phone": "206-654-7476x950",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "NLP",
+    "SQL",
+    "Machine Learning",
+    "TensorFlow",
+    "Pandas",
+    "FastAPI",
+    "LangChain",
+    "PyTorch",
+    "Python",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0248"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0971
+Company: Greenline Logistics
+Company Address: 150 Road 12, Banani, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 51 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-03-28
+Due Date: 2026-05-12
+Currency: BDT
+Subtotal: 5547.74
+Tax: 832.16
+Total: 6389.9
+Balance Due: 6389.9
+Status: overdue

@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Gina Young DDS",
+  "email": "carloswerner@example.net",
+  "phone": "(289)372-8454",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "SQL",
+    "Computer Vision",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0020"
+}

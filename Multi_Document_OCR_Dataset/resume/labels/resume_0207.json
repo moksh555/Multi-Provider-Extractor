@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Alan Thomas",
+  "email": "andrewgarcia@example.org",
+  "phone": "401-486-0742x90695",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "NLP",
+    "Deep Learning",
+    "Docker",
+    "LangChain",
+    "SQL",
+    "TensorFlow",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0207"
+}

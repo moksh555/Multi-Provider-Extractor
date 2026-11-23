@@ -1,0 +1,16 @@
+Bank Statement STM-FEUO4W2C
+Holder: Thomas Vargas
+Closing Balance: $1987.61
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FEUO4W2C",
+  "account_holder": "Thomas Vargas",
+  "account_number_masked": "****4302",
+  "period_start": "2024-01-03",
+  "period_end": "2024-02-02",
+  "opening_balance": 2401.14,
+  "closing_balance": 1987.61,
+  "transactions": 10,
+  "sample_id": "bank_statement_0684"
+}

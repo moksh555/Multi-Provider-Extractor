@@ -1,0 +1,14 @@
+Medical Report MED-TT5IQNHV
+Patient: Jeffrey Johnson
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TT5IQNHV",
+  "patient_name": "Jeffrey Johnson",
+  "visit_date": "2025-06-11",
+  "doctor_name": "Dr. Barbara Sandoval",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0354"
+}

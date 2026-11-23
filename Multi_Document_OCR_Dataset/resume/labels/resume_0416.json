@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Whitney Bennett",
+  "email": "mjohnson@example.net",
+  "phone": "940-265-4525x935",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "Deep Learning",
+    "AWS",
+    "PyTorch",
+    "Docker",
+    "Streamlit",
+    "SQL",
+    "NLP",
+    "Pandas",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0416"
+}

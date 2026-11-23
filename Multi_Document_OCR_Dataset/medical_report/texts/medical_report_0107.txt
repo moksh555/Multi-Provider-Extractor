@@ -1,0 +1,14 @@
+Medical Report MED-SWVD777T
+Patient: Karen Brown
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-SWVD777T",
+  "patient_name": "Karen Brown",
+  "visit_date": "2025-06-04",
+  "doctor_name": "Dr. Rebecca Weber",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0107"
+}

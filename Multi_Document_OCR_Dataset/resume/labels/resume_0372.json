@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "James Jones",
+  "email": "rebeccamccormick@example.net",
+  "phone": "(703)906-9516",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "TensorFlow",
+    "AWS",
+    "Streamlit",
+    "PyTorch",
+    "Machine Learning",
+    "Docker",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0372"
+}

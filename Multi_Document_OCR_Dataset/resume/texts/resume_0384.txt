@@ -1,0 +1,25 @@
+Resume
+Scott Hendrix
+Data Analyst
+Skills: Docker, PyTorch, Python, Computer Vision, Pandas, NLP, TensorFlow, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Scott Hendrix",
+  "email": "richard07@example.com",
+  "phone": "001-822-482-1282x193",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "PyTorch",
+    "Python",
+    "Computer Vision",
+    "Pandas",
+    "NLP",
+    "TensorFlow",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0384"
+}

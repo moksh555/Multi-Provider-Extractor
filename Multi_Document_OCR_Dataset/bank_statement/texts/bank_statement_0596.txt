@@ -1,0 +1,16 @@
+Bank Statement STM-1R8A5J8U
+Holder: Andrew Aguilar
+Closing Balance: $1280.22
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1R8A5J8U",
+  "account_holder": "Andrew Aguilar",
+  "account_number_masked": "****4885",
+  "period_start": "2026-09-22",
+  "period_end": "2026-10-22",
+  "opening_balance": 861.5,
+  "closing_balance": 1280.22,
+  "transactions": 8,
+  "sample_id": "bank_statement_0596"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-51P28XAW
+Holder: Thomas Ramos
+Closing Balance: $7429.13
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-51P28XAW",
+  "account_holder": "Thomas Ramos",
+  "account_number_masked": "****6749",
+  "period_start": "2026-10-14",
+  "period_end": "2026-11-13",
+  "opening_balance": 4604.93,
+  "closing_balance": 7429.13,
+  "transactions": 13,
+  "sample_id": "bank_statement_0837"
+}

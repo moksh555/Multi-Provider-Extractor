@@ -1,0 +1,16 @@
+Synthetic Driving License
+Vanessa Armstrong
+License: DL192952019
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL192952019",
+  "full_name": "Vanessa Armstrong",
+  "date_of_birth": "1984-08-15",
+  "class": "C",
+  "issue_date": "2021-05-27",
+  "expiry_date": "2026-05-27",
+  "address": "24447 Bryan Mews Suite 647, West Johnathanbury, VA 82425",
+  "sample_id": "driving_license_0137"
+}

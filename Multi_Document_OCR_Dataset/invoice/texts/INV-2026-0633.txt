@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0633
+Company: BlueRiver Trading Co.
+Company Address: 138 Dhanmondi 27, Dhaka, Bangladesh
+Customer: TechPoint BD
+Billing Address: 169 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-08
+Due Date: 2026-02-15
+Currency: BDT
+Subtotal: 7231.1
+Tax: 1084.66
+Total: 8315.76
+Balance Due: 3715.57
+Status: partial

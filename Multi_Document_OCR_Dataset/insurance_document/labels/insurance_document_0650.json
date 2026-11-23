@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-43IEDD070",
+  "policy_holder": "Alex Suarez",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-03-19",
+  "expiry_date": "2027-03-19",
+  "premium": 995.21,
+  "coverage_amount": 428131.85,
+  "beneficiary": "Bianca Bowen",
+  "sample_id": "insurance_document_0650"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL368362985",
+  "full_name": "Matthew Rich",
+  "date_of_birth": "2000-10-20",
+  "class": "C",
+  "issue_date": "2020-12-26",
+  "expiry_date": "2025-12-26",
+  "address": "7365 Ross Stream, West Ronaldview, MN 20507",
+  "sample_id": "driving_license_0065"
+}

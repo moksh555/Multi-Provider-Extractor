@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-80TIJ7KT",
+  "merchant_name": "Gutierrez Inc",
+  "date": "2026-08-11",
+  "subtotal": 623.37,
+  "tax": 30.38,
+  "discount": 1.96,
+  "total": 651.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$53.83",
+      "line_total": "$107.66"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$63.00",
+      "line_total": "$252.00"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$24.39",
+      "line_total": "$48.78"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$49.66",
+      "line_total": "$99.32"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$8.60",
+      "line_total": "$34.40"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$9.02",
+      "line_total": "$9.02"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$7.98",
+      "line_total": "$31.92"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$40.27",
+      "line_total": "$40.27"
+    }
+  ],
+  "sample_id": "receipt_0787"
+}

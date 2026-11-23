@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-640M9933",
+  "patient_name": "Jermaine Tucker",
+  "visit_date": "2024-04-23",
+  "doctor_name": "Dr. Kimberly Johnson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0153"
+}

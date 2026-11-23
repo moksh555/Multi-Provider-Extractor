@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0200
+Company: Nova Medical Supplies
+Company Address: 168 Doha Business Park, Dubai, UAE
+Customer: Apex Health Ltd
+Billing Address: 118 Motijheel C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-16
+Due Date: 2026-02-23
+Currency: SAR
+Subtotal: 14810.05
+Tax: 740.5
+Total: 15550.55
+Balance Due: 0.0
+Status: paid

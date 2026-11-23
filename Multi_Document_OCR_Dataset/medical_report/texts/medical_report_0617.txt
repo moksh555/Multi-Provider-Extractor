@@ -1,0 +1,14 @@
+Medical Report MED-CWFY5WVF
+Patient: Matthew Hudson
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-CWFY5WVF",
+  "patient_name": "Matthew Hudson",
+  "visit_date": "2024-02-14",
+  "doctor_name": "Dr. Jennifer Bennett",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0617"
+}

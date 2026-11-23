@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brandy Watkins
+Passport No: P42002505
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P42002505",
+  "full_name": "Brandy Watkins",
+  "nationality": "GB",
+  "date_of_birth": "2003-02-21",
+  "issue_date": "2023-11-17",
+  "expiry_date": "2033-11-17",
+  "place_of_birth": "Ravenland",
+  "sample_id": "passport_0095"
+}

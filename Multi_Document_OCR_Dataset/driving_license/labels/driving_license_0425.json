@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL661769469",
+  "full_name": "Kenneth Smith",
+  "date_of_birth": "1985-10-06",
+  "class": "C",
+  "issue_date": "2024-10-15",
+  "expiry_date": "2029-10-15",
+  "address": "998 Michael Haven, Lake Nicholas, WA 32958",
+  "sample_id": "driving_license_0425"
+}

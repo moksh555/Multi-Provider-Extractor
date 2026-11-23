@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QX095MNS",
+  "patient_name": "Patricia Lawrence",
+  "visit_date": "2024-12-06",
+  "doctor_name": "Dr. Brian Wiley",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0228"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Leslie Johnson
+Passport No: P38742321
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P38742321",
+  "full_name": "Leslie Johnson",
+  "nationality": "BD",
+  "date_of_birth": "1996-10-14",
+  "issue_date": "2023-09-29",
+  "expiry_date": "2033-09-29",
+  "place_of_birth": "New Jennifer",
+  "sample_id": "passport_0011"
+}

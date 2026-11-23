@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jeffery Adams
+License: DL209986285
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL209986285",
+  "full_name": "Jeffery Adams",
+  "date_of_birth": "1976-06-19",
+  "class": "A",
+  "issue_date": "2024-12-16",
+  "expiry_date": "2029-12-16",
+  "address": "82498 Stephanie Port, East Elizabeth, WY 07552",
+  "sample_id": "driving_license_0667"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0518
+Company: Royal Diagnostics Center
+Company Address: 49 Mirpur DOHS, Chattogram, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 174 Sheikh Zayed Road, Doha, Qatar
+Invoice Date: 2026-06-12
+Due Date: 2026-07-27
+Currency: AED
+Subtotal: 15971.62
+Tax: 1597.16
+Total: 17578.78
+Balance Due: 17578.78
+Status: overdue

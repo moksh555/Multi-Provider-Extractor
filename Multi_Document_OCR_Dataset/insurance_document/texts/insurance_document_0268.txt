@@ -1,0 +1,16 @@
+Insurance Policy POL-59M6MG87O
+Holder: Chad Baldwin MD
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-59M6MG87O",
+  "policy_holder": "Chad Baldwin MD",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-04-04",
+  "expiry_date": "2025-04-04",
+  "premium": 1850.66,
+  "coverage_amount": 74290.83,
+  "beneficiary": "Michael Keller",
+  "sample_id": "insurance_document_0268"
+}

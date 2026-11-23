@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0455
+Company: SkyNet Office Mart
+Company Address: 57 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Smart Retail LLC
+Billing Address: 15 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-03-02
+Due Date: 2026-03-17
+Currency: BDT
+Subtotal: 21468.6
+Tax: 1073.43
+Total: 22592.03
+Balance Due: 7935.59
+Status: partial

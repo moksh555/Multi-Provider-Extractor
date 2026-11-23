@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Bradley Page",
+  "email": "allengriffin@example.org",
+  "phone": "001-851-326-6086",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "Computer Vision",
+    "FastAPI",
+    "TensorFlow",
+    "Pandas",
+    "Deep Learning",
+    "LangChain",
+    "Python",
+    "AWS",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0753"
+}

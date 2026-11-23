@@ -1,0 +1,14 @@
+Medical Report MED-Q5QFTSGQ
+Patient: Jimmy Dillon
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-Q5QFTSGQ",
+  "patient_name": "Jimmy Dillon",
+  "visit_date": "2026-03-08",
+  "doctor_name": "Dr. Angelica Stein DDS",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0927"
+}

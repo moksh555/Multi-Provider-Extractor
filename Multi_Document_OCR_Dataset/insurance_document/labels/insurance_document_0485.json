@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-C11BD2SCE",
+  "policy_holder": "Michael Flowers",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-03-30",
+  "expiry_date": "2024-03-30",
+  "premium": 277.67,
+  "coverage_amount": 337117.35,
+  "beneficiary": "Bradley Parks",
+  "sample_id": "insurance_document_0485"
+}

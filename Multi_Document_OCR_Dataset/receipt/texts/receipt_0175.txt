@@ -1,0 +1,37 @@
+Receipt RCT-UU80MB1L
+Merchant: Williams-Glass
+Date: 2025-04-02
+Total: $213.54
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UU80MB1L",
+  "merchant_name": "Williams-Glass",
+  "date": "2025-04-02",
+  "subtotal": 207.92,
+  "tax": 16.06,
+  "discount": 10.44,
+  "total": 213.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$24.13",
+      "line_total": "$24.13"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$55.87",
+      "line_total": "$55.87"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$42.64",
+      "line_total": "$127.92"
+    }
+  ],
+  "sample_id": "receipt_0175"
+}

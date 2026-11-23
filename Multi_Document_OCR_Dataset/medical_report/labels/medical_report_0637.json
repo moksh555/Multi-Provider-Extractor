@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-T6RXDGNR",
+  "patient_name": "Jack Ortiz",
+  "visit_date": "2025-04-06",
+  "doctor_name": "Dr. Ashley Sexton",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0637"
+}

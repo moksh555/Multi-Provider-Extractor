@@ -1,0 +1,14 @@
+Medical Report MED-9POZQCR6
+Patient: Roberta Johnson
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-9POZQCR6",
+  "patient_name": "Roberta Johnson",
+  "visit_date": "2026-07-02",
+  "doctor_name": "Dr. Louis Stone",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0981"
+}

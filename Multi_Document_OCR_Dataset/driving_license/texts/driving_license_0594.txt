@@ -1,0 +1,16 @@
+Synthetic Driving License
+Shawn Brock
+License: DL179450327
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL179450327",
+  "full_name": "Shawn Brock",
+  "date_of_birth": "1980-12-23",
+  "class": "C",
+  "issue_date": "2023-12-05",
+  "expiry_date": "2028-12-05",
+  "address": "2683 Torres Hills, Gardnerfurt, WY 57765",
+  "sample_id": "driving_license_0594"
+}

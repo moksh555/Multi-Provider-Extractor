@@ -1,0 +1,16 @@
+Insurance Policy POL-ZEBBK7W1D
+Holder: Christopher Collins
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZEBBK7W1D",
+  "policy_holder": "Christopher Collins",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-03-21",
+  "expiry_date": "2027-03-21",
+  "premium": 796.73,
+  "coverage_amount": 244569.96,
+  "beneficiary": "Todd Carlson",
+  "sample_id": "insurance_document_0052"
+}

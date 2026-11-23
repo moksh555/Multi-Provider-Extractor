@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Megan Riley
+Passport No: P20443031
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P20443031",
+  "full_name": "Megan Riley",
+  "nationality": "CA",
+  "date_of_birth": "2004-10-13",
+  "issue_date": "2021-05-09",
+  "expiry_date": "2031-05-09",
+  "place_of_birth": "Port Tyler",
+  "sample_id": "passport_0754"
+}

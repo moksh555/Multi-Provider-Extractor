@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL673145148",
+  "full_name": "Kevin Martinez",
+  "date_of_birth": "1977-10-09",
+  "class": "D",
+  "issue_date": "2022-01-06",
+  "expiry_date": "2027-01-06",
+  "address": "15391 Linda Turnpike Apt. 074, Lake Katherine, VA 01334",
+  "sample_id": "driving_license_0874"
+}

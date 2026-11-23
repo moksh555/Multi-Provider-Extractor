@@ -1,0 +1,16 @@
+Bank Statement STM-3SVY65QI
+Holder: Elizabeth Cunningham
+Closing Balance: $7115.09
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3SVY65QI",
+  "account_holder": "Elizabeth Cunningham",
+  "account_number_masked": "****6655",
+  "period_start": "2025-06-02",
+  "period_end": "2025-07-02",
+  "opening_balance": 4816.35,
+  "closing_balance": 7115.09,
+  "transactions": 10,
+  "sample_id": "bank_statement_0517"
+}

@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2IJ4TT43",
+  "merchant_name": "Levy, Brown and Patrick",
+  "date": "2024-05-02",
+  "subtotal": 580.07,
+  "tax": 31.2,
+  "discount": 8.86,
+  "total": 602.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$71.73",
+      "line_total": "$71.73"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$73.59",
+      "line_total": "$220.77"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$52.97",
+      "line_total": "$52.97"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$11.81",
+      "line_total": "$11.81"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$9.44",
+      "line_total": "$9.44"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$38.07",
+      "line_total": "$38.07"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$43.82",
+      "line_total": "$175.28"
+    }
+  ],
+  "sample_id": "receipt_0498"
+}

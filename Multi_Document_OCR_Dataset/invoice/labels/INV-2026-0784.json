@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0784",
+  "invoice_number": "INV-2026-0784",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "68 Road 12, Banani, Dubai, UAE",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "152 Dhanmondi 27, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-20",
+  "due_date": "2026-05-20",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 7,
+      "unit_price": 48.47,
+      "amount": 339.29
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 9,
+      "unit_price": 76.93,
+      "amount": 692.37
+    }
+  ],
+  "subtotal": 1031.66,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 51.58,
+  "shipping": 0,
+  "total": 1083.24,
+  "amount_paid": 1083.24,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801787786620",
+  "po_number": "PO-35775"
+}

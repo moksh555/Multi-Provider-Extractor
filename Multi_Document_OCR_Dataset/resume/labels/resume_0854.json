@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Zachary Scott",
+  "email": "soneal@example.org",
+  "phone": "638.916.7428x95405",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "NLP",
+    "SQL",
+    "AWS",
+    "Docker",
+    "Deep Learning",
+    "Computer Vision",
+    "Streamlit",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0854"
+}

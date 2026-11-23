@@ -1,0 +1,16 @@
+Bank Statement STM-CWAQAUR5
+Holder: Joshua Vasquez
+Closing Balance: $4264.98
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CWAQAUR5",
+  "account_holder": "Joshua Vasquez",
+  "account_number_masked": "****9410",
+  "period_start": "2025-10-21",
+  "period_end": "2025-11-20",
+  "opening_balance": 2508.64,
+  "closing_balance": 4264.98,
+  "transactions": 13,
+  "sample_id": "bank_statement_0635"
+}

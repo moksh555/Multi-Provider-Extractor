@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0821",
+  "invoice_number": "INV-2026-0821",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "32 Mirpur DOHS, Dubai, UAE",
+  "customer_name": "Bengal Motors",
+  "billing_address": "109 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-12",
+  "due_date": "2026-04-19",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 6,
+      "unit_price": 294.07,
+      "amount": 1764.42
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 650.31,
+      "amount": 4552.17
+    }
+  ],
+  "subtotal": 6316.59,
+  "discount": 315.83,
+  "tax_rate": 0.05,
+  "tax": 300.04,
+  "shipping": 5,
+  "total": 6305.8,
+  "amount_paid": 0,
+  "balance_due": 6305.8,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801334986487",
+  "po_number": "PO-17109"
+}

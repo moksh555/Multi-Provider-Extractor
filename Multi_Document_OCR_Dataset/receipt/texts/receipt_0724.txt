@@ -1,0 +1,43 @@
+Receipt RCT-QQ6AP3VG
+Merchant: Hodges-Smith
+Date: 2024-04-10
+Total: $285.28
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QQ6AP3VG",
+  "merchant_name": "Hodges-Smith",
+  "date": "2024-04-10",
+  "subtotal": 267.73,
+  "tax": 26.71,
+  "discount": 9.16,
+  "total": 285.28,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$57.72",
+      "line_total": "$115.44"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$54.29",
+      "line_total": "$54.29"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$24.90",
+      "line_total": "$74.70"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$23.30",
+      "line_total": "$23.30"
+    }
+  ],
+  "sample_id": "receipt_0724"
+}

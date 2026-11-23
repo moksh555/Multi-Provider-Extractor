@@ -1,0 +1,16 @@
+Insurance Policy POL-BTA3RUNYN
+Holder: Michael Hampton
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BTA3RUNYN",
+  "policy_holder": "Michael Hampton",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-10-30",
+  "expiry_date": "2027-10-30",
+  "premium": 1287.54,
+  "coverage_amount": 132520.73,
+  "beneficiary": "Terri Hill",
+  "sample_id": "insurance_document_0997"
+}

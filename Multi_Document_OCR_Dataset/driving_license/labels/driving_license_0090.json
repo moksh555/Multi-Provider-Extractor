@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL723107574",
+  "full_name": "Jonathan Glass MD",
+  "date_of_birth": "1992-06-24",
+  "class": "A",
+  "issue_date": "2025-10-03",
+  "expiry_date": "2030-10-03",
+  "address": "69284 Garcia Islands Suite 479, Jacksonmouth, MI 59107",
+  "sample_id": "driving_license_0090"
+}

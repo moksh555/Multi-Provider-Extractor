@@ -1,0 +1,25 @@
+Resume
+Evelyn Dunn
+Data Analyst
+Skills: TensorFlow, AWS, NLP, Docker, SQL, Python, PyTorch, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Evelyn Dunn",
+  "email": "omays@example.org",
+  "phone": "+1-555-290-4610x0792",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "AWS",
+    "NLP",
+    "Docker",
+    "SQL",
+    "Python",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0085"
+}

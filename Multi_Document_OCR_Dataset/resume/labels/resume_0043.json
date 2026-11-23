@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Laura Ramirez",
+  "email": "hernandezlinda@example.org",
+  "phone": "+1-477-541-7430x4350",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Docker",
+    "AWS",
+    "PyTorch",
+    "NLP",
+    "TensorFlow",
+    "LangChain",
+    "Pandas",
+    "SQL",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0043"
+}

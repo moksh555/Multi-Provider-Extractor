@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-W1LXXD8T",
+  "merchant_name": "Miller-Johnson",
+  "date": "2021-08-05",
+  "subtotal": 654.35,
+  "tax": 30.26,
+  "discount": 0.36,
+  "total": 684.25,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$40.71",
+      "line_total": "$162.84"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$53.00",
+      "line_total": "$53.00"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$22.72",
+      "line_total": "$22.72"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$66.55",
+      "line_total": "$133.10"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$64.75",
+      "line_total": "$64.75"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$47.52",
+      "line_total": "$190.08"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$27.86",
+      "line_total": "$27.86"
+    }
+  ],
+  "sample_id": "receipt_0248"
+}

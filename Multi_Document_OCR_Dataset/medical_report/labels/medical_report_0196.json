@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-1NMIHIE2",
+  "patient_name": "Troy Harris",
+  "visit_date": "2025-09-09",
+  "doctor_name": "Dr. Matthew Swanson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0196"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-VYB4XZ3M
+Holder: Aaron Thompson
+Closing Balance: $1683.75
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VYB4XZ3M",
+  "account_holder": "Aaron Thompson",
+  "account_number_masked": "****2660",
+  "period_start": "2026-11-08",
+  "period_end": "2026-12-08",
+  "opening_balance": 1878.79,
+  "closing_balance": 1683.75,
+  "transactions": 13,
+  "sample_id": "bank_statement_0045"
+}

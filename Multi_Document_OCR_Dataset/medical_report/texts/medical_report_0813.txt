@@ -1,0 +1,14 @@
+Medical Report MED-8UPVZ7S8
+Patient: Emily Meadows
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-8UPVZ7S8",
+  "patient_name": "Emily Meadows",
+  "visit_date": "2024-06-25",
+  "doctor_name": "Dr. David Turner",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0813"
+}

@@ -1,0 +1,25 @@
+Resume
+Jacqueline Klein
+Computer Vision Engineer
+Skills: TensorFlow, NLP, PyTorch, Streamlit, LangChain, SQL, Python, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Jacqueline Klein",
+  "email": "pmoore@example.org",
+  "phone": "(905)316-0232x510",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "TensorFlow",
+    "NLP",
+    "PyTorch",
+    "Streamlit",
+    "LangChain",
+    "SQL",
+    "Python",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0285"
+}

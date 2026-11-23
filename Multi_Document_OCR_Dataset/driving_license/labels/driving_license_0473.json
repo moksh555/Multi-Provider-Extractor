@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL806808156",
+  "full_name": "Lori Villa",
+  "date_of_birth": "1965-08-29",
+  "class": "D",
+  "issue_date": "2022-04-10",
+  "expiry_date": "2027-04-10",
+  "address": "33155 Alexis Shoal Suite 063, Robinsonview, SD 82278",
+  "sample_id": "driving_license_0473"
+}

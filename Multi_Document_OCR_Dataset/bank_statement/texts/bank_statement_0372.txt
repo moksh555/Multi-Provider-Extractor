@@ -1,0 +1,16 @@
+Bank Statement STM-P6E0CCG3
+Holder: Carrie Mcintyre
+Closing Balance: $5978.95
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P6E0CCG3",
+  "account_holder": "Carrie Mcintyre",
+  "account_number_masked": "****0422",
+  "period_start": "2024-03-31",
+  "period_end": "2024-04-30",
+  "opening_balance": 4932.56,
+  "closing_balance": 5978.95,
+  "transactions": 9,
+  "sample_id": "bank_statement_0372"
+}

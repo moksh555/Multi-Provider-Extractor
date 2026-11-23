@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0974
+Company: Nova Medical Supplies
+Company Address: 82 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Sunrise Apparel
+Billing Address: 71 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-17
+Due Date: 2026-07-17
+Currency: USD
+Subtotal: 7593.37
+Tax: 0.0
+Total: 7491.5
+Balance Due: 0.0
+Status: paid

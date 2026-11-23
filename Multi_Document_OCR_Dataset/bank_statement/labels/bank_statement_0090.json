@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-9V66DQA4",
+  "account_holder": "Dustin Stevens",
+  "account_number_masked": "****7655",
+  "period_start": "2026-10-28",
+  "period_end": "2026-11-27",
+  "opening_balance": 3316.82,
+  "closing_balance": 4665.43,
+  "transactions": 10,
+  "sample_id": "bank_statement_0090"
+}

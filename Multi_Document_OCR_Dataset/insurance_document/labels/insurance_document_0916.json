@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5IJULP98R",
+  "policy_holder": "Kimberly Mckay",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-11-09",
+  "expiry_date": "2026-11-09",
+  "premium": 1239.81,
+  "coverage_amount": 89934.13,
+  "beneficiary": "Stephen Craig",
+  "sample_id": "insurance_document_0916"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Michaela Lynch
+Passport No: P25060968
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P25060968",
+  "full_name": "Michaela Lynch",
+  "nationality": "GB",
+  "date_of_birth": "1982-03-09",
+  "issue_date": "2023-06-11",
+  "expiry_date": "2033-06-11",
+  "place_of_birth": "New Seanberg",
+  "sample_id": "passport_0431"
+}

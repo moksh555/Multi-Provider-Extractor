@@ -1,0 +1,23 @@
+Resume
+Michael Jackson
+Computer Vision Engineer
+Skills: SQL, LangChain, NLP, Deep Learning, Computer Vision, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Jackson",
+  "email": "bgreene@example.com",
+  "phone": "679.658.1877",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "SQL",
+    "LangChain",
+    "NLP",
+    "Deep Learning",
+    "Computer Vision",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0406"
+}

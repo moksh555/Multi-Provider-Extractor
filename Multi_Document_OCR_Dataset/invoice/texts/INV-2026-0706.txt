@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0706
+Company: BlueRiver Trading Co.
+Company Address: 194 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 145 Sheikh Zayed Road, Doha, Qatar
+Invoice Date: 2026-02-23
+Due Date: 2026-04-09
+Currency: SAR
+Subtotal: 5445.24
+Tax: 245.04
+Total: 5150.76
+Balance Due: 5150.76
+Status: overdue

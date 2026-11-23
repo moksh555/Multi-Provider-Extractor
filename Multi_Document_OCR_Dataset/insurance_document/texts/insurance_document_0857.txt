@@ -1,0 +1,16 @@
+Insurance Policy POL-AIH7WFRAC
+Holder: Eddie Klein
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AIH7WFRAC",
+  "policy_holder": "Eddie Klein",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-10-08",
+  "expiry_date": "2024-10-08",
+  "premium": 1337.86,
+  "coverage_amount": 225447.62,
+  "beneficiary": "David Rodriguez",
+  "sample_id": "insurance_document_0857"
+}

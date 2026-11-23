@@ -1,0 +1,23 @@
+Resume
+Stephanie Peterson
+Software Engineer
+Skills: Machine Learning, TensorFlow, NLP, Docker, LangChain, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Stephanie Peterson",
+  "email": "mshort@example.org",
+  "phone": "001-870-852-4169x4564",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Machine Learning",
+    "TensorFlow",
+    "NLP",
+    "Docker",
+    "LangChain",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0944"
+}

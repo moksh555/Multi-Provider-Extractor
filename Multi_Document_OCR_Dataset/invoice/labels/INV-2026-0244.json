@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0244",
+  "invoice_number": "INV-2026-0244",
+  "company_name": "BrightStar Electronics",
+  "company_address": "66 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "178 Mirpur DOHS, Sylhet, Bangladesh",
+  "invoice_date": "2026-03-12",
+  "due_date": "2026-04-26",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 8,
+      "unit_price": 635.45,
+      "amount": 5083.6
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 7,
+      "unit_price": 439.66,
+      "amount": 3077.62
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 4,
+      "unit_price": 218.58,
+      "amount": 874.32
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 11,
+      "unit_price": 720.36,
+      "amount": 7923.96
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 7,
+      "unit_price": 94.64,
+      "amount": 662.48
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 5,
+      "unit_price": 147.48,
+      "amount": 737.4
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 418.75,
+      "amount": 5025.0
+    }
+  ],
+  "subtotal": 23384.38,
+  "discount": 2338.44,
+  "tax_rate": 0.075,
+  "tax": 1578.45,
+  "shipping": 10,
+  "total": 22634.39,
+  "amount_paid": 22634.39,
+  "balance_due": 0.0,
+  "vendor_email": "brightstarelectronics@example.com",
+  "vendor_phone": "+8801523131388",
+  "po_number": "PO-48924"
+}

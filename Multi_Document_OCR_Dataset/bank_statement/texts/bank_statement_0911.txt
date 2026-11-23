@@ -1,0 +1,16 @@
+Bank Statement STM-JKAZPL66
+Holder: Alan Mendoza
+Closing Balance: $5856.15
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JKAZPL66",
+  "account_holder": "Alan Mendoza",
+  "account_number_masked": "****3103",
+  "period_start": "2024-01-21",
+  "period_end": "2024-02-20",
+  "opening_balance": 4827.79,
+  "closing_balance": 5856.15,
+  "transactions": 10,
+  "sample_id": "bank_statement_0911"
+}

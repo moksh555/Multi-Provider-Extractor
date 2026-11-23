@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WLOLXQWL",
+  "merchant_name": "Jimenez, Daniel and Morrow",
+  "date": "2023-09-01",
+  "subtotal": 453.6,
+  "tax": 19.95,
+  "discount": 13.47,
+  "total": 460.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$28.61",
+      "line_total": "$85.83"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$39.39",
+      "line_total": "$118.17"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$29.61",
+      "line_total": "$118.44"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$32.79",
+      "line_total": "$131.16"
+    }
+  ],
+  "sample_id": "receipt_0901"
+}

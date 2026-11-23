@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0638
+Company: BrightStar Electronics
+Company Address: 56 Agrabad C/A, Dubai, UAE
+Customer: Karim Enterprise
+Billing Address: 2 Jumeirah Lake Towers, Sylhet, Bangladesh
+Invoice Date: 2026-01-21
+Due Date: 2026-01-28
+Currency: QAR
+Subtotal: 21892.92
+Tax: 3218.26
+Total: 24673.32
+Balance Due: 0.0
+Status: paid

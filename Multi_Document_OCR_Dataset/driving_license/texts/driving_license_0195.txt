@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jason Price
+License: DL664133769
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL664133769",
+  "full_name": "Jason Price",
+  "date_of_birth": "1981-09-30",
+  "class": "D",
+  "issue_date": "2023-08-27",
+  "expiry_date": "2028-08-27",
+  "address": "3875 Bruce Ville, West Connor, DC 97614",
+  "sample_id": "driving_license_0195"
+}

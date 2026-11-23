@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-IZRJ48L9",
+  "account_holder": "Timothy Holder",
+  "account_number_masked": "****2054",
+  "period_start": "2025-08-24",
+  "period_end": "2025-09-23",
+  "opening_balance": 3283.8,
+  "closing_balance": 7703.47,
+  "transactions": 11,
+  "sample_id": "bank_statement_0751"
+}

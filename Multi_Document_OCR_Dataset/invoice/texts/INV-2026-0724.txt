@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0724
+Company: Atlas Engineering Ltd.
+Company Address: 87 Doha Business Park, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 197 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-02
+Due Date: 2026-02-17
+Currency: SAR
+Subtotal: 469.14
+Tax: 23.46
+Total: 497.6
+Balance Due: 497.6
+Status: unpaid

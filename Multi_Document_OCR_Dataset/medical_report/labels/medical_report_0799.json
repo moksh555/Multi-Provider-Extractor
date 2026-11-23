@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SRTI33IJ",
+  "patient_name": "Kristi Taylor",
+  "visit_date": "2024-11-09",
+  "doctor_name": "Dr. Kiara Turner",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0799"
+}

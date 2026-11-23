@@ -1,0 +1,24 @@
+Resume
+Stephanie Olson
+Machine Learning Engineer
+Skills: FastAPI, Streamlit, NLP, SQL, Docker, Computer Vision, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Stephanie Olson",
+  "email": "calexander@example.com",
+  "phone": "4553817357",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "Streamlit",
+    "NLP",
+    "SQL",
+    "Docker",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0302"
+}

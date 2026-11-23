@@ -1,0 +1,16 @@
+Synthetic Driving License
+Christian Park
+License: DL665200718
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL665200718",
+  "full_name": "Christian Park",
+  "date_of_birth": "2002-01-20",
+  "class": "B",
+  "issue_date": "2024-03-11",
+  "expiry_date": "2029-03-11",
+  "address": "USCGC Smith, FPO AA 77207",
+  "sample_id": "driving_license_0411"
+}

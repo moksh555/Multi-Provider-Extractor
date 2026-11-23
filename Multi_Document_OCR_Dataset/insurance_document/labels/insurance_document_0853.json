@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4ES3AOFC9",
+  "policy_holder": "Mario Stewart",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-12-07",
+  "expiry_date": "2027-12-07",
+  "premium": 566.67,
+  "coverage_amount": 350082.13,
+  "beneficiary": "Carlos Ortiz",
+  "sample_id": "insurance_document_0853"
+}

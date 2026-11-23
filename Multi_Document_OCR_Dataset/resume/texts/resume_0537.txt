@@ -1,0 +1,24 @@
+Resume
+Kevin Dominguez
+Backend Developer
+Skills: Deep Learning, Python, FastAPI, Machine Learning, Pandas, LangChain, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Kevin Dominguez",
+  "email": "deborah90@example.com",
+  "phone": "001-577-218-5360x174",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Deep Learning",
+    "Python",
+    "FastAPI",
+    "Machine Learning",
+    "Pandas",
+    "LangChain",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0537"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0069
+Company: Nexus Digital Solutions
+Company Address: 65 Road 12, Banani, Dhaka, Bangladesh
+Customer: TechPoint BD
+Billing Address: 243 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-03-15
+Due Date: 2026-04-29
+Currency: SAR
+Subtotal: 11596.95
+Tax: 0.0
+Total: 10447.26
+Balance Due: 10447.26
+Status: overdue

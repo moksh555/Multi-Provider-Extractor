@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL559023585",
+  "full_name": "Rebecca Houston",
+  "date_of_birth": "1998-04-12",
+  "class": "C",
+  "issue_date": "2023-03-14",
+  "expiry_date": "2028-03-14",
+  "address": "8719 Laura Crossroad Apt. 381, Fostershire, VT 97181",
+  "sample_id": "driving_license_0879"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Emma Diaz
+License: DL111129046
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL111129046",
+  "full_name": "Emma Diaz",
+  "date_of_birth": "1971-11-05",
+  "class": "C",
+  "issue_date": "2025-04-25",
+  "expiry_date": "2030-04-25",
+  "address": "993 Randall Plain, Stewartport, MP 29193",
+  "sample_id": "driving_license_0495"
+}

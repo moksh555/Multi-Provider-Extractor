@@ -1,0 +1,14 @@
+Medical Report MED-FWI2ZQSV
+Patient: Melissa Cohen
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-FWI2ZQSV",
+  "patient_name": "Melissa Cohen",
+  "visit_date": "2025-01-18",
+  "doctor_name": "Dr. Nicole Oliver",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0255"
+}

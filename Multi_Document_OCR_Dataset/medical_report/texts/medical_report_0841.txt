@@ -1,0 +1,14 @@
+Medical Report MED-1HW8I436
+Patient: Robert Hill
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-1HW8I436",
+  "patient_name": "Robert Hill",
+  "visit_date": "2024-03-05",
+  "doctor_name": "Dr. Erin Harris MD",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0841"
+}

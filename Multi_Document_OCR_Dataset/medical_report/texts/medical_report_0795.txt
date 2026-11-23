@@ -1,0 +1,14 @@
+Medical Report MED-RNMESI8G
+Patient: Marc Thompson
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RNMESI8G",
+  "patient_name": "Marc Thompson",
+  "visit_date": "2026-03-01",
+  "doctor_name": "Dr. Mrs. Mary Bowers",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0795"
+}

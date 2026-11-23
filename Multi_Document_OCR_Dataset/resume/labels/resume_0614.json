@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Jon Norman",
+  "email": "donald71@example.com",
+  "phone": "791-491-6369x5072",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Streamlit",
+    "AWS",
+    "PyTorch",
+    "Machine Learning",
+    "FastAPI",
+    "SQL",
+    "Docker",
+    "Python",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0614"
+}

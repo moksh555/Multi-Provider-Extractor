@@ -1,0 +1,14 @@
+Medical Report MED-BYR4L7N2
+Patient: Tony Singh
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BYR4L7N2",
+  "patient_name": "Tony Singh",
+  "visit_date": "2025-11-07",
+  "doctor_name": "Dr. Lisa Silva",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0127"
+}

@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-W8TR98W0",
+  "merchant_name": "Blair, Bartlett and May",
+  "date": "2025-07-28",
+  "subtotal": 726.65,
+  "tax": 85.5,
+  "discount": 2.8,
+  "total": 809.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$72.69",
+      "line_total": "$218.07"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$21.83",
+      "line_total": "$87.32"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$64.59",
+      "line_total": "$193.77"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$75.83",
+      "line_total": "$227.49"
+    }
+  ],
+  "sample_id": "receipt_0606"
+}

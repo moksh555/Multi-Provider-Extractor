@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL641470202",
+  "full_name": "Wendy Williams",
+  "date_of_birth": "1980-08-28",
+  "class": "B",
+  "issue_date": "2025-03-25",
+  "expiry_date": "2030-03-25",
+  "address": "6764 Graves Street Apt. 981, North Brittney, MN 88831",
+  "sample_id": "driving_license_0630"
+}

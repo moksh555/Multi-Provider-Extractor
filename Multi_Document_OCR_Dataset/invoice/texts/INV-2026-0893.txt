@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0893
+Company: CityBanking Supplies
+Company Address: 65 Agrabad C/A, Sylhet, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 118 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-03-12
+Due Date: 2026-04-11
+Currency: AED
+Subtotal: 7949.84
+Tax: 0.0
+Total: 7795.84
+Balance Due: 4704.68
+Status: partial

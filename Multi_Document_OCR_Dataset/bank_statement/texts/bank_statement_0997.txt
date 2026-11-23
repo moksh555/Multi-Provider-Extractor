@@ -1,0 +1,16 @@
+Bank Statement STM-G6X7IKP7
+Holder: Richard Brennan
+Closing Balance: $2827.85
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-G6X7IKP7",
+  "account_holder": "Richard Brennan",
+  "account_number_masked": "****4328",
+  "period_start": "2026-10-27",
+  "period_end": "2026-11-26",
+  "opening_balance": 4588.44,
+  "closing_balance": 2827.85,
+  "transactions": 8,
+  "sample_id": "bank_statement_0997"
+}

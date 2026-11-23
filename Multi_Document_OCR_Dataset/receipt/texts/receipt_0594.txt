@@ -1,0 +1,43 @@
+Receipt RCT-HKZH6EJE
+Merchant: Wright Group
+Date: 2021-05-09
+Total: $283.76
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HKZH6EJE",
+  "merchant_name": "Wright Group",
+  "date": "2021-05-09",
+  "subtotal": 277.84,
+  "tax": 17.32,
+  "discount": 11.4,
+  "total": 283.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$41.01",
+      "line_total": "$41.01"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$6.69",
+      "line_total": "$6.69"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$76.48",
+      "line_total": "$76.48"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$76.83",
+      "line_total": "$153.66"
+    }
+  ],
+  "sample_id": "receipt_0594"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL719802920",
+  "full_name": "Elizabeth Burns",
+  "date_of_birth": "2005-04-09",
+  "class": "A",
+  "issue_date": "2021-11-23",
+  "expiry_date": "2026-11-23",
+  "address": "5543 Cain Road, Natashatown, OH 37226",
+  "sample_id": "driving_license_0286"
+}

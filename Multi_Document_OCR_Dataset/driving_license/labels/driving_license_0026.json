@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL680319147",
+  "full_name": "Bradley Robertson",
+  "date_of_birth": "1960-11-12",
+  "class": "A",
+  "issue_date": "2021-04-03",
+  "expiry_date": "2026-04-03",
+  "address": "34332 Brandon Mountains Apt. 769, Lake Heather, NM 52884",
+  "sample_id": "driving_license_0026"
+}

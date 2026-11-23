@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0374
+Company: Nova Medical Supplies
+Company Address: 192 Road 12, Banani, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 64 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-01-19
+Due Date: 2026-03-05
+Currency: BDT
+Subtotal: 10847.64
+Tax: 813.57
+Total: 11711.21
+Balance Due: 11711.21
+Status: unpaid

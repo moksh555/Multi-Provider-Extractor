@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kayla Rodriguez
+License: DL458760268
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL458760268",
+  "full_name": "Kayla Rodriguez",
+  "date_of_birth": "1961-11-10",
+  "class": "A",
+  "issue_date": "2023-01-08",
+  "expiry_date": "2028-01-08",
+  "address": "847 Bruce Neck, Simmonsville, NM 93876",
+  "sample_id": "driving_license_0063"
+}

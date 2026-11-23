@@ -1,0 +1,16 @@
+Insurance Policy POL-UO4JH9JPD
+Holder: Katherine Gonzalez
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-UO4JH9JPD",
+  "policy_holder": "Katherine Gonzalez",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-03-31",
+  "expiry_date": "2027-03-31",
+  "premium": 985.4,
+  "coverage_amount": 388461.57,
+  "beneficiary": "Kim Ford",
+  "sample_id": "insurance_document_0869"
+}

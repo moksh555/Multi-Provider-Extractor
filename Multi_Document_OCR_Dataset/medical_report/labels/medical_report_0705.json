@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ELQ8YHS6",
+  "patient_name": "Anthony Lawson",
+  "visit_date": "2026-05-09",
+  "doctor_name": "Dr. Kathryn Howard",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0705"
+}

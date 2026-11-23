@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A7XFIZME",
+  "merchant_name": "Perez Ltd",
+  "date": "2025-03-10",
+  "subtotal": 713.08,
+  "tax": 47.46,
+  "discount": 12.38,
+  "total": 748.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$18.31",
+      "line_total": "$73.24"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$55.34",
+      "line_total": "$221.36"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$51.60",
+      "line_total": "$103.20"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$66.91",
+      "line_total": "$133.82"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$71.56",
+      "line_total": "$71.56"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$12.40",
+      "line_total": "$49.60"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$20.10",
+      "line_total": "$60.30"
+    }
+  ],
+  "sample_id": "receipt_0462"
+}

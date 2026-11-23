@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0010",
+  "invoice_number": "INV-2026-0010",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "81 Dhanmondi 27, Riyadh, Saudi Arabia",
+  "customer_name": "Bengal Motors",
+  "billing_address": "131 Motijheel C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-18",
+  "due_date": "2026-06-17",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 1,
+      "unit_price": 99.27,
+      "amount": 99.27
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 6,
+      "unit_price": 621.43,
+      "amount": 3728.58
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 518.43,
+      "amount": 3629.01
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 2,
+      "unit_price": 332.33,
+      "amount": 664.66
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 222.48,
+      "amount": 889.92
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 1,
+      "unit_price": 445.77,
+      "amount": 445.77
+    }
+  ],
+  "subtotal": 9457.21,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 709.29,
+  "shipping": 25,
+  "total": 10191.5,
+  "amount_paid": 10191.5,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801776306338",
+  "po_number": "PO-73344"
+}

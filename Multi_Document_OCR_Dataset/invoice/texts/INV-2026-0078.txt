@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0078
+Company: Royal Diagnostics Center
+Company Address: 17 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: Trust Finance Office
+Billing Address: 43 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-02-10
+Due Date: 2026-02-17
+Currency: USD
+Subtotal: 17493.97
+Tax: 874.7
+Total: 18368.67
+Balance Due: 9849.23
+Status: partial

@@ -1,0 +1,27 @@
+Resume
+Andrew Hahn
+Computer Vision Engineer
+Skills: Pandas, FastAPI, Streamlit, Deep Learning, LangChain, Docker, Machine Learning, Computer Vision, PyTorch, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Andrew Hahn",
+  "email": "gentryanthony@example.org",
+  "phone": "(269)614-1939x6061",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "FastAPI",
+    "Streamlit",
+    "Deep Learning",
+    "LangChain",
+    "Docker",
+    "Machine Learning",
+    "Computer Vision",
+    "PyTorch",
+    "AWS"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0295"
+}

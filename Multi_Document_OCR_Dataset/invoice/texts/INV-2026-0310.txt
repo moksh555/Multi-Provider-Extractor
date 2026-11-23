@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0310
+Company: UrbanBuild Construction
+Company Address: 122 Gulshan Avenue, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 72 Al Barsha, Doha, Qatar
+Invoice Date: 2026-03-28
+Due Date: 2026-04-27
+Currency: BDT
+Subtotal: 9598.92
+Tax: 683.92
+Total: 9807.89
+Balance Due: 5136.56
+Status: partial

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GXQ70FPM",
+  "patient_name": "Michael Williams",
+  "visit_date": "2026-08-23",
+  "doctor_name": "Dr. Ronald Hernandez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0184"
+}

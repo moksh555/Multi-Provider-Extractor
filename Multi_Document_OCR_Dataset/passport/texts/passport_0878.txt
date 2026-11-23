@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Justin Harrison
+Passport No: P97552025
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P97552025",
+  "full_name": "Justin Harrison",
+  "nationality": "BD",
+  "date_of_birth": "1974-03-21",
+  "issue_date": "2021-02-10",
+  "expiry_date": "2031-02-10",
+  "place_of_birth": "East Brandonborough",
+  "sample_id": "passport_0878"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0908
+Company: Royal Diagnostics Center
+Company Address: 55 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 74 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-05-09
+Due Date: 2026-05-24
+Currency: BDT
+Subtotal: 8394.36
+Tax: 755.49
+Total: 8315.41
+Balance Due: 8315.41
+Status: overdue

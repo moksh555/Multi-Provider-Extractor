@@ -1,0 +1,14 @@
+Medical Report MED-2B3EZI0U
+Patient: Linda Chavez
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2B3EZI0U",
+  "patient_name": "Linda Chavez",
+  "visit_date": "2025-05-11",
+  "doctor_name": "Dr. Thomas Gutierrez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0940"
+}

@@ -1,0 +1,55 @@
+Receipt RCT-372VIUAD
+Merchant: Robinson, Cunningham and Aguilar
+Date: 2023-12-17
+Total: $688.40
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-372VIUAD",
+  "merchant_name": "Robinson, Cunningham and Aguilar",
+  "date": "2023-12-17",
+  "subtotal": 655.15,
+  "tax": 36.22,
+  "discount": 2.97,
+  "total": 688.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$66.63",
+      "line_total": "$66.63"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$67.91",
+      "line_total": "$203.73"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$71.18",
+      "line_total": "$142.36"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$45.26",
+      "line_total": "$181.04"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$6.01",
+      "line_total": "$18.03"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$21.68",
+      "line_total": "$43.36"
+    }
+  ],
+  "sample_id": "receipt_0947"
+}

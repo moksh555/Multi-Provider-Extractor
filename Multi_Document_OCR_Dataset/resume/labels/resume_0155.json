@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Nancy Payne",
+  "email": "mooreashley@example.net",
+  "phone": "961.482.0706x69010",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "Deep Learning",
+    "Computer Vision",
+    "PyTorch",
+    "LangChain",
+    "FastAPI",
+    "Docker",
+    "TensorFlow",
+    "SQL",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0155"
+}

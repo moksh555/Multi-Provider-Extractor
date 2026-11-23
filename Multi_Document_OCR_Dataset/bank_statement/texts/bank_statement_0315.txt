@@ -1,0 +1,16 @@
+Bank Statement STM-IAYZD9UX
+Holder: Brooke Mccullough
+Closing Balance: $6607.25
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-IAYZD9UX",
+  "account_holder": "Brooke Mccullough",
+  "account_number_masked": "****2366",
+  "period_start": "2025-10-05",
+  "period_end": "2025-11-04",
+  "opening_balance": 4956.66,
+  "closing_balance": 6607.25,
+  "transactions": 11,
+  "sample_id": "bank_statement_0315"
+}

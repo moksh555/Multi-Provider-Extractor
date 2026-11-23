@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0470
+Company: UrbanBuild Construction
+Company Address: 93 Motijheel C/A, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 57 Gulshan Avenue, Dhaka, Bangladesh
+Invoice Date: 2026-02-27
+Due Date: 2026-03-29
+Currency: USD
+Subtotal: 5076.8
+Tax: 380.76
+Total: 5457.56
+Balance Due: 5457.56
+Status: unpaid

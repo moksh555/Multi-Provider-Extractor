@@ -1,0 +1,16 @@
+Insurance Policy POL-EMBRG8MY3
+Holder: Steven Morales
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-EMBRG8MY3",
+  "policy_holder": "Steven Morales",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-08-17",
+  "expiry_date": "2025-08-17",
+  "premium": 832.04,
+  "coverage_amount": 153837.07,
+  "beneficiary": "Craig Hammond",
+  "sample_id": "insurance_document_0677"
+}

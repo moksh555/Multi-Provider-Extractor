@@ -1,0 +1,16 @@
+Bank Statement STM-6Y0XVLK2
+Holder: Matthew Wilson
+Closing Balance: $6486.67
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6Y0XVLK2",
+  "account_holder": "Matthew Wilson",
+  "account_number_masked": "****2916",
+  "period_start": "2025-06-24",
+  "period_end": "2025-07-24",
+  "opening_balance": 3945.39,
+  "closing_balance": 6486.67,
+  "transactions": 9,
+  "sample_id": "bank_statement_0902"
+}

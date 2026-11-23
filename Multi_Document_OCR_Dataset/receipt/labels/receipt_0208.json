@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-K38P6FVD",
+  "merchant_name": "Stanley-Bates",
+  "date": "2023-05-02",
+  "subtotal": 247.22,
+  "tax": 8.36,
+  "discount": 12.39,
+  "total": 243.19,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$6.22",
+      "line_total": "$18.66"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$1.52",
+      "line_total": "$1.52"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$14.82",
+      "line_total": "$59.28"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$16.74",
+      "line_total": "$33.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$44.76",
+      "line_total": "$134.28"
+    }
+  ],
+  "sample_id": "receipt_0208"
+}

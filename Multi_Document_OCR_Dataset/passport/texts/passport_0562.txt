@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: John Fisher
+Passport No: P35613159
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P35613159",
+  "full_name": "John Fisher",
+  "nationality": "US",
+  "date_of_birth": "1966-03-01",
+  "issue_date": "2026-12-15",
+  "expiry_date": "2036-12-15",
+  "place_of_birth": "Stevenfort",
+  "sample_id": "passport_0562"
+}

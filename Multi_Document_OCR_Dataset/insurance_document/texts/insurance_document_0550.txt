@@ -1,0 +1,16 @@
+Insurance Policy POL-XME4PO1I3
+Holder: Shane Hopkins
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XME4PO1I3",
+  "policy_holder": "Shane Hopkins",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-08-10",
+  "expiry_date": "2025-08-10",
+  "premium": 1321.95,
+  "coverage_amount": 51764.59,
+  "beneficiary": "Stephanie Kelley",
+  "sample_id": "insurance_document_0550"
+}

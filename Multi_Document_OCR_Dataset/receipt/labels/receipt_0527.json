@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KKV4LQ15",
+  "merchant_name": "Roberts PLC",
+  "date": "2026-11-08",
+  "subtotal": 408.25,
+  "tax": 22.59,
+  "discount": 2.43,
+  "total": 428.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$50.53",
+      "line_total": "$202.12"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$18.42",
+      "line_total": "$55.26"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$2.33",
+      "line_total": "$6.99"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$35.97",
+      "line_total": "$143.88"
+    }
+  ],
+  "sample_id": "receipt_0527"
+}

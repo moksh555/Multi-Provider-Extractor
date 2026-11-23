@@ -1,0 +1,23 @@
+Resume
+Kenneth Estes
+Software Engineer
+Skills: AWS, Machine Learning, SQL, TensorFlow, Streamlit, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Kenneth Estes",
+  "email": "angelagarcia@example.com",
+  "phone": "312.345.3474",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "SQL",
+    "TensorFlow",
+    "Streamlit",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0984"
+}

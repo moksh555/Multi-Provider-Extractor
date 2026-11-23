@@ -1,0 +1,25 @@
+Resume
+Thomas Garcia
+Machine Learning Engineer
+Skills: AWS, LangChain, Streamlit, PyTorch, Machine Learning, Python, Deep Learning, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Thomas Garcia",
+  "email": "gabriel47@example.net",
+  "phone": "001-571-655-3331x7931",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "AWS",
+    "LangChain",
+    "Streamlit",
+    "PyTorch",
+    "Machine Learning",
+    "Python",
+    "Deep Learning",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0649"
+}

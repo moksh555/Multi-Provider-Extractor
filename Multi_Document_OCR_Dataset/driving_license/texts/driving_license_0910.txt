@@ -1,0 +1,16 @@
+Synthetic Driving License
+Denise Nolan
+License: DL156358697
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL156358697",
+  "full_name": "Denise Nolan",
+  "date_of_birth": "2002-06-21",
+  "class": "B",
+  "issue_date": "2022-05-07",
+  "expiry_date": "2027-05-07",
+  "address": "3008 Burke Loaf, North Darrylfurt, NY 26985",
+  "sample_id": "driving_license_0910"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FP9XAQS3",
+  "merchant_name": "Martin, Graham and Mitchell",
+  "date": "2022-12-04",
+  "subtotal": 140.32,
+  "tax": 15.6,
+  "discount": 7.66,
+  "total": 148.26,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$5.34",
+      "line_total": "$21.36"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$50.84",
+      "line_total": "$50.84"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$68.12",
+      "line_total": "$68.12"
+    }
+  ],
+  "sample_id": "receipt_0561"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BXW2EOWLC",
+  "policy_holder": "Erin Oneal",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-05-26",
+  "expiry_date": "2025-05-26",
+  "premium": 1348.95,
+  "coverage_amount": 485135.65,
+  "beneficiary": "Shane Mcintyre",
+  "sample_id": "insurance_document_0516"
+}

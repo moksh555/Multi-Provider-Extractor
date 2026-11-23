@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0092
+Company: CityBanking Supplies
+Company Address: 159 Uttara Sector 7, Doha, Qatar
+Customer: Digital Learning Hub
+Billing Address: 200 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-29
+Due Date: 2026-06-13
+Currency: BDT
+Subtotal: 22860.66
+Tax: 2057.46
+Total: 22657.05
+Balance Due: 0.0
+Status: paid

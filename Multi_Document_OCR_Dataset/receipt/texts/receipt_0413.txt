@@ -1,0 +1,67 @@
+Receipt RCT-ZR04HHE7
+Merchant: Waller, Trevino and Clark
+Date: 2023-07-13
+Total: $868.67
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZR04HHE7",
+  "merchant_name": "Waller, Trevino and Clark",
+  "date": "2023-07-13",
+  "subtotal": 777.06,
+  "tax": 91.82,
+  "discount": 0.21,
+  "total": 868.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$57.66",
+      "line_total": "$57.66"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$20.73",
+      "line_total": "$20.73"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$58.67",
+      "line_total": "$117.34"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$57.13",
+      "line_total": "$171.39"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$61.03",
+      "line_total": "$183.09"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$34.34",
+      "line_total": "$103.02"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$60.09",
+      "line_total": "$60.09"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$63.74",
+      "line_total": "$63.74"
+    }
+  ],
+  "sample_id": "receipt_0413"
+}

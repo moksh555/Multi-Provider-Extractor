@@ -1,0 +1,16 @@
+Synthetic Driving License
+Trevor Fisher
+License: DL053749181
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL053749181",
+  "full_name": "Trevor Fisher",
+  "date_of_birth": "1963-12-25",
+  "class": "A",
+  "issue_date": "2024-11-21",
+  "expiry_date": "2029-11-21",
+  "address": "80531 Karen Gateway Apt. 092, East Thomas, DE 74421",
+  "sample_id": "driving_license_0032"
+}

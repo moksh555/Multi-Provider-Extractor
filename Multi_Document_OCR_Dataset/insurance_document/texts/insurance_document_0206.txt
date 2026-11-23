@@ -1,0 +1,16 @@
+Insurance Policy POL-0DL5E11E9
+Holder: Alejandra Price
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0DL5E11E9",
+  "policy_holder": "Alejandra Price",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-05-21",
+  "expiry_date": "2024-05-21",
+  "premium": 1382.61,
+  "coverage_amount": 14152.62,
+  "beneficiary": "Samuel Keller",
+  "sample_id": "insurance_document_0206"
+}

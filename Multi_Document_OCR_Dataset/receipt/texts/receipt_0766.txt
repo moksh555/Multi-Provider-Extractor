@@ -1,0 +1,55 @@
+Receipt RCT-WQRLVC35
+Merchant: Morrison-Lloyd
+Date: 2021-06-12
+Total: $567.08
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WQRLVC35",
+  "merchant_name": "Morrison-Lloyd",
+  "date": "2021-06-12",
+  "subtotal": 551.72,
+  "tax": 17.69,
+  "discount": 2.33,
+  "total": 567.08,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$41.62",
+      "line_total": "$166.48"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$26.31",
+      "line_total": "$26.31"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$30.20",
+      "line_total": "$90.60"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$32.99",
+      "line_total": "$65.98"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$44.49",
+      "line_total": "$133.47"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$17.22",
+      "line_total": "$68.88"
+    }
+  ],
+  "sample_id": "receipt_0766"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0672
+Company: Greenline Logistics
+Company Address: 72 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 128 Uttara Sector 7, Sylhet, Bangladesh
+Invoice Date: 2026-03-23
+Due Date: 2026-04-07
+Currency: USD
+Subtotal: 8423.63
+Tax: 842.36
+Total: 9270.99
+Balance Due: 9270.99
+Status: unpaid

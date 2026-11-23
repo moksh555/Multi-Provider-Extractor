@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Jared Haynes",
+  "email": "kelleyderek@example.net",
+  "phone": "(966)879-4190",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "SQL",
+    "Computer Vision",
+    "Streamlit",
+    "TensorFlow",
+    "Python",
+    "PyTorch",
+    "LangChain",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0117"
+}

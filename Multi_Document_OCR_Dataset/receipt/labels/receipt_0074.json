@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-E9RIVH6T",
+  "merchant_name": "Stevens, Norris and Cox",
+  "date": "2024-03-05",
+  "subtotal": 591.82,
+  "tax": 35.32,
+  "discount": 5.7,
+  "total": 621.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$25.37",
+      "line_total": "$76.11"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$37.81",
+      "line_total": "$151.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$73.23",
+      "line_total": "$219.69"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$33.70",
+      "line_total": "$101.10"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$2.28",
+      "line_total": "$4.56"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$13.04",
+      "line_total": "$39.12"
+    }
+  ],
+  "sample_id": "receipt_0074"
+}

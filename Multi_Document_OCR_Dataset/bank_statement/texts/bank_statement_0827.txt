@@ -1,0 +1,16 @@
+Bank Statement STM-AY94EH1E
+Holder: Ian Burns
+Closing Balance: $-223.33
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AY94EH1E",
+  "account_holder": "Ian Burns",
+  "account_number_masked": "****2148",
+  "period_start": "2024-04-27",
+  "period_end": "2024-05-27",
+  "opening_balance": 731.89,
+  "closing_balance": -223.33,
+  "transactions": 10,
+  "sample_id": "bank_statement_0827"
+}

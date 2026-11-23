@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0472
+Company: Summit Agro Foods
+Company Address: 44 Dhanmondi 27, Dubai, UAE
+Customer: Rahim Traders
+Billing Address: 147 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-02-22
+Due Date: 2026-03-01
+Currency: BDT
+Subtotal: 22056.5
+Tax: 1102.83
+Total: 23159.33
+Balance Due: 0.0
+Status: paid

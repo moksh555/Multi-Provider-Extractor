@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F9M969F5G",
+  "policy_holder": "Tami York",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-09-25",
+  "expiry_date": "2026-09-25",
+  "premium": 911.66,
+  "coverage_amount": 493453.78,
+  "beneficiary": "Michael Lopez",
+  "sample_id": "insurance_document_0264"
+}

@@ -1,0 +1,61 @@
+Receipt RCT-LP81L51F
+Merchant: Anderson, Johnston and Perez
+Date: 2024-06-18
+Total: $781.75
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LP81L51F",
+  "merchant_name": "Anderson, Johnston and Perez",
+  "date": "2024-06-18",
+  "subtotal": 754.89,
+  "tax": 33.67,
+  "discount": 6.81,
+  "total": 781.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$30.14",
+      "line_total": "$90.42"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$5.53",
+      "line_total": "$11.06"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$28.16",
+      "line_total": "$112.64"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$63.04",
+      "line_total": "$126.08"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$53.76",
+      "line_total": "$107.52"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$68.31",
+      "line_total": "$204.93"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$34.08",
+      "line_total": "$102.24"
+    }
+  ],
+  "sample_id": "receipt_0258"
+}

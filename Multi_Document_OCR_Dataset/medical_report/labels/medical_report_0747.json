@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ZC35C14S",
+  "patient_name": "Billy Richardson",
+  "visit_date": "2026-09-21",
+  "doctor_name": "Dr. Benjamin Houston",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0747"
+}

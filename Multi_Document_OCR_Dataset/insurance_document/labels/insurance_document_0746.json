@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CYNL63GAG",
+  "policy_holder": "Cindy Mathews",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-07-16",
+  "expiry_date": "2027-07-16",
+  "premium": 1563.84,
+  "coverage_amount": 25410.73,
+  "beneficiary": "Kurt Ramirez",
+  "sample_id": "insurance_document_0746"
+}

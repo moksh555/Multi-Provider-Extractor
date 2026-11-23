@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AK6N0XIK",
+  "account_holder": "Bruce Harris",
+  "account_number_masked": "****3277",
+  "period_start": "2024-11-04",
+  "period_end": "2024-12-04",
+  "opening_balance": 3467.73,
+  "closing_balance": 6290.59,
+  "transactions": 11,
+  "sample_id": "bank_statement_0747"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SJE6FQHD",
+  "patient_name": "Andrea Bailey",
+  "visit_date": "2024-05-18",
+  "doctor_name": "Dr. Michael Gardner",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0160"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GN51NSGZS",
+  "policy_holder": "Bobby Frederick",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-10-10",
+  "expiry_date": "2026-10-10",
+  "premium": 1247.54,
+  "coverage_amount": 294781.48,
+  "beneficiary": "Edward Garrison",
+  "sample_id": "insurance_document_0599"
+}

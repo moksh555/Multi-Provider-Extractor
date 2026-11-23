@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL945794958",
+  "full_name": "Emma Howard",
+  "date_of_birth": "1977-10-24",
+  "class": "B",
+  "issue_date": "2020-11-14",
+  "expiry_date": "2025-11-14",
+  "address": "4758 Jeremy Extension Apt. 567, Nguyenfurt, NH 61369",
+  "sample_id": "driving_license_0776"
+}

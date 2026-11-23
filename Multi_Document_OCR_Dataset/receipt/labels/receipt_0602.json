@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IZB1EDMB",
+  "merchant_name": "Espinoza-Buchanan",
+  "date": "2023-11-05",
+  "subtotal": 740.5,
+  "tax": 88.24,
+  "discount": 1.34,
+  "total": 827.4,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$54.89",
+      "line_total": "$54.89"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$57.50",
+      "line_total": "$172.50"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$37.10",
+      "line_total": "$148.40"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$72.34",
+      "line_total": "$289.36"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$11.43",
+      "line_total": "$22.86"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$52.49",
+      "line_total": "$52.49"
+    }
+  ],
+  "sample_id": "receipt_0602"
+}

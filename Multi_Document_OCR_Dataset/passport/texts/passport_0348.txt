@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jessica Guzman
+Passport No: P00139690
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P00139690",
+  "full_name": "Jessica Guzman",
+  "nationality": "GB",
+  "date_of_birth": "1982-09-17",
+  "issue_date": "2026-12-07",
+  "expiry_date": "2036-12-07",
+  "place_of_birth": "Stephanieside",
+  "sample_id": "passport_0348"
+}

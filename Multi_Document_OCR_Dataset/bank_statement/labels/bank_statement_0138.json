@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WXUWCOZF",
+  "account_holder": "Gerald Allen",
+  "account_number_masked": "****3698",
+  "period_start": "2026-07-25",
+  "period_end": "2026-08-24",
+  "opening_balance": 3903.29,
+  "closing_balance": 7067.14,
+  "transactions": 9,
+  "sample_id": "bank_statement_0138"
+}

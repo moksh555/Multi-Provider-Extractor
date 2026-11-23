@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL929203390",
+  "full_name": "David Thomas",
+  "date_of_birth": "1963-11-21",
+  "class": "B",
+  "issue_date": "2026-10-12",
+  "expiry_date": "2031-10-12",
+  "address": "USCGC Lopez, FPO AA 05952",
+  "sample_id": "driving_license_0748"
+}

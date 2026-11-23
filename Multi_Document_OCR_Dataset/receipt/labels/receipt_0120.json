@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VBD4BEPE",
+  "merchant_name": "Miller-Brandt",
+  "date": "2023-11-02",
+  "subtotal": 721.76,
+  "tax": 34.63,
+  "discount": 3.94,
+  "total": 752.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$55.92",
+      "line_total": "$111.84"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$34.25",
+      "line_total": "$102.75"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$50.20",
+      "line_total": "$150.60"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$66.62",
+      "line_total": "$266.48"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$23.33",
+      "line_total": "$23.33"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$16.69",
+      "line_total": "$66.76"
+    }
+  ],
+  "sample_id": "receipt_0120"
+}

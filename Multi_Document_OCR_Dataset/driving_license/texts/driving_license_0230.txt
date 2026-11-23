@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sarah Trevino
+License: DL345296450
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL345296450",
+  "full_name": "Sarah Trevino",
+  "date_of_birth": "1974-12-21",
+  "class": "B",
+  "issue_date": "2024-02-15",
+  "expiry_date": "2029-02-15",
+  "address": "1108 Lisa Prairie, Hammondborough, PW 05305",
+  "sample_id": "driving_license_0230"
+}

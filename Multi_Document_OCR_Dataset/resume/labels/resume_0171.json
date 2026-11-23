@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Olson",
+  "email": "petersdonald@example.net",
+  "phone": "893-412-1463x947",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "Machine Learning",
+    "Computer Vision",
+    "AWS",
+    "NLP",
+    "Streamlit",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0171"
+}

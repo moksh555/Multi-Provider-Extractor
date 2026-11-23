@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL326834741",
+  "full_name": "Michael Bender DVM",
+  "date_of_birth": "2002-12-22",
+  "class": "D",
+  "issue_date": "2021-01-18",
+  "expiry_date": "2026-01-18",
+  "address": "8453 Thomas Plains Suite 090, Brianaland, RI 08840",
+  "sample_id": "driving_license_0741"
+}

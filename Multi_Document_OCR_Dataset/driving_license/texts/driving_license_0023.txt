@@ -1,0 +1,16 @@
+Synthetic Driving License
+Richard Graham
+License: DL650551302
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL650551302",
+  "full_name": "Richard Graham",
+  "date_of_birth": "1985-07-26",
+  "class": "D",
+  "issue_date": "2021-10-08",
+  "expiry_date": "2026-10-08",
+  "address": "Unit 1693 Box 4060, DPO AP 71076",
+  "sample_id": "driving_license_0023"
+}

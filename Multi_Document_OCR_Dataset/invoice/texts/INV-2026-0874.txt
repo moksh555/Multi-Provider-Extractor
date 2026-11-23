@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0874
+Company: Nova Medical Supplies
+Company Address: 92 Zindabazar Road, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 238 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-04-30
+Due Date: 2026-05-07
+Currency: BDT
+Subtotal: 8729.03
+Tax: 829.26
+Total: 9121.84
+Balance Due: 9121.84
+Status: overdue

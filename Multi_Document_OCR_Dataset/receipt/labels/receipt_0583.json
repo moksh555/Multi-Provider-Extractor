@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-N4U6AVE7",
+  "merchant_name": "Mcintosh Inc",
+  "date": "2022-06-28",
+  "subtotal": 612.68,
+  "tax": 43.58,
+  "discount": 10.59,
+  "total": 645.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$68.09",
+      "line_total": "$272.36"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$2.16",
+      "line_total": "$8.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$61.12",
+      "line_total": "$61.12"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$75.32",
+      "line_total": "$150.64"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$27.51",
+      "line_total": "$82.53"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$37.39",
+      "line_total": "$37.39"
+    }
+  ],
+  "sample_id": "receipt_0583"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sally Cross
+License: DL093145778
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL093145778",
+  "full_name": "Sally Cross",
+  "date_of_birth": "2003-03-30",
+  "class": "D",
+  "issue_date": "2020-03-22",
+  "expiry_date": "2025-03-22",
+  "address": "157 Jeffrey Rest Apt. 355, Waltertown, RI 79035",
+  "sample_id": "driving_license_0670"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0986
+Company: Nova Medical Supplies
+Company Address: 99 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Smart Retail LLC
+Billing Address: 167 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-05
+Due Date: 2026-02-04
+Currency: AED
+Subtotal: 11272.27
+Tax: 1606.3
+Total: 12314.96
+Balance Due: 12314.96
+Status: unpaid

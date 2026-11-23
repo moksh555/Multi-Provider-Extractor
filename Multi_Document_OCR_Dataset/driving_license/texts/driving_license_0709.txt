@@ -1,0 +1,16 @@
+Synthetic Driving License
+Ronald Smith
+License: DL115063328
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL115063328",
+  "full_name": "Ronald Smith",
+  "date_of_birth": "1980-04-02",
+  "class": "A",
+  "issue_date": "2023-01-25",
+  "expiry_date": "2028-01-25",
+  "address": "43958 Valdez Flats Suite 923, East Kyle, CT 03938",
+  "sample_id": "driving_license_0709"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Mr. Kevin Shaw
+Passport No: P24024691
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P24024691",
+  "full_name": "Mr. Kevin Shaw",
+  "nationality": "BD",
+  "date_of_birth": "1998-05-11",
+  "issue_date": "2020-10-31",
+  "expiry_date": "2030-10-31",
+  "place_of_birth": "Martinezhaven",
+  "sample_id": "passport_0439"
+}

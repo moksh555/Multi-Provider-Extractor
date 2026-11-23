@@ -1,0 +1,16 @@
+Insurance Policy POL-9G5DZX5QJ
+Holder: Kaylee Case
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9G5DZX5QJ",
+  "policy_holder": "Kaylee Case",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-11-20",
+  "expiry_date": "2027-11-20",
+  "premium": 281.35,
+  "coverage_amount": 135762.39,
+  "beneficiary": "Jeffrey Anthony DDS",
+  "sample_id": "insurance_document_0238"
+}

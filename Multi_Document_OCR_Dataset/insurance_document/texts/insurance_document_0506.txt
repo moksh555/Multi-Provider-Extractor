@@ -1,0 +1,16 @@
+Insurance Policy POL-W4JKFYIIF
+Holder: Mark Hill
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-W4JKFYIIF",
+  "policy_holder": "Mark Hill",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-05-17",
+  "expiry_date": "2025-05-17",
+  "premium": 2016.97,
+  "coverage_amount": 162164.88,
+  "beneficiary": "Thomas Rodriguez",
+  "sample_id": "insurance_document_0506"
+}

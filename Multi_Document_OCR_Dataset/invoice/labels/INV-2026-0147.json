@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0147",
+  "invoice_number": "INV-2026-0147",
+  "company_name": "Metro Print House",
+  "company_address": "109 Dhanmondi 27, Chattogram, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "118 Doha Business Park, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-11",
+  "due_date": "2026-07-11",
+  "currency": "AED",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 244.27,
+      "amount": 244.27
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 8,
+      "unit_price": 394.12,
+      "amount": 3152.96
+    }
+  ],
+  "subtotal": 3397.23,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 254.79,
+  "shipping": 0,
+  "total": 3652.02,
+  "amount_paid": 0,
+  "balance_due": 3652.02,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801221799552",
+  "po_number": "PO-45824"
+}

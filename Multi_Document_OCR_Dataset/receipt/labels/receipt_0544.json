@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-V5XWWC05",
+  "merchant_name": "Hernandez-White",
+  "date": "2026-10-30",
+  "subtotal": 423.65,
+  "tax": 19.6,
+  "discount": 5.25,
+  "total": 438.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$39.67",
+      "line_total": "$119.01"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$28.26",
+      "line_total": "$113.04"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$32.92",
+      "line_total": "$131.68"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$14.98",
+      "line_total": "$59.92"
+    }
+  ],
+  "sample_id": "receipt_0544"
+}

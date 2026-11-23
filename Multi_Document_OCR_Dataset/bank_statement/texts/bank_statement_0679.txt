@@ -1,0 +1,16 @@
+Bank Statement STM-YP2CHAQP
+Holder: Stephanie Casey
+Closing Balance: $4784.56
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YP2CHAQP",
+  "account_holder": "Stephanie Casey",
+  "account_number_masked": "****9963",
+  "period_start": "2025-08-16",
+  "period_end": "2025-09-15",
+  "opening_balance": 3281.57,
+  "closing_balance": 4784.56,
+  "transactions": 11,
+  "sample_id": "bank_statement_0679"
+}

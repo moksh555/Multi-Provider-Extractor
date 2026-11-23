@@ -1,0 +1,16 @@
+Synthetic Driving License
+Adam Ballard
+License: DL747664702
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL747664702",
+  "full_name": "Adam Ballard",
+  "date_of_birth": "1981-10-29",
+  "class": "C",
+  "issue_date": "2023-06-08",
+  "expiry_date": "2028-06-08",
+  "address": "PSC 8217, Box 5946, APO AP 33281",
+  "sample_id": "driving_license_0053"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-43D8W3ZP0
+Holder: Maria Brown
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-43D8W3ZP0",
+  "policy_holder": "Maria Brown",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-06-15",
+  "expiry_date": "2027-06-15",
+  "premium": 2043.51,
+  "coverage_amount": 273704.72,
+  "beneficiary": "Walter Rush",
+  "sample_id": "insurance_document_0046"
+}

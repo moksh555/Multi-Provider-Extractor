@@ -1,0 +1,14 @@
+Medical Report MED-U1M8O5Q7
+Patient: Janet George
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-U1M8O5Q7",
+  "patient_name": "Janet George",
+  "visit_date": "2026-11-12",
+  "doctor_name": "Dr. Andrew Baker",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0321"
+}

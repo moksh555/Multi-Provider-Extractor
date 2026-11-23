@@ -1,0 +1,16 @@
+Bank Statement STM-NCCRBF4A
+Holder: Gavin Freeman
+Closing Balance: $4380.90
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-NCCRBF4A",
+  "account_holder": "Gavin Freeman",
+  "account_number_masked": "****7446",
+  "period_start": "2024-10-26",
+  "period_end": "2024-11-25",
+  "opening_balance": 3813.36,
+  "closing_balance": 4380.9,
+  "transactions": 11,
+  "sample_id": "bank_statement_0369"
+}

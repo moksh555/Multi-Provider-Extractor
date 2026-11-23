@@ -1,0 +1,27 @@
+Resume
+Kevin Mason
+Backend Developer
+Skills: NLP, SQL, Pandas, Deep Learning, LangChain, Docker, FastAPI, Computer Vision, AWS, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Kevin Mason",
+  "email": "catherinewoods@example.org",
+  "phone": "001-288-994-1321",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "SQL",
+    "Pandas",
+    "Deep Learning",
+    "LangChain",
+    "Docker",
+    "FastAPI",
+    "Computer Vision",
+    "AWS",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0040"
+}

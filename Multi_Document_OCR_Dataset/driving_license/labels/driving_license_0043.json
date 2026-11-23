@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL577842436",
+  "full_name": "Christopher Parker",
+  "date_of_birth": "1996-04-09",
+  "class": "D",
+  "issue_date": "2021-11-07",
+  "expiry_date": "2026-11-07",
+  "address": "1746 Mason Park Suite 190, Navarroview, AK 12471",
+  "sample_id": "driving_license_0043"
+}

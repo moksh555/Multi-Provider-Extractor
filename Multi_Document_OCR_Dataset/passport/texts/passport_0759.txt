@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Lisa Gomez
+Passport No: P36854051
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P36854051",
+  "full_name": "Lisa Gomez",
+  "nationality": "BD",
+  "date_of_birth": "1984-01-20",
+  "issue_date": "2021-05-24",
+  "expiry_date": "2031-05-24",
+  "place_of_birth": "Kelleymouth",
+  "sample_id": "passport_0759"
+}

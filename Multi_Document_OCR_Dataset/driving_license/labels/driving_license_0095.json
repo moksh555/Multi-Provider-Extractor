@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL007855531",
+  "full_name": "Johnny Ward",
+  "date_of_birth": "1991-09-21",
+  "class": "A",
+  "issue_date": "2024-09-28",
+  "expiry_date": "2029-09-28",
+  "address": "291 Kyle Stravenue Suite 866, East Teresaland, NV 61558",
+  "sample_id": "driving_license_0095"
+}

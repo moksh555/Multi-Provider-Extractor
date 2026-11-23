@@ -1,0 +1,16 @@
+Insurance Policy POL-SMDYVSLH9
+Holder: Renee Browning
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-SMDYVSLH9",
+  "policy_holder": "Renee Browning",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-01-16",
+  "expiry_date": "2024-01-16",
+  "premium": 606.53,
+  "coverage_amount": 473208.8,
+  "beneficiary": "Brent Hernandez",
+  "sample_id": "insurance_document_0093"
+}

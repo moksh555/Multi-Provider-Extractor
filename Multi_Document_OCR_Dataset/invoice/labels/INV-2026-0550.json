@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0550",
+  "invoice_number": "INV-2026-0550",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "104 Motijheel C/A, Doha, Qatar",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "34 Road 12, Banani, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-02",
+  "due_date": "2026-06-01",
+  "currency": "BDT",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 796.49,
+      "amount": 1592.98
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 10,
+      "unit_price": 288.56,
+      "amount": 2885.6
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 3,
+      "unit_price": 645.98,
+      "amount": 1937.94
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 268.7,
+      "amount": 268.7
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 8,
+      "unit_price": 224.92,
+      "amount": 1799.36
+    }
+  ],
+  "subtotal": 8484.58,
+  "discount": 848.46,
+  "tax_rate": 0.1,
+  "tax": 763.61,
+  "shipping": 50,
+  "total": 8449.73,
+  "amount_paid": 8449.73,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801396468004",
+  "po_number": "PO-11490"
+}

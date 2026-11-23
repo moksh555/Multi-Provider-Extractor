@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Eileen Jones",
+  "email": "smithroberta@example.net",
+  "phone": "(891)605-3021x51675",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "NLP",
+    "Pandas",
+    "SQL",
+    "Python",
+    "LangChain",
+    "Docker",
+    "AWS",
+    "FastAPI",
+    "Streamlit",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0095"
+}

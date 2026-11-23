@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL340367571",
+  "full_name": "Nancy Gregory",
+  "date_of_birth": "1990-01-17",
+  "class": "A",
+  "issue_date": "2022-09-04",
+  "expiry_date": "2027-09-04",
+  "address": "9156 Hatfield Walks Apt. 649, Lake Douglas, NC 75460",
+  "sample_id": "driving_license_0491"
+}

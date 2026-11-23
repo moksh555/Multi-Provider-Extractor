@@ -1,0 +1,16 @@
+Insurance Policy POL-R2FVB66H3
+Holder: Brittany Shah
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-R2FVB66H3",
+  "policy_holder": "Brittany Shah",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-01-05",
+  "expiry_date": "2024-01-05",
+  "premium": 411.14,
+  "coverage_amount": 180837.98,
+  "beneficiary": "Alan Kennedy",
+  "sample_id": "insurance_document_0563"
+}

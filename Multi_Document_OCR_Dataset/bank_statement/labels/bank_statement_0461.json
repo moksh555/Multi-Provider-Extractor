@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DPI2EYEN",
+  "account_holder": "Jason Pearson",
+  "account_number_masked": "****8960",
+  "period_start": "2025-02-05",
+  "period_end": "2025-03-07",
+  "opening_balance": 1649.42,
+  "closing_balance": 5530.87,
+  "transactions": 13,
+  "sample_id": "bank_statement_0461"
+}

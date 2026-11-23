@@ -1,0 +1,16 @@
+Insurance Policy POL-09M0G8W85
+Holder: Monica Simpson
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-09M0G8W85",
+  "policy_holder": "Monica Simpson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-07-09",
+  "expiry_date": "2026-07-09",
+  "premium": 2469.85,
+  "coverage_amount": 439285.49,
+  "beneficiary": "Heather Jackson",
+  "sample_id": "insurance_document_0773"
+}

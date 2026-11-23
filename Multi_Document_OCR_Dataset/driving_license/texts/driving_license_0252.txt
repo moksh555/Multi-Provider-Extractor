@@ -1,0 +1,16 @@
+Synthetic Driving License
+Julia Norris
+License: DL758636837
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL758636837",
+  "full_name": "Julia Norris",
+  "date_of_birth": "1986-06-03",
+  "class": "B",
+  "issue_date": "2021-06-05",
+  "expiry_date": "2026-06-05",
+  "address": "9155 Lopez Greens, West Thomas, RI 45471",
+  "sample_id": "driving_license_0252"
+}

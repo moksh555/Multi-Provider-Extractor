@@ -1,0 +1,16 @@
+Bank Statement STM-DNHBOBVG
+Holder: Lauren Walker
+Closing Balance: $6522.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DNHBOBVG",
+  "account_holder": "Lauren Walker",
+  "account_number_masked": "****3755",
+  "period_start": "2025-05-01",
+  "period_end": "2025-05-31",
+  "opening_balance": 3684.27,
+  "closing_balance": 6522.86,
+  "transactions": 12,
+  "sample_id": "bank_statement_0398"
+}

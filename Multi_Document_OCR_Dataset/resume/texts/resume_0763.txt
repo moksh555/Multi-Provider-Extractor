@@ -1,0 +1,27 @@
+Resume
+Antonio Page
+Software Engineer
+Skills: Pandas, PyTorch, LangChain, Machine Learning, Deep Learning, Streamlit, TensorFlow, NLP, Computer Vision, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Antonio Page",
+  "email": "rhondaallen@example.com",
+  "phone": "912-398-2945x41833",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Pandas",
+    "PyTorch",
+    "LangChain",
+    "Machine Learning",
+    "Deep Learning",
+    "Streamlit",
+    "TensorFlow",
+    "NLP",
+    "Computer Vision",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0763"
+}

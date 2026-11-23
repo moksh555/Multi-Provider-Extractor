@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0831",
+  "invoice_number": "INV-2026-0831",
+  "company_name": "CityBanking Supplies",
+  "company_address": "12 Agrabad C/A, Doha, Qatar",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "167 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-04-23",
+  "due_date": "2026-05-23",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 12,
+      "unit_price": 414.28,
+      "amount": 4971.36
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 2,
+      "unit_price": 394.21,
+      "amount": 788.42
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 2,
+      "unit_price": 778.12,
+      "amount": 1556.24
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 4,
+      "unit_price": 262.12,
+      "amount": 1048.48
+    },
+    {
+      "description": "Web Development",
+      "quantity": 4,
+      "unit_price": 302.48,
+      "amount": 1209.92
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 72.41,
+      "amount": 868.92
+    },
+    {
+      "description": "Web Development",
+      "quantity": 8,
+      "unit_price": 304.15,
+      "amount": 2433.2
+    }
+  ],
+  "subtotal": 12876.54,
+  "discount": 643.83,
+  "tax_rate": 0.075,
+  "tax": 917.45,
+  "shipping": 25,
+  "total": 13175.16,
+  "amount_paid": 4220.81,
+  "balance_due": 8954.35,
+  "vendor_email": "citybankingsupplies@example.com",
+  "vendor_phone": "+8801165715843",
+  "po_number": "PO-48211"
+}

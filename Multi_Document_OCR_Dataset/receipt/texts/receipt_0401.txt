@@ -1,0 +1,61 @@
+Receipt RCT-5B2CRPRD
+Merchant: Porter LLC
+Date: 2023-05-31
+Total: $663.59
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5B2CRPRD",
+  "merchant_name": "Porter LLC",
+  "date": "2023-05-31",
+  "subtotal": 620.38,
+  "tax": 48.33,
+  "discount": 5.12,
+  "total": 663.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$45.98",
+      "line_total": "$137.94"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$57.88",
+      "line_total": "$57.88"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$47.53",
+      "line_total": "$95.06"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$20.89",
+      "line_total": "$20.89"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$39.92",
+      "line_total": "$119.76"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$41.08",
+      "line_total": "$123.24"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$21.87",
+      "line_total": "$65.61"
+    }
+  ],
+  "sample_id": "receipt_0401"
+}

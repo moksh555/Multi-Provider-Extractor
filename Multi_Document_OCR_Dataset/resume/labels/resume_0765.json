@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Melissa Maldonado",
+  "email": "dwells@example.com",
+  "phone": "846-601-7419",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Machine Learning",
+    "Computer Vision",
+    "Python",
+    "NLP",
+    "Pandas",
+    "PyTorch",
+    "TensorFlow",
+    "Deep Learning",
+    "Docker",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0765"
+}

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AUR4LMY2",
+  "merchant_name": "Santos, Santana and Peterson",
+  "date": "2021-08-17",
+  "subtotal": 888.74,
+  "tax": 67.35,
+  "discount": 1.09,
+  "total": 955.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$62.62",
+      "line_total": "$125.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$14.57",
+      "line_total": "$14.57"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$55.36",
+      "line_total": "$55.36"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$76.41",
+      "line_total": "$229.23"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$14.30",
+      "line_total": "$57.20"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$71.02",
+      "line_total": "$142.04"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$58.26",
+      "line_total": "$233.04"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$16.03",
+      "line_total": "$32.06"
+    }
+  ],
+  "sample_id": "receipt_0962"
+}

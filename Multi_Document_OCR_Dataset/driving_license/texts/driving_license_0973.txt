@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jacqueline Randolph
+License: DL818718640
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL818718640",
+  "full_name": "Jacqueline Randolph",
+  "date_of_birth": "1996-07-12",
+  "class": "C",
+  "issue_date": "2026-09-29",
+  "expiry_date": "2031-09-29",
+  "address": "48067 Kennedy Course, Port Jacob, OK 11658",
+  "sample_id": "driving_license_0973"
+}

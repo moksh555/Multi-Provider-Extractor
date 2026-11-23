@@ -1,0 +1,16 @@
+Bank Statement STM-Z909O08N
+Holder: Heather Watkins
+Closing Balance: $5367.07
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z909O08N",
+  "account_holder": "Heather Watkins",
+  "account_number_masked": "****2721",
+  "period_start": "2024-09-15",
+  "period_end": "2024-10-15",
+  "opening_balance": 3219.52,
+  "closing_balance": 5367.07,
+  "transactions": 14,
+  "sample_id": "bank_statement_0322"
+}

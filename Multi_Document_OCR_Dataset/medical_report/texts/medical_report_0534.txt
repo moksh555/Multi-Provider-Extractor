@@ -1,0 +1,14 @@
+Medical Report MED-KSKGBMJE
+Patient: Devin Burch
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KSKGBMJE",
+  "patient_name": "Devin Burch",
+  "visit_date": "2025-02-07",
+  "doctor_name": "Dr. Ellen Long",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0534"
+}

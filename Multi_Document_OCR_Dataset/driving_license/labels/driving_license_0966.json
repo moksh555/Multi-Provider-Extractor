@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL965553968",
+  "full_name": "David Taylor",
+  "date_of_birth": "2003-03-31",
+  "class": "D",
+  "issue_date": "2021-12-19",
+  "expiry_date": "2026-12-19",
+  "address": "04666 Lance Isle, Port Carlosville, AR 59081",
+  "sample_id": "driving_license_0966"
+}

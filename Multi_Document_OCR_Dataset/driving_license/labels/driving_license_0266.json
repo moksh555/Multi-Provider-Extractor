@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL115591177",
+  "full_name": "Corey Skinner",
+  "date_of_birth": "1990-11-06",
+  "class": "C",
+  "issue_date": "2024-08-10",
+  "expiry_date": "2029-08-10",
+  "address": "36730 Steven Trail, New Elizabethborough, NJ 51504",
+  "sample_id": "driving_license_0266"
+}

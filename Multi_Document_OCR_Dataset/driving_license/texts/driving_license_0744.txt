@@ -1,0 +1,16 @@
+Synthetic Driving License
+Anna Smith
+License: DL087602016
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL087602016",
+  "full_name": "Anna Smith",
+  "date_of_birth": "1961-03-18",
+  "class": "A",
+  "issue_date": "2020-02-08",
+  "expiry_date": "2025-02-08",
+  "address": "Unit 0056 Box 4099, DPO AA 09595",
+  "sample_id": "driving_license_0744"
+}

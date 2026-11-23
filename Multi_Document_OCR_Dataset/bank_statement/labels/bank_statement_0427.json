@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UKA4E7YC",
+  "account_holder": "Martin Coleman",
+  "account_number_masked": "****5514",
+  "period_start": "2026-11-13",
+  "period_end": "2026-12-13",
+  "opening_balance": 2417.02,
+  "closing_balance": 3562.55,
+  "transactions": 10,
+  "sample_id": "bank_statement_0427"
+}

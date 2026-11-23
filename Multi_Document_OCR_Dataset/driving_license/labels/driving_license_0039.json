@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL869598675",
+  "full_name": "Dr. Elizabeth Ward",
+  "date_of_birth": "2000-01-02",
+  "class": "D",
+  "issue_date": "2021-10-13",
+  "expiry_date": "2026-10-13",
+  "address": "0084 Dana Terrace, Garciatown, OK 37769",
+  "sample_id": "driving_license_0039"
+}

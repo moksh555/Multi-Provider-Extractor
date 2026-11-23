@@ -1,0 +1,16 @@
+Insurance Policy POL-ZV46ESMRW
+Holder: Danielle Molina
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZV46ESMRW",
+  "policy_holder": "Danielle Molina",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-05-12",
+  "expiry_date": "2025-05-12",
+  "premium": 447.66,
+  "coverage_amount": 31594.69,
+  "beneficiary": "Heidi Perez",
+  "sample_id": "insurance_document_0589"
+}

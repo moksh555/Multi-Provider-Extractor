@@ -1,0 +1,16 @@
+Bank Statement STM-YWCOQ5LD
+Holder: Patricia Wilson
+Closing Balance: $1149.73
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YWCOQ5LD",
+  "account_holder": "Patricia Wilson",
+  "account_number_masked": "****3252",
+  "period_start": "2025-09-29",
+  "period_end": "2025-10-29",
+  "opening_balance": 2021.32,
+  "closing_balance": 1149.73,
+  "transactions": 10,
+  "sample_id": "bank_statement_0297"
+}

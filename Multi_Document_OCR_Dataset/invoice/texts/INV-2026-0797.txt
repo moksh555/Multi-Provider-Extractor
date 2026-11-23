@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0797
+Company: Nexus Digital Solutions
+Company Address: 153 Doha Business Park, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 241 Agrabad C/A, Dubai, UAE
+Invoice Date: 2026-03-06
+Due Date: 2026-03-13
+Currency: USD
+Subtotal: 19166.38
+Tax: 1293.73
+Total: 18543.47
+Balance Due: 18543.47
+Status: overdue

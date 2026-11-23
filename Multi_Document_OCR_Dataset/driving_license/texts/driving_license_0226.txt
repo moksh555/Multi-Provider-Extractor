@@ -1,0 +1,16 @@
+Synthetic Driving License
+Rodney Johnson
+License: DL502993277
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL502993277",
+  "full_name": "Rodney Johnson",
+  "date_of_birth": "1997-12-31",
+  "class": "A",
+  "issue_date": "2024-07-05",
+  "expiry_date": "2029-07-05",
+  "address": "68424 Bernard Branch, North Bobby, OK 78705",
+  "sample_id": "driving_license_0226"
+}

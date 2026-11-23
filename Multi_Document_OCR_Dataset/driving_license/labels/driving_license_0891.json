@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL602284536",
+  "full_name": "Michelle Wood",
+  "date_of_birth": "1996-11-22",
+  "class": "D",
+  "issue_date": "2024-05-22",
+  "expiry_date": "2029-05-22",
+  "address": "3017 Parker Turnpike, Michellehaven, OK 70015",
+  "sample_id": "driving_license_0891"
+}

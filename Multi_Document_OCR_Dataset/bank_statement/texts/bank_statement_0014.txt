@@ -1,0 +1,16 @@
+Bank Statement STM-13IWPFVB
+Holder: Alice Conley
+Closing Balance: $3881.81
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-13IWPFVB",
+  "account_holder": "Alice Conley",
+  "account_number_masked": "****1281",
+  "period_start": "2026-10-28",
+  "period_end": "2026-11-27",
+  "opening_balance": 3950.56,
+  "closing_balance": 3881.81,
+  "transactions": 9,
+  "sample_id": "bank_statement_0014"
+}

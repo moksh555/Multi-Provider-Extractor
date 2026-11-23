@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-36BZNZHU",
+  "patient_name": "Patricia Mejia",
+  "visit_date": "2026-01-08",
+  "doctor_name": "Dr. Denise Austin",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0010"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-JD1KSIBSM",
+  "policy_holder": "Peggy Tran",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-08-15",
+  "expiry_date": "2026-08-15",
+  "premium": 1149.36,
+  "coverage_amount": 190080.85,
+  "beneficiary": "Christopher Ferguson",
+  "sample_id": "insurance_document_0601"
+}

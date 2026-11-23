@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0899
+Company: Summit Agro Foods
+Company Address: 101 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 105 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-09
+Due Date: 2026-05-24
+Currency: USD
+Subtotal: 5172.17
+Tax: 253.44
+Total: 5322.17
+Balance Due: 5322.17
+Status: overdue

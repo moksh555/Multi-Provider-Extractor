@@ -1,0 +1,14 @@
+Medical Report MED-TPKQT8LN
+Patient: James Mendez
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-TPKQT8LN",
+  "patient_name": "James Mendez",
+  "visit_date": "2024-07-06",
+  "doctor_name": "Dr. Brian Salazar",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0580"
+}

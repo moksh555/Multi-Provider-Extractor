@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-HGY8NNKL3",
+  "policy_holder": "Alexis Holt",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-12-03",
+  "expiry_date": "2027-12-03",
+  "premium": 1307.93,
+  "coverage_amount": 499533.6,
+  "beneficiary": "Jeffrey Wilson",
+  "sample_id": "insurance_document_0734"
+}

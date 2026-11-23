@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL217196091",
+  "full_name": "Heather Yoder",
+  "date_of_birth": "1965-03-31",
+  "class": "D",
+  "issue_date": "2023-05-05",
+  "expiry_date": "2028-05-05",
+  "address": "6619 David Path, Craigfort, IN 07248",
+  "sample_id": "driving_license_0606"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL417854065",
+  "full_name": "Allen Shannon",
+  "date_of_birth": "1969-03-22",
+  "class": "C",
+  "issue_date": "2024-05-18",
+  "expiry_date": "2029-05-18",
+  "address": "16107 Leon Walks, Tonyaborough, SD 80979",
+  "sample_id": "driving_license_0658"
+}

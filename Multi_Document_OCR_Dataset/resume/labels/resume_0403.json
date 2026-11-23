@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Anna Shaw",
+  "email": "carterchristopher@example.org",
+  "phone": "(857)885-2197x933",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 6,
+  "skills": [
+    "AWS",
+    "LangChain",
+    "Deep Learning",
+    "Streamlit",
+    "Computer Vision",
+    "PyTorch",
+    "Pandas",
+    "Machine Learning",
+    "FastAPI",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0403"
+}

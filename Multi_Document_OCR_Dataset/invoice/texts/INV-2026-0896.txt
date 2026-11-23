@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0896
+Company: BlueRiver Trading Co.
+Company Address: 96 Road 12, Banani, Dubai, UAE
+Customer: Future School
+Billing Address: 20 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-01-22
+Due Date: 2026-02-21
+Currency: QAR
+Subtotal: 4086.36
+Tax: 0.0
+Total: 4086.36
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0878
+Company: SkyNet Office Mart
+Company Address: 26 Dhanmondi 27, Sylhet, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 192 Motijheel C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-02-21
+Due Date: 2026-03-23
+Currency: USD
+Subtotal: 5396.66
+Tax: 384.51
+Total: 5521.34
+Balance Due: 5521.34
+Status: overdue

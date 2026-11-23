@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6GJJM0GZ",
+  "account_holder": "Carol Medina",
+  "account_number_masked": "****1352",
+  "period_start": "2026-06-06",
+  "period_end": "2026-07-06",
+  "opening_balance": 704.18,
+  "closing_balance": 4501.06,
+  "transactions": 9,
+  "sample_id": "bank_statement_0769"
+}

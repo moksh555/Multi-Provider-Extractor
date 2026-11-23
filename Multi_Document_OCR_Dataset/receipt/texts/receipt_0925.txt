@@ -1,0 +1,55 @@
+Receipt RCT-TXP25M9F
+Merchant: Hopkins and Sons
+Date: 2022-07-06
+Total: $431.16
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-TXP25M9F",
+  "merchant_name": "Hopkins and Sons",
+  "date": "2022-07-06",
+  "subtotal": 399.33,
+  "tax": 32.52,
+  "discount": 0.69,
+  "total": 431.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$22.16",
+      "line_total": "$22.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$50.06",
+      "line_total": "$50.06"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$8.56",
+      "line_total": "$8.56"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$45.67",
+      "line_total": "$45.67"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$53.88",
+      "line_total": "$215.52"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$28.68",
+      "line_total": "$57.36"
+    }
+  ],
+  "sample_id": "receipt_0925"
+}

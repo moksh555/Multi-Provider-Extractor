@@ -1,0 +1,16 @@
+Insurance Policy POL-GVS8Q349D
+Holder: Karen Morales DDS
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GVS8Q349D",
+  "policy_holder": "Karen Morales DDS",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-03-22",
+  "expiry_date": "2024-03-22",
+  "premium": 709.63,
+  "coverage_amount": 224501.55,
+  "beneficiary": "Melissa Stephens",
+  "sample_id": "insurance_document_0101"
+}

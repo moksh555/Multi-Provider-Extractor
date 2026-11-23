@@ -1,0 +1,16 @@
+Bank Statement STM-ASW22FIW
+Holder: Kara Lane
+Closing Balance: $5137.16
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ASW22FIW",
+  "account_holder": "Kara Lane",
+  "account_number_masked": "****4900",
+  "period_start": "2025-08-31",
+  "period_end": "2025-09-30",
+  "opening_balance": 4510.4,
+  "closing_balance": 5137.16,
+  "transactions": 11,
+  "sample_id": "bank_statement_0581"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0789
+Company: UrbanBuild Construction
+Company Address: 115 Road 12, Banani, Sylhet, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 157 Sheikh Zayed Road, Chattogram, Bangladesh
+Invoice Date: 2026-03-15
+Due Date: 2026-03-30
+Currency: BDT
+Subtotal: 5401.4
+Tax: 270.07
+Total: 5721.47
+Balance Due: 5721.47
+Status: unpaid

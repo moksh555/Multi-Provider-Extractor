@@ -1,0 +1,67 @@
+Receipt RCT-YFC2HTMQ
+Merchant: Mooney, Bernard and Warren
+Date: 2023-07-08
+Total: $1056.24
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YFC2HTMQ",
+  "merchant_name": "Mooney, Bernard and Warren",
+  "date": "2023-07-08",
+  "subtotal": 945.33,
+  "tax": 112.03,
+  "discount": 1.12,
+  "total": 1056.24,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$41.36",
+      "line_total": "$82.72"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$74.19",
+      "line_total": "$74.19"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$76.58",
+      "line_total": "$306.32"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$2.02",
+      "line_total": "$2.02"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$50.02",
+      "line_total": "$100.04"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$73.01",
+      "line_total": "$146.02"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$62.32",
+      "line_total": "$124.64"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$36.46",
+      "line_total": "$109.38"
+    }
+  ],
+  "sample_id": "receipt_0129"
+}

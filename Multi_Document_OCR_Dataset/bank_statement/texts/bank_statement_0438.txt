@@ -1,0 +1,16 @@
+Bank Statement STM-CSQOU966
+Holder: Zachary Allen
+Closing Balance: $6637.89
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CSQOU966",
+  "account_holder": "Zachary Allen",
+  "account_number_masked": "****2453",
+  "period_start": "2024-10-12",
+  "period_end": "2024-11-11",
+  "opening_balance": 3905.83,
+  "closing_balance": 6637.89,
+  "transactions": 14,
+  "sample_id": "bank_statement_0438"
+}

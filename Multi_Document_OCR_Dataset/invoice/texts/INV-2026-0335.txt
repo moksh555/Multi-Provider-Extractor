@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0335
+Company: Royal Diagnostics Center
+Company Address: 135 Dhanmondi 27, Doha, Qatar
+Customer: TechPoint BD
+Billing Address: 191 Agrabad C/A, Chattogram, Bangladesh
+Invoice Date: 2026-05-31
+Due Date: 2026-06-15
+Currency: USD
+Subtotal: 13720.85
+Tax: 1303.48
+Total: 14348.29
+Balance Due: 5083.78
+Status: partial

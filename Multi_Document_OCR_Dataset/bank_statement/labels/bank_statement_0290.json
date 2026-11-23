@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TEMN8MJI",
+  "account_holder": "Christian Herring",
+  "account_number_masked": "****2082",
+  "period_start": "2025-07-07",
+  "period_end": "2025-08-06",
+  "opening_balance": 3416.71,
+  "closing_balance": 5476.48,
+  "transactions": 13,
+  "sample_id": "bank_statement_0290"
+}

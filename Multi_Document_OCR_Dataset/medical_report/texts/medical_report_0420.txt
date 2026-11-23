@@ -1,0 +1,14 @@
+Medical Report MED-I9XC3UT3
+Patient: Glenn White
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-I9XC3UT3",
+  "patient_name": "Glenn White",
+  "visit_date": "2026-08-09",
+  "doctor_name": "Dr. Michael David",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0420"
+}

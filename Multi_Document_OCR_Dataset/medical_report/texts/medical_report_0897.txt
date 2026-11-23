@@ -1,0 +1,14 @@
+Medical Report MED-6ABWNKHV
+Patient: Brittany Williams
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-6ABWNKHV",
+  "patient_name": "Brittany Williams",
+  "visit_date": "2025-10-14",
+  "doctor_name": "Dr. David Lee",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0897"
+}

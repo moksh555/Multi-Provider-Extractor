@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0304
+Company: Delta Insurance Services
+Company Address: 134 Road 12, Banani, Doha, Qatar
+Customer: Bengal Motors
+Billing Address: 16 Jumeirah Lake Towers, Sylhet, Bangladesh
+Invoice Date: 2026-01-05
+Due Date: 2026-02-19
+Currency: USD
+Subtotal: 6002.62
+Tax: 855.37
+Total: 6567.86
+Balance Due: 2922.59
+Status: partial

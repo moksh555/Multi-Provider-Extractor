@@ -1,0 +1,16 @@
+Bank Statement STM-8B1VFO0G
+Holder: Cheryl Collins
+Closing Balance: $6850.38
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8B1VFO0G",
+  "account_holder": "Cheryl Collins",
+  "account_number_masked": "****7904",
+  "period_start": "2026-10-27",
+  "period_end": "2026-11-26",
+  "opening_balance": 3477.75,
+  "closing_balance": 6850.38,
+  "transactions": 10,
+  "sample_id": "bank_statement_0496"
+}

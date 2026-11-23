@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-URMW3UQHW",
+  "policy_holder": "Justin Jacobs",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-06-19",
+  "expiry_date": "2026-06-19",
+  "premium": 400.41,
+  "coverage_amount": 146859.55,
+  "beneficiary": "Tammy Perez",
+  "sample_id": "insurance_document_0945"
+}

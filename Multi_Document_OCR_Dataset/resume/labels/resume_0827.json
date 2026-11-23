@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Christina Woods",
+  "email": "brittany13@example.net",
+  "phone": "+1-378-370-1881",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Computer Vision",
+    "Streamlit",
+    "LangChain",
+    "Pandas",
+    "FastAPI",
+    "SQL",
+    "Python",
+    "NLP",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0827"
+}

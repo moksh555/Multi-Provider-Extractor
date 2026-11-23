@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-V9L29LDV",
+  "patient_name": "Christina Shaw",
+  "visit_date": "2024-01-27",
+  "doctor_name": "Dr. Erin Spencer",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0030"
+}

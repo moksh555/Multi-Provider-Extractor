@@ -1,0 +1,61 @@
+Receipt RCT-86QPJN22
+Merchant: White, Johnson and Smith
+Date: 2026-12-24
+Total: $737.02
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-86QPJN22",
+  "merchant_name": "White, Johnson and Smith",
+  "date": "2026-12-24",
+  "subtotal": 693.62,
+  "tax": 45.12,
+  "discount": 1.72,
+  "total": 737.02,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$15.24",
+      "line_total": "$15.24"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$42.80",
+      "line_total": "$42.80"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$70.69",
+      "line_total": "$70.69"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$64.09",
+      "line_total": "$192.27"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$21.50",
+      "line_total": "$64.50"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$48.84",
+      "line_total": "$195.36"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$28.19",
+      "line_total": "$112.76"
+    }
+  ],
+  "sample_id": "receipt_0852"
+}

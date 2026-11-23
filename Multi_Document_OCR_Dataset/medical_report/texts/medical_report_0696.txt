@@ -1,0 +1,14 @@
+Medical Report MED-I1ENDP1E
+Patient: Marc Watson
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-I1ENDP1E",
+  "patient_name": "Marc Watson",
+  "visit_date": "2024-11-03",
+  "doctor_name": "Dr. Brandon Flores",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0696"
+}

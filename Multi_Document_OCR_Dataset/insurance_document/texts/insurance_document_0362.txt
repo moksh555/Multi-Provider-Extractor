@@ -1,0 +1,16 @@
+Insurance Policy POL-7GBDGBXNR
+Holder: William Hunter
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7GBDGBXNR",
+  "policy_holder": "William Hunter",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-12-07",
+  "expiry_date": "2027-12-07",
+  "premium": 1524.92,
+  "coverage_amount": 34051.96,
+  "beneficiary": "Joshua Henderson",
+  "sample_id": "insurance_document_0362"
+}

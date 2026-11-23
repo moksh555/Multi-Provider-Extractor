@@ -1,0 +1,67 @@
+Receipt RCT-A0T2Q8BG
+Merchant: Mccormick, Santos and Kelly
+Date: 2023-11-19
+Total: $1017.68
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A0T2Q8BG",
+  "merchant_name": "Mccormick, Santos and Kelly",
+  "date": "2023-11-19",
+  "subtotal": 938.92,
+  "tax": 80.54,
+  "discount": 1.78,
+  "total": 1017.68,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$64.07",
+      "line_total": "$128.14"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$70.23",
+      "line_total": "$140.46"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$77.65",
+      "line_total": "$155.30"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$47.22",
+      "line_total": "$188.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$44.57",
+      "line_total": "$178.28"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$32.47",
+      "line_total": "$97.41"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$31.73",
+      "line_total": "$31.73"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$6.24",
+      "line_total": "$18.72"
+    }
+  ],
+  "sample_id": "receipt_0691"
+}

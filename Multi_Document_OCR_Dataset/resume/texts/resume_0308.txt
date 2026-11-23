@@ -1,0 +1,26 @@
+Resume
+Cindy Lee
+Backend Developer
+Skills: SQL, LangChain, NLP, TensorFlow, FastAPI, Pandas, Python, Machine Learning, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Cindy Lee",
+  "email": "charles02@example.net",
+  "phone": "759-799-7737x93957",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "LangChain",
+    "NLP",
+    "TensorFlow",
+    "FastAPI",
+    "Pandas",
+    "Python",
+    "Machine Learning",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0308"
+}

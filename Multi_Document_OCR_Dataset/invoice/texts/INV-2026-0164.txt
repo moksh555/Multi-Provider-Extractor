@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0164
+Company: PrimeSoft Technologies
+Company Address: 170 Doha Business Park, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 221 Mirpur DOHS, Doha, Qatar
+Invoice Date: 2026-05-08
+Due Date: 2026-05-23
+Currency: SAR
+Subtotal: 12673.92
+Tax: 1710.98
+Total: 13127.51
+Balance Due: 8093.54
+Status: partial

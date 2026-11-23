@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL717149041",
+  "full_name": "Carol Avila",
+  "date_of_birth": "2003-09-16",
+  "class": "D",
+  "issue_date": "2021-07-26",
+  "expiry_date": "2026-07-26",
+  "address": "964 Davis Pike Suite 285, Walshshire, IA 19759",
+  "sample_id": "driving_license_0904"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL317822732",
+  "full_name": "Savannah Harrison",
+  "date_of_birth": "1985-11-01",
+  "class": "A",
+  "issue_date": "2020-01-13",
+  "expiry_date": "2025-01-13",
+  "address": "5175 John Grove, Nancyhaven, IN 41533",
+  "sample_id": "driving_license_0814"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-D356WAFFT
+Holder: Shawn Mcgee
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-D356WAFFT",
+  "policy_holder": "Shawn Mcgee",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-06-14",
+  "expiry_date": "2027-06-14",
+  "premium": 1495.48,
+  "coverage_amount": 105876.64,
+  "beneficiary": "Steven Lopez",
+  "sample_id": "insurance_document_0418"
+}

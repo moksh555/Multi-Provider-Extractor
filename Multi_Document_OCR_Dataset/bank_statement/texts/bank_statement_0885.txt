@@ -1,0 +1,16 @@
+Bank Statement STM-75TG94JN
+Holder: Valerie Smith MD
+Closing Balance: $5048.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-75TG94JN",
+  "account_holder": "Valerie Smith MD",
+  "account_number_masked": "****8388",
+  "period_start": "2025-09-30",
+  "period_end": "2025-10-30",
+  "opening_balance": 1511.38,
+  "closing_balance": 5048.86,
+  "transactions": 14,
+  "sample_id": "bank_statement_0885"
+}

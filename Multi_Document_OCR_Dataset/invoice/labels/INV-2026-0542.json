@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0542",
+  "invoice_number": "INV-2026-0542",
+  "company_name": "Greenline Logistics",
+  "company_address": "69 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "118 Doha Business Park, Dhaka, Bangladesh",
+  "invoice_date": "2026-05-17",
+  "due_date": "2026-07-01",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 3,
+      "unit_price": 33.43,
+      "amount": 100.29
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 9,
+      "unit_price": 586.42,
+      "amount": 5277.78
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 2,
+      "unit_price": 575.99,
+      "amount": 1151.98
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 6,
+      "unit_price": 262.69,
+      "amount": 1576.14
+    },
+    {
+      "description": "API Integration",
+      "quantity": 12,
+      "unit_price": 24.23,
+      "amount": 290.76
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 660.62,
+      "amount": 3963.72
+    }
+  ],
+  "subtotal": 12360.67,
+  "discount": 618.03,
+  "tax_rate": 0.05,
+  "tax": 587.13,
+  "shipping": 25,
+  "total": 12354.77,
+  "amount_paid": 9132.61,
+  "balance_due": 3222.16,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801031684026",
+  "po_number": "PO-19297"
+}

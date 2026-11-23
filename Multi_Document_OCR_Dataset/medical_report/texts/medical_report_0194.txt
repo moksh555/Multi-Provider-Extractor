@@ -1,0 +1,14 @@
+Medical Report MED-0BYVS4C3
+Patient: Mary Miller
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0BYVS4C3",
+  "patient_name": "Mary Miller",
+  "visit_date": "2024-12-27",
+  "doctor_name": "Dr. Jamie Smith",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0194"
+}

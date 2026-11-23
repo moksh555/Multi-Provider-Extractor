@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5NFLTQ68",
+  "merchant_name": "Henderson and Sons",
+  "date": "2023-12-26",
+  "subtotal": 391.08,
+  "tax": 34.01,
+  "discount": 4.91,
+  "total": 420.18,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$62.42",
+      "line_total": "$249.68"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$29.74",
+      "line_total": "$59.48"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$20.48",
+      "line_total": "$81.92"
+    }
+  ],
+  "sample_id": "receipt_0451"
+}

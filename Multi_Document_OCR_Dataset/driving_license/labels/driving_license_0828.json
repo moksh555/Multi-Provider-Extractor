@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL656334949",
+  "full_name": "Kayla Smith",
+  "date_of_birth": "1962-05-15",
+  "class": "A",
+  "issue_date": "2024-09-20",
+  "expiry_date": "2029-09-20",
+  "address": "2207 Meghan Garden, Audreyview, NH 32717",
+  "sample_id": "driving_license_0828"
+}

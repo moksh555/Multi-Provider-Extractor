@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0440
+Company: Atlas Engineering Ltd.
+Company Address: 178 Gulshan Avenue, Sylhet, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 48 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-01-12
+Due Date: 2026-02-11
+Currency: BDT
+Subtotal: 4404.37
+Tax: 0.0
+Total: 3968.93
+Balance Due: 3968.93
+Status: overdue

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0065
+Company: SkyNet Office Mart
+Company Address: 156 Zindabazar Road, Doha, Qatar
+Customer: TechPoint BD
+Billing Address: 231 Al Barsha, Dhaka, Bangladesh
+Invoice Date: 2026-02-04
+Due Date: 2026-03-21
+Currency: USD
+Subtotal: 12480.47
+Tax: 624.02
+Total: 13154.49
+Balance Due: 7141.41
+Status: partial

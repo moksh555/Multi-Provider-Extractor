@@ -1,0 +1,61 @@
+Receipt RCT-OZ83EJFB
+Merchant: Deleon-Stuart
+Date: 2025-08-17
+Total: $756.72
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OZ83EJFB",
+  "merchant_name": "Deleon-Stuart",
+  "date": "2025-08-17",
+  "subtotal": 688.69,
+  "tax": 74.35,
+  "discount": 6.32,
+  "total": 756.72,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$48.04",
+      "line_total": "$48.04"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$73.91",
+      "line_total": "$221.73"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$54.62",
+      "line_total": "$54.62"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$20.10",
+      "line_total": "$80.40"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$15.56",
+      "line_total": "$62.24"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$25.55",
+      "line_total": "$102.20"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$39.82",
+      "line_total": "$119.46"
+    }
+  ],
+  "sample_id": "receipt_0929"
+}

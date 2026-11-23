@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL605292615",
+  "full_name": "Justin Parker",
+  "date_of_birth": "1964-02-07",
+  "class": "D",
+  "issue_date": "2026-10-12",
+  "expiry_date": "2031-10-12",
+  "address": "773 Lindsey Highway Apt. 095, Michelleshire, AS 65790",
+  "sample_id": "driving_license_0946"
+}

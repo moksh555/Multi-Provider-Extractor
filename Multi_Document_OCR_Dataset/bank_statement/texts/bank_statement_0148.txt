@@ -1,0 +1,16 @@
+Bank Statement STM-3KTX6QCA
+Holder: Katie Briggs
+Closing Balance: $9606.74
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-3KTX6QCA",
+  "account_holder": "Katie Briggs",
+  "account_number_masked": "****6888",
+  "period_start": "2025-11-03",
+  "period_end": "2025-12-03",
+  "opening_balance": 3877.76,
+  "closing_balance": 9606.74,
+  "transactions": 12,
+  "sample_id": "bank_statement_0148"
+}

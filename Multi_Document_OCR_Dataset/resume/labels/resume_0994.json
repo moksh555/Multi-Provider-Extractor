@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Cooper",
+  "email": "charris@example.org",
+  "phone": "(643)361-1168x5952",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "AWS",
+    "Pandas",
+    "Machine Learning",
+    "FastAPI",
+    "SQL",
+    "LangChain",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0994"
+}

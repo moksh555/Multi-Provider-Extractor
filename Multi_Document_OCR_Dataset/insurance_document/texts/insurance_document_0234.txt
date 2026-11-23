@@ -1,0 +1,16 @@
+Insurance Policy POL-EZ74LAV71
+Holder: Amy Baker
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-EZ74LAV71",
+  "policy_holder": "Amy Baker",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-01-17",
+  "expiry_date": "2026-01-17",
+  "premium": 2406.13,
+  "coverage_amount": 193059.48,
+  "beneficiary": "Amy Marshall",
+  "sample_id": "insurance_document_0234"
+}

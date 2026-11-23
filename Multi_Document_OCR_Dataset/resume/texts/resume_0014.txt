@@ -1,0 +1,26 @@
+Resume
+Steven Glover
+Machine Learning Engineer
+Skills: Machine Learning, Computer Vision, AWS, FastAPI, PyTorch, LangChain, NLP, SQL, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Steven Glover",
+  "email": "monica00@example.org",
+  "phone": "(201)951-5325x94795",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Machine Learning",
+    "Computer Vision",
+    "AWS",
+    "FastAPI",
+    "PyTorch",
+    "LangChain",
+    "NLP",
+    "SQL",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0014"
+}

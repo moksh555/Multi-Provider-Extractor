@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL758369751",
+  "full_name": "Debbie Schneider",
+  "date_of_birth": "1978-08-12",
+  "class": "D",
+  "issue_date": "2026-05-25",
+  "expiry_date": "2031-05-25",
+  "address": "9340 Phelps Shores, Lake Thomas, NV 47523",
+  "sample_id": "driving_license_0844"
+}

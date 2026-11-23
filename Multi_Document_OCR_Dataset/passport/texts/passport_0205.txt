@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Thomas Ward
+Passport No: P79242955
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P79242955",
+  "full_name": "Thomas Ward",
+  "nationality": "CA",
+  "date_of_birth": "1979-12-21",
+  "issue_date": "2026-04-06",
+  "expiry_date": "2036-04-06",
+  "place_of_birth": "North Amy",
+  "sample_id": "passport_0205"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kevin Phillips
+Passport No: P53914327
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P53914327",
+  "full_name": "Kevin Phillips",
+  "nationality": "AE",
+  "date_of_birth": "2000-12-21",
+  "issue_date": "2020-05-02",
+  "expiry_date": "2030-05-02",
+  "place_of_birth": "Port Charles",
+  "sample_id": "passport_0648"
+}

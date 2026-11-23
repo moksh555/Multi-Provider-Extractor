@@ -1,0 +1,16 @@
+Insurance Policy POL-FH41A68T2
+Holder: Monique Castaneda
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FH41A68T2",
+  "policy_holder": "Monique Castaneda",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-09-27",
+  "expiry_date": "2026-09-27",
+  "premium": 2101.36,
+  "coverage_amount": 22630.88,
+  "beneficiary": "Roy Anthony",
+  "sample_id": "insurance_document_0830"
+}

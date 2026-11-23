@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-M9OHDSRS8",
+  "policy_holder": "Alexandria Collins",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-01-15",
+  "expiry_date": "2024-01-15",
+  "premium": 1024.47,
+  "coverage_amount": 215806.84,
+  "beneficiary": "Autumn Hill",
+  "sample_id": "insurance_document_0935"
+}

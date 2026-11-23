@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Amanda Chandler
+Passport No: P52971862
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P52971862",
+  "full_name": "Amanda Chandler",
+  "nationality": "CA",
+  "date_of_birth": "1996-07-04",
+  "issue_date": "2022-12-10",
+  "expiry_date": "2032-12-10",
+  "place_of_birth": "Stephenfurt",
+  "sample_id": "passport_0723"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-ZGPPOHSWQ
+Holder: Jacqueline Brown
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZGPPOHSWQ",
+  "policy_holder": "Jacqueline Brown",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-12-16",
+  "expiry_date": "2027-12-16",
+  "premium": 448.64,
+  "coverage_amount": 111597.44,
+  "beneficiary": "Ana Mckinney",
+  "sample_id": "insurance_document_0139"
+}

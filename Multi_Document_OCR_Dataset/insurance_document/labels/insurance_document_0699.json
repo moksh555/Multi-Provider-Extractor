@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RQ3GU7GKL",
+  "policy_holder": "Richard Vega",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-03-18",
+  "expiry_date": "2026-03-18",
+  "premium": 1755.93,
+  "coverage_amount": 102045.53,
+  "beneficiary": "Brenda Rogers",
+  "sample_id": "insurance_document_0699"
+}

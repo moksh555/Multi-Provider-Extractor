@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0474
+Company: Summit Agro Foods
+Company Address: 183 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 38 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-01-17
+Due Date: 2026-02-01
+Currency: BDT
+Subtotal: 18931.85
+Tax: 2839.78
+Total: 21771.63
+Balance Due: 15393.06
+Status: partial

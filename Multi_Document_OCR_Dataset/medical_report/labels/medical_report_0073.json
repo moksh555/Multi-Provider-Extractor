@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-73H39Q8B",
+  "patient_name": "Johnny Watson",
+  "visit_date": "2025-07-13",
+  "doctor_name": "Dr. Melissa Smith",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0073"
+}

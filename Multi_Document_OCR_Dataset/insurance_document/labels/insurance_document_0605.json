@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-X985I0HIV",
+  "policy_holder": "Stephanie Livingston",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-08-17",
+  "expiry_date": "2026-08-17",
+  "premium": 1839.57,
+  "coverage_amount": 236086.56,
+  "beneficiary": "Anthony Marshall",
+  "sample_id": "insurance_document_0605"
+}

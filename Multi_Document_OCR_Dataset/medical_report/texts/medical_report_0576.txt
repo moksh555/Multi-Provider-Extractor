@@ -1,0 +1,14 @@
+Medical Report MED-EKZYZ7W2
+Patient: John Thomas
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EKZYZ7W2",
+  "patient_name": "John Thomas",
+  "visit_date": "2025-01-16",
+  "doctor_name": "Dr. April Fisher",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0576"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-26483DXB
+Patient: Claudia Sanchez
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-26483DXB",
+  "patient_name": "Claudia Sanchez",
+  "visit_date": "2024-11-23",
+  "doctor_name": "Dr. Jonathan Peterson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0517"
+}

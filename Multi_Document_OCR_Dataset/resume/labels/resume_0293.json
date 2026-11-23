@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Amy Martin",
+  "email": "benjaminwalker@example.com",
+  "phone": "7562771251",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "SQL",
+    "TensorFlow",
+    "Computer Vision",
+    "PyTorch",
+    "Python",
+    "Streamlit",
+    "FastAPI",
+    "Docker",
+    "AWS",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0293"
+}

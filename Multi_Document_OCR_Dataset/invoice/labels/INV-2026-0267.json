@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0267",
+  "invoice_number": "INV-2026-0267",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "70 Dhanmondi 27, Dhaka, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "20 Jumeirah Lake Towers, Dubai, UAE",
+  "invoice_date": "2026-01-29",
+  "due_date": "2026-02-05",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 2,
+      "unit_price": 548.47,
+      "amount": 1096.94
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 3,
+      "unit_price": 28.79,
+      "amount": 86.37
+    },
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 290.06,
+      "amount": 1740.36
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 11,
+      "unit_price": 323.51,
+      "amount": 3558.61
+    }
+  ],
+  "subtotal": 6482.28,
+  "discount": 648.23,
+  "tax_rate": 0.075,
+  "tax": 437.55,
+  "shipping": 5,
+  "total": 6276.6,
+  "amount_paid": 0,
+  "balance_due": 6276.6,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801032151237",
+  "po_number": "PO-77793"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Lisa Archer
+License: DL781151148
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL781151148",
+  "full_name": "Lisa Archer",
+  "date_of_birth": "1966-10-06",
+  "class": "A",
+  "issue_date": "2024-12-20",
+  "expiry_date": "2029-12-20",
+  "address": "841 Joseph Coves, West Juan, IL 94559",
+  "sample_id": "driving_license_0017"
+}

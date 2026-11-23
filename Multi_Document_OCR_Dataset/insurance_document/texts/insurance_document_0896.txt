@@ -1,0 +1,16 @@
+Insurance Policy POL-9TMH6K1WX
+Holder: Devin Martin
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9TMH6K1WX",
+  "policy_holder": "Devin Martin",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-10-25",
+  "expiry_date": "2026-10-25",
+  "premium": 1394.79,
+  "coverage_amount": 202164.95,
+  "beneficiary": "Jill Cook",
+  "sample_id": "insurance_document_0896"
+}

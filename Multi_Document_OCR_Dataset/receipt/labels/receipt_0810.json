@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NPKIA0W8",
+  "merchant_name": "Reid-Rodriguez",
+  "date": "2024-12-15",
+  "subtotal": 589.85,
+  "tax": 58.02,
+  "discount": 1.0,
+  "total": 646.87,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$53.94",
+      "line_total": "$53.94"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$77.57",
+      "line_total": "$310.28"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$5.61",
+      "line_total": "$16.83"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$52.20",
+      "line_total": "$208.80"
+    }
+  ],
+  "sample_id": "receipt_0810"
+}

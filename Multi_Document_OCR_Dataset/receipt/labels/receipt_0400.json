@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G74IZG9J",
+  "merchant_name": "Donaldson PLC",
+  "date": "2024-02-11",
+  "subtotal": 184.56,
+  "tax": 15.19,
+  "discount": 6.96,
+  "total": 192.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$72.59",
+      "line_total": "$72.59"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$5.81",
+      "line_total": "$17.43"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$47.27",
+      "line_total": "$94.54"
+    }
+  ],
+  "sample_id": "receipt_0400"
+}

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0113",
+  "invoice_number": "INV-2026-0113",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "84 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "117 Sheikh Zayed Road, Dubai, UAE",
+  "invoice_date": "2026-03-11",
+  "due_date": "2026-04-25",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 1,
+      "unit_price": 164.56,
+      "amount": 164.56
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 5,
+      "unit_price": 234.66,
+      "amount": 1173.3
+    }
+  ],
+  "subtotal": 1337.86,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 1387.86,
+  "amount_paid": 651.2,
+  "balance_due": 736.66,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801214337947",
+  "po_number": "PO-38907"
+}

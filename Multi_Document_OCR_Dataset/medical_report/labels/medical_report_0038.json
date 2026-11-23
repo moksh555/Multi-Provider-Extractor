@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JZS92LOB",
+  "patient_name": "Christy Graham",
+  "visit_date": "2025-12-16",
+  "doctor_name": "Dr. Isabella James",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0038"
+}

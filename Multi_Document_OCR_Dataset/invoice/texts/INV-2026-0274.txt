@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0274
+Company: Delta Insurance Services
+Company Address: 101 Jumeirah Lake Towers, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 76 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-01-29
+Due Date: 2026-02-28
+Currency: SAR
+Subtotal: 10718.14
+Tax: 803.86
+Total: 11527.0
+Balance Due: 11527.0
+Status: overdue

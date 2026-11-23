@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-KLI2ZF6J",
+  "patient_name": "Sean Wilson",
+  "visit_date": "2024-07-29",
+  "doctor_name": "Dr. Joshua Prince",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0605"
+}

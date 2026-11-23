@@ -1,0 +1,14 @@
+Medical Report MED-P4VPC985
+Patient: Kristen Cooper
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-P4VPC985",
+  "patient_name": "Kristen Cooper",
+  "visit_date": "2025-06-19",
+  "doctor_name": "Dr. Dan Nicholson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0376"
+}

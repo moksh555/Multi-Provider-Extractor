@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Jesus Knox",
+  "email": "tyler42@example.com",
+  "phone": "+1-932-511-1902x66237",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Deep Learning",
+    "Streamlit",
+    "Machine Learning",
+    "NLP",
+    "FastAPI",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0887"
+}

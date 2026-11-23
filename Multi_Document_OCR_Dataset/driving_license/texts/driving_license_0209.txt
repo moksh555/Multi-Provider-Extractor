@@ -1,0 +1,16 @@
+Synthetic Driving License
+Margaret Hernandez
+License: DL484007225
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL484007225",
+  "full_name": "Margaret Hernandez",
+  "date_of_birth": "1975-02-02",
+  "class": "D",
+  "issue_date": "2025-02-16",
+  "expiry_date": "2030-02-16",
+  "address": "28772 Karen Islands, West Tara, AR 66945",
+  "sample_id": "driving_license_0209"
+}

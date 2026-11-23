@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-L7MA1WW4",
+  "patient_name": "Daniel Young",
+  "visit_date": "2026-07-27",
+  "doctor_name": "Dr. Aaron Zuniga",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0779"
+}

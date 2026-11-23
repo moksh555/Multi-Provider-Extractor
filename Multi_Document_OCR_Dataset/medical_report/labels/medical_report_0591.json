@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GXRL6FVD",
+  "patient_name": "Ivan Allen",
+  "visit_date": "2024-03-21",
+  "doctor_name": "Dr. Sarah Castillo",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0591"
+}

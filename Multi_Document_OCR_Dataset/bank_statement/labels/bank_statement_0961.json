@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-QZSXK22P",
+  "account_holder": "Heather Conway",
+  "account_number_masked": "****1655",
+  "period_start": "2024-01-31",
+  "period_end": "2024-03-01",
+  "opening_balance": 4369.77,
+  "closing_balance": 7709.7,
+  "transactions": 13,
+  "sample_id": "bank_statement_0961"
+}

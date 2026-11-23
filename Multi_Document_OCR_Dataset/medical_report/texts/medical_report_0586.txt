@@ -1,0 +1,14 @@
+Medical Report MED-IIOPKE36
+Patient: Tyler Nielsen
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-IIOPKE36",
+  "patient_name": "Tyler Nielsen",
+  "visit_date": "2025-07-29",
+  "doctor_name": "Dr. David Valenzuela",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0586"
+}

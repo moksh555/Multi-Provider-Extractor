@@ -1,0 +1,14 @@
+Medical Report MED-11Z9ET3W
+Patient: Kristen Brooks
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-11Z9ET3W",
+  "patient_name": "Kristen Brooks",
+  "visit_date": "2024-11-26",
+  "doctor_name": "Dr. Joseph Eaton",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0445"
+}

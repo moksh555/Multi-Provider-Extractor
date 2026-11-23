@@ -1,0 +1,25 @@
+Resume
+Joy Sparks
+Backend Developer
+Skills: Python, AWS, Machine Learning, Pandas, Computer Vision, NLP, Deep Learning, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Joy Sparks",
+  "email": "thomasmegan@example.net",
+  "phone": "335.283.8439",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "Python",
+    "AWS",
+    "Machine Learning",
+    "Pandas",
+    "Computer Vision",
+    "NLP",
+    "Deep Learning",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0267"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-RBDL918SL
+Holder: Patrick Mosley
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-RBDL918SL",
+  "policy_holder": "Patrick Mosley",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-12-29",
+  "expiry_date": "2025-12-29",
+  "premium": 2437.76,
+  "coverage_amount": 354301.84,
+  "beneficiary": "Ana Black",
+  "sample_id": "insurance_document_0718"
+}

@@ -1,0 +1,27 @@
+Resume
+Mary Jones
+Backend Developer
+Skills: Streamlit, LangChain, Docker, PyTorch, NLP, TensorFlow, Deep Learning, Python, Machine Learning, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Mary Jones",
+  "email": "carlsonscott@example.com",
+  "phone": "429-482-9931x6421",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "LangChain",
+    "Docker",
+    "PyTorch",
+    "NLP",
+    "TensorFlow",
+    "Deep Learning",
+    "Python",
+    "Machine Learning",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0645"
+}

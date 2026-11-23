@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PL1QWEEH",
+  "merchant_name": "Crane Group",
+  "date": "2023-11-03",
+  "subtotal": 487.08,
+  "tax": 18.09,
+  "discount": 9.0,
+  "total": 496.17,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$68.58",
+      "line_total": "$274.32"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$19.79",
+      "line_total": "$79.16"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$33.40",
+      "line_total": "$133.60"
+    }
+  ],
+  "sample_id": "receipt_0173"
+}

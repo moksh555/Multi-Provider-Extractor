@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GT5SB65M",
+  "account_holder": "Claudia Matthews",
+  "account_number_masked": "****7824",
+  "period_start": "2024-09-28",
+  "period_end": "2024-10-28",
+  "opening_balance": 762.67,
+  "closing_balance": -905.9,
+  "transactions": 10,
+  "sample_id": "bank_statement_0851"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4QXGNRFI",
+  "merchant_name": "Ramirez, Williams and Hall",
+  "date": "2025-08-01",
+  "subtotal": 308.12,
+  "tax": 33.28,
+  "discount": 13.31,
+  "total": 328.09,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$18.58",
+      "line_total": "$74.32"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$6.22",
+      "line_total": "$12.44"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$55.34",
+      "line_total": "$221.36"
+    }
+  ],
+  "sample_id": "receipt_0170"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BCE5Z3ZT",
+  "account_holder": "Marvin Martin DDS",
+  "account_number_masked": "****7841",
+  "period_start": "2024-07-06",
+  "period_end": "2024-08-05",
+  "opening_balance": 3599.23,
+  "closing_balance": 4394.94,
+  "transactions": 9,
+  "sample_id": "bank_statement_0160"
+}

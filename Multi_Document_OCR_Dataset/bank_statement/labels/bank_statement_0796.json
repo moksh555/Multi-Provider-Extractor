@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-HF0AI1Q0",
+  "account_holder": "Jamie Smith",
+  "account_number_masked": "****4367",
+  "period_start": "2025-05-06",
+  "period_end": "2025-06-05",
+  "opening_balance": 1223.44,
+  "closing_balance": 1296.27,
+  "transactions": 11,
+  "sample_id": "bank_statement_0796"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Sarah Taylor
+Passport No: P03338880
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P03338880",
+  "full_name": "Sarah Taylor",
+  "nationality": "BD",
+  "date_of_birth": "1980-08-26",
+  "issue_date": "2026-12-04",
+  "expiry_date": "2036-12-04",
+  "place_of_birth": "West Kellyhaven",
+  "sample_id": "passport_0976"
+}

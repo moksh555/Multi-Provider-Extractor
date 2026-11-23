@@ -1,0 +1,61 @@
+Receipt RCT-24ERTL15
+Merchant: Campos, Gay and King
+Date: 2022-07-15
+Total: $701.59
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-24ERTL15",
+  "merchant_name": "Campos, Gay and King",
+  "date": "2022-07-15",
+  "subtotal": 643.27,
+  "tax": 64.85,
+  "discount": 6.53,
+  "total": 701.59,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$72.70",
+      "line_total": "$290.80"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$11.58",
+      "line_total": "$11.58"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$41.03",
+      "line_total": "$164.12"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$21.51",
+      "line_total": "$64.53"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$61.23",
+      "line_total": "$61.23"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$18.94",
+      "line_total": "$37.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$13.13",
+      "line_total": "$13.13"
+    }
+  ],
+  "sample_id": "receipt_0695"
+}

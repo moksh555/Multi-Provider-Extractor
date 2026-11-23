@@ -1,0 +1,16 @@
+Bank Statement STM-26OMPI8Y
+Holder: Mr. Daniel Roth
+Closing Balance: $599.37
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-26OMPI8Y",
+  "account_holder": "Mr. Daniel Roth",
+  "account_number_masked": "****8364",
+  "period_start": "2025-03-09",
+  "period_end": "2025-04-08",
+  "opening_balance": 1717.17,
+  "closing_balance": 599.37,
+  "transactions": 9,
+  "sample_id": "bank_statement_0685"
+}

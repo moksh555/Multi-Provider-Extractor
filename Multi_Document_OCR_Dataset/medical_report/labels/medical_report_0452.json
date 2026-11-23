@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-QBZAJ86W",
+  "patient_name": "Tanner Phillips",
+  "visit_date": "2025-12-14",
+  "doctor_name": "Dr. Elizabeth Morales MD",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0452"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-7QEMTK81",
+  "patient_name": "Alexander Cannon",
+  "visit_date": "2025-01-25",
+  "doctor_name": "Dr. Rodney Simpson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0195"
+}

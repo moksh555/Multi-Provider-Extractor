@@ -1,0 +1,67 @@
+Receipt RCT-JJ1WSFDI
+Merchant: Bennett-Smith
+Date: 2021-07-12
+Total: $1451.92
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-JJ1WSFDI",
+  "merchant_name": "Bennett-Smith",
+  "date": "2021-07-12",
+  "subtotal": 1403.04,
+  "tax": 50.96,
+  "discount": 2.08,
+  "total": 1451.92,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$42.94",
+      "line_total": "$85.88"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$66.74",
+      "line_total": "$266.96"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$38.77",
+      "line_total": "$155.08"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$6.81",
+      "line_total": "$13.62"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$42.81",
+      "line_total": "$128.43"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$75.95",
+      "line_total": "$303.80"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$68.63",
+      "line_total": "$274.52"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$58.25",
+      "line_total": "$174.75"
+    }
+  ],
+  "sample_id": "receipt_0958"
+}

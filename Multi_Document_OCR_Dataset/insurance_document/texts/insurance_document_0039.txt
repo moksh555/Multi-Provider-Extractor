@@ -1,0 +1,16 @@
+Insurance Policy POL-8A5UR7KO6
+Holder: Gina Schwartz
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-8A5UR7KO6",
+  "policy_holder": "Gina Schwartz",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-01-07",
+  "expiry_date": "2027-01-07",
+  "premium": 1899.09,
+  "coverage_amount": 277604.83,
+  "beneficiary": "Sarah Phelps",
+  "sample_id": "insurance_document_0039"
+}

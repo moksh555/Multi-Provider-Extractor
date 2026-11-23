@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0816
+Company: Metro Print House
+Company Address: 176 Dhanmondi 27, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 24 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-21
+Due Date: 2026-07-05
+Currency: SAR
+Subtotal: 17186.05
+Tax: 1160.06
+Total: 16637.5
+Balance Due: 9891.39
+Status: partial

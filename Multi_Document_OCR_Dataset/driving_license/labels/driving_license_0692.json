@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL083822612",
+  "full_name": "Robert Anderson",
+  "date_of_birth": "1963-01-30",
+  "class": "C",
+  "issue_date": "2026-09-19",
+  "expiry_date": "2031-09-19",
+  "address": "3039 Hernandez Bridge Suite 588, Woodsburgh, MI 84891",
+  "sample_id": "driving_license_0692"
+}

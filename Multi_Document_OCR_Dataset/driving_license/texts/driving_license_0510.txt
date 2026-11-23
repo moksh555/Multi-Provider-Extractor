@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Vargas
+License: DL864615581
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL864615581",
+  "full_name": "Jennifer Vargas",
+  "date_of_birth": "1965-04-01",
+  "class": "C",
+  "issue_date": "2021-08-21",
+  "expiry_date": "2026-08-21",
+  "address": "226 Brown Stream, Jasminebury, TX 80284",
+  "sample_id": "driving_license_0510"
+}

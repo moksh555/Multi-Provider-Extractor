@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DS2ULK3F",
+  "merchant_name": "Carey LLC",
+  "date": "2026-11-08",
+  "subtotal": 1022.46,
+  "tax": 38.28,
+  "discount": 13.53,
+  "total": 1047.21,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$69.35",
+      "line_total": "$138.70"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$11.39",
+      "line_total": "$34.17"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$76.57",
+      "line_total": "$229.71"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$67.07",
+      "line_total": "$268.28"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$78.21",
+      "line_total": "$156.42"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$65.06",
+      "line_total": "$195.18"
+    }
+  ],
+  "sample_id": "receipt_0588"
+}

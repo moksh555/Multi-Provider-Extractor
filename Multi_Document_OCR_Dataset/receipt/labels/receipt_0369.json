@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5CSZ0A0T",
+  "merchant_name": "Gordon and Sons",
+  "date": "2022-09-14",
+  "subtotal": 305.1,
+  "tax": 14.72,
+  "discount": 3.96,
+  "total": 315.86,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$66.69",
+      "line_total": "$133.38"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$34.59",
+      "line_total": "$103.77"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$22.65",
+      "line_total": "$67.95"
+    }
+  ],
+  "sample_id": "receipt_0369"
+}

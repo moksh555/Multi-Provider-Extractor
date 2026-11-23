@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-M29NNQPN",
+  "account_holder": "Paul Wilkerson",
+  "account_number_masked": "****3772",
+  "period_start": "2025-06-24",
+  "period_end": "2025-07-24",
+  "opening_balance": 992.42,
+  "closing_balance": 5638.41,
+  "transactions": 13,
+  "sample_id": "bank_statement_0534"
+}

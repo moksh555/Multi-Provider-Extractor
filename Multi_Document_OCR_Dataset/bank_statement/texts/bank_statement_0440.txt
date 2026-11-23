@@ -1,0 +1,16 @@
+Bank Statement STM-66Z230JN
+Holder: Julie Matthews
+Closing Balance: $4844.44
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-66Z230JN",
+  "account_holder": "Julie Matthews",
+  "account_number_masked": "****5748",
+  "period_start": "2026-10-24",
+  "period_end": "2026-11-23",
+  "opening_balance": 2467.07,
+  "closing_balance": 4844.44,
+  "transactions": 8,
+  "sample_id": "bank_statement_0440"
+}

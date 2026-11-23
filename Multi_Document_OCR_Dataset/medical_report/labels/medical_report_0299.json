@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-Q8EVOS8U",
+  "patient_name": "Meredith Mooney",
+  "visit_date": "2026-03-23",
+  "doctor_name": "Dr. Lindsay Owens",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0299"
+}

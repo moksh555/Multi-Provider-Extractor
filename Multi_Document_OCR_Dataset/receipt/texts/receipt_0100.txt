@@ -1,0 +1,67 @@
+Receipt RCT-EM1QQ4D3
+Merchant: Johnson, Small and Gardner
+Date: 2024-05-31
+Total: $490.25
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EM1QQ4D3",
+  "merchant_name": "Johnson, Small and Gardner",
+  "date": "2024-05-31",
+  "subtotal": 449.07,
+  "tax": 46.76,
+  "discount": 5.58,
+  "total": 490.25,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$67.04",
+      "line_total": "$134.08"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$8.21",
+      "line_total": "$16.42"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$32.30",
+      "line_total": "$96.90"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$21.55",
+      "line_total": "$64.65"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$76.22",
+      "line_total": "$76.22"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$8.48",
+      "line_total": "$16.96"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$10.59",
+      "line_total": "$21.18"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$11.33",
+      "line_total": "$22.66"
+    }
+  ],
+  "sample_id": "receipt_0100"
+}

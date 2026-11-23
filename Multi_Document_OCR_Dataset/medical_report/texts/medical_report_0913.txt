@@ -1,0 +1,14 @@
+Medical Report MED-QTHQUA6S
+Patient: Stephanie Gaines
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QTHQUA6S",
+  "patient_name": "Stephanie Gaines",
+  "visit_date": "2026-05-28",
+  "doctor_name": "Dr. Nicholas Arnold",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0913"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0041",
+  "invoice_number": "INV-2026-0041",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "151 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "120 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-06",
+  "due_date": "2026-06-13",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 701.25,
+      "amount": 4908.75
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 3,
+      "unit_price": 826.74,
+      "amount": 2480.22
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 8,
+      "unit_price": 400.23,
+      "amount": 3201.84
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 6,
+      "unit_price": 116.06,
+      "amount": 696.36
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 11,
+      "unit_price": 502.92,
+      "amount": 5532.12
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 431.41,
+      "amount": 3019.87
+    }
+  ],
+  "subtotal": 19839.16,
+  "discount": 991.96,
+  "tax_rate": 0.1,
+  "tax": 1884.72,
+  "shipping": 0,
+  "total": 20731.92,
+  "amount_paid": 13801.14,
+  "balance_due": 6930.78,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801113739882",
+  "po_number": "PO-65135"
+}

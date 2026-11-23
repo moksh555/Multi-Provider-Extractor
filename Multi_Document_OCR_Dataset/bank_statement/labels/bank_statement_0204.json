@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8JOCUJVX",
+  "account_holder": "Melissa Parker",
+  "account_number_masked": "****3884",
+  "period_start": "2025-03-03",
+  "period_end": "2025-04-02",
+  "opening_balance": 970.19,
+  "closing_balance": 4605.23,
+  "transactions": 9,
+  "sample_id": "bank_statement_0204"
+}

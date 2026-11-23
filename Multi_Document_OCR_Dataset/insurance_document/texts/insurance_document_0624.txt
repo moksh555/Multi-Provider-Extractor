@@ -1,0 +1,16 @@
+Insurance Policy POL-LWN71EG1Y
+Holder: Taylor Wong MD
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LWN71EG1Y",
+  "policy_holder": "Taylor Wong MD",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-05-19",
+  "expiry_date": "2024-05-19",
+  "premium": 917.55,
+  "coverage_amount": 308181.33,
+  "beneficiary": "Tracy Atkins",
+  "sample_id": "insurance_document_0624"
+}

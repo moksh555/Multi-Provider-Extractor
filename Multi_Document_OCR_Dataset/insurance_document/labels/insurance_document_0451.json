@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-F46RF7BNH",
+  "policy_holder": "Jose Moreno",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-11-15",
+  "expiry_date": "2025-11-15",
+  "premium": 1588.03,
+  "coverage_amount": 446139.0,
+  "beneficiary": "Jay Anderson",
+  "sample_id": "insurance_document_0451"
+}

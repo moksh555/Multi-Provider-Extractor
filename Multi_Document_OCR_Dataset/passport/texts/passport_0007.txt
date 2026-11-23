@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Aaron Wong
+Passport No: P68403249
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P68403249",
+  "full_name": "Aaron Wong",
+  "nationality": "GB",
+  "date_of_birth": "2002-01-01",
+  "issue_date": "2021-03-30",
+  "expiry_date": "2031-03-30",
+  "place_of_birth": "North Danielle",
+  "sample_id": "passport_0007"
+}

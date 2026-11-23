@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL704126068",
+  "full_name": "Kevin Scott",
+  "date_of_birth": "1997-11-20",
+  "class": "D",
+  "issue_date": "2021-06-25",
+  "expiry_date": "2026-06-25",
+  "address": "25909 Henry Ports, Charlesmouth, NC 29331",
+  "sample_id": "driving_license_0220"
+}

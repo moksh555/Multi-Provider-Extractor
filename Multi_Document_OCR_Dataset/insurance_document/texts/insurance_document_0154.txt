@@ -1,0 +1,16 @@
+Insurance Policy POL-LAJAHCPZT
+Holder: William Mcgee
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LAJAHCPZT",
+  "policy_holder": "William Mcgee",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-05-22",
+  "expiry_date": "2024-05-22",
+  "premium": 2467.01,
+  "coverage_amount": 241314.89,
+  "beneficiary": "Jamie Johnson",
+  "sample_id": "insurance_document_0154"
+}

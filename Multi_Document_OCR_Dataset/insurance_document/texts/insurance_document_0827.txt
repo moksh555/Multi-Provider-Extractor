@@ -1,0 +1,16 @@
+Insurance Policy POL-VYQLG0K1I
+Holder: Gregory Garcia
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VYQLG0K1I",
+  "policy_holder": "Gregory Garcia",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-11-29",
+  "expiry_date": "2025-11-29",
+  "premium": 234.93,
+  "coverage_amount": 263662.04,
+  "beneficiary": "Shannon Carlson",
+  "sample_id": "insurance_document_0827"
+}

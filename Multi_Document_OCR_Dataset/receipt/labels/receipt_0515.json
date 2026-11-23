@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZNTGG50Y",
+  "merchant_name": "Decker Inc",
+  "date": "2026-04-09",
+  "subtotal": 666.8,
+  "tax": 61.22,
+  "discount": 0.86,
+  "total": 727.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$63.58",
+      "line_total": "$254.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$61.99",
+      "line_total": "$61.99"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$20.07",
+      "line_total": "$60.21"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$27.19",
+      "line_total": "$81.57"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$49.20",
+      "line_total": "$196.80"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$3.97",
+      "line_total": "$11.91"
+    }
+  ],
+  "sample_id": "receipt_0515"
+}

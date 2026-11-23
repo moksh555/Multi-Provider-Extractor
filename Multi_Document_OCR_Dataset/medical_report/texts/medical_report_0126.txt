@@ -1,0 +1,14 @@
+Medical Report MED-ZPZVOWI0
+Patient: Sharon Cannon
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZPZVOWI0",
+  "patient_name": "Sharon Cannon",
+  "visit_date": "2026-06-07",
+  "doctor_name": "Dr. Sheri Dawson",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0126"
+}

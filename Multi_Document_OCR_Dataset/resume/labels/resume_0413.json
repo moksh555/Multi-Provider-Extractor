@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Sarah Chavez",
+  "email": "lisabonilla@example.com",
+  "phone": "793.330.5484",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Streamlit",
+    "Computer Vision",
+    "TensorFlow",
+    "Python",
+    "PyTorch",
+    "Pandas",
+    "SQL",
+    "FastAPI",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0413"
+}

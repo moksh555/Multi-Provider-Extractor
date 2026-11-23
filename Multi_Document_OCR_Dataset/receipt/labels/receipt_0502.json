@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HWHM54XR",
+  "merchant_name": "Wilson Inc",
+  "date": "2024-01-27",
+  "subtotal": 517.8,
+  "tax": 37.59,
+  "discount": 11.44,
+  "total": 543.95,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$1.24",
+      "line_total": "$3.72"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$5.85",
+      "line_total": "$11.70"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$42.42",
+      "line_total": "$169.68"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$9.72",
+      "line_total": "$38.88"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$23.39",
+      "line_total": "$46.78"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$61.76",
+      "line_total": "$247.04"
+    }
+  ],
+  "sample_id": "receipt_0502"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-FJ7UPFLN4
+Holder: Sarah Phillips
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FJ7UPFLN4",
+  "policy_holder": "Sarah Phillips",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-02-01",
+  "expiry_date": "2027-02-01",
+  "premium": 1677.97,
+  "coverage_amount": 345574.84,
+  "beneficiary": "Elizabeth Eaton",
+  "sample_id": "insurance_document_0166"
+}

@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0275",
+  "invoice_number": "INV-2026-0275",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "166 Dhanmondi 27, Chattogram, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "155 Jumeirah Lake Towers, Dhaka, Bangladesh",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-02-20",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 9,
+      "unit_price": 185.21,
+      "amount": 1666.89
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 837.55,
+      "amount": 3350.2
+    }
+  ],
+  "subtotal": 5017.09,
+  "discount": 501.71,
+  "tax_rate": 0.075,
+  "tax": 338.65,
+  "shipping": 25,
+  "total": 4879.03,
+  "amount_paid": 2184.65,
+  "balance_due": 2694.38,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801289327900",
+  "po_number": "PO-91341"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Z23D4B1V",
+  "account_holder": "Cody Ross",
+  "account_number_masked": "****1201",
+  "period_start": "2025-11-26",
+  "period_end": "2025-12-26",
+  "opening_balance": 1506.49,
+  "closing_balance": 7348.76,
+  "transactions": 9,
+  "sample_id": "bank_statement_0990"
+}

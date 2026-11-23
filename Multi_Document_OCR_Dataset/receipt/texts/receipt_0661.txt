@@ -1,0 +1,67 @@
+Receipt RCT-LUPPH3NW
+Merchant: Kelly-Cox
+Date: 2024-07-06
+Total: $719.41
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LUPPH3NW",
+  "merchant_name": "Kelly-Cox",
+  "date": "2024-07-06",
+  "subtotal": 663.24,
+  "tax": 61.09,
+  "discount": 4.92,
+  "total": 719.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$76.93",
+      "line_total": "$307.72"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$16.42",
+      "line_total": "$49.26"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$59.94",
+      "line_total": "$59.94"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$46.48",
+      "line_total": "$46.48"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$20.64",
+      "line_total": "$20.64"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$25.28",
+      "line_total": "$101.12"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$10.58",
+      "line_total": "$31.74"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$46.34",
+      "line_total": "$46.34"
+    }
+  ],
+  "sample_id": "receipt_0661"
+}

@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Kimberly Caldwell",
+  "email": "jasonsosa@example.org",
+  "phone": "(984)366-1999",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "SQL",
+    "Computer Vision",
+    "Python",
+    "Pandas",
+    "TensorFlow",
+    "Streamlit",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_1000"
+}

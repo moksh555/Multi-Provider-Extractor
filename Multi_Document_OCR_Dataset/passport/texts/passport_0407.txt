@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: David Porter
+Passport No: P42560768
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P42560768",
+  "full_name": "David Porter",
+  "nationality": "BD",
+  "date_of_birth": "1992-05-08",
+  "issue_date": "2023-05-04",
+  "expiry_date": "2033-05-04",
+  "place_of_birth": "New Vanessahaven",
+  "sample_id": "passport_0407"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-WA5SUHN1
+Patient: Rose Garza
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WA5SUHN1",
+  "patient_name": "Rose Garza",
+  "visit_date": "2025-04-19",
+  "doctor_name": "Dr. Kellie Mcdonald",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0770"
+}

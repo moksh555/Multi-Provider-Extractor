@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-HQGA5TZK",
+  "patient_name": "Teresa Lawson",
+  "visit_date": "2026-09-28",
+  "doctor_name": "Dr. John Wood",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0521"
+}

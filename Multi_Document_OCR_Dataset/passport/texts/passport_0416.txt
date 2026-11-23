@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brad Fox
+Passport No: P63693246
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P63693246",
+  "full_name": "Brad Fox",
+  "nationality": "AE",
+  "date_of_birth": "1981-02-16",
+  "issue_date": "2025-04-21",
+  "expiry_date": "2035-04-21",
+  "place_of_birth": "South Jessica",
+  "sample_id": "passport_0416"
+}

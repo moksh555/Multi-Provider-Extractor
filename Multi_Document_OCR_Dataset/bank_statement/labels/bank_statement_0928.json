@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P48ARJS8",
+  "account_holder": "Christina Nichols",
+  "account_number_masked": "****8206",
+  "period_start": "2025-08-23",
+  "period_end": "2025-09-22",
+  "opening_balance": 1237.77,
+  "closing_balance": 6783.34,
+  "transactions": 10,
+  "sample_id": "bank_statement_0928"
+}

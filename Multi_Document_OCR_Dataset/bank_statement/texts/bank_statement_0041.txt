@@ -1,0 +1,16 @@
+Bank Statement STM-Q5QOB867
+Holder: Theresa Montoya
+Closing Balance: $2171.70
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Q5QOB867",
+  "account_holder": "Theresa Montoya",
+  "account_number_masked": "****2444",
+  "period_start": "2025-08-28",
+  "period_end": "2025-09-27",
+  "opening_balance": 2183.16,
+  "closing_balance": 2171.7,
+  "transactions": 10,
+  "sample_id": "bank_statement_0041"
+}

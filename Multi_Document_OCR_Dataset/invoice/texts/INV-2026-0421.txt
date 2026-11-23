@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0421
+Company: Nexus Digital Solutions
+Company Address: 148 Road 12, Banani, Dubai, UAE
+Customer: TechPoint BD
+Billing Address: 122 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-06-20
+Due Date: 2026-06-27
+Currency: BDT
+Subtotal: 4789.74
+Tax: 431.08
+Total: 4751.85
+Balance Due: 4751.85
+Status: unpaid

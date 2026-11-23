@@ -1,0 +1,27 @@
+Resume
+Kimberly Ferguson
+Software Engineer
+Skills: FastAPI, TensorFlow, Machine Learning, Computer Vision, Deep Learning, LangChain, Pandas, SQL, Docker, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Kimberly Ferguson",
+  "email": "lcarter@example.net",
+  "phone": "2447509286",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "FastAPI",
+    "TensorFlow",
+    "Machine Learning",
+    "Computer Vision",
+    "Deep Learning",
+    "LangChain",
+    "Pandas",
+    "SQL",
+    "Docker",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0058"
+}

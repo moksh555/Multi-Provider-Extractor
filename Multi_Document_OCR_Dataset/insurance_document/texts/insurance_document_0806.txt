@@ -1,0 +1,16 @@
+Insurance Policy POL-XSJZSB6ZW
+Holder: Elizabeth Ramos
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XSJZSB6ZW",
+  "policy_holder": "Elizabeth Ramos",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-06-10",
+  "expiry_date": "2024-06-10",
+  "premium": 604.46,
+  "coverage_amount": 77194.43,
+  "beneficiary": "Alicia Shaw",
+  "sample_id": "insurance_document_0806"
+}

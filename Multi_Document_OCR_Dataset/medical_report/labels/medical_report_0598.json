@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-513XJWBU",
+  "patient_name": "Gary Richmond",
+  "visit_date": "2026-11-28",
+  "doctor_name": "Dr. Robert Hodges",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0598"
+}

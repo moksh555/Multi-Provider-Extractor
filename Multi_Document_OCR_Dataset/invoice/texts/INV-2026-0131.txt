@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0131
+Company: Atlas Engineering Ltd.
+Company Address: 142 Al Barsha, Chattogram, Bangladesh
+Customer: Digital Learning Hub
+Billing Address: 53 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-04-28
+Due Date: 2026-06-12
+Currency: QAR
+Subtotal: 1469.92
+Tax: 0.0
+Total: 1490.52
+Balance Due: 0.0
+Status: paid

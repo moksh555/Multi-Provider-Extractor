@@ -1,0 +1,67 @@
+Receipt RCT-Q3Q5PCNI
+Merchant: Brown-Russell
+Date: 2024-08-22
+Total: $1088.86
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Q3Q5PCNI",
+  "merchant_name": "Brown-Russell",
+  "date": "2024-08-22",
+  "subtotal": 983.24,
+  "tax": 116.5,
+  "discount": 10.88,
+  "total": 1088.86,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$67.58",
+      "line_total": "$135.16"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$4.52",
+      "line_total": "$9.04"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$21.87",
+      "line_total": "$43.74"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$27.33",
+      "line_total": "$109.32"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$79.57",
+      "line_total": "$238.71"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$62.58",
+      "line_total": "$62.58"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$71.86",
+      "line_total": "$215.58"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$56.37",
+      "line_total": "$169.11"
+    }
+  ],
+  "sample_id": "receipt_0916"
+}

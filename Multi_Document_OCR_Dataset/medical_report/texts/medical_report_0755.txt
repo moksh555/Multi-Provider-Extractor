@@ -1,0 +1,14 @@
+Medical Report MED-AC7W4387
+Patient: Ashley Smith
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-AC7W4387",
+  "patient_name": "Ashley Smith",
+  "visit_date": "2024-03-26",
+  "doctor_name": "Dr. Dr. Melissa Hall",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0755"
+}

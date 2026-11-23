@@ -1,0 +1,16 @@
+Insurance Policy POL-XFQ8MYX44
+Holder: Travis Johnson
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XFQ8MYX44",
+  "policy_holder": "Travis Johnson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-02-17",
+  "expiry_date": "2026-02-17",
+  "premium": 2390.85,
+  "coverage_amount": 317131.6,
+  "beneficiary": "Jerry Watson",
+  "sample_id": "insurance_document_0068"
+}

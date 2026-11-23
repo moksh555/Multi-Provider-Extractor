@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brian Dixon
+Passport No: P41879224
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P41879224",
+  "full_name": "Brian Dixon",
+  "nationality": "GB",
+  "date_of_birth": "1986-07-06",
+  "issue_date": "2024-03-20",
+  "expiry_date": "2034-03-20",
+  "place_of_birth": "Catherinemouth",
+  "sample_id": "passport_0240"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7CSUYTAUL",
+  "policy_holder": "Kelly Figueroa",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-05-16",
+  "expiry_date": "2024-05-16",
+  "premium": 2427.68,
+  "coverage_amount": 147425.41,
+  "beneficiary": "Christopher Armstrong",
+  "sample_id": "insurance_document_0404"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-T8X2G24G
+Holder: Lisa Ellis
+Closing Balance: $6457.48
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T8X2G24G",
+  "account_holder": "Lisa Ellis",
+  "account_number_masked": "****5528",
+  "period_start": "2024-01-27",
+  "period_end": "2024-02-26",
+  "opening_balance": 3558.1,
+  "closing_balance": 6457.48,
+  "transactions": 11,
+  "sample_id": "bank_statement_0385"
+}

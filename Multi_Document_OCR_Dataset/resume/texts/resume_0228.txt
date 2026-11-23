@@ -1,0 +1,27 @@
+Resume
+Nancy Landry
+Data Analyst
+Skills: FastAPI, Docker, PyTorch, SQL, TensorFlow, NLP, Deep Learning, Pandas, LangChain, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Nancy Landry",
+  "email": "barkeralicia@example.net",
+  "phone": "206.332.3654",
+  "job_title": "Data Analyst",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "Docker",
+    "PyTorch",
+    "SQL",
+    "TensorFlow",
+    "NLP",
+    "Deep Learning",
+    "Pandas",
+    "LangChain",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0228"
+}

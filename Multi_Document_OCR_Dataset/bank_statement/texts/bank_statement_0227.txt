@@ -1,0 +1,16 @@
+Bank Statement STM-DET4KERZ
+Holder: Antonio Thompson
+Closing Balance: $4928.82
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DET4KERZ",
+  "account_holder": "Antonio Thompson",
+  "account_number_masked": "****9580",
+  "period_start": "2025-03-12",
+  "period_end": "2025-04-11",
+  "opening_balance": 4863.89,
+  "closing_balance": 4928.82,
+  "transactions": 11,
+  "sample_id": "bank_statement_0227"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-8F2U9MPG
+Holder: Patricia Johnson
+Closing Balance: $9780.79
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8F2U9MPG",
+  "account_holder": "Patricia Johnson",
+  "account_number_masked": "****8749",
+  "period_start": "2024-01-12",
+  "period_end": "2024-02-11",
+  "opening_balance": 3759.2,
+  "closing_balance": 9780.79,
+  "transactions": 12,
+  "sample_id": "bank_statement_0949"
+}

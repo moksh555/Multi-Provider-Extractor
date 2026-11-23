@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BB61PDBH",
+  "merchant_name": "Bryant PLC",
+  "date": "2022-09-02",
+  "subtotal": 546.69,
+  "tax": 48.92,
+  "discount": 5.73,
+  "total": 589.88,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$4.02",
+      "line_total": "$8.04"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$31.48",
+      "line_total": "$31.48"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$33.20",
+      "line_total": "$33.20"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$8.00",
+      "line_total": "$24.00"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$74.55",
+      "line_total": "$298.20"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$50.59",
+      "line_total": "$151.77"
+    }
+  ],
+  "sample_id": "receipt_0937"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-33LIFNCR
+Holder: Kendra Burton
+Closing Balance: $5934.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-33LIFNCR",
+  "account_holder": "Kendra Burton",
+  "account_number_masked": "****0976",
+  "period_start": "2026-01-16",
+  "period_end": "2026-02-15",
+  "opening_balance": 3936.43,
+  "closing_balance": 5934.36,
+  "transactions": 13,
+  "sample_id": "bank_statement_0168"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0259
+Company: Nova Medical Supplies
+Company Address: 54 Doha Business Park, Dubai, UAE
+Customer: Karim Enterprise
+Billing Address: 194 Motijheel C/A, Dhaka, Bangladesh
+Invoice Date: 2026-01-16
+Due Date: 2026-02-15
+Currency: USD
+Subtotal: 10893.06
+Tax: 0.0
+Total: 10353.41
+Balance Due: 0.0
+Status: paid

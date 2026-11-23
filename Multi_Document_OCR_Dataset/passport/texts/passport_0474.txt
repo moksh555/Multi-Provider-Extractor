@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Tommy Smith
+Passport No: P57561886
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P57561886",
+  "full_name": "Tommy Smith",
+  "nationality": "GB",
+  "date_of_birth": "1998-06-24",
+  "issue_date": "2021-12-08",
+  "expiry_date": "2031-12-08",
+  "place_of_birth": "West Rebeccaview",
+  "sample_id": "passport_0474"
+}

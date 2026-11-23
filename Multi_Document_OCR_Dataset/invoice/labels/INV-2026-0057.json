@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0057",
+  "invoice_number": "INV-2026-0057",
+  "company_name": "UrbanBuild Construction",
+  "company_address": "29 Al Barsha, Sylhet, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "231 Jumeirah Lake Towers, Doha, Qatar",
+  "invoice_date": "2026-06-18",
+  "due_date": "2026-06-25",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 699.2,
+      "amount": 8390.4
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 144.78,
+      "amount": 723.9
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 710.78,
+      "amount": 7107.8
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 11,
+      "unit_price": 762.87,
+      "amount": 8391.57
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 644.22,
+      "amount": 4509.54
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 12,
+      "unit_price": 617.75,
+      "amount": 7413.0
+    }
+  ],
+  "subtotal": 36536.21,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 36561.21,
+  "amount_paid": 22767.7,
+  "balance_due": 13793.51,
+  "vendor_email": "urbanbuildconstruction@example.com",
+  "vendor_phone": "+8801048379370",
+  "po_number": "PO-29439"
+}

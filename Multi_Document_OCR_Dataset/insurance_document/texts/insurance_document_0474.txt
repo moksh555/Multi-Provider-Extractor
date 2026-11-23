@@ -1,0 +1,16 @@
+Insurance Policy POL-NNKM95D0P
+Holder: Allen Shannon
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NNKM95D0P",
+  "policy_holder": "Allen Shannon",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-06-25",
+  "expiry_date": "2026-06-25",
+  "premium": 806.95,
+  "coverage_amount": 404779.66,
+  "beneficiary": "Noah Pitts",
+  "sample_id": "insurance_document_0474"
+}

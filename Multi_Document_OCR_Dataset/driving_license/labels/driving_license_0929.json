@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL440929914",
+  "full_name": "James Taylor",
+  "date_of_birth": "1984-03-01",
+  "class": "D",
+  "issue_date": "2026-06-23",
+  "expiry_date": "2031-06-23",
+  "address": "32894 Greer Forges Apt. 891, Richardview, CO 90215",
+  "sample_id": "driving_license_0929"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-J9M4SMZOC
+Holder: Michael Walker
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-J9M4SMZOC",
+  "policy_holder": "Michael Walker",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-12-21",
+  "expiry_date": "2025-12-21",
+  "premium": 1681.12,
+  "coverage_amount": 285942.4,
+  "beneficiary": "Michael Watkins",
+  "sample_id": "insurance_document_0789"
+}

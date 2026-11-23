@@ -1,0 +1,16 @@
+Insurance Policy POL-EBE5407K5
+Holder: Amanda Massey
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-EBE5407K5",
+  "policy_holder": "Amanda Massey",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-06-24",
+  "expiry_date": "2025-06-24",
+  "premium": 1350.39,
+  "coverage_amount": 223529.93,
+  "beneficiary": "Mark Simmons",
+  "sample_id": "insurance_document_0525"
+}

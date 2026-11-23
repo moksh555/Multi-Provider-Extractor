@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL769748088",
+  "full_name": "Susan Sullivan",
+  "date_of_birth": "1963-07-31",
+  "class": "D",
+  "issue_date": "2024-01-28",
+  "expiry_date": "2029-01-28",
+  "address": "6491 Ramos Springs Suite 546, East John, MP 14450",
+  "sample_id": "driving_license_0960"
+}

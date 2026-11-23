@@ -1,0 +1,14 @@
+Medical Report MED-L8ZY8B3J
+Patient: Robert Martinez
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-L8ZY8B3J",
+  "patient_name": "Robert Martinez",
+  "visit_date": "2026-12-15",
+  "doctor_name": "Dr. Cynthia George",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0346"
+}

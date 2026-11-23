@@ -1,0 +1,14 @@
+Medical Report MED-VZ42PNAU
+Patient: Lee Price
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-VZ42PNAU",
+  "patient_name": "Lee Price",
+  "visit_date": "2024-04-08",
+  "doctor_name": "Dr. Joe Gilbert",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0545"
+}

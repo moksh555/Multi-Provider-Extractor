@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0134
+Company: Royal Diagnostics Center
+Company Address: 26 Dhanmondi 27, Chattogram, Bangladesh
+Customer: Future School
+Billing Address: 209 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-04-21
+Due Date: 2026-06-05
+Currency: QAR
+Subtotal: 12591.32
+Tax: 1888.7
+Total: 14480.02
+Balance Due: 4908.56
+Status: partial

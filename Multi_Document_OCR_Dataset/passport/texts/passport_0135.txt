@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brian Burns
+Passport No: P43003604
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P43003604",
+  "full_name": "Brian Burns",
+  "nationality": "US",
+  "date_of_birth": "1970-11-03",
+  "issue_date": "2024-04-25",
+  "expiry_date": "2034-04-25",
+  "place_of_birth": "Lake Anthonybury",
+  "sample_id": "passport_0135"
+}

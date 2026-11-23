@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "Michael Williams Jr.",
+  "email": "lydia72@example.org",
+  "phone": "725-824-2352",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Docker",
+    "AWS",
+    "Pandas",
+    "Computer Vision",
+    "Deep Learning",
+    "Python",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0377"
+}

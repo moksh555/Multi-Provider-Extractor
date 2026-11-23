@@ -1,0 +1,16 @@
+Synthetic Driving License
+Erin Cole
+License: DL351347791
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL351347791",
+  "full_name": "Erin Cole",
+  "date_of_birth": "1979-12-06",
+  "class": "D",
+  "issue_date": "2021-03-12",
+  "expiry_date": "2026-03-12",
+  "address": "022 Johnson Land Suite 442, Thomasmouth, TX 39151",
+  "sample_id": "driving_license_0691"
+}

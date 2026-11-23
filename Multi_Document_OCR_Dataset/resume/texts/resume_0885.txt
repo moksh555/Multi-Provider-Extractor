@@ -1,0 +1,26 @@
+Resume
+Sandra Gomez
+Backend Developer
+Skills: LangChain, Streamlit, Deep Learning, Python, SQL, NLP, AWS, Docker, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Sandra Gomez",
+  "email": "stephen92@example.com",
+  "phone": "+1-405-548-7487x0566",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "LangChain",
+    "Streamlit",
+    "Deep Learning",
+    "Python",
+    "SQL",
+    "NLP",
+    "AWS",
+    "Docker",
+    "Machine Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0885"
+}

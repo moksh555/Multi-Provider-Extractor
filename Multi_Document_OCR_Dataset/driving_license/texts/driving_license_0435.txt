@@ -1,0 +1,16 @@
+Synthetic Driving License
+Debra Flores
+License: DL177076222
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL177076222",
+  "full_name": "Debra Flores",
+  "date_of_birth": "1988-08-18",
+  "class": "A",
+  "issue_date": "2024-12-11",
+  "expiry_date": "2029-12-11",
+  "address": "0630 Spencer Radial, East Kathrynberg, ME 74982",
+  "sample_id": "driving_license_0435"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0625
+Company: SkyNet Office Mart
+Company Address: 150 Agrabad C/A, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 95 Doha Business Park, Doha, Qatar
+Invoice Date: 2026-01-07
+Due Date: 2026-02-06
+Currency: USD
+Subtotal: 11415.21
+Tax: 856.14
+Total: 12271.35
+Balance Due: 0.0
+Status: paid

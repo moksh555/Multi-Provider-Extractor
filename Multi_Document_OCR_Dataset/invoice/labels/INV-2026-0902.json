@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0902",
+  "invoice_number": "INV-2026-0902",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "79 Road 12, Banani, Doha, Qatar",
+  "customer_name": "Rahim Traders",
+  "billing_address": "91 Mirpur DOHS, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-12",
+  "due_date": "2026-04-27",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 10,
+      "unit_price": 427.47,
+      "amount": 4274.7
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 385.91,
+      "amount": 1543.64
+    }
+  ],
+  "subtotal": 5818.34,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 581.83,
+  "shipping": 25,
+  "total": 6425.17,
+  "amount_paid": 2183.14,
+  "balance_due": 4242.03,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801998125276",
+  "po_number": "PO-48802"
+}

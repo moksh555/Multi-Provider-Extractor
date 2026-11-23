@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-6DYSAL8M",
+  "merchant_name": "Barber-Monroe",
+  "date": "2026-06-15",
+  "subtotal": 331.07,
+  "tax": 15.32,
+  "discount": 10.39,
+  "total": 336.0,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$13.24",
+      "line_total": "$26.48"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$41.11",
+      "line_total": "$41.11"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$70.24",
+      "line_total": "$210.72"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$13.19",
+      "line_total": "$52.76"
+    }
+  ],
+  "sample_id": "receipt_0049"
+}

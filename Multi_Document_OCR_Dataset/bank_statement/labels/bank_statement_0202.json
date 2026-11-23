@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XVS6AYLL",
+  "account_holder": "Alyssa Haley",
+  "account_number_masked": "****5222",
+  "period_start": "2024-06-21",
+  "period_end": "2024-07-21",
+  "opening_balance": 1977.15,
+  "closing_balance": 1893.64,
+  "transactions": 10,
+  "sample_id": "bank_statement_0202"
+}

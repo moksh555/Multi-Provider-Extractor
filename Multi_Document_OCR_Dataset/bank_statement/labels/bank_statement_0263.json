@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TRVXOI41",
+  "account_holder": "Suzanne Hardy",
+  "account_number_masked": "****5720",
+  "period_start": "2025-01-05",
+  "period_end": "2025-02-04",
+  "opening_balance": 3860.69,
+  "closing_balance": 5541.33,
+  "transactions": 9,
+  "sample_id": "bank_statement_0263"
+}

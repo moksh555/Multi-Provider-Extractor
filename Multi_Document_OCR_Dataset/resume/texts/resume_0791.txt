@@ -1,0 +1,27 @@
+Resume
+Tyrone Matthews
+Backend Developer
+Skills: Computer Vision, Docker, PyTorch, Python, Streamlit, NLP, Deep Learning, LangChain, TensorFlow, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Tyrone Matthews",
+  "email": "littleautumn@example.net",
+  "phone": "(967)924-0555x251",
+  "job_title": "Backend Developer",
+  "years_experience": 3,
+  "skills": [
+    "Computer Vision",
+    "Docker",
+    "PyTorch",
+    "Python",
+    "Streamlit",
+    "NLP",
+    "Deep Learning",
+    "LangChain",
+    "TensorFlow",
+    "Machine Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0791"
+}

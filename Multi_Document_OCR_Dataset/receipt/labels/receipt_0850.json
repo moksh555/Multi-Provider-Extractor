@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IPSB53XQ",
+  "merchant_name": "Johnson, Moore and Lee",
+  "date": "2021-10-21",
+  "subtotal": 68.77,
+  "tax": 2.67,
+  "discount": 3.68,
+  "total": 67.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$20.25",
+      "line_total": "$20.25"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$5.75",
+      "line_total": "$23.00"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$12.76",
+      "line_total": "$25.52"
+    }
+  ],
+  "sample_id": "receipt_0850"
+}

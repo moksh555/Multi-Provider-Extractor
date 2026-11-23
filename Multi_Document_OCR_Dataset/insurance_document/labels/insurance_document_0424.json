@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7UBBRNU8C",
+  "policy_holder": "Kevin Miles",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-26",
+  "expiry_date": "2025-07-26",
+  "premium": 1226.55,
+  "coverage_amount": 48334.95,
+  "beneficiary": "Barbara Pope",
+  "sample_id": "insurance_document_0424"
+}

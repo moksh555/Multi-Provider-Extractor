@@ -1,0 +1,24 @@
+Resume
+Seth Duncan
+Data Analyst
+Skills: TensorFlow, Docker, Pandas, SQL, LangChain, PyTorch, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Seth Duncan",
+  "email": "randy61@example.com",
+  "phone": "8994511035",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "Pandas",
+    "SQL",
+    "LangChain",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0929"
+}

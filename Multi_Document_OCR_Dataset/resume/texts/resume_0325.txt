@@ -1,0 +1,25 @@
+Resume
+John King
+Software Engineer
+Skills: PyTorch, Streamlit, SQL, Deep Learning, Pandas, NLP, Computer Vision, Python
+
+{
+  "category": "resume",
+  "candidate_name": "John King",
+  "email": "ikelley@example.com",
+  "phone": "9702946577",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "PyTorch",
+    "Streamlit",
+    "SQL",
+    "Deep Learning",
+    "Pandas",
+    "NLP",
+    "Computer Vision",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0325"
+}

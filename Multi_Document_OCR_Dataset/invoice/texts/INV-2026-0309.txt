@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0309
+Company: Summit Agro Foods
+Company Address: 178 Gulshan Avenue, Riyadh, Saudi Arabia
+Customer: Global Mart
+Billing Address: 25 Doha Business Park, Dubai, UAE
+Invoice Date: 2026-03-14
+Due Date: 2026-03-21
+Currency: BDT
+Subtotal: 29661.62
+Tax: 2224.62
+Total: 31886.24
+Balance Due: 31886.24
+Status: unpaid

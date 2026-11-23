@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-KCVEN3V1W",
+  "policy_holder": "Jack Carter",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-07-19",
+  "expiry_date": "2024-07-19",
+  "premium": 1138.99,
+  "coverage_amount": 496053.31,
+  "beneficiary": "Brooke Walters",
+  "sample_id": "insurance_document_0498"
+}

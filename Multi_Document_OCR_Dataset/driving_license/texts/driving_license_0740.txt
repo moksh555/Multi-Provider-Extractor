@@ -1,0 +1,16 @@
+Synthetic Driving License
+Troy Jackson
+License: DL597717368
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL597717368",
+  "full_name": "Troy Jackson",
+  "date_of_birth": "1978-06-30",
+  "class": "B",
+  "issue_date": "2024-12-16",
+  "expiry_date": "2029-12-16",
+  "address": "7215 Stephanie Harbor, Staceytown, VT 78847",
+  "sample_id": "driving_license_0740"
+}

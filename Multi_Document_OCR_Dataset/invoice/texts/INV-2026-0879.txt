@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0879
+Company: Delta Insurance Services
+Company Address: 79 Jumeirah Lake Towers, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 164 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-01-03
+Due Date: 2026-01-18
+Currency: BDT
+Subtotal: 16235.62
+Tax: 1217.67
+Total: 17463.29
+Balance Due: 17463.29
+Status: unpaid

@@ -1,0 +1,16 @@
+Insurance Policy POL-FLSE45BG3
+Holder: Judith Bradley
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FLSE45BG3",
+  "policy_holder": "Judith Bradley",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-05-25",
+  "expiry_date": "2025-05-25",
+  "premium": 198.71,
+  "coverage_amount": 34774.05,
+  "beneficiary": "Elizabeth Mccormick",
+  "sample_id": "insurance_document_0253"
+}

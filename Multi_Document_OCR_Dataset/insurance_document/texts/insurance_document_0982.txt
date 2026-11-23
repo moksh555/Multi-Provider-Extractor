@@ -1,0 +1,16 @@
+Insurance Policy POL-R2BC9R4X1
+Holder: Vernon Walters
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-R2BC9R4X1",
+  "policy_holder": "Vernon Walters",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-07-22",
+  "expiry_date": "2024-07-22",
+  "premium": 2137.7,
+  "coverage_amount": 54567.2,
+  "beneficiary": "Nicole Andrews",
+  "sample_id": "insurance_document_0982"
+}

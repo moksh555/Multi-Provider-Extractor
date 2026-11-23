@@ -1,0 +1,16 @@
+Synthetic Driving License
+Suzanne Mooney
+License: DL132692083
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL132692083",
+  "full_name": "Suzanne Mooney",
+  "date_of_birth": "1970-03-04",
+  "class": "C",
+  "issue_date": "2024-04-29",
+  "expiry_date": "2029-04-29",
+  "address": "40580 Jacqueline View Suite 140, South Jacqueline, MO 82449",
+  "sample_id": "driving_license_0316"
+}

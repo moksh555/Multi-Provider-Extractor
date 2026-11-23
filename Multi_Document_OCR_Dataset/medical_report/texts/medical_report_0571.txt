@@ -1,0 +1,14 @@
+Medical Report MED-C0CSFHS1
+Patient: Shannon Crosby
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-C0CSFHS1",
+  "patient_name": "Shannon Crosby",
+  "visit_date": "2025-01-30",
+  "doctor_name": "Dr. Michael Martin",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0571"
+}

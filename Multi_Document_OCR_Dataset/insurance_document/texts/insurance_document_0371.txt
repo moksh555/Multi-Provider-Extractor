@@ -1,0 +1,16 @@
+Insurance Policy POL-0UCC1M3O5
+Holder: Jeffrey White
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0UCC1M3O5",
+  "policy_holder": "Jeffrey White",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-08-29",
+  "expiry_date": "2027-08-29",
+  "premium": 2141.76,
+  "coverage_amount": 465040.05,
+  "beneficiary": "Ashley Gonzales",
+  "sample_id": "insurance_document_0371"
+}

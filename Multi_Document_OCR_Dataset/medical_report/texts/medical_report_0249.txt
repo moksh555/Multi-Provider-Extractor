@@ -1,0 +1,14 @@
+Medical Report MED-O201U6K5
+Patient: William Munoz
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-O201U6K5",
+  "patient_name": "William Munoz",
+  "visit_date": "2026-07-12",
+  "doctor_name": "Dr. Angel Mcdonald",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0249"
+}

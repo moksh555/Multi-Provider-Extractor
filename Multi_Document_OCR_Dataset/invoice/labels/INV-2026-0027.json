@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0027",
+  "invoice_number": "INV-2026-0027",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "95 Agrabad C/A, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "202 Sheikh Zayed Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-01-18",
+  "due_date": "2026-02-02",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 241.47,
+      "amount": 241.47
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 3,
+      "unit_price": 462.86,
+      "amount": 1388.58
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 564.61,
+      "amount": 1129.22
+    }
+  ],
+  "subtotal": 2759.27,
+  "discount": 55.19,
+  "tax_rate": 0.05,
+  "tax": 135.2,
+  "shipping": 0,
+  "total": 2839.28,
+  "amount_paid": 0,
+  "balance_due": 2839.28,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801072310757",
+  "po_number": "PO-47515"
+}

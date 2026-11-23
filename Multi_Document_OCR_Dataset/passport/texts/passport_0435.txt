@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jodi Richardson
+Passport No: P35864005
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P35864005",
+  "full_name": "Jodi Richardson",
+  "nationality": "BD",
+  "date_of_birth": "1985-03-26",
+  "issue_date": "2022-05-08",
+  "expiry_date": "2032-05-08",
+  "place_of_birth": "Albertside",
+  "sample_id": "passport_0435"
+}

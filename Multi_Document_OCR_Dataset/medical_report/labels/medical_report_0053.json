@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RC3ZKT4P",
+  "patient_name": "Debbie Cobb",
+  "visit_date": "2025-09-08",
+  "doctor_name": "Dr. Paula Garcia",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0053"
+}

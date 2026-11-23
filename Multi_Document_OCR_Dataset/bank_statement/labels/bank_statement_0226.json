@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-5VIF81J6",
+  "account_holder": "Ariel Moore",
+  "account_number_masked": "****4509",
+  "period_start": "2025-11-05",
+  "period_end": "2025-12-05",
+  "opening_balance": 1860.64,
+  "closing_balance": 1333.67,
+  "transactions": 10,
+  "sample_id": "bank_statement_0226"
+}

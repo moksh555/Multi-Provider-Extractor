@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-RFT5P0Q2",
+  "merchant_name": "Matthews PLC",
+  "date": "2021-08-19",
+  "subtotal": 833.8,
+  "tax": 25.54,
+  "discount": 11.97,
+  "total": 847.37,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$9.84",
+      "line_total": "$39.36"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$34.71",
+      "line_total": "$34.71"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$78.10",
+      "line_total": "$312.40"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$71.61",
+      "line_total": "$143.22"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$39.01",
+      "line_total": "$117.03"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$39.33",
+      "line_total": "$78.66"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$36.35",
+      "line_total": "$36.35"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$72.07",
+      "line_total": "$72.07"
+    }
+  ],
+  "sample_id": "receipt_0690"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0741",
+  "invoice_number": "INV-2026-0741",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "13 Al Barsha, Chattogram, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "159 Uttara Sector 7, Sylhet, Bangladesh",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-07-24",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 6,
+      "unit_price": 508.99,
+      "amount": 3053.94
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 12,
+      "unit_price": 268.37,
+      "amount": 3220.44
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 6,
+      "unit_price": 135.43,
+      "amount": 812.58
+    },
+    {
+      "description": "API Integration",
+      "quantity": 12,
+      "unit_price": 225.16,
+      "amount": 2701.92
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 244.84,
+      "amount": 244.84
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 5,
+      "unit_price": 103.15,
+      "amount": 515.75
+    }
+  ],
+  "subtotal": 10549.47,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 791.21,
+  "shipping": 50,
+  "total": 11390.68,
+  "amount_paid": 0,
+  "balance_due": 11390.68,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801407639929",
+  "po_number": "PO-97877"
+}

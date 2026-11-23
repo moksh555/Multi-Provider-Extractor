@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: April Lee
+Passport No: P08037976
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P08037976",
+  "full_name": "April Lee",
+  "nationality": "BD",
+  "date_of_birth": "1990-08-14",
+  "issue_date": "2023-12-22",
+  "expiry_date": "2033-12-22",
+  "place_of_birth": "East Lauraville",
+  "sample_id": "passport_0913"
+}

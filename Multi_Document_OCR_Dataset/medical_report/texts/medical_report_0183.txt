@@ -1,0 +1,14 @@
+Medical Report MED-F3YS9VRC
+Patient: Felicia Kramer
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-F3YS9VRC",
+  "patient_name": "Felicia Kramer",
+  "visit_date": "2025-01-05",
+  "doctor_name": "Dr. Angela Duffy",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0183"
+}

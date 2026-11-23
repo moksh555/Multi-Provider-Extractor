@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0524
+Company: Delta Insurance Services
+Company Address: 183 Agrabad C/A, Chattogram, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 15 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-04-05
+Due Date: 2026-04-20
+Currency: AED
+Subtotal: 25593.03
+Tax: 1919.48
+Total: 27522.51
+Balance Due: 0.0
+Status: paid

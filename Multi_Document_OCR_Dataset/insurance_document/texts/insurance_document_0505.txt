@@ -1,0 +1,16 @@
+Insurance Policy POL-70CHQI014
+Holder: Mitchell Phillips
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-70CHQI014",
+  "policy_holder": "Mitchell Phillips",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-10-14",
+  "expiry_date": "2025-10-14",
+  "premium": 2167.24,
+  "coverage_amount": 456457.52,
+  "beneficiary": "Frank Gibbs",
+  "sample_id": "insurance_document_0505"
+}

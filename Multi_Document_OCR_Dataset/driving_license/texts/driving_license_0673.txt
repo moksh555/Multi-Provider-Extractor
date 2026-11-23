@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jennifer Wise
+License: DL339089191
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL339089191",
+  "full_name": "Jennifer Wise",
+  "date_of_birth": "1999-02-21",
+  "class": "C",
+  "issue_date": "2022-11-11",
+  "expiry_date": "2027-11-11",
+  "address": "197 Norman Station Suite 851, South Amanda, MS 88937",
+  "sample_id": "driving_license_0673"
+}

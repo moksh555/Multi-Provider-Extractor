@@ -1,0 +1,23 @@
+Resume
+Karen Guzman
+Data Analyst
+Skills: AWS, Machine Learning, LangChain, NLP, Streamlit, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Karen Guzman",
+  "email": "chambersnathan@example.org",
+  "phone": "798.255.3237",
+  "job_title": "Data Analyst",
+  "years_experience": 3,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "LangChain",
+    "NLP",
+    "Streamlit",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0661"
+}

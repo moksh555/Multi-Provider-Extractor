@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-RYYIQEZR",
+  "account_holder": "Tonya Kemp",
+  "account_number_masked": "****0226",
+  "period_start": "2026-05-05",
+  "period_end": "2026-06-04",
+  "opening_balance": 3224.64,
+  "closing_balance": 7607.3,
+  "transactions": 14,
+  "sample_id": "bank_statement_0695"
+}

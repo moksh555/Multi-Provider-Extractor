@@ -1,0 +1,19 @@
+{
+  "category": "resume",
+  "candidate_name": "William Jones",
+  "email": "griffinmary@example.net",
+  "phone": "(872)592-9428",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "LangChain",
+    "Docker",
+    "TensorFlow",
+    "Python",
+    "Computer Vision",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0723"
+}

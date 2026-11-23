@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Amanda Carpenter
+Passport No: P03439081
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P03439081",
+  "full_name": "Amanda Carpenter",
+  "nationality": "AE",
+  "date_of_birth": "1999-02-21",
+  "issue_date": "2022-06-04",
+  "expiry_date": "2032-06-04",
+  "place_of_birth": "Terryton",
+  "sample_id": "passport_0167"
+}

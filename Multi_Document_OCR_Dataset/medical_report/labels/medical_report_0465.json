@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-HOO4OUAA",
+  "patient_name": "Tara Miller",
+  "visit_date": "2024-03-20",
+  "doctor_name": "Dr. Gregory Hall",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0465"
+}

@@ -1,0 +1,61 @@
+Receipt RCT-WCYUKND1
+Merchant: Gray Inc
+Date: 2023-08-13
+Total: $650.42
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WCYUKND1",
+  "merchant_name": "Gray Inc",
+  "date": "2023-08-13",
+  "subtotal": 624.6,
+  "tax": 26.48,
+  "discount": 0.66,
+  "total": 650.42,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$31.33",
+      "line_total": "$125.32"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$27.83",
+      "line_total": "$27.83"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$41.86",
+      "line_total": "$167.44"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$9.11",
+      "line_total": "$9.11"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$72.45",
+      "line_total": "$144.90"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$29.08",
+      "line_total": "$87.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$15.69",
+      "line_total": "$62.76"
+    }
+  ],
+  "sample_id": "receipt_0257"
+}

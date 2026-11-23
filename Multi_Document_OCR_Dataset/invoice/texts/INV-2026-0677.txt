@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0677
+Company: BrightStar Electronics
+Company Address: 35 Motijheel C/A, Riyadh, Saudi Arabia
+Customer: Sunrise Apparel
+Billing Address: 40 Gulshan Avenue, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-04
+Due Date: 2026-04-19
+Currency: QAR
+Subtotal: 29044.6
+Tax: 2759.24
+Total: 30351.61
+Balance Due: 30351.61
+Status: overdue

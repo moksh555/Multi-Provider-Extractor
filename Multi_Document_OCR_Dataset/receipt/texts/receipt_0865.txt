@@ -1,0 +1,67 @@
+Receipt RCT-YWS3NC62
+Merchant: Ellison-Fisher
+Date: 2021-04-22
+Total: $767.93
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-YWS3NC62",
+  "merchant_name": "Ellison-Fisher",
+  "date": "2021-04-22",
+  "subtotal": 740.51,
+  "tax": 28.4,
+  "discount": 0.98,
+  "total": 767.93,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$31.28",
+      "line_total": "$93.84"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$60.20",
+      "line_total": "$120.40"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$51.10",
+      "line_total": "$51.10"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$38.94",
+      "line_total": "$77.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$47.06",
+      "line_total": "$188.24"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$62.25",
+      "line_total": "$124.50"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$19.31",
+      "line_total": "$38.62"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$45.93",
+      "line_total": "$45.93"
+    }
+  ],
+  "sample_id": "receipt_0865"
+}

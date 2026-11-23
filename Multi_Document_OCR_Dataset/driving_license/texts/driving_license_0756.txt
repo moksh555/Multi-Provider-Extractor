@@ -1,0 +1,16 @@
+Synthetic Driving License
+Julie Rodriguez MD
+License: DL640154511
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL640154511",
+  "full_name": "Julie Rodriguez MD",
+  "date_of_birth": "1972-09-03",
+  "class": "B",
+  "issue_date": "2020-11-19",
+  "expiry_date": "2025-11-19",
+  "address": "13695 Rodgers Mills, Lake Sarahborough, WI 28082",
+  "sample_id": "driving_license_0756"
+}

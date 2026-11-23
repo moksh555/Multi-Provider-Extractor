@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL091031647",
+  "full_name": "Ronald Potter",
+  "date_of_birth": "2002-04-23",
+  "class": "B",
+  "issue_date": "2020-09-12",
+  "expiry_date": "2025-09-12",
+  "address": "4517 Kimberly Freeway, Port Joan, UT 46458",
+  "sample_id": "driving_license_0150"
+}

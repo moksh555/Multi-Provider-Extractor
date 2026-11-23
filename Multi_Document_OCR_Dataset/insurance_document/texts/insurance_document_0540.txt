@@ -1,0 +1,16 @@
+Insurance Policy POL-XPW2GKQRA
+Holder: Christina Flores
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XPW2GKQRA",
+  "policy_holder": "Christina Flores",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-11-09",
+  "expiry_date": "2024-11-09",
+  "premium": 1878.3,
+  "coverage_amount": 228180.31,
+  "beneficiary": "Craig Raymond",
+  "sample_id": "insurance_document_0540"
+}

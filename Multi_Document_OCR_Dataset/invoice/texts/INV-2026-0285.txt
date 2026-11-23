@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0285
+Company: SkyNet Office Mart
+Company Address: 97 Doha Business Park, Doha, Qatar
+Customer: Global Mart
+Billing Address: 142 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-01-24
+Due Date: 2026-02-08
+Currency: AED
+Subtotal: 6066.64
+Tax: 594.53
+Total: 6564.84
+Balance Due: 6564.84
+Status: unpaid

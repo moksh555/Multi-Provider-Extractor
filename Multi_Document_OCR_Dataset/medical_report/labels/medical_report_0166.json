@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-GW7RYEUB",
+  "patient_name": "Courtney Stewart",
+  "visit_date": "2025-03-22",
+  "doctor_name": "Dr. Roberta Mckinney",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0166"
+}

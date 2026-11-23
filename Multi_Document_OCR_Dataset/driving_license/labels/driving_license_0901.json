@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL295048587",
+  "full_name": "Gilbert Williams",
+  "date_of_birth": "1965-04-15",
+  "class": "C",
+  "issue_date": "2025-07-14",
+  "expiry_date": "2030-07-14",
+  "address": "9177 Hines Row, New Jason, NC 35075",
+  "sample_id": "driving_license_0901"
+}

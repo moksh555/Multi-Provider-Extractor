@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0867",
+  "invoice_number": "INV-2026-0867",
+  "company_name": "Nexus Digital Solutions",
+  "company_address": "193 Zindabazar Road, Doha, Qatar",
+  "customer_name": "TechPoint BD",
+  "billing_address": "67 Dhanmondi 27, Dubai, UAE",
+  "invoice_date": "2026-04-27",
+  "due_date": "2026-06-11",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 11,
+      "unit_price": 593.8,
+      "amount": 6531.8
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 257.82,
+      "amount": 257.82
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 9,
+      "unit_price": 504.02,
+      "amount": 4536.18
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 79.16,
+      "amount": 791.6
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 7,
+      "unit_price": 585.29,
+      "amount": 4097.03
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 378.62,
+      "amount": 2271.72
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 8,
+      "unit_price": 783.17,
+      "amount": 6265.36
+    }
+  ],
+  "subtotal": 24751.51,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 1856.36,
+  "shipping": 50,
+  "total": 26657.87,
+  "amount_paid": 19275.11,
+  "balance_due": 7382.76,
+  "vendor_email": "nexusdigitalsolutions@example.com",
+  "vendor_phone": "+8801987384351",
+  "po_number": "PO-57365"
+}

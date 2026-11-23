@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-ZRTGZYIZ",
+  "patient_name": "Matthew Cox",
+  "visit_date": "2024-06-04",
+  "doctor_name": "Dr. Kimberly Taylor",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0350"
+}

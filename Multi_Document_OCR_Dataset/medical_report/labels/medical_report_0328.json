@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-J4SCKSC6",
+  "patient_name": "Jason Black",
+  "visit_date": "2024-08-17",
+  "doctor_name": "Dr. Manuel Alvarado",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0328"
+}

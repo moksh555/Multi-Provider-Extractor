@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EOPTS2Q4",
+  "account_holder": "Matthew Dougherty",
+  "account_number_masked": "****7502",
+  "period_start": "2024-09-22",
+  "period_end": "2024-10-22",
+  "opening_balance": 4521.91,
+  "closing_balance": 6502.35,
+  "transactions": 13,
+  "sample_id": "bank_statement_0166"
+}

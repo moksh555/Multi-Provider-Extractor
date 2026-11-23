@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0331
+Company: Eastern Care Pharmacy
+Company Address: 164 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 160 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-02-13
+Due Date: 2026-03-15
+Currency: AED
+Subtotal: 5896.28
+Tax: 866.75
+Total: 6670.1
+Balance Due: 6670.1
+Status: unpaid

@@ -1,0 +1,27 @@
+Resume
+Jeff Bowman
+Data Analyst
+Skills: PyTorch, AWS, Computer Vision, Streamlit, TensorFlow, LangChain, SQL, Deep Learning, Machine Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Jeff Bowman",
+  "email": "thomas20@example.net",
+  "phone": "510-940-8384",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "PyTorch",
+    "AWS",
+    "Computer Vision",
+    "Streamlit",
+    "TensorFlow",
+    "LangChain",
+    "SQL",
+    "Deep Learning",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0549"
+}

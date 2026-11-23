@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-K68C0Y2Y",
+  "account_holder": "Yolanda Anderson",
+  "account_number_masked": "****5492",
+  "period_start": "2024-03-28",
+  "period_end": "2024-04-27",
+  "opening_balance": 3106.49,
+  "closing_balance": 4938.68,
+  "transactions": 9,
+  "sample_id": "bank_statement_0795"
+}

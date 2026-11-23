@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0693",
+  "invoice_number": "INV-2026-0693",
+  "company_name": "Golden Harvest Store",
+  "company_address": "70 Agrabad C/A, Riyadh, Saudi Arabia",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "39 Sheikh Zayed Road, Dubai, UAE",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-01-31",
+  "currency": "QAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 507.63,
+      "amount": 1522.89
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 458.91,
+      "amount": 2753.46
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 6,
+      "unit_price": 690.49,
+      "amount": 4142.94
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 7,
+      "unit_price": 717.23,
+      "amount": 5020.61
+    }
+  ],
+  "subtotal": 13439.9,
+  "discount": 1343.99,
+  "tax_rate": 0.1,
+  "tax": 1209.59,
+  "shipping": 25,
+  "total": 13330.5,
+  "amount_paid": 0,
+  "balance_due": 13330.5,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801421073938",
+  "po_number": "PO-99928"
+}

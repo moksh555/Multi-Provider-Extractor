@@ -1,0 +1,14 @@
+Medical Report MED-ZLKQOBRB
+Patient: Ryan Lee
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZLKQOBRB",
+  "patient_name": "Ryan Lee",
+  "visit_date": "2025-09-28",
+  "doctor_name": "Dr. Jeremy Torres",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0852"
+}

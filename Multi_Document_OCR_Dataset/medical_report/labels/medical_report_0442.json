@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-N7UGD6B1",
+  "patient_name": "Daniel Howell",
+  "visit_date": "2025-05-26",
+  "doctor_name": "Dr. Kimberly Little",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0442"
+}

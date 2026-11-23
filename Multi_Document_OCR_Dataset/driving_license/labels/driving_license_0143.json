@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL948403425",
+  "full_name": "Zachary Webb",
+  "date_of_birth": "1964-05-13",
+  "class": "C",
+  "issue_date": "2020-07-26",
+  "expiry_date": "2025-07-26",
+  "address": "25457 Adriana Keys, Davismouth, MD 09305",
+  "sample_id": "driving_license_0143"
+}

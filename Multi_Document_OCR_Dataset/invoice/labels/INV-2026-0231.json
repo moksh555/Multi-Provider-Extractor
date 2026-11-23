@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0231",
+  "invoice_number": "INV-2026-0231",
+  "company_name": "Summit Agro Foods",
+  "company_address": "92 Mirpur DOHS, Chattogram, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "197 Motijheel C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-05-07",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 3,
+      "unit_price": 683.4,
+      "amount": 2050.2
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 7,
+      "unit_price": 360.51,
+      "amount": 2523.57
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 9,
+      "unit_price": 457.43,
+      "amount": 4116.87
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 9,
+      "unit_price": 699.62,
+      "amount": 6296.58
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 2,
+      "unit_price": 497.17,
+      "amount": 994.34
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 9,
+      "unit_price": 494.57,
+      "amount": 4451.13
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 12,
+      "unit_price": 81.46,
+      "amount": 977.52
+    }
+  ],
+  "subtotal": 21410.21,
+  "discount": 2141.02,
+  "tax_rate": 0.1,
+  "tax": 1926.92,
+  "shipping": 5,
+  "total": 21201.11,
+  "amount_paid": 0,
+  "balance_due": 21201.11,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801283411938",
+  "po_number": "PO-71485"
+}

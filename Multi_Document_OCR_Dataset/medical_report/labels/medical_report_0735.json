@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9Y8B8QTJ",
+  "patient_name": "Maria Edwards",
+  "visit_date": "2025-07-09",
+  "doctor_name": "Dr. Paul Hernandez",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0735"
+}

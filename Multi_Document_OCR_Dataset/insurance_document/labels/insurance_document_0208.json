@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-N8LFJDTVV",
+  "policy_holder": "Courtney Peterson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-09-10",
+  "expiry_date": "2027-09-10",
+  "premium": 2204.47,
+  "coverage_amount": 110668.4,
+  "beneficiary": "Chad Blair",
+  "sample_id": "insurance_document_0208"
+}

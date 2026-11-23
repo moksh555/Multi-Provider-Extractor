@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0343",
+  "invoice_number": "INV-2026-0343",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "13 Gulshan Avenue, Dhaka, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "186 Agrabad C/A, Dubai, UAE",
+  "invoice_date": "2026-05-29",
+  "due_date": "2026-06-28",
+  "currency": "AED",
+  "payment_terms": "Net 30",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 62.86,
+      "amount": 251.44
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 39.29,
+      "amount": 39.29
+    }
+  ],
+  "subtotal": 290.73,
+  "discount": 14.54,
+  "tax_rate": 0.15,
+  "tax": 41.43,
+  "shipping": 10,
+  "total": 327.62,
+  "amount_paid": 327.62,
+  "balance_due": 0.0,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801495007224",
+  "po_number": "PO-80282"
+}

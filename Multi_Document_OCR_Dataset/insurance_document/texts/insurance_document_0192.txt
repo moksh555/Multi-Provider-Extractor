@@ -1,0 +1,16 @@
+Insurance Policy POL-GY27VYLIE
+Holder: Jessica Rojas
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GY27VYLIE",
+  "policy_holder": "Jessica Rojas",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-11-21",
+  "expiry_date": "2027-11-21",
+  "premium": 456.43,
+  "coverage_amount": 200347.0,
+  "beneficiary": "Joel Wise",
+  "sample_id": "insurance_document_0192"
+}

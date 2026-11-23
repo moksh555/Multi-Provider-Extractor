@@ -1,0 +1,61 @@
+Receipt RCT-OV6SGP3J
+Merchant: Rice-Navarro
+Date: 2024-05-22
+Total: $924.55
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OV6SGP3J",
+  "merchant_name": "Rice-Navarro",
+  "date": "2024-05-22",
+  "subtotal": 845.92,
+  "tax": 81.19,
+  "discount": 2.56,
+  "total": 924.55,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$58.98",
+      "line_total": "$176.94"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$51.26",
+      "line_total": "$51.26"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$22.25",
+      "line_total": "$44.50"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$56.22",
+      "line_total": "$224.88"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$65.49",
+      "line_total": "$130.98"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$6.52",
+      "line_total": "$6.52"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$52.71",
+      "line_total": "$210.84"
+    }
+  ],
+  "sample_id": "receipt_0277"
+}

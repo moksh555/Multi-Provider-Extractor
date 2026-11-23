@@ -1,0 +1,23 @@
+Resume
+Judy Koch
+Backend Developer
+Skills: TensorFlow, Docker, AWS, Pandas, Deep Learning, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Judy Koch",
+  "email": "alex56@example.org",
+  "phone": "672.746.4560",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "TensorFlow",
+    "Docker",
+    "AWS",
+    "Pandas",
+    "Deep Learning",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0797"
+}

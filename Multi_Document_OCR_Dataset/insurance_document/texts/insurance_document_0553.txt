@@ -1,0 +1,16 @@
+Insurance Policy POL-B7FU99259
+Holder: Melissa Campbell
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B7FU99259",
+  "policy_holder": "Melissa Campbell",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-04-03",
+  "expiry_date": "2026-04-03",
+  "premium": 2228.16,
+  "coverage_amount": 353387.29,
+  "beneficiary": "Danielle Wilson",
+  "sample_id": "insurance_document_0553"
+}

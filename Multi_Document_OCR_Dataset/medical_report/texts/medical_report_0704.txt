@@ -1,0 +1,14 @@
+Medical Report MED-LL1R25NB
+Patient: Adam Maxwell
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LL1R25NB",
+  "patient_name": "Adam Maxwell",
+  "visit_date": "2026-12-08",
+  "doctor_name": "Dr. Todd Edwards",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0704"
+}

@@ -1,0 +1,27 @@
+Resume
+Leonard Taylor
+Software Engineer
+Skills: Docker, Streamlit, Computer Vision, Machine Learning, Deep Learning, PyTorch, Pandas, LangChain, FastAPI, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Leonard Taylor",
+  "email": "davismaria@example.com",
+  "phone": "543.950.6978x209",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Docker",
+    "Streamlit",
+    "Computer Vision",
+    "Machine Learning",
+    "Deep Learning",
+    "PyTorch",
+    "Pandas",
+    "LangChain",
+    "FastAPI",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0774"
+}

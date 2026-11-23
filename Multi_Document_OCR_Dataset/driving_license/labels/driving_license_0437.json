@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL138500903",
+  "full_name": "William Smith",
+  "date_of_birth": "1967-09-22",
+  "class": "D",
+  "issue_date": "2024-10-12",
+  "expiry_date": "2029-10-12",
+  "address": "USCGC Nelson, FPO AA 89629",
+  "sample_id": "driving_license_0437"
+}

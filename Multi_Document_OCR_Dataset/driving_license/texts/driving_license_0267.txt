@@ -1,0 +1,16 @@
+Synthetic Driving License
+Emily Morris
+License: DL346021660
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL346021660",
+  "full_name": "Emily Morris",
+  "date_of_birth": "1989-09-27",
+  "class": "A",
+  "issue_date": "2022-08-31",
+  "expiry_date": "2027-08-31",
+  "address": "881 Olson Hills, West Paige, VI 87886",
+  "sample_id": "driving_license_0267"
+}

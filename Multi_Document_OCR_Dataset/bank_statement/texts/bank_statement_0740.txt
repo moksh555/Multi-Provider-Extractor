@@ -1,0 +1,16 @@
+Bank Statement STM-97PNPFZB
+Holder: Jon Carr
+Closing Balance: $6172.06
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-97PNPFZB",
+  "account_holder": "Jon Carr",
+  "account_number_masked": "****4867",
+  "period_start": "2026-05-12",
+  "period_end": "2026-06-11",
+  "opening_balance": 4180.97,
+  "closing_balance": 6172.06,
+  "transactions": 13,
+  "sample_id": "bank_statement_0740"
+}

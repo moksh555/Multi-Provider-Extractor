@@ -1,0 +1,14 @@
+Medical Report MED-JTDJPGYY
+Patient: Devon Mcbride
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-JTDJPGYY",
+  "patient_name": "Devon Mcbride",
+  "visit_date": "2024-04-30",
+  "doctor_name": "Dr. Stephanie Coleman",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0971"
+}

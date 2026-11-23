@@ -1,0 +1,16 @@
+Synthetic Driving License
+Ashley Bird
+License: DL039371912
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL039371912",
+  "full_name": "Ashley Bird",
+  "date_of_birth": "1969-01-27",
+  "class": "A",
+  "issue_date": "2025-09-10",
+  "expiry_date": "2030-09-10",
+  "address": "87431 Martin Mount Suite 205, Ashleyborough, HI 80580",
+  "sample_id": "driving_license_0113"
+}

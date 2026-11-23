@@ -1,0 +1,43 @@
+Receipt RCT-HKK7QG24
+Merchant: Hall, Jones and Moss
+Date: 2022-01-29
+Total: $627.76
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HKK7QG24",
+  "merchant_name": "Hall, Jones and Moss",
+  "date": "2022-01-29",
+  "subtotal": 619.21,
+  "tax": 20.05,
+  "discount": 11.5,
+  "total": 627.76,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$40.80",
+      "line_total": "$122.40"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$28.98",
+      "line_total": "$115.92"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$76.95",
+      "line_total": "$307.80"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$73.09",
+      "line_total": "$73.09"
+    }
+  ],
+  "sample_id": "receipt_0339"
+}

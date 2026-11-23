@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0783",
+  "invoice_number": "INV-2026-0783",
+  "company_name": "Golden Harvest Store",
+  "company_address": "135 Doha Business Park, Dhaka, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "154 Motijheel C/A, Dhaka, Bangladesh",
+  "invoice_date": "2026-02-09",
+  "due_date": "2026-02-24",
+  "currency": "BDT",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 6,
+      "unit_price": 145.41,
+      "amount": 872.46
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 1,
+      "unit_price": 481.66,
+      "amount": 481.66
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 1,
+      "unit_price": 568.54,
+      "amount": 568.54
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 8,
+      "unit_price": 742.88,
+      "amount": 5943.04
+    }
+  ],
+  "subtotal": 7865.7,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 7865.7,
+  "amount_paid": 0,
+  "balance_due": 7865.7,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801453145316",
+  "po_number": "PO-89977"
+}

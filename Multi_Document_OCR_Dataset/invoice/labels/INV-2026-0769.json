@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0769",
+  "invoice_number": "INV-2026-0769",
+  "company_name": "Atlas Engineering Ltd.",
+  "company_address": "193 Road 12, Banani, Dhaka, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "49 Al Barsha, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-08",
+  "currency": "QAR",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 9,
+      "unit_price": 661.99,
+      "amount": 5957.91
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 11,
+      "unit_price": 439.2,
+      "amount": 4831.2
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 12,
+      "unit_price": 601.65,
+      "amount": 7219.8
+    }
+  ],
+  "subtotal": 18008.91,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 1800.89,
+  "shipping": 10,
+  "total": 19819.8,
+  "amount_paid": 19819.8,
+  "balance_due": 0.0,
+  "vendor_email": "atlasengineeringltd@example.com",
+  "vendor_phone": "+8801208775852",
+  "po_number": "PO-21647"
+}

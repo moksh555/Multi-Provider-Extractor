@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0257
+Company: UrbanBuild Construction
+Company Address: 166 Al Barsha, Dubai, UAE
+Customer: Digital Learning Hub
+Billing Address: 220 Al Barsha, Doha, Qatar
+Invoice Date: 2026-02-01
+Due Date: 2026-03-18
+Currency: BDT
+Subtotal: 13637.43
+Tax: 681.87
+Total: 14329.3
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0341",
+  "invoice_number": "INV-2026-0341",
+  "company_name": "Delta Insurance Services",
+  "company_address": "57 Gulshan Avenue, Dhaka, Bangladesh",
+  "customer_name": "Global Mart",
+  "billing_address": "100 Gulshan Avenue, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-22",
+  "due_date": "2026-03-09",
+  "currency": "QAR",
+  "payment_terms": "Net 7",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Data Annotation Service",
+      "quantity": 8,
+      "unit_price": 53.78,
+      "amount": 430.24
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 10,
+      "unit_price": 757.55,
+      "amount": 7575.5
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 4,
+      "unit_price": 438.35,
+      "amount": 1753.4
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 1,
+      "unit_price": 190.23,
+      "amount": 190.23
+    }
+  ],
+  "subtotal": 9949.37,
+  "discount": 994.94,
+  "tax_rate": 0.05,
+  "tax": 447.72,
+  "shipping": 0,
+  "total": 9402.15,
+  "amount_paid": 6395.15,
+  "balance_due": 3007.0,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801477437945",
+  "po_number": "PO-76901"
+}

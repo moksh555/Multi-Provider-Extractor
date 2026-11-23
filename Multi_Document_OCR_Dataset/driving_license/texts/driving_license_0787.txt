@@ -1,0 +1,16 @@
+Synthetic Driving License
+Paul Compton
+License: DL711537981
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL711537981",
+  "full_name": "Paul Compton",
+  "date_of_birth": "1988-12-03",
+  "class": "A",
+  "issue_date": "2022-04-14",
+  "expiry_date": "2027-04-14",
+  "address": "1768 Alicia Row Suite 281, South Erik, WV 34678",
+  "sample_id": "driving_license_0787"
+}

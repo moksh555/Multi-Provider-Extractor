@@ -1,0 +1,16 @@
+Insurance Policy POL-4NDDAFS1I
+Holder: Stephen Roth
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-4NDDAFS1I",
+  "policy_holder": "Stephen Roth",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-05-29",
+  "expiry_date": "2026-05-29",
+  "premium": 2443.92,
+  "coverage_amount": 371341.46,
+  "beneficiary": "Ryan Warren",
+  "sample_id": "insurance_document_0683"
+}

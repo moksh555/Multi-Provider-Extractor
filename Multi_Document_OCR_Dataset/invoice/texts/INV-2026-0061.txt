@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0061
+Company: Delta Insurance Services
+Company Address: 94 Motijheel C/A, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 3 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-02-26
+Due Date: 2026-03-13
+Currency: SAR
+Subtotal: 16597.19
+Tax: 1576.73
+Total: 17394.06
+Balance Due: 6985.77
+Status: partial

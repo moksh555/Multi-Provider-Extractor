@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-7DI3E950",
+  "merchant_name": "Hall, Vega and Price",
+  "date": "2023-07-17",
+  "subtotal": 408.32,
+  "tax": 23.43,
+  "discount": 3.96,
+  "total": 427.79,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$58.20",
+      "line_total": "$116.40"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$74.79",
+      "line_total": "$74.79"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$70.78",
+      "line_total": "$212.34"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$4.79",
+      "line_total": "$4.79"
+    }
+  ],
+  "sample_id": "receipt_0329"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0359",
+  "invoice_number": "INV-2026-0359",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "111 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "186 Motijheel C/A, Doha, Qatar",
+  "invoice_date": "2026-04-30",
+  "due_date": "2026-05-30",
+  "currency": "QAR",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 9,
+      "unit_price": 730.37,
+      "amount": 6573.33
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 1,
+      "unit_price": 182.2,
+      "amount": 182.2
+    },
+    {
+      "description": "API Integration",
+      "quantity": 6,
+      "unit_price": 716.92,
+      "amount": 4301.52
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 10,
+      "unit_price": 769.31,
+      "amount": 7693.1
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 7,
+      "unit_price": 260.19,
+      "amount": 1821.33
+    }
+  ],
+  "subtotal": 20571.48,
+  "discount": 2057.15,
+  "tax_rate": 0.075,
+  "tax": 1388.57,
+  "shipping": 0,
+  "total": 19902.9,
+  "amount_paid": 0,
+  "balance_due": 19902.9,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801472774571",
+  "po_number": "PO-73199"
+}

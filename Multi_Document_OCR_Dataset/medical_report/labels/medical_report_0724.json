@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-OK4HZWLS",
+  "patient_name": "Christine Frederick",
+  "visit_date": "2026-11-15",
+  "doctor_name": "Dr. Andrew Bailey",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0724"
+}

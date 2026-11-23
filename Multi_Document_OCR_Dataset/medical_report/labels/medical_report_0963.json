@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SCSI6EUQ",
+  "patient_name": "Christina Hill",
+  "visit_date": "2026-06-03",
+  "doctor_name": "Dr. Kim Rich",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0963"
+}

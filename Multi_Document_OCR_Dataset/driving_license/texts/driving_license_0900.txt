@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Jones
+License: DL450744131
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL450744131",
+  "full_name": "Michael Jones",
+  "date_of_birth": "1967-07-03",
+  "class": "B",
+  "issue_date": "2021-01-25",
+  "expiry_date": "2026-01-25",
+  "address": "USNS Garcia, FPO AE 29153",
+  "sample_id": "driving_license_0900"
+}

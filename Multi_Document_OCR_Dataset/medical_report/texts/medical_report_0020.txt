@@ -1,0 +1,14 @@
+Medical Report MED-MFKQ2480
+Patient: James Jackson
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-MFKQ2480",
+  "patient_name": "James Jackson",
+  "visit_date": "2024-03-18",
+  "doctor_name": "Dr. Laura Wilson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0020"
+}

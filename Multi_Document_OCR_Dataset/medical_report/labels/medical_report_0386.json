@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-321Z3WKW",
+  "patient_name": "Dean Alexander",
+  "visit_date": "2025-12-27",
+  "doctor_name": "Dr. Alexander Blake",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0386"
+}

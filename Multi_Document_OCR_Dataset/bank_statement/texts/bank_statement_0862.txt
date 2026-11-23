@@ -1,0 +1,16 @@
+Bank Statement STM-EKRBSZYQ
+Holder: Marvin Banks
+Closing Balance: $1338.06
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-EKRBSZYQ",
+  "account_holder": "Marvin Banks",
+  "account_number_masked": "****6343",
+  "period_start": "2024-09-22",
+  "period_end": "2024-10-22",
+  "opening_balance": 2579.66,
+  "closing_balance": 1338.06,
+  "transactions": 9,
+  "sample_id": "bank_statement_0862"
+}

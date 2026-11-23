@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CXYCYJNY",
+  "patient_name": "Harold Diaz",
+  "visit_date": "2025-03-19",
+  "doctor_name": "Dr. Gabrielle Scott",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0533"
+}

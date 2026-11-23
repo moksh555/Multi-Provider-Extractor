@@ -1,0 +1,27 @@
+Resume
+Julie Martinez
+Software Engineer
+Skills: TensorFlow, Computer Vision, Pandas, FastAPI, SQL, Deep Learning, Machine Learning, Python, LangChain, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Julie Martinez",
+  "email": "ykennedy@example.org",
+  "phone": "001-660-558-6531",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "TensorFlow",
+    "Computer Vision",
+    "Pandas",
+    "FastAPI",
+    "SQL",
+    "Deep Learning",
+    "Machine Learning",
+    "Python",
+    "LangChain",
+    "PyTorch"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0794"
+}

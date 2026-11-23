@@ -1,0 +1,14 @@
+Medical Report MED-255M5JF9
+Patient: Caitlin Ramirez
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-255M5JF9",
+  "patient_name": "Caitlin Ramirez",
+  "visit_date": "2026-07-02",
+  "doctor_name": "Dr. Donna Richardson",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0123"
+}

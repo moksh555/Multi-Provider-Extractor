@@ -1,0 +1,16 @@
+Insurance Policy POL-P0PNNLO0H
+Holder: Darrell Nelson
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-P0PNNLO0H",
+  "policy_holder": "Darrell Nelson",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-12-30",
+  "expiry_date": "2027-12-30",
+  "premium": 574.5,
+  "coverage_amount": 105354.95,
+  "beneficiary": "John Wade",
+  "sample_id": "insurance_document_1000"
+}

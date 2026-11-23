@@ -1,0 +1,16 @@
+Synthetic Driving License
+Alejandro Mack
+License: DL850454282
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL850454282",
+  "full_name": "Alejandro Mack",
+  "date_of_birth": "1981-11-22",
+  "class": "B",
+  "issue_date": "2023-09-08",
+  "expiry_date": "2028-09-08",
+  "address": "507 Jacob Street Suite 644, Lake Richard, MP 79350",
+  "sample_id": "driving_license_0871"
+}

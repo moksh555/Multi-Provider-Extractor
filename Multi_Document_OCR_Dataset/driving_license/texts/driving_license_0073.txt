@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nichole Walker
+License: DL884547461
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL884547461",
+  "full_name": "Nichole Walker",
+  "date_of_birth": "2002-02-13",
+  "class": "C",
+  "issue_date": "2022-12-21",
+  "expiry_date": "2027-12-21",
+  "address": "188 Rebecca Keys, Jessicaberg, IA 13975",
+  "sample_id": "driving_license_0073"
+}

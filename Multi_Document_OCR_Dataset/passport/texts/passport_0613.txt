@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: John Valdez
+Passport No: P72282001
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P72282001",
+  "full_name": "John Valdez",
+  "nationality": "GB",
+  "date_of_birth": "1974-06-18",
+  "issue_date": "2020-09-26",
+  "expiry_date": "2030-09-26",
+  "place_of_birth": "Fergusonmouth",
+  "sample_id": "passport_0613"
+}

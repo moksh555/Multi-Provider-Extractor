@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0373",
+  "invoice_number": "INV-2026-0373",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "11 Al Barsha, Doha, Qatar",
+  "customer_name": "Future School",
+  "billing_address": "225 Zindabazar Road, Doha, Qatar",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-04-04",
+  "currency": "QAR",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 11,
+      "unit_price": 335.07,
+      "amount": 3685.77
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 5,
+      "unit_price": 297.87,
+      "amount": 1489.35
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 10,
+      "unit_price": 354.52,
+      "amount": 3545.2
+    }
+  ],
+  "subtotal": 8720.32,
+  "discount": 436.02,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 8309.3,
+  "amount_paid": 0,
+  "balance_due": 8309.3,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801268726015",
+  "po_number": "PO-76585"
+}

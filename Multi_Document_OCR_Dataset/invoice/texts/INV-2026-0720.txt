@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0720
+Company: Delta Insurance Services
+Company Address: 71 Uttara Sector 7, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 67 Sheikh Zayed Road, Doha, Qatar
+Invoice Date: 2026-05-26
+Due Date: 2026-06-25
+Currency: BDT
+Subtotal: 14596.89
+Tax: 1094.77
+Total: 15696.66
+Balance Due: 15696.66
+Status: unpaid

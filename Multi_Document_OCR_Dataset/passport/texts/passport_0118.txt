@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Courtney Valdez
+Passport No: P39419992
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P39419992",
+  "full_name": "Courtney Valdez",
+  "nationality": "GB",
+  "date_of_birth": "1978-11-29",
+  "issue_date": "2026-06-14",
+  "expiry_date": "2036-06-14",
+  "place_of_birth": "Bonnieberg",
+  "sample_id": "passport_0118"
+}

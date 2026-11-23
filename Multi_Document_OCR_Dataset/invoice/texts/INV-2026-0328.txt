@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0328
+Company: Greenline Logistics
+Company Address: 65 Doha Business Park, Chattogram, Bangladesh
+Customer: Global Mart
+Billing Address: 146 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-18
+Due Date: 2026-07-18
+Currency: SAR
+Subtotal: 5845.12
+Tax: 429.62
+Total: 6157.84
+Balance Due: 6157.84
+Status: overdue

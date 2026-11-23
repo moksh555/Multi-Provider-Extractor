@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "William Ellis",
+  "email": "morrisonmichael@example.com",
+  "phone": "597-873-9610x34057",
+  "job_title": "Data Analyst",
+  "years_experience": 8,
+  "skills": [
+    "Computer Vision",
+    "Streamlit",
+    "Docker",
+    "TensorFlow",
+    "Python",
+    "NLP",
+    "Pandas",
+    "LangChain",
+    "Deep Learning",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0533"
+}

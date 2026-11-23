@@ -1,0 +1,25 @@
+Resume
+Paul Aguirre
+Backend Developer
+Skills: SQL, NLP, LangChain, Machine Learning, AWS, FastAPI, PyTorch, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Paul Aguirre",
+  "email": "walterjacqueline@example.net",
+  "phone": "+1-671-740-8346x954",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "SQL",
+    "NLP",
+    "LangChain",
+    "Machine Learning",
+    "AWS",
+    "FastAPI",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0374"
+}

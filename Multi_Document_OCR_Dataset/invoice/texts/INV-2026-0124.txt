@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0124
+Company: UrbanBuild Construction
+Company Address: 58 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 48 Road 12, Banani, Doha, Qatar
+Invoice Date: 2026-06-07
+Due Date: 2026-07-07
+Currency: QAR
+Subtotal: 6602.56
+Tax: 990.38
+Total: 7597.94
+Balance Due: 7597.94
+Status: unpaid

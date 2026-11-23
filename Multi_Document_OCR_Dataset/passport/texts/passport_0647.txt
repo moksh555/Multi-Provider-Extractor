@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Cole Hurley
+Passport No: P97510261
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P97510261",
+  "full_name": "Cole Hurley",
+  "nationality": "US",
+  "date_of_birth": "1991-01-16",
+  "issue_date": "2021-09-08",
+  "expiry_date": "2031-09-08",
+  "place_of_birth": "West Linda",
+  "sample_id": "passport_0647"
+}

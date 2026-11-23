@@ -1,0 +1,14 @@
+Medical Report MED-CPS99ILI
+Patient: Michael Walker
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-CPS99ILI",
+  "patient_name": "Michael Walker",
+  "visit_date": "2025-07-21",
+  "doctor_name": "Dr. Raymond Bradley",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0555"
+}

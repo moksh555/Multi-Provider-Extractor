@@ -1,0 +1,14 @@
+Medical Report MED-94U09AJT
+Patient: Jose Grant
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-94U09AJT",
+  "patient_name": "Jose Grant",
+  "visit_date": "2025-01-28",
+  "doctor_name": "Dr. Jesus Wright",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0687"
+}

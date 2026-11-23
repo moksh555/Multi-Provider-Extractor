@@ -1,0 +1,14 @@
+Medical Report MED-4QXK2DJF
+Patient: Tiffany Mayer
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-4QXK2DJF",
+  "patient_name": "Tiffany Mayer",
+  "visit_date": "2025-07-25",
+  "doctor_name": "Dr. Jean Casey",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0281"
+}

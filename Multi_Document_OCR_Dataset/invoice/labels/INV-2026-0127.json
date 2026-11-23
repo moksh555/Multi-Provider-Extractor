@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0127",
+  "invoice_number": "INV-2026-0127",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "137 Jumeirah Lake Towers, Dhaka, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "156 Uttara Sector 7, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-25",
+  "due_date": "2026-04-11",
+  "currency": "SAR",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 1,
+      "unit_price": 214.05,
+      "amount": 214.05
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 5,
+      "unit_price": 529.84,
+      "amount": 2649.2
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 4,
+      "unit_price": 49.19,
+      "amount": 196.76
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 1,
+      "unit_price": 558.06,
+      "amount": 558.06
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 726.92,
+      "amount": 2180.76
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 10,
+      "unit_price": 259.29,
+      "amount": 2592.9
+    }
+  ],
+  "subtotal": 8391.73,
+  "discount": 0.0,
+  "tax_rate": 0.1,
+  "tax": 839.17,
+  "shipping": 0,
+  "total": 9230.9,
+  "amount_paid": 0,
+  "balance_due": 9230.9,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801191266559",
+  "po_number": "PO-73073"
+}

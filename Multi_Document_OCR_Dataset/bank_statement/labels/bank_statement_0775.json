@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-G8XRVNKV",
+  "account_holder": "Autumn Hill",
+  "account_number_masked": "****5104",
+  "period_start": "2024-07-11",
+  "period_end": "2024-08-10",
+  "opening_balance": 4356.98,
+  "closing_balance": 8038.65,
+  "transactions": 10,
+  "sample_id": "bank_statement_0775"
+}

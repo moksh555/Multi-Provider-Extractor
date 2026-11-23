@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-VKXELDRO",
+  "patient_name": "Russell Hernandez",
+  "visit_date": "2024-08-07",
+  "doctor_name": "Dr. Mary Marquez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0809"
+}

@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LCAUDF9M",
+  "merchant_name": "Allen and Sons",
+  "date": "2023-09-23",
+  "subtotal": 699.09,
+  "tax": 34.47,
+  "discount": 12.45,
+  "total": 721.11,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$43.87",
+      "line_total": "$131.61"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$40.70",
+      "line_total": "$40.70"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$43.24",
+      "line_total": "$129.72"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$70.55",
+      "line_total": "$70.55"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$32.22",
+      "line_total": "$96.66"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$48.55",
+      "line_total": "$194.20"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$2.74",
+      "line_total": "$10.96"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$24.69",
+      "line_total": "$24.69"
+    }
+  ],
+  "sample_id": "receipt_0566"
+}

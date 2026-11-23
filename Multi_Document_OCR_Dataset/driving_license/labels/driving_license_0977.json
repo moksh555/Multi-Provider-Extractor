@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL926313116",
+  "full_name": "Michaela Campbell",
+  "date_of_birth": "1989-03-20",
+  "class": "D",
+  "issue_date": "2025-10-16",
+  "expiry_date": "2030-10-16",
+  "address": "349 Johnson Mission Suite 217, East Annville, MS 19157",
+  "sample_id": "driving_license_0977"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VF0AKK14",
+  "account_holder": "Christina Gonzalez",
+  "account_number_masked": "****3906",
+  "period_start": "2026-01-27",
+  "period_end": "2026-02-26",
+  "opening_balance": 3972.66,
+  "closing_balance": 4018.52,
+  "transactions": 11,
+  "sample_id": "bank_statement_0169"
+}

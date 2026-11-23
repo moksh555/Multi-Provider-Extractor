@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-117NIDP9M",
+  "policy_holder": "Penny Wyatt",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-10-24",
+  "expiry_date": "2027-10-24",
+  "premium": 1712.1,
+  "coverage_amount": 118078.25,
+  "beneficiary": "Jasmine Swanson",
+  "sample_id": "insurance_document_0620"
+}

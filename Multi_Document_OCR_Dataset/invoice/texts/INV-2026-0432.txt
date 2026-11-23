@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0432
+Company: Greenline Logistics
+Company Address: 190 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 4 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-06-16
+Due Date: 2026-07-16
+Currency: BDT
+Subtotal: 24152.76
+Tax: 1086.87
+Total: 22829.35
+Balance Due: 0.0
+Status: paid

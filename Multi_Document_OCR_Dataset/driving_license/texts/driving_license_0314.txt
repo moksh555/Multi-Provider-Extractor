@@ -1,0 +1,16 @@
+Synthetic Driving License
+Katelyn Vargas
+License: DL768375075
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL768375075",
+  "full_name": "Katelyn Vargas",
+  "date_of_birth": "1976-06-30",
+  "class": "A",
+  "issue_date": "2025-11-02",
+  "expiry_date": "2030-11-02",
+  "address": "2461 Gina Ranch, Murphyton, CO 29023",
+  "sample_id": "driving_license_0314"
+}

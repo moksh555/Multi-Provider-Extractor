@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CM5FYCZU8",
+  "policy_holder": "Maria Boone",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-09",
+  "expiry_date": "2027-05-09",
+  "premium": 1288.13,
+  "coverage_amount": 355066.73,
+  "beneficiary": "Annette Wang",
+  "sample_id": "insurance_document_0972"
+}

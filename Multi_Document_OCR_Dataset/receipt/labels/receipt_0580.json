@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AYNPE6SW",
+  "merchant_name": "Gomez and Sons",
+  "date": "2026-05-24",
+  "subtotal": 687.49,
+  "tax": 69.51,
+  "discount": 0.52,
+  "total": 756.48,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$1.89",
+      "line_total": "$1.89"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$15.96",
+      "line_total": "$47.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$23.81",
+      "line_total": "$23.81"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$74.36",
+      "line_total": "$223.08"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$47.58",
+      "line_total": "$47.58"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$22.83",
+      "line_total": "$91.32"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$25.87",
+      "line_total": "$51.74"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$66.73",
+      "line_total": "$200.19"
+    }
+  ],
+  "sample_id": "receipt_0580"
+}

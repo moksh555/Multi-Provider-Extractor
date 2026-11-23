@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0045
+Company: SkyNet Office Mart
+Company Address: 96 Jumeirah Lake Towers, Doha, Qatar
+Customer: MediLife Hospital
+Billing Address: 137 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-25
+Due Date: 2026-06-24
+Currency: SAR
+Subtotal: 23050.92
+Tax: 1694.24
+Total: 24334.14
+Balance Due: 0.0
+Status: paid

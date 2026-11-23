@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-YS280XKXW",
+  "policy_holder": "Kyle Preston",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-04-26",
+  "expiry_date": "2025-04-26",
+  "premium": 1721.25,
+  "coverage_amount": 120073.93,
+  "beneficiary": "Lindsey Johnson",
+  "sample_id": "insurance_document_0033"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Jimmy Lang",
+  "email": "adamgill@example.net",
+  "phone": "842-988-7344x96686",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "Streamlit",
+    "Machine Learning",
+    "Pandas",
+    "FastAPI",
+    "Python",
+    "Computer Vision",
+    "AWS",
+    "Docker",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0232"
+}

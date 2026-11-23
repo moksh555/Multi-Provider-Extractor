@@ -1,0 +1,25 @@
+Resume
+Keith Hurst
+Machine Learning Engineer
+Skills: Machine Learning, Computer Vision, NLP, Streamlit, SQL, Docker, PyTorch, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Keith Hurst",
+  "email": "loriprince@example.org",
+  "phone": "784-706-5488",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Machine Learning",
+    "Computer Vision",
+    "NLP",
+    "Streamlit",
+    "SQL",
+    "Docker",
+    "PyTorch",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0464"
+}

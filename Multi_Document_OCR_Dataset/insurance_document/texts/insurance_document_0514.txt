@@ -1,0 +1,16 @@
+Insurance Policy POL-IH66W51OB
+Holder: Tracy Pearson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IH66W51OB",
+  "policy_holder": "Tracy Pearson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-10-03",
+  "expiry_date": "2026-10-03",
+  "premium": 1241.2,
+  "coverage_amount": 212351.05,
+  "beneficiary": "Michael Santos",
+  "sample_id": "insurance_document_0514"
+}

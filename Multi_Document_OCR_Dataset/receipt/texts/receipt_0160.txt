@@ -1,0 +1,43 @@
+Receipt RCT-BCK88D0T
+Merchant: Mosley and Sons
+Date: 2023-02-16
+Total: $404.06
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BCK88D0T",
+  "merchant_name": "Mosley and Sons",
+  "date": "2023-02-16",
+  "subtotal": 391.96,
+  "tax": 18.12,
+  "discount": 6.02,
+  "total": 404.06,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$45.12",
+      "line_total": "$90.24"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$61.54",
+      "line_total": "$61.54"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$56.50",
+      "line_total": "$226.00"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 1,
+      "unit_price": "$14.18",
+      "line_total": "$14.18"
+    }
+  ],
+  "sample_id": "receipt_0160"
+}

@@ -1,0 +1,24 @@
+Resume
+Amanda Scott
+Data Analyst
+Skills: TensorFlow, Streamlit, Python, SQL, PyTorch, AWS, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Amanda Scott",
+  "email": "brownbryan@example.org",
+  "phone": "556-368-5135",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "TensorFlow",
+    "Streamlit",
+    "Python",
+    "SQL",
+    "PyTorch",
+    "AWS",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0194"
+}

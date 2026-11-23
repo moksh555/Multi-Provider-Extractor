@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NBZ9H0UN",
+  "merchant_name": "Wright, Baird and Fields",
+  "date": "2024-06-07",
+  "subtotal": 467.46,
+  "tax": 16.52,
+  "discount": 13.2,
+  "total": 470.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$2.94",
+      "line_total": "$11.76"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$55.25",
+      "line_total": "$221.00"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$16.23",
+      "line_total": "$64.92"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$68.65",
+      "line_total": "$68.65"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$16.91",
+      "line_total": "$33.82"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$67.31",
+      "line_total": "$67.31"
+    }
+  ],
+  "sample_id": "receipt_0757"
+}

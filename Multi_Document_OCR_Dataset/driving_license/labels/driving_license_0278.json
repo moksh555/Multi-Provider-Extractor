@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL947598376",
+  "full_name": "David Evans",
+  "date_of_birth": "2002-09-05",
+  "class": "C",
+  "issue_date": "2024-01-08",
+  "expiry_date": "2029-01-08",
+  "address": "157 Tracy Spurs, New Dawnton, VA 76035",
+  "sample_id": "driving_license_0278"
+}

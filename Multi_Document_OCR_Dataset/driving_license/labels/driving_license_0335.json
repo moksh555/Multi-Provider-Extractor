@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL384465110",
+  "full_name": "Kimberly Figueroa",
+  "date_of_birth": "1985-03-11",
+  "class": "B",
+  "issue_date": "2022-05-16",
+  "expiry_date": "2027-05-16",
+  "address": "27079 John Run, North Gerald, AR 40784",
+  "sample_id": "driving_license_0335"
+}

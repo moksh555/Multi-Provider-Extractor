@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0566",
+  "invoice_number": "INV-2026-0566",
+  "company_name": "Greenline Logistics",
+  "company_address": "116 Motijheel C/A, Sylhet, Bangladesh",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "56 Mirpur DOHS, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-26",
+  "due_date": "2026-03-28",
+  "currency": "SAR",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 10,
+      "unit_price": 600.67,
+      "amount": 6006.7
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 11,
+      "unit_price": 70.84,
+      "amount": 779.24
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 6,
+      "unit_price": 526.6,
+      "amount": 3159.6
+    }
+  ],
+  "subtotal": 9945.54,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 497.28,
+  "shipping": 25,
+  "total": 10467.82,
+  "amount_paid": 10467.82,
+  "balance_due": 0.0,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801206147981",
+  "po_number": "PO-15599"
+}

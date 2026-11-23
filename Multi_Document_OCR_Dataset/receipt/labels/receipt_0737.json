@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ZL8XRW4D",
+  "merchant_name": "Hansen-Brown",
+  "date": "2021-08-01",
+  "subtotal": 563.71,
+  "tax": 26.72,
+  "discount": 6.89,
+  "total": 583.54,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$16.52",
+      "line_total": "$66.08"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$40.21",
+      "line_total": "$40.21"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$18.83",
+      "line_total": "$18.83"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$77.31",
+      "line_total": "$154.62"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$66.83",
+      "line_total": "$200.49"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$41.74",
+      "line_total": "$83.48"
+    }
+  ],
+  "sample_id": "receipt_0737"
+}

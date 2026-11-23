@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0619",
+  "invoice_number": "INV-2026-0619",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "190 Road 12, Banani, Dubai, UAE",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "6 Dhanmondi 27, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-03-14",
+  "due_date": "2026-04-28",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 502.04,
+      "amount": 5522.44
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 39.27,
+      "amount": 235.62
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 66.3,
+      "amount": 66.3
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 7,
+      "unit_price": 15.51,
+      "amount": 108.57
+    }
+  ],
+  "subtotal": 5932.93,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 5957.93,
+  "amount_paid": 0,
+  "balance_due": 5957.93,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801135224345",
+  "po_number": "PO-82252"
+}

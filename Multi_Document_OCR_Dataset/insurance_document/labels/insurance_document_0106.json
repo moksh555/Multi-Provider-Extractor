@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-5BM1ENF31",
+  "policy_holder": "Jennifer Vasquez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-06-15",
+  "expiry_date": "2026-06-15",
+  "premium": 223.99,
+  "coverage_amount": 188506.71,
+  "beneficiary": "Jill Jackson",
+  "sample_id": "insurance_document_0106"
+}

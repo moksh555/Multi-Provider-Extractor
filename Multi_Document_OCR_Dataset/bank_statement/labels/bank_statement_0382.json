@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VNZZ3ZW0",
+  "account_holder": "Sandra Sutton",
+  "account_number_masked": "****2623",
+  "period_start": "2026-12-08",
+  "period_end": "2027-01-07",
+  "opening_balance": 2779.65,
+  "closing_balance": 4851.41,
+  "transactions": 14,
+  "sample_id": "bank_statement_0382"
+}

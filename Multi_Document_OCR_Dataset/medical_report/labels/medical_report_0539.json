@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-622J4Y6S",
+  "patient_name": "Deborah Bowman",
+  "visit_date": "2026-09-17",
+  "doctor_name": "Dr. Jennifer Allen",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0539"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0313
+Company: Atlas Engineering Ltd.
+Company Address: 166 Uttara Sector 7, Chattogram, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 19 Doha Business Park, Sylhet, Bangladesh
+Invoice Date: 2026-03-11
+Due Date: 2026-03-18
+Currency: SAR
+Subtotal: 16951.46
+Tax: 0.0
+Total: 16153.89
+Balance Due: 4335.35
+Status: partial

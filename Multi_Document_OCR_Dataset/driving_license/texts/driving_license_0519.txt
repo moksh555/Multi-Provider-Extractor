@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tina Bird
+License: DL959025735
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL959025735",
+  "full_name": "Tina Bird",
+  "date_of_birth": "1999-06-11",
+  "class": "B",
+  "issue_date": "2021-03-15",
+  "expiry_date": "2026-03-15",
+  "address": "725 Shaw Streets Suite 211, East Erichaven, AL 90211",
+  "sample_id": "driving_license_0519"
+}

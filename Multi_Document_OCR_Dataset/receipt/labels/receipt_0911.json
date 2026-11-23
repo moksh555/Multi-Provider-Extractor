@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-F4X2JPKV",
+  "merchant_name": "Johnson, Grant and Moore",
+  "date": "2021-12-08",
+  "subtotal": 716.83,
+  "tax": 29.46,
+  "discount": 1.04,
+  "total": 745.25,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$57.72",
+      "line_total": "$173.16"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$31.57",
+      "line_total": "$31.57"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$77.26",
+      "line_total": "$77.26"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$19.13",
+      "line_total": "$19.13"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$65.33",
+      "line_total": "$195.99"
+    },
+    {
+      "name": "Monitor",
+      "qty": 4,
+      "unit_price": "$54.93",
+      "line_total": "$219.72"
+    }
+  ],
+  "sample_id": "receipt_0911"
+}

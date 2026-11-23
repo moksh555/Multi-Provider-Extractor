@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Jason Martin",
+  "email": "jessemason@example.net",
+  "phone": "5344544684",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Computer Vision",
+    "Machine Learning",
+    "Pandas",
+    "LangChain",
+    "SQL",
+    "Python",
+    "FastAPI",
+    "NLP",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0928"
+}

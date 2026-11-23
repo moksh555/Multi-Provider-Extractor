@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-N57PLE0E",
+  "account_holder": "Phillip White",
+  "account_number_masked": "****9069",
+  "period_start": "2026-10-06",
+  "period_end": "2026-11-05",
+  "opening_balance": 2409.8,
+  "closing_balance": 5181.43,
+  "transactions": 10,
+  "sample_id": "bank_statement_0286"
+}

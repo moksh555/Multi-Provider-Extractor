@@ -1,0 +1,37 @@
+Receipt RCT-HK7X3BQW
+Merchant: Miller-Chan
+Date: 2026-06-23
+Total: $361.57
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HK7X3BQW",
+  "merchant_name": "Miller-Chan",
+  "date": "2026-06-23",
+  "subtotal": 350.5,
+  "tax": 16.39,
+  "discount": 5.32,
+  "total": 361.57,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$49.63",
+      "line_total": "$49.63"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$28.96",
+      "line_total": "$86.88"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$71.33",
+      "line_total": "$213.99"
+    }
+  ],
+  "sample_id": "receipt_0295"
+}

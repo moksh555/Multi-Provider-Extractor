@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0924",
+  "invoice_number": "INV-2026-0924",
+  "company_name": "Summit Agro Foods",
+  "company_address": "59 Jumeirah Lake Towers, Doha, Qatar",
+  "customer_name": "Future School",
+  "billing_address": "2 Al Barsha, Chattogram, Bangladesh",
+  "invoice_date": "2026-02-12",
+  "due_date": "2026-03-14",
+  "currency": "BDT",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 573.59,
+      "amount": 6883.08
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 12,
+      "unit_price": 790.78,
+      "amount": 9489.36
+    }
+  ],
+  "subtotal": 16372.44,
+  "discount": 818.62,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 15578.82,
+  "amount_paid": 0,
+  "balance_due": 15578.82,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801399248996",
+  "po_number": "PO-06394"
+}

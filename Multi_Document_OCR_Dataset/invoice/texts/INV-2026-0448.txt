@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0448
+Company: Metro Print House
+Company Address: 154 Jumeirah Lake Towers, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 116 Dhanmondi 27, Doha, Qatar
+Invoice Date: 2026-02-17
+Due Date: 2026-02-24
+Currency: BDT
+Subtotal: 10783.6
+Tax: 808.77
+Total: 11602.37
+Balance Due: 11602.37
+Status: overdue

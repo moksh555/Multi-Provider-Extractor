@@ -1,0 +1,16 @@
+Bank Statement STM-DN1NZIH5
+Holder: Sarah Anderson
+Closing Balance: $2908.16
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DN1NZIH5",
+  "account_holder": "Sarah Anderson",
+  "account_number_masked": "****8519",
+  "period_start": "2025-07-28",
+  "period_end": "2025-08-27",
+  "opening_balance": 4324.36,
+  "closing_balance": 2908.16,
+  "transactions": 9,
+  "sample_id": "bank_statement_0678"
+}

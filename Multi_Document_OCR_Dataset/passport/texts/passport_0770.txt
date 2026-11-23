@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christopher Jones
+Passport No: P87242228
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P87242228",
+  "full_name": "Christopher Jones",
+  "nationality": "AE",
+  "date_of_birth": "1967-08-30",
+  "issue_date": "2023-10-30",
+  "expiry_date": "2033-10-30",
+  "place_of_birth": "New Davidton",
+  "sample_id": "passport_0770"
+}

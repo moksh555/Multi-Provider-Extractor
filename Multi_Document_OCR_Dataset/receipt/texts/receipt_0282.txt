@@ -1,0 +1,43 @@
+Receipt RCT-1XDPZF76
+Merchant: Hobbs-Hamilton
+Date: 2024-02-23
+Total: $722.41
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-1XDPZF76",
+  "merchant_name": "Hobbs-Hamilton",
+  "date": "2024-02-23",
+  "subtotal": 665.55,
+  "tax": 65.87,
+  "discount": 9.01,
+  "total": 722.41,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$76.17",
+      "line_total": "$304.68"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$73.90",
+      "line_total": "$147.80"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$63.85",
+      "line_total": "$63.85"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$74.61",
+      "line_total": "$149.22"
+    }
+  ],
+  "sample_id": "receipt_0282"
+}

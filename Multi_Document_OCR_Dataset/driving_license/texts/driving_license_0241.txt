@@ -1,0 +1,16 @@
+Synthetic Driving License
+Angela George
+License: DL855017107
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL855017107",
+  "full_name": "Angela George",
+  "date_of_birth": "1979-12-10",
+  "class": "B",
+  "issue_date": "2021-06-19",
+  "expiry_date": "2026-06-19",
+  "address": "00981 Nicholas Ford Suite 651, South Denise, KS 34750",
+  "sample_id": "driving_license_0241"
+}

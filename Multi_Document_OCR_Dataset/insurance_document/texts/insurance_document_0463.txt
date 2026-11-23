@@ -1,0 +1,16 @@
+Insurance Policy POL-IMJYJCMRS
+Holder: Jennifer Smith
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-IMJYJCMRS",
+  "policy_holder": "Jennifer Smith",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-08-20",
+  "expiry_date": "2026-08-20",
+  "premium": 1809.38,
+  "coverage_amount": 342371.06,
+  "beneficiary": "Lisa Hernandez",
+  "sample_id": "insurance_document_0463"
+}

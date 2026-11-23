@@ -1,0 +1,16 @@
+Synthetic Driving License
+Donald Jackson
+License: DL553416223
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL553416223",
+  "full_name": "Donald Jackson",
+  "date_of_birth": "1990-03-15",
+  "class": "A",
+  "issue_date": "2026-08-19",
+  "expiry_date": "2031-08-19",
+  "address": "233 David Mount, Lake Shannonberg, AZ 15951",
+  "sample_id": "driving_license_0876"
+}

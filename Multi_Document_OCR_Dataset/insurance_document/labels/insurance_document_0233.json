@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-95RLRDIHS",
+  "policy_holder": "Susan Stevenson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-11-10",
+  "expiry_date": "2025-11-10",
+  "premium": 2304.59,
+  "coverage_amount": 108717.55,
+  "beneficiary": "Jacqueline Thompson",
+  "sample_id": "insurance_document_0233"
+}

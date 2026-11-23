@@ -1,0 +1,16 @@
+Bank Statement STM-8G0YI0DG
+Holder: Jessica Woods
+Closing Balance: $6944.99
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-8G0YI0DG",
+  "account_holder": "Jessica Woods",
+  "account_number_masked": "****2571",
+  "period_start": "2025-08-05",
+  "period_end": "2025-09-04",
+  "opening_balance": 4451.24,
+  "closing_balance": 6944.99,
+  "transactions": 10,
+  "sample_id": "bank_statement_0352"
+}

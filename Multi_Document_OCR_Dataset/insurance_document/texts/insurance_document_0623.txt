@@ -1,0 +1,16 @@
+Insurance Policy POL-NCHKV9DT9
+Holder: Robin Lewis
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NCHKV9DT9",
+  "policy_holder": "Robin Lewis",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-12-18",
+  "expiry_date": "2024-12-18",
+  "premium": 719.62,
+  "coverage_amount": 56424.84,
+  "beneficiary": "Mark Ayala",
+  "sample_id": "insurance_document_0623"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-PECQNVQHW
+Holder: Michele Collins
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PECQNVQHW",
+  "policy_holder": "Michele Collins",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-09-09",
+  "expiry_date": "2025-09-09",
+  "premium": 1210.14,
+  "coverage_amount": 482372.83,
+  "beneficiary": "Thomas Phillips",
+  "sample_id": "insurance_document_0084"
+}

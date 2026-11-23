@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-79T6VXDP",
+  "merchant_name": "Clark-Wright",
+  "date": "2026-03-07",
+  "subtotal": 582.24,
+  "tax": 42.11,
+  "discount": 11.24,
+  "total": 613.11,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$30.95",
+      "line_total": "$92.85"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$26.82",
+      "line_total": "$107.28"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$60.41",
+      "line_total": "$181.23"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$66.96",
+      "line_total": "$200.88"
+    }
+  ],
+  "sample_id": "receipt_0020"
+}

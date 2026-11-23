@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-FC2HTMQWY",
+  "policy_holder": "Heather Richards",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-04-04",
+  "expiry_date": "2025-04-04",
+  "premium": 1886.94,
+  "coverage_amount": 285022.57,
+  "beneficiary": "Alexis Yang",
+  "sample_id": "insurance_document_0291"
+}

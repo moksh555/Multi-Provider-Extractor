@@ -1,0 +1,25 @@
+Resume
+Christine Snyder
+Software Engineer
+Skills: FastAPI, TensorFlow, Machine Learning, Docker, NLP, Streamlit, LangChain, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Christine Snyder",
+  "email": "hugheskimberly@example.org",
+  "phone": "(589)240-1171",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "TensorFlow",
+    "Machine Learning",
+    "Docker",
+    "NLP",
+    "Streamlit",
+    "LangChain",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0844"
+}

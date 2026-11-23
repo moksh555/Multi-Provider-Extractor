@@ -1,0 +1,23 @@
+Resume
+Melissa Griffith MD
+Software Engineer
+Skills: Computer Vision, Python, AWS, Docker, TensorFlow, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Melissa Griffith MD",
+  "email": "maryflores@example.net",
+  "phone": "868.641.9623x32605",
+  "job_title": "Software Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "Python",
+    "AWS",
+    "Docker",
+    "TensorFlow",
+    "NLP"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0152"
+}

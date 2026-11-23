@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL279372193",
+  "full_name": "Jamie Gonzales",
+  "date_of_birth": "1966-08-13",
+  "class": "A",
+  "issue_date": "2024-01-05",
+  "expiry_date": "2029-01-05",
+  "address": "34750 Mitchell Lights Suite 220, South April, OK 81172",
+  "sample_id": "driving_license_0631"
+}

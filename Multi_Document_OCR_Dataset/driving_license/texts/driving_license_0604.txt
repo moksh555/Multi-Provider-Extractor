@@ -1,0 +1,16 @@
+Synthetic Driving License
+Sara Mclean
+License: DL750659228
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL750659228",
+  "full_name": "Sara Mclean",
+  "date_of_birth": "1999-11-08",
+  "class": "C",
+  "issue_date": "2020-12-12",
+  "expiry_date": "2025-12-12",
+  "address": "2983 Johnny Mill Suite 332, Cervantesborough, CO 76799",
+  "sample_id": "driving_license_0604"
+}

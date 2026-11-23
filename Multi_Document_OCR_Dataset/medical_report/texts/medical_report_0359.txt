@@ -1,0 +1,14 @@
+Medical Report MED-NAFSYPQR
+Patient: Christopher Hodges
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-NAFSYPQR",
+  "patient_name": "Christopher Hodges",
+  "visit_date": "2024-09-05",
+  "doctor_name": "Dr. Sarah Moore",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0359"
+}

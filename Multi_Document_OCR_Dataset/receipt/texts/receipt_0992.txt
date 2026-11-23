@@ -1,0 +1,49 @@
+Receipt RCT-J7T5BFXP
+Merchant: Logan-Dickerson
+Date: 2022-09-27
+Total: $933.78
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-J7T5BFXP",
+  "merchant_name": "Logan-Dickerson",
+  "date": "2022-09-27",
+  "subtotal": 897.17,
+  "tax": 47.54,
+  "discount": 10.93,
+  "total": 933.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$1.68",
+      "line_total": "$3.36"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$44.19",
+      "line_total": "$132.57"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$73.79",
+      "line_total": "$295.16"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$77.50",
+      "line_total": "$155.00"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$77.77",
+      "line_total": "$311.08"
+    }
+  ],
+  "sample_id": "receipt_0992"
+}

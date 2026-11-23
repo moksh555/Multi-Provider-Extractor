@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0300",
+  "invoice_number": "INV-2026-0300",
+  "company_name": "Metro Print House",
+  "company_address": "74 Motijheel C/A, Doha, Qatar",
+  "customer_name": "Rahim Traders",
+  "billing_address": "70 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-03-17",
+  "currency": "QAR",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Consulting Service",
+      "quantity": 5,
+      "unit_price": 738.23,
+      "amount": 3691.15
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 6,
+      "unit_price": 239.79,
+      "amount": 1438.74
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 9,
+      "unit_price": 268.01,
+      "amount": 2412.09
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 830.83,
+      "amount": 1661.66
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 8,
+      "unit_price": 13.49,
+      "amount": 107.92
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 8,
+      "unit_price": 425.45,
+      "amount": 3403.6
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 648.29,
+      "amount": 1296.58
+    }
+  ],
+  "subtotal": 14011.74,
+  "discount": 280.23,
+  "tax_rate": 0.15,
+  "tax": 2059.73,
+  "shipping": 50,
+  "total": 15841.24,
+  "amount_paid": 0,
+  "balance_due": 15841.24,
+  "vendor_email": "metroprinthouse@example.com",
+  "vendor_phone": "+8801083681123",
+  "po_number": "PO-37469"
+}

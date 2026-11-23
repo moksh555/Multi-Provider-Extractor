@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-H1ZDBNHL",
+  "account_holder": "Bianca Kim",
+  "account_number_masked": "****5686",
+  "period_start": "2025-02-24",
+  "period_end": "2025-03-26",
+  "opening_balance": 1557.68,
+  "closing_balance": 1836.18,
+  "transactions": 8,
+  "sample_id": "bank_statement_0469"
+}

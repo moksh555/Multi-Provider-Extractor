@@ -1,0 +1,67 @@
+Receipt RCT-Q44G23TY
+Merchant: Davis, Sanchez and Rivas
+Date: 2023-09-12
+Total: $451.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Q44G23TY",
+  "merchant_name": "Davis, Sanchez and Rivas",
+  "date": "2023-09-12",
+  "subtotal": 430.97,
+  "tax": 32.28,
+  "discount": 12.13,
+  "total": 451.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$14.75",
+      "line_total": "$44.25"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$61.58",
+      "line_total": "$61.58"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$36.90",
+      "line_total": "$36.90"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$9.74",
+      "line_total": "$29.22"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$20.48",
+      "line_total": "$61.44"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$26.88",
+      "line_total": "$26.88"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$37.22",
+      "line_total": "$111.66"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$14.76",
+      "line_total": "$59.04"
+    }
+  ],
+  "sample_id": "receipt_0805"
+}

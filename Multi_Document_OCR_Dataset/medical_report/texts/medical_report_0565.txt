@@ -1,0 +1,14 @@
+Medical Report MED-XXRGAFZN
+Patient: Peter Flores
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-XXRGAFZN",
+  "patient_name": "Peter Flores",
+  "visit_date": "2026-12-27",
+  "doctor_name": "Dr. Lori Nelson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0565"
+}

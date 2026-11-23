@@ -1,0 +1,14 @@
+Medical Report MED-DUPWDPEK
+Patient: Michael Diaz
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DUPWDPEK",
+  "patient_name": "Michael Diaz",
+  "visit_date": "2025-12-22",
+  "doctor_name": "Dr. Brenda Ibarra",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0922"
+}

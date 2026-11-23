@@ -1,0 +1,25 @@
+Resume
+John Good
+Backend Developer
+Skills: Machine Learning, AWS, Streamlit, SQL, FastAPI, TensorFlow, LangChain, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "John Good",
+  "email": "bmartin@example.org",
+  "phone": "+1-373-244-8365x6707",
+  "job_title": "Backend Developer",
+  "years_experience": 5,
+  "skills": [
+    "Machine Learning",
+    "AWS",
+    "Streamlit",
+    "SQL",
+    "FastAPI",
+    "TensorFlow",
+    "LangChain",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0512"
+}

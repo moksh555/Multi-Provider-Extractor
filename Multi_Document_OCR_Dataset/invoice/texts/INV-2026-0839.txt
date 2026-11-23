@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0839
+Company: SkyNet Office Mart
+Company Address: 148 Doha Business Park, Dubai, UAE
+Customer: Rahim Traders
+Billing Address: 125 Mirpur DOHS, Dhaka, Bangladesh
+Invoice Date: 2026-01-11
+Due Date: 2026-02-25
+Currency: AED
+Subtotal: 2433.52
+Tax: 182.51
+Total: 2666.03
+Balance Due: 2666.03
+Status: unpaid

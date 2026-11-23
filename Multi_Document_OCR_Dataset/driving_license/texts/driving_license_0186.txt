@@ -1,0 +1,16 @@
+Synthetic Driving License
+Carol Lewis
+License: DL962561802
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL962561802",
+  "full_name": "Carol Lewis",
+  "date_of_birth": "1972-12-07",
+  "class": "A",
+  "issue_date": "2024-06-19",
+  "expiry_date": "2029-06-19",
+  "address": "1632 Flores Stream, North Paulfurt, OH 43247",
+  "sample_id": "driving_license_0186"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-COQT2CRQ",
+  "patient_name": "Austin Weber",
+  "visit_date": "2025-03-26",
+  "doctor_name": "Dr. Heather Davis",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0836"
+}

@@ -1,0 +1,67 @@
+Receipt RCT-9V20YAR8
+Merchant: Willis and Sons
+Date: 2023-07-22
+Total: $800.90
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-9V20YAR8",
+  "merchant_name": "Willis and Sons",
+  "date": "2023-07-22",
+  "subtotal": 751.64,
+  "tax": 54.91,
+  "discount": 5.65,
+  "total": 800.9,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$14.47",
+      "line_total": "$57.88"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$65.91",
+      "line_total": "$131.82"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$46.23",
+      "line_total": "$46.23"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$2.50",
+      "line_total": "$5.00"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$12.96",
+      "line_total": "$51.84"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$40.64",
+      "line_total": "$162.56"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$56.76",
+      "line_total": "$56.76"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$79.85",
+      "line_total": "$239.55"
+    }
+  ],
+  "sample_id": "receipt_0063"
+}

@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0620",
+  "invoice_number": "INV-2026-0620",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "163 Mirpur DOHS, Dhaka, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "73 Sheikh Zayed Road, Dubai, UAE",
+  "invoice_date": "2026-05-01",
+  "due_date": "2026-05-08",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 5,
+      "unit_price": 579.53,
+      "amount": 2897.65
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 3,
+      "unit_price": 27.32,
+      "amount": 81.96
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 2,
+      "unit_price": 801.51,
+      "amount": 1603.02
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 12,
+      "unit_price": 124.79,
+      "amount": 1497.48
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 7,
+      "unit_price": 315.22,
+      "amount": 2206.54
+    }
+  ],
+  "subtotal": 8286.65,
+  "discount": 828.67,
+  "tax_rate": 0.05,
+  "tax": 372.9,
+  "shipping": 25,
+  "total": 7855.88,
+  "amount_paid": 0,
+  "balance_due": 7855.88,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801352899410",
+  "po_number": "PO-86760"
+}

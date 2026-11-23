@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0196
+Company: Eastern Care Pharmacy
+Company Address: 31 Zindabazar Road, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 132 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-21
+Due Date: 2026-02-20
+Currency: BDT
+Subtotal: 15472.48
+Tax: 0.0
+Total: 15472.48
+Balance Due: 0.0
+Status: paid

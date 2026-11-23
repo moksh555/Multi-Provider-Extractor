@@ -1,0 +1,14 @@
+Medical Report MED-KIRH3W8B
+Patient: Jenna Ibarra
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KIRH3W8B",
+  "patient_name": "Jenna Ibarra",
+  "visit_date": "2025-05-07",
+  "doctor_name": "Dr. Michael Bell",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0610"
+}

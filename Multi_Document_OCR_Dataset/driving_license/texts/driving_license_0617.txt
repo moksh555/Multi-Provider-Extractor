@@ -1,0 +1,16 @@
+Synthetic Driving License
+Ronald Miller
+License: DL961251176
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL961251176",
+  "full_name": "Ronald Miller",
+  "date_of_birth": "1975-09-30",
+  "class": "B",
+  "issue_date": "2020-09-24",
+  "expiry_date": "2025-09-24",
+  "address": "0667 Jeffrey Light Apt. 680, Anthonystad, AK 80289",
+  "sample_id": "driving_license_0617"
+}

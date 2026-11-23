@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0755
+Company: UrbanBuild Construction
+Company Address: 61 Road 12, Banani, Doha, Qatar
+Customer: Smart Retail LLC
+Billing Address: 188 Jumeirah Lake Towers, Chattogram, Bangladesh
+Invoice Date: 2026-03-18
+Due Date: 2026-03-25
+Currency: BDT
+Subtotal: 8234.31
+Tax: 411.72
+Total: 8696.03
+Balance Due: 5805.62
+Status: partial

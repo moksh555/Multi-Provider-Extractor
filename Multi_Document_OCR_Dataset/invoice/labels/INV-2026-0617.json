@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0617",
+  "invoice_number": "INV-2026-0617",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "91 Mirpur DOHS, Riyadh, Saudi Arabia",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "188 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-05-10",
+  "due_date": "2026-06-24",
+  "currency": "BDT",
+  "payment_terms": "Net 7",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Accounting Software License",
+      "quantity": 2,
+      "unit_price": 131.29,
+      "amount": 262.58
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 3,
+      "unit_price": 611.15,
+      "amount": 1833.45
+    }
+  ],
+  "subtotal": 2096.03,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 314.4,
+  "shipping": 5,
+  "total": 2415.43,
+  "amount_paid": 2415.43,
+  "balance_due": 0.0,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801164893686",
+  "po_number": "PO-44787"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL338184513",
+  "full_name": "Melissa Owens",
+  "date_of_birth": "1996-02-24",
+  "class": "A",
+  "issue_date": "2020-05-12",
+  "expiry_date": "2025-05-12",
+  "address": "3585 Joel Place Suite 003, West Tiffanybury, MS 85095",
+  "sample_id": "driving_license_0949"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-9FX1PAJE
+Patient: Michele Jones
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-9FX1PAJE",
+  "patient_name": "Michele Jones",
+  "visit_date": "2025-02-17",
+  "doctor_name": "Dr. Jeffrey Greene",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0114"
+}

@@ -1,0 +1,62 @@
+{
+  "invoice_id": "INV-2026-0648",
+  "invoice_number": "INV-2026-0648",
+  "company_name": "PrimeSoft Technologies",
+  "company_address": "29 Al Barsha, Dhaka, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "7 Al Barsha, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-05-07",
+  "currency": "AED",
+  "payment_terms": "Due on Receipt",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 1,
+      "unit_price": 541.97,
+      "amount": 541.97
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 4,
+      "unit_price": 412.4,
+      "amount": 1649.6
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 7,
+      "unit_price": 498.96,
+      "amount": 3492.72
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 10,
+      "unit_price": 153.89,
+      "amount": 1538.9
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 10,
+      "unit_price": 300.15,
+      "amount": 3001.5
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 9,
+      "unit_price": 331.1,
+      "amount": 2979.9
+    }
+  ],
+  "subtotal": 13204.59,
+  "discount": 1320.46,
+  "tax_rate": 0.05,
+  "tax": 594.21,
+  "shipping": 25,
+  "total": 12503.34,
+  "amount_paid": 4689.05,
+  "balance_due": 7814.29,
+  "vendor_email": "primesofttechnologies@example.com",
+  "vendor_phone": "+8801657606271",
+  "po_number": "PO-68236"
+}

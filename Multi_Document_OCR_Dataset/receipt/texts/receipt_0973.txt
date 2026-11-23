@@ -1,0 +1,55 @@
+Receipt RCT-EHNS1C6H
+Merchant: Williams-Murray
+Date: 2026-02-22
+Total: $759.16
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EHNS1C6H",
+  "merchant_name": "Williams-Murray",
+  "date": "2026-02-22",
+  "subtotal": 694.17,
+  "tax": 77.83,
+  "discount": 12.84,
+  "total": 759.16,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$54.06",
+      "line_total": "$108.12"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$55.26",
+      "line_total": "$55.26"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$31.84",
+      "line_total": "$95.52"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$60.07",
+      "line_total": "$60.07"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$37.86",
+      "line_total": "$75.72"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$74.87",
+      "line_total": "$299.48"
+    }
+  ],
+  "sample_id": "receipt_0973"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KN887TLE",
+  "account_holder": "Tonya Gilmore",
+  "account_number_masked": "****4124",
+  "period_start": "2024-03-01",
+  "period_end": "2024-03-31",
+  "opening_balance": 4751.25,
+  "closing_balance": 7963.49,
+  "transactions": 8,
+  "sample_id": "bank_statement_0636"
+}

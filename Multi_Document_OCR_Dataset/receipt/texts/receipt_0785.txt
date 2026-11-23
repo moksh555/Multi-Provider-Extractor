@@ -1,0 +1,43 @@
+Receipt RCT-NIXC6ODR
+Merchant: Anderson, Blanchard and Martinez
+Date: 2025-02-22
+Total: $837.74
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-NIXC6ODR",
+  "merchant_name": "Anderson, Blanchard and Martinez",
+  "date": "2025-02-22",
+  "subtotal": 773.2,
+  "tax": 69.61,
+  "discount": 5.07,
+  "total": 837.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$68.07",
+      "line_total": "$272.28"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$23.79",
+      "line_total": "$47.58"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$73.98",
+      "line_total": "$221.94"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$57.85",
+      "line_total": "$231.40"
+    }
+  ],
+  "sample_id": "receipt_0785"
+}

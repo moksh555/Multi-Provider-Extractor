@@ -1,0 +1,55 @@
+Receipt RCT-N4Q17RO9
+Merchant: Barnes LLC
+Date: 2021-10-23
+Total: $854.34
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-N4Q17RO9",
+  "merchant_name": "Barnes LLC",
+  "date": "2021-10-23",
+  "subtotal": 836.72,
+  "tax": 27.02,
+  "discount": 9.4,
+  "total": 854.34,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$79.68",
+      "line_total": "$239.04"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$54.50",
+      "line_total": "$163.50"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$5.49",
+      "line_total": "$10.98"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$64.70",
+      "line_total": "$64.70"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$76.63",
+      "line_total": "$306.52"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$25.99",
+      "line_total": "$51.98"
+    }
+  ],
+  "sample_id": "receipt_0976"
+}

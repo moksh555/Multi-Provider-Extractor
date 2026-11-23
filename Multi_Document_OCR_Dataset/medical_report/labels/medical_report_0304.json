@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-JTL8F18J",
+  "patient_name": "Phillip Khan",
+  "visit_date": "2024-08-05",
+  "doctor_name": "Dr. Angela Baker",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0304"
+}

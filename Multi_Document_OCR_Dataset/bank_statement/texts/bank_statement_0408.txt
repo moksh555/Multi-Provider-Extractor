@@ -1,0 +1,16 @@
+Bank Statement STM-59ROGA72
+Holder: Christine Allen
+Closing Balance: $4922.27
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-59ROGA72",
+  "account_holder": "Christine Allen",
+  "account_number_masked": "****0560",
+  "period_start": "2026-12-08",
+  "period_end": "2027-01-07",
+  "opening_balance": 2578.25,
+  "closing_balance": 4922.27,
+  "transactions": 14,
+  "sample_id": "bank_statement_0408"
+}

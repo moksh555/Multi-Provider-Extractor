@@ -1,0 +1,27 @@
+Resume
+Lindsey Bean
+Data Analyst
+Skills: TensorFlow, PyTorch, FastAPI, Python, Docker, Machine Learning, Streamlit, Pandas, AWS, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Lindsey Bean",
+  "email": "jasonwalton@example.net",
+  "phone": "368.587.7792x5604",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "PyTorch",
+    "FastAPI",
+    "Python",
+    "Docker",
+    "Machine Learning",
+    "Streamlit",
+    "Pandas",
+    "AWS",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0126"
+}

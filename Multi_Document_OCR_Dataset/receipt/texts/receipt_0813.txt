@@ -1,0 +1,55 @@
+Receipt RCT-UZ5ZCFPV
+Merchant: Schultz, Weaver and Lara
+Date: 2026-08-20
+Total: $518.96
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-UZ5ZCFPV",
+  "merchant_name": "Schultz, Weaver and Lara",
+  "date": "2026-08-20",
+  "subtotal": 473.01,
+  "tax": 48.41,
+  "discount": 2.46,
+  "total": 518.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$11.02",
+      "line_total": "$22.04"
+    },
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$9.16",
+      "line_total": "$27.48"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$33.61",
+      "line_total": "$134.44"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$71.75",
+      "line_total": "$215.25"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$8.45",
+      "line_total": "$8.45"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$65.35",
+      "line_total": "$65.35"
+    }
+  ],
+  "sample_id": "receipt_0813"
+}

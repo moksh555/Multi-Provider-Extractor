@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL411654819",
+  "full_name": "Michael Gill",
+  "date_of_birth": "1990-09-28",
+  "class": "D",
+  "issue_date": "2024-08-03",
+  "expiry_date": "2029-08-03",
+  "address": "6938 John Grove, Morrisshire, CO 15250",
+  "sample_id": "driving_license_0281"
+}

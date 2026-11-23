@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BIQJ6U9B",
+  "account_holder": "Sandra Harris",
+  "account_number_masked": "****7245",
+  "period_start": "2025-09-29",
+  "period_end": "2025-10-29",
+  "opening_balance": 3406.92,
+  "closing_balance": 7356.15,
+  "transactions": 12,
+  "sample_id": "bank_statement_0876"
+}

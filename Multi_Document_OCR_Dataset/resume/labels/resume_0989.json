@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Kristen Gray",
+  "email": "dwest@example.net",
+  "phone": "8094773549",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "PyTorch",
+    "LangChain",
+    "Computer Vision",
+    "Streamlit",
+    "FastAPI",
+    "TensorFlow",
+    "AWS",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0989"
+}

@@ -1,0 +1,61 @@
+Receipt RCT-FP5GOFC5
+Merchant: Ramirez Ltd
+Date: 2021-08-02
+Total: $622.65
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-FP5GOFC5",
+  "merchant_name": "Ramirez Ltd",
+  "date": "2021-08-02",
+  "subtotal": 590.23,
+  "tax": 35.0,
+  "discount": 2.58,
+  "total": 622.65,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$44.29",
+      "line_total": "$132.87"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$19.66",
+      "line_total": "$39.32"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$6.32",
+      "line_total": "$6.32"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$65.57",
+      "line_total": "$196.71"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$62.55",
+      "line_total": "$62.55"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$13.06",
+      "line_total": "$26.12"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$63.17",
+      "line_total": "$126.34"
+    }
+  ],
+  "sample_id": "receipt_0478"
+}

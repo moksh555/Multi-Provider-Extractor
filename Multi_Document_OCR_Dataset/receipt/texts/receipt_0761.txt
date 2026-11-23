@@ -1,0 +1,43 @@
+Receipt RCT-HYA1W3RR
+Merchant: Jackson, Terrell and Becker
+Date: 2026-06-18
+Total: $640.66
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HYA1W3RR",
+  "merchant_name": "Jackson, Terrell and Becker",
+  "date": "2026-06-18",
+  "subtotal": 602.72,
+  "tax": 43.25,
+  "discount": 5.31,
+  "total": 640.66,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$79.21",
+      "line_total": "$237.63"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$17.57",
+      "line_total": "$17.57"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$42.60",
+      "line_total": "$127.80"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$73.24",
+      "line_total": "$219.72"
+    }
+  ],
+  "sample_id": "receipt_0761"
+}

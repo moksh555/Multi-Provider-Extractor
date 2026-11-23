@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0772
+Company: CityBanking Supplies
+Company Address: 63 Agrabad C/A, Chattogram, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 127 Motijheel C/A, Chattogram, Bangladesh
+Invoice Date: 2026-02-25
+Due Date: 2026-03-27
+Currency: BDT
+Subtotal: 17424.83
+Tax: 2561.45
+Total: 19662.78
+Balance Due: 19662.78
+Status: unpaid

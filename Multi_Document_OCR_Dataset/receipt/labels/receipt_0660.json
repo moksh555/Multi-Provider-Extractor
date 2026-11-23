@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-K87322HR",
+  "merchant_name": "Bender, Hancock and Burgess",
+  "date": "2022-10-17",
+  "subtotal": 571.57,
+  "tax": 40.05,
+  "discount": 8.66,
+  "total": 602.96,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$7.56",
+      "line_total": "$7.56"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$17.58",
+      "line_total": "$17.58"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$68.06",
+      "line_total": "$272.24"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$46.67",
+      "line_total": "$46.67"
+    },
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$22.73",
+      "line_total": "$22.73"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$71.11",
+      "line_total": "$71.11"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$66.84",
+      "line_total": "$133.68"
+    }
+  ],
+  "sample_id": "receipt_0660"
+}

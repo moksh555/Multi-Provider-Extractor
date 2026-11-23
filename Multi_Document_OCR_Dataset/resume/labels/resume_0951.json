@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Stephanie Bass",
+  "email": "scotthinton@example.com",
+  "phone": "383.840.7932x818",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "SQL",
+    "FastAPI",
+    "Docker",
+    "LangChain",
+    "Deep Learning",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0951"
+}

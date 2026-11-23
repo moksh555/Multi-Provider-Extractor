@@ -1,0 +1,55 @@
+Receipt RCT-ICAUTJX6
+Merchant: Velez, Ward and Harrison
+Date: 2022-04-24
+Total: $909.37
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ICAUTJX6",
+  "merchant_name": "Velez, Ward and Harrison",
+  "date": "2022-04-24",
+  "subtotal": 832.12,
+  "tax": 87.35,
+  "discount": 10.1,
+  "total": 909.37,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$56.10",
+      "line_total": "$224.40"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$23.75",
+      "line_total": "$47.50"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$28.16",
+      "line_total": "$112.64"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$47.43",
+      "line_total": "$94.86"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$11.36",
+      "line_total": "$45.44"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$76.82",
+      "line_total": "$307.28"
+    }
+  ],
+  "sample_id": "receipt_0238"
+}

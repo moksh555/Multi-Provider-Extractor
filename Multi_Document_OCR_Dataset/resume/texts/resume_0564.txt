@@ -1,0 +1,27 @@
+Resume
+Ashley Roberts
+Computer Vision Engineer
+Skills: Pandas, LangChain, Streamlit, Deep Learning, Computer Vision, NLP, Python, TensorFlow, FastAPI, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Ashley Roberts",
+  "email": "rebekah04@example.com",
+  "phone": "(360)697-9629",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Pandas",
+    "LangChain",
+    "Streamlit",
+    "Deep Learning",
+    "Computer Vision",
+    "NLP",
+    "Python",
+    "TensorFlow",
+    "FastAPI",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0564"
+}

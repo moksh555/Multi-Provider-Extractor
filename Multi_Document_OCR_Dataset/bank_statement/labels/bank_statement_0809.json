@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-17V3M13O",
+  "account_holder": "Becky Smith",
+  "account_number_masked": "****5899",
+  "period_start": "2025-03-22",
+  "period_end": "2025-04-21",
+  "opening_balance": 748.22,
+  "closing_balance": 2595.48,
+  "transactions": 12,
+  "sample_id": "bank_statement_0809"
+}

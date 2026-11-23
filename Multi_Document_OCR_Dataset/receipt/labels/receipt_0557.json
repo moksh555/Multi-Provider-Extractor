@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-L83K88RH",
+  "merchant_name": "Mcmahon-Olson",
+  "date": "2025-06-29",
+  "subtotal": 322.26,
+  "tax": 15.6,
+  "discount": 8.42,
+  "total": 329.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$2.96",
+      "line_total": "$5.92"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$28.57",
+      "line_total": "$57.14"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$34.65",
+      "line_total": "$138.60"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$40.20",
+      "line_total": "$120.60"
+    }
+  ],
+  "sample_id": "receipt_0557"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-TUQODZ4A
+Holder: Justin White
+Closing Balance: $7013.88
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TUQODZ4A",
+  "account_holder": "Justin White",
+  "account_number_masked": "****6544",
+  "period_start": "2026-06-06",
+  "period_end": "2026-07-06",
+  "opening_balance": 3129.09,
+  "closing_balance": 7013.88,
+  "transactions": 8,
+  "sample_id": "bank_statement_0271"
+}

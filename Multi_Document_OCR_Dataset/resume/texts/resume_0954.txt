@@ -1,0 +1,23 @@
+Resume
+Alexis Dixon
+Backend Developer
+Skills: AWS, LangChain, TensorFlow, Pandas, Python, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Alexis Dixon",
+  "email": "jeffreyboyd@example.org",
+  "phone": "001-865-861-9789x6812",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "AWS",
+    "LangChain",
+    "TensorFlow",
+    "Pandas",
+    "Python",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0954"
+}

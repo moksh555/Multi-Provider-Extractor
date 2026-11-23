@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-Z6X4FMME",
+  "merchant_name": "Malone-Keller",
+  "date": "2025-04-27",
+  "subtotal": 399.08,
+  "tax": 21.81,
+  "discount": 7.42,
+  "total": 413.47,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$26.58",
+      "line_total": "$26.58"
+    },
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$66.26",
+      "line_total": "$265.04"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$53.73",
+      "line_total": "$107.46"
+    }
+  ],
+  "sample_id": "receipt_0423"
+}

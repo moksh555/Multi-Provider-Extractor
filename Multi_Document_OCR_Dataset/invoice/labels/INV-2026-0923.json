@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0923",
+  "invoice_number": "INV-2026-0923",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "159 Agrabad C/A, Sylhet, Bangladesh",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "112 Dhanmondi 27, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-16",
+  "due_date": "2026-01-31",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 11,
+      "unit_price": 259.92,
+      "amount": 2859.12
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 7,
+      "unit_price": 178.72,
+      "amount": 1251.04
+    }
+  ],
+  "subtotal": 4110.16,
+  "discount": 205.51,
+  "tax_rate": 0.15,
+  "tax": 585.7,
+  "shipping": 0,
+  "total": 4490.35,
+  "amount_paid": 3040.21,
+  "balance_due": 1450.14,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801526817433",
+  "po_number": "PO-83459"
+}

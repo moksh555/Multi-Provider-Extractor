@@ -1,0 +1,16 @@
+Synthetic Driving License
+Laura Taylor
+License: DL642151581
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL642151581",
+  "full_name": "Laura Taylor",
+  "date_of_birth": "1974-12-03",
+  "class": "B",
+  "issue_date": "2022-11-23",
+  "expiry_date": "2027-11-23",
+  "address": "92511 Thomas Mall, Lake Mitchell, GA 57997",
+  "sample_id": "driving_license_0337"
+}

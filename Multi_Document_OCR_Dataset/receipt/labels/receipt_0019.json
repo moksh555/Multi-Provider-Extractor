@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-EIYZCOTO",
+  "merchant_name": "Arnold-Patterson",
+  "date": "2023-04-28",
+  "subtotal": 654.26,
+  "tax": 66.63,
+  "discount": 10.86,
+  "total": 710.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$68.68",
+      "line_total": "$68.68"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$1.47",
+      "line_total": "$5.88"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$60.52",
+      "line_total": "$181.56"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$39.57",
+      "line_total": "$79.14"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$39.37",
+      "line_total": "$157.48"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$53.84",
+      "line_total": "$161.52"
+    }
+  ],
+  "sample_id": "receipt_0019"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Nicholas Parker
+License: DL446212907
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL446212907",
+  "full_name": "Nicholas Parker",
+  "date_of_birth": "2003-02-08",
+  "class": "D",
+  "issue_date": "2026-05-05",
+  "expiry_date": "2031-05-05",
+  "address": "85948 Lawson Causeway Apt. 562, Lindaside, OH 78438",
+  "sample_id": "driving_license_0509"
+}

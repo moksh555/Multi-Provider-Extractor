@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0316",
+  "invoice_number": "INV-2026-0316",
+  "company_name": "Delta Insurance Services",
+  "company_address": "169 Uttara Sector 7, Riyadh, Saudi Arabia",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "48 Motijheel C/A, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-09",
+  "due_date": "2026-04-23",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Office Chair",
+      "quantity": 6,
+      "unit_price": 21.41,
+      "amount": 128.46
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 269.46,
+      "amount": 2694.6
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 12,
+      "unit_price": 548.82,
+      "amount": 6585.84
+    }
+  ],
+  "subtotal": 9408.9,
+  "discount": 188.18,
+  "tax_rate": 0.1,
+  "tax": 922.07,
+  "shipping": 5,
+  "total": 10147.79,
+  "amount_paid": 6376.72,
+  "balance_due": 3771.07,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801160079681",
+  "po_number": "PO-33138"
+}

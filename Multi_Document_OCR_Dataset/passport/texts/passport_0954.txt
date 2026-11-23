@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Sara Daniels
+Passport No: P65045622
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P65045622",
+  "full_name": "Sara Daniels",
+  "nationality": "CA",
+  "date_of_birth": "1994-01-31",
+  "issue_date": "2023-12-24",
+  "expiry_date": "2033-12-24",
+  "place_of_birth": "Wardburgh",
+  "sample_id": "passport_0954"
+}

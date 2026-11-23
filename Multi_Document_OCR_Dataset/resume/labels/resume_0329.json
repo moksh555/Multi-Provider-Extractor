@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Jennifer Larson",
+  "email": "qgoodman@example.org",
+  "phone": "(726)594-2041x641",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "Streamlit",
+    "Machine Learning",
+    "PyTorch",
+    "AWS",
+    "Python",
+    "LangChain",
+    "NLP",
+    "Deep Learning"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0329"
+}

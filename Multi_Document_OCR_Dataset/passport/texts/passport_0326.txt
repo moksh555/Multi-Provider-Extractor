@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Madeline Kim
+Passport No: P63129383
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P63129383",
+  "full_name": "Madeline Kim",
+  "nationality": "US",
+  "date_of_birth": "1984-04-07",
+  "issue_date": "2020-09-17",
+  "expiry_date": "2030-09-17",
+  "place_of_birth": "New Susan",
+  "sample_id": "passport_0326"
+}

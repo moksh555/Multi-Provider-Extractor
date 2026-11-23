@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kimberly Dudley
+License: DL227133320
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL227133320",
+  "full_name": "Kimberly Dudley",
+  "date_of_birth": "2001-03-20",
+  "class": "A",
+  "issue_date": "2026-01-05",
+  "expiry_date": "2031-01-05",
+  "address": "959 Janet Cape Apt. 413, South Joshuastad, GA 49021",
+  "sample_id": "driving_license_0003"
+}

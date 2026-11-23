@@ -1,0 +1,16 @@
+Bank Statement STM-SK2Q1YJU
+Holder: Joseph Lamb
+Closing Balance: $4949.24
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SK2Q1YJU",
+  "account_holder": "Joseph Lamb",
+  "account_number_masked": "****6021",
+  "period_start": "2024-05-24",
+  "period_end": "2024-06-23",
+  "opening_balance": 4659.47,
+  "closing_balance": 4949.24,
+  "transactions": 13,
+  "sample_id": "bank_statement_0873"
+}

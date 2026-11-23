@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-Q3EQ8DH9P",
+  "policy_holder": "Carla Young",
+  "policy_type": "Life Insurance",
+  "issue_date": "2023-12-07",
+  "expiry_date": "2024-12-07",
+  "premium": 1550.25,
+  "coverage_amount": 115907.27,
+  "beneficiary": "Ashley Daugherty",
+  "sample_id": "insurance_document_0733"
+}

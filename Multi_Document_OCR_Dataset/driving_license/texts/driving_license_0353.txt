@@ -1,0 +1,16 @@
+Synthetic Driving License
+Grant Lucas
+License: DL577944501
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL577944501",
+  "full_name": "Grant Lucas",
+  "date_of_birth": "1966-01-22",
+  "class": "B",
+  "issue_date": "2024-04-16",
+  "expiry_date": "2029-04-16",
+  "address": "4924 Kristina Forks Suite 540, West Justin, GA 81586",
+  "sample_id": "driving_license_0353"
+}

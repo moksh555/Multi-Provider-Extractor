@@ -1,0 +1,14 @@
+Medical Report MED-E8AJMWRO
+Patient: Scott Vargas
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-E8AJMWRO",
+  "patient_name": "Scott Vargas",
+  "visit_date": "2025-06-01",
+  "doctor_name": "Dr. Nathan Santiago",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0192"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JZXCV21R",
+  "account_holder": "Dr. Lisa Ramos",
+  "account_number_masked": "****0160",
+  "period_start": "2026-01-16",
+  "period_end": "2026-02-15",
+  "opening_balance": 2011.98,
+  "closing_balance": 2025.58,
+  "transactions": 12,
+  "sample_id": "bank_statement_0514"
+}

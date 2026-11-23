@@ -1,0 +1,16 @@
+Bank Statement STM-MX1VZAP3
+Holder: Samantha Gardner
+Closing Balance: $4913.72
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-MX1VZAP3",
+  "account_holder": "Samantha Gardner",
+  "account_number_masked": "****4394",
+  "period_start": "2026-04-22",
+  "period_end": "2026-05-22",
+  "opening_balance": 4565.53,
+  "closing_balance": 4913.72,
+  "transactions": 13,
+  "sample_id": "bank_statement_0753"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-SJ5SAPYX",
+  "patient_name": "Maureen Russell",
+  "visit_date": "2025-07-18",
+  "doctor_name": "Dr. Andrea Ward",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0979"
+}

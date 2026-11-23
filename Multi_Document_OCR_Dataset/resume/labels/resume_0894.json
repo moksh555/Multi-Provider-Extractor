@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Shannon Reyes",
+  "email": "sosastuart@example.net",
+  "phone": "(661)480-8438x8168",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "AWS",
+    "PyTorch",
+    "LangChain",
+    "Machine Learning",
+    "SQL",
+    "Computer Vision",
+    "Streamlit",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0894"
+}

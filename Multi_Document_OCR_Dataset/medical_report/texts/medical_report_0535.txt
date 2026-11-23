@@ -1,0 +1,14 @@
+Medical Report MED-RK761JFA
+Patient: Matthew Mcdonald
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RK761JFA",
+  "patient_name": "Matthew Mcdonald",
+  "visit_date": "2025-11-10",
+  "doctor_name": "Dr. Emily Young",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0535"
+}

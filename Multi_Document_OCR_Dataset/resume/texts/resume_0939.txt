@@ -1,0 +1,25 @@
+Resume
+David Griffin
+Computer Vision Engineer
+Skills: NLP, Computer Vision, TensorFlow, Deep Learning, PyTorch, Machine Learning, AWS, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "David Griffin",
+  "email": "ebenjamin@example.org",
+  "phone": "6587582196",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "Computer Vision",
+    "TensorFlow",
+    "Deep Learning",
+    "PyTorch",
+    "Machine Learning",
+    "AWS",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0939"
+}

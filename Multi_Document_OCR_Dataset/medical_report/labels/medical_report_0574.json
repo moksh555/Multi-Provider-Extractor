@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-2RAUIF9G",
+  "patient_name": "John Strickland",
+  "visit_date": "2024-10-24",
+  "doctor_name": "Dr. Julie Webb",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0574"
+}

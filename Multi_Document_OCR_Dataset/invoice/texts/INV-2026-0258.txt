@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0258
+Company: Greenline Logistics
+Company Address: 190 Jumeirah Lake Towers, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 132 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-06-17
+Due Date: 2026-07-02
+Currency: AED
+Subtotal: 12900.6
+Tax: 1290.06
+Total: 14190.66
+Balance Due: 5692.1
+Status: partial

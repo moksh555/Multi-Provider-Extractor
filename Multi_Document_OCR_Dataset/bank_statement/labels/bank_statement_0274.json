@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-2N0IDC8H",
+  "account_holder": "Rose Harris",
+  "account_number_masked": "****6254",
+  "period_start": "2026-01-29",
+  "period_end": "2026-02-28",
+  "opening_balance": 2478.85,
+  "closing_balance": 4401.14,
+  "transactions": 11,
+  "sample_id": "bank_statement_0274"
+}

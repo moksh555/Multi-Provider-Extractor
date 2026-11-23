@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL246273671",
+  "full_name": "Brad Ruiz",
+  "date_of_birth": "1975-01-13",
+  "class": "D",
+  "issue_date": "2025-03-15",
+  "expiry_date": "2030-03-15",
+  "address": "86857 White Station, Aliciafort, VT 65354",
+  "sample_id": "driving_license_0457"
+}

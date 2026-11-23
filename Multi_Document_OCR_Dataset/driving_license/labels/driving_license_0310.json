@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL346652635",
+  "full_name": "Anthony Simmons",
+  "date_of_birth": "1985-10-21",
+  "class": "D",
+  "issue_date": "2020-07-11",
+  "expiry_date": "2025-07-11",
+  "address": "545 Jennifer Skyway Apt. 792, Port Leahmouth, CT 60215",
+  "sample_id": "driving_license_0310"
+}

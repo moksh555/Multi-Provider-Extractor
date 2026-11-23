@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TNZRF5A7Q",
+  "policy_holder": "Jeanne Wolfe",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-12-21",
+  "expiry_date": "2026-12-21",
+  "premium": 1745.25,
+  "coverage_amount": 30098.63,
+  "beneficiary": "Jason Coleman",
+  "sample_id": "insurance_document_0431"
+}

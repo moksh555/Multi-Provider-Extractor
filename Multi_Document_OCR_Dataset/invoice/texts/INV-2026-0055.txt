@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0055
+Company: Golden Harvest Store
+Company Address: 45 Doha Business Park, Doha, Qatar
+Customer: Apex Health Ltd
+Billing Address: 126 Mirpur DOHS, Doha, Qatar
+Invoice Date: 2026-06-14
+Due Date: 2026-06-21
+Currency: QAR
+Subtotal: 3359.14
+Tax: 0.0
+Total: 3359.14
+Balance Due: 0.0
+Status: paid

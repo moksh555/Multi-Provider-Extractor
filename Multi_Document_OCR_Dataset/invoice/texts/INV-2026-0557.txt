@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0557
+Company: BlueRiver Trading Co.
+Company Address: 111 Agrabad C/A, Dubai, UAE
+Customer: Future School
+Billing Address: 213 Road 12, Banani, Sylhet, Bangladesh
+Invoice Date: 2026-01-12
+Due Date: 2026-01-27
+Currency: QAR
+Subtotal: 6533.9
+Tax: 640.32
+Total: 7068.54
+Balance Due: 0.0
+Status: paid

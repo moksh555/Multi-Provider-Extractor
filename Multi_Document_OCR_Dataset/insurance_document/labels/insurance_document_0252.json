@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1L0VDP6OR",
+  "policy_holder": "Kathleen Golden",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-02-04",
+  "expiry_date": "2026-02-04",
+  "premium": 2074.02,
+  "coverage_amount": 262482.15,
+  "beneficiary": "Lori Carter",
+  "sample_id": "insurance_document_0252"
+}

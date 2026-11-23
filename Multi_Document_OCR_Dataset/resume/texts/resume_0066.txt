@@ -1,0 +1,26 @@
+Resume
+Summer Jackson
+Backend Developer
+Skills: TensorFlow, FastAPI, Streamlit, Pandas, Docker, AWS, Machine Learning, PyTorch, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Summer Jackson",
+  "email": "peter88@example.com",
+  "phone": "+1-797-495-7285x759",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "TensorFlow",
+    "FastAPI",
+    "Streamlit",
+    "Pandas",
+    "Docker",
+    "AWS",
+    "Machine Learning",
+    "PyTorch",
+    "SQL"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0066"
+}

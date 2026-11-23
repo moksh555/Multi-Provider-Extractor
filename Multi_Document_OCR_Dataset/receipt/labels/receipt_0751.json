@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-N4XJP7WZ",
+  "merchant_name": "Sims Group",
+  "date": "2023-07-06",
+  "subtotal": 673.02,
+  "tax": 20.74,
+  "discount": 10.09,
+  "total": 683.67,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$4.69",
+      "line_total": "$9.38"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$2.71",
+      "line_total": "$5.42"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$55.41",
+      "line_total": "$166.23"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$34.44",
+      "line_total": "$34.44"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$61.13",
+      "line_total": "$122.26"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$24.17",
+      "line_total": "$72.51"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$40.08",
+      "line_total": "$120.24"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$71.27",
+      "line_total": "$142.54"
+    }
+  ],
+  "sample_id": "receipt_0751"
+}

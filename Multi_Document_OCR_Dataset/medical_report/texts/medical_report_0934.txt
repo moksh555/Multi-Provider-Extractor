@@ -1,0 +1,14 @@
+Medical Report MED-N21S0GDG
+Patient: Paige Barajas
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-N21S0GDG",
+  "patient_name": "Paige Barajas",
+  "visit_date": "2024-10-06",
+  "doctor_name": "Dr. Michael Allen",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0934"
+}

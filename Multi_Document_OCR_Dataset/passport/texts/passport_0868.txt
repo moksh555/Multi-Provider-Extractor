@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Linda Lamb
+Passport No: P17232980
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P17232980",
+  "full_name": "Linda Lamb",
+  "nationality": "GB",
+  "date_of_birth": "1995-02-17",
+  "issue_date": "2021-06-07",
+  "expiry_date": "2031-06-07",
+  "place_of_birth": "Stoneside",
+  "sample_id": "passport_0868"
+}

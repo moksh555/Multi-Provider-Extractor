@@ -1,0 +1,16 @@
+Insurance Policy POL-9HMHVL66S
+Holder: Thomas Roberts
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-9HMHVL66S",
+  "policy_holder": "Thomas Roberts",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-05-27",
+  "expiry_date": "2027-05-27",
+  "premium": 769.81,
+  "coverage_amount": 327136.88,
+  "beneficiary": "Tyler Myers",
+  "sample_id": "insurance_document_0861"
+}

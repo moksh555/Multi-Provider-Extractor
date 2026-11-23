@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0473
+Company: Royal Diagnostics Center
+Company Address: 70 Road 12, Banani, Chattogram, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 70 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-01-12
+Due Date: 2026-01-27
+Currency: QAR
+Subtotal: 10914.05
+Tax: 1091.4
+Total: 12005.45
+Balance Due: 4011.64
+Status: partial

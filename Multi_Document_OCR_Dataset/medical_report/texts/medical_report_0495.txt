@@ -1,0 +1,14 @@
+Medical Report MED-YB0QF7Y1
+Patient: Sandra Wells
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YB0QF7Y1",
+  "patient_name": "Sandra Wells",
+  "visit_date": "2024-11-19",
+  "doctor_name": "Dr. David Fields",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0495"
+}

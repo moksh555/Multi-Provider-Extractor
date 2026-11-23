@@ -1,0 +1,14 @@
+Medical Report MED-BEFRDV64
+Patient: Angela Tucker
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BEFRDV64",
+  "patient_name": "Angela Tucker",
+  "visit_date": "2024-09-23",
+  "doctor_name": "Dr. Andrew Jenkins",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0596"
+}

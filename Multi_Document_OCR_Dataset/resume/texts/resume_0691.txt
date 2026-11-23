@@ -1,0 +1,23 @@
+Resume
+Leah White
+Data Analyst
+Skills: Python, TensorFlow, PyTorch, Machine Learning, Streamlit, SQL
+
+{
+  "category": "resume",
+  "candidate_name": "Leah White",
+  "email": "jonesshelby@example.com",
+  "phone": "255.957.4863x281",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "Streamlit",
+    "SQL"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0691"
+}

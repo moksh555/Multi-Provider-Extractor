@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Michael Green",
+  "email": "kimberlysilva@example.net",
+  "phone": "001-293-697-5955x36422",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Streamlit",
+    "TensorFlow",
+    "LangChain",
+    "SQL",
+    "Computer Vision",
+    "PyTorch"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0767"
+}

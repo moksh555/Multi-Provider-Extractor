@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-0QZFHOMTZ",
+  "policy_holder": "Breanna Pena",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-11-26",
+  "expiry_date": "2024-11-26",
+  "premium": 1046.07,
+  "coverage_amount": 321579.54,
+  "beneficiary": "Gina Clark",
+  "sample_id": "insurance_document_0325"
+}

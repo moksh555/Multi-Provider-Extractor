@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-3NF27E6L",
+  "merchant_name": "Robles, Cox and Solis",
+  "date": "2022-09-12",
+  "subtotal": 240.55,
+  "tax": 27.62,
+  "discount": 1.53,
+  "total": 266.64,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$27.61",
+      "line_total": "$55.22"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$46.05",
+      "line_total": "$46.05"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$34.82",
+      "line_total": "$139.28"
+    }
+  ],
+  "sample_id": "receipt_0735"
+}

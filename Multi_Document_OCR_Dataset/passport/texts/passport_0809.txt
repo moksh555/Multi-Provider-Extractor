@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Richard Martinez
+Passport No: P87146346
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P87146346",
+  "full_name": "Richard Martinez",
+  "nationality": "GB",
+  "date_of_birth": "1991-05-19",
+  "issue_date": "2020-02-18",
+  "expiry_date": "2030-02-18",
+  "place_of_birth": "Lake Charles",
+  "sample_id": "passport_0809"
+}

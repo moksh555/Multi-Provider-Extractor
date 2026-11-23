@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kyle Flores
+License: DL664419980
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL664419980",
+  "full_name": "Kyle Flores",
+  "date_of_birth": "1992-04-25",
+  "class": "C",
+  "issue_date": "2020-07-06",
+  "expiry_date": "2025-07-06",
+  "address": "588 Perez Lodge, Shermanport, GU 59412",
+  "sample_id": "driving_license_0684"
+}

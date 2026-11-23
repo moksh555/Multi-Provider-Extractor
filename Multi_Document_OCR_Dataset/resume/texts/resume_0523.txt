@@ -1,0 +1,26 @@
+Resume
+Timothy Beck
+Machine Learning Engineer
+Skills: Pandas, Python, TensorFlow, AWS, Docker, PyTorch, Deep Learning, NLP, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Timothy Beck",
+  "email": "zclark@example.org",
+  "phone": "808.446.0172",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Pandas",
+    "Python",
+    "TensorFlow",
+    "AWS",
+    "Docker",
+    "PyTorch",
+    "Deep Learning",
+    "NLP",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0523"
+}

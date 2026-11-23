@@ -1,0 +1,24 @@
+Resume
+Michael Montgomery
+Backend Developer
+Skills: Pandas, Streamlit, LangChain, NLP, Machine Learning, PyTorch, Deep Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Montgomery",
+  "email": "whitehaley@example.org",
+  "phone": "214-774-7299",
+  "job_title": "Backend Developer",
+  "years_experience": 8,
+  "skills": [
+    "Pandas",
+    "Streamlit",
+    "LangChain",
+    "NLP",
+    "Machine Learning",
+    "PyTorch",
+    "Deep Learning"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0813"
+}

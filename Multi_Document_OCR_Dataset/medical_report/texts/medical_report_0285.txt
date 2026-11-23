@@ -1,0 +1,14 @@
+Medical Report MED-94YTNCZ7
+Patient: Michael Graham
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-94YTNCZ7",
+  "patient_name": "Michael Graham",
+  "visit_date": "2025-04-13",
+  "doctor_name": "Dr. Dr. Ian Cunningham",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0285"
+}

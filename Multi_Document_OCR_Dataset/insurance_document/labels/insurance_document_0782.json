@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-B4EYQ1S4D",
+  "policy_holder": "James Morales",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-08-23",
+  "expiry_date": "2027-08-23",
+  "premium": 374.78,
+  "coverage_amount": 301226.45,
+  "beneficiary": "Richard Beck",
+  "sample_id": "insurance_document_0782"
+}

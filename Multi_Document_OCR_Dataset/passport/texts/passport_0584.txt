@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Joshua Lowe
+Passport No: P10882703
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P10882703",
+  "full_name": "Joshua Lowe",
+  "nationality": "GB",
+  "date_of_birth": "1974-06-07",
+  "issue_date": "2026-10-28",
+  "expiry_date": "2036-10-28",
+  "place_of_birth": "Castanedaport",
+  "sample_id": "passport_0584"
+}

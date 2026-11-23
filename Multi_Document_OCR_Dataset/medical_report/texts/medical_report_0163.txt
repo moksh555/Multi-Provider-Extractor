@@ -1,0 +1,14 @@
+Medical Report MED-02GNG9O2
+Patient: Mr. Austin Rivera
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-02GNG9O2",
+  "patient_name": "Mr. Austin Rivera",
+  "visit_date": "2024-11-05",
+  "doctor_name": "Dr. Tanya Patterson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0163"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL526174163",
+  "full_name": "Patrick Lindsey",
+  "date_of_birth": "2001-02-25",
+  "class": "A",
+  "issue_date": "2024-10-15",
+  "expiry_date": "2029-10-15",
+  "address": "8645 Amanda Freeway, Pricefurt, PW 33994",
+  "sample_id": "driving_license_0389"
+}

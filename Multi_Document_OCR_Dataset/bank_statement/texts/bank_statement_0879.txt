@@ -1,0 +1,16 @@
+Bank Statement STM-PX995405
+Holder: Debra Hendricks
+Closing Balance: $3381.56
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-PX995405",
+  "account_holder": "Debra Hendricks",
+  "account_number_masked": "****6313",
+  "period_start": "2026-12-31",
+  "period_end": "2027-01-30",
+  "opening_balance": 1398.64,
+  "closing_balance": 3381.56,
+  "transactions": 13,
+  "sample_id": "bank_statement_0879"
+}

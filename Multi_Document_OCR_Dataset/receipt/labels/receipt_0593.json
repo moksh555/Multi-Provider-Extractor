@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-CDHZG58X",
+  "merchant_name": "Hughes, Ross and Strong",
+  "date": "2023-11-30",
+  "subtotal": 356.07,
+  "tax": 23.27,
+  "discount": 14.36,
+  "total": 364.98,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$35.61",
+      "line_total": "$35.61"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$8.89",
+      "line_total": "$35.56"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$67.72",
+      "line_total": "$135.44"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$74.53",
+      "line_total": "$74.53"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$73.16",
+      "line_total": "$73.16"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$1.77",
+      "line_total": "$1.77"
+    }
+  ],
+  "sample_id": "receipt_0593"
+}

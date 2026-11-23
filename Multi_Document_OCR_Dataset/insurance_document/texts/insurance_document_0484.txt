@@ -1,0 +1,16 @@
+Insurance Policy POL-GK0EEYYLH
+Holder: Patrick Willis II
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GK0EEYYLH",
+  "policy_holder": "Patrick Willis II",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-05-20",
+  "expiry_date": "2026-05-20",
+  "premium": 1764.15,
+  "coverage_amount": 394174.56,
+  "beneficiary": "Patricia Wood",
+  "sample_id": "insurance_document_0484"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL105248169",
+  "full_name": "Robert Ortega",
+  "date_of_birth": "1995-01-12",
+  "class": "B",
+  "issue_date": "2022-12-27",
+  "expiry_date": "2027-12-27",
+  "address": "387 Harris Divide Suite 169, New Mark, OK 64851",
+  "sample_id": "driving_license_0466"
+}

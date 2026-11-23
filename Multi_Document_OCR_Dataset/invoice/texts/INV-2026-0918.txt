@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0918
+Company: Nexus Digital Solutions
+Company Address: 16 Gulshan Avenue, Doha, Qatar
+Customer: Rahim Traders
+Billing Address: 172 Road 12, Banani, Dhaka, Bangladesh
+Invoice Date: 2026-04-26
+Due Date: 2026-05-11
+Currency: QAR
+Subtotal: 17523.85
+Tax: 1248.57
+Total: 17896.23
+Balance Due: 12461.93
+Status: partial

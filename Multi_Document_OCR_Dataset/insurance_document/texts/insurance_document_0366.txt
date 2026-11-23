@@ -1,0 +1,16 @@
+Insurance Policy POL-PD2TSXTV7
+Holder: Joseph Graves PhD
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PD2TSXTV7",
+  "policy_holder": "Joseph Graves PhD",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-01-31",
+  "expiry_date": "2027-01-31",
+  "premium": 2479.68,
+  "coverage_amount": 169080.51,
+  "beneficiary": "Lisa Mosley",
+  "sample_id": "insurance_document_0366"
+}

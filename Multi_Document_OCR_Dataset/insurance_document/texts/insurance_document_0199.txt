@@ -1,0 +1,16 @@
+Insurance Policy POL-63E1OCJXZ
+Holder: Christopher Murillo
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-63E1OCJXZ",
+  "policy_holder": "Christopher Murillo",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2024-05-26",
+  "expiry_date": "2025-05-26",
+  "premium": 468.06,
+  "coverage_amount": 167827.39,
+  "beneficiary": "Harold Edwards",
+  "sample_id": "insurance_document_0199"
+}

@@ -1,0 +1,25 @@
+Resume
+Aaron Young
+Computer Vision Engineer
+Skills: SQL, Machine Learning, Pandas, PyTorch, Streamlit, NLP, Computer Vision, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Aaron Young",
+  "email": "kclark@example.net",
+  "phone": "203-880-4374x1269",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Machine Learning",
+    "Pandas",
+    "PyTorch",
+    "Streamlit",
+    "NLP",
+    "Computer Vision",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0690"
+}

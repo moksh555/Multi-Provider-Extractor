@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9PLILM8Q",
+  "patient_name": "Nicholas Johnson",
+  "visit_date": "2025-06-20",
+  "doctor_name": "Dr. Willie Cole",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0761"
+}

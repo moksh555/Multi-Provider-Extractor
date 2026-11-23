@@ -1,0 +1,55 @@
+Receipt RCT-8RA484NL
+Merchant: Mclaughlin and Sons
+Date: 2024-01-31
+Total: $1044.35
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8RA484NL",
+  "merchant_name": "Mclaughlin and Sons",
+  "date": "2024-01-31",
+  "subtotal": 1015.95,
+  "tax": 31.56,
+  "discount": 3.16,
+  "total": 1044.35,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$32.43",
+      "line_total": "$97.29"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$42.53",
+      "line_total": "$42.53"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$75.23",
+      "line_total": "$300.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$32.10",
+      "line_total": "$96.30"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$78.14",
+      "line_total": "$312.56"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$55.45",
+      "line_total": "$166.35"
+    }
+  ],
+  "sample_id": "receipt_0147"
+}

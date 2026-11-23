@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XPSPAQALU",
+  "policy_holder": "Rachel Warren",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-03-18",
+  "expiry_date": "2027-03-18",
+  "premium": 352.59,
+  "coverage_amount": 249295.72,
+  "beneficiary": "Dale Beck",
+  "sample_id": "insurance_document_0500"
+}

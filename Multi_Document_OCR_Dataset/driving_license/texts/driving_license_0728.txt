@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Glenn
+License: DL004362345
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL004362345",
+  "full_name": "Michael Glenn",
+  "date_of_birth": "1964-08-19",
+  "class": "A",
+  "issue_date": "2023-05-31",
+  "expiry_date": "2028-05-31",
+  "address": "81199 Allen Vista Suite 660, Port Kaylaview, MH 33487",
+  "sample_id": "driving_license_0728"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-WYQHR133N
+Holder: Kathleen Sanchez
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-WYQHR133N",
+  "policy_holder": "Kathleen Sanchez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-01-13",
+  "expiry_date": "2025-01-13",
+  "premium": 2086.08,
+  "coverage_amount": 13295.44,
+  "beneficiary": "Mr. Keith Medina",
+  "sample_id": "insurance_document_0593"
+}

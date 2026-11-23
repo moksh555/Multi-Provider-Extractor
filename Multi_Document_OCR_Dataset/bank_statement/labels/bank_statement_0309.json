@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7IMW4HGI",
+  "account_holder": "Jerry Ferguson",
+  "account_number_masked": "****7582",
+  "period_start": "2025-09-27",
+  "period_end": "2025-10-27",
+  "opening_balance": 956.62,
+  "closing_balance": 4195.19,
+  "transactions": 9,
+  "sample_id": "bank_statement_0309"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-DVKOK3NV
+Patient: Tiffany Scott
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-DVKOK3NV",
+  "patient_name": "Tiffany Scott",
+  "visit_date": "2024-11-02",
+  "doctor_name": "Dr. Brian Krueger",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0373"
+}

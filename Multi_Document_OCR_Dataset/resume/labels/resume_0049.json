@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Logan Golden",
+  "email": "kristinwest@example.com",
+  "phone": "+1-926-963-2956x342",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Streamlit",
+    "AWS",
+    "LangChain",
+    "Machine Learning",
+    "Pandas",
+    "Computer Vision"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0049"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BY4UBZCZJ",
+  "policy_holder": "Nicole Tate",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2023-02-03",
+  "expiry_date": "2024-02-03",
+  "premium": 1734.56,
+  "coverage_amount": 430170.25,
+  "beneficiary": "Jesse Wright",
+  "sample_id": "insurance_document_0815"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Molly Fischer
+License: DL991684672
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL991684672",
+  "full_name": "Molly Fischer",
+  "date_of_birth": "1985-08-09",
+  "class": "A",
+  "issue_date": "2020-08-30",
+  "expiry_date": "2025-08-30",
+  "address": "103 Miller Ramp, New Erin, AL 01557",
+  "sample_id": "driving_license_0156"
+}

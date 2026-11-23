@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-E5OZ8BUL",
+  "patient_name": "Jasmin Harrison",
+  "visit_date": "2026-04-24",
+  "doctor_name": "Dr. Joseph Dixon",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0122"
+}

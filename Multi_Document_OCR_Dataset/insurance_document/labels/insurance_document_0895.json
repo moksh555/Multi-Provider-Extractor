@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-I7EV4DH9U",
+  "policy_holder": "Mitchell Merritt",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-11-22",
+  "expiry_date": "2024-11-22",
+  "premium": 1945.16,
+  "coverage_amount": 492347.53,
+  "beneficiary": "Jared Gordon",
+  "sample_id": "insurance_document_0895"
+}

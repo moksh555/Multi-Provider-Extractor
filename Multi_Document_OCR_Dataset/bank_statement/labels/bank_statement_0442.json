@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TREURFM0",
+  "account_holder": "Sarah Leon MD",
+  "account_number_masked": "****1405",
+  "period_start": "2024-10-17",
+  "period_end": "2024-11-16",
+  "opening_balance": 1249.75,
+  "closing_balance": 2372.37,
+  "transactions": 11,
+  "sample_id": "bank_statement_0442"
+}

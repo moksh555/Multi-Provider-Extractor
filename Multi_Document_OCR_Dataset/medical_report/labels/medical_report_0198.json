@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-J75OTCDT",
+  "patient_name": "Robin Davis",
+  "visit_date": "2024-04-19",
+  "doctor_name": "Dr. Nathan Lawrence",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0198"
+}

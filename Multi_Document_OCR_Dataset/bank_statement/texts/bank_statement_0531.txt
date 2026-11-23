@@ -1,0 +1,16 @@
+Bank Statement STM-UHA6F6M2
+Holder: Mrs. Linda Pierce DDS
+Closing Balance: $2972.19
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UHA6F6M2",
+  "account_holder": "Mrs. Linda Pierce DDS",
+  "account_number_masked": "****6497",
+  "period_start": "2026-03-12",
+  "period_end": "2026-04-11",
+  "opening_balance": 1296.87,
+  "closing_balance": 2972.19,
+  "transactions": 14,
+  "sample_id": "bank_statement_0531"
+}

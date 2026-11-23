@@ -1,0 +1,67 @@
+Receipt RCT-LAYKE3ZC
+Merchant: Barber PLC
+Date: 2025-09-27
+Total: $1126.82
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-LAYKE3ZC",
+  "merchant_name": "Barber PLC",
+  "date": "2025-09-27",
+  "subtotal": 1019.2,
+  "tax": 119.16,
+  "discount": 11.54,
+  "total": 1126.82,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$54.94",
+      "line_total": "$219.76"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$33.16",
+      "line_total": "$33.16"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$67.28",
+      "line_total": "$134.56"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$61.28",
+      "line_total": "$245.12"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$16.14",
+      "line_total": "$64.56"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$54.16",
+      "line_total": "$54.16"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$10.48",
+      "line_total": "$41.92"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$56.49",
+      "line_total": "$225.96"
+    }
+  ],
+  "sample_id": "receipt_0723"
+}

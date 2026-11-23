@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0853
+Company: Atlas Engineering Ltd.
+Company Address: 166 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 80 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-02-19
+Due Date: 2026-03-06
+Currency: BDT
+Subtotal: 18609.11
+Tax: 2735.54
+Total: 20972.47
+Balance Due: 9585.37
+Status: partial

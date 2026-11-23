@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WFN55LK9",
+  "account_holder": "Billy Sherman",
+  "account_number_masked": "****4954",
+  "period_start": "2025-04-21",
+  "period_end": "2025-05-21",
+  "opening_balance": 565.44,
+  "closing_balance": 3624.5,
+  "transactions": 12,
+  "sample_id": "bank_statement_0767"
+}

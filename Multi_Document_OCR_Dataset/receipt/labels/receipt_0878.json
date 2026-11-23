@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0OY44TFW",
+  "merchant_name": "Orozco-Davis",
+  "date": "2025-03-08",
+  "subtotal": 670.56,
+  "tax": 24.17,
+  "discount": 0.82,
+  "total": 693.91,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$32.93",
+      "line_total": "$98.79"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$42.61",
+      "line_total": "$42.61"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$57.75",
+      "line_total": "$173.25"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$1.29",
+      "line_total": "$2.58"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$40.21",
+      "line_total": "$80.42"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$25.93",
+      "line_total": "$25.93"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$50.23",
+      "line_total": "$100.46"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 2,
+      "unit_price": "$73.26",
+      "line_total": "$146.52"
+    }
+  ],
+  "sample_id": "receipt_0878"
+}

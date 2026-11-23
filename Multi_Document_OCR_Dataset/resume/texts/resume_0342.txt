@@ -1,0 +1,27 @@
+Resume
+Maria Mason
+Data Analyst
+Skills: Streamlit, Docker, Python, PyTorch, Pandas, LangChain, TensorFlow, Deep Learning, Machine Learning, Computer Vision
+
+{
+  "category": "resume",
+  "candidate_name": "Maria Mason",
+  "email": "fosterlawrence@example.org",
+  "phone": "+1-221-445-7445x203",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "Docker",
+    "Python",
+    "PyTorch",
+    "Pandas",
+    "LangChain",
+    "TensorFlow",
+    "Deep Learning",
+    "Machine Learning",
+    "Computer Vision"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0342"
+}

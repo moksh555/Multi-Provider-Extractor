@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0535",
+  "invoice_number": "INV-2026-0535",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "198 Gulshan Avenue, Doha, Qatar",
+  "customer_name": "Rahim Traders",
+  "billing_address": "57 Agrabad C/A, Sylhet, Bangladesh",
+  "invoice_date": "2026-02-21",
+  "due_date": "2026-03-08",
+  "currency": "BDT",
+  "payment_terms": "Advance Paid",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 10,
+      "unit_price": 195.09,
+      "amount": 1950.9
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 12,
+      "unit_price": 47.39,
+      "amount": 568.68
+    }
+  ],
+  "subtotal": 2519.58,
+  "discount": 125.98,
+  "tax_rate": 0.075,
+  "tax": 179.52,
+  "shipping": 0,
+  "total": 2573.12,
+  "amount_paid": 0,
+  "balance_due": 2573.12,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801140349780",
+  "po_number": "PO-98325"
+}

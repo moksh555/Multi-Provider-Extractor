@@ -1,0 +1,14 @@
+Medical Report MED-WL8VVQDM
+Patient: Nicole York
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WL8VVQDM",
+  "patient_name": "Nicole York",
+  "visit_date": "2025-12-05",
+  "doctor_name": "Dr. Joseph Rhodes",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0664"
+}

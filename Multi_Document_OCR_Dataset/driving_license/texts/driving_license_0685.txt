@@ -1,0 +1,16 @@
+Synthetic Driving License
+Shane Ross
+License: DL624773994
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL624773994",
+  "full_name": "Shane Ross",
+  "date_of_birth": "1969-01-04",
+  "class": "C",
+  "issue_date": "2024-04-25",
+  "expiry_date": "2029-04-25",
+  "address": "2169 Mccann Loop Apt. 093, New Christine, CO 79087",
+  "sample_id": "driving_license_0685"
+}

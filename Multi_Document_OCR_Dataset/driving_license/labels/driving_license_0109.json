@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL594889060",
+  "full_name": "Bryan Rhodes",
+  "date_of_birth": "1999-04-10",
+  "class": "B",
+  "issue_date": "2024-12-04",
+  "expiry_date": "2029-12-04",
+  "address": "2404 Michael Mills Suite 733, Sarahview, DC 14817",
+  "sample_id": "driving_license_0109"
+}

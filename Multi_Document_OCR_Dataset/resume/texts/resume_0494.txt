@@ -1,0 +1,24 @@
+Resume
+Jenna Knox
+Data Analyst
+Skills: Deep Learning, TensorFlow, Computer Vision, Streamlit, FastAPI, Pandas, PyTorch
+
+{
+  "category": "resume",
+  "candidate_name": "Jenna Knox",
+  "email": "megan21@example.org",
+  "phone": "684-326-2264",
+  "job_title": "Data Analyst",
+  "years_experience": 2,
+  "skills": [
+    "Deep Learning",
+    "TensorFlow",
+    "Computer Vision",
+    "Streamlit",
+    "FastAPI",
+    "Pandas",
+    "PyTorch"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0494"
+}

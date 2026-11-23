@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HDNBRQIT",
+  "merchant_name": "Weaver-Sandoval",
+  "date": "2022-01-05",
+  "subtotal": 419.7,
+  "tax": 30.75,
+  "discount": 3.38,
+  "total": 447.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$14.25",
+      "line_total": "$42.75"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$69.31",
+      "line_total": "$207.93"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$15.85",
+      "line_total": "$15.85"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 3,
+      "unit_price": "$9.15",
+      "line_total": "$27.45"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$62.86",
+      "line_total": "$125.72"
+    }
+  ],
+  "sample_id": "receipt_0879"
+}

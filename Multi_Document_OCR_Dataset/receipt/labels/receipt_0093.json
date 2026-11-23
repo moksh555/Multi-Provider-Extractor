@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A45HVGOX",
+  "merchant_name": "Martinez and Sons",
+  "date": "2023-09-08",
+  "subtotal": 647.61,
+  "tax": 20.23,
+  "discount": 3.24,
+  "total": 664.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$20.05",
+      "line_total": "$20.05"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$78.96",
+      "line_total": "$78.96"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$31.56",
+      "line_total": "$63.12"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$44.16",
+      "line_total": "$132.48"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$76.40",
+      "line_total": "$305.60"
+    },
+    {
+      "name": "Mouse",
+      "qty": 1,
+      "unit_price": "$47.40",
+      "line_total": "$47.40"
+    }
+  ],
+  "sample_id": "receipt_0093"
+}

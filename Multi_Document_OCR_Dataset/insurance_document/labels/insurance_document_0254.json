@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MHNQO7YIR",
+  "policy_holder": "Mary Hernandez",
+  "policy_type": "Property Insurance",
+  "issue_date": "2023-12-30",
+  "expiry_date": "2024-12-30",
+  "premium": 2406.04,
+  "coverage_amount": 242545.32,
+  "beneficiary": "Andrew Stewart",
+  "sample_id": "insurance_document_0254"
+}

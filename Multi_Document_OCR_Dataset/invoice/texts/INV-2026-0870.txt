@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0870
+Company: CityBanking Supplies
+Company Address: 178 Agrabad C/A, Doha, Qatar
+Customer: Global Mart
+Billing Address: 183 Sheikh Zayed Road, Sylhet, Bangladesh
+Invoice Date: 2026-05-18
+Due Date: 2026-07-02
+Currency: AED
+Subtotal: 10996.84
+Tax: 989.72
+Total: 10886.88
+Balance Due: 0.0
+Status: paid

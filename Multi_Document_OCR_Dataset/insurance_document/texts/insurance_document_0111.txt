@@ -1,0 +1,16 @@
+Insurance Policy POL-3ZEZQACJ4
+Holder: Amber Garcia
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3ZEZQACJ4",
+  "policy_holder": "Amber Garcia",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-05-31",
+  "expiry_date": "2027-05-31",
+  "premium": 1376.1,
+  "coverage_amount": 64481.56,
+  "beneficiary": "Julia Martinez",
+  "sample_id": "insurance_document_0111"
+}

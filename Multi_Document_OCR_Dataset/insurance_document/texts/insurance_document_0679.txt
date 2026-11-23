@@ -1,0 +1,16 @@
+Insurance Policy POL-AQKDM0OAP
+Holder: Allen Kline
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-AQKDM0OAP",
+  "policy_holder": "Allen Kline",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-06-23",
+  "expiry_date": "2024-06-23",
+  "premium": 1379.25,
+  "coverage_amount": 450269.88,
+  "beneficiary": "Zachary James",
+  "sample_id": "insurance_document_0679"
+}

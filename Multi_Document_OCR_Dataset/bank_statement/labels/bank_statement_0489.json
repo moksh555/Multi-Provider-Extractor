@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1GA2SYTM",
+  "account_holder": "Diamond Jenkins",
+  "account_number_masked": "****9862",
+  "period_start": "2025-01-05",
+  "period_end": "2025-02-04",
+  "opening_balance": 714.01,
+  "closing_balance": 2645.42,
+  "transactions": 12,
+  "sample_id": "bank_statement_0489"
+}

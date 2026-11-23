@@ -1,0 +1,14 @@
+Medical Report MED-H6IP6C9N
+Patient: Tina Mckee
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-H6IP6C9N",
+  "patient_name": "Tina Mckee",
+  "visit_date": "2026-10-26",
+  "doctor_name": "Dr. Steven Hughes",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0011"
+}

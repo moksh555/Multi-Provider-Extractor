@@ -1,0 +1,24 @@
+Resume
+Timothy Harper
+Data Analyst
+Skills: Pandas, FastAPI, LangChain, Python, Machine Learning, Computer Vision, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Timothy Harper",
+  "email": "rita93@example.net",
+  "phone": "(574)228-6017x6787",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "Pandas",
+    "FastAPI",
+    "LangChain",
+    "Python",
+    "Machine Learning",
+    "Computer Vision",
+    "Docker"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0795"
+}

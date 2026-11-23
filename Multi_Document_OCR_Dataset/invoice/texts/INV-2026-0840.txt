@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0840
+Company: Greenline Logistics
+Company Address: 55 Uttara Sector 7, Dubai, UAE
+Customer: MediLife Hospital
+Billing Address: 193 Doha Business Park, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-01
+Due Date: 2026-03-31
+Currency: BDT
+Subtotal: 15716.74
+Tax: 2357.51
+Total: 18084.25
+Balance Due: 18084.25
+Status: unpaid

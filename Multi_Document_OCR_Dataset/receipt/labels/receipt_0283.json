@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-M600X28P",
+  "merchant_name": "Atkinson, Mcfarland and Walters",
+  "date": "2023-08-14",
+  "subtotal": 327.23,
+  "tax": 26.81,
+  "discount": 0.03,
+  "total": 354.01,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$23.99",
+      "line_total": "$23.99"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$27.88",
+      "line_total": "$27.88"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$46.25",
+      "line_total": "$46.25"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$76.37",
+      "line_total": "$229.11"
+    }
+  ],
+  "sample_id": "receipt_0283"
+}

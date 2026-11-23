@@ -1,0 +1,16 @@
+Insurance Policy POL-ZGOPJDN8E
+Holder: Nicole Marsh
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZGOPJDN8E",
+  "policy_holder": "Nicole Marsh",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-06-10",
+  "expiry_date": "2026-06-10",
+  "premium": 1960.6,
+  "coverage_amount": 464859.59,
+  "beneficiary": "Rebecca Petty",
+  "sample_id": "insurance_document_0519"
+}

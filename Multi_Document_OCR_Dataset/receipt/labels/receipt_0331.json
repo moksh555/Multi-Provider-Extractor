@@ -1,0 +1,32 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HVS41LQF",
+  "merchant_name": "Bell-Hardy",
+  "date": "2026-08-29",
+  "subtotal": 488.48,
+  "tax": 26.87,
+  "discount": 2.46,
+  "total": 512.89,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$73.42",
+      "line_total": "$146.84"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$69.56",
+      "line_total": "$278.24"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$15.85",
+      "line_total": "$63.40"
+    }
+  ],
+  "sample_id": "receipt_0331"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0501
+Company: Eastern Care Pharmacy
+Company Address: 136 Agrabad C/A, Doha, Qatar
+Customer: Ocean Exporters
+Billing Address: 121 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-02
+Due Date: 2026-04-17
+Currency: BDT
+Subtotal: 4874.97
+Tax: 477.75
+Total: 5255.22
+Balance Due: 5255.22
+Status: unpaid

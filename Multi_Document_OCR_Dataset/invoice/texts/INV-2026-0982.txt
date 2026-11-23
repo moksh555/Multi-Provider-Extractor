@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0982
+Company: Nova Medical Supplies
+Company Address: 44 Jumeirah Lake Towers, Dhaka, Bangladesh
+Customer: Future School
+Billing Address: 223 Gulshan Avenue, Doha, Qatar
+Invoice Date: 2026-02-26
+Due Date: 2026-03-28
+Currency: BDT
+Subtotal: 8169.0
+Tax: 0.0
+Total: 8015.62
+Balance Due: 0.0
+Status: paid

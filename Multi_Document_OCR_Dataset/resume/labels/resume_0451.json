@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Derek Lozano",
+  "email": "loricooley@example.com",
+  "phone": "327.783.9692",
+  "job_title": "Data Analyst",
+  "years_experience": 4,
+  "skills": [
+    "LangChain",
+    "SQL",
+    "AWS",
+    "Deep Learning",
+    "Machine Learning",
+    "FastAPI",
+    "Python",
+    "Docker",
+    "NLP",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0451"
+}

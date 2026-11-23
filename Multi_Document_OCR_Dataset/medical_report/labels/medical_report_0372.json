@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-KFRV0HLX",
+  "patient_name": "Chelsea Ortiz",
+  "visit_date": "2024-08-01",
+  "doctor_name": "Dr. Elijah Holmes",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0372"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Tyler Baker
+License: DL332685536
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL332685536",
+  "full_name": "Tyler Baker",
+  "date_of_birth": "1962-05-31",
+  "class": "B",
+  "issue_date": "2022-06-27",
+  "expiry_date": "2027-06-27",
+  "address": "1052 Reyes Pines, Lake Brittanyfort, OH 08383",
+  "sample_id": "driving_license_0934"
+}

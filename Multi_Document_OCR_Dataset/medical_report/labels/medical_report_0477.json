@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-COY4XCQR",
+  "patient_name": "Jose Vasquez",
+  "visit_date": "2025-08-24",
+  "doctor_name": "Dr. Kayla Luna",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0477"
+}

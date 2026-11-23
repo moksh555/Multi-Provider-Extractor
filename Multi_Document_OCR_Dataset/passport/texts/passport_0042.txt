@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Taylor Estrada
+Passport No: P93032019
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P93032019",
+  "full_name": "Taylor Estrada",
+  "nationality": "BD",
+  "date_of_birth": "1992-06-02",
+  "issue_date": "2024-07-22",
+  "expiry_date": "2034-07-22",
+  "place_of_birth": "North Michelle",
+  "sample_id": "passport_0042"
+}

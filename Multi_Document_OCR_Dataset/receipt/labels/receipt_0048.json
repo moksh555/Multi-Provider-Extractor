@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-N1YBWMLU",
+  "merchant_name": "Collier, Jimenez and Moran",
+  "date": "2025-05-03",
+  "subtotal": 470.56,
+  "tax": 49.22,
+  "discount": 11.08,
+  "total": 508.7,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$27.34",
+      "line_total": "$54.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$25.51",
+      "line_total": "$76.53"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$48.01",
+      "line_total": "$96.02"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$45.15",
+      "line_total": "$135.45"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$53.94",
+      "line_total": "$107.88"
+    }
+  ],
+  "sample_id": "receipt_0048"
+}

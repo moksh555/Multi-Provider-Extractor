@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Barbara Walker",
+  "email": "williamswilliam@example.net",
+  "phone": "(675)787-5585x09591",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "LangChain",
+    "Docker",
+    "TensorFlow",
+    "Streamlit",
+    "Pandas",
+    "SQL",
+    "Computer Vision",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0455"
+}

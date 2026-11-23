@@ -1,0 +1,37 @@
+Receipt RCT-93TYT7D5
+Merchant: Henderson-Owens
+Date: 2023-12-20
+Total: $198.95
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-93TYT7D5",
+  "merchant_name": "Henderson-Owens",
+  "date": "2023-12-20",
+  "subtotal": 179.64,
+  "tax": 20.07,
+  "discount": 0.76,
+  "total": 198.95,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$22.52",
+      "line_total": "$45.04"
+    },
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$17.08",
+      "line_total": "$51.24"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$20.84",
+      "line_total": "$83.36"
+    }
+  ],
+  "sample_id": "receipt_0012"
+}

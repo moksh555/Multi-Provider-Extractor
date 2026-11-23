@@ -1,0 +1,16 @@
+Insurance Policy POL-UTXZBDQ55
+Holder: Kirk Moore
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-UTXZBDQ55",
+  "policy_holder": "Kirk Moore",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-11-28",
+  "expiry_date": "2026-11-28",
+  "premium": 1400.13,
+  "coverage_amount": 492077.02,
+  "beneficiary": "Charles Sanchez",
+  "sample_id": "insurance_document_0389"
+}

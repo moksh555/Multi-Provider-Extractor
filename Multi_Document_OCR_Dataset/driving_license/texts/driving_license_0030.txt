@@ -1,0 +1,16 @@
+Synthetic Driving License
+Pamela James
+License: DL828437201
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL828437201",
+  "full_name": "Pamela James",
+  "date_of_birth": "1989-06-13",
+  "class": "A",
+  "issue_date": "2023-02-15",
+  "expiry_date": "2028-02-15",
+  "address": "6688 Tracy Groves Suite 706, Elizabethfurt, VA 22133",
+  "sample_id": "driving_license_0030"
+}

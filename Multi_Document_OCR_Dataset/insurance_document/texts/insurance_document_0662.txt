@@ -1,0 +1,16 @@
+Insurance Policy POL-O32TC4T3X
+Holder: Wendy Perez
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-O32TC4T3X",
+  "policy_holder": "Wendy Perez",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-09-10",
+  "expiry_date": "2027-09-10",
+  "premium": 2256.29,
+  "coverage_amount": 98525.44,
+  "beneficiary": "Erika Bates",
+  "sample_id": "insurance_document_0662"
+}

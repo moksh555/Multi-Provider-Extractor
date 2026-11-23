@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-CJ44ECXK",
+  "patient_name": "Michael Herrera",
+  "visit_date": "2025-01-20",
+  "doctor_name": "Dr. Travis Reynolds",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0703"
+}

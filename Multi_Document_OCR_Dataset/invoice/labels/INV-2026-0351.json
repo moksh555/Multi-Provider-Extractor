@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0351",
+  "invoice_number": "INV-2026-0351",
+  "company_name": "Summit Agro Foods",
+  "company_address": "27 Uttara Sector 7, Doha, Qatar",
+  "customer_name": "Digital Learning Hub",
+  "billing_address": "19 Sheikh Zayed Road, Chattogram, Bangladesh",
+  "invoice_date": "2026-03-05",
+  "due_date": "2026-04-19",
+  "currency": "AED",
+  "payment_terms": "Net 15",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 1,
+      "unit_price": 741.1,
+      "amount": 741.1
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 1,
+      "unit_price": 170.17,
+      "amount": 170.17
+    }
+  ],
+  "subtotal": 911.27,
+  "discount": 45.56,
+  "tax_rate": 0.075,
+  "tax": 64.93,
+  "shipping": 50,
+  "total": 980.64,
+  "amount_paid": 0,
+  "balance_due": 980.64,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801368716786",
+  "po_number": "PO-71527"
+}

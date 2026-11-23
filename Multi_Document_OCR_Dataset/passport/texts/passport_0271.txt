@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Joann Smith
+Passport No: P15262636
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P15262636",
+  "full_name": "Joann Smith",
+  "nationality": "CA",
+  "date_of_birth": "1975-01-07",
+  "issue_date": "2020-08-25",
+  "expiry_date": "2030-08-25",
+  "place_of_birth": "West Joshua",
+  "sample_id": "passport_0271"
+}

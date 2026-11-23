@@ -1,0 +1,23 @@
+Resume
+Brandon Carlson
+Backend Developer
+Skills: PyTorch, FastAPI, Computer Vision, Python, Deep Learning, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Brandon Carlson",
+  "email": "marissa72@example.net",
+  "phone": "001-561-269-4963x78811",
+  "job_title": "Backend Developer",
+  "years_experience": 4,
+  "skills": [
+    "PyTorch",
+    "FastAPI",
+    "Computer Vision",
+    "Python",
+    "Deep Learning",
+    "Docker"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0224"
+}

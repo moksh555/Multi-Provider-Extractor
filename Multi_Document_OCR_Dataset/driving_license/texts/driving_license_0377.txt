@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jamie Rhodes
+License: DL182309739
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL182309739",
+  "full_name": "Jamie Rhodes",
+  "date_of_birth": "1982-03-05",
+  "class": "B",
+  "issue_date": "2020-05-17",
+  "expiry_date": "2025-05-17",
+  "address": "0090 Mary Keys Apt. 561, Reedstad, MT 46542",
+  "sample_id": "driving_license_0377"
+}

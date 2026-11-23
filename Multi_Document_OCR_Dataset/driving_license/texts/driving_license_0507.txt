@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mark Adams
+License: DL494577113
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL494577113",
+  "full_name": "Mark Adams",
+  "date_of_birth": "2004-01-05",
+  "class": "C",
+  "issue_date": "2020-06-21",
+  "expiry_date": "2025-06-21",
+  "address": "598 Robert Drives, Victoriachester, MS 03897",
+  "sample_id": "driving_license_0507"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL914739283",
+  "full_name": "Jacqueline Santos",
+  "date_of_birth": "2002-08-05",
+  "class": "C",
+  "issue_date": "2021-10-12",
+  "expiry_date": "2026-10-12",
+  "address": "589 Kennedy Fords, Saraberg, GA 69232",
+  "sample_id": "driving_license_0650"
+}

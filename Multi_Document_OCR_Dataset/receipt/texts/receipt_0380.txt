@@ -1,0 +1,43 @@
+Receipt RCT-4D7D7GDL
+Merchant: Henry and Sons
+Date: 2021-03-24
+Total: $448.60
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-4D7D7GDL",
+  "merchant_name": "Henry and Sons",
+  "date": "2021-03-24",
+  "subtotal": 425.61,
+  "tax": 27.3,
+  "discount": 4.31,
+  "total": 448.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$51.40",
+      "line_total": "$102.80"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$70.30",
+      "line_total": "$70.30"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$67.15",
+      "line_total": "$201.45"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$25.53",
+      "line_total": "$51.06"
+    }
+  ],
+  "sample_id": "receipt_0380"
+}

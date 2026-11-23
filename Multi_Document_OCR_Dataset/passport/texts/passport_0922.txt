@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: John Thompson MD
+Passport No: P29190539
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P29190539",
+  "full_name": "John Thompson MD",
+  "nationality": "BD",
+  "date_of_birth": "1978-12-27",
+  "issue_date": "2020-07-14",
+  "expiry_date": "2030-07-14",
+  "place_of_birth": "Michaelborough",
+  "sample_id": "passport_0922"
+}

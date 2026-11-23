@@ -1,0 +1,16 @@
+Synthetic Driving License
+Maria Olson
+License: DL907545979
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL907545979",
+  "full_name": "Maria Olson",
+  "date_of_birth": "1975-07-31",
+  "class": "A",
+  "issue_date": "2021-06-09",
+  "expiry_date": "2026-06-09",
+  "address": "6084 Peters Brook Apt. 955, East Juantown, MA 49684",
+  "sample_id": "driving_license_0304"
+}

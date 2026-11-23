@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Daniel Garcia",
+  "email": "karen17@example.com",
+  "phone": "001-668-406-4554",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Pandas",
+    "Python",
+    "PyTorch",
+    "Deep Learning",
+    "Machine Learning",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0362"
+}

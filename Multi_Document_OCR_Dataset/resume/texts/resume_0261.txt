@@ -1,0 +1,25 @@
+Resume
+Rebecca Richards
+Software Engineer
+Skills: SQL, Streamlit, Pandas, FastAPI, Docker, PyTorch, TensorFlow, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Rebecca Richards",
+  "email": "pmorales@example.com",
+  "phone": "267.935.5896",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "SQL",
+    "Streamlit",
+    "Pandas",
+    "FastAPI",
+    "Docker",
+    "PyTorch",
+    "TensorFlow",
+    "AWS"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0261"
+}

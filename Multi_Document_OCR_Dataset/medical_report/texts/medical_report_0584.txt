@@ -1,0 +1,14 @@
+Medical Report MED-VDRW2ING
+Patient: Anthony Tran
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-VDRW2ING",
+  "patient_name": "Anthony Tran",
+  "visit_date": "2025-09-03",
+  "doctor_name": "Dr. Jacqueline Berry",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0584"
+}

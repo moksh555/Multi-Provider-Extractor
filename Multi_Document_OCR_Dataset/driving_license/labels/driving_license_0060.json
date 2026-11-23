@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL251464022",
+  "full_name": "David Cox",
+  "date_of_birth": "2000-09-24",
+  "class": "B",
+  "issue_date": "2020-10-18",
+  "expiry_date": "2025-10-18",
+  "address": "Unit 5850 Box 6431, DPO AA 12516",
+  "sample_id": "driving_license_0060"
+}

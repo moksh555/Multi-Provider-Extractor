@@ -1,0 +1,16 @@
+Bank Statement STM-E5EZFRXY
+Holder: Tracy Lopez
+Closing Balance: $8477.69
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-E5EZFRXY",
+  "account_holder": "Tracy Lopez",
+  "account_number_masked": "****0100",
+  "period_start": "2025-11-24",
+  "period_end": "2025-12-24",
+  "opening_balance": 3144.48,
+  "closing_balance": 8477.69,
+  "transactions": 9,
+  "sample_id": "bank_statement_0433"
+}

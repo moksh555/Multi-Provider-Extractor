@@ -1,0 +1,14 @@
+Medical Report MED-LJMEE1R0
+Patient: Heather Lambert
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LJMEE1R0",
+  "patient_name": "Heather Lambert",
+  "visit_date": "2024-08-07",
+  "doctor_name": "Dr. Jacqueline Nguyen",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0903"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL690723155",
+  "full_name": "Rebecca Huang",
+  "date_of_birth": "1976-02-26",
+  "class": "B",
+  "issue_date": "2021-11-27",
+  "expiry_date": "2026-11-27",
+  "address": "9782 Shannon Valleys, Toniland, NY 85190",
+  "sample_id": "driving_license_0076"
+}

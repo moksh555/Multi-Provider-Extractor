@@ -1,0 +1,14 @@
+Medical Report MED-SYRWBHOB
+Patient: Ryan Bowen
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-SYRWBHOB",
+  "patient_name": "Ryan Bowen",
+  "visit_date": "2026-07-28",
+  "doctor_name": "Dr. Phyllis Herrera",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0570"
+}

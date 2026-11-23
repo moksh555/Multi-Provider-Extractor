@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-RYSVICSM",
+  "patient_name": "Jeffrey Moon",
+  "visit_date": "2026-08-22",
+  "doctor_name": "Dr. Justin Wood",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0143"
+}

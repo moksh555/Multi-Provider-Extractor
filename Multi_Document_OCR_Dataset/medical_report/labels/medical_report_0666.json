@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-NZMQCZXF",
+  "patient_name": "Alicia Phillips",
+  "visit_date": "2026-11-09",
+  "doctor_name": "Dr. Kevin Barnes",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0666"
+}

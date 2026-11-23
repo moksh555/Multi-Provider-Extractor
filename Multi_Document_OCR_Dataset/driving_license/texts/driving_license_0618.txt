@@ -1,0 +1,16 @@
+Synthetic Driving License
+Gabrielle Clayton
+License: DL719887280
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL719887280",
+  "full_name": "Gabrielle Clayton",
+  "date_of_birth": "1982-09-09",
+  "class": "D",
+  "issue_date": "2026-04-13",
+  "expiry_date": "2031-04-13",
+  "address": "59660 Angela Stravenue, Micheleside, NH 56053",
+  "sample_id": "driving_license_0618"
+}

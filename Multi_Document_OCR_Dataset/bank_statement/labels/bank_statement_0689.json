@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KS02QH4E",
+  "account_holder": "John Harris",
+  "account_number_masked": "****0529",
+  "period_start": "2025-01-08",
+  "period_end": "2025-02-07",
+  "opening_balance": 4333.55,
+  "closing_balance": 5412.67,
+  "transactions": 11,
+  "sample_id": "bank_statement_0689"
+}

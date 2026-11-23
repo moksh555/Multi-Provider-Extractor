@@ -1,0 +1,24 @@
+Resume
+Victoria Perkins MD
+Machine Learning Engineer
+Skills: LangChain, AWS, FastAPI, Streamlit, SQL, NLP, Machine Learning
+
+{
+  "category": "resume",
+  "candidate_name": "Victoria Perkins MD",
+  "email": "zacharyjohnson@example.org",
+  "phone": "784-847-9365x611",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "LangChain",
+    "AWS",
+    "FastAPI",
+    "Streamlit",
+    "SQL",
+    "NLP",
+    "Machine Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0334"
+}

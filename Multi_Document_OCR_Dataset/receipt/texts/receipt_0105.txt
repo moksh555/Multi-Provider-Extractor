@@ -1,0 +1,43 @@
+Receipt RCT-ML90PXRL
+Merchant: Brooks-Hatfield
+Date: 2025-01-01
+Total: $543.12
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-ML90PXRL",
+  "merchant_name": "Brooks-Hatfield",
+  "date": "2025-01-01",
+  "subtotal": 501.06,
+  "tax": 56.57,
+  "discount": 14.51,
+  "total": 543.12,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$25.24",
+      "line_total": "$100.96"
+    },
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$15.04",
+      "line_total": "$30.08"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$68.21",
+      "line_total": "$272.84"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$48.59",
+      "line_total": "$97.18"
+    }
+  ],
+  "sample_id": "receipt_0105"
+}

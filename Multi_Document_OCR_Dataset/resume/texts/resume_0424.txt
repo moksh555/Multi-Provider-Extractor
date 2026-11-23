@@ -1,0 +1,26 @@
+Resume
+April Thompson MD
+Machine Learning Engineer
+Skills: Deep Learning, LangChain, Python, AWS, Docker, Machine Learning, PyTorch, Streamlit, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "April Thompson MD",
+  "email": "matthewking@example.com",
+  "phone": "+1-522-639-4071x734",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Deep Learning",
+    "LangChain",
+    "Python",
+    "AWS",
+    "Docker",
+    "Machine Learning",
+    "PyTorch",
+    "Streamlit",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0424"
+}

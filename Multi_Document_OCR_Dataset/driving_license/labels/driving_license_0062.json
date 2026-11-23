@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL137521669",
+  "full_name": "Christopher Guerrero",
+  "date_of_birth": "2004-11-24",
+  "class": "D",
+  "issue_date": "2026-01-20",
+  "expiry_date": "2031-01-20",
+  "address": "3950 Joseph Crossroad, Foxland, NJ 59257",
+  "sample_id": "driving_license_0062"
+}

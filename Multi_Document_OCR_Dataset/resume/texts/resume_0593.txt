@@ -1,0 +1,23 @@
+Resume
+Eddie Foster
+Data Analyst
+Skills: AWS, FastAPI, Computer Vision, TensorFlow, Machine Learning, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Eddie Foster",
+  "email": "wthomas@example.net",
+  "phone": "(823)606-4211",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "AWS",
+    "FastAPI",
+    "Computer Vision",
+    "TensorFlow",
+    "Machine Learning",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0593"
+}

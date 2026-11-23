@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Sarah Thomas
+Passport No: P74831684
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P74831684",
+  "full_name": "Sarah Thomas",
+  "nationality": "CA",
+  "date_of_birth": "2000-04-08",
+  "issue_date": "2022-05-20",
+  "expiry_date": "2032-05-20",
+  "place_of_birth": "Port Rebeccaton",
+  "sample_id": "passport_0006"
+}

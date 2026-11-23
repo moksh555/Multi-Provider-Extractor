@@ -1,0 +1,16 @@
+Bank Statement STM-UQJJ1GJP
+Holder: Peggy Mendoza
+Closing Balance: $4623.98
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-UQJJ1GJP",
+  "account_holder": "Peggy Mendoza",
+  "account_number_masked": "****1601",
+  "period_start": "2025-11-17",
+  "period_end": "2025-12-17",
+  "opening_balance": 4082.59,
+  "closing_balance": 4623.98,
+  "transactions": 12,
+  "sample_id": "bank_statement_0181"
+}

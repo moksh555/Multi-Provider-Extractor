@@ -1,0 +1,49 @@
+Receipt RCT-OMUWAHK2
+Merchant: Nelson-Johnson
+Date: 2024-06-14
+Total: $541.93
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-OMUWAHK2",
+  "merchant_name": "Nelson-Johnson",
+  "date": "2024-06-14",
+  "subtotal": 511.12,
+  "tax": 44.19,
+  "discount": 13.38,
+  "total": 541.93,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$9.99",
+      "line_total": "$9.99"
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit_price": "$32.29",
+      "line_total": "$96.87"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$16.33",
+      "line_total": "$32.66"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$73.38",
+      "line_total": "$293.52"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$39.04",
+      "line_total": "$78.08"
+    }
+  ],
+  "sample_id": "receipt_0177"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Savannah Rogers
+Passport No: P28336203
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P28336203",
+  "full_name": "Savannah Rogers",
+  "nationality": "US",
+  "date_of_birth": "2001-01-05",
+  "issue_date": "2023-04-30",
+  "expiry_date": "2033-04-30",
+  "place_of_birth": "Mikaylaton",
+  "sample_id": "passport_0352"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-4CL8ZTUR",
+  "patient_name": "Bailey Love",
+  "visit_date": "2024-04-04",
+  "doctor_name": "Dr. Gerald Long",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0789"
+}

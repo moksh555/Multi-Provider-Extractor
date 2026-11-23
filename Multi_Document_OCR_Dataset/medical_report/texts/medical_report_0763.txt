@@ -1,0 +1,14 @@
+Medical Report MED-M314MSJD
+Patient: Lee Erickson
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-M314MSJD",
+  "patient_name": "Lee Erickson",
+  "visit_date": "2025-12-11",
+  "doctor_name": "Dr. Wayne Mendez",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0763"
+}

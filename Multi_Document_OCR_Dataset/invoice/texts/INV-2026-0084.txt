@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0084
+Company: Delta Insurance Services
+Company Address: 91 Al Barsha, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 185 Road 12, Banani, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-08
+Due Date: 2026-06-07
+Currency: AED
+Subtotal: 20486.93
+Tax: 1946.26
+Total: 21458.84
+Balance Due: 21458.84
+Status: overdue

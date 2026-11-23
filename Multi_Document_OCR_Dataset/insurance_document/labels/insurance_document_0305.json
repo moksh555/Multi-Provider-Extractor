@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GWJEYUB19",
+  "policy_holder": "Christian Watson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-08-02",
+  "expiry_date": "2026-08-02",
+  "premium": 1654.33,
+  "coverage_amount": 45840.84,
+  "beneficiary": "Elizabeth Tucker PhD",
+  "sample_id": "insurance_document_0305"
+}

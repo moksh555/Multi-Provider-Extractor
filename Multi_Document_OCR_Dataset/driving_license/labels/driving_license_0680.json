@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL232354610",
+  "full_name": "Lisa Murray",
+  "date_of_birth": "1960-08-24",
+  "class": "A",
+  "issue_date": "2026-07-13",
+  "expiry_date": "2031-07-13",
+  "address": "678 Matthew Island Suite 727, Clarkburgh, TX 51627",
+  "sample_id": "driving_license_0680"
+}

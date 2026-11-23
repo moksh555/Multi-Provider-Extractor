@@ -1,0 +1,14 @@
+Medical Report MED-G7P3X6A3
+Patient: Eric Jordan
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-G7P3X6A3",
+  "patient_name": "Eric Jordan",
+  "visit_date": "2024-08-16",
+  "doctor_name": "Dr. Lawrence Diaz",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0722"
+}

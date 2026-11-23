@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL014110574",
+  "full_name": "Tyler Fisher",
+  "date_of_birth": "1997-04-21",
+  "class": "C",
+  "issue_date": "2024-06-04",
+  "expiry_date": "2029-06-04",
+  "address": "1516 Eugene Crossroad, Parkstown, NM 86198",
+  "sample_id": "driving_license_0672"
+}

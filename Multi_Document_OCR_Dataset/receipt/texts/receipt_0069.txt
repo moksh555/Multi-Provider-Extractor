@@ -1,0 +1,67 @@
+Receipt RCT-CTSUFLSE
+Merchant: Perez, Patterson and Hoffman
+Date: 2023-04-22
+Total: $842.07
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-CTSUFLSE",
+  "merchant_name": "Perez, Patterson and Hoffman",
+  "date": "2023-04-22",
+  "subtotal": 789.18,
+  "tax": 57.2,
+  "discount": 4.31,
+  "total": 842.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$72.01",
+      "line_total": "$72.01"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$36.82",
+      "line_total": "$36.82"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$45.55",
+      "line_total": "$182.20"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$58.14",
+      "line_total": "$174.42"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$65.50",
+      "line_total": "$196.50"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$4.58",
+      "line_total": "$4.58"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$43.75",
+      "line_total": "$43.75"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$78.90",
+      "line_total": "$78.90"
+    }
+  ],
+  "sample_id": "receipt_0069"
+}

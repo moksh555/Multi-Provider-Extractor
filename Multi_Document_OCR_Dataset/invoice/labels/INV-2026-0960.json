@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0960",
+  "invoice_number": "INV-2026-0960",
+  "company_name": "Greenline Logistics",
+  "company_address": "113 Al Barsha, Chattogram, Bangladesh",
+  "customer_name": "Sunrise Apparel",
+  "billing_address": "28 Sheikh Zayed Road, Dubai, UAE",
+  "invoice_date": "2026-02-15",
+  "due_date": "2026-04-01",
+  "currency": "AED",
+  "payment_terms": "Net 7",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 1,
+      "unit_price": 498.94,
+      "amount": 498.94
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 11,
+      "unit_price": 517.54,
+      "amount": 5692.94
+    },
+    {
+      "description": "Web Development",
+      "quantity": 7,
+      "unit_price": 756.26,
+      "amount": 5293.82
+    }
+  ],
+  "subtotal": 11485.7,
+  "discount": 229.71,
+  "tax_rate": 0.075,
+  "tax": 844.2,
+  "shipping": 10,
+  "total": 12110.19,
+  "amount_paid": 0,
+  "balance_due": 12110.19,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801903371930",
+  "po_number": "PO-24479"
+}

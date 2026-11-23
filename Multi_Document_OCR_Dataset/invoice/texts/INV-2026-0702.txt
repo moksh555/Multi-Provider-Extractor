@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0702
+Company: Metro Print House
+Company Address: 29 Zindabazar Road, Chattogram, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 176 Agrabad C/A, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-19
+Due Date: 2026-04-26
+Currency: QAR
+Subtotal: 2625.76
+Tax: 393.86
+Total: 3019.62
+Balance Due: 0.0
+Status: paid

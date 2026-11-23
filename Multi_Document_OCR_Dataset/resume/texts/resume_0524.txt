@@ -1,0 +1,23 @@
+Resume
+Melanie Perez
+Machine Learning Engineer
+Skills: SQL, NLP, Pandas, AWS, Python, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Melanie Perez",
+  "email": "brownstephanie@example.org",
+  "phone": "(663)266-2284x5541",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "NLP",
+    "Pandas",
+    "AWS",
+    "Python",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0524"
+}

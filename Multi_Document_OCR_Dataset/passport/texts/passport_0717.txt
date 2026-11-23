@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Christopher Miller
+Passport No: P82996761
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P82996761",
+  "full_name": "Christopher Miller",
+  "nationality": "BD",
+  "date_of_birth": "1977-10-09",
+  "issue_date": "2022-08-15",
+  "expiry_date": "2032-08-15",
+  "place_of_birth": "West Rachelhaven",
+  "sample_id": "passport_0717"
+}

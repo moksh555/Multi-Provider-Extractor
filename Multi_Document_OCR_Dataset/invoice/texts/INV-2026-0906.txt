@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0906
+Company: UrbanBuild Construction
+Company Address: 153 Sheikh Zayed Road, Dhaka, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 152 Al Barsha, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-31
+Due Date: 2026-06-30
+Currency: QAR
+Subtotal: 18794.93
+Tax: 0.0
+Total: 17855.18
+Balance Due: 4657.58
+Status: partial

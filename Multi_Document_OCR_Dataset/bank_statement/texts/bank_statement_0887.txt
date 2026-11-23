@@ -1,0 +1,16 @@
+Bank Statement STM-Q67JA322
+Holder: Luis Nelson
+Closing Balance: $3481.76
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-Q67JA322",
+  "account_holder": "Luis Nelson",
+  "account_number_masked": "****6070",
+  "period_start": "2026-05-12",
+  "period_end": "2026-06-11",
+  "opening_balance": 3340.54,
+  "closing_balance": 3481.76,
+  "transactions": 8,
+  "sample_id": "bank_statement_0887"
+}

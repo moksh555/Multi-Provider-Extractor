@@ -1,0 +1,14 @@
+Medical Report MED-F31GFL29
+Patient: Carolyn Stewart
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-F31GFL29",
+  "patient_name": "Carolyn Stewart",
+  "visit_date": "2025-08-01",
+  "doctor_name": "Dr. Philip Williams",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0290"
+}

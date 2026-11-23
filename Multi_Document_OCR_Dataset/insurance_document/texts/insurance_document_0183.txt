@@ -1,0 +1,16 @@
+Insurance Policy POL-G1A07H23C
+Holder: Michael Gray
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-G1A07H23C",
+  "policy_holder": "Michael Gray",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-10-10",
+  "expiry_date": "2027-10-10",
+  "premium": 1308.34,
+  "coverage_amount": 320334.66,
+  "beneficiary": "Isaiah Hensley",
+  "sample_id": "insurance_document_0183"
+}

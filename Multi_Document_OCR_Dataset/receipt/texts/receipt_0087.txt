@@ -1,0 +1,61 @@
+Receipt RCT-KJTGQ01T
+Merchant: Rose, Rodriguez and Roberts
+Date: 2022-04-09
+Total: $926.84
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KJTGQ01T",
+  "merchant_name": "Rose, Rodriguez and Roberts",
+  "date": "2022-04-09",
+  "subtotal": 854.79,
+  "tax": 82.39,
+  "discount": 10.34,
+  "total": 926.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$62.23",
+      "line_total": "$186.69"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$61.04",
+      "line_total": "$61.04"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$79.19",
+      "line_total": "$158.38"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$24.52",
+      "line_total": "$49.04"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$21.76",
+      "line_total": "$87.04"
+    },
+    {
+      "name": "Mouse",
+      "qty": 4,
+      "unit_price": "$69.36",
+      "line_total": "$277.44"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$17.58",
+      "line_total": "$35.16"
+    }
+  ],
+  "sample_id": "receipt_0087"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-J8H19YX6
+Holder: Phillip Rodriguez
+Closing Balance: $9978.92
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-J8H19YX6",
+  "account_holder": "Phillip Rodriguez",
+  "account_number_masked": "****4789",
+  "period_start": "2025-04-12",
+  "period_end": "2025-05-12",
+  "opening_balance": 4120.67,
+  "closing_balance": 9978.92,
+  "transactions": 14,
+  "sample_id": "bank_statement_0293"
+}

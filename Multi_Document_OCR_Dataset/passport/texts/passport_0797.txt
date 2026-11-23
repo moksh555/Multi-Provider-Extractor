@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Whitney Tucker
+Passport No: P79261035
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P79261035",
+  "full_name": "Whitney Tucker",
+  "nationality": "GB",
+  "date_of_birth": "2001-07-18",
+  "issue_date": "2020-11-11",
+  "expiry_date": "2030-11-11",
+  "place_of_birth": "North Tina",
+  "sample_id": "passport_0797"
+}

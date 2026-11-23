@@ -1,0 +1,14 @@
+Medical Report MED-WZGW1H19
+Patient: Brandon Marshall
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WZGW1H19",
+  "patient_name": "Brandon Marshall",
+  "visit_date": "2025-09-09",
+  "doctor_name": "Dr. Cassandra Wilson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0091"
+}

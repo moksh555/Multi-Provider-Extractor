@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Beth Ortiz",
+  "email": "fprice@example.com",
+  "phone": "+1-879-604-5522x4205",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Streamlit",
+    "NLP",
+    "SQL",
+    "FastAPI",
+    "Deep Learning",
+    "Pandas"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0840"
+}

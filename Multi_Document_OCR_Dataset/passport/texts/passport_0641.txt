@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Brian Dixon
+Passport No: P52178760
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P52178760",
+  "full_name": "Brian Dixon",
+  "nationality": "AE",
+  "date_of_birth": "1990-07-23",
+  "issue_date": "2024-03-17",
+  "expiry_date": "2034-03-17",
+  "place_of_birth": "Jessicabury",
+  "sample_id": "passport_0641"
+}

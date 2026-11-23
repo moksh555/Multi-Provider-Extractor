@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0024
+Company: CityBanking Supplies
+Company Address: 74 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 51 Motijheel C/A, Dubai, UAE
+Invoice Date: 2026-01-28
+Due Date: 2026-02-12
+Currency: SAR
+Subtotal: 15393.86
+Tax: 2262.9
+Total: 17398.88
+Balance Due: 7426.36
+Status: partial

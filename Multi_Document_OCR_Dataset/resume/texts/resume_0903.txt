@@ -1,0 +1,25 @@
+Resume
+Dan Martin
+Computer Vision Engineer
+Skills: Python, Computer Vision, Streamlit, LangChain, Deep Learning, TensorFlow, SQL, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Dan Martin",
+  "email": "gjohnson@example.net",
+  "phone": "+1-366-868-6858x431",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Python",
+    "Computer Vision",
+    "Streamlit",
+    "LangChain",
+    "Deep Learning",
+    "TensorFlow",
+    "SQL",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0903"
+}

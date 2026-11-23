@@ -1,0 +1,14 @@
+Medical Report MED-95CFH5IQ
+Patient: Catherine Baker
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-95CFH5IQ",
+  "patient_name": "Catherine Baker",
+  "visit_date": "2025-05-12",
+  "doctor_name": "Dr. Clifford Rogers",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0970"
+}

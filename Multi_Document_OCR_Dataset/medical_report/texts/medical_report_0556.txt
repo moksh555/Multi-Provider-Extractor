@@ -1,0 +1,14 @@
+Medical Report MED-RTW8IJFS
+Patient: Robert Brown
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RTW8IJFS",
+  "patient_name": "Robert Brown",
+  "visit_date": "2024-07-22",
+  "doctor_name": "Dr. Kelly Johnson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0556"
+}

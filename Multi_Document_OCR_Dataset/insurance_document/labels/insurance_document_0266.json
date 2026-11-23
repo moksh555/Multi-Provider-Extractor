@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-PRAT0861T",
+  "policy_holder": "Curtis Anthony",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-10-17",
+  "expiry_date": "2027-10-17",
+  "premium": 129.81,
+  "coverage_amount": 369465.59,
+  "beneficiary": "David Coleman",
+  "sample_id": "insurance_document_0266"
+}

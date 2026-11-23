@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-F39WF58Y",
+  "account_holder": "Brian Buck",
+  "account_number_masked": "****0821",
+  "period_start": "2025-06-18",
+  "period_end": "2025-07-18",
+  "opening_balance": 569.98,
+  "closing_balance": 1626.37,
+  "transactions": 8,
+  "sample_id": "bank_statement_0557"
+}

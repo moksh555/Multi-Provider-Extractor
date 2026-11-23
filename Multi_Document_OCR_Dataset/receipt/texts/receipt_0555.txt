@@ -1,0 +1,49 @@
+Receipt RCT-U1QP2WNV
+Merchant: Park Group
+Date: 2024-11-26
+Total: $765.71
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-U1QP2WNV",
+  "merchant_name": "Park Group",
+  "date": "2024-11-26",
+  "subtotal": 707.47,
+  "tax": 70.2,
+  "discount": 11.96,
+  "total": 765.71,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$67.64",
+      "line_total": "$270.56"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$38.89",
+      "line_total": "$116.67"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$67.10",
+      "line_total": "$134.20"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 4,
+      "unit_price": "$35.30",
+      "line_total": "$141.20"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$44.84",
+      "line_total": "$44.84"
+    }
+  ],
+  "sample_id": "receipt_0555"
+}

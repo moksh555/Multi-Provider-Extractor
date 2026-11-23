@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0519
+Company: Delta Insurance Services
+Company Address: 100 Uttara Sector 7, Sylhet, Bangladesh
+Customer: Ocean Exporters
+Billing Address: 102 Al Barsha, Dubai, UAE
+Invoice Date: 2026-01-06
+Due Date: 2026-02-20
+Currency: SAR
+Subtotal: 16201.11
+Tax: 0.0
+Total: 15396.05
+Balance Due: 11189.69
+Status: partial

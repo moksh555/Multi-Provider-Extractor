@@ -1,0 +1,55 @@
+Receipt RCT-0V60XNG2
+Merchant: Parker Group
+Date: 2023-08-26
+Total: $582.74
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-0V60XNG2",
+  "merchant_name": "Parker Group",
+  "date": "2023-08-26",
+  "subtotal": 532.32,
+  "tax": 52.16,
+  "discount": 1.74,
+  "total": 582.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$28.08",
+      "line_total": "$28.08"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$48.05",
+      "line_total": "$96.10"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$60.47",
+      "line_total": "$241.88"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$19.80",
+      "line_total": "$79.20"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 2,
+      "unit_price": "$17.66",
+      "line_total": "$35.32"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$51.74",
+      "line_total": "$51.74"
+    }
+  ],
+  "sample_id": "receipt_0188"
+}

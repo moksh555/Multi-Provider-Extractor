@@ -1,0 +1,23 @@
+Resume
+Elizabeth Carlson
+Software Engineer
+Skills: Pandas, SQL, Streamlit, Machine Learning, Docker, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Elizabeth Carlson",
+  "email": "udaniels@example.com",
+  "phone": "+1-887-849-3203x922",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Pandas",
+    "SQL",
+    "Streamlit",
+    "Machine Learning",
+    "Docker",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0875"
+}

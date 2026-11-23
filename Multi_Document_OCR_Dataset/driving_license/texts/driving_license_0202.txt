@@ -1,0 +1,16 @@
+Synthetic Driving License
+Linda Williams
+License: DL307400703
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL307400703",
+  "full_name": "Linda Williams",
+  "date_of_birth": "1969-10-23",
+  "class": "B",
+  "issue_date": "2021-11-04",
+  "expiry_date": "2026-11-04",
+  "address": "16761 Wells Drives, Lake Gina, AL 39968",
+  "sample_id": "driving_license_0202"
+}

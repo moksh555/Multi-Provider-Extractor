@@ -1,0 +1,16 @@
+Bank Statement STM-T760RS6C
+Holder: Olivia Lyons
+Closing Balance: $10093.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-T760RS6C",
+  "account_holder": "Olivia Lyons",
+  "account_number_masked": "****4683",
+  "period_start": "2024-11-26",
+  "period_end": "2024-12-26",
+  "opening_balance": 3375.78,
+  "closing_balance": 10093.36,
+  "transactions": 11,
+  "sample_id": "bank_statement_0071"
+}

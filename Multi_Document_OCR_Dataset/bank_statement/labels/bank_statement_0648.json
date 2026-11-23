@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-P5UVK3OQ",
+  "account_holder": "Christopher Steele",
+  "account_number_masked": "****6100",
+  "period_start": "2026-08-13",
+  "period_end": "2026-09-12",
+  "opening_balance": 3735.93,
+  "closing_balance": 14094.58,
+  "transactions": 14,
+  "sample_id": "bank_statement_0648"
+}

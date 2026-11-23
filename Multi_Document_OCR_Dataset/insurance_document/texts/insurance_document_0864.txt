@@ -1,0 +1,16 @@
+Insurance Policy POL-CWCDT9GWA
+Holder: Paul Walker
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CWCDT9GWA",
+  "policy_holder": "Paul Walker",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-12-23",
+  "expiry_date": "2027-12-23",
+  "premium": 522.73,
+  "coverage_amount": 493272.44,
+  "beneficiary": "Stephanie Mcintyre",
+  "sample_id": "insurance_document_0864"
+}

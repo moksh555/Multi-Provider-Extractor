@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-M1Y7XLM2",
+  "patient_name": "Chelsea Jones",
+  "visit_date": "2024-05-23",
+  "doctor_name": "Dr. Tracey Johnson",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0039"
+}

@@ -1,0 +1,43 @@
+Receipt RCT-T53YKYYD
+Merchant: Friedman-Adams
+Date: 2024-12-11
+Total: $382.78
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-T53YKYYD",
+  "merchant_name": "Friedman-Adams",
+  "date": "2024-12-11",
+  "subtotal": 363.91,
+  "tax": 29.21,
+  "discount": 10.34,
+  "total": 382.78,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$41.94",
+      "line_total": "$83.88"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$33.55",
+      "line_total": "$134.20"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$18.21",
+      "line_total": "$18.21"
+    },
+    {
+      "name": "Coffee",
+      "qty": 2,
+      "unit_price": "$63.81",
+      "line_total": "$127.62"
+    }
+  ],
+  "sample_id": "receipt_0211"
+}

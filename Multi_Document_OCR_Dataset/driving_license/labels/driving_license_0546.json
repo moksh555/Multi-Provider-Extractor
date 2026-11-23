@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL393818839",
+  "full_name": "Theodore Lopez",
+  "date_of_birth": "1995-04-04",
+  "class": "C",
+  "issue_date": "2022-11-12",
+  "expiry_date": "2027-11-12",
+  "address": "41990 Williams Island, West Alanstad, WV 37516",
+  "sample_id": "driving_license_0546"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-RSSUY6KA
+Patient: Alicia Arroyo
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RSSUY6KA",
+  "patient_name": "Alicia Arroyo",
+  "visit_date": "2026-03-26",
+  "doctor_name": "Dr. Antonio Wallace",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0909"
+}

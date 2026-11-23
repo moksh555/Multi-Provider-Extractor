@@ -1,0 +1,16 @@
+Bank Statement STM-WDA03DAZ
+Holder: Margaret Farmer
+Closing Balance: $1796.93
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-WDA03DAZ",
+  "account_holder": "Margaret Farmer",
+  "account_number_masked": "****9668",
+  "period_start": "2024-01-07",
+  "period_end": "2024-02-06",
+  "opening_balance": 2716.76,
+  "closing_balance": 1796.93,
+  "transactions": 13,
+  "sample_id": "bank_statement_0565"
+}

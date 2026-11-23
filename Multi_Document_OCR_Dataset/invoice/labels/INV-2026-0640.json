@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0640",
+  "invoice_number": "INV-2026-0640",
+  "company_name": "Delta Insurance Services",
+  "company_address": "140 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "MediLife Hospital",
+  "billing_address": "56 Motijheel C/A, Doha, Qatar",
+  "invoice_date": "2026-05-24",
+  "due_date": "2026-06-08",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 11,
+      "unit_price": 516.02,
+      "amount": 5676.22
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 7,
+      "unit_price": 621.76,
+      "amount": 4352.32
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 6,
+      "unit_price": 493.54,
+      "amount": 2961.24
+    }
+  ],
+  "subtotal": 12989.78,
+  "discount": 1298.98,
+  "tax_rate": 0.075,
+  "tax": 876.81,
+  "shipping": 0,
+  "total": 12567.61,
+  "amount_paid": 12567.61,
+  "balance_due": 0.0,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801977916403",
+  "po_number": "PO-20907"
+}

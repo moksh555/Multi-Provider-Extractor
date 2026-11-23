@@ -1,0 +1,23 @@
+Resume
+Harry Hardin
+Software Engineer
+Skills: AWS, Deep Learning, Computer Vision, NLP, PyTorch, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Harry Hardin",
+  "email": "mary37@example.net",
+  "phone": "(437)866-0414",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "AWS",
+    "Deep Learning",
+    "Computer Vision",
+    "NLP",
+    "PyTorch",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0474"
+}

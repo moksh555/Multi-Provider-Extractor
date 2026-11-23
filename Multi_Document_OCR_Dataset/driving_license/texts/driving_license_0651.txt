@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kara Stewart
+License: DL556201038
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL556201038",
+  "full_name": "Kara Stewart",
+  "date_of_birth": "1989-07-04",
+  "class": "D",
+  "issue_date": "2026-05-20",
+  "expiry_date": "2031-05-20",
+  "address": "04331 Rivera Circle Suite 921, Danabury, MI 82921",
+  "sample_id": "driving_license_0651"
+}

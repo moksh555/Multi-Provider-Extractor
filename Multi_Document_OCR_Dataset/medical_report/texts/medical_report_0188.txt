@@ -1,0 +1,14 @@
+Medical Report MED-ZQNO6I5Z
+Patient: Drew Powell
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZQNO6I5Z",
+  "patient_name": "Drew Powell",
+  "visit_date": "2026-10-22",
+  "doctor_name": "Dr. Sabrina Cruz",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0188"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ZKXQ80I4",
+  "account_holder": "Marvin Dennis",
+  "account_number_masked": "****0591",
+  "period_start": "2025-09-09",
+  "period_end": "2025-10-09",
+  "opening_balance": 3017.47,
+  "closing_balance": 4695.18,
+  "transactions": 8,
+  "sample_id": "bank_statement_0361"
+}

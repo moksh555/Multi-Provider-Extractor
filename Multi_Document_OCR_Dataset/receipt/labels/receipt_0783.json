@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-8EHIVM4Y",
+  "merchant_name": "Olson, Thomas and Nelson",
+  "date": "2024-09-27",
+  "subtotal": 416.08,
+  "tax": 31.66,
+  "discount": 6.44,
+  "total": 441.3,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 3,
+      "unit_price": "$15.67",
+      "line_total": "$47.01"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$62.03",
+      "line_total": "$186.09"
+    },
+    {
+      "name": "Medicine",
+      "qty": 4,
+      "unit_price": "$34.83",
+      "line_total": "$139.32"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$21.83",
+      "line_total": "$43.66"
+    }
+  ],
+  "sample_id": "receipt_0783"
+}

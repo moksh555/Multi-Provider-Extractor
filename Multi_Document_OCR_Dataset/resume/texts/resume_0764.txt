@@ -1,0 +1,23 @@
+Resume
+Jordan West
+Backend Developer
+Skills: FastAPI, AWS, PyTorch, SQL, Pandas, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Jordan West",
+  "email": "matthew05@example.org",
+  "phone": "001-457-660-3673x3614",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "FastAPI",
+    "AWS",
+    "PyTorch",
+    "SQL",
+    "Pandas",
+    "Python"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0764"
+}

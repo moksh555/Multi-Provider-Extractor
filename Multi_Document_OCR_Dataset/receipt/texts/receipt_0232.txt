@@ -1,0 +1,55 @@
+Receipt RCT-G7IRDLK9
+Merchant: Medina-Arroyo
+Date: 2022-05-15
+Total: $601.03
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-G7IRDLK9",
+  "merchant_name": "Medina-Arroyo",
+  "date": "2022-05-15",
+  "subtotal": 549.18,
+  "tax": 56.09,
+  "discount": 4.24,
+  "total": 601.03,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$67.12",
+      "line_total": "$67.12"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$7.40",
+      "line_total": "$7.40"
+    },
+    {
+      "name": "Shoes",
+      "qty": 4,
+      "unit_price": "$50.64",
+      "line_total": "$202.56"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$27.02",
+      "line_total": "$27.02"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$26.67",
+      "line_total": "$106.68"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$69.20",
+      "line_total": "$138.40"
+    }
+  ],
+  "sample_id": "receipt_0232"
+}

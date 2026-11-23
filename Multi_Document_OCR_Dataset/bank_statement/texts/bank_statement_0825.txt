@@ -1,0 +1,16 @@
+Bank Statement STM-B58M7K4P
+Holder: Paul Mendoza
+Closing Balance: $2082.99
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-B58M7K4P",
+  "account_holder": "Paul Mendoza",
+  "account_number_masked": "****9087",
+  "period_start": "2026-02-05",
+  "period_end": "2026-03-07",
+  "opening_balance": 1151.03,
+  "closing_balance": 2082.99,
+  "transactions": 8,
+  "sample_id": "bank_statement_0825"
+}

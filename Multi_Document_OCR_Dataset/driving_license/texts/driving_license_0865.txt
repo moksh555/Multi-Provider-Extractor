@@ -1,0 +1,16 @@
+Synthetic Driving License
+Martin Wilson
+License: DL616010685
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL616010685",
+  "full_name": "Martin Wilson",
+  "date_of_birth": "1963-10-06",
+  "class": "B",
+  "issue_date": "2026-03-16",
+  "expiry_date": "2031-03-16",
+  "address": "033 Jessica Spur, Andersonborough, KY 15261",
+  "sample_id": "driving_license_0865"
+}

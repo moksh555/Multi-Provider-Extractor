@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0843",
+  "invoice_number": "INV-2026-0843",
+  "company_name": "Nova Medical Supplies",
+  "company_address": "88 Al Barsha, Dubai, UAE",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "190 Al Barsha, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-03-23",
+  "due_date": "2026-04-07",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 10,
+      "unit_price": 364.26,
+      "amount": 3642.6
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 4,
+      "unit_price": 67.22,
+      "amount": 268.88
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 10,
+      "unit_price": 716.34,
+      "amount": 7163.4
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 4,
+      "unit_price": 842.03,
+      "amount": 3368.12
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 1,
+      "unit_price": 846.89,
+      "amount": 846.89
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 144.38,
+      "amount": 1010.66
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 1,
+      "unit_price": 695.42,
+      "amount": 695.42
+    }
+  ],
+  "subtotal": 16995.97,
+  "discount": 849.8,
+  "tax_rate": 0.05,
+  "tax": 807.31,
+  "shipping": 50,
+  "total": 17003.48,
+  "amount_paid": 17003.48,
+  "balance_due": 0.0,
+  "vendor_email": "novamedicalsupplies@example.com",
+  "vendor_phone": "+8801752808550",
+  "po_number": "PO-72976"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Daniel Smith
+License: DL448491253
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL448491253",
+  "full_name": "Daniel Smith",
+  "date_of_birth": "2001-08-18",
+  "class": "A",
+  "issue_date": "2021-12-06",
+  "expiry_date": "2026-12-06",
+  "address": "124 Craig Haven Apt. 868, West Michelle, OK 87653",
+  "sample_id": "driving_license_0954"
+}

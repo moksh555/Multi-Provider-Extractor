@@ -1,0 +1,14 @@
+Medical Report MED-KC1AVEE1
+Patient: James Williams
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-KC1AVEE1",
+  "patient_name": "James Williams",
+  "visit_date": "2026-04-06",
+  "doctor_name": "Dr. Kayla Simmons",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0492"
+}

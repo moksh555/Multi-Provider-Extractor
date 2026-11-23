@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0995
+Company: Metro Print House
+Company Address: 174 Road 12, Banani, Riyadh, Saudi Arabia
+Customer: TechPoint BD
+Billing Address: 159 Dhanmondi 27, Chattogram, Bangladesh
+Invoice Date: 2026-05-25
+Due Date: 2026-06-01
+Currency: AED
+Subtotal: 11500.94
+Tax: 0.0
+Total: 10400.85
+Balance Due: 3230.69
+Status: partial

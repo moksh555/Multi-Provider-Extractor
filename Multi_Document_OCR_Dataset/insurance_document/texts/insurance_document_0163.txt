@@ -1,0 +1,16 @@
+Insurance Policy POL-V5G10UR5L
+Holder: Lisa Haley
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-V5G10UR5L",
+  "policy_holder": "Lisa Haley",
+  "policy_type": "Health Insurance",
+  "issue_date": "2024-03-09",
+  "expiry_date": "2025-03-09",
+  "premium": 2350.44,
+  "coverage_amount": 481418.0,
+  "beneficiary": "Erica Moon",
+  "sample_id": "insurance_document_0163"
+}

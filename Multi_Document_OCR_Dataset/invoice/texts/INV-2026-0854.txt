@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0854
+Company: UrbanBuild Construction
+Company Address: 160 Agrabad C/A, Dhaka, Bangladesh
+Customer: Bengal Motors
+Billing Address: 79 Motijheel C/A, Sylhet, Bangladesh
+Invoice Date: 2026-01-14
+Due Date: 2026-01-21
+Currency: SAR
+Subtotal: 19384.7
+Tax: 1744.62
+Total: 19190.85
+Balance Due: 0.0
+Status: paid

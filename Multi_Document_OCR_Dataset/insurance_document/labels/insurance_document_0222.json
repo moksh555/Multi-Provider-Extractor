@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3CUP8IJL2",
+  "policy_holder": "Andrew Harris",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-10-13",
+  "expiry_date": "2025-10-13",
+  "premium": 1197.56,
+  "coverage_amount": 124469.5,
+  "beneficiary": "Jonathan Lloyd",
+  "sample_id": "insurance_document_0222"
+}

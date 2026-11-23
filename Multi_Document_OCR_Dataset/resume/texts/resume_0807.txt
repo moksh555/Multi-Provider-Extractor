@@ -1,0 +1,23 @@
+Resume
+Regina Thompson
+Computer Vision Engineer
+Skills: Pandas, LangChain, PyTorch, Deep Learning, AWS, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Regina Thompson",
+  "email": "xclarke@example.net",
+  "phone": "806-497-2967x2041",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "LangChain",
+    "PyTorch",
+    "Deep Learning",
+    "AWS",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0807"
+}

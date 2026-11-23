@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DVN9ZKELZ",
+  "policy_holder": "Ryan Roman",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-01-14",
+  "expiry_date": "2025-01-14",
+  "premium": 1084.69,
+  "coverage_amount": 353363.54,
+  "beneficiary": "Richard Parsons",
+  "sample_id": "insurance_document_0661"
+}

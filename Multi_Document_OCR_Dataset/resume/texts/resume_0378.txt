@@ -1,0 +1,25 @@
+Resume
+Arthur White
+Software Engineer
+Skills: PyTorch, NLP, Pandas, FastAPI, Computer Vision, SQL, Python, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Arthur White",
+  "email": "stephanie05@example.org",
+  "phone": "6537531318",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "PyTorch",
+    "NLP",
+    "Pandas",
+    "FastAPI",
+    "Computer Vision",
+    "SQL",
+    "Python",
+    "LangChain"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0378"
+}

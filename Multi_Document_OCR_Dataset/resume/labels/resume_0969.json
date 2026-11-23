@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Tonya Smith",
+  "email": "slevy@example.net",
+  "phone": "911-571-5903x648",
+  "job_title": "Data Analyst",
+  "years_experience": 5,
+  "skills": [
+    "Machine Learning",
+    "FastAPI",
+    "LangChain",
+    "SQL",
+    "NLP",
+    "TensorFlow",
+    "Docker",
+    "Streamlit",
+    "Computer Vision"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0969"
+}

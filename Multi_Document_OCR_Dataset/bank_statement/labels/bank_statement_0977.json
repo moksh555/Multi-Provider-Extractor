@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-SVCLLZCC",
+  "account_holder": "Philip Combs",
+  "account_number_masked": "****8309",
+  "period_start": "2025-05-06",
+  "period_end": "2025-06-05",
+  "opening_balance": 4056.84,
+  "closing_balance": 7215.78,
+  "transactions": 9,
+  "sample_id": "bank_statement_0977"
+}

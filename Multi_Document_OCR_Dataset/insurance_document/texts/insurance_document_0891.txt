@@ -1,0 +1,16 @@
+Insurance Policy POL-XJQ2WDIZH
+Holder: Bethany Haynes
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XJQ2WDIZH",
+  "policy_holder": "Bethany Haynes",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-08-12",
+  "expiry_date": "2025-08-12",
+  "premium": 1853.03,
+  "coverage_amount": 308564.92,
+  "beneficiary": "Katherine Weaver MD",
+  "sample_id": "insurance_document_0891"
+}

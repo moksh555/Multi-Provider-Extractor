@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0159
+Company: BrightStar Electronics
+Company Address: 39 Motijheel C/A, Sylhet, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 117 Sheikh Zayed Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-21
+Due Date: 2026-05-05
+Currency: BDT
+Subtotal: 7508.04
+Tax: 534.95
+Total: 7677.59
+Balance Due: 7677.59
+Status: overdue

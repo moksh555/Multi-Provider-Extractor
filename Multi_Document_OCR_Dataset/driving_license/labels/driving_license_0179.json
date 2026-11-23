@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL125259374",
+  "full_name": "Blake Reed",
+  "date_of_birth": "2004-01-05",
+  "class": "B",
+  "issue_date": "2025-03-02",
+  "expiry_date": "2030-03-02",
+  "address": "570 Clark Square, West Jonathanville, VA 00668",
+  "sample_id": "driving_license_0179"
+}

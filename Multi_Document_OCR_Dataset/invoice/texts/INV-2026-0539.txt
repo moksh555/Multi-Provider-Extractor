@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0539
+Company: Delta Insurance Services
+Company Address: 148 Uttara Sector 7, Riyadh, Saudi Arabia
+Customer: Karim Enterprise
+Billing Address: 247 Dhanmondi 27, Dubai, UAE
+Invoice Date: 2026-03-07
+Due Date: 2026-04-21
+Currency: SAR
+Subtotal: 11405.19
+Tax: 1140.52
+Total: 12595.71
+Balance Due: 12595.71
+Status: unpaid

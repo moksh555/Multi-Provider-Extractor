@@ -1,0 +1,16 @@
+Insurance Policy POL-L30307HDH
+Holder: Melissa Wilkins
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-L30307HDH",
+  "policy_holder": "Melissa Wilkins",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-06-19",
+  "expiry_date": "2026-06-19",
+  "premium": 1091.93,
+  "coverage_amount": 432820.97,
+  "beneficiary": "Alex Andrews",
+  "sample_id": "insurance_document_0510"
+}

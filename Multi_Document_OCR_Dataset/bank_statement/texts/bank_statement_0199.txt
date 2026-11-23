@@ -1,0 +1,16 @@
+Bank Statement STM-X16OEM9N
+Holder: Travis Powell
+Closing Balance: $3155.86
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-X16OEM9N",
+  "account_holder": "Travis Powell",
+  "account_number_masked": "****5004",
+  "period_start": "2026-01-17",
+  "period_end": "2026-02-16",
+  "opening_balance": 622.28,
+  "closing_balance": 3155.86,
+  "transactions": 10,
+  "sample_id": "bank_statement_0199"
+}

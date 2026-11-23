@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0411",
+  "invoice_number": "INV-2026-0411",
+  "company_name": "Greenline Logistics",
+  "company_address": "81 Zindabazar Road, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "237 Motijheel C/A, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-01-21",
+  "due_date": "2026-02-20",
+  "currency": "USD",
+  "payment_terms": "Advance Paid",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Printer Cartridge",
+      "quantity": 12,
+      "unit_price": 488.37,
+      "amount": 5860.44
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 1,
+      "unit_price": 663.87,
+      "amount": 663.87
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 3,
+      "unit_price": 664.1,
+      "amount": 1992.3
+    }
+  ],
+  "subtotal": 8516.61,
+  "discount": 170.33,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 8396.28,
+  "amount_paid": 0,
+  "balance_due": 8396.28,
+  "vendor_email": "greenlinelogistics@example.com",
+  "vendor_phone": "+8801760128508",
+  "po_number": "PO-95906"
+}

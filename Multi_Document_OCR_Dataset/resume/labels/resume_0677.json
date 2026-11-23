@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Ryan Reyes",
+  "email": "aramirez@example.com",
+  "phone": "(347)685-6250x8450",
+  "job_title": "Data Analyst",
+  "years_experience": 7,
+  "skills": [
+    "Pandas",
+    "TensorFlow",
+    "Deep Learning",
+    "Docker",
+    "Machine Learning",
+    "Streamlit",
+    "SQL",
+    "FastAPI"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0677"
+}

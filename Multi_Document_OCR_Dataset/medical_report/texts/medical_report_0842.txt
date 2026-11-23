@@ -1,0 +1,14 @@
+Medical Report MED-RCSN0N2M
+Patient: Kenneth Atkinson
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-RCSN0N2M",
+  "patient_name": "Kenneth Atkinson",
+  "visit_date": "2025-08-19",
+  "doctor_name": "Dr. Sharon Rodriguez",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0842"
+}

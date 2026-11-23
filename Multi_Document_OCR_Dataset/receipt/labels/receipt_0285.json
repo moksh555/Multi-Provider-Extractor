@@ -1,0 +1,62 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-043BLSYJ",
+  "merchant_name": "Hansen-Freeman",
+  "date": "2026-05-14",
+  "subtotal": 1056.27,
+  "tax": 125.83,
+  "discount": 11.37,
+  "total": 1170.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$24.03",
+      "line_total": "$96.12"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$78.51",
+      "line_total": "$78.51"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$66.40",
+      "line_total": "$132.80"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$56.33",
+      "line_total": "$112.66"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 2,
+      "unit_price": "$68.69",
+      "line_total": "$137.38"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$78.77",
+      "line_total": "$236.31"
+    },
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$44.29",
+      "line_total": "$44.29"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$54.55",
+      "line_total": "$218.20"
+    }
+  ],
+  "sample_id": "receipt_0285"
+}

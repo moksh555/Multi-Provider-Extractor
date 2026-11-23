@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-YILYXYEM",
+  "account_holder": "Heather Brown",
+  "account_number_masked": "****5928",
+  "period_start": "2026-05-07",
+  "period_end": "2026-06-06",
+  "opening_balance": 2523.39,
+  "closing_balance": 5243.87,
+  "transactions": 11,
+  "sample_id": "bank_statement_0185"
+}

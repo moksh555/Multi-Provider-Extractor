@@ -1,0 +1,16 @@
+Synthetic Driving License
+Gary Turner
+License: DL693000456
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL693000456",
+  "full_name": "Gary Turner",
+  "date_of_birth": "1991-07-15",
+  "class": "C",
+  "issue_date": "2022-06-17",
+  "expiry_date": "2027-06-17",
+  "address": "92840 Campbell Key Suite 690, Valdezberg, VI 52602",
+  "sample_id": "driving_license_0461"
+}

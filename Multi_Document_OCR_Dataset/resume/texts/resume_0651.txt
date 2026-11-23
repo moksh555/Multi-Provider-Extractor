@@ -1,0 +1,23 @@
+Resume
+Matthew Wallace
+Backend Developer
+Skills: Computer Vision, Python, Machine Learning, LangChain, Streamlit, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Matthew Wallace",
+  "email": "umorrison@example.org",
+  "phone": "444-694-1996x4596",
+  "job_title": "Backend Developer",
+  "years_experience": 6,
+  "skills": [
+    "Computer Vision",
+    "Python",
+    "Machine Learning",
+    "LangChain",
+    "Streamlit",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0651"
+}

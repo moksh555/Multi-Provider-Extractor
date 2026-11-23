@@ -1,0 +1,16 @@
+Insurance Policy POL-CIDUDK73A
+Holder: Ryan White
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CIDUDK73A",
+  "policy_holder": "Ryan White",
+  "policy_type": "Property Insurance",
+  "issue_date": "2026-10-18",
+  "expiry_date": "2027-10-18",
+  "premium": 1330.66,
+  "coverage_amount": 368090.71,
+  "beneficiary": "Erin Moore",
+  "sample_id": "insurance_document_0674"
+}

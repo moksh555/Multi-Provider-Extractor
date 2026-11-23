@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0746
+Company: Greenline Logistics
+Company Address: 10 Doha Business Park, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 247 Sheikh Zayed Road, Dubai, UAE
+Invoice Date: 2026-02-16
+Due Date: 2026-04-02
+Currency: AED
+Subtotal: 8418.36
+Tax: 1262.75
+Total: 9691.11
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,14 @@
+Medical Report MED-2Q253IXX
+Patient: Robin Pugh
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-2Q253IXX",
+  "patient_name": "Robin Pugh",
+  "visit_date": "2026-09-20",
+  "doctor_name": "Dr. Angela Davis",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0697"
+}

@@ -1,0 +1,44 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AUKHQNZJ",
+  "merchant_name": "Green PLC",
+  "date": "2025-03-17",
+  "subtotal": 643.24,
+  "tax": 71.16,
+  "discount": 0.35,
+  "total": 714.05,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$33.17",
+      "line_total": "$132.68"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$75.49",
+      "line_total": "$150.98"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$39.62",
+      "line_total": "$79.24"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$73.16",
+      "line_total": "$73.16"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$69.06",
+      "line_total": "$207.18"
+    }
+  ],
+  "sample_id": "receipt_0444"
+}

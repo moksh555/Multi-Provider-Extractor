@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-AY0EE5J2",
+  "account_holder": "Nicholas King",
+  "account_number_masked": "****6178",
+  "period_start": "2024-09-05",
+  "period_end": "2024-10-05",
+  "opening_balance": 1489.72,
+  "closing_balance": 6694.35,
+  "transactions": 13,
+  "sample_id": "bank_statement_0989"
+}

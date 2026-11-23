@@ -1,0 +1,67 @@
+Receipt RCT-BY595CPJ
+Merchant: Walker, Vaughan and Leblanc
+Date: 2022-05-11
+Total: $1142.07
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-BY595CPJ",
+  "merchant_name": "Walker, Vaughan and Leblanc",
+  "date": "2022-05-11",
+  "subtotal": 1087.55,
+  "tax": 64.93,
+  "discount": 10.41,
+  "total": 1142.07,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$38.98",
+      "line_total": "$155.92"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$65.12",
+      "line_total": "$195.36"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 3,
+      "unit_price": "$32.55",
+      "line_total": "$97.65"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$63.21",
+      "line_total": "$252.84"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$67.92",
+      "line_total": "$135.84"
+    },
+    {
+      "name": "Monitor",
+      "qty": 2,
+      "unit_price": "$29.95",
+      "line_total": "$59.90"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit_price": "$73.12",
+      "line_total": "$146.24"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$21.90",
+      "line_total": "$43.80"
+    }
+  ],
+  "sample_id": "receipt_0396"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0703
+Company: Royal Diagnostics Center
+Company Address: 147 Doha Business Park, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 23 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-01
+Due Date: 2026-05-16
+Currency: QAR
+Subtotal: 21781.16
+Tax: 1633.59
+Total: 23419.75
+Balance Due: 0.0
+Status: paid

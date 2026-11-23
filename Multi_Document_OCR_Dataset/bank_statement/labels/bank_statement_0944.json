@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1HFQ4GSK",
+  "account_holder": "Christopher Martin",
+  "account_number_masked": "****6080",
+  "period_start": "2025-07-22",
+  "period_end": "2025-08-21",
+  "opening_balance": 1312.24,
+  "closing_balance": 2088.89,
+  "transactions": 9,
+  "sample_id": "bank_statement_0944"
+}

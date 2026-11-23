@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL463427382",
+  "full_name": "Mrs. Toni Avila",
+  "date_of_birth": "1976-02-20",
+  "class": "B",
+  "issue_date": "2026-05-29",
+  "expiry_date": "2031-05-29",
+  "address": "462 Page Throughway Apt. 326, Angelaton, GU 40083",
+  "sample_id": "driving_license_0360"
+}

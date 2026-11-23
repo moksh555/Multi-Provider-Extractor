@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-LL42JZNTM",
+  "policy_holder": "Andrew Hickman",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-01-27",
+  "expiry_date": "2024-01-27",
+  "premium": 445.94,
+  "coverage_amount": 147894.7,
+  "beneficiary": "Timothy Mcintosh",
+  "sample_id": "insurance_document_0481"
+}

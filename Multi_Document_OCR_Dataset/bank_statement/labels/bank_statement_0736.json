@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7UYA7ZP8",
+  "account_holder": "Alexandra Butler",
+  "account_number_masked": "****0734",
+  "period_start": "2026-05-11",
+  "period_end": "2026-06-10",
+  "opening_balance": 2808.04,
+  "closing_balance": 6039.87,
+  "transactions": 11,
+  "sample_id": "bank_statement_0736"
+}

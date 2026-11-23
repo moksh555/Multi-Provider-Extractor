@@ -1,0 +1,16 @@
+Insurance Policy POL-TWDL9ZS13
+Holder: Rodney Watson
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-TWDL9ZS13",
+  "policy_holder": "Rodney Watson",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-09-14",
+  "expiry_date": "2024-09-14",
+  "premium": 2434.26,
+  "coverage_amount": 324745.91,
+  "beneficiary": "Maria Aguilar",
+  "sample_id": "insurance_document_0125"
+}

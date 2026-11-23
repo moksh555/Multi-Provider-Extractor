@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-E4EX6U86Z",
+  "policy_holder": "Rachel Miller",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-08-26",
+  "expiry_date": "2025-08-26",
+  "premium": 1231.35,
+  "coverage_amount": 468729.21,
+  "beneficiary": "Tyler Davis",
+  "sample_id": "insurance_document_0435"
+}

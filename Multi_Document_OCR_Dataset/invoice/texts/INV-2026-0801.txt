@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0801
+Company: BlueRiver Trading Co.
+Company Address: 144 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Bengal Motors
+Billing Address: 155 Uttara Sector 7, Chattogram, Bangladesh
+Invoice Date: 2026-03-30
+Due Date: 2026-05-14
+Currency: SAR
+Subtotal: 14892.8
+Tax: 744.64
+Total: 15642.44
+Balance Due: 5980.48
+Status: partial

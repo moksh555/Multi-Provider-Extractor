@@ -1,0 +1,16 @@
+Insurance Policy POL-DTS1FB2VI
+Holder: Shane House
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-DTS1FB2VI",
+  "policy_holder": "Shane House",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-05-15",
+  "expiry_date": "2026-05-15",
+  "premium": 2468.95,
+  "coverage_amount": 64116.53,
+  "beneficiary": "Kenneth Turner",
+  "sample_id": "insurance_document_0556"
+}

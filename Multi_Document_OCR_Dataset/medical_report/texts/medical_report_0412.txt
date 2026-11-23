@@ -1,0 +1,14 @@
+Medical Report MED-EYYIAVPT
+Patient: Sara Marquez
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-EYYIAVPT",
+  "patient_name": "Sara Marquez",
+  "visit_date": "2026-10-31",
+  "doctor_name": "Dr. Hector Lee",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0412"
+}

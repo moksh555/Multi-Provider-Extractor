@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL758510564",
+  "full_name": "Christopher Jones",
+  "date_of_birth": "1988-09-30",
+  "class": "B",
+  "issue_date": "2024-12-01",
+  "expiry_date": "2029-12-01",
+  "address": "24888 Mercado Estate Apt. 762, Ramirezview, PA 28569",
+  "sample_id": "driving_license_0878"
+}

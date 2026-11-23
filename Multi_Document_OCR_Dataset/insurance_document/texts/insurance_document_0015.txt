@@ -1,0 +1,16 @@
+Insurance Policy POL-3GDPPQ0Y9
+Holder: Stephanie Clark
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-3GDPPQ0Y9",
+  "policy_holder": "Stephanie Clark",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-05-05",
+  "expiry_date": "2024-05-05",
+  "premium": 1078.24,
+  "coverage_amount": 176258.28,
+  "beneficiary": "Brian Deleon",
+  "sample_id": "insurance_document_0015"
+}

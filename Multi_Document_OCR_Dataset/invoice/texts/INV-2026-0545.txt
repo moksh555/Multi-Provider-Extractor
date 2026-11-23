@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0545
+Company: PrimeSoft Technologies
+Company Address: 59 Al Barsha, Sylhet, Bangladesh
+Customer: Future School
+Billing Address: 72 Zindabazar Road, Chattogram, Bangladesh
+Invoice Date: 2026-03-25
+Due Date: 2026-05-09
+Currency: BDT
+Subtotal: 12418.75
+Tax: 838.27
+Total: 12020.14
+Balance Due: 5590.11
+Status: partial

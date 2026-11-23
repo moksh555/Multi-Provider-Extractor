@@ -1,0 +1,16 @@
+Bank Statement STM-V5XU6M9D
+Holder: Anthony Cherry
+Closing Balance: $3057.36
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-V5XU6M9D",
+  "account_holder": "Anthony Cherry",
+  "account_number_masked": "****3193",
+  "period_start": "2024-09-28",
+  "period_end": "2024-10-28",
+  "opening_balance": 1313.65,
+  "closing_balance": 3057.36,
+  "transactions": 11,
+  "sample_id": "bank_statement_0176"
+}

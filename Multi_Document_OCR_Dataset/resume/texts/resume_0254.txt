@@ -1,0 +1,27 @@
+Resume
+Christina Evans
+Software Engineer
+Skills: Machine Learning, Pandas, TensorFlow, AWS, Docker, SQL, Computer Vision, Deep Learning, PyTorch, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "Christina Evans",
+  "email": "jonesmelissa@example.org",
+  "phone": "835.286.6715x544",
+  "job_title": "Software Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Machine Learning",
+    "Pandas",
+    "TensorFlow",
+    "AWS",
+    "Docker",
+    "SQL",
+    "Computer Vision",
+    "Deep Learning",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0254"
+}

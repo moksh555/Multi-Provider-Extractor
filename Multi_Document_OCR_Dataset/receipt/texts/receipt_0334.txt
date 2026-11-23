@@ -1,0 +1,43 @@
+Receipt RCT-KV0DSZRK
+Merchant: Schneider, Gaines and Baldwin
+Date: 2023-09-05
+Total: $394.75
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-KV0DSZRK",
+  "merchant_name": "Schneider, Gaines and Baldwin",
+  "date": "2023-09-05",
+  "subtotal": 358.16,
+  "tax": 39.15,
+  "discount": 2.56,
+  "total": 394.75,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$14.16",
+      "line_total": "$14.16"
+    },
+    {
+      "name": "Milk",
+      "qty": 4,
+      "unit_price": "$12.20",
+      "line_total": "$48.80"
+    },
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$34.81",
+      "line_total": "$139.24"
+    },
+    {
+      "name": "Notebook",
+      "qty": 2,
+      "unit_price": "$77.98",
+      "line_total": "$155.96"
+    }
+  ],
+  "sample_id": "receipt_0334"
+}

@@ -1,0 +1,16 @@
+Synthetic Driving License
+Stephanie Marshall
+License: DL619150579
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL619150579",
+  "full_name": "Stephanie Marshall",
+  "date_of_birth": "2004-05-01",
+  "class": "B",
+  "issue_date": "2021-04-30",
+  "expiry_date": "2026-04-30",
+  "address": "6365 Logan Rapids, Lewisfort, DE 36988",
+  "sample_id": "driving_license_0553"
+}

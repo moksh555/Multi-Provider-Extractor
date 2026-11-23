@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-K92WU1RG",
+  "account_holder": "Jennifer Moses",
+  "account_number_masked": "****7544",
+  "period_start": "2024-02-09",
+  "period_end": "2024-03-10",
+  "opening_balance": 1965.37,
+  "closing_balance": 5905.53,
+  "transactions": 14,
+  "sample_id": "bank_statement_0849"
+}

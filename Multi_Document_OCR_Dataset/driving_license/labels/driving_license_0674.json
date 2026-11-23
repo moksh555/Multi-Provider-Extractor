@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL546669720",
+  "full_name": "Adam Vaughan",
+  "date_of_birth": "1992-06-03",
+  "class": "B",
+  "issue_date": "2020-04-25",
+  "expiry_date": "2025-04-25",
+  "address": "89760 Campbell Crossing Suite 750, Johnnymouth, TX 39317",
+  "sample_id": "driving_license_0674"
+}

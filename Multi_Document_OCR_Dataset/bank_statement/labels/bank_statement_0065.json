@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6ATQGKRY",
+  "account_holder": "Monica Wade",
+  "account_number_masked": "****2702",
+  "period_start": "2026-12-18",
+  "period_end": "2027-01-17",
+  "opening_balance": 1114.23,
+  "closing_balance": 4909.91,
+  "transactions": 8,
+  "sample_id": "bank_statement_0065"
+}

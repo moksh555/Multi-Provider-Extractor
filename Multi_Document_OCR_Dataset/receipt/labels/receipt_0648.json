@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-DN1TJL2F",
+  "merchant_name": "Freeman, Curry and Payne",
+  "date": "2026-10-10",
+  "subtotal": 593.09,
+  "tax": 31.28,
+  "discount": 7.8,
+  "total": 616.57,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$77.22",
+      "line_total": "$231.66"
+    },
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$13.96",
+      "line_total": "$13.96"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 4,
+      "unit_price": "$4.09",
+      "line_total": "$16.36"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$44.68",
+      "line_total": "$134.04"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$67.35",
+      "line_total": "$67.35"
+    },
+    {
+      "name": "Backpack",
+      "qty": 3,
+      "unit_price": "$43.24",
+      "line_total": "$129.72"
+    }
+  ],
+  "sample_id": "receipt_0648"
+}

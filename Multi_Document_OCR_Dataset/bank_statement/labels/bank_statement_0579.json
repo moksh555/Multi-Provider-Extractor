@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6YZ7RY21",
+  "account_holder": "Kelly Long",
+  "account_number_masked": "****5156",
+  "period_start": "2025-01-01",
+  "period_end": "2025-01-31",
+  "opening_balance": 2278.5,
+  "closing_balance": 5525.05,
+  "transactions": 12,
+  "sample_id": "bank_statement_0579"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-CV812JJ8
+Patient: Ralph Rodriguez
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-CV812JJ8",
+  "patient_name": "Ralph Rodriguez",
+  "visit_date": "2025-10-11",
+  "doctor_name": "Dr. Tammy Harper",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0899"
+}

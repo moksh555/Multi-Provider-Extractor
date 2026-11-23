@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XNX4SN6SM",
+  "policy_holder": "Rachel Banks",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2025-09-24",
+  "expiry_date": "2026-09-24",
+  "premium": 2006.52,
+  "coverage_amount": 444714.25,
+  "beneficiary": "Andre Collier",
+  "sample_id": "insurance_document_0314"
+}

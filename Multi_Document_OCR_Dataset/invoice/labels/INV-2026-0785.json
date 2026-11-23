@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0785",
+  "invoice_number": "INV-2026-0785",
+  "company_name": "Summit Agro Foods",
+  "company_address": "119 Mirpur DOHS, Chattogram, Bangladesh",
+  "customer_name": "Rahim Traders",
+  "billing_address": "30 Zindabazar Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-03-29",
+  "due_date": "2026-05-13",
+  "currency": "QAR",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Network Cable",
+      "quantity": 11,
+      "unit_price": 98.71,
+      "amount": 1085.81
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 9,
+      "unit_price": 48.75,
+      "amount": 438.75
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 6,
+      "unit_price": 33.97,
+      "amount": 203.82
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 2,
+      "unit_price": 62.82,
+      "amount": 125.64
+    },
+    {
+      "description": "Wireless Mouse",
+      "quantity": 4,
+      "unit_price": 675.37,
+      "amount": 2701.48
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 9,
+      "unit_price": 111.1,
+      "amount": 999.9
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 2,
+      "unit_price": 800.68,
+      "amount": 1601.36
+    }
+  ],
+  "subtotal": 7156.76,
+  "discount": 715.68,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 6466.08,
+  "amount_paid": 6466.08,
+  "balance_due": 0.0,
+  "vendor_email": "summitagrofoods@example.com",
+  "vendor_phone": "+8801278887641",
+  "po_number": "PO-07825"
+}

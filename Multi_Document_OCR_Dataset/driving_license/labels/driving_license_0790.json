@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL966514512",
+  "full_name": "Christian Smith",
+  "date_of_birth": "1976-03-15",
+  "class": "A",
+  "issue_date": "2021-01-15",
+  "expiry_date": "2026-01-15",
+  "address": "8586 Mary Throughway Suite 535, Philipport, NV 04278",
+  "sample_id": "driving_license_0790"
+}

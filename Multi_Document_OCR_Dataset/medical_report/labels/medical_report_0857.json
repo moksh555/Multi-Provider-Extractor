@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-REJD916G",
+  "patient_name": "William Hill",
+  "visit_date": "2026-08-08",
+  "doctor_name": "Dr. Tracy Smith",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0857"
+}

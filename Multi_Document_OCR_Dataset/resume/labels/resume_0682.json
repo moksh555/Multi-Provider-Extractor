@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Joel Olson",
+  "email": "jessicacollins@example.com",
+  "phone": "856-847-3116x88592",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 4,
+  "skills": [
+    "SQL",
+    "Deep Learning",
+    "FastAPI",
+    "AWS",
+    "Pandas",
+    "NLP",
+    "Machine Learning",
+    "PyTorch",
+    "Python",
+    "TensorFlow"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0682"
+}

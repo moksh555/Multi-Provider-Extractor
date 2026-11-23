@@ -1,0 +1,26 @@
+Resume
+James Carpenter
+Machine Learning Engineer
+Skills: NLP, SQL, Deep Learning, TensorFlow, Pandas, LangChain, Machine Learning, AWS, FastAPI
+
+{
+  "category": "resume",
+  "candidate_name": "James Carpenter",
+  "email": "johnsonamy@example.com",
+  "phone": "001-458-201-5176x4296",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 8,
+  "skills": [
+    "NLP",
+    "SQL",
+    "Deep Learning",
+    "TensorFlow",
+    "Pandas",
+    "LangChain",
+    "Machine Learning",
+    "AWS",
+    "FastAPI"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0312"
+}

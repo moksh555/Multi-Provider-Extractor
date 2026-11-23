@@ -1,0 +1,16 @@
+Insurance Policy POL-CW8IHYFZ9
+Holder: Amy Mcdaniel
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CW8IHYFZ9",
+  "policy_holder": "Amy Mcdaniel",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-11-23",
+  "expiry_date": "2026-11-23",
+  "premium": 2481.62,
+  "coverage_amount": 308282.07,
+  "beneficiary": "Isaiah Terry",
+  "sample_id": "insurance_document_0720"
+}

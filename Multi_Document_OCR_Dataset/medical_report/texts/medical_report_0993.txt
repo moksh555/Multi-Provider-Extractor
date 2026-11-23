@@ -1,0 +1,14 @@
+Medical Report MED-7G32I8UV
+Patient: Wendy Pittman
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7G32I8UV",
+  "patient_name": "Wendy Pittman",
+  "visit_date": "2024-12-25",
+  "doctor_name": "Dr. Joann Johnson MD",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0993"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0781
+Company: Golden Harvest Store
+Company Address: 114 Doha Business Park, Doha, Qatar
+Customer: Ocean Exporters
+Billing Address: 183 Doha Business Park, Dhaka, Bangladesh
+Invoice Date: 2026-06-13
+Due Date: 2026-06-20
+Currency: USD
+Subtotal: 12927.35
+Tax: 0.0
+Total: 12673.8
+Balance Due: 4528.32
+Status: partial

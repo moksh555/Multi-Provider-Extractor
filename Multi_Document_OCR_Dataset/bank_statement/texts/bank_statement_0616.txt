@@ -1,0 +1,16 @@
+Bank Statement STM-7WLYZFPP
+Holder: Samuel Long
+Closing Balance: $8589.59
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-7WLYZFPP",
+  "account_holder": "Samuel Long",
+  "account_number_masked": "****8029",
+  "period_start": "2024-07-09",
+  "period_end": "2024-08-08",
+  "opening_balance": 3432.44,
+  "closing_balance": 8589.59,
+  "transactions": 9,
+  "sample_id": "bank_statement_0616"
+}

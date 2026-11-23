@@ -1,0 +1,14 @@
+Medical Report MED-34RWTXBN
+Patient: Dana Bauer
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-34RWTXBN",
+  "patient_name": "Dana Bauer",
+  "visit_date": "2026-02-12",
+  "doctor_name": "Dr. Pamela Jensen",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0676"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0658
+Company: Golden Harvest Store
+Company Address: 44 Dhanmondi 27, Dubai, UAE
+Customer: Trust Finance Office
+Billing Address: 88 Sheikh Zayed Road, Doha, Qatar
+Invoice Date: 2026-04-06
+Due Date: 2026-04-13
+Currency: QAR
+Subtotal: 19167.17
+Tax: 1437.54
+Total: 20609.71
+Balance Due: 0.0
+Status: paid

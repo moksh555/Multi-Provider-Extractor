@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0403
+Company: Royal Diagnostics Center
+Company Address: 184 Zindabazar Road, Sylhet, Bangladesh
+Customer: Bengal Motors
+Billing Address: 58 Road 12, Banani, Chattogram, Bangladesh
+Invoice Date: 2026-03-20
+Due Date: 2026-03-27
+Currency: QAR
+Subtotal: 9229.57
+Tax: 0.0
+Total: 8773.09
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-350TT58V",
+  "patient_name": "Dawn Cooley",
+  "visit_date": "2024-08-09",
+  "doctor_name": "Dr. Wanda Morris",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0483"
+}

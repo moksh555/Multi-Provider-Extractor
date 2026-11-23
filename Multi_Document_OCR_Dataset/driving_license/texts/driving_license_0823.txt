@@ -1,0 +1,16 @@
+Synthetic Driving License
+Caroline Powell
+License: DL525140242
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL525140242",
+  "full_name": "Caroline Powell",
+  "date_of_birth": "1971-01-27",
+  "class": "D",
+  "issue_date": "2020-08-05",
+  "expiry_date": "2025-08-05",
+  "address": "4343 Burke Mountains Apt. 931, Marqueztown, MS 75429",
+  "sample_id": "driving_license_0823"
+}

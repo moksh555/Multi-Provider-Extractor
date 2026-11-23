@@ -1,0 +1,27 @@
+Resume
+Susan Williams
+Backend Developer
+Skills: PyTorch, TensorFlow, Pandas, LangChain, FastAPI, Machine Learning, Docker, NLP, Computer Vision, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Susan Williams",
+  "email": "aguirreantonio@example.org",
+  "phone": "947.813.1719",
+  "job_title": "Backend Developer",
+  "years_experience": 1,
+  "skills": [
+    "PyTorch",
+    "TensorFlow",
+    "Pandas",
+    "LangChain",
+    "FastAPI",
+    "Machine Learning",
+    "Docker",
+    "NLP",
+    "Computer Vision",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0091"
+}

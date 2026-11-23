@@ -1,0 +1,16 @@
+Bank Statement STM-ONS1NGWZ
+Holder: Lindsey Mendoza
+Closing Balance: $9551.74
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-ONS1NGWZ",
+  "account_holder": "Lindsey Mendoza",
+  "account_number_masked": "****1179",
+  "period_start": "2025-02-28",
+  "period_end": "2025-03-30",
+  "opening_balance": 4976.36,
+  "closing_balance": 9551.74,
+  "transactions": 9,
+  "sample_id": "bank_statement_0828"
+}

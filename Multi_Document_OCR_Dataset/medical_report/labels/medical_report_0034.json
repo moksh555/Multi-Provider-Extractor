@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IMWF0L2D",
+  "patient_name": "Shawn Patton",
+  "visit_date": "2026-06-23",
+  "doctor_name": "Dr. Michael Howe",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0034"
+}

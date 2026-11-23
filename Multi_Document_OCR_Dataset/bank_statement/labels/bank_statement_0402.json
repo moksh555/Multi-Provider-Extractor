@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-JGGGU5RP",
+  "account_holder": "Kenneth Wells",
+  "account_number_masked": "****8500",
+  "period_start": "2025-02-23",
+  "period_end": "2025-03-25",
+  "opening_balance": 1337.75,
+  "closing_balance": 2651.32,
+  "transactions": 11,
+  "sample_id": "bank_statement_0402"
+}

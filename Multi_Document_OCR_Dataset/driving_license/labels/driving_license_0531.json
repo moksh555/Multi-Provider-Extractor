@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL763494022",
+  "full_name": "Mark Garrison",
+  "date_of_birth": "1987-12-31",
+  "class": "A",
+  "issue_date": "2026-08-24",
+  "expiry_date": "2031-08-24",
+  "address": "65271 White Ferry Apt. 397, Lake Julian, ME 21855",
+  "sample_id": "driving_license_0531"
+}

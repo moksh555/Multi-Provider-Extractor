@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Jessica Coleman",
+  "email": "kmueller@example.org",
+  "phone": "(704)587-1036",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "Streamlit",
+    "Python",
+    "NLP",
+    "Pandas",
+    "Computer Vision",
+    "FastAPI",
+    "LangChain",
+    "Machine Learning",
+    "AWS",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0674"
+}

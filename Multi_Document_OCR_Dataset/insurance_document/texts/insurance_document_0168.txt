@@ -1,0 +1,16 @@
+Insurance Policy POL-XCB48Y1O4
+Holder: Carl Rios
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XCB48Y1O4",
+  "policy_holder": "Carl Rios",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-05-20",
+  "expiry_date": "2024-05-20",
+  "premium": 1803.06,
+  "coverage_amount": 14479.32,
+  "beneficiary": "Manuel Mccullough",
+  "sample_id": "insurance_document_0168"
+}

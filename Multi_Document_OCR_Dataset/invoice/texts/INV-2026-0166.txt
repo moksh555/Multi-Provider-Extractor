@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0166
+Company: BlueRiver Trading Co.
+Company Address: 146 Dhanmondi 27, Riyadh, Saudi Arabia
+Customer: Smart Retail LLC
+Billing Address: 243 Gulshan Avenue, Sylhet, Bangladesh
+Invoice Date: 2026-05-20
+Due Date: 2026-07-04
+Currency: SAR
+Subtotal: 14445.62
+Tax: 1083.42
+Total: 15579.04
+Balance Due: 15579.04
+Status: unpaid

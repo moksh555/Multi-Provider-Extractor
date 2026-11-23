@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL551925959",
+  "full_name": "Ashley Perry",
+  "date_of_birth": "1968-07-17",
+  "class": "D",
+  "issue_date": "2021-07-09",
+  "expiry_date": "2026-07-09",
+  "address": "PSC 9177, Box 9827, APO AE 70016",
+  "sample_id": "driving_license_0213"
+}

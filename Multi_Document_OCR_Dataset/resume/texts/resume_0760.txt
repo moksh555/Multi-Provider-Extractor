@@ -1,0 +1,25 @@
+Resume
+Jessica Walker
+Computer Vision Engineer
+Skills: Pandas, Streamlit, Machine Learning, FastAPI, Deep Learning, PyTorch, LangChain, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Jessica Walker",
+  "email": "cmorrison@example.com",
+  "phone": "001-931-783-4290x02492",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 3,
+  "skills": [
+    "Pandas",
+    "Streamlit",
+    "Machine Learning",
+    "FastAPI",
+    "Deep Learning",
+    "PyTorch",
+    "LangChain",
+    "TensorFlow"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0760"
+}

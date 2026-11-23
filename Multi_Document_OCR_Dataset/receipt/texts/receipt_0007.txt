@@ -1,0 +1,37 @@
+Receipt RCT-MVIHCWI6
+Merchant: Burton Ltd
+Date: 2024-09-15
+Total: $442.39
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-MVIHCWI6",
+  "merchant_name": "Burton Ltd",
+  "date": "2024-09-15",
+  "subtotal": 403.79,
+  "tax": 41.46,
+  "discount": 2.86,
+  "total": 442.39,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$53.85",
+      "line_total": "$161.55"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$58.14",
+      "line_total": "$116.28"
+    },
+    {
+      "name": "Shoes",
+      "qty": 2,
+      "unit_price": "$62.98",
+      "line_total": "$125.96"
+    }
+  ],
+  "sample_id": "receipt_0007"
+}

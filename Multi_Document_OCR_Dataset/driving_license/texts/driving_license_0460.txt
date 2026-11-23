@@ -1,0 +1,16 @@
+Synthetic Driving License
+Jeremy Baker
+License: DL320637775
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL320637775",
+  "full_name": "Jeremy Baker",
+  "date_of_birth": "1977-06-27",
+  "class": "C",
+  "issue_date": "2025-10-30",
+  "expiry_date": "2030-10-30",
+  "address": "8881 House Courts, North Michaelside, ID 44247",
+  "sample_id": "driving_license_0460"
+}

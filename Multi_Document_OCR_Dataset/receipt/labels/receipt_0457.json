@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-VXSOGB20",
+  "merchant_name": "Schmitt, Blackwell and Clark",
+  "date": "2023-04-23",
+  "subtotal": 315.35,
+  "tax": 33.01,
+  "discount": 12.91,
+  "total": 335.45,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 2,
+      "unit_price": "$71.05",
+      "line_total": "$142.10"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$37.64",
+      "line_total": "$112.92"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$18.13",
+      "line_total": "$54.39"
+    },
+    {
+      "name": "Notebook",
+      "qty": 3,
+      "unit_price": "$1.98",
+      "line_total": "$5.94"
+    }
+  ],
+  "sample_id": "receipt_0457"
+}

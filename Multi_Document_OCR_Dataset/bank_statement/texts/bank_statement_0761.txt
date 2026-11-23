@@ -1,0 +1,16 @@
+Bank Statement STM-DUYMTGRH
+Holder: Pamela White
+Closing Balance: $5865.69
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-DUYMTGRH",
+  "account_holder": "Pamela White",
+  "account_number_masked": "****9915",
+  "period_start": "2024-03-15",
+  "period_end": "2024-04-14",
+  "opening_balance": 4800.61,
+  "closing_balance": 5865.69,
+  "transactions": 11,
+  "sample_id": "bank_statement_0761"
+}

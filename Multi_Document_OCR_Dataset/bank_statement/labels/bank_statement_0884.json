@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-KX0XD0AJ",
+  "account_holder": "Daniel Molina",
+  "account_number_masked": "****2530",
+  "period_start": "2024-04-11",
+  "period_end": "2024-05-11",
+  "opening_balance": 3918.64,
+  "closing_balance": 4372.52,
+  "transactions": 11,
+  "sample_id": "bank_statement_0884"
+}

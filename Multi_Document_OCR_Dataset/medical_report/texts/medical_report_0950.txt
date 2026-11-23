@@ -1,0 +1,14 @@
+Medical Report MED-ZQPEHQ5Q
+Patient: Andrew Leon
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-ZQPEHQ5Q",
+  "patient_name": "Andrew Leon",
+  "visit_date": "2026-09-30",
+  "doctor_name": "Dr. Holly Lester",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0950"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-OM3P9M7QN",
+  "policy_holder": "Sabrina Lopez",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-05-03",
+  "expiry_date": "2027-05-03",
+  "premium": 507.12,
+  "coverage_amount": 223579.32,
+  "beneficiary": "Brandon Brown",
+  "sample_id": "insurance_document_0735"
+}

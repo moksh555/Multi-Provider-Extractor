@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0657",
+  "invoice_number": "INV-2026-0657",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "25 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "209 Zindabazar Road, Doha, Qatar",
+  "invoice_date": "2026-06-20",
+  "due_date": "2026-07-20",
+  "currency": "SAR",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 9,
+      "unit_price": 486.0,
+      "amount": 4374.0
+    },
+    {
+      "description": "Network Cable",
+      "quantity": 6,
+      "unit_price": 844.63,
+      "amount": 5067.78
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 9,
+      "unit_price": 93.72,
+      "amount": 843.48
+    },
+    {
+      "description": "Web Development",
+      "quantity": 9,
+      "unit_price": 189.06,
+      "amount": 1701.54
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 5,
+      "unit_price": 346.31,
+      "amount": 1731.55
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 5,
+      "unit_price": 622.8,
+      "amount": 3114.0
+    },
+    {
+      "description": "Document Scanner",
+      "quantity": 8,
+      "unit_price": 365.89,
+      "amount": 2927.12
+    }
+  ],
+  "subtotal": 19759.47,
+  "discount": 1975.95,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 17783.52,
+  "amount_paid": 17783.52,
+  "balance_due": 0.0,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801665624536",
+  "po_number": "PO-73870"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-6UG4ZIFG",
+  "account_holder": "Elizabeth Espinoza",
+  "account_number_masked": "****0838",
+  "period_start": "2025-06-26",
+  "period_end": "2025-07-26",
+  "opening_balance": 2355.19,
+  "closing_balance": 2292.56,
+  "transactions": 12,
+  "sample_id": "bank_statement_0405"
+}

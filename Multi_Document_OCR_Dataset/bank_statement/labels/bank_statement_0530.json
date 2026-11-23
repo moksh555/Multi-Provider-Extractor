@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BOCTBLRW",
+  "account_holder": "Kathy Brown",
+  "account_number_masked": "****9072",
+  "period_start": "2026-10-13",
+  "period_end": "2026-11-12",
+  "opening_balance": 4654.53,
+  "closing_balance": 7213.38,
+  "transactions": 8,
+  "sample_id": "bank_statement_0530"
+}

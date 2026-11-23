@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mark Powell
+License: DL698700916
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL698700916",
+  "full_name": "Mark Powell",
+  "date_of_birth": "1988-09-24",
+  "class": "D",
+  "issue_date": "2021-08-28",
+  "expiry_date": "2026-08-28",
+  "address": "71587 Torres Turnpike Suite 080, North Kurt, OR 98523",
+  "sample_id": "driving_license_0750"
+}

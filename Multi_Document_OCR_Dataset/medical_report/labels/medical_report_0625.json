@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9LIK94ZL",
+  "patient_name": "Spencer Morris",
+  "visit_date": "2024-11-07",
+  "doctor_name": "Dr. Eric Taylor",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0625"
+}

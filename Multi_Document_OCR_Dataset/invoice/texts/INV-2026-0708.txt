@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0708
+Company: Nexus Digital Solutions
+Company Address: 27 Motijheel C/A, Dubai, UAE
+Customer: Al Noor Clinic
+Billing Address: 111 Road 12, Banani, Riyadh, Saudi Arabia
+Invoice Date: 2026-05-19
+Due Date: 2026-05-26
+Currency: BDT
+Subtotal: 14650.41
+Tax: 2197.56
+Total: 16852.97
+Balance Due: 16852.97
+Status: unpaid

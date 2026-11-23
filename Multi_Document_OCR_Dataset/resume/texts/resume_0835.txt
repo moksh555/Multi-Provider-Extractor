@@ -1,0 +1,25 @@
+Resume
+Brandon Munoz
+Backend Developer
+Skills: Python, FastAPI, Pandas, LangChain, Computer Vision, Docker, Deep Learning, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Brandon Munoz",
+  "email": "natasha08@example.net",
+  "phone": "(489)398-1811x994",
+  "job_title": "Backend Developer",
+  "years_experience": 7,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Pandas",
+    "LangChain",
+    "Computer Vision",
+    "Docker",
+    "Deep Learning",
+    "Streamlit"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0835"
+}

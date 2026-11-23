@@ -1,0 +1,16 @@
+Synthetic Driving License
+Robin Gray
+License: DL239987069
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL239987069",
+  "full_name": "Robin Gray",
+  "date_of_birth": "1973-05-23",
+  "class": "B",
+  "issue_date": "2024-06-16",
+  "expiry_date": "2029-06-16",
+  "address": "11860 Julia Plains Apt. 196, Port Catherine, ME 42932",
+  "sample_id": "driving_license_0643"
+}

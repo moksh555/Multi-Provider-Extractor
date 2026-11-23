@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-91HOVSRM",
+  "account_holder": "Todd Clark",
+  "account_number_masked": "****4681",
+  "period_start": "2026-01-18",
+  "period_end": "2026-02-17",
+  "opening_balance": 3417.46,
+  "closing_balance": 4226.06,
+  "transactions": 10,
+  "sample_id": "bank_statement_0532"
+}

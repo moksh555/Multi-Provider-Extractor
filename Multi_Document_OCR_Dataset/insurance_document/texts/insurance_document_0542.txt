@@ -1,0 +1,16 @@
+Insurance Policy POL-VTKRRVWY3
+Holder: Frank Klein
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-VTKRRVWY3",
+  "policy_holder": "Frank Klein",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-04-19",
+  "expiry_date": "2025-04-19",
+  "premium": 1820.01,
+  "coverage_amount": 268871.32,
+  "beneficiary": "Kenneth Austin Jr.",
+  "sample_id": "insurance_document_0542"
+}

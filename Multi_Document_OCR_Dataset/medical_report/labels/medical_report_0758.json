@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-TZR4V4PC",
+  "patient_name": "Brett Guerrero",
+  "visit_date": "2026-02-06",
+  "doctor_name": "Dr. Kelsey Jones",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0758"
+}

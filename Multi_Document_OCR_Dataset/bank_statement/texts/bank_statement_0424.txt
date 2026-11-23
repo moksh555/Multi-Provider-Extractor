@@ -1,0 +1,16 @@
+Bank Statement STM-63V1VQYL
+Holder: Diana Austin
+Closing Balance: $9997.69
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-63V1VQYL",
+  "account_holder": "Diana Austin",
+  "account_number_masked": "****3670",
+  "period_start": "2024-03-04",
+  "period_end": "2024-04-03",
+  "opening_balance": 4744.2,
+  "closing_balance": 9997.69,
+  "transactions": 9,
+  "sample_id": "bank_statement_0424"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0831
+Company: CityBanking Supplies
+Company Address: 12 Agrabad C/A, Doha, Qatar
+Customer: Al Noor Clinic
+Billing Address: 167 Zindabazar Road, Riyadh, Saudi Arabia
+Invoice Date: 2026-04-23
+Due Date: 2026-05-23
+Currency: USD
+Subtotal: 12876.54
+Tax: 917.45
+Total: 13175.16
+Balance Due: 8954.35
+Status: partial

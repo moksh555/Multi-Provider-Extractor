@@ -1,0 +1,50 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-853J5SFM",
+  "merchant_name": "Bell-Shaffer",
+  "date": "2026-01-25",
+  "subtotal": 445.08,
+  "tax": 25.79,
+  "discount": 12.25,
+  "total": 458.62,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$22.84",
+      "line_total": "$68.52"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$13.03",
+      "line_total": "$52.12"
+    },
+    {
+      "name": "Headphones",
+      "qty": 2,
+      "unit_price": "$19.23",
+      "line_total": "$38.46"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$32.86",
+      "line_total": "$131.44"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$23.41",
+      "line_total": "$93.64"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$30.45",
+      "line_total": "$60.90"
+    }
+  ],
+  "sample_id": "receipt_0731"
+}

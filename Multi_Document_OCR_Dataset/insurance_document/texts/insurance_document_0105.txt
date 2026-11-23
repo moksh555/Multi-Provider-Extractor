@@ -1,0 +1,16 @@
+Insurance Policy POL-NNGH8RIEC
+Holder: James Thomas
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-NNGH8RIEC",
+  "policy_holder": "James Thomas",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-11-05",
+  "expiry_date": "2026-11-05",
+  "premium": 1954.68,
+  "coverage_amount": 419208.72,
+  "beneficiary": "Kyle Andrews",
+  "sample_id": "insurance_document_0105"
+}

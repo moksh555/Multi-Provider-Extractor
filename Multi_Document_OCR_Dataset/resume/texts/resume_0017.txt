@@ -1,0 +1,25 @@
+Resume
+Christopher Bailey
+Software Engineer
+Skills: FastAPI, Deep Learning, Python, NLP, TensorFlow, PyTorch, Docker, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Christopher Bailey",
+  "email": "jonesjason@example.com",
+  "phone": "442-562-4178x42902",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "FastAPI",
+    "Deep Learning",
+    "Python",
+    "NLP",
+    "TensorFlow",
+    "PyTorch",
+    "Docker",
+    "LangChain"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0017"
+}

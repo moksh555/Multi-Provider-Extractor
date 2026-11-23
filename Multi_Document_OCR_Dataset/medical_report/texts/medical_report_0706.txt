@@ -1,0 +1,14 @@
+Medical Report MED-0M27JKJW
+Patient: Linda Murray
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-0M27JKJW",
+  "patient_name": "Linda Murray",
+  "visit_date": "2026-09-11",
+  "doctor_name": "Dr. Colton Lewis",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0706"
+}

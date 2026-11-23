@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Ortega
+License: DL420175315
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL420175315",
+  "full_name": "Michael Ortega",
+  "date_of_birth": "1971-04-23",
+  "class": "D",
+  "issue_date": "2021-08-15",
+  "expiry_date": "2026-08-15",
+  "address": "7754 Hart Grove, Taylorberg, VI 75371",
+  "sample_id": "driving_license_0942"
+}

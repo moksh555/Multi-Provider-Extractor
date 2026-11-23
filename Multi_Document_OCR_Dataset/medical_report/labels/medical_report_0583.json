@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-9F6PZD7H",
+  "patient_name": "Mr. Edwin Rogers",
+  "visit_date": "2024-10-05",
+  "doctor_name": "Dr. Ashley Ali",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0583"
+}

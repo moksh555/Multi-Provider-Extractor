@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0552",
+  "invoice_number": "INV-2026-0552",
+  "company_name": "Golden Harvest Store",
+  "company_address": "133 Doha Business Park, Chattogram, Bangladesh",
+  "customer_name": "Karim Enterprise",
+  "billing_address": "247 Al Barsha, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-18",
+  "due_date": "2026-06-17",
+  "currency": "USD",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "LED Monitor",
+      "quantity": 1,
+      "unit_price": 517.43,
+      "amount": 517.43
+    },
+    {
+      "description": "Medical Gloves",
+      "quantity": 9,
+      "unit_price": 677.21,
+      "amount": 6094.89
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 1,
+      "unit_price": 297.91,
+      "amount": 297.91
+    }
+  ],
+  "subtotal": 6910.23,
+  "discount": 345.51,
+  "tax_rate": 0.075,
+  "tax": 492.35,
+  "shipping": 25,
+  "total": 7082.07,
+  "amount_paid": 4397.92,
+  "balance_due": 2684.15,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801708428336",
+  "po_number": "PO-13680"
+}

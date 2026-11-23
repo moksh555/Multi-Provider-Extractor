@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL388913107",
+  "full_name": "Shannon Wallace",
+  "date_of_birth": "1985-03-22",
+  "class": "B",
+  "issue_date": "2024-01-05",
+  "expiry_date": "2029-01-05",
+  "address": "438 Flores Plains Apt. 056, Ramirezborough, PW 18475",
+  "sample_id": "driving_license_0615"
+}

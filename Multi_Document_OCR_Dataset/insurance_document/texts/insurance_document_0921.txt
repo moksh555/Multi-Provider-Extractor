@@ -1,0 +1,16 @@
+Insurance Policy POL-1AZHZKNL2
+Holder: Timothy Jennings
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-1AZHZKNL2",
+  "policy_holder": "Timothy Jennings",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-02-16",
+  "expiry_date": "2027-02-16",
+  "premium": 1452.73,
+  "coverage_amount": 107731.55,
+  "beneficiary": "Stacey Cruz",
+  "sample_id": "insurance_document_0921"
+}

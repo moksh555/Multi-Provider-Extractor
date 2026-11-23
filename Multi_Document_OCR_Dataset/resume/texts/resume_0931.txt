@@ -1,0 +1,25 @@
+Resume
+Stephanie Olson
+Machine Learning Engineer
+Skills: LangChain, Machine Learning, PyTorch, TensorFlow, Computer Vision, Deep Learning, SQL, Python
+
+{
+  "category": "resume",
+  "candidate_name": "Stephanie Olson",
+  "email": "robert79@example.com",
+  "phone": "(268)953-2414x8426",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 3,
+  "skills": [
+    "LangChain",
+    "Machine Learning",
+    "PyTorch",
+    "TensorFlow",
+    "Computer Vision",
+    "Deep Learning",
+    "SQL",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0931"
+}

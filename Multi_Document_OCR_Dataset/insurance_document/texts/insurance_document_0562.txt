@@ -1,0 +1,16 @@
+Insurance Policy POL-7N8VOEUBF
+Holder: Robert Landry
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-7N8VOEUBF",
+  "policy_holder": "Robert Landry",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2024-09-16",
+  "expiry_date": "2025-09-16",
+  "premium": 2478.63,
+  "coverage_amount": 158597.44,
+  "beneficiary": "Sean Marshall",
+  "sample_id": "insurance_document_0562"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-ARK6O0U93
+Holder: Amber Carter
+Type: Travel Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ARK6O0U93",
+  "policy_holder": "Amber Carter",
+  "policy_type": "Travel Insurance",
+  "issue_date": "2026-12-31",
+  "expiry_date": "2027-12-31",
+  "premium": 649.22,
+  "coverage_amount": 271971.2,
+  "beneficiary": "Angela Lee",
+  "sample_id": "insurance_document_0260"
+}

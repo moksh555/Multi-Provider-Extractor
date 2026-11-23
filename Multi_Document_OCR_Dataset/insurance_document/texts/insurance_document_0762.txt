@@ -1,0 +1,16 @@
+Insurance Policy POL-GDHVS41LQ
+Holder: Matthew Moore
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GDHVS41LQ",
+  "policy_holder": "Matthew Moore",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2025-10-30",
+  "expiry_date": "2026-10-30",
+  "premium": 371.47,
+  "coverage_amount": 73729.65,
+  "beneficiary": "Donald Freeman",
+  "sample_id": "insurance_document_0762"
+}

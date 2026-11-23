@@ -1,0 +1,16 @@
+Bank Statement STM-BMC06WRP
+Holder: David Silva
+Closing Balance: $4196.46
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-BMC06WRP",
+  "account_holder": "David Silva",
+  "account_number_masked": "****8436",
+  "period_start": "2025-06-07",
+  "period_end": "2025-07-07",
+  "opening_balance": 4732.88,
+  "closing_balance": 4196.46,
+  "transactions": 10,
+  "sample_id": "bank_statement_0401"
+}

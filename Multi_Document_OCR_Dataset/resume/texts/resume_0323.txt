@@ -1,0 +1,24 @@
+Resume
+Crystal Navarro
+Machine Learning Engineer
+Skills: Computer Vision, Docker, FastAPI, Streamlit, Python, Machine Learning, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Crystal Navarro",
+  "email": "yangeric@example.com",
+  "phone": "+1-292-210-5307x1226",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "Computer Vision",
+    "Docker",
+    "FastAPI",
+    "Streamlit",
+    "Python",
+    "Machine Learning",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0323"
+}

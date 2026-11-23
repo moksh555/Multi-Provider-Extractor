@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Rebecca Davis
+Passport No: P09773710
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P09773710",
+  "full_name": "Rebecca Davis",
+  "nationality": "AE",
+  "date_of_birth": "1973-11-17",
+  "issue_date": "2021-08-06",
+  "expiry_date": "2031-08-06",
+  "place_of_birth": "Josephtown",
+  "sample_id": "passport_0315"
+}

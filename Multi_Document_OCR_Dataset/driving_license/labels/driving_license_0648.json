@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL548015064",
+  "full_name": "Michael Robertson",
+  "date_of_birth": "1976-09-30",
+  "class": "A",
+  "issue_date": "2022-03-26",
+  "expiry_date": "2027-03-26",
+  "address": "61620 April Crossing, East Samuel, DE 05620",
+  "sample_id": "driving_license_0648"
+}

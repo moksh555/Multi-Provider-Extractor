@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-FZRSCMJ6",
+  "patient_name": "Tabitha Goodman",
+  "visit_date": "2025-11-20",
+  "doctor_name": "Dr. Mrs. Lisa Smith",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0460"
+}

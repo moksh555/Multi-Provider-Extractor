@@ -1,0 +1,14 @@
+Medical Report MED-7QWQEV0A
+Patient: Oscar Meadows
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7QWQEV0A",
+  "patient_name": "Oscar Meadows",
+  "visit_date": "2026-09-28",
+  "doctor_name": "Dr. Leslie Nelson",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0250"
+}

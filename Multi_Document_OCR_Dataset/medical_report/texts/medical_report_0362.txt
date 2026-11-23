@@ -1,0 +1,14 @@
+Medical Report MED-YXTBUQF5
+Patient: Austin Rogers
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YXTBUQF5",
+  "patient_name": "Austin Rogers",
+  "visit_date": "2026-03-24",
+  "doctor_name": "Dr. Aimee Lang MD",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0362"
+}

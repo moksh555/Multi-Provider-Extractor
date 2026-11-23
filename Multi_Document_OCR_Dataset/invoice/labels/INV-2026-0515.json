@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0515",
+  "invoice_number": "INV-2026-0515",
+  "company_name": "Golden Harvest Store",
+  "company_address": "101 Zindabazar Road, Doha, Qatar",
+  "customer_name": "Apex Health Ltd",
+  "billing_address": "202 Mirpur DOHS, Dhaka, Bangladesh",
+  "invoice_date": "2026-04-13",
+  "due_date": "2026-05-13",
+  "currency": "AED",
+  "payment_terms": "Advance Paid",
+  "status": "paid",
+  "items": [
+    {
+      "description": "API Integration",
+      "quantity": 8,
+      "unit_price": 659.8,
+      "amount": 5278.4
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 9,
+      "unit_price": 75.62,
+      "amount": 680.58
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 8,
+      "unit_price": 217.72,
+      "amount": 1741.76
+    },
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 4,
+      "unit_price": 266.26,
+      "amount": 1065.04
+    },
+    {
+      "description": "Web Development",
+      "quantity": 11,
+      "unit_price": 502.05,
+      "amount": 5522.55
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 9,
+      "unit_price": 744.27,
+      "amount": 6698.43
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 3,
+      "unit_price": 617.62,
+      "amount": 1852.86
+    }
+  ],
+  "subtotal": 22839.62,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 25,
+  "total": 22864.62,
+  "amount_paid": 22864.62,
+  "balance_due": 0.0,
+  "vendor_email": "goldenharveststore@example.com",
+  "vendor_phone": "+8801285948088",
+  "po_number": "PO-91183"
+}

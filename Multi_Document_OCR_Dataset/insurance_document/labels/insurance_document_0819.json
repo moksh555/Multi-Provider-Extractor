@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XF1X889U9",
+  "policy_holder": "Luis Henderson",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-05-06",
+  "expiry_date": "2026-05-06",
+  "premium": 1402.74,
+  "coverage_amount": 69408.76,
+  "beneficiary": "Elizabeth Duran DDS",
+  "sample_id": "insurance_document_0819"
+}

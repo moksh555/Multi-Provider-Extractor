@@ -1,0 +1,14 @@
+Medical Report MED-BFLWAAFQ
+Patient: Jeffery Andrade
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-BFLWAAFQ",
+  "patient_name": "Jeffery Andrade",
+  "visit_date": "2024-09-04",
+  "doctor_name": "Dr. Jeff Palmer",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0266"
+}

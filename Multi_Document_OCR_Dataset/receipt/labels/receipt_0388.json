@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-AXYPBP0E",
+  "merchant_name": "Bullock, Harris and Nelson",
+  "date": "2026-01-19",
+  "subtotal": 687.43,
+  "tax": 50.92,
+  "discount": 5.51,
+  "total": 732.84,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$57.25",
+      "line_total": "$229.00"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$63.05",
+      "line_total": "$63.05"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 4,
+      "unit_price": "$69.75",
+      "line_total": "$279.00"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$1.55",
+      "line_total": "$3.10"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 2,
+      "unit_price": "$41.68",
+      "line_total": "$83.36"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 4,
+      "unit_price": "$4.83",
+      "line_total": "$19.32"
+    },
+    {
+      "name": "Medicine",
+      "qty": 1,
+      "unit_price": "$10.60",
+      "line_total": "$10.60"
+    }
+  ],
+  "sample_id": "receipt_0388"
+}

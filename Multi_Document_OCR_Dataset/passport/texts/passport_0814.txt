@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Rebecca Ward
+Passport No: P82007266
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P82007266",
+  "full_name": "Rebecca Ward",
+  "nationality": "CA",
+  "date_of_birth": "2000-05-23",
+  "issue_date": "2020-09-06",
+  "expiry_date": "2030-09-06",
+  "place_of_birth": "East Christopherfurt",
+  "sample_id": "passport_0814"
+}

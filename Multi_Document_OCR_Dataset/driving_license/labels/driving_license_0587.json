@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL274627571",
+  "full_name": "Carolyn Wolf",
+  "date_of_birth": "1998-06-21",
+  "class": "D",
+  "issue_date": "2024-08-20",
+  "expiry_date": "2029-08-20",
+  "address": "9073 Rodriguez Viaduct Apt. 943, Port Dwayne, CT 13607",
+  "sample_id": "driving_license_0587"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-232UTVG9K
+Holder: Daniel Stone
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-232UTVG9K",
+  "policy_holder": "Daniel Stone",
+  "policy_type": "Life Insurance",
+  "issue_date": "2024-07-01",
+  "expiry_date": "2025-07-01",
+  "premium": 2386.71,
+  "coverage_amount": 262063.34,
+  "beneficiary": "David Cruz",
+  "sample_id": "insurance_document_0198"
+}

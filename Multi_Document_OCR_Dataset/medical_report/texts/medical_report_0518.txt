@@ -1,0 +1,14 @@
+Medical Report MED-5P4Q0PCQ
+Patient: Charles Sloan
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5P4Q0PCQ",
+  "patient_name": "Charles Sloan",
+  "visit_date": "2024-10-09",
+  "doctor_name": "Dr. Jason Robinson",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0518"
+}

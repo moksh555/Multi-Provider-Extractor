@@ -1,0 +1,50 @@
+{
+  "invoice_id": "INV-2026-0930",
+  "invoice_number": "INV-2026-0930",
+  "company_name": "Eastern Care Pharmacy",
+  "company_address": "27 Al Barsha, Dhaka, Bangladesh",
+  "customer_name": "Bengal Motors",
+  "billing_address": "176 Uttara Sector 7, Chattogram, Bangladesh",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-07-07",
+  "currency": "USD",
+  "payment_terms": "Net 30",
+  "status": "unpaid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 7,
+      "unit_price": 373.19,
+      "amount": 2612.33
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 5,
+      "unit_price": 463.43,
+      "amount": 2317.15
+    },
+    {
+      "description": "Blood Pressure Monitor",
+      "quantity": 4,
+      "unit_price": 561.24,
+      "amount": 2244.96
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 8,
+      "unit_price": 651.25,
+      "amount": 5210.0
+    }
+  ],
+  "subtotal": 12384.44,
+  "discount": 0.0,
+  "tax_rate": 0.05,
+  "tax": 619.22,
+  "shipping": 5,
+  "total": 13008.66,
+  "amount_paid": 0,
+  "balance_due": 13008.66,
+  "vendor_email": "easterncarepharmacy@example.com",
+  "vendor_phone": "+8801532819862",
+  "po_number": "PO-71075"
+}

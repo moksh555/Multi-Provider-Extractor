@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL766727203",
+  "full_name": "Chelsea Rodriguez",
+  "date_of_birth": "1965-05-22",
+  "class": "C",
+  "issue_date": "2022-11-23",
+  "expiry_date": "2027-11-23",
+  "address": "412 Emily Fall Apt. 970, East Chad, MS 37701",
+  "sample_id": "driving_license_0464"
+}

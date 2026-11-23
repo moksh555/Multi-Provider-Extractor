@@ -1,0 +1,16 @@
+Synthetic Driving License
+Juan Perez
+License: DL123037976
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL123037976",
+  "full_name": "Juan Perez",
+  "date_of_birth": "1968-07-31",
+  "class": "A",
+  "issue_date": "2025-01-02",
+  "expiry_date": "2030-01-02",
+  "address": "USNV Hester, FPO AE 89418",
+  "sample_id": "driving_license_0622"
+}

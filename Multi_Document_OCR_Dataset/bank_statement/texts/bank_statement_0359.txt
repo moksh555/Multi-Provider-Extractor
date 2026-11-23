@@ -1,0 +1,16 @@
+Bank Statement STM-S2QJED48
+Holder: Theresa Arias
+Closing Balance: $10314.10
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-S2QJED48",
+  "account_holder": "Theresa Arias",
+  "account_number_masked": "****1412",
+  "period_start": "2026-06-30",
+  "period_end": "2026-07-30",
+  "opening_balance": 3846.85,
+  "closing_balance": 10314.1,
+  "transactions": 14,
+  "sample_id": "bank_statement_0359"
+}

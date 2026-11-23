@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-GYLKCS2Y",
+  "account_holder": "William Brady",
+  "account_number_masked": "****6297",
+  "period_start": "2025-12-02",
+  "period_end": "2026-01-01",
+  "opening_balance": 883.98,
+  "closing_balance": 877.2,
+  "transactions": 11,
+  "sample_id": "bank_statement_0294"
+}

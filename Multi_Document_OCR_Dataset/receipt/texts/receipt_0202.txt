@@ -1,0 +1,49 @@
+Receipt RCT-2NQW4C6L
+Merchant: Carter, York and Ruiz
+Date: 2021-05-14
+Total: $496.44
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2NQW4C6L",
+  "merchant_name": "Carter, York and Ruiz",
+  "date": "2021-05-14",
+  "subtotal": 469.54,
+  "tax": 29.53,
+  "discount": 2.63,
+  "total": 496.44,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$56.15",
+      "line_total": "$168.45"
+    },
+    {
+      "name": "Headphones",
+      "qty": 1,
+      "unit_price": "$50.02",
+      "line_total": "$50.02"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit_price": "$41.66",
+      "line_total": "$41.66"
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit_price": "$9.77",
+      "line_total": "$9.77"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$49.91",
+      "line_total": "$199.64"
+    }
+  ],
+  "sample_id": "receipt_0202"
+}

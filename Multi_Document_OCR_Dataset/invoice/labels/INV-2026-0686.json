@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0686",
+  "invoice_number": "INV-2026-0686",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "162 Sheikh Zayed Road, Sylhet, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "210 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+  "invoice_date": "2026-03-18",
+  "due_date": "2026-05-02",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Document Scanner",
+      "quantity": 10,
+      "unit_price": 405.98,
+      "amount": 4059.8
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 8,
+      "unit_price": 312.85,
+      "amount": 2502.8
+    }
+  ],
+  "subtotal": 6562.6,
+  "discount": 0.0,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 50,
+  "total": 6612.6,
+  "amount_paid": 6612.6,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801331541625",
+  "po_number": "PO-29020"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0528
+Company: UrbanBuild Construction
+Company Address: 170 Sheikh Zayed Road, Sylhet, Bangladesh
+Customer: MediLife Hospital
+Billing Address: 6 Uttara Sector 7, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-01
+Due Date: 2026-02-15
+Currency: AED
+Subtotal: 9351.86
+Tax: 888.43
+Total: 9772.7
+Balance Due: 0.0
+Status: paid

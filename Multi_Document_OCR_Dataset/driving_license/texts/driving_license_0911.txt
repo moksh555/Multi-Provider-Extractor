@@ -1,0 +1,16 @@
+Synthetic Driving License
+Michael Olsen
+License: DL022961400
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL022961400",
+  "full_name": "Michael Olsen",
+  "date_of_birth": "1964-09-06",
+  "class": "D",
+  "issue_date": "2021-07-15",
+  "expiry_date": "2026-07-15",
+  "address": "16809 Miller Roads, Port Joanton, NH 53950",
+  "sample_id": "driving_license_0911"
+}

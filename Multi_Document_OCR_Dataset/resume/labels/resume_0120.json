@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Mary Sanchez",
+  "email": "terrykirsten@example.net",
+  "phone": "+1-717-281-6780x66431",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 7,
+  "skills": [
+    "AWS",
+    "SQL",
+    "NLP",
+    "TensorFlow",
+    "Pandas",
+    "FastAPI",
+    "Deep Learning",
+    "Streamlit"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0120"
+}

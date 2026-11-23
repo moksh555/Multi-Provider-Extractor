@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0138
+Company: UrbanBuild Construction
+Company Address: 167 Zindabazar Road, Sylhet, Bangladesh
+Customer: Apex Health Ltd
+Billing Address: 220 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-01-29
+Due Date: 2026-02-13
+Currency: QAR
+Subtotal: 10731.96
+Tax: 1051.73
+Total: 11594.05
+Balance Due: 11594.05
+Status: unpaid

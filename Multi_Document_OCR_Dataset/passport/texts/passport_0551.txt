@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Cathy Ingram
+Passport No: P36680853
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P36680853",
+  "full_name": "Cathy Ingram",
+  "nationality": "CA",
+  "date_of_birth": "1997-06-02",
+  "issue_date": "2021-08-24",
+  "expiry_date": "2031-08-24",
+  "place_of_birth": "West Gary",
+  "sample_id": "passport_0551"
+}

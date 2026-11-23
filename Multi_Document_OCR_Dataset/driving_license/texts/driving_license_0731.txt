@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kelly Bentley
+License: DL737536238
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL737536238",
+  "full_name": "Kelly Bentley",
+  "date_of_birth": "1971-09-15",
+  "class": "A",
+  "issue_date": "2026-10-01",
+  "expiry_date": "2031-10-01",
+  "address": "039 Andrew Isle Apt. 460, Atkinsonview, MI 90024",
+  "sample_id": "driving_license_0731"
+}

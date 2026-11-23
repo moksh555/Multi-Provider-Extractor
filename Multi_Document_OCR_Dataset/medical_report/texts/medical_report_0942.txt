@@ -1,0 +1,14 @@
+Medical Report MED-1SUGSGVJ
+Patient: John Ochoa
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-1SUGSGVJ",
+  "patient_name": "John Ochoa",
+  "visit_date": "2026-01-06",
+  "doctor_name": "Dr. Norman Johnson Jr.",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0942"
+}

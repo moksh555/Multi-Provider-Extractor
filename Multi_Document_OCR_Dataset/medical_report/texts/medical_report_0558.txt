@@ -1,0 +1,14 @@
+Medical Report MED-YH075KOC
+Patient: Regina Schroeder
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-YH075KOC",
+  "patient_name": "Regina Schroeder",
+  "visit_date": "2026-01-10",
+  "doctor_name": "Dr. Jacob Cervantes",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0558"
+}

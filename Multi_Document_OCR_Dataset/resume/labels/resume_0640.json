@@ -1,0 +1,20 @@
+{
+  "category": "resume",
+  "candidate_name": "Mrs. Heather Watson",
+  "email": "darlene08@example.com",
+  "phone": "571.749.2627",
+  "job_title": "Software Engineer",
+  "years_experience": 6,
+  "skills": [
+    "Docker",
+    "LangChain",
+    "Streamlit",
+    "TensorFlow",
+    "Machine Learning",
+    "NLP",
+    "Pandas",
+    "Deep Learning"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0640"
+}

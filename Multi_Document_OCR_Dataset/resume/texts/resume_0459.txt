@@ -1,0 +1,27 @@
+Resume
+Matthew Huffman
+Computer Vision Engineer
+Skills: Deep Learning, SQL, AWS, Docker, NLP, TensorFlow, Streamlit, Pandas, FastAPI, LangChain
+
+{
+  "category": "resume",
+  "candidate_name": "Matthew Huffman",
+  "email": "kristin15@example.org",
+  "phone": "(242)756-6009",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Deep Learning",
+    "SQL",
+    "AWS",
+    "Docker",
+    "NLP",
+    "TensorFlow",
+    "Streamlit",
+    "Pandas",
+    "FastAPI",
+    "LangChain"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0459"
+}

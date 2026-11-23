@@ -1,0 +1,16 @@
+Insurance Policy POL-ZWYMX9DJO
+Holder: Jason Ballard
+Type: Property Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-ZWYMX9DJO",
+  "policy_holder": "Jason Ballard",
+  "policy_type": "Property Insurance",
+  "issue_date": "2025-04-10",
+  "expiry_date": "2026-04-10",
+  "premium": 1514.87,
+  "coverage_amount": 263693.92,
+  "beneficiary": "James White",
+  "sample_id": "insurance_document_0328"
+}

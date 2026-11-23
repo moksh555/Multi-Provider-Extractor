@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0461
+Company: Nova Medical Supplies
+Company Address: 183 Jumeirah Lake Towers, Riyadh, Saudi Arabia
+Customer: Ocean Exporters
+Billing Address: 247 Mirpur DOHS, Riyadh, Saudi Arabia
+Invoice Date: 2026-01-23
+Due Date: 2026-03-09
+Currency: SAR
+Subtotal: 14427.29
+Tax: 2120.81
+Total: 16284.55
+Balance Due: 9835.57
+Status: partial

@@ -1,0 +1,16 @@
+Bank Statement STM-G166S78K
+Holder: Cindy Walton
+Closing Balance: $8697.63
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-G166S78K",
+  "account_holder": "Cindy Walton",
+  "account_number_masked": "****8465",
+  "period_start": "2024-03-22",
+  "period_end": "2024-04-21",
+  "opening_balance": 4549.4,
+  "closing_balance": 8697.63,
+  "transactions": 10,
+  "sample_id": "bank_statement_0739"
+}

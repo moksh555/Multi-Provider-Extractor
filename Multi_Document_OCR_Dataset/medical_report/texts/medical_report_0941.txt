@@ -1,0 +1,14 @@
+Medical Report MED-98FG4N69
+Patient: Erin Jones
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-98FG4N69",
+  "patient_name": "Erin Jones",
+  "visit_date": "2024-06-15",
+  "doctor_name": "Dr. Ronald Buckley",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0941"
+}

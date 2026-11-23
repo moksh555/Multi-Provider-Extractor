@@ -1,0 +1,16 @@
+Bank Statement STM-4TT43TUY
+Holder: Laura Grimes
+Closing Balance: $10086.82
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-4TT43TUY",
+  "account_holder": "Laura Grimes",
+  "account_number_masked": "****2822",
+  "period_start": "2025-08-31",
+  "period_end": "2025-09-30",
+  "opening_balance": 4578.44,
+  "closing_balance": 10086.82,
+  "transactions": 13,
+  "sample_id": "bank_statement_0051"
+}

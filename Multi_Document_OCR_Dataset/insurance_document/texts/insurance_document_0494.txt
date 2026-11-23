@@ -1,0 +1,16 @@
+Insurance Policy POL-CY8NYFWDC
+Holder: Monique Dougherty
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-CY8NYFWDC",
+  "policy_holder": "Monique Dougherty",
+  "policy_type": "Life Insurance",
+  "issue_date": "2025-10-05",
+  "expiry_date": "2026-10-05",
+  "premium": 2006.7,
+  "coverage_amount": 108946.56,
+  "beneficiary": "David Hudson",
+  "sample_id": "insurance_document_0494"
+}

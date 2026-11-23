@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0327
+Company: SkyNet Office Mart
+Company Address: 167 Motijheel C/A, Dubai, UAE
+Customer: Sunrise Apparel
+Billing Address: 234 Doha Business Park, Chattogram, Bangladesh
+Invoice Date: 2026-06-24
+Due Date: 2026-08-08
+Currency: QAR
+Subtotal: 14573.47
+Tax: 1038.36
+Total: 14893.16
+Balance Due: 8114.01
+Status: partial

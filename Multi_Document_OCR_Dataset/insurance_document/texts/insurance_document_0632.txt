@@ -1,0 +1,16 @@
+Insurance Policy POL-GNLKURLZH
+Holder: Jason Keith
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-GNLKURLZH",
+  "policy_holder": "Jason Keith",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2023-01-09",
+  "expiry_date": "2024-01-09",
+  "premium": 150.55,
+  "coverage_amount": 255342.91,
+  "beneficiary": "Douglas Simmons",
+  "sample_id": "insurance_document_0632"
+}

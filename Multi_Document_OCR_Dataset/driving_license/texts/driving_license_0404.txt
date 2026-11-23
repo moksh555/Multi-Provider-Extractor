@@ -1,0 +1,16 @@
+Synthetic Driving License
+Paul Valdez
+License: DL862390385
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL862390385",
+  "full_name": "Paul Valdez",
+  "date_of_birth": "1976-09-21",
+  "class": "D",
+  "issue_date": "2022-03-25",
+  "expiry_date": "2027-03-25",
+  "address": "4925 Marilyn Passage Apt. 776, Adamschester, CO 99655",
+  "sample_id": "driving_license_0404"
+}

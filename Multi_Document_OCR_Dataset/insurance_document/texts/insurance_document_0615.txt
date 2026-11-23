@@ -1,0 +1,16 @@
+Insurance Policy POL-XC066O1EN
+Holder: Benjamin Townsend
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-XC066O1EN",
+  "policy_holder": "Benjamin Townsend",
+  "policy_type": "Health Insurance",
+  "issue_date": "2025-10-30",
+  "expiry_date": "2026-10-30",
+  "premium": 1944.36,
+  "coverage_amount": 169746.44,
+  "beneficiary": "Lauren Higgins",
+  "sample_id": "insurance_document_0615"
+}

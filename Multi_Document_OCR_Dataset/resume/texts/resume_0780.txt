@@ -1,0 +1,24 @@
+Resume
+Colin Proctor
+Machine Learning Engineer
+Skills: PyTorch, Deep Learning, AWS, Python, Machine Learning, Docker, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Colin Proctor",
+  "email": "heather14@example.org",
+  "phone": "701-681-3617x00048",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 2,
+  "skills": [
+    "PyTorch",
+    "Deep Learning",
+    "AWS",
+    "Python",
+    "Machine Learning",
+    "Docker",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0780"
+}

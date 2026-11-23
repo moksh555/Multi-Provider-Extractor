@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-TBPGT996",
+  "account_holder": "Anna Hawkins",
+  "account_number_masked": "****1542",
+  "period_start": "2026-10-27",
+  "period_end": "2026-11-26",
+  "opening_balance": 1378.54,
+  "closing_balance": 4535.79,
+  "transactions": 10,
+  "sample_id": "bank_statement_0107"
+}

@@ -1,0 +1,37 @@
+Receipt RCT-WWJWGABT
+Merchant: Long, Thomas and Chen
+Date: 2023-02-01
+Total: $94.74
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-WWJWGABT",
+  "merchant_name": "Long, Thomas and Chen",
+  "date": "2023-02-01",
+  "subtotal": 92.02,
+  "tax": 5.59,
+  "discount": 2.87,
+  "total": 94.74,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$10.88",
+      "line_total": "$32.64"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 1,
+      "unit_price": "$19.39",
+      "line_total": "$19.39"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$39.99",
+      "line_total": "$39.99"
+    }
+  ],
+  "sample_id": "receipt_0154"
+}

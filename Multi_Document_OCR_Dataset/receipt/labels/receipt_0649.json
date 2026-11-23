@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-A5UGXBRY",
+  "merchant_name": "Mayer Ltd",
+  "date": "2023-08-29",
+  "subtotal": 844.48,
+  "tax": 91.41,
+  "discount": 8.95,
+  "total": 926.94,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 3,
+      "unit_price": "$66.84",
+      "line_total": "$200.52"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$33.86",
+      "line_total": "$101.58"
+    },
+    {
+      "name": "Coffee",
+      "qty": 1,
+      "unit_price": "$12.80",
+      "line_total": "$12.80"
+    },
+    {
+      "name": "T-Shirt",
+      "qty": 3,
+      "unit_price": "$73.30",
+      "line_total": "$219.90"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$17.82",
+      "line_total": "$17.82"
+    },
+    {
+      "name": "Rice",
+      "qty": 4,
+      "unit_price": "$61.02",
+      "line_total": "$244.08"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$47.78",
+      "line_total": "$47.78"
+    }
+  ],
+  "sample_id": "receipt_0649"
+}

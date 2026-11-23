@@ -1,0 +1,25 @@
+Resume
+Mary Oconnor
+Software Engineer
+Skills: AWS, Machine Learning, Computer Vision, Docker, PyTorch, Deep Learning, Streamlit, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Mary Oconnor",
+  "email": "callahanamy@example.net",
+  "phone": "249.212.3216",
+  "job_title": "Software Engineer",
+  "years_experience": 7,
+  "skills": [
+    "AWS",
+    "Machine Learning",
+    "Computer Vision",
+    "Docker",
+    "PyTorch",
+    "Deep Learning",
+    "Streamlit",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0481"
+}

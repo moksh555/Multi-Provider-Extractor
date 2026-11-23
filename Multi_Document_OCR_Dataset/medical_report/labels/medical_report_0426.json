@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-EG3AKNZH",
+  "patient_name": "Destiny Simmons",
+  "visit_date": "2026-11-19",
+  "doctor_name": "Dr. Eric West",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0426"
+}

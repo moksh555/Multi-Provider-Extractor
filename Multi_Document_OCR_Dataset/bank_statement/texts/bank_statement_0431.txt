@@ -1,0 +1,16 @@
+Bank Statement STM-VB1C4W9I
+Holder: Joanna Calderon
+Closing Balance: $4453.64
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-VB1C4W9I",
+  "account_holder": "Joanna Calderon",
+  "account_number_masked": "****8297",
+  "period_start": "2025-06-01",
+  "period_end": "2025-07-01",
+  "opening_balance": 2609.31,
+  "closing_balance": 4453.64,
+  "transactions": 11,
+  "sample_id": "bank_statement_0431"
+}

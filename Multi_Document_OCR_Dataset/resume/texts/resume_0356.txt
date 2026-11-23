@@ -1,0 +1,25 @@
+Resume
+James Scott
+Computer Vision Engineer
+Skills: TensorFlow, SQL, Python, FastAPI, LangChain, Computer Vision, Machine Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "James Scott",
+  "email": "faulkneryvonne@example.net",
+  "phone": "509.775.4247",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 4,
+  "skills": [
+    "TensorFlow",
+    "SQL",
+    "Python",
+    "FastAPI",
+    "LangChain",
+    "Computer Vision",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0356"
+}

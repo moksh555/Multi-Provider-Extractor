@@ -1,0 +1,61 @@
+Receipt RCT-SJQA0PX9
+Merchant: Andrade, Copeland and Hamilton
+Date: 2022-03-25
+Total: $803.73
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-SJQA0PX9",
+  "merchant_name": "Andrade, Copeland and Hamilton",
+  "date": "2022-03-25",
+  "subtotal": 727.25,
+  "tax": 84.04,
+  "discount": 7.56,
+  "total": 803.73,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$24.03",
+      "line_total": "$96.12"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 1,
+      "unit_price": "$35.54",
+      "line_total": "$35.54"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 1,
+      "unit_price": "$32.89",
+      "line_total": "$32.89"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$49.03",
+      "line_total": "$196.12"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$63.05",
+      "line_total": "$126.10"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$43.69",
+      "line_total": "$131.07"
+    },
+    {
+      "name": "Shampoo",
+      "qty": 3,
+      "unit_price": "$36.47",
+      "line_total": "$109.41"
+    }
+  ],
+  "sample_id": "receipt_0675"
+}

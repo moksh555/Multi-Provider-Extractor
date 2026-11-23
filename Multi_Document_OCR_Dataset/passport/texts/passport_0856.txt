@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Jeremy Eaton
+Passport No: P84608867
+Nationality: GB
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P84608867",
+  "full_name": "Jeremy Eaton",
+  "nationality": "GB",
+  "date_of_birth": "1971-02-25",
+  "issue_date": "2021-05-09",
+  "expiry_date": "2031-05-09",
+  "place_of_birth": "Sherrychester",
+  "sample_id": "passport_0856"
+}

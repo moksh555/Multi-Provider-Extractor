@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: John Burke
+Passport No: P28384403
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P28384403",
+  "full_name": "John Burke",
+  "nationality": "CA",
+  "date_of_birth": "1965-08-18",
+  "issue_date": "2024-12-09",
+  "expiry_date": "2034-12-09",
+  "place_of_birth": "Gamblehaven",
+  "sample_id": "passport_0103"
+}

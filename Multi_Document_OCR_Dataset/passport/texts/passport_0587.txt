@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kevin Mendez
+Passport No: P69586690
+Nationality: CA
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P69586690",
+  "full_name": "Kevin Mendez",
+  "nationality": "CA",
+  "date_of_birth": "2000-11-11",
+  "issue_date": "2023-05-15",
+  "expiry_date": "2033-05-15",
+  "place_of_birth": "Randallstad",
+  "sample_id": "passport_0587"
+}

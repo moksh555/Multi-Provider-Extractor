@@ -1,0 +1,49 @@
+Receipt RCT-HQUNUE7A
+Merchant: Fernandez-Ballard
+Date: 2024-12-23
+Total: $523.32
+
+{
+  "category": "receipt",
+  "receipt_id": "RCT-HQUNUE7A",
+  "merchant_name": "Fernandez-Ballard",
+  "date": "2024-12-23",
+  "subtotal": 498.84,
+  "tax": 32.5,
+  "discount": 8.02,
+  "total": 523.32,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 4,
+      "unit_price": "$34.63",
+      "line_total": "$138.52"
+    },
+    {
+      "name": "Soap",
+      "qty": 3,
+      "unit_price": "$26.76",
+      "line_total": "$80.28"
+    },
+    {
+      "name": "Notebook",
+      "qty": 1,
+      "unit_price": "$73.85",
+      "line_total": "$73.85"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 3,
+      "unit_price": "$45.89",
+      "line_total": "$137.67"
+    },
+    {
+      "name": "Soap",
+      "qty": 4,
+      "unit_price": "$17.13",
+      "line_total": "$68.52"
+    }
+  ],
+  "sample_id": "receipt_0264"
+}

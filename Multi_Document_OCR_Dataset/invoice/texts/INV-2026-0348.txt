@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0348
+Company: Nexus Digital Solutions
+Company Address: 123 Gulshan Avenue, Doha, Qatar
+Customer: Ocean Exporters
+Billing Address: 47 Uttara Sector 7, Sylhet, Bangladesh
+Invoice Date: 2026-06-28
+Due Date: 2026-08-12
+Currency: QAR
+Subtotal: 4868.97
+Tax: 328.66
+Total: 4710.73
+Balance Due: 0.0
+Status: paid

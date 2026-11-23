@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Tammy Miller
+Passport No: P93422148
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P93422148",
+  "full_name": "Tammy Miller",
+  "nationality": "AE",
+  "date_of_birth": "1976-04-26",
+  "issue_date": "2022-12-06",
+  "expiry_date": "2032-12-06",
+  "place_of_birth": "Delgadoshire",
+  "sample_id": "passport_0383"
+}

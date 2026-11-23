@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-2RL1EH8H",
+  "merchant_name": "Torres, Weaver and Bailey",
+  "date": "2022-09-18",
+  "subtotal": 523.81,
+  "tax": 32.39,
+  "discount": 0.86,
+  "total": 555.34,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Backpack",
+      "qty": 1,
+      "unit_price": "$51.14",
+      "line_total": "$51.14"
+    },
+    {
+      "name": "Medicine",
+      "qty": 3,
+      "unit_price": "$79.77",
+      "line_total": "$239.31"
+    },
+    {
+      "name": "Rice",
+      "qty": 2,
+      "unit_price": "$57.67",
+      "line_total": "$115.34"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$59.01",
+      "line_total": "$118.02"
+    }
+  ],
+  "sample_id": "receipt_0616"
+}

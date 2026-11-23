@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-XV38PFIT",
+  "account_holder": "Courtney Briggs",
+  "account_number_masked": "****6361",
+  "period_start": "2024-06-18",
+  "period_end": "2024-07-18",
+  "opening_balance": 4127.9,
+  "closing_balance": 9084.11,
+  "transactions": 11,
+  "sample_id": "bank_statement_0505"
+}

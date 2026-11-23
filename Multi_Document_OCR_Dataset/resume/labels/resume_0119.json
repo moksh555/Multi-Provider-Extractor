@@ -1,0 +1,22 @@
+{
+  "category": "resume",
+  "candidate_name": "Brandon Mclaughlin",
+  "email": "fergusonlynn@example.com",
+  "phone": "+1-342-569-4203x983",
+  "job_title": "Data Analyst",
+  "years_experience": 1,
+  "skills": [
+    "LangChain",
+    "Pandas",
+    "Streamlit",
+    "FastAPI",
+    "PyTorch",
+    "AWS",
+    "TensorFlow",
+    "SQL",
+    "Computer Vision",
+    "Python"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0119"
+}

@@ -1,0 +1,14 @@
+Medical Report MED-G45AUCAO
+Patient: Eric Mayo
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-G45AUCAO",
+  "patient_name": "Eric Mayo",
+  "visit_date": "2024-08-02",
+  "doctor_name": "Dr. Samantha Miller",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0423"
+}

@@ -1,0 +1,25 @@
+Resume
+Antonio Brown
+Backend Developer
+Skills: NLP, TensorFlow, Docker, AWS, Deep Learning, Streamlit, Python, Pandas
+
+{
+  "category": "resume",
+  "candidate_name": "Antonio Brown",
+  "email": "juanjones@example.org",
+  "phone": "4113314644",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "NLP",
+    "TensorFlow",
+    "Docker",
+    "AWS",
+    "Deep Learning",
+    "Streamlit",
+    "Python",
+    "Pandas"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0785"
+}

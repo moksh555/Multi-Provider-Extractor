@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0271
+Company: Atlas Engineering Ltd.
+Company Address: 82 Mirpur DOHS, Dhaka, Bangladesh
+Customer: Al Noor Clinic
+Billing Address: 74 Zindabazar Road, Dubai, UAE
+Invoice Date: 2026-04-23
+Due Date: 2026-05-08
+Currency: BDT
+Subtotal: 4560.39
+Tax: 307.83
+Total: 4437.18
+Balance Due: 1653.15
+Status: partial

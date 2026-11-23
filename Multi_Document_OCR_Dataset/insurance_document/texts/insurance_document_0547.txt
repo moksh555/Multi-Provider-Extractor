@@ -1,0 +1,16 @@
+Insurance Policy POL-BCPWEIJMM
+Holder: Misty Morris
+Type: Health Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-BCPWEIJMM",
+  "policy_holder": "Misty Morris",
+  "policy_type": "Health Insurance",
+  "issue_date": "2026-02-14",
+  "expiry_date": "2027-02-14",
+  "premium": 756.63,
+  "coverage_amount": 84077.4,
+  "beneficiary": "Steven Sutton",
+  "sample_id": "insurance_document_0547"
+}

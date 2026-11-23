@@ -1,0 +1,14 @@
+Medical Report MED-SC7QVQZX
+Patient: Joshua Olsen
+Diagnosis: Respiratory infection
+
+{
+  "category": "medical_report",
+  "report_id": "MED-SC7QVQZX",
+  "patient_name": "Joshua Olsen",
+  "visit_date": "2024-12-05",
+  "doctor_name": "Dr. Zachary Thompson",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0043"
+}

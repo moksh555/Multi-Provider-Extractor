@@ -1,0 +1,23 @@
+Resume
+Mary Brown
+Software Engineer
+Skills: Pandas, FastAPI, Machine Learning, PyTorch, LangChain, Streamlit
+
+{
+  "category": "resume",
+  "candidate_name": "Mary Brown",
+  "email": "phoffman@example.net",
+  "phone": "+1-334-368-6207x539",
+  "job_title": "Software Engineer",
+  "years_experience": 8,
+  "skills": [
+    "Pandas",
+    "FastAPI",
+    "Machine Learning",
+    "PyTorch",
+    "LangChain",
+    "Streamlit"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0986"
+}

@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0489
+Company: BrightStar Electronics
+Company Address: 135 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Rahim Traders
+Billing Address: 74 Dhanmondi 27, Riyadh, Saudi Arabia
+Invoice Date: 2026-03-31
+Due Date: 2026-04-15
+Currency: USD
+Subtotal: 2391.85
+Tax: 358.78
+Total: 2750.63
+Balance Due: 2750.63
+Status: unpaid

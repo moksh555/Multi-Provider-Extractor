@@ -1,0 +1,25 @@
+Resume
+Russell Reynolds
+Machine Learning Engineer
+Skills: FastAPI, Docker, TensorFlow, Pandas, PyTorch, SQL, Machine Learning, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Russell Reynolds",
+  "email": "margaret22@example.net",
+  "phone": "755.845.9205",
+  "job_title": "Machine Learning Engineer",
+  "years_experience": 5,
+  "skills": [
+    "FastAPI",
+    "Docker",
+    "TensorFlow",
+    "Pandas",
+    "PyTorch",
+    "SQL",
+    "Machine Learning",
+    "NLP"
+  ],
+  "education": "BSc in CSE",
+  "sample_id": "resume_0314"
+}

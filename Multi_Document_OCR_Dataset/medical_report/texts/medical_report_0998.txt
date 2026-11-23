@@ -1,0 +1,14 @@
+Medical Report MED-QVBIG5JH
+Patient: Gail Ruiz
+Diagnosis: Migraine evaluation
+
+{
+  "category": "medical_report",
+  "report_id": "MED-QVBIG5JH",
+  "patient_name": "Gail Ruiz",
+  "visit_date": "2024-09-21",
+  "doctor_name": "Dr. Nancy Jarvis",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0998"
+}

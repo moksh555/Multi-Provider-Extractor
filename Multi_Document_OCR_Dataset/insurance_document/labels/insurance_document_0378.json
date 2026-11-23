@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-UXBGK2WBX",
+  "policy_holder": "Cheryl Olsen",
+  "policy_type": "Health Insurance",
+  "issue_date": "2023-05-17",
+  "expiry_date": "2024-05-17",
+  "premium": 1044.98,
+  "coverage_amount": 142942.09,
+  "beneficiary": "Joseph Palmer Jr.",
+  "sample_id": "insurance_document_0378"
+}

@@ -1,0 +1,16 @@
+Bank Statement STM-CBAGW8VB
+Holder: Sheila Myers
+Closing Balance: $3010.60
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-CBAGW8VB",
+  "account_holder": "Sheila Myers",
+  "account_number_masked": "****2012",
+  "period_start": "2026-03-28",
+  "period_end": "2026-04-27",
+  "opening_balance": 914.96,
+  "closing_balance": 3010.6,
+  "transactions": 8,
+  "sample_id": "bank_statement_0656"
+}

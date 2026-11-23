@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Eric Yoder
+Passport No: P70016472
+Nationality: AE
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P70016472",
+  "full_name": "Eric Yoder",
+  "nationality": "AE",
+  "date_of_birth": "2001-09-09",
+  "issue_date": "2022-03-04",
+  "expiry_date": "2032-03-04",
+  "place_of_birth": "Lindatown",
+  "sample_id": "passport_0428"
+}

@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Kayla Rodriguez
+Passport No: P95519232
+Nationality: US
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P95519232",
+  "full_name": "Kayla Rodriguez",
+  "nationality": "US",
+  "date_of_birth": "1997-08-29",
+  "issue_date": "2023-02-19",
+  "expiry_date": "2033-02-19",
+  "place_of_birth": "New Bruceview",
+  "sample_id": "passport_0865"
+}

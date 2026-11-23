@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0759",
+  "invoice_number": "INV-2026-0759",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "186 Uttara Sector 7, Dhaka, Bangladesh",
+  "customer_name": "Al Noor Clinic",
+  "billing_address": "245 Agrabad C/A, Doha, Qatar",
+  "invoice_date": "2026-06-06",
+  "due_date": "2026-07-21",
+  "currency": "BDT",
+  "payment_terms": "Due on Receipt",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "unit_price": 298.8,
+      "amount": 298.8
+    },
+    {
+      "description": "API Integration",
+      "quantity": 5,
+      "unit_price": 346.98,
+      "amount": 1734.9
+    },
+    {
+      "description": "API Integration",
+      "quantity": 7,
+      "unit_price": 342.45,
+      "amount": 2397.15
+    },
+    {
+      "description": "API Integration",
+      "quantity": 4,
+      "unit_price": 733.21,
+      "amount": 2932.84
+    },
+    {
+      "description": "Cloud Hosting Plan",
+      "quantity": 4,
+      "unit_price": 191.72,
+      "amount": 766.88
+    }
+  ],
+  "subtotal": 8130.57,
+  "discount": 406.53,
+  "tax_rate": 0.1,
+  "tax": 772.4,
+  "shipping": 10,
+  "total": 8506.44,
+  "amount_paid": 8506.44,
+  "balance_due": 0.0,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801016500492",
+  "po_number": "PO-04222"
+}

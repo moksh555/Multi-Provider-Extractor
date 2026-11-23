@@ -1,0 +1,16 @@
+Synthetic Driving License
+Wanda Kennedy
+License: DL526752499
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL526752499",
+  "full_name": "Wanda Kennedy",
+  "date_of_birth": "1972-02-21",
+  "class": "D",
+  "issue_date": "2021-11-03",
+  "expiry_date": "2026-11-03",
+  "address": "6072 Kyle Stream, New Catherine, MD 88338",
+  "sample_id": "driving_license_0906"
+}

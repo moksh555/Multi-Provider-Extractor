@@ -1,0 +1,16 @@
+Synthetic Driving License
+Kara Davis
+License: DL217880840
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL217880840",
+  "full_name": "Kara Davis",
+  "date_of_birth": "1992-06-15",
+  "class": "D",
+  "issue_date": "2026-12-25",
+  "expiry_date": "2031-12-25",
+  "address": "52809 Santiago Loop Suite 604, Michaelshire, NY 28385",
+  "sample_id": "driving_license_0066"
+}

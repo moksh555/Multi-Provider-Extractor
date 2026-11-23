@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL088204175",
+  "full_name": "Jeffrey Horton",
+  "date_of_birth": "1971-03-08",
+  "class": "B",
+  "issue_date": "2021-01-15",
+  "expiry_date": "2026-01-15",
+  "address": "8525 Gould Extensions, Davidside, UT 98959",
+  "sample_id": "driving_license_0993"
+}

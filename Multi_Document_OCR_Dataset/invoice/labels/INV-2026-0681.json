@@ -1,0 +1,68 @@
+{
+  "invoice_id": "INV-2026-0681",
+  "invoice_number": "INV-2026-0681",
+  "company_name": "Royal Diagnostics Center",
+  "company_address": "37 Jumeirah Lake Towers, Chattogram, Bangladesh",
+  "customer_name": "Future School",
+  "billing_address": "199 Uttara Sector 7, Dubai, UAE",
+  "invoice_date": "2026-02-06",
+  "due_date": "2026-03-08",
+  "currency": "USD",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Medical Gloves",
+      "quantity": 11,
+      "unit_price": 358.3,
+      "amount": 3941.3
+    },
+    {
+      "description": "Thermal Paper Roll",
+      "quantity": 8,
+      "unit_price": 132.01,
+      "amount": 1056.08
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 9,
+      "unit_price": 448.83,
+      "amount": 4039.47
+    },
+    {
+      "description": "Portable SSD",
+      "quantity": 7,
+      "unit_price": 480.29,
+      "amount": 3362.03
+    },
+    {
+      "description": "Consulting Service",
+      "quantity": 2,
+      "unit_price": 429.85,
+      "amount": 859.7
+    },
+    {
+      "description": "Invoice Processing Service",
+      "quantity": 4,
+      "unit_price": 45.65,
+      "amount": 182.6
+    },
+    {
+      "description": "Office Chair",
+      "quantity": 7,
+      "unit_price": 719.45,
+      "amount": 5036.15
+    }
+  ],
+  "subtotal": 18477.33,
+  "discount": 923.87,
+  "tax_rate": 0.1,
+  "tax": 1755.35,
+  "shipping": 50,
+  "total": 19358.81,
+  "amount_paid": 0,
+  "balance_due": 19358.81,
+  "vendor_email": "royaldiagnosticscenter@example.com",
+  "vendor_phone": "+8801724250076",
+  "po_number": "PO-26397"
+}

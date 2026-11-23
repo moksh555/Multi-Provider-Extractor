@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-5Y0QNV4F",
+  "merchant_name": "Christian and Sons",
+  "date": "2026-12-15",
+  "subtotal": 248.0,
+  "tax": 16.81,
+  "discount": 0.21,
+  "total": 264.6,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Monitor",
+      "qty": 1,
+      "unit_price": "$21.83",
+      "line_total": "$21.83"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$49.99",
+      "line_total": "$49.99"
+    },
+    {
+      "name": "Soap",
+      "qty": 2,
+      "unit_price": "$12.92",
+      "line_total": "$25.84"
+    },
+    {
+      "name": "Mouse",
+      "qty": 2,
+      "unit_price": "$75.17",
+      "line_total": "$150.34"
+    }
+  ],
+  "sample_id": "receipt_0603"
+}

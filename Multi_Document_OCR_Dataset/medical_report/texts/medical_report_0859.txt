@@ -1,0 +1,14 @@
+Medical Report MED-CF33XS4N
+Patient: Autumn Stephens
+Diagnosis: Diabetes screening
+
+{
+  "category": "medical_report",
+  "report_id": "MED-CF33XS4N",
+  "patient_name": "Autumn Stephens",
+  "visit_date": "2024-11-21",
+  "doctor_name": "Dr. Stephen Bridges",
+  "diagnosis": "Diabetes screening",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0859"
+}

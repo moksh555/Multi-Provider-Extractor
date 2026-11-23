@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL103838448",
+  "full_name": "Michael Stafford",
+  "date_of_birth": "1972-03-18",
+  "class": "C",
+  "issue_date": "2023-05-15",
+  "expiry_date": "2028-05-15",
+  "address": "309 Guerrero Springs, Lake Anthony, NM 39246",
+  "sample_id": "driving_license_0194"
+}

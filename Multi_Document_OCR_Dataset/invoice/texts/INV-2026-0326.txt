@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0326
+Company: BrightStar Electronics
+Company Address: 194 Uttara Sector 7, Dhaka, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 224 Uttara Sector 7, Dhaka, Bangladesh
+Invoice Date: 2026-03-04
+Due Date: 2026-04-03
+Currency: QAR
+Subtotal: 7344.88
+Tax: 330.52
+Total: 6940.91
+Balance Due: 6940.91
+Status: unpaid

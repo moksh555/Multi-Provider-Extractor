@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-IFSI159I",
+  "merchant_name": "Phillips-Ellison",
+  "date": "2025-10-24",
+  "subtotal": 258.89,
+  "tax": 12.24,
+  "discount": 2.19,
+  "total": 268.94,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Shoes",
+      "qty": 1,
+      "unit_price": "$56.39",
+      "line_total": "$56.39"
+    },
+    {
+      "name": "Backpack",
+      "qty": 2,
+      "unit_price": "$79.41",
+      "line_total": "$158.82"
+    },
+    {
+      "name": "USB Cable",
+      "qty": 2,
+      "unit_price": "$10.52",
+      "line_total": "$21.04"
+    },
+    {
+      "name": "Soap",
+      "qty": 1,
+      "unit_price": "$22.64",
+      "line_total": "$22.64"
+    }
+  ],
+  "sample_id": "receipt_0298"
+}

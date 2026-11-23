@@ -1,0 +1,17 @@
+Synthetic Passport
+Name: Dennis Schaefer
+Passport No: P45707736
+Nationality: BD
+
+{
+  "category": "passport",
+  "synthetic_only": true,
+  "passport_number": "P45707736",
+  "full_name": "Dennis Schaefer",
+  "nationality": "BD",
+  "date_of_birth": "2000-07-05",
+  "issue_date": "2022-03-01",
+  "expiry_date": "2032-03-01",
+  "place_of_birth": "New Andrew",
+  "sample_id": "passport_0376"
+}

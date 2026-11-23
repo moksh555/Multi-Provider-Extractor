@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0669
+Company: Royal Diagnostics Center
+Company Address: 147 Doha Business Park, Dubai, UAE
+Customer: TechPoint BD
+Billing Address: 248 Zindabazar Road, Dhaka, Bangladesh
+Invoice Date: 2026-06-25
+Due Date: 2026-07-02
+Currency: AED
+Subtotal: 12977.45
+Tax: 616.43
+Total: 12995.01
+Balance Due: 12995.01
+Status: overdue

@@ -1,0 +1,14 @@
+Medical Report MED-LBMK5DPL
+Patient: Alfred Montes
+Diagnosis: Hypertension follow-up
+
+{
+  "category": "medical_report",
+  "report_id": "MED-LBMK5DPL",
+  "patient_name": "Alfred Montes",
+  "visit_date": "2026-04-19",
+  "doctor_name": "Dr. Jade Scott",
+  "diagnosis": "Hypertension follow-up",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0159"
+}

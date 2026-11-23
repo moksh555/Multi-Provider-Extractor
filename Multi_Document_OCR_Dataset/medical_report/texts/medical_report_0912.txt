@@ -1,0 +1,14 @@
+Medical Report MED-7I5SNHPM
+Patient: Daniel Charles
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-7I5SNHPM",
+  "patient_name": "Daniel Charles",
+  "visit_date": "2026-11-24",
+  "doctor_name": "Dr. Logan Bryant",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0912"
+}

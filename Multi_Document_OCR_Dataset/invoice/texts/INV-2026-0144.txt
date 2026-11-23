@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0144
+Company: Atlas Engineering Ltd.
+Company Address: 137 Sheikh Zayed Road, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 57 Gulshan Avenue, Chattogram, Bangladesh
+Invoice Date: 2026-04-20
+Due Date: 2026-05-20
+Currency: SAR
+Subtotal: 7792.0
+Tax: 0.0
+Total: 7012.8
+Balance Due: 2485.85
+Status: partial

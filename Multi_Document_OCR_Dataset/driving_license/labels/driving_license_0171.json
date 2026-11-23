@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL457719295",
+  "full_name": "Robert Taylor",
+  "date_of_birth": "1988-10-07",
+  "class": "C",
+  "issue_date": "2022-08-28",
+  "expiry_date": "2027-08-28",
+  "address": "36519 Lowery Club, North Jamesmouth, AS 17381",
+  "sample_id": "driving_license_0171"
+}

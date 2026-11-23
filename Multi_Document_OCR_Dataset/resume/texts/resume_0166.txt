@@ -1,0 +1,24 @@
+Resume
+Mary Sanchez
+Computer Vision Engineer
+Skills: SQL, Streamlit, LangChain, Docker, Python, Machine Learning, TensorFlow
+
+{
+  "category": "resume",
+  "candidate_name": "Mary Sanchez",
+  "email": "watsonjose@example.net",
+  "phone": "001-730-260-0230x2865",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 1,
+  "skills": [
+    "SQL",
+    "Streamlit",
+    "LangChain",
+    "Docker",
+    "Python",
+    "Machine Learning",
+    "TensorFlow"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0166"
+}

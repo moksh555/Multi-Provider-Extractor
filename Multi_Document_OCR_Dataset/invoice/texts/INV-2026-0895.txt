@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0895
+Company: Greenline Logistics
+Company Address: 16 Doha Business Park, Doha, Qatar
+Customer: Karim Enterprise
+Billing Address: 24 Mirpur DOHS, Sylhet, Bangladesh
+Invoice Date: 2026-04-14
+Due Date: 2026-05-14
+Currency: BDT
+Subtotal: 7776.38
+Tax: 1108.13
+Total: 8545.69
+Balance Due: 8545.69
+Status: overdue

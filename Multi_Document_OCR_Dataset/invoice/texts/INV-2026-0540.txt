@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0540
+Company: BlueRiver Trading Co.
+Company Address: 190 Agrabad C/A, Dubai, UAE
+Customer: Global Mart
+Billing Address: 69 Motijheel C/A, Doha, Qatar
+Invoice Date: 2026-05-11
+Due Date: 2026-05-26
+Currency: BDT
+Subtotal: 26657.57
+Tax: 2532.47
+Total: 27882.16
+Balance Due: 0.0
+Status: paid

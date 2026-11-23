@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-K711UZQ6",
+  "account_holder": "Devin Hardin",
+  "account_number_masked": "****4704",
+  "period_start": "2026-09-30",
+  "period_end": "2026-10-30",
+  "opening_balance": 4581.43,
+  "closing_balance": 9814.45,
+  "transactions": 14,
+  "sample_id": "bank_statement_0254"
+}

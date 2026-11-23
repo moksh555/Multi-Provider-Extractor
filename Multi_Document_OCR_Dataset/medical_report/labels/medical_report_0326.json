@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-B6FCT6E3",
+  "patient_name": "Stephanie Perkins",
+  "visit_date": "2026-05-04",
+  "doctor_name": "Dr. Kyle Stewart",
+  "diagnosis": "Respiratory infection",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0326"
+}

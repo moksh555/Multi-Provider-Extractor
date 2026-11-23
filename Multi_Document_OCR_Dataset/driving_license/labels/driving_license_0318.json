@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL919500678",
+  "full_name": "Alan Griffith",
+  "date_of_birth": "1998-01-21",
+  "class": "B",
+  "issue_date": "2021-03-01",
+  "expiry_date": "2026-03-01",
+  "address": "12679 Hanson Motorway Suite 876, Jeremiahchester, PA 01474",
+  "sample_id": "driving_license_0318"
+}

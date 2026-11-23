@@ -1,0 +1,14 @@
+Medical Report MED-5XK7WNG1
+Patient: Chad Hansen
+Diagnosis: Routine health checkup
+
+{
+  "category": "medical_report",
+  "report_id": "MED-5XK7WNG1",
+  "patient_name": "Chad Hansen",
+  "visit_date": "2025-02-11",
+  "doctor_name": "Dr. Hector Rhodes",
+  "diagnosis": "Routine health checkup",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0252"
+}

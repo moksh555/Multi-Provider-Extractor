@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL226180683",
+  "full_name": "Kimberly Beltran",
+  "date_of_birth": "2002-09-19",
+  "class": "C",
+  "issue_date": "2025-03-28",
+  "expiry_date": "2030-03-28",
+  "address": "759 Scott Coves, Port Michael, MS 56087",
+  "sample_id": "driving_license_0369"
+}

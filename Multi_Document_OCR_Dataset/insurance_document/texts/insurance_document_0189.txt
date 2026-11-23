@@ -1,0 +1,16 @@
+Insurance Policy POL-70STLPQ2W
+Holder: Christopher Smith
+Type: Vehicle Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-70STLPQ2W",
+  "policy_holder": "Christopher Smith",
+  "policy_type": "Vehicle Insurance",
+  "issue_date": "2026-08-04",
+  "expiry_date": "2027-08-04",
+  "premium": 1684.39,
+  "coverage_amount": 203835.37,
+  "beneficiary": "Olivia Taylor",
+  "sample_id": "insurance_document_0189"
+}

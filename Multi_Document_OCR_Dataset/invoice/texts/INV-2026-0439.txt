@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0439
+Company: Nova Medical Supplies
+Company Address: 97 Motijheel C/A, Sylhet, Bangladesh
+Customer: Trust Finance Office
+Billing Address: 244 Road 12, Banani, Dubai, UAE
+Invoice Date: 2026-02-13
+Due Date: 2026-02-28
+Currency: BDT
+Subtotal: 17405.79
+Tax: 1740.58
+Total: 19146.37
+Balance Due: 10631.16
+Status: partial

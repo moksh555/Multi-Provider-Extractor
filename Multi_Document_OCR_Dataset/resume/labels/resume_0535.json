@@ -1,0 +1,18 @@
+{
+  "category": "resume",
+  "candidate_name": "Joseph Garcia",
+  "email": "erica85@example.com",
+  "phone": "373.704.3763",
+  "job_title": "Software Engineer",
+  "years_experience": 2,
+  "skills": [
+    "FastAPI",
+    "AWS",
+    "NLP",
+    "LangChain",
+    "Pandas",
+    "Python"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0535"
+}

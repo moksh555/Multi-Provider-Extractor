@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-TLSX2BW5",
+  "patient_name": "Dr. Mark Lopez",
+  "visit_date": "2026-10-04",
+  "doctor_name": "Dr. Charles Campbell",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0577"
+}

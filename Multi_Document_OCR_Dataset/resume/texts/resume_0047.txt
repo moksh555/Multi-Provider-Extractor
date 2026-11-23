@@ -1,0 +1,26 @@
+Resume
+Anthony Holloway
+Computer Vision Engineer
+Skills: Python, Machine Learning, Computer Vision, FastAPI, AWS, TensorFlow, LangChain, SQL, Docker
+
+{
+  "category": "resume",
+  "candidate_name": "Anthony Holloway",
+  "email": "heather39@example.org",
+  "phone": "(319)499-4529x517",
+  "job_title": "Computer Vision Engineer",
+  "years_experience": 2,
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Computer Vision",
+    "FastAPI",
+    "AWS",
+    "TensorFlow",
+    "LangChain",
+    "SQL",
+    "Docker"
+  ],
+  "education": "BSc in Software Engineering",
+  "sample_id": "resume_0047"
+}

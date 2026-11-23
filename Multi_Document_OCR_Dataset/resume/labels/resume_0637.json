@@ -1,0 +1,21 @@
+{
+  "category": "resume",
+  "candidate_name": "Alexander Jimenez",
+  "email": "wilkinsonjason@example.net",
+  "phone": "(953)271-2688",
+  "job_title": "Backend Developer",
+  "years_experience": 2,
+  "skills": [
+    "Docker",
+    "LangChain",
+    "Streamlit",
+    "Computer Vision",
+    "SQL",
+    "Machine Learning",
+    "NLP",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0637"
+}

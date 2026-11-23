@@ -1,0 +1,56 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-PWIOXD9C",
+  "merchant_name": "Knight-Sparks",
+  "date": "2026-11-25",
+  "subtotal": 1227.67,
+  "tax": 89.7,
+  "discount": 2.73,
+  "total": 1314.64,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Notebook",
+      "qty": 4,
+      "unit_price": "$69.99",
+      "line_total": "$279.96"
+    },
+    {
+      "name": "Keyboard",
+      "qty": 4,
+      "unit_price": "$78.50",
+      "line_total": "$314.00"
+    },
+    {
+      "name": "Sandwich",
+      "qty": 1,
+      "unit_price": "$29.21",
+      "line_total": "$29.21"
+    },
+    {
+      "name": "Mouse",
+      "qty": 3,
+      "unit_price": "$20.05",
+      "line_total": "$60.15"
+    },
+    {
+      "name": "Monitor",
+      "qty": 3,
+      "unit_price": "$11.54",
+      "line_total": "$34.62"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$65.27",
+      "line_total": "$195.81"
+    },
+    {
+      "name": "Backpack",
+      "qty": 4,
+      "unit_price": "$78.48",
+      "line_total": "$313.92"
+    }
+  ],
+  "sample_id": "receipt_0053"
+}

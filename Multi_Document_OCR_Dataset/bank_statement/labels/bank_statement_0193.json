@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-49DZ8FTM",
+  "account_holder": "Keith Lloyd",
+  "account_number_masked": "****7696",
+  "period_start": "2025-07-02",
+  "period_end": "2025-08-01",
+  "opening_balance": 2082.54,
+  "closing_balance": 5436.65,
+  "transactions": 9,
+  "sample_id": "bank_statement_0193"
+}

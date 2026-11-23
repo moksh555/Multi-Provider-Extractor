@@ -1,0 +1,16 @@
+Synthetic Driving License
+Elizabeth Morales
+License: DL833885217
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL833885217",
+  "full_name": "Elizabeth Morales",
+  "date_of_birth": "2005-11-08",
+  "class": "D",
+  "issue_date": "2023-02-21",
+  "expiry_date": "2028-02-21",
+  "address": "1509 Brandy Forges Suite 301, Rhodesland, NY 52198",
+  "sample_id": "driving_license_0357"
+}

@@ -1,0 +1,16 @@
+Insurance Policy POL-MPEQYDBPG
+Holder: Frank Gibbs
+Type: Life Insurance
+
+{
+  "category": "insurance_document",
+  "policy_number": "POL-MPEQYDBPG",
+  "policy_holder": "Frank Gibbs",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-04-28",
+  "expiry_date": "2027-04-28",
+  "premium": 1618.14,
+  "coverage_amount": 348161.2,
+  "beneficiary": "Benjamin Sandoval",
+  "sample_id": "insurance_document_0411"
+}

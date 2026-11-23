@@ -1,0 +1,14 @@
+Medical Report MED-M24JVGSQ
+Patient: Rose Scott
+Diagnosis: Acute viral fever
+
+{
+  "category": "medical_report",
+  "report_id": "MED-M24JVGSQ",
+  "patient_name": "Rose Scott",
+  "visit_date": "2025-11-02",
+  "doctor_name": "Dr. Michael Jones",
+  "diagnosis": "Acute viral fever",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0825"
+}

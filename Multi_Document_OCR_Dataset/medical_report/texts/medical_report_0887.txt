@@ -1,0 +1,14 @@
+Medical Report MED-A9ZBSYX0
+Patient: Melissa Brown
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-A9ZBSYX0",
+  "patient_name": "Melissa Brown",
+  "visit_date": "2025-01-14",
+  "doctor_name": "Dr. Michael Drake",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0887"
+}

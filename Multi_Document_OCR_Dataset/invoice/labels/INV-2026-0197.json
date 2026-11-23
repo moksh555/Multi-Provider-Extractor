@@ -1,0 +1,44 @@
+{
+  "invoice_id": "INV-2026-0197",
+  "invoice_number": "INV-2026-0197",
+  "company_name": "Delta Insurance Services",
+  "company_address": "68 Doha Business Park, Riyadh, Saudi Arabia",
+  "customer_name": "Global Mart",
+  "billing_address": "54 Uttara Sector 7, Chattogram, Bangladesh",
+  "invoice_date": "2026-05-13",
+  "due_date": "2026-06-27",
+  "currency": "SAR",
+  "payment_terms": "50% Advance, 50% Due",
+  "status": "partial",
+  "items": [
+    {
+      "description": "Surgical Mask Box",
+      "quantity": 12,
+      "unit_price": 359.69,
+      "amount": 4316.28
+    },
+    {
+      "description": "Accounting Software License",
+      "quantity": 8,
+      "unit_price": 726.18,
+      "amount": 5809.44
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 6,
+      "unit_price": 125.0,
+      "amount": 750.0
+    }
+  ],
+  "subtotal": 10875.72,
+  "discount": 217.51,
+  "tax_rate": 0.0,
+  "tax": 0.0,
+  "shipping": 0,
+  "total": 10658.21,
+  "amount_paid": 4292.98,
+  "balance_due": 6365.23,
+  "vendor_email": "deltainsuranceservices@example.com",
+  "vendor_phone": "+8801088346475",
+  "po_number": "PO-30791"
+}

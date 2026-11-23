@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL016171228",
+  "full_name": "Kristin Garcia",
+  "date_of_birth": "1986-06-24",
+  "class": "A",
+  "issue_date": "2022-04-15",
+  "expiry_date": "2027-04-15",
+  "address": "2493 Charles Ridge Suite 870, North Thomas, TX 07114",
+  "sample_id": "driving_license_0309"
+}

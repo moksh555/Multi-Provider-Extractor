@@ -1,0 +1,12 @@
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL747340953",
+  "full_name": "Jerry Rogers",
+  "date_of_birth": "1998-07-14",
+  "class": "B",
+  "issue_date": "2021-01-16",
+  "expiry_date": "2026-01-16",
+  "address": "0428 Shepard Canyon, Crystalmouth, IA 65037",
+  "sample_id": "driving_license_0898"
+}

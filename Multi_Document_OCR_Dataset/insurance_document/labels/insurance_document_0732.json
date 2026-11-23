@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-700LFQF5E",
+  "policy_holder": "Sara Garcia",
+  "policy_type": "Property Insurance",
+  "issue_date": "2024-06-22",
+  "expiry_date": "2025-06-22",
+  "premium": 1359.25,
+  "coverage_amount": 11801.68,
+  "beneficiary": "Melanie King",
+  "sample_id": "insurance_document_0732"
+}

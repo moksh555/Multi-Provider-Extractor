@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-1357P714",
+  "account_holder": "Katherine Lawson",
+  "account_number_masked": "****4078",
+  "period_start": "2026-11-09",
+  "period_end": "2026-12-09",
+  "opening_balance": 3634.68,
+  "closing_balance": 11122.54,
+  "transactions": 11,
+  "sample_id": "bank_statement_0588"
+}

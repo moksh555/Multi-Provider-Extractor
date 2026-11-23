@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0829
+Company: BrightStar Electronics
+Company Address: 150 Zindabazar Road, Chattogram, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 138 Agrabad C/A, Sylhet, Bangladesh
+Invoice Date: 2026-04-09
+Due Date: 2026-05-24
+Currency: USD
+Subtotal: 3597.75
+Tax: 269.83
+Total: 3892.58
+Balance Due: 3892.58
+Status: unpaid

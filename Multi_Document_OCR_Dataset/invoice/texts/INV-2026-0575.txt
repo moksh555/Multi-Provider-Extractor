@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0575
+Company: Nexus Digital Solutions
+Company Address: 132 Motijheel C/A, Dhaka, Bangladesh
+Customer: Sunrise Apparel
+Billing Address: 39 Agrabad C/A, Doha, Qatar
+Invoice Date: 2026-04-13
+Due Date: 2026-04-20
+Currency: BDT
+Subtotal: 28312.7
+Tax: 4246.91
+Total: 32584.61
+Balance Due: 0.0
+Status: paid

@@ -1,0 +1,16 @@
+Bank Statement STM-D1ZODXRK
+Holder: Kyle Peterson
+Closing Balance: $2774.89
+
+{
+  "category": "bank_statement",
+  "statement_id": "STM-D1ZODXRK",
+  "account_holder": "Kyle Peterson",
+  "account_number_masked": "****2956",
+  "period_start": "2024-06-17",
+  "period_end": "2024-07-17",
+  "opening_balance": 1656.16,
+  "closing_balance": 2774.89,
+  "transactions": 10,
+  "sample_id": "bank_statement_0381"
+}

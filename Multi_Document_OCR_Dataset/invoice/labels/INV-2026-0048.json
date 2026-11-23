@@ -1,0 +1,38 @@
+{
+  "invoice_id": "INV-2026-0048",
+  "invoice_number": "INV-2026-0048",
+  "company_name": "BlueRiver Trading Co.",
+  "company_address": "86 Sheikh Zayed Road, Doha, Qatar",
+  "customer_name": "Rahim Traders",
+  "billing_address": "28 Dhanmondi 27, Sylhet, Bangladesh",
+  "invoice_date": "2026-04-27",
+  "due_date": "2026-06-11",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "overdue",
+  "items": [
+    {
+      "description": "Web Development",
+      "quantity": 3,
+      "unit_price": 623.6,
+      "amount": 1870.8
+    },
+    {
+      "description": "LED Monitor",
+      "quantity": 12,
+      "unit_price": 164.78,
+      "amount": 1977.36
+    }
+  ],
+  "subtotal": 3848.16,
+  "discount": 0.0,
+  "tax_rate": 0.075,
+  "tax": 288.61,
+  "shipping": 50,
+  "total": 4186.77,
+  "amount_paid": 0,
+  "balance_due": 4186.77,
+  "vendor_email": "bluerivertradingco@example.com",
+  "vendor_phone": "+8801757188850",
+  "po_number": "PO-61132"
+}

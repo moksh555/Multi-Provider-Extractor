@@ -1,0 +1,56 @@
+{
+  "invoice_id": "INV-2026-0095",
+  "invoice_number": "INV-2026-0095",
+  "company_name": "SkyNet Office Mart",
+  "company_address": "156 Jumeirah Lake Towers, Sylhet, Bangladesh",
+  "customer_name": "Smart Retail LLC",
+  "billing_address": "19 Doha Business Park, Sylhet, Bangladesh",
+  "invoice_date": "2026-05-15",
+  "due_date": "2026-05-30",
+  "currency": "BDT",
+  "payment_terms": "Net 15",
+  "status": "paid",
+  "items": [
+    {
+      "description": "Keyboard",
+      "quantity": 9,
+      "unit_price": 347.68,
+      "amount": 3129.12
+    },
+    {
+      "description": "Data Annotation Service",
+      "quantity": 4,
+      "unit_price": 751.82,
+      "amount": 3007.28
+    },
+    {
+      "description": "Web Development",
+      "quantity": 6,
+      "unit_price": 311.79,
+      "amount": 1870.74
+    },
+    {
+      "description": "Printer Cartridge",
+      "quantity": 10,
+      "unit_price": 454.68,
+      "amount": 4546.8
+    },
+    {
+      "description": "Keyboard",
+      "quantity": 11,
+      "unit_price": 15.41,
+      "amount": 169.51
+    }
+  ],
+  "subtotal": 12723.45,
+  "discount": 0.0,
+  "tax_rate": 0.15,
+  "tax": 1908.52,
+  "shipping": 50,
+  "total": 14681.97,
+  "amount_paid": 14681.97,
+  "balance_due": 0.0,
+  "vendor_email": "skynetofficemart@example.com",
+  "vendor_phone": "+8801496696399",
+  "po_number": "PO-35298"
+}

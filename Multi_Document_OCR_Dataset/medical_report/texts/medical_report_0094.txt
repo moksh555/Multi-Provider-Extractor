@@ -1,0 +1,14 @@
+Medical Report MED-WVWH1FJC
+Patient: David Moore
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-WVWH1FJC",
+  "patient_name": "David Moore",
+  "visit_date": "2026-02-11",
+  "doctor_name": "Dr. Joseph Pace",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0094"
+}

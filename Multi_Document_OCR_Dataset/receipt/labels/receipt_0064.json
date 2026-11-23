@@ -1,0 +1,38 @@
+{
+  "category": "receipt",
+  "receipt_id": "RCT-QTTY5Y2J",
+  "merchant_name": "Howard and Sons",
+  "date": "2026-06-07",
+  "subtotal": 496.45,
+  "tax": 40.52,
+  "discount": 8.15,
+  "total": 528.82,
+  "currency": "USD",
+  "items": [
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$45.09",
+      "line_total": "$135.27"
+    },
+    {
+      "name": "Coffee",
+      "qty": 3,
+      "unit_price": "$61.92",
+      "line_total": "$185.76"
+    },
+    {
+      "name": "Headphones",
+      "qty": 4,
+      "unit_price": "$26.05",
+      "line_total": "$104.20"
+    },
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit_price": "$23.74",
+      "line_total": "$71.22"
+    }
+  ],
+  "sample_id": "receipt_0064"
+}

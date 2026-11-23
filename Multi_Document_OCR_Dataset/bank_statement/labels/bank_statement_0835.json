@@ -1,0 +1,12 @@
+{
+  "category": "bank_statement",
+  "statement_id": "STM-FBZ753P6",
+  "account_holder": "Matthew Jacobs",
+  "account_number_masked": "****0519",
+  "period_start": "2026-06-17",
+  "period_end": "2026-07-17",
+  "opening_balance": 705.33,
+  "closing_balance": 4813.18,
+  "transactions": 14,
+  "sample_id": "bank_statement_0835"
+}

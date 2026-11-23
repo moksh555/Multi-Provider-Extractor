@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0230
+Company: Atlas Engineering Ltd.
+Company Address: 53 Gulshan Avenue, Chattogram, Bangladesh
+Customer: Smart Retail LLC
+Billing Address: 27 Zindabazar Road, Sylhet, Bangladesh
+Invoice Date: 2026-01-20
+Due Date: 2026-02-19
+Currency: USD
+Subtotal: 15936.94
+Tax: 0.0
+Total: 15941.94
+Balance Due: 5494.23
+Status: partial

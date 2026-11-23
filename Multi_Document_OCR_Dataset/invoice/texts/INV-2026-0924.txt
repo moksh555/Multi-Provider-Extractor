@@ -1,0 +1,13 @@
+Invoice Number: INV-2026-0924
+Company: Summit Agro Foods
+Company Address: 59 Jumeirah Lake Towers, Doha, Qatar
+Customer: Future School
+Billing Address: 2 Al Barsha, Chattogram, Bangladesh
+Invoice Date: 2026-02-12
+Due Date: 2026-03-14
+Currency: BDT
+Subtotal: 16372.44
+Tax: 0.0
+Total: 15578.82
+Balance Due: 15578.82
+Status: overdue

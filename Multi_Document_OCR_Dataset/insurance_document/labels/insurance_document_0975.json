@@ -1,0 +1,12 @@
+{
+  "category": "insurance_document",
+  "policy_number": "POL-V1GGXRED8",
+  "policy_holder": "Mark Maldonado",
+  "policy_type": "Life Insurance",
+  "issue_date": "2026-12-06",
+  "expiry_date": "2027-12-06",
+  "premium": 2378.69,
+  "coverage_amount": 199851.06,
+  "beneficiary": "Jessica Stein",
+  "sample_id": "insurance_document_0975"
+}

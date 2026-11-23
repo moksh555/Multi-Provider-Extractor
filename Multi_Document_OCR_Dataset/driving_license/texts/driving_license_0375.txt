@@ -1,0 +1,16 @@
+Synthetic Driving License
+Mr. Joshua Pacheco MD
+License: DL909214000
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL909214000",
+  "full_name": "Mr. Joshua Pacheco MD",
+  "date_of_birth": "1979-06-26",
+  "class": "D",
+  "issue_date": "2023-11-01",
+  "expiry_date": "2028-11-01",
+  "address": "1675 Ramos Camp, East Angelaport, FM 93045",
+  "sample_id": "driving_license_0375"
+}

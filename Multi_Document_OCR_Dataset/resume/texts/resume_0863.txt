@@ -1,0 +1,25 @@
+Resume
+Brian Flynn
+Software Engineer
+Skills: Machine Learning, PyTorch, Python, FastAPI, Docker, SQL, Deep Learning, AWS
+
+{
+  "category": "resume",
+  "candidate_name": "Brian Flynn",
+  "email": "vbrennan@example.net",
+  "phone": "677-531-3197",
+  "job_title": "Software Engineer",
+  "years_experience": 1,
+  "skills": [
+    "Machine Learning",
+    "PyTorch",
+    "Python",
+    "FastAPI",
+    "Docker",
+    "SQL",
+    "Deep Learning",
+    "AWS"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0863"
+}

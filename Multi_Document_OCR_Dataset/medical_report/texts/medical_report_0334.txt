@@ -1,0 +1,14 @@
+Medical Report MED-3L15R433
+Patient: Lauren Richards
+Diagnosis: Mild anemia
+
+{
+  "category": "medical_report",
+  "report_id": "MED-3L15R433",
+  "patient_name": "Lauren Richards",
+  "visit_date": "2026-11-20",
+  "doctor_name": "Dr. William Jackson",
+  "diagnosis": "Mild anemia",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0334"
+}

@@ -1,0 +1,26 @@
+Resume
+Michael Wallace
+Software Engineer
+Skills: FastAPI, Machine Learning, Deep Learning, Computer Vision, TensorFlow, PyTorch, Python, Streamlit, NLP
+
+{
+  "category": "resume",
+  "candidate_name": "Michael Wallace",
+  "email": "mcdowelladam@example.net",
+  "phone": "(468)590-4172x82076",
+  "job_title": "Software Engineer",
+  "years_experience": 4,
+  "skills": [
+    "FastAPI",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "TensorFlow",
+    "PyTorch",
+    "Python",
+    "Streamlit",
+    "NLP"
+  ],
+  "education": "MSc in Data Science",
+  "sample_id": "resume_0178"
+}

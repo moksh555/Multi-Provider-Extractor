@@ -1,0 +1,16 @@
+Synthetic Driving License
+Eric Walker
+License: DL906857553
+
+{
+  "category": "driving_license",
+  "synthetic_only": true,
+  "license_number": "DL906857553",
+  "full_name": "Eric Walker",
+  "date_of_birth": "1979-04-11",
+  "class": "A",
+  "issue_date": "2024-03-31",
+  "expiry_date": "2029-03-31",
+  "address": "6427 Samuel Dale Apt. 376, New William, FL 14895",
+  "sample_id": "driving_license_0869"
+}

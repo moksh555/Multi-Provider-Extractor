@@ -1,0 +1,10 @@
+{
+  "category": "medical_report",
+  "report_id": "MED-IU3XMVQD",
+  "patient_name": "Susan Miller",
+  "visit_date": "2024-06-13",
+  "doctor_name": "Dr. Brandon Woods",
+  "diagnosis": "Migraine evaluation",
+  "synthetic_only": true,
+  "sample_id": "medical_report_0261"
+}
