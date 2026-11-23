@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0947",
+      "invoice_number": "INV-2026-0947",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "44 Motijheel C/A, Doha, Qatar",
+      "customer_name": "Bengal Motors",
+      "billing_address": "29 Uttara Sector 7, Doha, Qatar",
+      "invoice_date": "2026-03-05",
+      "due_date": "2026-03-12",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 742.75,
+          "amount": 7427.5
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 773.44,
+          "amount": 8507.84
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 1.0,
+          "unit_price": 468.16,
+          "amount": 468.16
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 170.16,
+          "amount": 170.16
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 12.0,
+          "unit_price": 714.74,
+          "amount": 8576.88
+        },
+        {
+          "description": "Web Development",
+          "quantity": 1.0,
+          "unit_price": 473.51,
+          "amount": 473.51
+        }
+      ],
+      "subtotal": 25624.05,
+      "discount": 2562.41,
+      "tax_rate": 0.07,
+      "tax": 1729.62,
+      "shipping": 50.0,
+      "total": 24841.26,
+      "amount_paid": 24841.26,
+      "balance_due": 0.0,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801683973676",
+      "po_number": "PO-85011",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 1729.62 does not match recomputed (subtotal 25624.05 - discount 2562.41) x tax rate 0.07 = 1614.31 (difference 115.31). All line amounts, subtotal, total, and balance due checks pass."
+    }
+  ],
+  "Input_tokens": 4956,
+  "Output_tokens": 1560,
+  "Output_thinking_tokens": 917,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004956,
+    "Output_tokens": 0.00078,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012756
+  }
+}

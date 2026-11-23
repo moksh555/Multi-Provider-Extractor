@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0803",
+      "invoice_number": "INV-2026-0803",
+      "company_name": "Greenline Logistics",
+      "company_address": "80 Gulshan Avenue, Sylhet, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "1 Doha Business Park, Dubai, UAE",
+      "invoice_date": "2026-02-25",
+      "due_date": "2026-03-12",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 311.93,
+          "amount": 2183.51
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 388.55,
+          "amount": 3496.95
+        }
+      ],
+      "subtotal": 5680.46,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 426.03,
+      "shipping": 25.0,
+      "total": 6131.49,
+      "amount_paid": 6131.49,
+      "balance_due": 0.0,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801289462979",
+      "po_number": "PO-87289",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 426.03 does not match recomputed tax 397.63 ((5680.46 - 0) x 0.07 = 397.6322), a difference of 28.40. Line amounts, subtotal, total, and balance due checks pass."
+    }
+  ],
+  "Input_tokens": 4863,
+  "Output_tokens": 1096,
+  "Output_thinking_tokens": 606,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004863,
+    "Output_tokens": 0.000548,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010343
+  }
+}

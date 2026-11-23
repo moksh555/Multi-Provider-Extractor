@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0166",
+      "invoice_number": "INV-2026-0166",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "146 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "243 Gulshan Avenue, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-20",
+      "due_date": "2026-07-04",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 317.64,
+          "amount": 3811.68
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 1.0,
+          "unit_price": 551.42,
+          "amount": 551.42
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 716.52,
+          "amount": 716.52
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 12.0,
+          "unit_price": 780.5,
+          "amount": 9366.0
+        }
+      ],
+      "subtotal": 14445.62,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1083.42,
+      "shipping": 50.0,
+      "total": 15579.04,
+      "amount_paid": 0.0,
+      "balance_due": 15579.04,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801236796524",
+      "po_number": "PO-09993",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: tax. Printed tax 1083.42 does not match recomputed (14445.62 - 0) x 0.07 = 1011.19."
+    }
+  ],
+  "Input_tokens": 4932,
+  "Output_tokens": 1416,
+  "Output_thinking_tokens": 882,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004932000000000001,
+    "Output_tokens": 0.000708,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012012
+  }
+}

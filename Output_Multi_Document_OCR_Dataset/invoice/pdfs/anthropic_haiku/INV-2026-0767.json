@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0767",
+      "invoice_number": "INV-2026-0767",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "194 Road 12, Banani, Dubai, UAE",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "187 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-30",
+      "due_date": "2026-03-16",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 607.98,
+          "amount": 4255.86
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 2.0,
+          "unit_price": 849.46,
+          "amount": 1698.92
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 58.82,
+          "amount": 235.28
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 313.85,
+          "amount": 2510.8
+        }
+      ],
+      "subtotal": 8700.86,
+      "discount": 435.04,
+      "tax_rate": 0.07,
+      "tax": 619.94,
+      "shipping": 5.0,
+      "total": 8890.76,
+      "amount_paid": 8890.76,
+      "balance_due": 0.0,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801739277556",
+      "po_number": "PO-37296",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 619.94 does not match recomputed tax 578.61, which is (subtotal 8700.86 - discount 435.04) x tax rate 0.07 = 8265.82 x 0.07 = 578.61."
+    }
+  ],
+  "Input_tokens": 4913,
+  "Output_tokens": 1332,
+  "Output_thinking_tokens": 766,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004913,
+    "Output_tokens": 0.000666,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011573
+  }
+}

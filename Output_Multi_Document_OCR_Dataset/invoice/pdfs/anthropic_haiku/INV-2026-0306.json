@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0306",
+      "invoice_number": "INV-2026-0306",
+      "company_name": "Greenline Logistics",
+      "company_address": "100 Road 12, Banani, Chattogram, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "225 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-07",
+      "due_date": "2026-04-14",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 175.25,
+          "amount": 1226.75
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 693.81,
+          "amount": 6938.1
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 434.64,
+          "amount": 1303.92
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 442.89,
+          "amount": 5314.68
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 109.34,
+          "amount": 437.36
+        }
+      ],
+      "subtotal": 15220.81,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1522.08,
+      "shipping": 10.0,
+      "total": 16752.89,
+      "amount_paid": 0.0,
+      "balance_due": 16752.89,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801673197321",
+      "po_number": "PO-40848",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4963,
+  "Output_tokens": 1130,
+  "Output_thinking_tokens": 614,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004963,
+    "Output_tokens": 0.000565,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010612999999999998
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0650",
+      "invoice_number": "INV-2026-0650",
+      "company_name": "Golden Harvest Store",
+      "company_address": "79 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "222 Road 12, Banani, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-26",
+      "due_date": "2026-07-10",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 10.0,
+          "unit_price": 88.94,
+          "amount": 889.4
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 7.0,
+          "unit_price": 284.29,
+          "amount": 1990.03
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 8.0,
+          "unit_price": 112.91,
+          "amount": 903.28
+        }
+      ],
+      "subtotal": 3782.71,
+      "discount": 75.65,
+      "tax_rate": 0.07,
+      "tax": 278.03,
+      "shipping": 25.0,
+      "total": 4010.09,
+      "amount_paid": 0.0,
+      "balance_due": 4010.09,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801205525922",
+      "po_number": "PO-27665",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 278.03; recomputed 259.49."
+    }
+  ],
+  "Input_tokens": 2689,
+  "Output_tokens": 565,
+  "Output_thinking_tokens": 266,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026890000000000003,
+    "Output_tokens": 0.0002825,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005514000000000001
+  }
+}

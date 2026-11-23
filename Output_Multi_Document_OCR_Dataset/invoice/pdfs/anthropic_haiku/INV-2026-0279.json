@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0279",
+      "invoice_number": "INV-2026-0279",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "92 Sheikh Zayed Road, Sylhet, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "145 Al Barsha, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-06",
+      "due_date": "2026-03-08",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 405.52,
+          "amount": 2027.6
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 6.0,
+          "unit_price": 788.6,
+          "amount": 4731.6
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 449.53,
+          "amount": 1348.59
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 275.49,
+          "amount": 275.49
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 3.0,
+          "unit_price": 404.16,
+          "amount": 1212.48
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 5.0,
+          "unit_price": 598.63,
+          "amount": 2993.15
+        }
+      ],
+      "subtotal": 12588.91,
+      "discount": 251.78,
+      "tax_rate": 0.15,
+      "tax": 1850.57,
+      "shipping": 0.0,
+      "total": 14187.7,
+      "amount_paid": 0.0,
+      "balance_due": 14187.7,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801040650683",
+      "po_number": "PO-01294",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4997,
+  "Output_tokens": 1235,
+  "Output_thinking_tokens": 673,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004997000000000001,
+    "Output_tokens": 0.0006175,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011172
+  }
+}

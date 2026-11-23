@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0898",
+      "invoice_number": "INV-2026-0898",
+      "company_name": "BrightStar Electronics",
+      "company_address": "130 Doha Business Park, Dubai, UAE",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "55 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-05",
+      "due_date": "2026-06-20",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 491.97,
+          "amount": 3935.76
+        },
+        {
+          "description": "API Integration",
+          "quantity": 11.0,
+          "unit_price": 458.17,
+          "amount": 5039.87
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 381.49,
+          "amount": 2670.43
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 270.61,
+          "amount": 2164.88
+        }
+      ],
+      "subtotal": 13810.94,
+      "discount": 276.22,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 13584.72,
+      "amount_paid": 0.0,
+      "balance_due": 13584.72,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801056753782",
+      "po_number": "PO-02940",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2754,
+  "Output_tokens": 538,
+  "Output_thinking_tokens": 243,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002754,
+    "Output_tokens": 0.000269,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005444
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0367",
+      "invoice_number": "INV-2026-0367",
+      "company_name": "Golden Harvest Store",
+      "company_address": "10 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "198 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-24",
+      "due_date": "2026-03-11",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 788.18,
+          "amount": 7881.8
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 656.1,
+          "amount": 4592.7
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 8.0,
+          "unit_price": 819.81,
+          "amount": 6558.48
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 9.0,
+          "unit_price": 252.34,
+          "amount": 2271.06
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 247.54,
+          "amount": 247.54
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 504.21,
+          "amount": 3529.47
+        }
+      ],
+      "subtotal": 25081.05,
+      "discount": 1254.05,
+      "tax_rate": 0.15,
+      "tax": 3574.05,
+      "shipping": 0.0,
+      "total": 27401.05,
+      "amount_paid": 13351.4,
+      "balance_due": 14049.65,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801996235436",
+      "po_number": "PO-02922",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4979,
+  "Output_tokens": 1356,
+  "Output_thinking_tokens": 791,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004979,
+    "Output_tokens": 0.000678,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011759000000000001
+  }
+}

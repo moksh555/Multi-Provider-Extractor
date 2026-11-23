@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0154",
+      "invoice_number": "INV-2026-0154",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "63 Zindabazar Road, Dubai, UAE",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "223 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-17",
+      "due_date": "2026-03-03",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 9.0,
+          "unit_price": 397.11,
+          "amount": 3573.99
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 3.0,
+          "unit_price": 175.77,
+          "amount": 527.31
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 474.36,
+          "amount": 2371.8
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 710.72,
+          "amount": 3553.6
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 478.91,
+          "amount": 3831.28
+        }
+      ],
+      "subtotal": 13857.98,
+      "discount": 277.16,
+      "tax_rate": 0.1,
+      "tax": 1358.08,
+      "shipping": 10.0,
+      "total": 14948.9,
+      "amount_paid": 14948.9,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801002984684",
+      "po_number": "PO-46212",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4942,
+  "Output_tokens": 1159,
+  "Output_thinking_tokens": 645,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004942000000000001,
+    "Output_tokens": 0.0005795,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010737000000000001
+  }
+}

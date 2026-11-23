@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0780",
+      "invoice_number": "INV-2026-0780",
+      "company_name": "Golden Harvest Store",
+      "company_address": "145 Motijheel C/A, Doha, Qatar",
+      "customer_name": "TechPoint BD",
+      "billing_address": "85 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-02-17",
+      "due_date": "2026-02-24",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 12.3,
+          "amount": 24.6
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 184.46,
+          "amount": 184.46
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 531.64,
+          "amount": 3721.48
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 8.58,
+          "amount": 60.06
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 10.0,
+          "unit_price": 683.6,
+          "amount": 6836.0
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 346.79,
+          "amount": 2774.32
+        }
+      ],
+      "subtotal": 13600.92,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 13610.92,
+      "amount_paid": 0.0,
+      "balance_due": 13610.92,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801475684113",
+      "po_number": "PO-92566",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2862,
+  "Output_tokens": 681,
+  "Output_thinking_tokens": 165,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028619999999999996,
+    "Output_tokens": 0.0003405,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006267
+  }
+}

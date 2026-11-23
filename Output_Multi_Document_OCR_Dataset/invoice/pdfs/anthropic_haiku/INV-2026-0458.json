@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0458",
+      "invoice_number": "INV-2026-0458",
+      "company_name": "Metro Print House",
+      "company_address": "78 Al Barsha, Riyadh, Saudi Arabia",
+      "customer_name": "TechPoint BD",
+      "billing_address": "228 Al Barsha, Dubai, UAE",
+      "invoice_date": "2026-01-13",
+      "due_date": "2026-01-20",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 7.0,
+          "unit_price": 678.76,
+          "amount": 4751.32
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 769.96,
+          "amount": 3079.84
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 8.0,
+          "unit_price": 119.19,
+          "amount": 953.52
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 582.22,
+          "amount": 4075.54
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 4.0,
+          "unit_price": 172.17,
+          "amount": 688.68
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 2.0,
+          "unit_price": 242.63,
+          "amount": 485.26
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 11.0,
+          "unit_price": 704.68,
+          "amount": 7751.48
+        }
+      ],
+      "subtotal": 21785.64,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 1089.28,
+      "shipping": 50.0,
+      "total": 22924.92,
+      "amount_paid": 0.0,
+      "balance_due": 22924.92,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801314509359",
+      "po_number": "PO-09467",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5015,
+  "Output_tokens": 1383,
+  "Output_thinking_tokens": 793,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005015,
+    "Output_tokens": 0.0006915,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001193
+  }
+}

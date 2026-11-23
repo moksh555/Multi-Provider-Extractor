@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0623",
+      "invoice_number": "INV-2026-0623",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "99 Al Barsha, Doha, Qatar",
+      "customer_name": "Rahim Traders",
+      "billing_address": "243 Agrabad C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-04",
+      "due_date": "2026-03-11",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 10.0,
+          "unit_price": 432.23,
+          "amount": 4322.3
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 477.58,
+          "amount": 955.16
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 12.0,
+          "unit_price": 267.69,
+          "amount": 3212.28
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 204.0,
+          "amount": 2040.0
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 735.08,
+          "amount": 8820.96
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 12.0,
+          "unit_price": 95.44,
+          "amount": 1145.28
+        }
+      ],
+      "subtotal": 20495.98,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 2049.6,
+      "shipping": 10.0,
+      "total": 22555.58,
+      "amount_paid": 0.0,
+      "balance_due": 22555.58,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801485481582",
+      "po_number": "PO-94563",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4997,
+  "Output_tokens": 1275,
+  "Output_thinking_tokens": 714,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004997000000000001,
+    "Output_tokens": 0.0006375,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011372
+  }
+}

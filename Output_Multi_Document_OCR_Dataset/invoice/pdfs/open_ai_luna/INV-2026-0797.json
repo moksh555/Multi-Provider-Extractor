@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0797",
+      "invoice_number": "INV-2026-0797",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "153 Doha Business Park, Riyadh, Saudi Arabia",
+      "customer_name": "TechPoint BD",
+      "billing_address": "241 Agrabad C/A, Dubai, UAE",
+      "invoice_date": "2026-03-06",
+      "due_date": "2026-03-13",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 12.0,
+          "unit_price": 837.26,
+          "amount": 10047.12
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 605.61,
+          "amount": 6661.71
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 5.0,
+          "unit_price": 148.55,
+          "amount": 742.75
+        },
+        {
+          "description": "API Integration",
+          "quantity": 4.0,
+          "unit_price": 428.7,
+          "amount": 1714.8
+        }
+      ],
+      "subtotal": 19166.38,
+      "discount": 1916.64,
+      "tax_rate": 0.07,
+      "tax": 1293.73,
+      "shipping": 0.0,
+      "total": 18543.47,
+      "amount_paid": 0.0,
+      "balance_due": 18543.47,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801281634445",
+      "po_number": "PO-43274",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 1293.73; recomputed tax is 1207.48."
+    }
+  ],
+  "Input_tokens": 2741,
+  "Output_tokens": 528,
+  "Output_thinking_tokens": 202,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027410000000000005,
+    "Output_tokens": 0.000264,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005381000000000001
+  }
+}

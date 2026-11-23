@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0216",
+      "invoice_number": "INV-2026-0216",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "152 Jumeirah Lake Towers, Doha, Qatar",
+      "customer_name": "Future School",
+      "billing_address": "126 Gulshan Avenue, Doha, Qatar",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-06",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 475.08,
+          "amount": 475.08
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 40.96,
+          "amount": 81.92
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 557.52,
+          "amount": 2230.08
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 224.19,
+          "amount": 2017.71
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 2.0,
+          "unit_price": 833.1,
+          "amount": 1666.2
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 314.12,
+          "amount": 1570.6
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 364.21,
+          "amount": 1092.63
+        }
+      ],
+      "subtotal": 9134.22,
+      "discount": 913.42,
+      "tax_rate": 0.05,
+      "tax": 411.04,
+      "shipping": 50.0,
+      "total": 8681.84,
+      "amount_paid": 8681.84,
+      "balance_due": 0.0,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801209925143",
+      "po_number": "PO-99656",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2942,
+  "Output_tokens": 591,
+  "Output_thinking_tokens": 228,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002942,
+    "Output_tokens": 0.0002955,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005897000000000001
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0019",
+      "invoice_number": "INV-2026-0019",
+      "company_name": "Greenline Logistics",
+      "company_address": "39 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "166 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-06",
+      "due_date": "2026-02-13",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 5.0,
+          "unit_price": 377.77,
+          "amount": 1888.85
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 264.04,
+          "amount": 3168.48
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 429.4,
+          "amount": 2147.0
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 75.73,
+          "amount": 605.84
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 7.0,
+          "unit_price": 626.48,
+          "amount": 4385.36
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 29.78,
+          "amount": 148.9
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 711.88,
+          "amount": 7830.68
+        }
+      ],
+      "subtotal": 20175.11,
+      "discount": 2017.51,
+      "tax_rate": 0.07,
+      "tax": 1361.82,
+      "shipping": 25.0,
+      "total": 19544.42,
+      "amount_paid": 0.0,
+      "balance_due": 19544.42,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801996207469",
+      "po_number": "PO-15640",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1361.82; recomputed tax 1271.03."
+    }
+  ],
+  "Input_tokens": 2932,
+  "Output_tokens": 817,
+  "Output_thinking_tokens": 239,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029319999999999997,
+    "Output_tokens": 0.0004085,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007017
+  }
+}

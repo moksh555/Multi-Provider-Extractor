@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0554",
+      "invoice_number": "INV-2026-0554",
+      "company_name": "BrightStar Electronics",
+      "company_address": "116 Mirpur DOHS, Chattogram, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "15 Agrabad C/A, Doha, Qatar",
+      "invoice_date": "2026-04-30",
+      "due_date": "2026-05-30",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 8.0,
+          "unit_price": 43.85,
+          "amount": 350.8
+        },
+        {
+          "description": "API Integration",
+          "quantity": 9.0,
+          "unit_price": 414.66,
+          "amount": 3731.94
+        }
+      ],
+      "subtotal": 4082.74,
+      "discount": 408.27,
+      "tax_rate": 0.15,
+      "tax": 551.17,
+      "shipping": 0.0,
+      "total": 4225.64,
+      "amount_paid": 4225.64,
+      "balance_due": 0.0,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801197565768",
+      "po_number": "PO-22069",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2612,
+  "Output_tokens": 537,
+  "Output_thinking_tokens": 179,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002612,
+    "Output_tokens": 0.0002685,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005297
+  }
+}

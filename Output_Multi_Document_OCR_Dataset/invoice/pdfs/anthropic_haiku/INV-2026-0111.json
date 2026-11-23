@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0111",
+      "invoice_number": "INV-2026-0111",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "111 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "27 Zindabazar Road, Doha, Qatar",
+      "invoice_date": "2026-02-09",
+      "due_date": "2026-02-16",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 535.5,
+          "amount": 4284.0
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 9.0,
+          "unit_price": 714.03,
+          "amount": 6426.27
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 1.0,
+          "unit_price": 566.71,
+          "amount": 566.71
+        },
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 401.38,
+          "amount": 3211.04
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 469.88,
+          "amount": 2349.4
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 462.08,
+          "amount": 5544.96
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 392.41,
+          "amount": 3924.1
+        }
+      ],
+      "subtotal": 26306.48,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 1315.32,
+      "shipping": 50.0,
+      "total": 27671.8,
+      "amount_paid": 15715.52,
+      "balance_due": 11956.28,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801465942034",
+      "po_number": "PO-10571",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5025,
+  "Output_tokens": 1353,
+  "Output_thinking_tokens": 753,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005025,
+    "Output_tokens": 0.0006765,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001179
+  }
+}

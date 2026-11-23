@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0552",
+      "invoice_number": "INV-2026-0552",
+      "company_name": "Golden Harvest Store",
+      "company_address": "133 Doha Business Park, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "247 Al Barsha, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-18",
+      "due_date": "2026-06-17",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 517.43,
+          "amount": 517.43
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 677.21,
+          "amount": 6094.89
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 1.0,
+          "unit_price": 297.91,
+          "amount": 297.91
+        }
+      ],
+      "subtotal": 6910.23,
+      "discount": 345.51,
+      "tax_rate": 0.07,
+      "tax": 492.35,
+      "shipping": 25.0,
+      "total": 7082.07,
+      "amount_paid": 4397.92,
+      "balance_due": 2684.15,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801708428336",
+      "po_number": "PO-13680",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 492.35; recomputed 459.53."
+    }
+  ],
+  "Input_tokens": 2678,
+  "Output_tokens": 581,
+  "Output_thinking_tokens": 279,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002678,
+    "Output_tokens": 0.0002905,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005583000000000001
+  }
+}

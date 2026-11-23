@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0368",
+      "invoice_number": "INV-2026-0368",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "66 Uttara Sector 7, Chattogram, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "102 Road 12, Banani, Dubai, UAE",
+      "invoice_date": "2026-01-13",
+      "due_date": "2026-01-20",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 10.0,
+          "unit_price": 566.51,
+          "amount": 5665.1
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 10.0,
+          "unit_price": 187.7,
+          "amount": 1877.0
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 664.49,
+          "amount": 3322.45
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 7.0,
+          "unit_price": 480.16,
+          "amount": 3361.12
+        },
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 466.94,
+          "amount": 1400.82
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 1.0,
+          "unit_price": 584.84,
+          "amount": 584.84
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 552.64,
+          "amount": 3315.84
+        }
+      ],
+      "subtotal": 19527.17,
+      "discount": 1952.72,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 17584.45,
+      "amount_paid": 0.0,
+      "balance_due": 17584.45,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801097122147",
+      "po_number": "PO-37296",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4993,
+  "Output_tokens": 1360,
+  "Output_thinking_tokens": 775,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004993,
+    "Output_tokens": 0.00068,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011793
+  }
+}

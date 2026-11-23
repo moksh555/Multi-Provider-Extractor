@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0659",
+      "invoice_number": "INV-2026-0659",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "42 Road 12, Banani, Chattogram, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "84 Sheikh Zayed Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-14",
+      "due_date": "2026-03-21",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 843.36,
+          "amount": 5060.16
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 12.0,
+          "unit_price": 582.21,
+          "amount": 6986.52
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 269.1,
+          "amount": 1883.7
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 262.66,
+          "amount": 2101.28
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 2.0,
+          "unit_price": 824.21,
+          "amount": 1648.42
+        }
+      ],
+      "subtotal": 17680.08,
+      "discount": 1768.01,
+      "tax_rate": 0.05,
+      "tax": 795.6,
+      "shipping": 5.0,
+      "total": 16712.67,
+      "amount_paid": 0.0,
+      "balance_due": 16712.67,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801511519975",
+      "po_number": "PO-02655",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2811,
+  "Output_tokens": 597,
+  "Output_thinking_tokens": 265,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002811,
+    "Output_tokens": 0.0002985,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005796
+  }
+}

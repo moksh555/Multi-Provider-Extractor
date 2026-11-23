@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0716",
+      "invoice_number": "INV-2026-0716",
+      "company_name": "Greenline Logistics",
+      "company_address": "41 Uttara Sector 7, Doha, Qatar",
+      "customer_name": "Bengal Motors",
+      "billing_address": "100 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-21",
+      "due_date": "2026-04-28",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 397.43,
+          "amount": 2384.58
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 749.66,
+          "amount": 1499.32
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 7.0,
+          "unit_price": 122.72,
+          "amount": 859.04
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 595.28,
+          "amount": 4166.96
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 9.0,
+          "unit_price": 523.6,
+          "amount": 4712.4
+        }
+      ],
+      "subtotal": 13622.3,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2043.34,
+      "shipping": 5.0,
+      "total": 15670.64,
+      "amount_paid": 9795.05,
+      "balance_due": 5875.59,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801325641296",
+      "po_number": "PO-30852",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2808,
+  "Output_tokens": 566,
+  "Output_thinking_tokens": 239,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002808,
+    "Output_tokens": 0.000283,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005637999999999999
+  }
+}

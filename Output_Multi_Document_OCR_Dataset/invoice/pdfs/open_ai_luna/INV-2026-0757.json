@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0757",
+      "invoice_number": "INV-2026-0757",
+      "company_name": "CityBanking Supplies",
+      "company_address": "102 Mirpur DOHS, Chattogram, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "30 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-23",
+      "due_date": "2026-06-30",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 819.88,
+          "amount": 5739.16
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 2.0,
+          "unit_price": 380.39,
+          "amount": 760.78
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 648.24,
+          "amount": 2592.96
+        }
+      ],
+      "subtotal": 9092.9,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 9142.9,
+      "amount_paid": 0.0,
+      "balance_due": 9142.9,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801499760406",
+      "po_number": "PO-69015",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2691,
+  "Output_tokens": 400,
+  "Output_thinking_tokens": 128,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026910000000000004,
+    "Output_tokens": 0.0002,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00046910000000000007
+  }
+}

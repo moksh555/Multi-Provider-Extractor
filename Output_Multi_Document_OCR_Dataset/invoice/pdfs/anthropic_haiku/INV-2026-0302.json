@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0302",
+      "invoice_number": "INV-2026-0302",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "119 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "143 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-21",
+      "due_date": "2026-03-08",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 282.06,
+          "amount": 846.18
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 507.26,
+          "amount": 6087.12
+        }
+      ],
+      "subtotal": 6933.3,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 520.0,
+      "shipping": 0.0,
+      "total": 7453.3,
+      "amount_paid": 0.0,
+      "balance_due": 7453.3,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801397295003",
+      "po_number": "PO-54248",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 520.00 does not match recomputed tax 485.33, where (subtotal 6933.30 - discount 0) x tax rate 0.07 = 485.331."
+    }
+  ],
+  "Input_tokens": 4896,
+  "Output_tokens": 1220,
+  "Output_thinking_tokens": 728,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004896,
+    "Output_tokens": 0.00061,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010996
+  }
+}

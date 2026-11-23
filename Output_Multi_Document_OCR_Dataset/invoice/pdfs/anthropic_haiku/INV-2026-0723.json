@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0723",
+      "invoice_number": "INV-2026-0723",
+      "company_name": "Summit Agro Foods",
+      "company_address": "129 Agrabad C/A, Chattogram, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "205 Gulshan Avenue, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-16",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 6.0,
+          "unit_price": 650.02,
+          "amount": 3900.12
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 9.0,
+          "unit_price": 301.8,
+          "amount": 2716.2
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 405.37,
+          "amount": 405.37
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 2.0,
+          "unit_price": 527.67,
+          "amount": 1055.34
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 9.0,
+          "unit_price": 256.33,
+          "amount": 2306.97
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 8.0,
+          "unit_price": 221.35,
+          "amount": 1770.8
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 7.0,
+          "unit_price": 582.14,
+          "amount": 4074.98
+        }
+      ],
+      "subtotal": 16229.78,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1622.98,
+      "shipping": 0.0,
+      "total": 17852.76,
+      "amount_paid": 0.0,
+      "balance_due": 17852.76,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801648631733",
+      "po_number": "PO-60980",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4990,
+  "Output_tokens": 1491,
+  "Output_thinking_tokens": 907,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000499,
+    "Output_tokens": 0.0007455,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012445
+  }
+}

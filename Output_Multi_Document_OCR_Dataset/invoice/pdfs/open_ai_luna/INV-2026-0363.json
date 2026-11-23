@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0363",
+      "invoice_number": "INV-2026-0363",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "113 Motijheel C/A, Chattogram, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "107 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-27",
+      "due_date": "2026-04-26",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 188.21,
+          "amount": 1882.1
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 4.0,
+          "unit_price": 249.21,
+          "amount": 996.84
+        },
+        {
+          "description": "API Integration",
+          "quantity": 3.0,
+          "unit_price": 291.01,
+          "amount": 873.03
+        },
+        {
+          "description": "API Integration",
+          "quantity": 6.0,
+          "unit_price": 507.68,
+          "amount": 3046.08
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 2.0,
+          "unit_price": 77.12,
+          "amount": 154.24
+        }
+      ],
+      "subtotal": 6952.29,
+      "discount": 347.61,
+      "tax_rate": 0.05,
+      "tax": 330.23,
+      "shipping": 50.0,
+      "total": 6984.91,
+      "amount_paid": 1775.88,
+      "balance_due": 5209.03,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801489761040",
+      "po_number": "PO-28696",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2803,
+  "Output_tokens": 461,
+  "Output_thinking_tokens": 134,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028030000000000004,
+    "Output_tokens": 0.0002305,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005108000000000001
+  }
+}

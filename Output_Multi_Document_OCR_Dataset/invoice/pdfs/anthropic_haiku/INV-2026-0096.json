@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0096",
+      "invoice_number": "INV-2026-0096",
+      "company_name": "Golden Harvest Store",
+      "company_address": "140 Uttara Sector 7, Dubai, UAE",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "12 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-19",
+      "due_date": "2026-03-21",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 535.88,
+          "amount": 535.88
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 538.05,
+          "amount": 5918.55
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 365.18,
+          "amount": 4016.98
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 4.0,
+          "unit_price": 460.79,
+          "amount": 1843.16
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 11.0,
+          "unit_price": 695.71,
+          "amount": 7652.81
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 12.0,
+          "unit_price": 585.65,
+          "amount": 7027.8
+        }
+      ],
+      "subtotal": 26995.18,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 26995.18,
+      "amount_paid": 26995.18,
+      "balance_due": 0.0,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801700120894",
+      "po_number": "PO-44331",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Line 3 (Printer Cartridge, qty 11 x unit price 365.18) failed the line check: printed amount 4016.98 vs recomputed 4015.98 (difference 1.00)."
+    }
+  ],
+  "Input_tokens": 4985,
+  "Output_tokens": 1521,
+  "Output_thinking_tokens": 901,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004985,
+    "Output_tokens": 0.0007605,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012590000000000001
+  }
+}

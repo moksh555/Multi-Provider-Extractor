@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0641",
+      "invoice_number": "INV-2026-0641",
+      "company_name": "Summit Agro Foods",
+      "company_address": "34 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "116 Mirpur DOHS, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-12",
+      "due_date": "2026-05-27",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 2.0,
+          "unit_price": 459.71,
+          "amount": 919.42
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 499.21,
+          "amount": 5990.52
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 11.0,
+          "unit_price": 52.99,
+          "amount": 582.89
+        }
+      ],
+      "subtotal": 7492.83,
+      "discount": 749.28,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 6753.55,
+      "amount_paid": 0.0,
+      "balance_due": 6753.55,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801657852585",
+      "po_number": "PO-46391",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2672,
+  "Output_tokens": 441,
+  "Output_thinking_tokens": 171,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002672,
+    "Output_tokens": 0.0002205,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004877
+  }
+}

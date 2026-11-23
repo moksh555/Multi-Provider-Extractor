@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0253",
+      "invoice_number": "INV-2026-0253",
+      "company_name": "Delta Insurance Services",
+      "company_address": "37 Zindabazar Road, Riyadh, Saudi Arabia",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "174 Jumeirah Lake Towers, Dubai, UAE",
+      "invoice_date": "2026-05-15",
+      "due_date": "2026-05-30",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 268.45,
+          "amount": 1342.25
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 10.0,
+          "unit_price": 445.91,
+          "amount": 4459.1
+        },
+        {
+          "description": "Web Development",
+          "quantity": 10.0,
+          "unit_price": 111.53,
+          "amount": 1115.3
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 10.0,
+          "unit_price": 823.18,
+          "amount": 8231.8
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 100.78,
+          "amount": 503.9
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 788.73,
+          "amount": 6309.84
+        }
+      ],
+      "subtotal": 21962.19,
+      "discount": 1098.11,
+      "tax_rate": 0.07,
+      "tax": 1564.81,
+      "shipping": 0.0,
+      "total": 22428.89,
+      "amount_paid": 10836.71,
+      "balance_due": 11592.18,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801525140242",
+      "po_number": "PO-81403",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 1564.81; recomputed tax is 1460.49."
+    }
+  ],
+  "Input_tokens": 2874,
+  "Output_tokens": 761,
+  "Output_thinking_tokens": 382,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028740000000000005,
+    "Output_tokens": 0.0003805,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006679
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0328",
+      "invoice_number": "INV-2026-0328",
+      "company_name": "Greenline Logistics",
+      "company_address": "65 Doha Business Park, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "146 Agrabad C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-18",
+      "due_date": "2026-07-18",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 403.94,
+          "amount": 1211.82
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 388.85,
+          "amount": 4277.35
+        },
+        {
+          "description": "API Integration",
+          "quantity": 7.0,
+          "unit_price": 50.85,
+          "amount": 355.95
+        }
+      ],
+      "subtotal": 5845.12,
+      "discount": 116.9,
+      "tax_rate": 0.07,
+      "tax": 429.62,
+      "shipping": 0.0,
+      "total": 6157.84,
+      "amount_paid": 0.0,
+      "balance_due": 6157.84,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801513514636",
+      "po_number": "PO-27514",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 429.62 does not match recomputed (subtotal 5845.12 - discount 116.90) x tax rate 0.07 = 400.98."
+    }
+  ],
+  "Input_tokens": 4891,
+  "Output_tokens": 1270,
+  "Output_thinking_tokens": 773,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004891,
+    "Output_tokens": 0.000635,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011241
+  }
+}

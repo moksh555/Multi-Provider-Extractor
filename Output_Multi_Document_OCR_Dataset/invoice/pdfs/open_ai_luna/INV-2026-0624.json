@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0624",
+      "invoice_number": "INV-2026-0624",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "177 Motijheel C/A, Riyadh, Saudi Arabia",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "42 Uttara Sector 7, Dubai, UAE",
+      "invoice_date": "2026-02-14",
+      "due_date": "2026-03-01",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 441.53,
+          "amount": 5298.36
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 587.12,
+          "amount": 7045.44
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 342.34,
+          "amount": 3765.74
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 6.0,
+          "unit_price": 150.3,
+          "amount": 901.8
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 515.07,
+          "amount": 5665.77
+        }
+      ],
+      "subtotal": 22677.11,
+      "discount": 1133.86,
+      "tax_rate": 0.1,
+      "tax": 2154.33,
+      "shipping": 50.0,
+      "total": 23747.58,
+      "amount_paid": 0.0,
+      "balance_due": 23747.58,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801902585136",
+      "po_number": "PO-41364",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2823,
+  "Output_tokens": 611,
+  "Output_thinking_tokens": 286,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028230000000000003,
+    "Output_tokens": 0.0003055,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005878000000000001
+  }
+}

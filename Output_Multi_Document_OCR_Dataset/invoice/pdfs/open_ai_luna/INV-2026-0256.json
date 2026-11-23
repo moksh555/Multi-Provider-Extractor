@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0256",
+      "invoice_number": "INV-2026-0256",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "133 Doha Business Park, Sylhet, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "222 Road 12, Banani, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-06",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 546.6,
+          "amount": 6012.6
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 5.0,
+          "unit_price": 536.98,
+          "amount": 2684.9
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 533.13,
+          "amount": 4265.04
+        }
+      ],
+      "subtotal": 12962.54,
+      "discount": 648.13,
+      "tax_rate": 0.15,
+      "tax": 1847.16,
+      "shipping": 0.0,
+      "total": 14161.57,
+      "amount_paid": 0.0,
+      "balance_due": 14161.57,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801018521053",
+      "po_number": "PO-92412",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2696,
+  "Output_tokens": 589,
+  "Output_thinking_tokens": 184,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026960000000000005,
+    "Output_tokens": 0.0002945,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005641000000000001
+  }
+}

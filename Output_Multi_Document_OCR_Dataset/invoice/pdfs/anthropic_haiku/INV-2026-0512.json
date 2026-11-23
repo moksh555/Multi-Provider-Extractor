@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0512",
+      "invoice_number": "INV-2026-0512",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "55 Al Barsha, Sylhet, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "89 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-15",
+      "due_date": "2026-04-29",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 54.63,
+          "amount": 218.52
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 27.81,
+          "amount": 194.67
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 480.83,
+          "amount": 1442.49
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 393.87,
+          "amount": 1181.61
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 2.0,
+          "unit_price": 617.11,
+          "amount": 1234.22
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 836.2,
+          "amount": 3344.8
+        }
+      ],
+      "subtotal": 7616.31,
+      "discount": 380.82,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 7235.49,
+      "amount_paid": 7235.49,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801794316253",
+      "po_number": "PO-44728",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4966,
+  "Output_tokens": 1260,
+  "Output_thinking_tokens": 712,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004966,
+    "Output_tokens": 0.00063,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011266000000000002
+  }
+}

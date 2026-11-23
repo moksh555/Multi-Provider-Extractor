@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0048",
+      "invoice_number": "INV-2026-0048",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "86 Sheikh Zayed Road, Doha, Qatar",
+      "customer_name": "Rahim Traders",
+      "billing_address": "28 Dhanmondi 27, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-27",
+      "due_date": "2026-06-11",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 623.6,
+          "amount": 1870.8
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 12.0,
+          "unit_price": 164.78,
+          "amount": 1977.36
+        }
+      ],
+      "subtotal": 3848.16,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 288.61,
+      "shipping": 50.0,
+      "total": 4186.77,
+      "amount_paid": 0.0,
+      "balance_due": 4186.77,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801757188850",
+      "po_number": "PO-61132",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 288.61 does not match recomputed (subtotal 3848.16 - discount 0) x tax rate 0.07 = 269.37 (difference 19.24). All other line, subtotal, total and balance checks pass."
+    }
+  ],
+  "Input_tokens": 4873,
+  "Output_tokens": 1165,
+  "Output_thinking_tokens": 678,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004873,
+    "Output_tokens": 0.0005825,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010698
+  }
+}

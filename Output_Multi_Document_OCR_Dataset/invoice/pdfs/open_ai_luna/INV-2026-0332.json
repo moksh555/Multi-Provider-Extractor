@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0332",
+      "invoice_number": "INV-2026-0332",
+      "company_name": "Golden Harvest Store",
+      "company_address": "76 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "126 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-22",
+      "due_date": "2026-03-08",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 212.57,
+          "amount": 425.14
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 6.0,
+          "unit_price": 62.7,
+          "amount": 376.2
+        }
+      ],
+      "subtotal": 801.34,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 120.2,
+      "shipping": 25.0,
+      "total": 946.54,
+      "amount_paid": 615.94,
+      "balance_due": 330.6,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801800886168",
+      "po_number": "PO-48711",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2606,
+  "Output_tokens": 392,
+  "Output_thinking_tokens": 142,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026060000000000005,
+    "Output_tokens": 0.000196,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00045660000000000004
+  }
+}

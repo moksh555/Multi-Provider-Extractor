@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0466",
+      "invoice_number": "INV-2026-0466",
+      "company_name": "Metro Print House",
+      "company_address": "32 Motijheel C/A, Chattogram, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "99 Dhanmondi 27, Dubai, UAE",
+      "invoice_date": "2026-06-26",
+      "due_date": "2026-07-03",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 273.01,
+          "amount": 1638.06
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 8.0,
+          "unit_price": 175.71,
+          "amount": 1405.68
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 333.11,
+          "amount": 3997.32
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 10.0,
+          "unit_price": 367.22,
+          "amount": 3672.2
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 8.0,
+          "unit_price": 379.64,
+          "amount": 3037.12
+        }
+      ],
+      "subtotal": 13750.38,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 13750.38,
+      "amount_paid": 9506.54,
+      "balance_due": 4243.84,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801616226571",
+      "po_number": "PO-31142",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2808,
+  "Output_tokens": 563,
+  "Output_thinking_tokens": 242,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002808,
+    "Output_tokens": 0.0002815,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005623
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0366",
+      "invoice_number": "INV-2026-0366",
+      "company_name": "Greenline Logistics",
+      "company_address": "26 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "216 Zindabazar Road, Dubai, UAE",
+      "invoice_date": "2026-02-17",
+      "due_date": "2026-04-03",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 821.96,
+          "amount": 9863.52
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 11.0,
+          "unit_price": 273.05,
+          "amount": 3003.55
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 162.9,
+          "amount": 1954.8
+        }
+      ],
+      "subtotal": 14821.87,
+      "discount": 741.09,
+      "tax_rate": 0.07,
+      "tax": 1056.06,
+      "shipping": 0.0,
+      "total": 15136.84,
+      "amount_paid": 0.0,
+      "balance_due": 15136.84,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801449182699",
+      "po_number": "PO-74767",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1056.06; recomputed tax (14821.87 - 741.09) × 0.07 = 985.65."
+    }
+  ],
+  "Input_tokens": 2683,
+  "Output_tokens": 497,
+  "Output_thinking_tokens": 177,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002683,
+    "Output_tokens": 0.0002485,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005168
+  }
+}

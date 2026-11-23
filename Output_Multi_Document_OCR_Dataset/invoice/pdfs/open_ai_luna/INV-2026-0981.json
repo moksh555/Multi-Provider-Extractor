@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0981",
+      "invoice_number": "INV-2026-0981",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "173 Uttara Sector 7, Chattogram, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "222 Doha Business Park, Dubai, UAE",
+      "invoice_date": "2026-04-15",
+      "due_date": "2026-05-15",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 8.0,
+          "unit_price": 552.07,
+          "amount": 4416.56
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 34.73,
+          "amount": 104.19
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 7.0,
+          "unit_price": 111.94,
+          "amount": 783.58
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 2.0,
+          "unit_price": 415.24,
+          "amount": 830.48
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 295.58,
+          "amount": 295.58
+        }
+      ],
+      "subtotal": 6430.39,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 482.28,
+      "shipping": 5.0,
+      "total": 6917.67,
+      "amount_paid": 6917.67,
+      "balance_due": 0.0,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801955113997",
+      "po_number": "PO-51450",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed value 482.28; recomputed value 450.13."
+    }
+  ],
+  "Input_tokens": 2812,
+  "Output_tokens": 709,
+  "Output_thinking_tokens": 215,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002812,
+    "Output_tokens": 0.0003545,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006357
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0120",
+      "invoice_number": "INV-2026-0120",
+      "company_name": "Summit Agro Foods",
+      "company_address": "96 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "147 Doha Business Park, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-21",
+      "due_date": "2026-07-05",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 412.94,
+          "amount": 1238.82
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 340.86,
+          "amount": 2726.88
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 480.5,
+          "amount": 1922.0
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 212.03,
+          "amount": 848.12
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 280.31,
+          "amount": 1962.17
+        }
+      ],
+      "subtotal": 8697.99,
+      "discount": 869.8,
+      "tax_rate": 0.1,
+      "tax": 782.82,
+      "shipping": 25.0,
+      "total": 8636.01,
+      "amount_paid": 8636.01,
+      "balance_due": 0.0,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801143136713",
+      "po_number": "PO-88649",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4941,
+  "Output_tokens": 1160,
+  "Output_thinking_tokens": 642,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004941,
+    "Output_tokens": 0.00058,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010741000000000001
+  }
+}

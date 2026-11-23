@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0993",
+      "invoice_number": "INV-2026-0993",
+      "company_name": "BrightStar Electronics",
+      "company_address": "26 Uttara Sector 7, Sylhet, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "109 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-18",
+      "due_date": "2026-03-05",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 36.4,
+          "amount": 254.8
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 699.73,
+          "amount": 7697.03
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 2.0,
+          "unit_price": 589.85,
+          "amount": 1179.7
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 833.5,
+          "amount": 6668.0
+        }
+      ],
+      "subtotal": 15799.53,
+      "discount": 1579.95,
+      "tax_rate": 0.07,
+      "tax": 1066.47,
+      "shipping": 50.0,
+      "total": 15336.05,
+      "amount_paid": 0.0,
+      "balance_due": 15336.05,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801962482169",
+      "po_number": "PO-58044",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Line check failed for Web Development: printed amount 7697.03 vs recomputed 11 x 699.73 = 7696.03 (difference 1.00). Tax check failed: printed tax 1066.47 vs recomputed (15799.53 - 1579.95) x 0.07 = 995.37 (difference 71.10)."
+    }
+  ],
+  "Input_tokens": 4924,
+  "Output_tokens": 1605,
+  "Output_thinking_tokens": 1002,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004924,
+    "Output_tokens": 0.0008025,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012949
+  }
+}

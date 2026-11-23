@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0553",
+      "invoice_number": "INV-2026-0553",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "160 Agrabad C/A, Dhaka, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "184 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-21",
+      "due_date": "2026-03-28",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 158.05,
+          "amount": 474.15
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 581.38,
+          "amount": 581.38
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 7.0,
+          "unit_price": 339.46,
+          "amount": 2376.22
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 12.0,
+          "unit_price": 623.83,
+          "amount": 7485.96
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 321.01,
+          "amount": 2889.09
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 9.0,
+          "unit_price": 344.24,
+          "amount": 3098.16
+        }
+      ],
+      "subtotal": 16904.96,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 16909.96,
+      "amount_paid": 9540.11,
+      "balance_due": 7369.85,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801765031609",
+      "po_number": "PO-24687",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2890,
+  "Output_tokens": 752,
+  "Output_thinking_tokens": 236,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000289,
+    "Output_tokens": 0.000376,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000665
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0819",
+      "invoice_number": "INV-2026-0819",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "67 Dhanmondi 27, Doha, Qatar",
+      "customer_name": "Global Mart",
+      "billing_address": "82 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-01-23",
+      "due_date": "2026-02-22",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 7.0,
+          "unit_price": 353.86,
+          "amount": 2477.02
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 727.24,
+          "amount": 2181.72
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 611.43,
+          "amount": 7337.16
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 182.47,
+          "amount": 547.41
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 9.32,
+          "amount": 18.64
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 12.0,
+          "unit_price": 681.94,
+          "amount": 8183.28
+        }
+      ],
+      "subtotal": 20745.23,
+      "discount": 2074.52,
+      "tax_rate": 0.05,
+      "tax": 933.54,
+      "shipping": 25.0,
+      "total": 19629.25,
+      "amount_paid": 0.0,
+      "balance_due": 19629.25,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801740165396",
+      "po_number": "PO-82846",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4982,
+  "Output_tokens": 1249,
+  "Output_thinking_tokens": 696,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004982000000000001,
+    "Output_tokens": 0.0006245,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011227
+  }
+}

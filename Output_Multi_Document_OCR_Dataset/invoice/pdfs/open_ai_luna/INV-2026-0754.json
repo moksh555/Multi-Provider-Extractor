@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0754",
+      "invoice_number": "INV-2026-0754",
+      "company_name": "Delta Insurance Services",
+      "company_address": "154 Doha Business Park, Riyadh, Saudi Arabia",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "22 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-18",
+      "due_date": "2026-04-17",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 3.0,
+          "unit_price": 588.71,
+          "amount": 1766.13
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 726.43,
+          "amount": 8717.16
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 3.0,
+          "unit_price": 689.18,
+          "amount": 2067.54
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 8.0,
+          "unit_price": 760.93,
+          "amount": 6087.44
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 11.0,
+          "unit_price": 830.23,
+          "amount": 9132.53
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2.0,
+          "unit_price": 340.05,
+          "amount": 680.1
+        }
+      ],
+      "subtotal": 28450.9,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 4267.64,
+      "shipping": 5.0,
+      "total": 32723.54,
+      "amount_paid": 32723.54,
+      "balance_due": 0.0,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801867083221",
+      "po_number": "PO-80816",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2869,
+  "Output_tokens": 602,
+  "Output_thinking_tokens": 256,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028690000000000003,
+    "Output_tokens": 0.000301,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005879
+  }
+}

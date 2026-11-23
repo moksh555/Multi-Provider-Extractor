@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0744",
+      "invoice_number": "INV-2026-0744",
+      "company_name": "Greenline Logistics",
+      "company_address": "80 Doha Business Park, Doha, Qatar",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "3 Road 12, Banani, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-03-24",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 1.0,
+          "unit_price": 290.02,
+          "amount": 290.02
+        },
+        {
+          "description": "Web Development",
+          "quantity": 5.0,
+          "unit_price": 468.28,
+          "amount": 2341.4
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10.0,
+          "unit_price": 443.35,
+          "amount": 4433.5
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 9.0,
+          "unit_price": 735.88,
+          "amount": 6622.92
+        },
+        {
+          "description": "API Integration",
+          "quantity": 3.0,
+          "unit_price": 823.38,
+          "amount": 2470.14
+        }
+      ],
+      "subtotal": 16157.98,
+      "discount": 1615.8,
+      "tax_rate": 0.07,
+      "tax": 1090.66,
+      "shipping": 5.0,
+      "total": 15637.84,
+      "amount_paid": 0.0,
+      "balance_due": 15637.84,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801927230124",
+      "po_number": "PO-17969",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1090.66; recomputed tax (16157.98 − 1615.80) × 0.07 = 1017.95."
+    }
+  ],
+  "Input_tokens": 2805,
+  "Output_tokens": 798,
+  "Output_thinking_tokens": 278,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002805,
+    "Output_tokens": 0.000399,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006795
+  }
+}

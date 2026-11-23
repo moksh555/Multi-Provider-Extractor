@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0795",
+      "invoice_number": "INV-2026-0795",
+      "company_name": "Greenline Logistics",
+      "company_address": "111 Jumeirah Lake Towers, Dubai, UAE",
+      "customer_name": "Bengal Motors",
+      "billing_address": "80 Uttara Sector 7, Dubai, UAE",
+      "invoice_date": "2026-05-08",
+      "due_date": "2026-06-07",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 731.81,
+          "amount": 5122.67
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 18.54,
+          "amount": 129.78
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 818.3,
+          "amount": 5728.1
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 727.75,
+          "amount": 2183.25
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 109.16,
+          "amount": 327.48
+        }
+      ],
+      "subtotal": 13491.28,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 13491.28,
+      "amount_paid": 0.0,
+      "balance_due": 13491.28,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801615985854",
+      "po_number": "PO-77127",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4942,
+  "Output_tokens": 1186,
+  "Output_thinking_tokens": 677,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004942000000000001,
+    "Output_tokens": 0.000593,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010872
+  }
+}

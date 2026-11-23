@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0210",
+      "invoice_number": "INV-2026-0210",
+      "company_name": "BrightStar Electronics",
+      "company_address": "172 Dhanmondi 27, Dhaka, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "249 Doha Business Park, Sylhet, Bangladesh",
+      "invoice_date": "2026-06-23",
+      "due_date": "2026-08-07",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 798.71,
+          "amount": 5590.97
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 729.68,
+          "amount": 8026.48
+        }
+      ],
+      "subtotal": 13617.45,
+      "discount": 1361.75,
+      "tax_rate": 0.1,
+      "tax": 1225.57,
+      "shipping": 0.0,
+      "total": 13481.27,
+      "amount_paid": 0.0,
+      "balance_due": 13481.27,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801367887704",
+      "po_number": "PO-08994",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4886,
+  "Output_tokens": 1125,
+  "Output_thinking_tokens": 712,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004886000000000001,
+    "Output_tokens": 0.0005625,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010511000000000001
+  }
+}

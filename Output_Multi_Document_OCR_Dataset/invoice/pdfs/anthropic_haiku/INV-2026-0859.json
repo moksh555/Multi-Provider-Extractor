@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0859",
+      "invoice_number": "INV-2026-0859",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "97 Road 12, Banani, Chattogram, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "176 Doha Business Park, Dubai, UAE",
+      "invoice_date": "2026-06-21",
+      "due_date": "2026-07-21",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 12.0,
+          "unit_price": 23.61,
+          "amount": 283.32
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 405.48,
+          "amount": 405.48
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 480.17,
+          "amount": 480.17
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 2.0,
+          "unit_price": 741.73,
+          "amount": 1483.46
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 500.02,
+          "amount": 4500.18
+        }
+      ],
+      "subtotal": 7152.61,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1072.89,
+      "shipping": 5.0,
+      "total": 8230.5,
+      "amount_paid": 8230.5,
+      "balance_due": 0.0,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801156340203",
+      "po_number": "PO-67679",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4942,
+  "Output_tokens": 1082,
+  "Output_thinking_tokens": 584,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004942000000000001,
+    "Output_tokens": 0.000541,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010352
+  }
+}

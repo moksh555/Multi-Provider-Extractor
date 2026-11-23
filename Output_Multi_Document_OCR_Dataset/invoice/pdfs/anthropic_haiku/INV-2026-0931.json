@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0931",
+      "invoice_number": "INV-2026-0931",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "177 Mirpur DOHS, Dhaka, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "131 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-01",
+      "due_date": "2026-04-16",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 3.0,
+          "unit_price": 359.16,
+          "amount": 1077.48
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 289.37,
+          "amount": 868.11
+        }
+      ],
+      "subtotal": 1945.59,
+      "discount": 194.56,
+      "tax_rate": 0.1,
+      "tax": 175.1,
+      "shipping": 0.0,
+      "total": 1926.13,
+      "amount_paid": 0.0,
+      "balance_due": 1926.13,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801742729082",
+      "po_number": "PO-08610",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4878,
+  "Output_tokens": 989,
+  "Output_thinking_tokens": 574,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004878,
+    "Output_tokens": 0.0004945,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009823
+  }
+}

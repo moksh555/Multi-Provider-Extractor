@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0124",
+      "invoice_number": "INV-2026-0124",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "58 Gulshan Avenue, Chattogram, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "48 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-06-07",
+      "due_date": "2026-07-07",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 74.92,
+          "amount": 449.52
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 430.96,
+          "amount": 1292.88
+        },
+        {
+          "description": "API Integration",
+          "quantity": 8.0,
+          "unit_price": 607.52,
+          "amount": 4860.16
+        }
+      ],
+      "subtotal": 6602.56,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 990.38,
+      "shipping": 5.0,
+      "total": 7597.94,
+      "amount_paid": 0.0,
+      "balance_due": 7597.94,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801841107024",
+      "po_number": "PO-79709",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4897,
+  "Output_tokens": 958,
+  "Output_thinking_tokens": 520,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004897,
+    "Output_tokens": 0.000479,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009687000000000001
+  }
+}

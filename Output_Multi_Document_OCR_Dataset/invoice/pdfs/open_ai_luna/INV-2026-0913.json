@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0913",
+      "invoice_number": "INV-2026-0913",
+      "company_name": "Greenline Logistics",
+      "company_address": "172 Doha Business Park, Chattogram, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "171 Doha Business Park, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-18",
+      "due_date": "2026-07-03",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 285.88,
+          "amount": 3430.56
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 498.08,
+          "amount": 996.16
+        },
+        {
+          "description": "Web Development",
+          "quantity": 1.0,
+          "unit_price": 692.79,
+          "amount": 692.79
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 1.0,
+          "unit_price": 318.83,
+          "amount": 318.83
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 475.69,
+          "amount": 3805.52
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 113.93,
+          "amount": 227.86
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 6.0,
+          "unit_price": 135.78,
+          "amount": 814.68
+        }
+      ],
+      "subtotal": 10286.4,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 771.48,
+      "shipping": 25.0,
+      "total": 11082.88,
+      "amount_paid": 4389.43,
+      "balance_due": 6693.45,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801651792510",
+      "po_number": "PO-73244",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 771.48; recomputed 720.05."
+    }
+  ],
+  "Input_tokens": 2943,
+  "Output_tokens": 599,
+  "Output_thinking_tokens": 215,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002943,
+    "Output_tokens": 0.0002995,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005938
+  }
+}

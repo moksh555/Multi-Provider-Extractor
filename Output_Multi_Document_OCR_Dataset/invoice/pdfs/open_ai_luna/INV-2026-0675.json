@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0675",
+      "invoice_number": "INV-2026-0675",
+      "company_name": "Golden Harvest Store",
+      "company_address": "99 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "214 Al Barsha, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-29",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 352.2,
+          "amount": 3874.2
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 3.0,
+          "unit_price": 671.0,
+          "amount": 2013.0
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 536.83,
+          "amount": 2684.15
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 4.0,
+          "unit_price": 353.68,
+          "amount": 1414.72
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 4.0,
+          "unit_price": 632.48,
+          "amount": 2529.92
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 9.58,
+          "amount": 76.64
+        }
+      ],
+      "subtotal": 12592.63,
+      "discount": 251.85,
+      "tax_rate": 0.1,
+      "tax": 1234.08,
+      "shipping": 0.0,
+      "total": 13574.86,
+      "amount_paid": 6549.97,
+      "balance_due": 7024.89,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801459607457",
+      "po_number": "PO-86913",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2874,
+  "Output_tokens": 844,
+  "Output_thinking_tokens": 318,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028740000000000005,
+    "Output_tokens": 0.000422,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007094
+  }
+}

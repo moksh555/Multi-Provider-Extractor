@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0521",
+      "invoice_number": "INV-2026-0521",
+      "company_name": "Summit Agro Foods",
+      "company_address": "139 Sheikh Zayed Road, Dubai, UAE",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "220 Gulshan Avenue, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-16",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 770.71,
+          "amount": 1541.42
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 6.0,
+          "unit_price": 687.65,
+          "amount": 4125.9
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 506.7,
+          "amount": 2026.8
+        }
+      ],
+      "subtotal": 7694.12,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 577.06,
+      "shipping": 25.0,
+      "total": 8296.18,
+      "amount_paid": 4138.76,
+      "balance_due": 4157.42,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801323906517",
+      "po_number": "PO-02278",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 577.06 does not equal (subtotal 7694.12 - discount 0.00) x printed tax rate 0.07, which recomputes to 538.59. All other checks passed: line amounts, subtotal, total, and balance due."
+    }
+  ],
+  "Input_tokens": 4909,
+  "Output_tokens": 1335,
+  "Output_thinking_tokens": 793,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004909000000000001,
+    "Output_tokens": 0.0006675,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011584
+  }
+}

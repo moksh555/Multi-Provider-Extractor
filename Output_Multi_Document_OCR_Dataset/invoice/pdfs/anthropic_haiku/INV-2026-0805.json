@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0805",
+      "invoice_number": "INV-2026-0805",
+      "company_name": "BrightStar Electronics",
+      "company_address": "177 Dhanmondi 27, Sylhet, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "181 Uttara Sector 7, Doha, Qatar",
+      "invoice_date": "2026-06-01",
+      "due_date": "2026-06-16",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 3.0,
+          "unit_price": 648.36,
+          "amount": 1945.08
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 12.0,
+          "unit_price": 347.74,
+          "amount": 4172.88
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 289.33,
+          "amount": 2314.64
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 412.91,
+          "amount": 412.91
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 801.44,
+          "amount": 8815.84
+        }
+      ],
+      "subtotal": 17661.35,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1324.6,
+      "shipping": 0.0,
+      "total": 18985.95,
+      "amount_paid": 18985.95,
+      "balance_due": 0.0,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801183021143",
+      "po_number": "PO-65266",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1324.60 vs recomputed 1236.29 (subtotal 17661.35 - discount 0 = 17661.35, x tax rate 0.07 = 1236.2945). All line amounts, subtotal, total and balance due checks pass."
+    }
+  ],
+  "Input_tokens": 4937,
+  "Output_tokens": 1504,
+  "Output_thinking_tokens": 897,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004937,
+    "Output_tokens": 0.000752,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012457
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0862",
+      "invoice_number": "INV-2026-0862",
+      "company_name": "CityBanking Supplies",
+      "company_address": "140 Doha Business Park, Riyadh, Saudi Arabia",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "230 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-03-22",
+      "due_date": "2026-05-06",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 8.0,
+          "unit_price": 547.81,
+          "amount": 4382.48
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 807.58,
+          "amount": 4037.9
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 534.09,
+          "amount": 4272.72
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 460.98,
+          "amount": 3687.84
+        },
+        {
+          "description": "Web Development",
+          "quantity": 4.0,
+          "unit_price": 390.7,
+          "amount": 1562.8
+        }
+      ],
+      "subtotal": 17943.74,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 17943.74,
+      "amount_paid": 17943.74,
+      "balance_due": 0.0,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801922842659",
+      "po_number": "PO-92295",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4942,
+  "Output_tokens": 1154,
+  "Output_thinking_tokens": 646,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004942000000000001,
+    "Output_tokens": 0.000577,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010712
+  }
+}

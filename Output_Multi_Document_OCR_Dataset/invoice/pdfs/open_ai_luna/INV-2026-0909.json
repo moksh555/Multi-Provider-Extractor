@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0909",
+      "invoice_number": "INV-2026-0909",
+      "company_name": "BrightStar Electronics",
+      "company_address": "188 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "222 Gulshan Avenue, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-23",
+      "due_date": "2026-03-25",
+      "currency": "SAR",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 438.06,
+          "amount": 876.12
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 519.09,
+          "amount": 3633.63
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 10.0,
+          "unit_price": 116.33,
+          "amount": 1163.3
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 11.0,
+          "unit_price": 605.0,
+          "amount": 6655.0
+        }
+      ],
+      "subtotal": 12328.05,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 616.4,
+      "shipping": 25.0,
+      "total": 12969.45,
+      "amount_paid": 0.0,
+      "balance_due": 12969.45,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801885785555",
+      "po_number": "PO-86970",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2741,
+  "Output_tokens": 457,
+  "Output_thinking_tokens": 152,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027410000000000005,
+    "Output_tokens": 0.0002285,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005026000000000001
+  }
+}

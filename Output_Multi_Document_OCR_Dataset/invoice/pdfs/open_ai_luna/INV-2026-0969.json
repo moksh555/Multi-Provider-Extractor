@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0969",
+      "invoice_number": "INV-2026-0969",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "113 Road 12, Banani, Doha, Qatar",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "126 Jumeirah Lake Towers, Dubai, UAE",
+      "invoice_date": "2026-06-11",
+      "due_date": "2026-07-11",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 4.0,
+          "unit_price": 47.91,
+          "amount": 191.64
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 192.81,
+          "amount": 1542.48
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 216.19,
+          "amount": 2594.28
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 354.83,
+          "amount": 2483.81
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 561.49,
+          "amount": 4491.92
+        }
+      ],
+      "subtotal": 11304.13,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1130.41,
+      "shipping": 10.0,
+      "total": 12444.54,
+      "amount_paid": 0.0,
+      "balance_due": 12444.54,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801899776296",
+      "po_number": "PO-41398",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2807,
+  "Output_tokens": 481,
+  "Output_thinking_tokens": 151,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002807,
+    "Output_tokens": 0.0002405,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005212
+  }
+}

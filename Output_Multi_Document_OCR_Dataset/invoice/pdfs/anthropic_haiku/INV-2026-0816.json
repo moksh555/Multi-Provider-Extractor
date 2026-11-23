@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0816",
+      "invoice_number": "INV-2026-0816",
+      "company_name": "Metro Print House",
+      "company_address": "176 Dhanmondi 27, Doha, Qatar",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "24 Al Barsha, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-21",
+      "due_date": "2026-07-05",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 5.0,
+          "unit_price": 334.84,
+          "amount": 1674.2
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 82.36,
+          "amount": 905.96
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 694.61,
+          "amount": 4862.27
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 10.0,
+          "unit_price": 527.18,
+          "amount": 5271.8
+        },
+        {
+          "description": "Web Development",
+          "quantity": 4.0,
+          "unit_price": 85.34,
+          "amount": 341.36
+        },
+        {
+          "description": "Web Development",
+          "quantity": 6.0,
+          "unit_price": 688.41,
+          "amount": 4130.46
+        }
+      ],
+      "subtotal": 17186.05,
+      "discount": 1718.61,
+      "tax_rate": 0.07,
+      "tax": 1160.06,
+      "shipping": 10.0,
+      "total": 16637.5,
+      "amount_paid": 6746.11,
+      "balance_due": 9891.39,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801129675055",
+      "po_number": "PO-37536",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1160.06 does not match recomputed (subtotal 17186.05 - discount 1718.61) x tax rate 0.07 = 1082.72."
+    }
+  ],
+  "Input_tokens": 4974,
+  "Output_tokens": 1556,
+  "Output_thinking_tokens": 944,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004974000000000001,
+    "Output_tokens": 0.000778,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012754
+  }
+}

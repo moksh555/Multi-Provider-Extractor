@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0322",
+      "invoice_number": "INV-2026-0322",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "143 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "168 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-05-25",
+      "due_date": "2026-07-09",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 4.0,
+          "unit_price": 254.67,
+          "amount": 1018.68
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 374.39,
+          "amount": 2620.73
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 28.07,
+          "amount": 224.56
+        }
+      ],
+      "subtotal": 3863.97,
+      "discount": 77.28,
+      "tax_rate": 0.07,
+      "tax": 284.0,
+      "shipping": 0.0,
+      "total": 4070.69,
+      "amount_paid": 0.0,
+      "balance_due": 4070.69,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801563977650",
+      "po_number": "PO-93595",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 284.00 does not match recomputed tax 265.07 ((3863.97 - 77.28) x 0.07 = 265.07). All line amounts, subtotal, total and balance due checks passed."
+    }
+  ],
+  "Input_tokens": 4908,
+  "Output_tokens": 1358,
+  "Output_thinking_tokens": 825,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004908,
+    "Output_tokens": 0.000679,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011698
+  }
+}

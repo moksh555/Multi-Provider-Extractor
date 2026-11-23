@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0094",
+      "invoice_number": "INV-2026-0094",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "180 Road 12, Banani, Dubai, UAE",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "100 Motijheel C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-22",
+      "due_date": "2026-03-29",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 601.3,
+          "amount": 6614.3
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 10.0,
+          "unit_price": 468.25,
+          "amount": 4682.5
+        },
+        {
+          "description": "API Integration",
+          "quantity": 4.0,
+          "unit_price": 661.52,
+          "amount": 2646.08
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 385.9,
+          "amount": 1929.5
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 818.4,
+          "amount": 2455.2
+        }
+      ],
+      "subtotal": 18327.58,
+      "discount": 1832.76,
+      "tax_rate": 0.05,
+      "tax": 824.74,
+      "shipping": 50.0,
+      "total": 17369.56,
+      "amount_paid": 8805.04,
+      "balance_due": 8564.52,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801022180490",
+      "po_number": "PO-95768",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2812,
+  "Output_tokens": 680,
+  "Output_thinking_tokens": 195,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002812,
+    "Output_tokens": 0.00034,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006212
+  }
+}

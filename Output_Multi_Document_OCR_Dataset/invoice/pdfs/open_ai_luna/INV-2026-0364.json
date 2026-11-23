@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0364",
+      "invoice_number": "INV-2026-0364",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "52 Zindabazar Road, Sylhet, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "26 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-01-22",
+      "due_date": "2026-01-29",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 2.0,
+          "unit_price": 233.09,
+          "amount": 466.18
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 10.0,
+          "unit_price": 712.63,
+          "amount": 7126.3
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 10.0,
+          "unit_price": 247.5,
+          "amount": 2475.0
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 518.39,
+          "amount": 4147.12
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 549.8,
+          "amount": 1649.4
+        }
+      ],
+      "subtotal": 15864.0,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 793.2,
+      "shipping": 50.0,
+      "total": 16707.2,
+      "amount_paid": 16707.2,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801066086683",
+      "po_number": "PO-52748",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2818,
+  "Output_tokens": 694,
+  "Output_thinking_tokens": 223,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002818,
+    "Output_tokens": 0.000347,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006288
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0766",
+      "invoice_number": "INV-2026-0766",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "154 Zindabazar Road, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "73 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-15",
+      "due_date": "2026-03-30",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 187.57,
+          "amount": 2063.27
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 11.0,
+          "unit_price": 458.36,
+          "amount": 5041.96
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 310.45,
+          "amount": 3725.4
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 11.0,
+          "unit_price": 422.22,
+          "amount": 4644.42
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 563.34,
+          "amount": 1126.68
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 3.0,
+          "unit_price": 357.06,
+          "amount": 1071.18
+        }
+      ],
+      "subtotal": 17672.91,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1325.47,
+      "shipping": 5.0,
+      "total": 19003.38,
+      "amount_paid": 8345.88,
+      "balance_due": 10657.5,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801470051798",
+      "po_number": "PO-89965",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 1325.47 does not equal (subtotal 17672.91 - discount 0) x tax rate 0.07, which recomputes to 1237.10."
+    }
+  ],
+  "Input_tokens": 4997,
+  "Output_tokens": 1342,
+  "Output_thinking_tokens": 711,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004997000000000001,
+    "Output_tokens": 0.000671,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011707000000000002
+  }
+}

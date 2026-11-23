@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0891",
+      "invoice_number": "INV-2026-0891",
+      "company_name": "Golden Harvest Store",
+      "company_address": "160 Al Barsha, Riyadh, Saudi Arabia",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "47 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-15",
+      "due_date": "2026-06-29",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 3.0,
+          "unit_price": 529.53,
+          "amount": 1588.59
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 4.0,
+          "unit_price": 537.3,
+          "amount": 2149.2
+        },
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 405.93,
+          "amount": 4871.16
+        }
+      ],
+      "subtotal": 8608.95,
+      "discount": 430.45,
+      "tax_rate": 0.15,
+      "tax": 1226.78,
+      "shipping": 50.0,
+      "total": 9455.28,
+      "amount_paid": 5328.13,
+      "balance_due": 4127.15,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801728654477",
+      "po_number": "PO-33526",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4909,
+  "Output_tokens": 1056,
+  "Output_thinking_tokens": 609,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004909000000000001,
+    "Output_tokens": 0.000528,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010189
+  }
+}

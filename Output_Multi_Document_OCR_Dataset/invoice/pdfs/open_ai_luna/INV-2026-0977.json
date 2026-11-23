@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0977",
+      "invoice_number": "INV-2026-0977",
+      "company_name": "Metro Print House",
+      "company_address": "161 Jumeirah Lake Towers, Dubai, UAE",
+      "customer_name": "Future School",
+      "billing_address": "102 Mirpur DOHS, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-29",
+      "currency": "SAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 9.0,
+          "unit_price": 58.46,
+          "amount": 526.14
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 433.73,
+          "amount": 4771.03
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 400.58,
+          "amount": 801.16
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 193.64,
+          "amount": 2130.04
+        }
+      ],
+      "subtotal": 8228.37,
+      "discount": 164.57,
+      "tax_rate": 0.1,
+      "tax": 806.38,
+      "shipping": 5.0,
+      "total": 8875.18,
+      "amount_paid": 5653.52,
+      "balance_due": 3221.66,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801902390874",
+      "po_number": "PO-83821",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2739,
+  "Output_tokens": 505,
+  "Output_thinking_tokens": 203,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027390000000000004,
+    "Output_tokens": 0.0002525,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005264
+  }
+}

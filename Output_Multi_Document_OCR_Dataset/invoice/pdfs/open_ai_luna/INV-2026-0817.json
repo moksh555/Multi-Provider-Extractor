@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0817",
+      "invoice_number": "INV-2026-0817",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "179 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "215 Mirpur DOHS, Doha, Qatar",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-02-22",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 768.59,
+          "amount": 2305.77
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 8.0,
+          "unit_price": 182.96,
+          "amount": 1463.68
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 477.83,
+          "amount": 5733.96
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 834.21,
+          "amount": 834.21
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 4.0,
+          "unit_price": 441.36,
+          "amount": 1765.44
+        }
+      ],
+      "subtotal": 12103.06,
+      "discount": 1210.31,
+      "tax_rate": 0.1,
+      "tax": 1089.28,
+      "shipping": 10.0,
+      "total": 11992.03,
+      "amount_paid": 8513.85,
+      "balance_due": 3478.18,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801853502356",
+      "po_number": "PO-93766",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2830,
+  "Output_tokens": 726,
+  "Output_thinking_tokens": 236,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000283,
+    "Output_tokens": 0.000363,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000646
+  }
+}

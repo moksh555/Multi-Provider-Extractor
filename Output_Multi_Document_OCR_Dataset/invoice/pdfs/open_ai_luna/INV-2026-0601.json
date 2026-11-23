@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0601",
+      "invoice_number": "INV-2026-0601",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "157 Doha Business Park, Dhaka, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "214 Motijheel C/A, Doha, Qatar",
+      "invoice_date": "2026-04-21",
+      "due_date": "2026-04-28",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 7.0,
+          "unit_price": 20.44,
+          "amount": 143.08
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 12.0,
+          "unit_price": 48.81,
+          "amount": 585.72
+        },
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 395.07,
+          "amount": 2765.49
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 8.0,
+          "unit_price": 644.67,
+          "amount": 5157.36
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 8.0,
+          "unit_price": 760.48,
+          "amount": 6083.84
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 7.0,
+          "unit_price": 276.05,
+          "amount": 1932.35
+        }
+      ],
+      "subtotal": 16667.84,
+      "discount": 1666.78,
+      "tax_rate": 0.05,
+      "tax": 750.05,
+      "shipping": 10.0,
+      "total": 15761.11,
+      "amount_paid": 7205.78,
+      "balance_due": 8555.33,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801452803651",
+      "po_number": "PO-76163",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2864,
+  "Output_tokens": 808,
+  "Output_thinking_tokens": 293,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002864,
+    "Output_tokens": 0.000404,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006904000000000001
+  }
+}

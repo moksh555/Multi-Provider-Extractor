@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0133",
+      "invoice_number": "INV-2026-0133",
+      "company_name": "Metro Print House",
+      "company_address": "126 Zindabazar Road, Riyadh, Saudi Arabia",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "165 Doha Business Park, Dubai, UAE",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-16",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 597.08,
+          "amount": 1791.24
+        },
+        {
+          "description": "Web Development",
+          "quantity": 6.0,
+          "unit_price": 389.66,
+          "amount": 2337.96
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 2.0,
+          "unit_price": 408.23,
+          "amount": 816.46
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 8.0,
+          "unit_price": 396.37,
+          "amount": 3170.96
+        }
+      ],
+      "subtotal": 8116.62,
+      "discount": 162.33,
+      "tax_rate": 0.15,
+      "tax": 1193.14,
+      "shipping": 0.0,
+      "total": 9147.43,
+      "amount_paid": 0.0,
+      "balance_due": 9147.43,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801761187367",
+      "po_number": "PO-54465",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2754,
+  "Output_tokens": 494,
+  "Output_thinking_tokens": 195,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002754,
+    "Output_tokens": 0.000247,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005224
+  }
+}

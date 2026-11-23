@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0668",
+      "invoice_number": "INV-2026-0668",
+      "company_name": "Greenline Logistics",
+      "company_address": "121 Jumeirah Lake Towers, Doha, Qatar",
+      "customer_name": "Rahim Traders",
+      "billing_address": "88 Motijheel C/A, Doha, Qatar",
+      "invoice_date": "2026-03-18",
+      "due_date": "2026-05-02",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 7.0,
+          "unit_price": 242.53,
+          "amount": 1697.71
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 4.0,
+          "unit_price": 411.85,
+          "amount": 1647.4
+        }
+      ],
+      "subtotal": 3345.11,
+      "discount": 334.51,
+      "tax_rate": 0.1,
+      "tax": 301.06,
+      "shipping": 5.0,
+      "total": 3316.66,
+      "amount_paid": 0.0,
+      "balance_due": 3316.66,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801235303293",
+      "po_number": "PO-37369",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4872,
+  "Output_tokens": 1025,
+  "Output_thinking_tokens": 624,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004872,
+    "Output_tokens": 0.0005125,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009997
+  }
+}

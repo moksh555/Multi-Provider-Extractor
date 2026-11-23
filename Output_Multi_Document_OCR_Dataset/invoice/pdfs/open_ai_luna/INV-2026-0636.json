@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0636",
+      "invoice_number": "INV-2026-0636",
+      "company_name": "Greenline Logistics",
+      "company_address": "114 Al Barsha, Riyadh, Saudi Arabia",
+      "customer_name": "TechPoint BD",
+      "billing_address": "118 Al Barsha, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-18",
+      "due_date": "2026-03-25",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 2.0,
+          "unit_price": 45.6,
+          "amount": 91.2
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 567.96,
+          "amount": 5111.64
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 3.0,
+          "unit_price": 68.35,
+          "amount": 205.05
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 213.18,
+          "amount": 426.36
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 58.61,
+          "amount": 410.27
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 142.45,
+          "amount": 712.25
+        }
+      ],
+      "subtotal": 6956.77,
+      "discount": 347.84,
+      "tax_rate": 0.05,
+      "tax": 330.45,
+      "shipping": 0.0,
+      "total": 6939.38,
+      "amount_paid": 0.0,
+      "balance_due": 6939.38,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801261717760",
+      "po_number": "PO-73174",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2875,
+  "Output_tokens": 537,
+  "Output_thinking_tokens": 198,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002875,
+    "Output_tokens": 0.0002685,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005560000000000001
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0950",
+      "invoice_number": "INV-2026-0950",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "79 Doha Business Park, Doha, Qatar",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "235 Uttara Sector 7, Dubai, UAE",
+      "invoice_date": "2026-03-07",
+      "due_date": "2026-03-14",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 6.0,
+          "unit_price": 694.01,
+          "amount": 4164.06
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 8.0,
+          "unit_price": 219.59,
+          "amount": 1756.72
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 7.0,
+          "unit_price": 107.84,
+          "amount": 754.88
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 12.0,
+          "unit_price": 279.89,
+          "amount": 3358.68
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 493.5,
+          "amount": 1974.0
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 1.0,
+          "unit_price": 444.22,
+          "amount": 444.22
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 541.4,
+          "amount": 2707.0
+        }
+      ],
+      "subtotal": 15159.56,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 15164.56,
+      "amount_paid": 0.0,
+      "balance_due": 15164.56,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801645591143",
+      "po_number": "PO-31394",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2947,
+  "Output_tokens": 628,
+  "Output_thinking_tokens": 256,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002947,
+    "Output_tokens": 0.000314,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006087
+  }
+}

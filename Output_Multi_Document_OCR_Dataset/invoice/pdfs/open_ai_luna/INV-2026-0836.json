@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0836",
+      "invoice_number": "INV-2026-0836",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "82 Mirpur DOHS, Doha, Qatar",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "150 Sheikh Zayed Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-09",
+      "due_date": "2026-05-16",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 9.0,
+          "unit_price": 817.56,
+          "amount": 7358.04
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 497.27,
+          "amount": 4972.7
+        }
+      ],
+      "subtotal": 12330.74,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 924.81,
+      "shipping": 25.0,
+      "total": 13280.55,
+      "amount_paid": 13280.55,
+      "balance_due": 0.0,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801213011713",
+      "po_number": "PO-00967",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 924.81; recomputed 863.15."
+    }
+  ],
+  "Input_tokens": 2610,
+  "Output_tokens": 588,
+  "Output_thinking_tokens": 214,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000261,
+    "Output_tokens": 0.000294,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005549999999999999
+  }
+}

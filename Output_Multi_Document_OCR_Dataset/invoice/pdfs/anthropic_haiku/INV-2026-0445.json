@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0445",
+      "invoice_number": "INV-2026-0445",
+      "company_name": "Golden Harvest Store",
+      "company_address": "161 Al Barsha, Sylhet, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "165 Road 12, Banani, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-20",
+      "due_date": "2026-06-27",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 4.0,
+          "unit_price": 824.6,
+          "amount": 3298.4
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 4.0,
+          "unit_price": 589.0,
+          "amount": 2356.0
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 10.53,
+          "amount": 21.06
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 3.0,
+          "unit_price": 797.53,
+          "amount": 2392.59
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 46.4,
+          "amount": 324.8
+        },
+        {
+          "description": "API Integration",
+          "quantity": 12.0,
+          "unit_price": 826.68,
+          "amount": 9920.16
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 68.63,
+          "amount": 137.26
+        }
+      ],
+      "subtotal": 18450.27,
+      "discount": 369.01,
+      "tax_rate": 0.1,
+      "tax": 1808.13,
+      "shipping": 5.0,
+      "total": 19894.39,
+      "amount_paid": 19894.39,
+      "balance_due": 0.0,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801602686153",
+      "po_number": "PO-79630",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4989,
+  "Output_tokens": 1444,
+  "Output_thinking_tokens": 854,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004989,
+    "Output_tokens": 0.000722,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012209
+  }
+}

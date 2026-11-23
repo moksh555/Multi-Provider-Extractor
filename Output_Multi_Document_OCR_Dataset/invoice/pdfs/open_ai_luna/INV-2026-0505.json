@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0505",
+      "invoice_number": "INV-2026-0505",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "11 Uttara Sector 7, Sylhet, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "79 Agrabad C/A, Dubai, UAE",
+      "invoice_date": "2026-01-14",
+      "due_date": "2026-01-29",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 3.0,
+          "unit_price": 86.17,
+          "amount": 258.51
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 1.0,
+          "unit_price": 129.31,
+          "amount": 129.31
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 775.37,
+          "amount": 3101.48
+        }
+      ],
+      "subtotal": 3489.3,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 261.7,
+      "shipping": 5.0,
+      "total": 3756.0,
+      "amount_paid": 2357.51,
+      "balance_due": 1398.49,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801996027488",
+      "po_number": "PO-30646",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 261.70; recomputed tax (3489.30 − 0.00) × 0.07 = 244.25."
+    }
+  ],
+  "Input_tokens": 2687,
+  "Output_tokens": 573,
+  "Output_thinking_tokens": 138,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026869999999999997,
+    "Output_tokens": 0.0002865,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005552
+  }
+}

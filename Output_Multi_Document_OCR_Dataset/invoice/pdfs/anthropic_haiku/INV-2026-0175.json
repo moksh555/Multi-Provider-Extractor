@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0175",
+      "invoice_number": "INV-2026-0175",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "187 Motijheel C/A, Riyadh, Saudi Arabia",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "248 Doha Business Park, Doha, Qatar",
+      "invoice_date": "2026-05-05",
+      "due_date": "2026-06-04",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 19.68,
+          "amount": 59.04
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 1.0,
+          "unit_price": 594.06,
+          "amount": 594.06
+        }
+      ],
+      "subtotal": 653.1,
+      "discount": 13.06,
+      "tax_rate": 0.1,
+      "tax": 64.0,
+      "shipping": 0.0,
+      "total": 704.04,
+      "amount_paid": 478.4,
+      "balance_due": 225.64,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801412885071",
+      "po_number": "PO-41974",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4875,
+  "Output_tokens": 996,
+  "Output_thinking_tokens": 586,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004875,
+    "Output_tokens": 0.000498,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009854999999999998
+  }
+}

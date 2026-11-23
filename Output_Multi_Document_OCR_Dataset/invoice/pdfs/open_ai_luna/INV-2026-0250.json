@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0250",
+      "invoice_number": "INV-2026-0250",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "113 Mirpur DOHS, Doha, Qatar",
+      "customer_name": "Global Mart",
+      "billing_address": "71 Jumeirah Lake Towers, Doha, Qatar",
+      "invoice_date": "2026-05-07",
+      "due_date": "2026-06-21",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 1.0,
+          "unit_price": 761.64,
+          "amount": 761.64
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 5.0,
+          "unit_price": 209.04,
+          "amount": 1045.2
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 239.94,
+          "amount": 479.88
+        }
+      ],
+      "subtotal": 2286.72,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 114.34,
+      "shipping": 25.0,
+      "total": 2426.06,
+      "amount_paid": 2426.06,
+      "balance_due": 0.0,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801731782273",
+      "po_number": "PO-25705",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2679,
+  "Output_tokens": 443,
+  "Output_thinking_tokens": 167,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026790000000000006,
+    "Output_tokens": 0.0002215,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004894000000000001
+  }
+}

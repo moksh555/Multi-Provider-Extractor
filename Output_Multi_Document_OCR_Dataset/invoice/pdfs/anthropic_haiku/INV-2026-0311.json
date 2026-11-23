@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0311",
+      "invoice_number": "INV-2026-0311",
+      "company_name": "Summit Agro Foods",
+      "company_address": "145 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "205 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-19",
+      "due_date": "2026-06-03",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 11.0,
+          "unit_price": 542.09,
+          "amount": 5962.99
+        },
+        {
+          "description": "API Integration",
+          "quantity": 4.0,
+          "unit_price": 718.01,
+          "amount": 2872.04
+        }
+      ],
+      "subtotal": 8835.03,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 662.63,
+      "shipping": 50.0,
+      "total": 9547.66,
+      "amount_paid": 0.0,
+      "balance_due": 9547.66,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801594209435",
+      "po_number": "PO-44372",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 662.63 does not equal (subtotal 8835.03 - discount 0) × tax rate 0.07; recomputed tax is 618.45 (618.4521)."
+    }
+  ],
+  "Input_tokens": 4876,
+  "Output_tokens": 1118,
+  "Output_thinking_tokens": 641,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048760000000000003,
+    "Output_tokens": 0.000559,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010466
+  }
+}

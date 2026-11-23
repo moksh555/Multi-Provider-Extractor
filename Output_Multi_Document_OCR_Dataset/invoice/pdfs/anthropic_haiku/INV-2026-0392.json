@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0392",
+      "invoice_number": "INV-2026-0392",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "116 Road 12, Banani, Riyadh, Saudi Arabia",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "114 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-25",
+      "due_date": "2026-03-27",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 565.86,
+          "amount": 6224.46
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 213.42,
+          "amount": 2347.62
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 561.41,
+          "amount": 1684.23
+        }
+      ],
+      "subtotal": 10256.31,
+      "discount": 1025.63,
+      "tax_rate": 0.15,
+      "tax": 1384.6,
+      "shipping": 25.0,
+      "total": 10640.28,
+      "amount_paid": 0.0,
+      "balance_due": 10640.28,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801898898116",
+      "po_number": "PO-63581",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4917,
+  "Output_tokens": 1096,
+  "Output_thinking_tokens": 641,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004917000000000001,
+    "Output_tokens": 0.000548,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010397000000000002
+  }
+}

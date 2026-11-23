@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0699",
+      "invoice_number": "INV-2026-0699",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "80 Dhanmondi 27, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "162 Al Barsha, Chattogram, Bangladesh",
+      "invoice_date": "2026-01-13",
+      "due_date": "2026-01-28",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 5.0,
+          "unit_price": 646.36,
+          "amount": 3231.8
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 541.44,
+          "amount": 541.44
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 6.0,
+          "unit_price": 168.72,
+          "amount": 1012.32
+        }
+      ],
+      "subtotal": 4785.56,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 358.92,
+      "shipping": 10.0,
+      "total": 5154.48,
+      "amount_paid": 0.0,
+      "balance_due": 5154.48,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801020931838",
+      "po_number": "PO-40938",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 358.92; recomputed 334.99."
+    }
+  ],
+  "Input_tokens": 2689,
+  "Output_tokens": 561,
+  "Output_thinking_tokens": 266,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026890000000000003,
+    "Output_tokens": 0.0002805,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005494
+  }
+}

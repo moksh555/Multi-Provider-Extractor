@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0226",
+      "invoice_number": "INV-2026-0226",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "122 Jumeirah Lake Towers, Dubai, UAE",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "144 Motijheel C/A, Dubai, UAE",
+      "invoice_date": "2026-06-05",
+      "due_date": "2026-07-05",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 10.0,
+          "unit_price": 594.64,
+          "amount": 5946.4
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 432.21,
+          "amount": 3457.68
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 263.47,
+          "amount": 1317.35
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 604.35,
+          "amount": 3021.75
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 152.07,
+          "amount": 304.14
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 9.0,
+          "unit_price": 208.58,
+          "amount": 1877.22
+        }
+      ],
+      "subtotal": 15924.54,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 15924.54,
+      "amount_paid": 0.0,
+      "balance_due": 15924.54,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801189276285",
+      "po_number": "PO-03630",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2889,
+  "Output_tokens": 654,
+  "Output_thinking_tokens": 310,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028890000000000003,
+    "Output_tokens": 0.000327,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006159
+  }
+}

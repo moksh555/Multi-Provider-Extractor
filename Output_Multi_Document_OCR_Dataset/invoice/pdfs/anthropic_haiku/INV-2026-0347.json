@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0347",
+      "invoice_number": "INV-2026-0347",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "167 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "174 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-08",
+      "due_date": "2026-06-07",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 363.91,
+          "amount": 727.82
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 749.5,
+          "amount": 7495.0
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 327.93,
+          "amount": 327.93
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 2.0,
+          "unit_price": 407.84,
+          "amount": 815.68
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 77.86,
+          "amount": 155.72
+        }
+      ],
+      "subtotal": 9522.15,
+      "discount": 476.11,
+      "tax_rate": 0.07,
+      "tax": 678.45,
+      "shipping": 50.0,
+      "total": 9774.49,
+      "amount_paid": 9774.49,
+      "balance_due": 0.0,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801603364357",
+      "po_number": "PO-46065",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 678.45 does not equal (subtotal 9522.15 - discount 476.11) x tax rate 0.07 = recomputed 633.22."
+    }
+  ],
+  "Input_tokens": 4945,
+  "Output_tokens": 1395,
+  "Output_thinking_tokens": 804,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004945,
+    "Output_tokens": 0.0006975,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001192
+  }
+}

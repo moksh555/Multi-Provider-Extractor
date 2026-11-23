@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0974",
+      "invoice_number": "INV-2026-0974",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "82 Road 12, Banani, Riyadh, Saudi Arabia",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "71 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-17",
+      "due_date": "2026-07-17",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 36.56,
+          "amount": 182.8
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 10.0,
+          "unit_price": 124.01,
+          "amount": 1240.1
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 349.97,
+          "amount": 349.97
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 582.05,
+          "amount": 5820.5
+        }
+      ],
+      "subtotal": 7593.37,
+      "discount": 151.87,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 7491.5,
+      "amount_paid": 7491.5,
+      "balance_due": 0.0,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801376367865",
+      "po_number": "PO-06735",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4914,
+  "Output_tokens": 1020,
+  "Output_thinking_tokens": 548,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004914,
+    "Output_tokens": 0.00051,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010014
+  }
+}

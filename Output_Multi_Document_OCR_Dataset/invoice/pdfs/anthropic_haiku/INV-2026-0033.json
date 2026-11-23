@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0033",
+      "invoice_number": "INV-2026-0033",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "156 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "83 Sheikh Zayed Road, Dubai, UAE",
+      "invoice_date": "2026-05-09",
+      "due_date": "2026-05-24",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 552.04,
+          "amount": 4968.36
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 603.82,
+          "amount": 2415.28
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 9.0,
+          "unit_price": 448.15,
+          "amount": 4033.35
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 6.0,
+          "unit_price": 321.94,
+          "amount": 1931.64
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 352.18,
+          "amount": 2465.26
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 511.42,
+          "amount": 5625.62
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 285.6,
+          "amount": 571.2
+        }
+      ],
+      "subtotal": 22010.71,
+      "discount": 440.21,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 21595.5,
+      "amount_paid": 0.0,
+      "balance_due": 21595.5,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801328961069",
+      "po_number": "PO-36617",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4993,
+  "Output_tokens": 1300,
+  "Output_thinking_tokens": 715,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004993,
+    "Output_tokens": 0.00065,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011493
+  }
+}

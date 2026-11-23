@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0714",
+      "invoice_number": "INV-2026-0714",
+      "company_name": "Greenline Logistics",
+      "company_address": "19 Uttara Sector 7, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "27 Gulshan Avenue, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-24",
+      "due_date": "2026-05-01",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 151.33,
+          "amount": 151.33
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 5.0,
+          "unit_price": 249.33,
+          "amount": 1246.65
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 289.39,
+          "amount": 1736.34
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 7.0,
+          "unit_price": 385.0,
+          "amount": 2695.0
+        }
+      ],
+      "subtotal": 5829.32,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 5829.32,
+      "amount_paid": 0.0,
+      "balance_due": 5829.32,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801263547392",
+      "po_number": "PO-94687",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4926,
+  "Output_tokens": 1061,
+  "Output_thinking_tokens": 594,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004926,
+    "Output_tokens": 0.0005305,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010231
+  }
+}

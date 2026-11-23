@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0774",
+      "invoice_number": "INV-2026-0774",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "168 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "112 Zindabazar Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-24",
+      "due_date": "2026-04-08",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 9.0,
+          "unit_price": 313.36,
+          "amount": 2820.24
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 619.15,
+          "amount": 3095.75
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 9.0,
+          "unit_price": 843.3,
+          "amount": 7589.7
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 683.95,
+          "amount": 7523.45
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 515.92,
+          "amount": 2063.68
+        }
+      ],
+      "subtotal": 23092.82,
+      "discount": 2309.28,
+      "tax_rate": 0.05,
+      "tax": 1039.18,
+      "shipping": 25.0,
+      "total": 21847.72,
+      "amount_paid": 0.0,
+      "balance_due": 21847.72,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801496860320",
+      "po_number": "PO-57843",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4972,
+  "Output_tokens": 1250,
+  "Output_thinking_tokens": 720,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004972,
+    "Output_tokens": 0.000625,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011222
+  }
+}

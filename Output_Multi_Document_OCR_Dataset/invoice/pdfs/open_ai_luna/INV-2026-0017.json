@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0017",
+      "invoice_number": "INV-2026-0017",
+      "company_name": "Metro Print House",
+      "company_address": "88 Zindabazar Road, Chattogram, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "31 Doha Business Park, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-22",
+      "due_date": "2026-03-29",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 5.0,
+          "unit_price": 618.1,
+          "amount": 3090.5
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 246.28,
+          "amount": 2462.8
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 4.0,
+          "unit_price": 257.44,
+          "amount": 1029.76
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 3.0,
+          "unit_price": 262.51,
+          "amount": 787.53
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 238.97,
+          "amount": 716.91
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 9.0,
+          "unit_price": 253.98,
+          "amount": 2285.82
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 11.0,
+          "unit_price": 739.24,
+          "amount": 8131.64
+        }
+      ],
+      "subtotal": 18504.96,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 925.25,
+      "shipping": 10.0,
+      "total": 19440.21,
+      "amount_paid": 0.0,
+      "balance_due": 19440.21,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801854410948",
+      "po_number": "PO-40601",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2951,
+  "Output_tokens": 812,
+  "Output_thinking_tokens": 257,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002951,
+    "Output_tokens": 0.000406,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007011000000000001
+  }
+}

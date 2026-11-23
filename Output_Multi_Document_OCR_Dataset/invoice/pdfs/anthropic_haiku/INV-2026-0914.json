@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0914",
+      "invoice_number": "INV-2026-0914",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "32 Agrabad C/A, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "186 Gulshan Avenue, Dubai, UAE",
+      "invoice_date": "2026-04-01",
+      "due_date": "2026-05-16",
+      "currency": "SAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 805.11,
+          "amount": 9661.32
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 2.0,
+          "unit_price": 715.01,
+          "amount": 1430.02
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 234.41,
+          "amount": 2578.51
+        }
+      ],
+      "subtotal": 13669.85,
+      "discount": 1366.99,
+      "tax_rate": 0.05,
+      "tax": 615.14,
+      "shipping": 25.0,
+      "total": 12943.0,
+      "amount_paid": 7548.42,
+      "balance_due": 5394.58,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801895527188",
+      "po_number": "PO-73484",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4905,
+  "Output_tokens": 1077,
+  "Output_thinking_tokens": 634,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004905,
+    "Output_tokens": 0.0005385,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001029
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0348",
+      "invoice_number": "INV-2026-0348",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "123 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "47 Uttara Sector 7, Sylhet, Bangladesh",
+      "invoice_date": "2026-06-28",
+      "due_date": "2026-08-12",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 154.44,
+          "amount": 1235.52
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 5.0,
+          "unit_price": 726.69,
+          "amount": 3633.45
+        }
+      ],
+      "subtotal": 4868.97,
+      "discount": 486.9,
+      "tax_rate": 0.07,
+      "tax": 328.66,
+      "shipping": 0.0,
+      "total": 4710.73,
+      "amount_paid": 4710.73,
+      "balance_due": 0.0,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801646904237",
+      "po_number": "PO-61332",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 328.66 does not match recomputed (subtotal 4868.97 - discount 486.90) x tax rate 0.07 = 306.74."
+    }
+  ],
+  "Input_tokens": 4874,
+  "Output_tokens": 1117,
+  "Output_thinking_tokens": 651,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048740000000000003,
+    "Output_tokens": 0.0005585,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010459
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0872",
+      "invoice_number": "INV-2026-0872",
+      "company_name": "Delta Insurance Services",
+      "company_address": "88 Doha Business Park, Sylhet, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "107 Doha Business Park, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-08",
+      "due_date": "2026-02-15",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 674.86,
+          "amount": 7423.46
+        },
+        {
+          "description": "API Integration",
+          "quantity": 4.0,
+          "unit_price": 837.72,
+          "amount": 3350.88
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 1.0,
+          "unit_price": 447.46,
+          "amount": 447.46
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 4.0,
+          "unit_price": 624.17,
+          "amount": 2496.68
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 279.99,
+          "amount": 839.97
+        }
+      ],
+      "subtotal": 14558.45,
+      "discount": 727.92,
+      "tax_rate": 0.07,
+      "tax": 1037.29,
+      "shipping": 50.0,
+      "total": 14917.82,
+      "amount_paid": 0.0,
+      "balance_due": 14917.82,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801022639552",
+      "po_number": "PO-68085",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1037.29 does not equal (subtotal 14558.45 - discount 727.92) x tax rate 0.07; recomputed tax is 968.14."
+    }
+  ],
+  "Input_tokens": 4938,
+  "Output_tokens": 1487,
+  "Output_thinking_tokens": 902,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004938,
+    "Output_tokens": 0.0007435,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012373
+  }
+}

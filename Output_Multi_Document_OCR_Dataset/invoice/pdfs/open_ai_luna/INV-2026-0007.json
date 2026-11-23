@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0007",
+      "invoice_number": "INV-2026-0007",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "140 Gulshan Avenue, Chattogram, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "18 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-22",
+      "due_date": "2026-07-07",
+      "currency": "SAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 529.52,
+          "amount": 529.52
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 11.0,
+          "unit_price": 499.45,
+          "amount": 5493.95
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 6.0,
+          "unit_price": 795.02,
+          "amount": 4770.12
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 611.03,
+          "amount": 6721.33
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 341.25,
+          "amount": 1706.25
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 274.22,
+          "amount": 2193.76
+        }
+      ],
+      "subtotal": 21414.93,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 3212.24,
+      "shipping": 0.0,
+      "total": 24627.17,
+      "amount_paid": 24627.17,
+      "balance_due": 0.0,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801499022988",
+      "po_number": "PO-31876",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2869,
+  "Output_tokens": 557,
+  "Output_thinking_tokens": 212,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028690000000000003,
+    "Output_tokens": 0.0002785,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005654
+  }
+}

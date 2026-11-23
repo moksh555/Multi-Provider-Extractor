@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0526",
+      "invoice_number": "INV-2026-0526",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "118 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "223 Gulshan Avenue, Dubai, UAE",
+      "invoice_date": "2026-04-29",
+      "due_date": "2026-05-06",
+      "currency": "BDT",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 6.0,
+          "unit_price": 584.98,
+          "amount": 3509.88
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 499.14,
+          "amount": 2495.7
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 355.97,
+          "amount": 1067.91
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 3.0,
+          "unit_price": 221.7,
+          "amount": 665.1
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 494.32,
+          "amount": 3460.24
+        }
+      ],
+      "subtotal": 11198.83,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1119.88,
+      "shipping": 0.0,
+      "total": 12318.71,
+      "amount_paid": 12318.71,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801124990257",
+      "po_number": "PO-73086",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2818,
+  "Output_tokens": 705,
+  "Output_thinking_tokens": 231,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002818,
+    "Output_tokens": 0.0003525,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006343
+  }
+}

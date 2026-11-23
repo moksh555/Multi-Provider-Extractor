@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0830",
+      "invoice_number": "INV-2026-0830",
+      "company_name": "BrightStar Electronics",
+      "company_address": "110 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "132 Doha Business Park, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-03",
+      "due_date": "2026-06-02",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 152.54,
+          "amount": 1830.48
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 10.0,
+          "unit_price": 576.8,
+          "amount": 5768.0
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 8.0,
+          "unit_price": 221.52,
+          "amount": 1772.16
+        }
+      ],
+      "subtotal": 9370.64,
+      "discount": 187.41,
+      "tax_rate": 0.07,
+      "tax": 688.74,
+      "shipping": 25.0,
+      "total": 9896.97,
+      "amount_paid": 0.0,
+      "balance_due": 9896.97,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801154852345",
+      "po_number": "PO-11506",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 688.74; recomputed (9370.64 − 187.41) × 0.07 = 642.83."
+    }
+  ],
+  "Input_tokens": 2693,
+  "Output_tokens": 504,
+  "Output_thinking_tokens": 183,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002693,
+    "Output_tokens": 0.000252,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005212999999999999
+  }
+}

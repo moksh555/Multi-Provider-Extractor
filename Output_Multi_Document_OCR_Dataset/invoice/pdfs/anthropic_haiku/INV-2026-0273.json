@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0273",
+      "invoice_number": "INV-2026-0273",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "160 Motijheel C/A, Chattogram, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "173 Agrabad C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-16",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 745.48,
+          "amount": 8200.28
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 639.03,
+          "amount": 7668.36
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 64.63,
+          "amount": 452.41
+        }
+      ],
+      "subtotal": 16321.05,
+      "discount": 326.42,
+      "tax_rate": 0.1,
+      "tax": 1599.46,
+      "shipping": 25.0,
+      "total": 17619.09,
+      "amount_paid": 0.0,
+      "balance_due": 17619.09,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801214235646",
+      "po_number": "PO-13224",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4907,
+  "Output_tokens": 1066,
+  "Output_thinking_tokens": 619,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004907000000000001,
+    "Output_tokens": 0.000533,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010237000000000002
+  }
+}

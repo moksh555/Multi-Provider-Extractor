@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0093",
+      "invoice_number": "INV-2026-0093",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "100 Jumeirah Lake Towers, Dubai, UAE",
+      "customer_name": "Bengal Motors",
+      "billing_address": "150 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-17",
+      "due_date": "2026-05-17",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 52.68,
+          "amount": 158.04
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 232.8,
+          "amount": 931.2
+        }
+      ],
+      "subtotal": 1089.24,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 163.39,
+      "shipping": 0.0,
+      "total": 1252.63,
+      "amount_paid": 1252.63,
+      "balance_due": 0.0,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801610725346",
+      "po_number": "PO-65263",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4876,
+  "Output_tokens": 876,
+  "Output_thinking_tokens": 474,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048760000000000003,
+    "Output_tokens": 0.000438,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009256000000000001
+  }
+}

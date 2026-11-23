@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0711",
+      "invoice_number": "INV-2026-0711",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "22 Motijheel C/A, Dubai, UAE",
+      "customer_name": "Bengal Motors",
+      "billing_address": "26 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-09",
+      "due_date": "2026-06-23",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 5.0,
+          "unit_price": 689.45,
+          "amount": 3447.25
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 236.83,
+          "amount": 1657.81
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 804.84,
+          "amount": 2414.52
+        }
+      ],
+      "subtotal": 7519.58,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 7519.58,
+      "amount_paid": 0.0,
+      "balance_due": 7519.58,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801395742289",
+      "po_number": "PO-26595",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4905,
+  "Output_tokens": 1050,
+  "Output_thinking_tokens": 615,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004905,
+    "Output_tokens": 0.000525,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010155
+  }
+}

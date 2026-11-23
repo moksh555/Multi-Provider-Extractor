@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0397",
+      "invoice_number": "INV-2026-0397",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "34 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "73 Road 12, Banani, Chattogram, Bangladesh",
+      "invoice_date": "2026-04-26",
+      "due_date": "2026-05-11",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 3.0,
+          "unit_price": 770.05,
+          "amount": 2310.15
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 440.28,
+          "amount": 4843.08
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2.0,
+          "unit_price": 19.8,
+          "amount": 39.6
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 11.0,
+          "unit_price": 85.69,
+          "amount": 942.59
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 10.0,
+          "unit_price": 459.52,
+          "amount": 4595.2
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2.0,
+          "unit_price": 537.0,
+          "amount": 1074.0
+        }
+      ],
+      "subtotal": 13804.62,
+      "discount": 690.23,
+      "tax_rate": 0.1,
+      "tax": 1311.44,
+      "shipping": 5.0,
+      "total": 14430.83,
+      "amount_paid": 14430.83,
+      "balance_due": 0.0,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801945387647",
+      "po_number": "PO-82821",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4964,
+  "Output_tokens": 1228,
+  "Output_thinking_tokens": 675,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004964,
+    "Output_tokens": 0.000614,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011104
+  }
+}

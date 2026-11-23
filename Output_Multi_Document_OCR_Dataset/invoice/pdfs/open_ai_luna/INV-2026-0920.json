@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0920",
+      "invoice_number": "INV-2026-0920",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "64 Sheikh Zayed Road, Doha, Qatar",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "210 Uttara Sector 7, Doha, Qatar",
+      "invoice_date": "2026-02-25",
+      "due_date": "2026-04-11",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 173.5,
+          "amount": 1561.5
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 589.47,
+          "amount": 1768.41
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 180.21,
+          "amount": 1982.31
+        },
+        {
+          "description": "API Integration",
+          "quantity": 11.0,
+          "unit_price": 697.55,
+          "amount": 7673.05
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 332.03,
+          "amount": 996.09
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 437.25,
+          "amount": 1749.0
+        }
+      ],
+      "subtotal": 15730.36,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 786.52,
+      "shipping": 0.0,
+      "total": 16516.88,
+      "amount_paid": 8026.57,
+      "balance_due": 8490.31,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801955128044",
+      "po_number": "PO-38440",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2867,
+  "Output_tokens": 780,
+  "Output_thinking_tokens": 264,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002867,
+    "Output_tokens": 0.00039,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006766999999999999
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0940",
+      "invoice_number": "INV-2026-0940",
+      "company_name": "BrightStar Electronics",
+      "company_address": "124 Doha Business Park, Sylhet, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "131 Uttara Sector 7, Doha, Qatar",
+      "invoice_date": "2026-06-29",
+      "due_date": "2026-07-14",
+      "currency": "SAR",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 593.91,
+          "amount": 7126.92
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 609.14,
+          "amount": 6700.54
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 7.0,
+          "unit_price": 591.68,
+          "amount": 4141.76
+        }
+      ],
+      "subtotal": 17969.22,
+      "discount": 359.38,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 17619.84,
+      "amount_paid": 17619.84,
+      "balance_due": 0.0,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801137064972",
+      "po_number": "PO-91370",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4899,
+  "Output_tokens": 1045,
+  "Output_thinking_tokens": 614,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004899,
+    "Output_tokens": 0.0005225,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010124
+  }
+}

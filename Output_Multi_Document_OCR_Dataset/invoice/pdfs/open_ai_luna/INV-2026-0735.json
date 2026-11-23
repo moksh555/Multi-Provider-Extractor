@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0735",
+      "invoice_number": "INV-2026-0735",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "115 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "134 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-04",
+      "due_date": "2026-04-18",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 805.33,
+          "amount": 2415.99
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 3.0,
+          "unit_price": 60.26,
+          "amount": 180.78
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 6.0,
+          "unit_price": 806.97,
+          "amount": 4841.82
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 95.72,
+          "amount": 670.04
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 371.46,
+          "amount": 371.46
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 780.69,
+          "amount": 780.69
+        }
+      ],
+      "subtotal": 9260.78,
+      "discount": 463.04,
+      "tax_rate": 0.05,
+      "tax": 439.89,
+      "shipping": 0.0,
+      "total": 9237.63,
+      "amount_paid": 0.0,
+      "balance_due": 9237.63,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801610523044",
+      "po_number": "PO-11106",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2880,
+  "Output_tokens": 502,
+  "Output_thinking_tokens": 158,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000288,
+    "Output_tokens": 0.000251,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000539
+  }
+}

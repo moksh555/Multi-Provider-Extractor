@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0728",
+      "invoice_number": "INV-2026-0728",
+      "company_name": "Golden Harvest Store",
+      "company_address": "56 Road 12, Banani, Sylhet, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "189 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-04-15",
+      "due_date": "2026-05-30",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 2.0,
+          "unit_price": 581.08,
+          "amount": 1162.16
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 10.0,
+          "unit_price": 679.48,
+          "amount": 6794.8
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 1.0,
+          "unit_price": 604.68,
+          "amount": 604.68
+        },
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 354.63,
+          "amount": 2837.04
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 8.0,
+          "unit_price": 743.95,
+          "amount": 5951.6
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 95.64,
+          "amount": 1052.04
+        }
+      ],
+      "subtotal": 18402.32,
+      "discount": 1840.23,
+      "tax_rate": 0.1,
+      "tax": 1656.21,
+      "shipping": 10.0,
+      "total": 18228.3,
+      "amount_paid": 0.0,
+      "balance_due": 18228.3,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801598959078",
+      "po_number": "PO-69172",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4971,
+  "Output_tokens": 1314,
+  "Output_thinking_tokens": 756,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004971,
+    "Output_tokens": 0.000657,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011541
+  }
+}

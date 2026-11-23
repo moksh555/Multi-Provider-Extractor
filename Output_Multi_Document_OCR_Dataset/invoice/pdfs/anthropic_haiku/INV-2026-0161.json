@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0161",
+      "invoice_number": "INV-2026-0161",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "18 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "99 Uttara Sector 7, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-07",
+      "due_date": "2026-05-22",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 12.0,
+          "unit_price": 146.21,
+          "amount": 1754.52
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 271.09,
+          "amount": 813.27
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 651.3,
+          "amount": 5210.4
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 421.05,
+          "amount": 4631.55
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 462.17,
+          "amount": 5083.87
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 481.42,
+          "amount": 3851.36
+        }
+      ],
+      "subtotal": 21344.97,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 21344.97,
+      "amount_paid": 21344.97,
+      "balance_due": 0.0,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801025367205",
+      "po_number": "PO-13857",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4987,
+  "Output_tokens": 1215,
+  "Output_thinking_tokens": 667,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004987,
+    "Output_tokens": 0.0006075,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011062
+  }
+}

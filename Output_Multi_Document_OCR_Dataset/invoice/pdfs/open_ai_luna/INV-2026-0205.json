@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0205",
+      "invoice_number": "INV-2026-0205",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "60 Agrabad C/A, Dubai, UAE",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "46 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-19",
+      "due_date": "2026-04-18",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 343.32,
+          "amount": 2059.92
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 8.0,
+          "unit_price": 379.64,
+          "amount": 3037.12
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 626.81,
+          "amount": 6268.1
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 8.0,
+          "unit_price": 24.68,
+          "amount": 197.44
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 727.1,
+          "amount": 5089.7
+        }
+      ],
+      "subtotal": 16652.28,
+      "discount": 333.05,
+      "tax_rate": 0.05,
+      "tax": 815.96,
+      "shipping": 5.0,
+      "total": 17140.19,
+      "amount_paid": 0.0,
+      "balance_due": 17140.19,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801551332543",
+      "po_number": "PO-71908",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2817,
+  "Output_tokens": 525,
+  "Output_thinking_tokens": 204,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028169999999999996,
+    "Output_tokens": 0.0002625,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005441999999999999
+  }
+}

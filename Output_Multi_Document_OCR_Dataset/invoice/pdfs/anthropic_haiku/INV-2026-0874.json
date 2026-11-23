@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0874",
+      "invoice_number": "INV-2026-0874",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "92 Zindabazar Road, Doha, Qatar",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "238 Gulshan Avenue, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-30",
+      "due_date": "2026-05-07",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 216.03,
+          "amount": 2376.33
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 10.0,
+          "unit_price": 635.27,
+          "amount": 6352.7
+        }
+      ],
+      "subtotal": 8729.03,
+      "discount": 436.45,
+      "tax_rate": 0.1,
+      "tax": 829.26,
+      "shipping": 0.0,
+      "total": 9121.84,
+      "amount_paid": 0.0,
+      "balance_due": 9121.84,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801240100622",
+      "po_number": "PO-86544",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4875,
+  "Output_tokens": 1032,
+  "Output_thinking_tokens": 631,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004875,
+    "Output_tokens": 0.000516,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010035
+  }
+}

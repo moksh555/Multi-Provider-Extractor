@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0583",
+      "invoice_number": "INV-2026-0583",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "65 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "1 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-27",
+      "due_date": "2026-04-26",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 9.0,
+          "unit_price": 344.24,
+          "amount": 3098.16
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 457.16,
+          "amount": 1371.48
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 4.0,
+          "unit_price": 490.18,
+          "amount": 1960.72
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 643.73,
+          "amount": 5149.84
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 220.77,
+          "amount": 441.54
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 326.25,
+          "amount": 1631.25
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 586.15,
+          "amount": 3516.9
+        }
+      ],
+      "subtotal": 17169.89,
+      "discount": 343.4,
+      "tax_rate": 0.07,
+      "tax": 1261.99,
+      "shipping": 5.0,
+      "total": 18093.48,
+      "amount_paid": 0.0,
+      "balance_due": 18093.48,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801810274553",
+      "po_number": "PO-08003",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 1261.99; recomputed tax is 1177.85."
+    }
+  ],
+  "Input_tokens": 2936,
+  "Output_tokens": 884,
+  "Output_thinking_tokens": 298,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029360000000000003,
+    "Output_tokens": 0.000442,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007356000000000001
+  }
+}

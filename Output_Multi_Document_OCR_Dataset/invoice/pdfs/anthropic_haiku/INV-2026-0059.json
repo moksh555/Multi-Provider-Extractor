@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0059",
+      "invoice_number": "INV-2026-0059",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "107 Mirpur DOHS, Chattogram, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "69 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-07",
+      "due_date": "2026-05-22",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 667.01,
+          "amount": 5336.08
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 803.04,
+          "amount": 4015.2
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 10.0,
+          "unit_price": 527.24,
+          "amount": 5272.4
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 122.08,
+          "amount": 244.16
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 287.73,
+          "amount": 2014.11
+        }
+      ],
+      "subtotal": 16881.95,
+      "discount": 337.64,
+      "tax_rate": 0.1,
+      "tax": 1654.43,
+      "shipping": 25.0,
+      "total": 18223.74,
+      "amount_paid": 0.0,
+      "balance_due": 18223.74,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801833889139",
+      "po_number": "PO-23992",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4944,
+  "Output_tokens": 1187,
+  "Output_thinking_tokens": 667,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004944,
+    "Output_tokens": 0.0005935,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010879
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0157",
+      "invoice_number": "INV-2026-0157",
+      "company_name": "Golden Harvest Store",
+      "company_address": "123 Sheikh Zayed Road, Doha, Qatar",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "196 Dhanmondi 27, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-19",
+      "due_date": "2026-03-26",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 113.54,
+          "amount": 567.7
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 365.69,
+          "amount": 731.38
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 2.0,
+          "unit_price": 23.83,
+          "amount": 47.66
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 7.0,
+          "unit_price": 43.8,
+          "amount": 306.6
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 1.0,
+          "unit_price": 675.75,
+          "amount": 675.75
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 57.9,
+          "amount": 579.0
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 5.0,
+          "unit_price": 44.44,
+          "amount": 222.2
+        }
+      ],
+      "subtotal": 3130.29,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 156.51,
+      "shipping": 5.0,
+      "total": 3291.8,
+      "amount_paid": 0.0,
+      "balance_due": 3291.8,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801001652601",
+      "po_number": "PO-72538",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5002,
+  "Output_tokens": 1388,
+  "Output_thinking_tokens": 780,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005002,
+    "Output_tokens": 0.000694,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011941999999999999
+  }
+}

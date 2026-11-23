@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0384",
+      "invoice_number": "INV-2026-0384",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "110 Zindabazar Road, Doha, Qatar",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "32 Jumeirah Lake Towers, Doha, Qatar",
+      "invoice_date": "2026-01-02",
+      "due_date": "2026-02-01",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 171.23,
+          "amount": 1541.07
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 9.0,
+          "unit_price": 553.4,
+          "amount": 4980.6
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 211.96,
+          "amount": 1059.8
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 594.57,
+          "amount": 1783.71
+        },
+        {
+          "description": "API Integration",
+          "quantity": 11.0,
+          "unit_price": 256.52,
+          "amount": 2821.72
+        }
+      ],
+      "subtotal": 12186.9,
+      "discount": 609.35,
+      "tax_rate": 0.15,
+      "tax": 1736.63,
+      "shipping": 0.0,
+      "total": 13314.18,
+      "amount_paid": 0.0,
+      "balance_due": 13314.18,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801567412473",
+      "po_number": "PO-75237",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4944,
+  "Output_tokens": 1205,
+  "Output_thinking_tokens": 686,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004944,
+    "Output_tokens": 0.0006025,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010969
+  }
+}

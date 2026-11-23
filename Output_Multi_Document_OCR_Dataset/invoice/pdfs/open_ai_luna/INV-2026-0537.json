@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0537",
+      "invoice_number": "INV-2026-0537",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "81 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "122 Dhanmondi 27, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-26",
+      "due_date": "2026-03-12",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 153.19,
+          "amount": 612.76
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 750.82,
+          "amount": 750.82
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 9.0,
+          "unit_price": 192.56,
+          "amount": 1733.04
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 5.0,
+          "unit_price": 657.6,
+          "amount": 3288.0
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 149.64,
+          "amount": 1197.12
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 6.0,
+          "unit_price": 368.71,
+          "amount": 2212.26
+        }
+      ],
+      "subtotal": 9794.0,
+      "discount": 979.4,
+      "tax_rate": 0.1,
+      "tax": 881.46,
+      "shipping": 5.0,
+      "total": 9701.06,
+      "amount_paid": 9701.06,
+      "balance_due": 0.0,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801532591873",
+      "po_number": "PO-28150",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2870,
+  "Output_tokens": 511,
+  "Output_thinking_tokens": 158,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000287,
+    "Output_tokens": 0.0002555,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005425
+  }
+}

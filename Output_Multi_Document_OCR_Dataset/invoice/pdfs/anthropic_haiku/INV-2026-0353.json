@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0353",
+      "invoice_number": "INV-2026-0353",
+      "company_name": "Golden Harvest Store",
+      "company_address": "59 Dhanmondi 27, Doha, Qatar",
+      "customer_name": "TechPoint BD",
+      "billing_address": "174 Motijheel C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-09",
+      "due_date": "2026-04-23",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 12.0,
+          "unit_price": 465.02,
+          "amount": 5580.24
+        },
+        {
+          "description": "Web Development",
+          "quantity": 4.0,
+          "unit_price": 679.94,
+          "amount": 2719.76
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 9.0,
+          "unit_price": 154.02,
+          "amount": 1386.18
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 11.0,
+          "unit_price": 216.0,
+          "amount": 2376.0
+        },
+        {
+          "description": "API Integration",
+          "quantity": 11.0,
+          "unit_price": 707.19,
+          "amount": 7779.09
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 11.0,
+          "unit_price": 689.66,
+          "amount": 7586.26
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 4.0,
+          "unit_price": 337.75,
+          "amount": 1351.0
+        }
+      ],
+      "subtotal": 28778.53,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 2158.39,
+      "shipping": 50.0,
+      "total": 30986.92,
+      "amount_paid": 0.0,
+      "balance_due": 30986.92,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801943201353",
+      "po_number": "PO-08249",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 2158.39 does not match recomputed tax (28778.53 - 0) x 0.07 = 2014.50."
+    }
+  ],
+  "Input_tokens": 5006,
+  "Output_tokens": 1514,
+  "Output_thinking_tokens": 878,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005006,
+    "Output_tokens": 0.000757,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012576
+  }
+}

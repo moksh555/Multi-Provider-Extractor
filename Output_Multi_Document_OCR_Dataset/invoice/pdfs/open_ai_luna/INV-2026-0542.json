@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0542",
+      "invoice_number": "INV-2026-0542",
+      "company_name": "Greenline Logistics",
+      "company_address": "69 Uttara Sector 7, Dhaka, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "118 Doha Business Park, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-17",
+      "due_date": "2026-07-01",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 3.0,
+          "unit_price": 33.43,
+          "amount": 100.29
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 9.0,
+          "unit_price": 586.42,
+          "amount": 5277.78
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 575.99,
+          "amount": 1151.98
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 262.69,
+          "amount": 1576.14
+        },
+        {
+          "description": "API Integration",
+          "quantity": 12.0,
+          "unit_price": 24.23,
+          "amount": 290.76
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 660.62,
+          "amount": 3963.72
+        }
+      ],
+      "subtotal": 12360.67,
+      "discount": 618.03,
+      "tax_rate": 0.05,
+      "tax": 587.13,
+      "shipping": 25.0,
+      "total": 12354.77,
+      "amount_paid": 9132.61,
+      "balance_due": 3222.16,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801031684026",
+      "po_number": "PO-19297",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2867,
+  "Output_tokens": 630,
+  "Output_thinking_tokens": 279,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002867,
+    "Output_tokens": 0.000315,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006016999999999999
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0841",
+      "invoice_number": "INV-2026-0841",
+      "company_name": "Golden Harvest Store",
+      "company_address": "130 Al Barsha, Dhaka, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "127 Uttara Sector 7, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-02",
+      "due_date": "2026-02-01",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 666.64,
+          "amount": 2666.56
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 432.85,
+          "amount": 3029.95
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 655.24,
+          "amount": 1965.72
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 794.73,
+          "amount": 7152.57
+        },
+        {
+          "description": "Web Development",
+          "quantity": 10.0,
+          "unit_price": 309.78,
+          "amount": 3097.8
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 473.16,
+          "amount": 2365.8
+        }
+      ],
+      "subtotal": 20278.4,
+      "discount": 2027.84,
+      "tax_rate": 0.15,
+      "tax": 2737.58,
+      "shipping": 50.0,
+      "total": 21038.14,
+      "amount_paid": 9035.84,
+      "balance_due": 12002.3,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801195318103",
+      "po_number": "PO-02526",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2900,
+  "Output_tokens": 568,
+  "Output_thinking_tokens": 210,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029,
+    "Output_tokens": 0.000284,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005740000000000001
+  }
+}

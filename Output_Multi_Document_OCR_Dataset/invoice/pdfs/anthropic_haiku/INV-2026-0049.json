@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0049",
+      "invoice_number": "INV-2026-0049",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "70 Uttara Sector 7, Sylhet, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "245 Dhanmondi 27, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-06",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 8.0,
+          "unit_price": 266.33,
+          "amount": 2130.64
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 11.0,
+          "unit_price": 431.12,
+          "amount": 4742.32
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 12.0,
+          "unit_price": 106.86,
+          "amount": 1282.32
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 525.51,
+          "amount": 3153.06
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 410.63,
+          "amount": 1231.89
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 840.6,
+          "amount": 10087.2
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 599.03,
+          "amount": 4193.21
+        }
+      ],
+      "subtotal": 26820.64,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 1341.03,
+      "shipping": 10.0,
+      "total": 28171.67,
+      "amount_paid": 17710.83,
+      "balance_due": 10460.84,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801876575539",
+      "po_number": "PO-18925",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5010,
+  "Output_tokens": 1427,
+  "Output_thinking_tokens": 820,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000501,
+    "Output_tokens": 0.0007135,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012145
+  }
+}

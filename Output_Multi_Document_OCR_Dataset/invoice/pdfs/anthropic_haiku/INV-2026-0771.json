@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0771",
+      "invoice_number": "INV-2026-0771",
+      "company_name": "Delta Insurance Services",
+      "company_address": "75 Dhanmondi 27, Chattogram, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "244 Dhanmondi 27, Dubai, UAE",
+      "invoice_date": "2026-02-27",
+      "due_date": "2026-03-14",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 290.08,
+          "amount": 1160.32
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 9.0,
+          "unit_price": 296.66,
+          "amount": 2669.94
+        }
+      ],
+      "subtotal": 3830.26,
+      "discount": 76.61,
+      "tax_rate": 0.1,
+      "tax": 375.37,
+      "shipping": 50.0,
+      "total": 4179.02,
+      "amount_paid": 4179.02,
+      "balance_due": 0.0,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801234135465",
+      "po_number": "PO-07382",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4861,
+  "Output_tokens": 1051,
+  "Output_thinking_tokens": 654,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004861,
+    "Output_tokens": 0.0005255,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010116
+  }
+}

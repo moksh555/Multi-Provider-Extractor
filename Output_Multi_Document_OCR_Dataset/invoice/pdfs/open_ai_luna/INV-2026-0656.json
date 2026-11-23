@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0656",
+      "invoice_number": "INV-2026-0656",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "160 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "165 Doha Business Park, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-27",
+      "due_date": "2026-06-26",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 211.91,
+          "amount": 635.73
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 12.0,
+          "unit_price": 229.78,
+          "amount": 2757.36
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 835.85,
+          "amount": 7522.65
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 561.38,
+          "amount": 6175.18
+        }
+      ],
+      "subtotal": 17090.92,
+      "discount": 854.55,
+      "tax_rate": 0.07,
+      "tax": 1217.73,
+      "shipping": 5.0,
+      "total": 17459.1,
+      "amount_paid": 0.0,
+      "balance_due": 17459.1,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801312694069",
+      "po_number": "PO-78048",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1217.73; recomputed tax 1136.55."
+    }
+  ],
+  "Input_tokens": 2745,
+  "Output_tokens": 706,
+  "Output_thinking_tokens": 235,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002745,
+    "Output_tokens": 0.000353,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006275
+  }
+}

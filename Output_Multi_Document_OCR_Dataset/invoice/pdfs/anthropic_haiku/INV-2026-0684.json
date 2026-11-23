@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0684",
+      "invoice_number": "INV-2026-0684",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "164 Uttara Sector 7, Dhaka, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "127 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-05",
+      "due_date": "2026-05-12",
+      "currency": "BDT",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 760.12,
+          "amount": 760.12
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 117.1,
+          "amount": 234.2
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 1.0,
+          "unit_price": 285.83,
+          "amount": 285.83
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 463.41,
+          "amount": 2317.05
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 539.47,
+          "amount": 5934.17
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 6.0,
+          "unit_price": 183.84,
+          "amount": 1103.04
+        }
+      ],
+      "subtotal": 10634.41,
+      "discount": 531.72,
+      "tax_rate": 0.07,
+      "tax": 757.7,
+      "shipping": 10.0,
+      "total": 10870.39,
+      "amount_paid": 10870.39,
+      "balance_due": 0.0,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801515744680",
+      "po_number": "PO-23967",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax printed 757.70 vs recomputed 707.19 ((subtotal 10634.41 - discount 531.72) x tax rate 0.07 = 707.19). All other checks passed: line amounts, subtotal, total (10870.39), and balance due (0.00)."
+    }
+  ],
+  "Input_tokens": 4984,
+  "Output_tokens": 1419,
+  "Output_thinking_tokens": 758,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004984000000000001,
+    "Output_tokens": 0.0007095,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012079
+  }
+}

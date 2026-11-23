@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0524",
+      "invoice_number": "INV-2026-0524",
+      "company_name": "Delta Insurance Services",
+      "company_address": "183 Agrabad C/A, Chattogram, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "15 Doha Business Park, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-05",
+      "due_date": "2026-04-20",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 658.03,
+          "amount": 6580.3
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 4.0,
+          "unit_price": 494.43,
+          "amount": 1977.72
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 509.98,
+          "amount": 3059.88
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 809.2,
+          "amount": 5664.4
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 169.54,
+          "amount": 1017.24
+        },
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 387.1,
+          "amount": 2709.7
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 9.0,
+          "unit_price": 509.31,
+          "amount": 4583.79
+        }
+      ],
+      "subtotal": 25593.03,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1919.48,
+      "shipping": 10.0,
+      "total": 27522.51,
+      "amount_paid": 27522.51,
+      "balance_due": 0.0,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801731858272",
+      "po_number": "PO-84871",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1919.48 does not equal recomputed (subtotal 25593.03 - discount 0) x tax rate 0.07 = 1791.51 (difference 127.97)."
+    }
+  ],
+  "Input_tokens": 4987,
+  "Output_tokens": 1488,
+  "Output_thinking_tokens": 832,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004987,
+    "Output_tokens": 0.000744,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012427
+  }
+}

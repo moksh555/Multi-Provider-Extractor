@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0015",
+      "invoice_number": "INV-2026-0015",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "51 Zindabazar Road, Dhaka, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "149 Road 12, Banani, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-28",
+      "due_date": "2026-07-12",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 595.04,
+          "amount": 1190.08
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 11.0,
+          "unit_price": 513.55,
+          "amount": 5649.05
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 10.0,
+          "unit_price": 666.98,
+          "amount": 6669.8
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 9.0,
+          "unit_price": 368.69,
+          "amount": 3318.21
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 434.02,
+          "amount": 868.04
+        },
+        {
+          "description": "Web Development",
+          "quantity": 1.0,
+          "unit_price": 723.34,
+          "amount": 723.34
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 2.0,
+          "unit_price": 373.03,
+          "amount": 746.06
+        }
+      ],
+      "subtotal": 19164.58,
+      "discount": 1916.46,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 17253.12,
+      "amount_paid": 0.0,
+      "balance_due": 17253.12,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801841156697",
+      "po_number": "PO-48532",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2939,
+  "Output_tokens": 767,
+  "Output_thinking_tokens": 205,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029390000000000004,
+    "Output_tokens": 0.0003835,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006774000000000001
+  }
+}

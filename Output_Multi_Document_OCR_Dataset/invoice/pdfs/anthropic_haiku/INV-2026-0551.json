@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0551",
+      "invoice_number": "INV-2026-0551",
+      "company_name": "CityBanking Supplies",
+      "company_address": "157 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "248 Road 12, Banani, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-27",
+      "due_date": "2026-07-27",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 4.0,
+          "unit_price": 184.79,
+          "amount": 739.16
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 259.14,
+          "amount": 1036.56
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 5.0,
+          "unit_price": 725.2,
+          "amount": 3626.0
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 5.0,
+          "unit_price": 720.86,
+          "amount": 3604.3
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 9.0,
+          "unit_price": 520.72,
+          "amount": 4686.48
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 8.0,
+          "unit_price": 371.11,
+          "amount": 2968.88
+        }
+      ],
+      "subtotal": 16661.38,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2499.21,
+      "shipping": 10.0,
+      "total": 19170.59,
+      "amount_paid": 19170.59,
+      "balance_due": 0.0,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801941299864",
+      "po_number": "PO-37676",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4985,
+  "Output_tokens": 1210,
+  "Output_thinking_tokens": 662,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004985,
+    "Output_tokens": 0.000605,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011034999999999999
+  }
+}

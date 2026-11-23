@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0879",
+      "invoice_number": "INV-2026-0879",
+      "company_name": "Delta Insurance Services",
+      "company_address": "79 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "164 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-03",
+      "due_date": "2026-01-18",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 6.0,
+          "unit_price": 305.33,
+          "amount": 1831.98
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 318.08,
+          "amount": 3498.88
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 547.87,
+          "amount": 4382.96
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 8.0,
+          "unit_price": 341.85,
+          "amount": 2734.8
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 67.01,
+          "amount": 335.05
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 266.4,
+          "amount": 1864.8
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 3.0,
+          "unit_price": 529.05,
+          "amount": 1587.15
+        }
+      ],
+      "subtotal": 16235.62,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1217.67,
+      "shipping": 10.0,
+      "total": 17463.29,
+      "amount_paid": 0.0,
+      "balance_due": 17463.29,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801524151626",
+      "po_number": "PO-18661",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 1217.67; recomputed tax is 1136.49 from (16235.62 - 0) × 0.07."
+    }
+  ],
+  "Input_tokens": 2954,
+  "Output_tokens": 967,
+  "Output_thinking_tokens": 369,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002954,
+    "Output_tokens": 0.0004835,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007789
+  }
+}

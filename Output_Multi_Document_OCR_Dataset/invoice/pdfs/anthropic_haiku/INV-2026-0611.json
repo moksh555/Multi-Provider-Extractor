@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0611",
+      "invoice_number": "INV-2026-0611",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "177 Road 12, Banani, Dubai, UAE",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "7 Agrabad C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-16",
+      "due_date": "2026-07-01",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 170.56,
+          "amount": 682.24
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 55.24,
+          "amount": 662.88
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 600.06,
+          "amount": 7200.72
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 612.36,
+          "amount": 1224.72
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 344.97,
+          "amount": 2759.76
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 340.95,
+          "amount": 340.95
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 11.0,
+          "unit_price": 193.0,
+          "amount": 2123.0
+        }
+      ],
+      "subtotal": 14994.27,
+      "discount": 1499.43,
+      "tax_rate": 0.1,
+      "tax": 1349.48,
+      "shipping": 0.0,
+      "total": 14844.32,
+      "amount_paid": 10010.28,
+      "balance_due": 4834.04,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801400171888",
+      "po_number": "PO-75523",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4999,
+  "Output_tokens": 1449,
+  "Output_thinking_tokens": 850,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004999000000000001,
+    "Output_tokens": 0.0007245,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012244
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0021",
+      "invoice_number": "INV-2026-0021",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "39 Uttara Sector 7, Dhaka, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "166 Mirpur DOHS, Dubai, UAE",
+      "invoice_date": "2026-03-16",
+      "due_date": "2026-04-15",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 330.98,
+          "amount": 992.94
+        },
+        {
+          "description": "API Integration",
+          "quantity": 9.0,
+          "unit_price": 636.38,
+          "amount": 5727.42
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 240.6,
+          "amount": 481.2
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 6.0,
+          "unit_price": 794.64,
+          "amount": 4767.84
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 698.9,
+          "amount": 3494.5
+        }
+      ],
+      "subtotal": 15463.9,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1546.39,
+      "shipping": 5.0,
+      "total": 17015.29,
+      "amount_paid": 0.0,
+      "balance_due": 17015.29,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801259415355",
+      "po_number": "PO-43165",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2809,
+  "Output_tokens": 751,
+  "Output_thinking_tokens": 271,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028090000000000005,
+    "Output_tokens": 0.0003755,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006564000000000001
+  }
+}

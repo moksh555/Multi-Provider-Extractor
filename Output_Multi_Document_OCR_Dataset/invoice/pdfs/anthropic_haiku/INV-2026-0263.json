@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0263",
+      "invoice_number": "INV-2026-0263",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "43 Sheikh Zayed Road, Dubai, UAE",
+      "customer_name": "TechPoint BD",
+      "billing_address": "123 Al Barsha, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-18",
+      "due_date": "2026-06-25",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 4.0,
+          "unit_price": 381.46,
+          "amount": 1525.84
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 664.94,
+          "amount": 3989.64
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 11.0,
+          "unit_price": 213.62,
+          "amount": 2349.82
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 6.0,
+          "unit_price": 595.52,
+          "amount": 3573.12
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 2.0,
+          "unit_price": 53.47,
+          "amount": 106.94
+        }
+      ],
+      "subtotal": 11545.36,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1731.8,
+      "shipping": 10.0,
+      "total": 13287.16,
+      "amount_paid": 8008.85,
+      "balance_due": 5278.31,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801409853517",
+      "po_number": "PO-70247",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4941,
+  "Output_tokens": 1332,
+  "Output_thinking_tokens": 820,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004941,
+    "Output_tokens": 0.000666,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011601
+  }
+}

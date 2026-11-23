@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0485",
+      "invoice_number": "INV-2026-0485",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "80 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "Future School",
+      "billing_address": "50 Sheikh Zayed Road, Doha, Qatar",
+      "invoice_date": "2026-03-19",
+      "due_date": "2026-03-26",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 11.0,
+          "unit_price": 297.11,
+          "amount": 3268.21
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 12.0,
+          "unit_price": 497.64,
+          "amount": 5971.68
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 847.68,
+          "amount": 1695.36
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 10.0,
+          "unit_price": 457.38,
+          "amount": 4573.8
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 274.1,
+          "amount": 1370.5
+        }
+      ],
+      "subtotal": 16879.55,
+      "discount": 337.59,
+      "tax_rate": 0.05,
+      "tax": 827.1,
+      "shipping": 25.0,
+      "total": 17394.06,
+      "amount_paid": 0.0,
+      "balance_due": 17394.06,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801653091803",
+      "po_number": "PO-90459",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4943,
+  "Output_tokens": 1253,
+  "Output_thinking_tokens": 754,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004943,
+    "Output_tokens": 0.0006265,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011208
+  }
+}

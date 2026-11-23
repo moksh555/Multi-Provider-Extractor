@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0826",
+      "invoice_number": "INV-2026-0826",
+      "company_name": "Golden Harvest Store",
+      "company_address": "157 Zindabazar Road, Dubai, UAE",
+      "customer_name": "Rahim Traders",
+      "billing_address": "47 Road 12, Banani, Dubai, UAE",
+      "invoice_date": "2026-05-18",
+      "due_date": "2026-06-17",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 697.41,
+          "amount": 7671.51
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 1.0,
+          "unit_price": 647.99,
+          "amount": 647.99
+        }
+      ],
+      "subtotal": 8319.5,
+      "discount": 415.98,
+      "tax_rate": 0.05,
+      "tax": 395.18,
+      "shipping": 50.0,
+      "total": 8348.7,
+      "amount_paid": 0.0,
+      "balance_due": 8348.7,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801379148019",
+      "po_number": "PO-87406",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2621,
+  "Output_tokens": 447,
+  "Output_thinking_tokens": 183,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026210000000000003,
+    "Output_tokens": 0.0002235,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00048560000000000004
+  }
+}

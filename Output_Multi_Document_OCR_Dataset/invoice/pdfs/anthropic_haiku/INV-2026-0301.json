@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0301",
+      "invoice_number": "INV-2026-0301",
+      "company_name": "Greenline Logistics",
+      "company_address": "182 Mirpur DOHS, Sylhet, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "41 Agrabad C/A, Dubai, UAE",
+      "invoice_date": "2026-02-13",
+      "due_date": "2026-02-28",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 7.0,
+          "unit_price": 664.55,
+          "amount": 4651.85
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 4.0,
+          "unit_price": 793.45,
+          "amount": 3173.8
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 5.0,
+          "unit_price": 320.21,
+          "amount": 1601.05
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 619.89,
+          "amount": 3719.34
+        },
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 267.35,
+          "amount": 2138.8
+        }
+      ],
+      "subtotal": 15284.84,
+      "discount": 1528.48,
+      "tax_rate": 0.07,
+      "tax": 1031.73,
+      "shipping": 25.0,
+      "total": 14813.09,
+      "amount_paid": 0.0,
+      "balance_due": 14813.09,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801709046142",
+      "po_number": "PO-82628",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1031.73 vs recomputed 963.05 ((subtotal 15284.84 - discount 1528.48) x tax rate 0.07 = 13756.36 x 0.07 = 963.0452). The printed tax equals 7.5% of the base, not the printed 7%. All line amounts, subtotal, total and balance due checks pass."
+    }
+  ],
+  "Input_tokens": 4949,
+  "Output_tokens": 1575,
+  "Output_thinking_tokens": 936,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004949,
+    "Output_tokens": 0.0007875,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012824
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0999",
+      "invoice_number": "INV-2026-0999",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "83 Doha Business Park, Riyadh, Saudi Arabia",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "225 Gulshan Avenue, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-24",
+      "due_date": "2026-03-11",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 8.0,
+          "unit_price": 669.27,
+          "amount": 5354.16
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 6.0,
+          "unit_price": 754.42,
+          "amount": 4526.52
+        }
+      ],
+      "subtotal": 9880.68,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 494.03,
+      "shipping": 10.0,
+      "total": 10384.71,
+      "amount_paid": 0.0,
+      "balance_due": 10384.71,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801977358205",
+      "po_number": "PO-38926",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4879,
+  "Output_tokens": 913,
+  "Output_thinking_tokens": 510,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048790000000000004,
+    "Output_tokens": 0.0004565,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009444
+  }
+}

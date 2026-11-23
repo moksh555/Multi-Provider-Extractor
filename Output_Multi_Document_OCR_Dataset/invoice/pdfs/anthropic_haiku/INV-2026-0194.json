@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0194",
+      "invoice_number": "INV-2026-0194",
+      "company_name": "Summit Agro Foods",
+      "company_address": "177 Gulshan Avenue, Sylhet, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "240 Agrabad C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-27",
+      "due_date": "2026-05-12",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 63.05,
+          "amount": 756.6
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 677.3,
+          "amount": 2031.9
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 9.0,
+          "unit_price": 326.44,
+          "amount": 2937.96
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 6.0,
+          "unit_price": 512.82,
+          "amount": 3076.92
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 1.0,
+          "unit_price": 650.52,
+          "amount": 650.52
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 727.43,
+          "amount": 2909.72
+        }
+      ],
+      "subtotal": 12363.62,
+      "discount": 1236.36,
+      "tax_rate": 0.05,
+      "tax": 556.36,
+      "shipping": 5.0,
+      "total": 11688.62,
+      "amount_paid": 7536.75,
+      "balance_due": 4151.87,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801262155477",
+      "po_number": "PO-76138",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4977,
+  "Output_tokens": 1267,
+  "Output_thinking_tokens": 702,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004977,
+    "Output_tokens": 0.0006335,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011312
+  }
+}

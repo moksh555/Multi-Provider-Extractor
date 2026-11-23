@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0043",
+      "invoice_number": "INV-2026-0043",
+      "company_name": "BrightStar Electronics",
+      "company_address": "98 Motijheel C/A, Chattogram, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "195 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-05-24",
+      "due_date": "2026-05-31",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 4.0,
+          "unit_price": 126.62,
+          "amount": 506.48
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 804.01,
+          "amount": 4020.05
+        },
+        {
+          "description": "API Integration",
+          "quantity": 7.0,
+          "unit_price": 217.04,
+          "amount": 1519.28
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 6.0,
+          "unit_price": 794.22,
+          "amount": 4765.32
+        }
+      ],
+      "subtotal": 10811.13,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1081.11,
+      "shipping": 50.0,
+      "total": 11942.24,
+      "amount_paid": 0.0,
+      "balance_due": 11942.24,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801119484034",
+      "po_number": "PO-25025",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4908,
+  "Output_tokens": 1172,
+  "Output_thinking_tokens": 700,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004908,
+    "Output_tokens": 0.000586,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010768000000000002
+  }
+}

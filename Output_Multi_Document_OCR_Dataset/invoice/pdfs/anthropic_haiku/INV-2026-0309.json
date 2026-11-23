@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0309",
+      "invoice_number": "INV-2026-0309",
+      "company_name": "Summit Agro Foods",
+      "company_address": "178 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "customer_name": "Global Mart",
+      "billing_address": "25 Doha Business Park, Dubai, UAE",
+      "invoice_date": "2026-03-14",
+      "due_date": "2026-03-21",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 606.21,
+          "amount": 3637.26
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 505.44,
+          "amount": 5559.84
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 839.6,
+          "amount": 8396.0
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 284.13,
+          "amount": 852.39
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 130.28,
+          "amount": 1433.08
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 12.0,
+          "unit_price": 770.86,
+          "amount": 9250.32
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 11.0,
+          "unit_price": 48.43,
+          "amount": 532.73
+        }
+      ],
+      "subtotal": 29661.62,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 2224.62,
+      "shipping": 0.0,
+      "total": 31886.24,
+      "amount_paid": 0.0,
+      "balance_due": 31886.24,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801068230481",
+      "po_number": "PO-89494",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax equals (subtotal - discount) x tax rate. Printed tax 2224.62 vs recomputed 2076.31 (29661.62 x 0.07). The printed tax matches a 7.5% rate, not the printed 7%."
+    }
+  ],
+  "Input_tokens": 5003,
+  "Output_tokens": 1701,
+  "Output_thinking_tokens": 1031,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005003,
+    "Output_tokens": 0.0008505,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0013508
+  }
+}

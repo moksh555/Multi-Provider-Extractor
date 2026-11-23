@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0251",
+      "invoice_number": "INV-2026-0251",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "88 Doha Business Park, Chattogram, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "44 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-01-18",
+      "due_date": "2026-02-02",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 7.0,
+          "unit_price": 289.27,
+          "amount": 2024.89
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 5.0,
+          "unit_price": 750.02,
+          "amount": 3750.1
+        }
+      ],
+      "subtotal": 5774.99,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 577.5,
+      "shipping": 0.0,
+      "total": 6352.49,
+      "amount_paid": 3745.44,
+      "balance_due": 2607.05,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801595421859",
+      "po_number": "PO-85110",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4884,
+  "Output_tokens": 947,
+  "Output_thinking_tokens": 534,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004884,
+    "Output_tokens": 0.0004735,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009619000000000001
+  }
+}

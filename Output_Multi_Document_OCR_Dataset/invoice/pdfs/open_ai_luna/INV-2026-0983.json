@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0983",
+      "invoice_number": "INV-2026-0983",
+      "company_name": "Summit Agro Foods",
+      "company_address": "96 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "201 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-03-24",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 58.81,
+          "amount": 117.62
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 1.0,
+          "unit_price": 73.16,
+          "amount": 73.16
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 10.0,
+          "unit_price": 757.39,
+          "amount": 7573.9
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 22.87,
+          "amount": 251.57
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 525.94,
+          "amount": 6311.28
+        }
+      ],
+      "subtotal": 14327.53,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1074.56,
+      "shipping": 25.0,
+      "total": 15427.09,
+      "amount_paid": 0.0,
+      "balance_due": 15427.09,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801094384390",
+      "po_number": "PO-54039",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 1074.56; recomputed tax is 1002.93 (subtotal 14327.53 minus discount 0, multiplied by printed tax rate 0.07)."
+    }
+  ],
+  "Input_tokens": 2803,
+  "Output_tokens": 661,
+  "Output_thinking_tokens": 291,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028030000000000004,
+    "Output_tokens": 0.0003305,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006108000000000001
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0187",
+      "invoice_number": "INV-2026-0187",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "63 Sheikh Zayed Road, Doha, Qatar",
+      "customer_name": "Future School",
+      "billing_address": "246 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-29",
+      "due_date": "2026-04-28",
+      "currency": "SAR",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 815.47,
+          "amount": 6523.76
+        },
+        {
+          "description": "Web Development",
+          "quantity": 1.0,
+          "unit_price": 777.6,
+          "amount": 777.6
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 11.0,
+          "unit_price": 784.54,
+          "amount": 8629.94
+        },
+        {
+          "description": "API Integration",
+          "quantity": 8.0,
+          "unit_price": 11.6,
+          "amount": 92.8
+        }
+      ],
+      "subtotal": 16024.1,
+      "discount": 320.48,
+      "tax_rate": 0.05,
+      "tax": 785.18,
+      "shipping": 0.0,
+      "total": 16488.8,
+      "amount_paid": 9668.26,
+      "balance_due": 6820.54,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801564308658",
+      "po_number": "PO-84193",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4928,
+  "Output_tokens": 1238,
+  "Output_thinking_tokens": 761,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004928,
+    "Output_tokens": 0.000619,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011118
+  }
+}

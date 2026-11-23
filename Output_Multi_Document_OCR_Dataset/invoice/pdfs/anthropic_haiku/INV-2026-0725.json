@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0725",
+      "invoice_number": "INV-2026-0725",
+      "company_name": "Summit Agro Foods",
+      "company_address": "153 Road 12, Banani, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "29 Motijheel C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-12",
+      "due_date": "2026-04-27",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 8.0,
+          "unit_price": 620.04,
+          "amount": 4960.32
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 1.0,
+          "unit_price": 217.43,
+          "amount": 217.43
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 5.0,
+          "unit_price": 322.75,
+          "amount": 1613.75
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 2.0,
+          "unit_price": 801.89,
+          "amount": 1603.78
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 2.0,
+          "unit_price": 375.02,
+          "amount": 750.04
+        }
+      ],
+      "subtotal": 9145.32,
+      "discount": 914.53,
+      "tax_rate": 0.1,
+      "tax": 823.08,
+      "shipping": 5.0,
+      "total": 9058.87,
+      "amount_paid": 0.0,
+      "balance_due": 9058.87,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801405275070",
+      "po_number": "PO-41981",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4932,
+  "Output_tokens": 1168,
+  "Output_thinking_tokens": 658,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004932000000000001,
+    "Output_tokens": 0.000584,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010772
+  }
+}

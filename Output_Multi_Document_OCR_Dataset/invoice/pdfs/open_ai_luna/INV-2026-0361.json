@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0361",
+      "invoice_number": "INV-2026-0361",
+      "company_name": "Metro Print House",
+      "company_address": "134 Motijheel C/A, Doha, Qatar",
+      "customer_name": "Bengal Motors",
+      "billing_address": "10 Al Barsha, Doha, Qatar",
+      "invoice_date": "2026-05-25",
+      "due_date": "2026-06-01",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 127.74,
+          "amount": 383.22
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 2.0,
+          "unit_price": 527.41,
+          "amount": 1054.82
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 193.44,
+          "amount": 1354.08
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 18.2,
+          "amount": 91.0
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 360.27,
+          "amount": 1441.08
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 681.16,
+          "amount": 4768.12
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 468.62,
+          "amount": 3280.34
+        }
+      ],
+      "subtotal": 12372.66,
+      "discount": 618.63,
+      "tax_rate": 0.07,
+      "tax": 881.55,
+      "shipping": 5.0,
+      "total": 12640.58,
+      "amount_paid": 0.0,
+      "balance_due": 12640.58,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801008240499",
+      "po_number": "PO-40486",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed value 881.55; recomputed value 822.78."
+    }
+  ],
+  "Input_tokens": 2945,
+  "Output_tokens": 922,
+  "Output_thinking_tokens": 349,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002945,
+    "Output_tokens": 0.000461,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007555
+  }
+}

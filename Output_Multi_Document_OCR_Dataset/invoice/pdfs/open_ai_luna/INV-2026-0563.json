@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0563",
+      "invoice_number": "INV-2026-0563",
+      "company_name": "BrightStar Electronics",
+      "company_address": "92 Gulshan Avenue, Sylhet, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "216 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-29",
+      "due_date": "2026-04-13",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 521.07,
+          "amount": 6252.84
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 4.0,
+          "unit_price": 472.04,
+          "amount": 1888.16
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 32.8,
+          "amount": 65.6
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 837.1,
+          "amount": 4185.5
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 138.28,
+          "amount": 1521.08
+        }
+      ],
+      "subtotal": 13913.18,
+      "discount": 278.26,
+      "tax_rate": 0.1,
+      "tax": 1363.49,
+      "shipping": 10.0,
+      "total": 15008.41,
+      "amount_paid": 15008.41,
+      "balance_due": 0.0,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801711442085",
+      "po_number": "PO-99424",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2811,
+  "Output_tokens": 573,
+  "Output_thinking_tokens": 245,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002811,
+    "Output_tokens": 0.0002865,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005676
+  }
+}

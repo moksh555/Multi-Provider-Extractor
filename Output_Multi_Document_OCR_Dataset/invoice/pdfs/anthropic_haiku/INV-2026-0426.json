@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0426",
+      "invoice_number": "INV-2026-0426",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "41 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "185 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-16",
+      "due_date": "2026-02-23",
+      "currency": "SAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 6.0,
+          "unit_price": 103.47,
+          "amount": 620.82
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 2.0,
+          "unit_price": 363.73,
+          "amount": 727.46
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 708.99,
+          "amount": 2835.96
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 9.0,
+          "unit_price": 687.92,
+          "amount": 6191.28
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 272.71,
+          "amount": 1908.97
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 553.29,
+          "amount": 6639.48
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 495.74,
+          "amount": 4461.66
+        }
+      ],
+      "subtotal": 23385.63,
+      "discount": 1169.28,
+      "tax_rate": 0.05,
+      "tax": 1110.82,
+      "shipping": 5.0,
+      "total": 23332.17,
+      "amount_paid": 10177.36,
+      "balance_due": 13154.81,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801300658292",
+      "po_number": "PO-09962",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5036,
+  "Output_tokens": 1427,
+  "Output_thinking_tokens": 814,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005036,
+    "Output_tokens": 0.0007135,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012171
+  }
+}

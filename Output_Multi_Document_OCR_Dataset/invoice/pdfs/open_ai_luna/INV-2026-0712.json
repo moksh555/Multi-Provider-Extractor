@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0712",
+      "invoice_number": "INV-2026-0712",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "68 Agrabad C/A, Doha, Qatar",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "28 Doha Business Park, Chattogram, Bangladesh",
+      "invoice_date": "2026-04-11",
+      "due_date": "2026-05-11",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 22.25,
+          "amount": 155.75
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 647.14,
+          "amount": 4529.98
+        }
+      ],
+      "subtotal": 4685.73,
+      "discount": 93.71,
+      "tax_rate": 0.1,
+      "tax": 459.2,
+      "shipping": 10.0,
+      "total": 5061.22,
+      "amount_paid": 0.0,
+      "balance_due": 5061.22,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801206049260",
+      "po_number": "PO-05434",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2610,
+  "Output_tokens": 432,
+  "Output_thinking_tokens": 180,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000261,
+    "Output_tokens": 0.000216,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000477
+  }
+}

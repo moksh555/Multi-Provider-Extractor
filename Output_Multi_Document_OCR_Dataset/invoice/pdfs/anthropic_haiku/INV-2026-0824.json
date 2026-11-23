@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0824",
+      "invoice_number": "INV-2026-0824",
+      "company_name": "Golden Harvest Store",
+      "company_address": "87 Agrabad C/A, Dubai, UAE",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "180 Road 12, Banani, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-28",
+      "due_date": "2026-06-27",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 546.7,
+          "amount": 546.7
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 670.06,
+          "amount": 1340.12
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 12.0,
+          "unit_price": 234.96,
+          "amount": 2819.52
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 2.0,
+          "unit_price": 697.53,
+          "amount": 1395.06
+        },
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 597.46,
+          "amount": 7169.52
+        }
+      ],
+      "subtotal": 13270.92,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 995.32,
+      "shipping": 25.0,
+      "total": 14291.24,
+      "amount_paid": 0.0,
+      "balance_due": 14291.24,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801568896544",
+      "po_number": "PO-85313",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 995.32 does not match recomputed tax (13270.92 - 0.00) x 0.07 = 928.96."
+    }
+  ],
+  "Input_tokens": 4937,
+  "Output_tokens": 1373,
+  "Output_thinking_tokens": 806,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004937,
+    "Output_tokens": 0.0006865,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011802000000000002
+  }
+}

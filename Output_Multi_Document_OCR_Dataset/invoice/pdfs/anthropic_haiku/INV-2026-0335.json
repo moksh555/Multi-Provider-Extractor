@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0335",
+      "invoice_number": "INV-2026-0335",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "135 Dhanmondi 27, Doha, Qatar",
+      "customer_name": "TechPoint BD",
+      "billing_address": "191 Agrabad C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-31",
+      "due_date": "2026-06-15",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 398.37,
+          "amount": 2788.59
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 8.0,
+          "unit_price": 136.56,
+          "amount": 1092.48
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 807.59,
+          "amount": 5653.13
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 6.0,
+          "unit_price": 329.19,
+          "amount": 1975.14
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 315.93,
+          "amount": 2211.51
+        }
+      ],
+      "subtotal": 13720.85,
+      "discount": 686.04,
+      "tax_rate": 0.1,
+      "tax": 1303.48,
+      "shipping": 10.0,
+      "total": 14348.29,
+      "amount_paid": 9264.51,
+      "balance_due": 5083.78,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801919204214",
+      "po_number": "PO-18821",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4958,
+  "Output_tokens": 1374,
+  "Output_thinking_tokens": 843,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004958,
+    "Output_tokens": 0.000687,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011828
+  }
+}

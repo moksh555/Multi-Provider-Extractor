@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0092",
+      "invoice_number": "INV-2026-0092",
+      "company_name": "CityBanking Supplies",
+      "company_address": "159 Uttara Sector 7, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "200 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-29",
+      "due_date": "2026-06-13",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 9.0,
+          "unit_price": 750.13,
+          "amount": 6751.17
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 779.2,
+          "amount": 7792.0
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 343.01,
+          "amount": 1715.05
+        },
+        {
+          "description": "Web Development",
+          "quantity": 5.0,
+          "unit_price": 389.3,
+          "amount": 1946.5
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 355.53,
+          "amount": 1066.59
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 717.87,
+          "amount": 3589.35
+        }
+      ],
+      "subtotal": 22860.66,
+      "discount": 2286.07,
+      "tax_rate": 0.1,
+      "tax": 2057.46,
+      "shipping": 25.0,
+      "total": 22657.05,
+      "amount_paid": 22657.05,
+      "balance_due": 0.0,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801796262369",
+      "po_number": "PO-69563",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4992,
+  "Output_tokens": 1405,
+  "Output_thinking_tokens": 845,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004992000000000001,
+    "Output_tokens": 0.0007025,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012017
+  }
+}

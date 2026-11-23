@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0808",
+      "invoice_number": "INV-2026-0808",
+      "company_name": "Delta Insurance Services",
+      "company_address": "60 Agrabad C/A, Dhaka, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "246 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-04",
+      "due_date": "2026-04-03",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 510.88,
+          "amount": 4087.04
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 684.33,
+          "amount": 1368.66
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 685.23,
+          "amount": 685.23
+        }
+      ],
+      "subtotal": 6140.93,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 460.57,
+      "shipping": 50.0,
+      "total": 6651.5,
+      "amount_paid": 3202.4,
+      "balance_due": 3449.1,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801019625902",
+      "po_number": "PO-26567",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 460.57 does not equal (subtotal 6140.93 - discount 0) x tax rate 0.07; recomputed tax is 429.87. The printed tax implies a rate of about 7.5%."
+    }
+  ],
+  "Input_tokens": 4903,
+  "Output_tokens": 1343,
+  "Output_thinking_tokens": 819,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004903,
+    "Output_tokens": 0.0006715,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011618000000000002
+  }
+}

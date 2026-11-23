@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0899",
+      "invoice_number": "INV-2026-0899",
+      "company_name": "Summit Agro Foods",
+      "company_address": "101 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "105 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-09",
+      "due_date": "2026-05-24",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 22.39,
+          "amount": 156.73
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 6.0,
+          "unit_price": 719.71,
+          "amount": 4318.26
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2.0,
+          "unit_price": 55.94,
+          "amount": 111.88
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 117.06,
+          "amount": 585.3
+        }
+      ],
+      "subtotal": 5172.17,
+      "discount": 103.44,
+      "tax_rate": 0.05,
+      "tax": 253.44,
+      "shipping": 0.0,
+      "total": 5322.17,
+      "amount_paid": 0.0,
+      "balance_due": 5322.17,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801136958125",
+      "po_number": "PO-03763",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4924,
+  "Output_tokens": 1170,
+  "Output_thinking_tokens": 684,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004924,
+    "Output_tokens": 0.000585,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010774
+  }
+}

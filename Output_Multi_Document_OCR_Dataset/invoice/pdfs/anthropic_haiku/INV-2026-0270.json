@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0270",
+      "invoice_number": "INV-2026-0270",
+      "company_name": "Metro Print House",
+      "company_address": "121 Zindabazar Road, Dubai, UAE",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "180 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-16",
+      "due_date": "2026-02-23",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 277.81,
+          "amount": 1944.67
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 9.0,
+          "unit_price": 616.37,
+          "amount": 5547.33
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 2.0,
+          "unit_price": 203.57,
+          "amount": 407.14
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 6.0,
+          "unit_price": 48.66,
+          "amount": 291.96
+        }
+      ],
+      "subtotal": 8191.1,
+      "discount": 819.11,
+      "tax_rate": 0.15,
+      "tax": 1105.8,
+      "shipping": 25.0,
+      "total": 8502.79,
+      "amount_paid": 8502.79,
+      "balance_due": 0.0,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801584331187",
+      "po_number": "PO-92556",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4919,
+  "Output_tokens": 1214,
+  "Output_thinking_tokens": 744,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004919000000000001,
+    "Output_tokens": 0.000607,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010989
+  }
+}

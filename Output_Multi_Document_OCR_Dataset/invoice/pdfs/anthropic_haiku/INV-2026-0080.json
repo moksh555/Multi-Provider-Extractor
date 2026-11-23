@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0080",
+      "invoice_number": "INV-2026-0080",
+      "company_name": "Greenline Logistics",
+      "company_address": "20 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "175 Motijheel C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-10",
+      "due_date": "2026-06-25",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 9.0,
+          "unit_price": 342.57,
+          "amount": 3083.13
+        },
+        {
+          "description": "Web Development",
+          "quantity": 5.0,
+          "unit_price": 445.58,
+          "amount": 2227.9
+        }
+      ],
+      "subtotal": 5311.03,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 398.33,
+      "shipping": 0.0,
+      "total": 5709.36,
+      "amount_paid": 3672.69,
+      "balance_due": 2036.67,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801571155911",
+      "po_number": "PO-77888",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 398.33 does not equal (subtotal 5311.03 - discount 0.00) x tax rate 0.07; recomputed tax 371.77 (printed 398.33 implies 7.5%). All other checks passed."
+    }
+  ],
+  "Input_tokens": 4874,
+  "Output_tokens": 1259,
+  "Output_thinking_tokens": 765,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048740000000000003,
+    "Output_tokens": 0.0006295,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011169
+  }
+}

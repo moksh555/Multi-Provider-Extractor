@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0056",
+      "invoice_number": "INV-2026-0056",
+      "company_name": "CityBanking Supplies",
+      "company_address": "55 Gulshan Avenue, Dhaka, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "135 Mirpur DOHS, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-19",
+      "due_date": "2026-03-21",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 483.73,
+          "amount": 3869.84
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 583.96,
+          "amount": 2919.8
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 842.99,
+          "amount": 9272.89
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 2.0,
+          "unit_price": 349.24,
+          "amount": 698.48
+        }
+      ],
+      "subtotal": 16761.01,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1676.1,
+      "shipping": 10.0,
+      "total": 18447.11,
+      "amount_paid": 9709.65,
+      "balance_due": 8737.46,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801670863998",
+      "po_number": "PO-92965",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2742,
+  "Output_tokens": 598,
+  "Output_thinking_tokens": 158,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002742,
+    "Output_tokens": 0.000299,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005732000000000001
+  }
+}

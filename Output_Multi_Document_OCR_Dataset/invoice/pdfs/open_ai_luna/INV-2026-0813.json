@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0813",
+      "invoice_number": "INV-2026-0813",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "96 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "203 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-02",
+      "due_date": "2026-05-02",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 188.77,
+          "amount": 2076.47
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 415.24,
+          "amount": 4567.64
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 436.56,
+          "amount": 3055.92
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 10.0,
+          "unit_price": 307.85,
+          "amount": 3078.5
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 5.0,
+          "unit_price": 840.33,
+          "amount": 4201.65
+        }
+      ],
+      "subtotal": 16980.18,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 849.01,
+      "shipping": 50.0,
+      "total": 17879.19,
+      "amount_paid": 0.0,
+      "balance_due": 17879.19,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801057024334",
+      "po_number": "PO-31655",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2807,
+  "Output_tokens": 535,
+  "Output_thinking_tokens": 212,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002807,
+    "Output_tokens": 0.0002675,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005482
+  }
+}

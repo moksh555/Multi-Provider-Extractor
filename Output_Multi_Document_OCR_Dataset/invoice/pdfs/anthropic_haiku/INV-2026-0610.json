@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0610",
+      "invoice_number": "INV-2026-0610",
+      "company_name": "CityBanking Supplies",
+      "company_address": "108 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "220 Gulshan Avenue, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-22",
+      "due_date": "2026-06-29",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 510.91,
+          "amount": 1532.73
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 12.0,
+          "unit_price": 277.08,
+          "amount": 3324.96
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10.0,
+          "unit_price": 379.2,
+          "amount": 3792.0
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 584.61,
+          "amount": 2923.05
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 69.42,
+          "amount": 208.26
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 261.58,
+          "amount": 523.16
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 1.0,
+          "unit_price": 164.65,
+          "amount": 164.65
+        }
+      ],
+      "subtotal": 12468.81,
+      "discount": 623.44,
+      "tax_rate": 0.1,
+      "tax": 1184.54,
+      "shipping": 0.0,
+      "total": 13029.91,
+      "amount_paid": 0.0,
+      "balance_due": 13029.91,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801849686623",
+      "po_number": "PO-45811",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5022,
+  "Output_tokens": 1353,
+  "Output_thinking_tokens": 753,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005022000000000001,
+    "Output_tokens": 0.0006765,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011787
+  }
+}

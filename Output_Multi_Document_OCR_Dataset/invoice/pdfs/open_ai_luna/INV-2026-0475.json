@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0475",
+      "invoice_number": "INV-2026-0475",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "187 Road 12, Banani, Riyadh, Saudi Arabia",
+      "customer_name": "TechPoint BD",
+      "billing_address": "239 Agrabad C/A, Doha, Qatar",
+      "invoice_date": "2026-02-08",
+      "due_date": "2026-03-10",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 753.8,
+          "amount": 9045.6
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 8.0,
+          "unit_price": 93.9,
+          "amount": 751.2
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 3.0,
+          "unit_price": 770.28,
+          "amount": 2310.84
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 12.0,
+          "unit_price": 222.31,
+          "amount": 2667.72
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 390.61,
+          "amount": 3515.49
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 311.72,
+          "amount": 311.72
+        }
+      ],
+      "subtotal": 18602.57,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1395.19,
+      "shipping": 5.0,
+      "total": 20002.76,
+      "amount_paid": 6497.43,
+      "balance_due": 13505.33,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801333856811",
+      "po_number": "PO-76822",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 1395.19; recomputed 1302.18."
+    }
+  ],
+  "Input_tokens": 2870,
+  "Output_tokens": 628,
+  "Output_thinking_tokens": 258,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000287,
+    "Output_tokens": 0.000314,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000601
+  }
+}

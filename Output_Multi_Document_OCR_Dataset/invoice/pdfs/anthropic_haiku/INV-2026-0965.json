@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0965",
+      "invoice_number": "INV-2026-0965",
+      "company_name": "Delta Insurance Services",
+      "company_address": "108 Al Barsha, Sylhet, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "100 Dhanmondi 27, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-26",
+      "due_date": "2026-03-13",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 7.0,
+          "unit_price": 828.16,
+          "amount": 5797.12
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 493.97,
+          "amount": 3951.76
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 675.89,
+          "amount": 2027.67
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 430.68,
+          "amount": 1292.04
+        },
+        {
+          "description": "API Integration",
+          "quantity": 2.0,
+          "unit_price": 298.43,
+          "amount": 596.86
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 416.31,
+          "amount": 1665.24
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 9.0,
+          "unit_price": 754.07,
+          "amount": 6786.63
+        }
+      ],
+      "subtotal": 22117.32,
+      "discount": 442.35,
+      "tax_rate": 0.1,
+      "tax": 2167.5,
+      "shipping": 10.0,
+      "total": 23852.47,
+      "amount_paid": 0.0,
+      "balance_due": 23852.47,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801233160904",
+      "po_number": "PO-70495",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4996,
+  "Output_tokens": 1450,
+  "Output_thinking_tokens": 858,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004996,
+    "Output_tokens": 0.000725,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012246
+  }
+}

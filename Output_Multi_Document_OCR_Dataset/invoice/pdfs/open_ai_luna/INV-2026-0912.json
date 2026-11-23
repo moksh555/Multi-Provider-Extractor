@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0912",
+      "invoice_number": "INV-2026-0912",
+      "company_name": "Summit Agro Foods",
+      "company_address": "27 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "52 Al Barsha, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-01-17",
+      "due_date": "2026-01-24",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 10.0,
+          "unit_price": 33.28,
+          "amount": 332.8
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 337.48,
+          "amount": 3712.28
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 200.43,
+          "amount": 1403.01
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 412.3,
+          "amount": 2061.5
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 2.0,
+          "unit_price": 555.34,
+          "amount": 1110.68
+        }
+      ],
+      "subtotal": 8620.27,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1293.04,
+      "shipping": 0.0,
+      "total": 9913.31,
+      "amount_paid": 0.0,
+      "balance_due": 9913.31,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801935319401",
+      "po_number": "PO-62984",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2802,
+  "Output_tokens": 628,
+  "Output_thinking_tokens": 153,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002802,
+    "Output_tokens": 0.000314,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005942
+  }
+}

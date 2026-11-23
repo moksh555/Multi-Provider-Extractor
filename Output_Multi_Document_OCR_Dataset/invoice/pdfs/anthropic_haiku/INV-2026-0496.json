@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0496",
+      "invoice_number": "INV-2026-0496",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "181 Dhanmondi 27, Chattogram, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "33 Al Barsha, Dubai, UAE",
+      "invoice_date": "2026-01-06",
+      "due_date": "2026-01-13",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 113.8,
+          "amount": 1024.2
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 266.81,
+          "amount": 2134.48
+        }
+      ],
+      "subtotal": 3158.68,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 473.8,
+      "shipping": 50.0,
+      "total": 3682.48,
+      "amount_paid": 0.0,
+      "balance_due": 3682.48,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801324563515",
+      "po_number": "PO-12012",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4868,
+  "Output_tokens": 1019,
+  "Output_thinking_tokens": 617,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004868,
+    "Output_tokens": 0.0005095,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009962999999999999
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0752",
+      "invoice_number": "INV-2026-0752",
+      "company_name": "CityBanking Supplies",
+      "company_address": "68 Agrabad C/A, Chattogram, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "183 Mirpur DOHS, Doha, Qatar",
+      "invoice_date": "2026-01-19",
+      "due_date": "2026-02-03",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 16.9,
+          "amount": 16.9
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 209.37,
+          "amount": 628.11
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 799.49,
+          "amount": 3997.45
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 578.45,
+          "amount": 5784.5
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 363.11,
+          "amount": 1089.33
+        }
+      ],
+      "subtotal": 11516.29,
+      "discount": 1151.63,
+      "tax_rate": 0.07,
+      "tax": 777.35,
+      "shipping": 0.0,
+      "total": 11142.01,
+      "amount_paid": 5505.21,
+      "balance_due": 5636.8,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801652090825",
+      "po_number": "PO-62948",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 777.35 does not match recomputed (subtotal 11516.29 − discount 1151.63) × tax rate 0.07 = 725.53 (printed value 777.35, difference exceeds 0.02). All other checks pass: line amounts, subtotal, total, and balance due."
+    }
+  ],
+  "Input_tokens": 4943,
+  "Output_tokens": 1453,
+  "Output_thinking_tokens": 822,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004943,
+    "Output_tokens": 0.0007265,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012208000000000002
+  }
+}

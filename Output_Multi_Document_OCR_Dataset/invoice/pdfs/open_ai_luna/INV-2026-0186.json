@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0186",
+      "invoice_number": "INV-2026-0186",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "160 Al Barsha, Dhaka, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "64 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-02",
+      "due_date": "2026-03-04",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 667.19,
+          "amount": 2668.76
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 6.0,
+          "unit_price": 463.05,
+          "amount": 2778.3
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 460.61,
+          "amount": 1842.44
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 9.0,
+          "unit_price": 388.37,
+          "amount": 3495.33
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 817.26,
+          "amount": 6538.08
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 557.88,
+          "amount": 2789.4
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 58.67,
+          "amount": 58.67
+        }
+      ],
+      "subtotal": 20170.98,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 2017.1,
+      "shipping": 10.0,
+      "total": 22198.08,
+      "amount_paid": 0.0,
+      "balance_due": 22198.08,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801583365507",
+      "po_number": "PO-53311",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2953,
+  "Output_tokens": 668,
+  "Output_thinking_tokens": 300,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002953,
+    "Output_tokens": 0.000334,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006293
+  }
+}

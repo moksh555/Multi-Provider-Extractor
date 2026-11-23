@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0184",
+      "invoice_number": "INV-2026-0184",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "168 Jumeirah Lake Towers, Doha, Qatar",
+      "customer_name": "Global Mart",
+      "billing_address": "194 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-05-14",
+      "due_date": "2026-05-29",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 5.0,
+          "unit_price": 670.45,
+          "amount": 3352.25
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 12.0,
+          "unit_price": 714.37,
+          "amount": 8572.44
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 79.27,
+          "amount": 634.16
+        }
+      ],
+      "subtotal": 12558.85,
+      "discount": 1255.89,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 11327.96,
+      "amount_paid": 11327.96,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801354931053",
+      "po_number": "PO-09521",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2676,
+  "Output_tokens": 417,
+  "Output_thinking_tokens": 146,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002676,
+    "Output_tokens": 0.0002085,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004761
+  }
+}

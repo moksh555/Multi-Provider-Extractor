@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0137",
+      "invoice_number": "INV-2026-0137",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "142 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "228 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-04",
+      "due_date": "2026-04-18",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 402.79,
+          "amount": 402.79
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 491.28,
+          "amount": 3930.24
+        },
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 305.15,
+          "amount": 2136.05
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 5.0,
+          "unit_price": 149.04,
+          "amount": 745.2
+        }
+      ],
+      "subtotal": 7214.28,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1082.14,
+      "shipping": 50.0,
+      "total": 8346.42,
+      "amount_paid": 5937.91,
+      "balance_due": 2408.51,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801372655627",
+      "po_number": "PO-04107",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4921,
+  "Output_tokens": 1153,
+  "Output_thinking_tokens": 673,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004921,
+    "Output_tokens": 0.0005765,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010685999999999998
+  }
+}

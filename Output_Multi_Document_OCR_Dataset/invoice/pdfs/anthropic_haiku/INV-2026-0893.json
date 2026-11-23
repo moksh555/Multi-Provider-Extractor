@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0893",
+      "invoice_number": "INV-2026-0893",
+      "company_name": "CityBanking Supplies",
+      "company_address": "65 Agrabad C/A, Sylhet, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "118 Road 12, Banani, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-12",
+      "due_date": "2026-04-11",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 794.44,
+          "amount": 3972.2
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 2.0,
+          "unit_price": 96.62,
+          "amount": 193.24
+        },
+        {
+          "description": "Web Development",
+          "quantity": 5.0,
+          "unit_price": 756.88,
+          "amount": 3784.4
+        }
+      ],
+      "subtotal": 7949.84,
+      "discount": 159.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 7795.84,
+      "amount_paid": 3091.16,
+      "balance_due": 4704.68,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801361865287",
+      "po_number": "PO-35806",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4889,
+  "Output_tokens": 1070,
+  "Output_thinking_tokens": 631,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004889,
+    "Output_tokens": 0.000535,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010239
+  }
+}

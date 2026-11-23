@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0261",
+      "invoice_number": "INV-2026-0261",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "188 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "121 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-01-08",
+      "due_date": "2026-01-15",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 3.0,
+          "unit_price": 179.96,
+          "amount": 539.88
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 776.17,
+          "amount": 8537.87
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 423.57,
+          "amount": 1694.28
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 600.0,
+          "amount": 6000.0
+        }
+      ],
+      "subtotal": 16772.03,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1257.9,
+      "shipping": 0.0,
+      "total": 18029.93,
+      "amount_paid": 0.0,
+      "balance_due": 18029.93,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801995605920",
+      "po_number": "PO-05643",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1257.90 does not match recomputed tax 1174.04, which is (subtotal 16772.03 - discount 0) x printed tax rate 0.07. The printed tax implies a rate of about 0.075. All line amounts, subtotal, total, and balance due checks passed."
+    }
+  ],
+  "Input_tokens": 4919,
+  "Output_tokens": 1423,
+  "Output_thinking_tokens": 836,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004919000000000001,
+    "Output_tokens": 0.0007115,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012034
+  }
+}

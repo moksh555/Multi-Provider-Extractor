@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0627",
+      "invoice_number": "INV-2026-0627",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "13 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "customer_name": "Rahim Traders",
+      "billing_address": "51 Road 12, Banani, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-08",
+      "due_date": "2026-03-23",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 314.05,
+          "amount": 2512.4
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 542.72,
+          "amount": 6512.64
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 12.0,
+          "unit_price": 689.15,
+          "amount": 8269.8
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 85.48,
+          "amount": 1025.76
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 337.25,
+          "amount": 1686.25
+        },
+        {
+          "description": "API Integration",
+          "quantity": 6.0,
+          "unit_price": 766.89,
+          "amount": 4601.34
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 5.0,
+          "unit_price": 49.85,
+          "amount": 249.25
+        }
+      ],
+      "subtotal": 24857.44,
+      "discount": 497.15,
+      "tax_rate": 0.05,
+      "tax": 1218.01,
+      "shipping": 10.0,
+      "total": 25588.3,
+      "amount_paid": 0.0,
+      "balance_due": 25588.3,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801973392303",
+      "po_number": "PO-45583",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5016,
+  "Output_tokens": 1398,
+  "Output_thinking_tokens": 802,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005016,
+    "Output_tokens": 0.000699,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012006
+  }
+}

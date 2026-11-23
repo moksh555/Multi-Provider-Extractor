@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0287",
+      "invoice_number": "INV-2026-0287",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "70 Agrabad C/A, Dubai, UAE",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "24 Doha Business Park, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-09",
+      "due_date": "2026-03-11",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 9.0,
+          "unit_price": 586.27,
+          "amount": 5276.43
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 570.82,
+          "amount": 4566.56
+        }
+      ],
+      "subtotal": 9842.99,
+      "discount": 196.86,
+      "tax_rate": 0.05,
+      "tax": 482.31,
+      "shipping": 10.0,
+      "total": 10138.44,
+      "amount_paid": 0.0,
+      "balance_due": 10138.44,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801293393326",
+      "po_number": "PO-85536",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4872,
+  "Output_tokens": 1033,
+  "Output_thinking_tokens": 626,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004872,
+    "Output_tokens": 0.0005165,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010037000000000002
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0026",
+      "invoice_number": "INV-2026-0026",
+      "company_name": "CityBanking Supplies",
+      "company_address": "45 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "78 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-25",
+      "due_date": "2026-02-09",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 7.0,
+          "unit_price": 502.54,
+          "amount": 3517.78
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 559.44,
+          "amount": 3916.08
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 10.0,
+          "unit_price": 351.63,
+          "amount": 3516.3
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 589.22,
+          "amount": 589.22
+        }
+      ],
+      "subtotal": 11539.38,
+      "discount": 576.97,
+      "tax_rate": 0.1,
+      "tax": 1096.24,
+      "shipping": 0.0,
+      "total": 12058.65,
+      "amount_paid": 0.0,
+      "balance_due": 12058.65,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801423939602",
+      "po_number": "PO-99802",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2758,
+  "Output_tokens": 562,
+  "Output_thinking_tokens": 259,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027580000000000004,
+    "Output_tokens": 0.000281,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005568000000000001
+  }
+}

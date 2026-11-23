@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0794",
+      "invoice_number": "INV-2026-0794",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "199 Doha Business Park, Doha, Qatar",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "180 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-04-16",
+      "due_date": "2026-04-23",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 12.0,
+          "unit_price": 846.61,
+          "amount": 10159.32
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 316.47,
+          "amount": 632.94
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 3.0,
+          "unit_price": 428.28,
+          "amount": 1284.84
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 4.0,
+          "unit_price": 392.24,
+          "amount": 1568.96
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 115.41,
+          "amount": 1038.69
+        }
+      ],
+      "subtotal": 14684.75,
+      "discount": 1468.48,
+      "tax_rate": 0.1,
+      "tax": 1321.63,
+      "shipping": 5.0,
+      "total": 14542.9,
+      "amount_paid": 14542.9,
+      "balance_due": 0.0,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801892112620",
+      "po_number": "PO-80469",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4968,
+  "Output_tokens": 1214,
+  "Output_thinking_tokens": 691,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004968,
+    "Output_tokens": 0.000607,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011038
+  }
+}

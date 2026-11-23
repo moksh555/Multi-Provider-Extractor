@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0382",
+      "invoice_number": "INV-2026-0382",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "92 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "207 Al Barsha, Doha, Qatar",
+      "invoice_date": "2026-01-21",
+      "due_date": "2026-01-28",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 1.0,
+          "unit_price": 671.05,
+          "amount": 671.05
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 613.59,
+          "amount": 613.59
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 6.0,
+          "unit_price": 327.16,
+          "amount": 1962.96
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 551.6,
+          "amount": 4964.4
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 5.0,
+          "unit_price": 142.11,
+          "amount": 710.55
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 513.49,
+          "amount": 1540.47
+        }
+      ],
+      "subtotal": 10463.02,
+      "discount": 523.15,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 9964.87,
+      "amount_paid": 0.0,
+      "balance_due": 9964.87,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801449017573",
+      "po_number": "PO-45400",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4984,
+  "Output_tokens": 1229,
+  "Output_thinking_tokens": 680,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004984000000000001,
+    "Output_tokens": 0.0006145,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011129
+  }
+}

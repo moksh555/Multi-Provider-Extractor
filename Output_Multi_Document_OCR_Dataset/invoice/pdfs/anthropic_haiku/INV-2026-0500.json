@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0500",
+      "invoice_number": "INV-2026-0500",
+      "company_name": "CityBanking Supplies",
+      "company_address": "21 Motijheel C/A, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "103 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-18",
+      "due_date": "2026-06-25",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 10.0,
+          "unit_price": 436.7,
+          "amount": 4367.0
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 6.0,
+          "unit_price": 643.2,
+          "amount": 3859.2
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 728.48,
+          "amount": 1456.96
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 460.69,
+          "amount": 2764.14
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 3.0,
+          "unit_price": 720.21,
+          "amount": 2160.63
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 8.0,
+          "unit_price": 231.87,
+          "amount": 1854.96
+        }
+      ],
+      "subtotal": 16462.89,
+      "discount": 1646.29,
+      "tax_rate": 0.05,
+      "tax": 740.83,
+      "shipping": 0.0,
+      "total": 15557.43,
+      "amount_paid": 0.0,
+      "balance_due": 15557.43,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801645511382",
+      "po_number": "PO-78295",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4995,
+  "Output_tokens": 1172,
+  "Output_thinking_tokens": 608,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004995,
+    "Output_tokens": 0.000586,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010855
+  }
+}

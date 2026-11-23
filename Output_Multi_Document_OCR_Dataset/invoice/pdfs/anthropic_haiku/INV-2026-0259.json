@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0259",
+      "invoice_number": "INV-2026-0259",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "54 Doha Business Park, Dubai, UAE",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "194 Motijheel C/A, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 11.0,
+          "unit_price": 715.85,
+          "amount": 7874.35
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 6.0,
+          "unit_price": 98.65,
+          "amount": 591.9
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 120.17,
+          "amount": 841.19
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 9.0,
+          "unit_price": 176.18,
+          "amount": 1585.62
+        }
+      ],
+      "subtotal": 10893.06,
+      "discount": 544.65,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 10353.41,
+      "amount_paid": 10353.41,
+      "balance_due": 0.0,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801422188156",
+      "po_number": "PO-62883",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4903,
+  "Output_tokens": 1095,
+  "Output_thinking_tokens": 634,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004903,
+    "Output_tokens": 0.0005475,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010378000000000002
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0238",
+      "invoice_number": "INV-2026-0238",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "185 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "65 Al Barsha, Chattogram, Bangladesh",
+      "invoice_date": "2026-01-22",
+      "due_date": "2026-02-06",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 449.86,
+          "amount": 3149.02
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 707.32,
+          "amount": 2121.96
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 7.0,
+          "unit_price": 295.98,
+          "amount": 2071.86
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 3.0,
+          "unit_price": 175.23,
+          "amount": 525.69
+        }
+      ],
+      "subtotal": 7868.53,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 786.85,
+      "shipping": 10.0,
+      "total": 8665.38,
+      "amount_paid": 4253.08,
+      "balance_due": 4412.3,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801616363075",
+      "po_number": "PO-06639",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4918,
+  "Output_tokens": 1162,
+  "Output_thinking_tokens": 684,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004918,
+    "Output_tokens": 0.000581,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010728
+  }
+}

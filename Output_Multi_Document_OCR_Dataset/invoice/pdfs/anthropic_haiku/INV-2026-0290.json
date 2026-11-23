@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0290",
+      "invoice_number": "INV-2026-0290",
+      "company_name": "Metro Print House",
+      "company_address": "20 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "TechPoint BD",
+      "billing_address": "118 Dhanmondi 27, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-03",
+      "due_date": "2026-07-03",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 158.49,
+          "amount": 792.45
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 22.75,
+          "amount": 159.25
+        }
+      ],
+      "subtotal": 951.7,
+      "discount": 19.03,
+      "tax_rate": 0.07,
+      "tax": 69.95,
+      "shipping": 5.0,
+      "total": 1007.62,
+      "amount_paid": 0.0,
+      "balance_due": 1007.62,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801653072007",
+      "po_number": "PO-64296",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 69.95 does not equal (subtotal 951.70 - discount 19.03) x tax rate 0.07; recomputed tax is 65.29."
+    }
+  ],
+  "Input_tokens": 4850,
+  "Output_tokens": 1106,
+  "Output_thinking_tokens": 645,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000485,
+    "Output_tokens": 0.000553,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001038
+  }
+}

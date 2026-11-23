@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0097",
+      "invoice_number": "INV-2026-0097",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "194 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "194 Doha Business Park, Doha, Qatar",
+      "invoice_date": "2026-01-12",
+      "due_date": "2026-01-19",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 5.0,
+          "unit_price": 652.36,
+          "amount": 3261.8
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 340.69,
+          "amount": 2384.83
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 139.62,
+          "amount": 1116.96
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 636.77,
+          "amount": 1910.31
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 816.43,
+          "amount": 4082.15
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 5.0,
+          "unit_price": 578.28,
+          "amount": 2891.4
+        }
+      ],
+      "subtotal": 15647.45,
+      "discount": 312.95,
+      "tax_rate": 0.07,
+      "tax": 1150.09,
+      "shipping": 50.0,
+      "total": 16534.59,
+      "amount_paid": 16534.59,
+      "balance_due": 0.0,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801395510559",
+      "po_number": "PO-37934",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1150.09 does not equal (subtotal 15647.45 - discount 312.95) x tax rate 0.07 = recomputed 1073.42. All line amounts, subtotal, total, and balance due checks pass."
+    }
+  ],
+  "Input_tokens": 4985,
+  "Output_tokens": 1561,
+  "Output_thinking_tokens": 903,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004985,
+    "Output_tokens": 0.0007805,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012790000000000002
+  }
+}

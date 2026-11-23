@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0281",
+      "invoice_number": "INV-2026-0281",
+      "company_name": "Metro Print House",
+      "company_address": "180 Uttara Sector 7, Sylhet, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "78 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-03",
+      "due_date": "2026-04-17",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 6.0,
+          "unit_price": 454.84,
+          "amount": 2729.04
+        },
+        {
+          "description": "API Integration",
+          "quantity": 4.0,
+          "unit_price": 812.41,
+          "amount": 3249.64
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 12.0,
+          "unit_price": 128.31,
+          "amount": 1539.72
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 9.0,
+          "unit_price": 379.87,
+          "amount": 3418.83
+        }
+      ],
+      "subtotal": 10937.23,
+      "discount": 218.74,
+      "tax_rate": 0.1,
+      "tax": 1071.85,
+      "shipping": 50.0,
+      "total": 11840.34,
+      "amount_paid": 0.0,
+      "balance_due": 11840.34,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801654303467",
+      "po_number": "PO-25993",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2744,
+  "Output_tokens": 701,
+  "Output_thinking_tokens": 257,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027440000000000006,
+    "Output_tokens": 0.0003505,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006249000000000001
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0029",
+      "invoice_number": "INV-2026-0029",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "33 Gulshan Avenue, Dhaka, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "111 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-06",
+      "due_date": "2026-04-21",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 110.92,
+          "amount": 1220.12
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 800.43,
+          "amount": 8804.73
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 51.32,
+          "amount": 615.84
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 10.0,
+          "unit_price": 271.08,
+          "amount": 2710.8
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 10.0,
+          "unit_price": 435.24,
+          "amount": 4352.4
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 11.0,
+          "unit_price": 414.0,
+          "amount": 4554.0
+        }
+      ],
+      "subtotal": 22257.89,
+      "discount": 2225.79,
+      "tax_rate": 0.15,
+      "tax": 3004.81,
+      "shipping": 0.0,
+      "total": 23036.91,
+      "amount_paid": 23036.91,
+      "balance_due": 0.0,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801837588986",
+      "po_number": "PO-60982",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5001,
+  "Output_tokens": 1299,
+  "Output_thinking_tokens": 729,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005001000000000001,
+    "Output_tokens": 0.0006495,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011496000000000002
+  }
+}

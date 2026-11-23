@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0942",
+      "invoice_number": "INV-2026-0942",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "122 Road 12, Banani, Chattogram, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "189 Dhanmondi 27, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-05",
+      "due_date": "2026-03-12",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 846.3,
+          "amount": 4231.5
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 8.0,
+          "unit_price": 114.19,
+          "amount": 913.52
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 1.0,
+          "unit_price": 703.63,
+          "amount": 703.63
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 840.59,
+          "amount": 6724.72
+        }
+      ],
+      "subtotal": 12573.37,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1886.01,
+      "shipping": 25.0,
+      "total": 14484.38,
+      "amount_paid": 0.0,
+      "balance_due": 14484.38,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801902639373",
+      "po_number": "PO-61920",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4930,
+  "Output_tokens": 1112,
+  "Output_thinking_tokens": 631,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000493,
+    "Output_tokens": 0.000556,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001049
+  }
+}

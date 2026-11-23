@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0976",
+      "invoice_number": "INV-2026-0976",
+      "company_name": "CityBanking Supplies",
+      "company_address": "171 Mirpur DOHS, Sylhet, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "27 Zindabazar Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-25",
+      "due_date": "2026-08-09",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 185.46,
+          "amount": 1483.68
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 809.93,
+          "amount": 809.93
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 2.0,
+          "unit_price": 755.31,
+          "amount": 1510.62
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 9.0,
+          "unit_price": 775.09,
+          "amount": 6975.81
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 4.0,
+          "unit_price": 760.17,
+          "amount": 3040.68
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 467.37,
+          "amount": 5141.07
+        }
+      ],
+      "subtotal": 18961.79,
+      "discount": 1896.18,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 17075.61,
+      "amount_paid": 0.0,
+      "balance_due": 17075.61,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801110033931",
+      "po_number": "PO-41821",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2873,
+  "Output_tokens": 510,
+  "Output_thinking_tokens": 164,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002873,
+    "Output_tokens": 0.000255,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005423
+  }
+}

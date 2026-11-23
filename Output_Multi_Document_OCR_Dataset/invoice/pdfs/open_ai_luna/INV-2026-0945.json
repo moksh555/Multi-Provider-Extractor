@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0945",
+      "invoice_number": "INV-2026-0945",
+      "company_name": "Delta Insurance Services",
+      "company_address": "48 Motijheel C/A, Chattogram, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "81 Motijheel C/A, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-09",
+      "due_date": "2026-02-23",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 681.88,
+          "amount": 5455.04
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 593.01,
+          "amount": 4744.08
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 737.17,
+          "amount": 1474.34
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 746.85,
+          "amount": 5974.8
+        }
+      ],
+      "subtotal": 17648.26,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1323.62,
+      "shipping": 5.0,
+      "total": 18976.88,
+      "amount_paid": 10323.06,
+      "balance_due": 8653.82,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801094172850",
+      "po_number": "PO-09411",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1323.62; recomputed tax (17648.26 - 0) × 0.07 = 1235.38."
+    }
+  ],
+  "Input_tokens": 2762,
+  "Output_tokens": 633,
+  "Output_thinking_tokens": 288,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002762,
+    "Output_tokens": 0.0003165,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005927
+  }
+}

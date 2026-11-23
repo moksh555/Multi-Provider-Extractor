@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0790",
+      "invoice_number": "INV-2026-0790",
+      "company_name": "Metro Print House",
+      "company_address": "133 Sheikh Zayed Road, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "39 Doha Business Park, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-12",
+      "due_date": "2026-01-27",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 190.72,
+          "amount": 381.44
+        },
+        {
+          "description": "API Integration",
+          "quantity": 10.0,
+          "unit_price": 736.75,
+          "amount": 7367.5
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 2.0,
+          "unit_price": 430.89,
+          "amount": 861.78
+        }
+      ],
+      "subtotal": 8610.72,
+      "discount": 861.07,
+      "tax_rate": 0.1,
+      "tax": 774.97,
+      "shipping": 50.0,
+      "total": 8574.62,
+      "amount_paid": 8574.62,
+      "balance_due": 0.0,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801985139347",
+      "po_number": "PO-74235",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2670,
+  "Output_tokens": 421,
+  "Output_thinking_tokens": 151,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000267,
+    "Output_tokens": 0.0002105,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00047749999999999995
+  }
+}

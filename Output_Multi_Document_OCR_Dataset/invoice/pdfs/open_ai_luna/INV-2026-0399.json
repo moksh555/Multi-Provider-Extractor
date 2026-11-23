@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0399",
+      "invoice_number": "INV-2026-0399",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "176 Mirpur DOHS, Dhaka, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "147 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-26",
+      "due_date": "2026-07-10",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 4.0,
+          "unit_price": 370.03,
+          "amount": 1480.12
+        },
+        {
+          "description": "API Integration",
+          "quantity": 9.0,
+          "unit_price": 251.17,
+          "amount": 2260.53
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 810.5,
+          "amount": 810.5
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 1.0,
+          "unit_price": 724.43,
+          "amount": 724.43
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 10.0,
+          "unit_price": 590.49,
+          "amount": 5904.9
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 716.77,
+          "amount": 7884.47
+        }
+      ],
+      "subtotal": 19064.95,
+      "discount": 1906.5,
+      "tax_rate": 0.15,
+      "tax": 2573.77,
+      "shipping": 10.0,
+      "total": 19742.22,
+      "amount_paid": 19742.22,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801565218375",
+      "po_number": "PO-66245",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2872,
+  "Output_tokens": 541,
+  "Output_thinking_tokens": 192,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002872,
+    "Output_tokens": 0.0002705,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005577
+  }
+}

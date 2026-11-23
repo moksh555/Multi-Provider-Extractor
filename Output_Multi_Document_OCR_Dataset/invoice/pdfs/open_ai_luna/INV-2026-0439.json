@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0439",
+      "invoice_number": "INV-2026-0439",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "97 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "244 Road 12, Banani, Dubai, UAE",
+      "invoice_date": "2026-02-13",
+      "due_date": "2026-02-28",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 9.0,
+          "unit_price": 522.48,
+          "amount": 4702.32
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 57.18,
+          "amount": 57.18
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 9.0,
+          "unit_price": 556.94,
+          "amount": 5012.46
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 143.49,
+          "amount": 430.47
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 12.0,
+          "unit_price": 389.11,
+          "amount": 4669.32
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 844.68,
+          "amount": 2534.04
+        }
+      ],
+      "subtotal": 17405.79,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1740.58,
+      "shipping": 0.0,
+      "total": 19146.37,
+      "amount_paid": 8515.21,
+      "balance_due": 10631.16,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801973403569",
+      "po_number": "PO-05968",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2886,
+  "Output_tokens": 772,
+  "Output_thinking_tokens": 256,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002886,
+    "Output_tokens": 0.000386,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006746
+  }
+}

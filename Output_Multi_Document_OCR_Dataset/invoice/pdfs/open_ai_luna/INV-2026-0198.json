@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0198",
+      "invoice_number": "INV-2026-0198",
+      "company_name": "BrightStar Electronics",
+      "company_address": "171 Sheikh Zayed Road, Doha, Qatar",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "147 Motijheel C/A, Dubai, UAE",
+      "invoice_date": "2026-02-22",
+      "due_date": "2026-04-08",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 10.0,
+          "unit_price": 817.95,
+          "amount": 8179.5
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 152.34,
+          "amount": 304.68
+        }
+      ],
+      "subtotal": 8484.18,
+      "discount": 424.21,
+      "tax_rate": 0.05,
+      "tax": 403.0,
+      "shipping": 50.0,
+      "total": 8512.97,
+      "amount_paid": 0.0,
+      "balance_due": 8512.97,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801186019322",
+      "po_number": "PO-54303",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2611,
+  "Output_tokens": 417,
+  "Output_thinking_tokens": 162,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002611,
+    "Output_tokens": 0.0002085,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00046960000000000003
+  }
+}

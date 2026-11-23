@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0677",
+      "invoice_number": "INV-2026-0677",
+      "company_name": "BrightStar Electronics",
+      "company_address": "35 Motijheel C/A, Riyadh, Saudi Arabia",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "40 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-04",
+      "due_date": "2026-04-19",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 848.5,
+          "amount": 5091.0
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 8.0,
+          "unit_price": 849.88,
+          "amount": 6799.04
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 677.88,
+          "amount": 7456.68
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 351.13,
+          "amount": 3511.3
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 390.65,
+          "amount": 390.65
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 9.0,
+          "unit_price": 461.27,
+          "amount": 4151.43
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 2.0,
+          "unit_price": 822.25,
+          "amount": 1644.5
+        }
+      ],
+      "subtotal": 29044.6,
+      "discount": 1452.23,
+      "tax_rate": 0.1,
+      "tax": 2759.24,
+      "shipping": 0.0,
+      "total": 30351.61,
+      "amount_paid": 0.0,
+      "balance_due": 30351.61,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801876016934",
+      "po_number": "PO-36489",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2959,
+  "Output_tokens": 848,
+  "Output_thinking_tokens": 287,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029590000000000004,
+    "Output_tokens": 0.000424,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007199000000000001
+  }
+}

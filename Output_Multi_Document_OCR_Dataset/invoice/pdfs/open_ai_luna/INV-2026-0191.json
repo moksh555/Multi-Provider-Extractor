@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0191",
+      "invoice_number": "INV-2026-0191",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "23 Zindabazar Road, Dubai, UAE",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "103 Gulshan Avenue, Doha, Qatar",
+      "invoice_date": "2026-04-16",
+      "due_date": "2026-05-01",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 529.39,
+          "amount": 5293.9
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 797.45,
+          "amount": 8771.95
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 443.49,
+          "amount": 3547.92
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 98.94,
+          "amount": 395.76
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10.0,
+          "unit_price": 608.6,
+          "amount": 6086.0
+        }
+      ],
+      "subtotal": 24095.53,
+      "discount": 1204.78,
+      "tax_rate": 0.1,
+      "tax": 2289.08,
+      "shipping": 25.0,
+      "total": 25204.83,
+      "amount_paid": 25204.83,
+      "balance_due": 0.0,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801915346110",
+      "po_number": "PO-15563",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2824,
+  "Output_tokens": 526,
+  "Output_thinking_tokens": 197,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028240000000000003,
+    "Output_tokens": 0.000263,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005454
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0685",
+      "invoice_number": "INV-2026-0685",
+      "company_name": "Metro Print House",
+      "company_address": "172 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "216 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-16",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 7.0,
+          "unit_price": 638.17,
+          "amount": 4467.19
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 6.0,
+          "unit_price": 776.25,
+          "amount": 4657.5
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 5.0,
+          "unit_price": 845.41,
+          "amount": 4227.05
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 664.32,
+          "amount": 1328.64
+        }
+      ],
+      "subtotal": 14680.38,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 734.02,
+      "shipping": 5.0,
+      "total": 15419.4,
+      "amount_paid": 0.0,
+      "balance_due": 15419.4,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801250384885",
+      "po_number": "PO-93881",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2739,
+  "Output_tokens": 494,
+  "Output_thinking_tokens": 198,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027390000000000004,
+    "Output_tokens": 0.000247,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005209
+  }
+}

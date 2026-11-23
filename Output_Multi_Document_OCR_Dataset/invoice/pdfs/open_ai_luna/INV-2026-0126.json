@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0126",
+      "invoice_number": "INV-2026-0126",
+      "company_name": "Summit Agro Foods",
+      "company_address": "115 Dhanmondi 27, Dubai, UAE",
+      "customer_name": "Future School",
+      "billing_address": "7 Mirpur DOHS, Dubai, UAE",
+      "invoice_date": "2026-06-01",
+      "due_date": "2026-06-16",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 12.0,
+          "unit_price": 625.41,
+          "amount": 7504.92
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 2.0,
+          "unit_price": 602.64,
+          "amount": 1205.28
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 449.05,
+          "amount": 898.1
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 12.0,
+          "unit_price": 674.08,
+          "amount": 8088.96
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 807.69,
+          "amount": 8076.9
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 9.0,
+          "unit_price": 328.47,
+          "amount": 2956.23
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 6.0,
+          "unit_price": 484.14,
+          "amount": 2904.84
+        }
+      ],
+      "subtotal": 31635.23,
+      "discount": 632.7,
+      "tax_rate": 0.07,
+      "tax": 2325.19,
+      "shipping": 50.0,
+      "total": 33377.72,
+      "amount_paid": 33377.72,
+      "balance_due": 0.0,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801117037921",
+      "po_number": "PO-89070",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 2325.19; recomputed tax (31635.23 − 632.70) × 0.07 = 2170.18."
+    }
+  ],
+  "Input_tokens": 2928,
+  "Output_tokens": 760,
+  "Output_thinking_tokens": 349,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002928,
+    "Output_tokens": 0.00038,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006728000000000001
+  }
+}

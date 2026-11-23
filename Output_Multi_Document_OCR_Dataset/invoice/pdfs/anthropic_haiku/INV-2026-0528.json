@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0528",
+      "invoice_number": "INV-2026-0528",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "170 Sheikh Zayed Road, Sylhet, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "6 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-01-01",
+      "due_date": "2026-02-15",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 1.0,
+          "unit_price": 150.84,
+          "amount": 150.84
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 568.02,
+          "amount": 568.02
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 10.0,
+          "unit_price": 816.18,
+          "amount": 8161.8
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10.0,
+          "unit_price": 47.12,
+          "amount": 471.2
+        }
+      ],
+      "subtotal": 9351.86,
+      "discount": 467.59,
+      "tax_rate": 0.1,
+      "tax": 888.43,
+      "shipping": 0.0,
+      "total": 9772.7,
+      "amount_paid": 9772.7,
+      "balance_due": 0.0,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801979820250",
+      "po_number": "PO-28312",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4920,
+  "Output_tokens": 1147,
+  "Output_thinking_tokens": 664,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000492,
+    "Output_tokens": 0.0005735,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010655
+  }
+}

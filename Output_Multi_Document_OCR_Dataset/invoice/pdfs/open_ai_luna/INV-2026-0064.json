@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0064",
+      "invoice_number": "INV-2026-0064",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "149 Dhanmondi 27, Doha, Qatar",
+      "customer_name": "TechPoint BD",
+      "billing_address": "211 Road 12, Banani, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-23",
+      "due_date": "2026-05-08",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 5.0,
+          "unit_price": 301.5,
+          "amount": 1507.5
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 736.57,
+          "amount": 5892.56
+        }
+      ],
+      "subtotal": 7400.06,
+      "discount": 148.0,
+      "tax_rate": 0.05,
+      "tax": 362.6,
+      "shipping": 0.0,
+      "total": 7614.66,
+      "amount_paid": 7614.66,
+      "balance_due": 0.0,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801276864678",
+      "po_number": "PO-85551",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2617,
+  "Output_tokens": 393,
+  "Output_thinking_tokens": 134,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026169999999999996,
+    "Output_tokens": 0.0001965,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00045819999999999997
+  }
+}

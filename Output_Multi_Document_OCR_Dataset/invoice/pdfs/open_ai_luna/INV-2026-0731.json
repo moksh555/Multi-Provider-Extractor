@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0731",
+      "invoice_number": "INV-2026-0731",
+      "company_name": "Summit Agro Foods",
+      "company_address": "173 Dhanmondi 27, Sylhet, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "168 Agrabad C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-26",
+      "due_date": "2026-05-26",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 4.0,
+          "unit_price": 295.02,
+          "amount": 1180.08
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 783.4,
+          "amount": 3133.6
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 6.0,
+          "unit_price": 811.95,
+          "amount": 4871.7
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 53.63,
+          "amount": 643.56
+        },
+        {
+          "description": "API Integration",
+          "quantity": 12.0,
+          "unit_price": 667.13,
+          "amount": 8005.56
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 6.0,
+          "unit_price": 434.29,
+          "amount": 2605.74
+        },
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 435.22,
+          "amount": 3481.76
+        }
+      ],
+      "subtotal": 23922.0,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 2392.2,
+      "shipping": 0.0,
+      "total": 26314.2,
+      "amount_paid": 26314.2,
+      "balance_due": 0.0,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801449535923",
+      "po_number": "PO-08604",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2959,
+  "Output_tokens": 731,
+  "Output_thinking_tokens": 164,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029590000000000004,
+    "Output_tokens": 0.0003655,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006614
+  }
+}

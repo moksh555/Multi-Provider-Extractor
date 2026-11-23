@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0929",
+      "invoice_number": "INV-2026-0929",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "178 Dhanmondi 27, Chattogram, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "131 Al Barsha, Doha, Qatar",
+      "invoice_date": "2026-01-28",
+      "due_date": "2026-03-14",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 535.5,
+          "amount": 3748.5
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 9.0,
+          "unit_price": 250.4,
+          "amount": 2253.6
+        }
+      ],
+      "subtotal": 6002.1,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 450.16,
+      "shipping": 10.0,
+      "total": 6462.26,
+      "amount_paid": 4438.41,
+      "balance_due": 2023.85,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801810389287",
+      "po_number": "PO-53780",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 450.16 does not match recomputed (subtotal 6002.10 - discount 0.00) x tax rate 0.07 = 420.15 (difference 30.01). All other checks pass: line amounts, subtotal, total (using printed tax), and balance due."
+    }
+  ],
+  "Input_tokens": 4875,
+  "Output_tokens": 1178,
+  "Output_thinking_tokens": 667,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004875,
+    "Output_tokens": 0.000589,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010765
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0694",
+      "invoice_number": "INV-2026-0694",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "115 Mirpur DOHS, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "34 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-01-21",
+      "due_date": "2026-02-05",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 4.0,
+          "unit_price": 647.69,
+          "amount": 2590.76
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 672.68,
+          "amount": 8072.16
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 750.53,
+          "amount": 2251.59
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 169.05,
+          "amount": 845.25
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 4.0,
+          "unit_price": 538.18,
+          "amount": 2152.72
+        }
+      ],
+      "subtotal": 15912.48,
+      "discount": 1591.25,
+      "tax_rate": 0.07,
+      "tax": 1074.09,
+      "shipping": 5.0,
+      "total": 15400.32,
+      "amount_paid": 0.0,
+      "balance_due": 15400.32,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801644683197",
+      "po_number": "PO-82560",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax printed as 1074.09 but recomputed as (15912.48 - 1591.25) x 0.07 = 1002.49, a difference of 71.60 beyond the 0.02 tolerance."
+    }
+  ],
+  "Input_tokens": 4938,
+  "Output_tokens": 1469,
+  "Output_thinking_tokens": 880,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004938,
+    "Output_tokens": 0.0007345,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012282999999999999
+  }
+}

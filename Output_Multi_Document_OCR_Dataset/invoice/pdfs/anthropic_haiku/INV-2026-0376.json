@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0376",
+      "invoice_number": "INV-2026-0376",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "104 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "177 Gulshan Avenue, Sylhet, Bangladesh",
+      "invoice_date": "2026-06-18",
+      "due_date": "2026-07-18",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 220.27,
+          "amount": 1101.35
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 792.21,
+          "amount": 8714.31
+        }
+      ],
+      "subtotal": 9815.66,
+      "discount": 981.57,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 8859.09,
+      "amount_paid": 8859.09,
+      "balance_due": 0.0,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801751451077",
+      "po_number": "PO-43417",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4890,
+  "Output_tokens": 994,
+  "Output_thinking_tokens": 582,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000489,
+    "Output_tokens": 0.000497,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000986
+  }
+}

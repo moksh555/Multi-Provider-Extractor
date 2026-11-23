@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0571",
+      "invoice_number": "INV-2026-0571",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "92 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "164 Agrabad C/A, Doha, Qatar",
+      "invoice_date": "2026-03-06",
+      "due_date": "2026-03-13",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 12.0,
+          "unit_price": 527.51,
+          "amount": 6330.12
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 555.87,
+          "amount": 1667.61
+        }
+      ],
+      "subtotal": 7997.73,
+      "discount": 399.89,
+      "tax_rate": 0.05,
+      "tax": 379.89,
+      "shipping": 0.0,
+      "total": 7977.73,
+      "amount_paid": 7977.73,
+      "balance_due": 0.0,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801935915684",
+      "po_number": "PO-81254",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2613,
+  "Output_tokens": 585,
+  "Output_thinking_tokens": 224,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002613,
+    "Output_tokens": 0.0002925,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005538
+  }
+}

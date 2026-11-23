@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0035",
+      "invoice_number": "INV-2026-0035",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "124 Agrabad C/A, Doha, Qatar",
+      "customer_name": "Bengal Motors",
+      "billing_address": "62 Zindabazar Road, Dubai, UAE",
+      "invoice_date": "2026-02-19",
+      "due_date": "2026-03-21",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 9.0,
+          "unit_price": 360.51,
+          "amount": 3244.59
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 682.66,
+          "amount": 2730.64
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 5.0,
+          "unit_price": 51.94,
+          "amount": 259.7
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 6.0,
+          "unit_price": 474.92,
+          "amount": 2849.52
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 12.0,
+          "unit_price": 720.24,
+          "amount": 8642.88
+        }
+      ],
+      "subtotal": 17727.33,
+      "discount": 354.55,
+      "tax_rate": 0.1,
+      "tax": 1737.28,
+      "shipping": 0.0,
+      "total": 19110.06,
+      "amount_paid": 0.0,
+      "balance_due": 19110.06,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801014580988",
+      "po_number": "PO-94333",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4953,
+  "Output_tokens": 1176,
+  "Output_thinking_tokens": 667,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004953000000000001,
+    "Output_tokens": 0.000588,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010833000000000001
+  }
+}

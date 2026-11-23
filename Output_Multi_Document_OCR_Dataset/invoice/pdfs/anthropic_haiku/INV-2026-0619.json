@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0619",
+      "invoice_number": "INV-2026-0619",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "190 Road 12, Banani, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "6 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-14",
+      "due_date": "2026-04-28",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 502.04,
+          "amount": 5522.44
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 39.27,
+          "amount": 235.62
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 1.0,
+          "unit_price": 66.3,
+          "amount": 66.3
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 15.51,
+          "amount": 108.57
+        }
+      ],
+      "subtotal": 5932.93,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 5957.93,
+      "amount_paid": 0.0,
+      "balance_due": 5957.93,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801135224345",
+      "po_number": "PO-82252",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4935,
+  "Output_tokens": 1080,
+  "Output_thinking_tokens": 602,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004935,
+    "Output_tokens": 0.00054,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010335000000000001
+  }
+}

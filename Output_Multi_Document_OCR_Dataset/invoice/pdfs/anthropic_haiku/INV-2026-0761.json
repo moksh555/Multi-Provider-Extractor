@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0761",
+      "invoice_number": "INV-2026-0761",
+      "company_name": "Greenline Logistics",
+      "company_address": "191 Uttara Sector 7, Chattogram, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "102 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-19",
+      "due_date": "2026-03-06",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 7.0,
+          "unit_price": 222.99,
+          "amount": 1560.93
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 9.0,
+          "unit_price": 270.03,
+          "amount": 2430.27
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 443.53,
+          "amount": 2217.65
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 231.76,
+          "amount": 2781.12
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 421.5,
+          "amount": 1686.0
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 40.49,
+          "amount": 121.47
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 393.1,
+          "amount": 786.2
+        }
+      ],
+      "subtotal": 11583.64,
+      "discount": 231.67,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 11356.97,
+      "amount_paid": 11356.97,
+      "balance_due": 0.0,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801540250172",
+      "po_number": "PO-73113",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5021,
+  "Output_tokens": 1317,
+  "Output_thinking_tokens": 722,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005021,
+    "Output_tokens": 0.0006585,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011606
+  }
+}

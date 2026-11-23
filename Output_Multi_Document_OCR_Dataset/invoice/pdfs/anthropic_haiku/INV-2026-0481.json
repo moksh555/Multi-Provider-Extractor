@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0481",
+      "invoice_number": "INV-2026-0481",
+      "company_name": "Delta Insurance Services",
+      "company_address": "34 Road 12, Banani, Sylhet, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "162 Road 12, Banani, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-15",
+      "due_date": "2026-03-17",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 12.0,
+          "unit_price": 144.27,
+          "amount": 1731.24
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 151.91,
+          "amount": 1519.1
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 60.58,
+          "amount": 605.8
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 457.61,
+          "amount": 3203.27
+        }
+      ],
+      "subtotal": 7059.41,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1058.91,
+      "shipping": 10.0,
+      "total": 8128.32,
+      "amount_paid": 0.0,
+      "balance_due": 8128.32,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801879815885",
+      "po_number": "PO-86828",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4930,
+  "Output_tokens": 1145,
+  "Output_thinking_tokens": 671,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000493,
+    "Output_tokens": 0.0005725,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010655
+  }
+}

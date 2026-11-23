@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0953",
+      "invoice_number": "INV-2026-0953",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "10 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "131 Zindabazar Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-04-30",
+      "due_date": "2026-05-15",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 408.52,
+          "amount": 4902.24
+        },
+        {
+          "description": "API Integration",
+          "quantity": 6.0,
+          "unit_price": 550.54,
+          "amount": 3303.24
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 793.1,
+          "amount": 9517.2
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 3.0,
+          "unit_price": 281.23,
+          "amount": 843.69
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 800.47,
+          "amount": 3201.88
+        }
+      ],
+      "subtotal": 21768.25,
+      "discount": 2176.83,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 19591.42,
+      "amount_paid": 19591.42,
+      "balance_due": 0.0,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801237474243",
+      "po_number": "PO-11853",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4965,
+  "Output_tokens": 1203,
+  "Output_thinking_tokens": 686,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004965,
+    "Output_tokens": 0.0006015,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001098
+  }
+}

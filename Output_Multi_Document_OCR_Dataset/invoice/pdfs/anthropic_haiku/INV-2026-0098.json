@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0098",
+      "invoice_number": "INV-2026-0098",
+      "company_name": "Summit Agro Foods",
+      "company_address": "57 Agrabad C/A, Doha, Qatar",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "214 Zindabazar Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-01-30",
+      "due_date": "2026-02-14",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 252.73,
+          "amount": 505.46
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 5.0,
+          "unit_price": 90.69,
+          "amount": 453.45
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 809.2,
+          "amount": 6473.6
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 3.0,
+          "unit_price": 573.23,
+          "amount": 1719.69
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 248.09,
+          "amount": 496.18
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 4.0,
+          "unit_price": 275.58,
+          "amount": 1102.32
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 6.0,
+          "unit_price": 526.96,
+          "amount": 3161.76
+        }
+      ],
+      "subtotal": 13912.46,
+      "discount": 695.62,
+      "tax_rate": 0.15,
+      "tax": 1982.53,
+      "shipping": 5.0,
+      "total": 15204.37,
+      "amount_paid": 15204.37,
+      "balance_due": 0.0,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801553340227",
+      "po_number": "PO-48178",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5017,
+  "Output_tokens": 1347,
+  "Output_thinking_tokens": 749,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005017,
+    "Output_tokens": 0.0006735,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011752
+  }
+}

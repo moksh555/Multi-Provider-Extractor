@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0938",
+      "invoice_number": "INV-2026-0938",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "113 Road 12, Banani, Riyadh, Saudi Arabia",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "136 Zindabazar Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-28",
+      "due_date": "2026-07-28",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 1.0,
+          "unit_price": 602.58,
+          "amount": 602.58
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 4.0,
+          "unit_price": 391.73,
+          "amount": 1566.92
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 4.0,
+          "unit_price": 112.39,
+          "amount": 449.56
+        },
+        {
+          "description": "Web Development",
+          "quantity": 6.0,
+          "unit_price": 484.14,
+          "amount": 2904.84
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 423.15,
+          "amount": 423.15
+        }
+      ],
+      "subtotal": 5947.05,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 446.03,
+      "shipping": 0.0,
+      "total": 6393.08,
+      "amount_paid": 2989.43,
+      "balance_due": 3403.65,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801827823072",
+      "po_number": "PO-73028",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 446.03 does not match recomputed tax 416.29 ((subtotal 5947.05 - discount 0) x tax rate 0.07). All other checks passed: line amounts, subtotal, total (using printed tax), and balance due."
+    }
+  ],
+  "Input_tokens": 4964,
+  "Output_tokens": 1458,
+  "Output_thinking_tokens": 837,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004964,
+    "Output_tokens": 0.000729,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012254000000000002
+  }
+}

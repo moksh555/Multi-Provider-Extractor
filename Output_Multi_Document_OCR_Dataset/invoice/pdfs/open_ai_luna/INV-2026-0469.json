@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0469",
+      "invoice_number": "INV-2026-0469",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "26 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "customer_name": "Future School",
+      "billing_address": "157 Agrabad C/A, Doha, Qatar",
+      "invoice_date": "2026-01-14",
+      "due_date": "2026-01-21",
+      "currency": "BDT",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 735.3,
+          "amount": 8823.6
+        },
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 735.76,
+          "amount": 5150.32
+        }
+      ],
+      "subtotal": 13973.92,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 13998.92,
+      "amount_paid": 8448.2,
+      "balance_due": 5550.72,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801156895489",
+      "po_number": "PO-69232",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2626,
+  "Output_tokens": 529,
+  "Output_thinking_tokens": 173,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026260000000000004,
+    "Output_tokens": 0.0002645,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005271
+  }
+}

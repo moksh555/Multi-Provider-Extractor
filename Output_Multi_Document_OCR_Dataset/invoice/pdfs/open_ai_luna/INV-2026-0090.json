@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0090",
+      "invoice_number": "INV-2026-0090",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "174 Mirpur DOHS, Doha, Qatar",
+      "customer_name": "Rahim Traders",
+      "billing_address": "218 Uttara Sector 7, Dubai, UAE",
+      "invoice_date": "2026-02-12",
+      "due_date": "2026-02-19",
+      "currency": "SAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 9.0,
+          "unit_price": 195.52,
+          "amount": 1759.68
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 696.0,
+          "amount": 4872.0
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 382.01,
+          "amount": 3056.08
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 82.11,
+          "amount": 656.88
+        }
+      ],
+      "subtotal": 10344.64,
+      "discount": 206.89,
+      "tax_rate": 0.05,
+      "tax": 506.89,
+      "shipping": 10.0,
+      "total": 10654.64,
+      "amount_paid": 5045.33,
+      "balance_due": 5609.31,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801970405879",
+      "po_number": "PO-68564",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2741,
+  "Output_tokens": 639,
+  "Output_thinking_tokens": 197,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027410000000000005,
+    "Output_tokens": 0.0003195,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005936000000000001
+  }
+}

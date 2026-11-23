@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0573",
+      "invoice_number": "INV-2026-0573",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "113 Mirpur DOHS, Doha, Qatar",
+      "customer_name": "Future School",
+      "billing_address": "55 Al Barsha, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-24",
+      "due_date": "2026-07-01",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 9.0,
+          "unit_price": 133.95,
+          "amount": 1205.55
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 701.24,
+          "amount": 4908.68
+        },
+        {
+          "description": "Web Development",
+          "quantity": 10.0,
+          "unit_price": 271.05,
+          "amount": 2710.5
+        },
+        {
+          "description": "API Integration",
+          "quantity": 9.0,
+          "unit_price": 507.91,
+          "amount": 4571.19
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 789.25,
+          "amount": 5524.75
+        }
+      ],
+      "subtotal": 18920.67,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2838.1,
+      "shipping": 0.0,
+      "total": 21758.77,
+      "amount_paid": 21758.77,
+      "balance_due": 0.0,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801416169011",
+      "po_number": "PO-48077",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4934,
+  "Output_tokens": 1174,
+  "Output_thinking_tokens": 671,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004934000000000001,
+    "Output_tokens": 0.000587,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010804
+  }
+}

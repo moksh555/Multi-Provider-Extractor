@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0741",
+      "invoice_number": "INV-2026-0741",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "13 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "159 Uttara Sector 7, Sylhet, Bangladesh",
+      "invoice_date": "2026-06-09",
+      "due_date": "2026-07-24",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 6.0,
+          "unit_price": 508.99,
+          "amount": 3053.94
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 268.37,
+          "amount": 3220.44
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 6.0,
+          "unit_price": 135.43,
+          "amount": 812.58
+        },
+        {
+          "description": "API Integration",
+          "quantity": 12.0,
+          "unit_price": 225.16,
+          "amount": 2701.92
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 244.84,
+          "amount": 244.84
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 103.15,
+          "amount": 515.75
+        }
+      ],
+      "subtotal": 10549.47,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 791.21,
+      "shipping": 50.0,
+      "total": 11390.68,
+      "amount_paid": 0.0,
+      "balance_due": 11390.68,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801407639929",
+      "po_number": "PO-97877",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 791.21 does not match recomputed tax 738.46 (subtotal 10549.47 - discount 0 = 10549.47 x tax rate 0.07). All line amounts, subtotal, total, and balance due checks passed."
+    }
+  ],
+  "Input_tokens": 4957,
+  "Output_tokens": 1464,
+  "Output_thinking_tokens": 828,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004957000000000001,
+    "Output_tokens": 0.000732,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012277
+  }
+}

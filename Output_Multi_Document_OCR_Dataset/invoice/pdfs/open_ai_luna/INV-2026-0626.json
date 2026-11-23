@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0626",
+      "invoice_number": "INV-2026-0626",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "173 Uttara Sector 7, Dhaka, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "161 Agrabad C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-01-05",
+      "due_date": "2026-01-20",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 6.0,
+          "unit_price": 541.51,
+          "amount": 3249.06
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 435.04,
+          "amount": 4785.44
+        }
+      ],
+      "subtotal": 8034.5,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 8084.5,
+      "amount_paid": 0.0,
+      "balance_due": 8084.5,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801417066112",
+      "po_number": "PO-16860",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2627,
+  "Output_tokens": 382,
+  "Output_thinking_tokens": 132,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002627,
+    "Output_tokens": 0.000191,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004537
+  }
+}

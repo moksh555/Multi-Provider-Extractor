@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0330",
+      "invoice_number": "INV-2026-0330",
+      "company_name": "Summit Agro Foods",
+      "company_address": "116 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "234 Sheikh Zayed Road, Dubai, UAE",
+      "invoice_date": "2026-02-10",
+      "due_date": "2026-03-27",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 1.0,
+          "unit_price": 122.17,
+          "amount": 122.17
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 327.43,
+          "amount": 2619.44
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 501.56,
+          "amount": 501.56
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 8.0,
+          "unit_price": 500.48,
+          "amount": 4003.84
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 8.0,
+          "unit_price": 760.74,
+          "amount": 6085.92
+        }
+      ],
+      "subtotal": 13332.93,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 13342.93,
+      "amount_paid": 0.0,
+      "balance_due": 13342.93,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801589801331",
+      "po_number": "PO-97693",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4939,
+  "Output_tokens": 1176,
+  "Output_thinking_tokens": 670,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004939,
+    "Output_tokens": 0.000588,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010819
+  }
+}

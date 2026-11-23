@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0614",
+      "invoice_number": "INV-2026-0614",
+      "company_name": "Metro Print House",
+      "company_address": "77 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "247 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-02-09",
+      "due_date": "2026-03-26",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 600.17,
+          "amount": 6601.87
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 94.58,
+          "amount": 1134.96
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 2.0,
+          "unit_price": 316.02,
+          "amount": 632.04
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 833.96,
+          "amount": 5837.72
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 7.0,
+          "unit_price": 103.0,
+          "amount": 721.0
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 403.76,
+          "amount": 4037.6
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 307.96,
+          "amount": 2463.68
+        }
+      ],
+      "subtotal": 21428.87,
+      "discount": 2142.89,
+      "tax_rate": 0.15,
+      "tax": 2892.9,
+      "shipping": 50.0,
+      "total": 22228.88,
+      "amount_paid": 0.0,
+      "balance_due": 22228.88,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801561087839",
+      "po_number": "PO-21355",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4995,
+  "Output_tokens": 1375,
+  "Output_thinking_tokens": 781,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004995,
+    "Output_tokens": 0.0006875,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011870000000000001
+  }
+}

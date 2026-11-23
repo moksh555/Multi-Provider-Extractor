@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0593",
+      "invoice_number": "INV-2026-0593",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "16 Road 12, Banani, Sylhet, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "168 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-02-08",
+      "due_date": "2026-03-25",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 10.0,
+          "unit_price": 515.07,
+          "amount": 5150.7
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 129.57,
+          "amount": 647.85
+        }
+      ],
+      "subtotal": 5798.55,
+      "discount": 579.86,
+      "tax_rate": 0.1,
+      "tax": 521.87,
+      "shipping": 0.0,
+      "total": 5740.56,
+      "amount_paid": 5740.56,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801573589214",
+      "po_number": "PO-65649",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4878,
+  "Output_tokens": 930,
+  "Output_thinking_tokens": 521,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004878,
+    "Output_tokens": 0.000465,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009528
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0582",
+      "invoice_number": "INV-2026-0582",
+      "company_name": "Summit Agro Foods",
+      "company_address": "87 Zindabazar Road, Dubai, UAE",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "31 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-07",
+      "due_date": "2026-01-22",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 772.51,
+          "amount": 5407.57
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 125.97,
+          "amount": 629.85
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 1.0,
+          "unit_price": 100.66,
+          "amount": 100.66
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 420.26,
+          "amount": 1681.04
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 191.71,
+          "amount": 1341.97
+        }
+      ],
+      "subtotal": 9161.09,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 687.08,
+      "shipping": 25.0,
+      "total": 9873.17,
+      "amount_paid": 0.0,
+      "balance_due": 9873.17,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801739363511",
+      "po_number": "PO-63882",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 687.08 does not equal (subtotal 9161.09 - discount 0) x printed tax rate 0.07; recomputed tax is 641.28 (printed value 687.08, recomputed value 641.28)."
+    }
+  ],
+  "Input_tokens": 4953,
+  "Output_tokens": 1471,
+  "Output_thinking_tokens": 873,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004953000000000001,
+    "Output_tokens": 0.0007355,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012308000000000002
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0104",
+      "invoice_number": "INV-2026-0104",
+      "company_name": "Golden Harvest Store",
+      "company_address": "80 Al Barsha, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "194 Agrabad C/A, Dubai, UAE",
+      "invoice_date": "2026-05-22",
+      "due_date": "2026-07-06",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 494.38,
+          "amount": 2471.9
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 12.0,
+          "unit_price": 124.25,
+          "amount": 1491.0
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 12.0,
+          "unit_price": 201.47,
+          "amount": 2417.64
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2.0,
+          "unit_price": 188.57,
+          "amount": 377.14
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 6.0,
+          "unit_price": 682.32,
+          "amount": 4093.92
+        }
+      ],
+      "subtotal": 10851.6,
+      "discount": 1085.16,
+      "tax_rate": 0.15,
+      "tax": 1464.97,
+      "shipping": 25.0,
+      "total": 11256.41,
+      "amount_paid": 6737.28,
+      "balance_due": 4519.13,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801036884602",
+      "po_number": "PO-36794",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2827,
+  "Output_tokens": 577,
+  "Output_thinking_tokens": 245,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002827,
+    "Output_tokens": 0.0002885,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005712
+  }
+}

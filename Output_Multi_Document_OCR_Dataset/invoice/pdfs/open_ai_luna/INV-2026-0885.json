@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0885",
+      "invoice_number": "INV-2026-0885",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "129 Al Barsha, Dhaka, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "230 Doha Business Park, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-22",
+      "due_date": "2026-07-06",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 718.45,
+          "amount": 718.45
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 1.0,
+          "unit_price": 532.77,
+          "amount": 532.77
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 1.0,
+          "unit_price": 733.0,
+          "amount": 733.0
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 12.0,
+          "unit_price": 178.17,
+          "amount": 2138.04
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 104.02,
+          "amount": 1144.22
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 103.36,
+          "amount": 310.08
+        }
+      ],
+      "subtotal": 5576.56,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 557.66,
+      "shipping": 50.0,
+      "total": 6184.22,
+      "amount_paid": 0.0,
+      "balance_due": 6184.22,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801036716517",
+      "po_number": "PO-37336",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2862,
+  "Output_tokens": 697,
+  "Output_thinking_tokens": 179,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028619999999999996,
+    "Output_tokens": 0.0003485,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006347
+  }
+}

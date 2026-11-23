@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0087",
+      "invoice_number": "INV-2026-0087",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "22 Al Barsha, Dhaka, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "168 Road 12, Banani, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-26",
+      "due_date": "2026-07-03",
+      "currency": "SAR",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 8.0,
+          "unit_price": 598.97,
+          "amount": 4791.76
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 585.39,
+          "amount": 7024.68
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 5.0,
+          "unit_price": 362.37,
+          "amount": 1811.85
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 446.1,
+          "amount": 4907.1
+        },
+        {
+          "description": "API Integration",
+          "quantity": 10.0,
+          "unit_price": 598.01,
+          "amount": 5980.1
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 438.75,
+          "amount": 877.5
+        }
+      ],
+      "subtotal": 25392.99,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 2539.3,
+      "shipping": 25.0,
+      "total": 27957.29,
+      "amount_paid": 0.0,
+      "balance_due": 27957.29,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801274678934",
+      "po_number": "PO-15964",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2874,
+  "Output_tokens": 765,
+  "Output_thinking_tokens": 244,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028740000000000005,
+    "Output_tokens": 0.0003825,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006699
+  }
+}

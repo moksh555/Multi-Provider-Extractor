@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0396",
+      "invoice_number": "INV-2026-0396",
+      "company_name": "Golden Harvest Store",
+      "company_address": "37 Uttara Sector 7, Doha, Qatar",
+      "customer_name": "Future School",
+      "billing_address": "238 Gulshan Avenue, Dubai, UAE",
+      "invoice_date": "2026-01-03",
+      "due_date": "2026-01-18",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 102.83,
+          "amount": 719.81
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 4.0,
+          "unit_price": 702.79,
+          "amount": 2811.16
+        },
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 401.83,
+          "amount": 1205.49
+        }
+      ],
+      "subtotal": 4736.46,
+      "discount": 473.65,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 4287.81,
+      "amount_paid": 4287.81,
+      "balance_due": 0.0,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801931485357",
+      "po_number": "PO-15082",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2684,
+  "Output_tokens": 394,
+  "Output_thinking_tokens": 126,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002684,
+    "Output_tokens": 0.000197,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00046540000000000004
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0497",
+      "invoice_number": "INV-2026-0497",
+      "company_name": "Metro Print House",
+      "company_address": "112 Gulshan Avenue, Sylhet, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "239 Doha Business Park, Doha, Qatar",
+      "invoice_date": "2026-05-08",
+      "due_date": "2026-05-23",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 301.59,
+          "amount": 3619.08
+        },
+        {
+          "description": "API Integration",
+          "quantity": 7.0,
+          "unit_price": 486.55,
+          "amount": 3405.85
+        }
+      ],
+      "subtotal": 7024.93,
+      "discount": 351.25,
+      "tax_rate": 0.05,
+      "tax": 333.68,
+      "shipping": 0.0,
+      "total": 7007.36,
+      "amount_paid": 0.0,
+      "balance_due": 7007.36,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801267659984",
+      "po_number": "PO-39426",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2609,
+  "Output_tokens": 397,
+  "Output_thinking_tokens": 146,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026090000000000005,
+    "Output_tokens": 0.0001985,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00045940000000000005
+  }
+}

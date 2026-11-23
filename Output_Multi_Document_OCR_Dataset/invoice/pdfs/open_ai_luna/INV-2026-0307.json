@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0307",
+      "invoice_number": "INV-2026-0307",
+      "company_name": "Golden Harvest Store",
+      "company_address": "89 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "243 Al Barsha, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-28",
+      "due_date": "2026-03-07",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 1.0,
+          "unit_price": 126.5,
+          "amount": 126.5
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 483.38,
+          "amount": 1450.14
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 9.0,
+          "unit_price": 139.15,
+          "amount": 1252.35
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 1.0,
+          "unit_price": 59.51,
+          "amount": 59.51
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 564.52,
+          "amount": 6774.24
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 10.0,
+          "unit_price": 357.33,
+          "amount": 3573.3
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 153.18,
+          "amount": 1072.26
+        }
+      ],
+      "subtotal": 14308.3,
+      "discount": 286.17,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 14047.13,
+      "amount_paid": 0.0,
+      "balance_due": 14047.13,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801781811436",
+      "po_number": "PO-92373",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2925,
+  "Output_tokens": 749,
+  "Output_thinking_tokens": 201,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002925,
+    "Output_tokens": 0.0003745,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006670000000000001
+  }
+}

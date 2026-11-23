@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0782",
+      "invoice_number": "INV-2026-0782",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "85 Sheikh Zayed Road, Doha, Qatar",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "198 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-02-18",
+      "due_date": "2026-04-04",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 573.69,
+          "amount": 1147.38
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 709.65,
+          "amount": 2838.6
+        }
+      ],
+      "subtotal": 3985.98,
+      "discount": 79.72,
+      "tax_rate": 0.07,
+      "tax": 292.97,
+      "shipping": 25.0,
+      "total": 4224.23,
+      "amount_paid": 4224.23,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801504600039",
+      "po_number": "PO-52189",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 292.97 does not match recomputed tax 273.44, which is (subtotal 3985.98 - discount 79.72) x tax rate 0.07."
+    }
+  ],
+  "Input_tokens": 4871,
+  "Output_tokens": 1335,
+  "Output_thinking_tokens": 859,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004871,
+    "Output_tokens": 0.0006675,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011546
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0342",
+      "invoice_number": "INV-2026-0342",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "17 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "220 Road 12, Banani, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-01",
+      "due_date": "2026-01-31",
+      "currency": "SAR",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 6.0,
+          "unit_price": 189.29,
+          "amount": 1135.74
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 632.63,
+          "amount": 4428.41
+        }
+      ],
+      "subtotal": 5564.15,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 834.62,
+      "shipping": 5.0,
+      "total": 6403.77,
+      "amount_paid": 0.0,
+      "balance_due": 6403.77,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801262011499",
+      "po_number": "PO-91697",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4889,
+  "Output_tokens": 947,
+  "Output_thinking_tokens": 534,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004889,
+    "Output_tokens": 0.0004735,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009624
+  }
+}

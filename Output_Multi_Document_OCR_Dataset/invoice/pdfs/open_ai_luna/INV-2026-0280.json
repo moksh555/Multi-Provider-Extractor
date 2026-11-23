@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0280",
+      "invoice_number": "INV-2026-0280",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "169 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "144 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-18",
+      "due_date": "2026-07-03",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 5.0,
+          "unit_price": 482.6,
+          "amount": 2413.0
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 9.0,
+          "unit_price": 502.52,
+          "amount": 4522.68
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 6.0,
+          "unit_price": 492.7,
+          "amount": 2956.2
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 241.43,
+          "amount": 2414.3
+        }
+      ],
+      "subtotal": 12306.18,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 12356.18,
+      "amount_paid": 0.0,
+      "balance_due": 12356.18,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801641790811",
+      "po_number": "PO-83805",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2745,
+  "Output_tokens": 582,
+  "Output_thinking_tokens": 148,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002745,
+    "Output_tokens": 0.000291,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005655
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0607",
+      "invoice_number": "INV-2026-0607",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "119 Agrabad C/A, Sylhet, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "63 Mirpur DOHS, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-20",
+      "due_date": "2026-04-06",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 7.0,
+          "unit_price": 697.38,
+          "amount": 4881.66
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 247.54,
+          "amount": 2970.48
+        }
+      ],
+      "subtotal": 7852.14,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1177.82,
+      "shipping": 25.0,
+      "total": 9054.96,
+      "amount_paid": 3928.2,
+      "balance_due": 5126.76,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801902130074",
+      "po_number": "PO-39559",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2617,
+  "Output_tokens": 547,
+  "Output_thinking_tokens": 181,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026169999999999996,
+    "Output_tokens": 0.0002735,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005352
+  }
+}

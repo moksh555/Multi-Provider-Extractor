@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0471",
+      "invoice_number": "INV-2026-0471",
+      "company_name": "BrightStar Electronics",
+      "company_address": "191 Mirpur DOHS, Doha, Qatar",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "221 Zindabazar Road, Dubai, UAE",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-06",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 229.86,
+          "amount": 1838.88
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 183.0,
+          "amount": 915.0
+        },
+        {
+          "description": "Web Development",
+          "quantity": 1.0,
+          "unit_price": 138.65,
+          "amount": 138.65
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 6.0,
+          "unit_price": 805.58,
+          "amount": 4833.48
+        }
+      ],
+      "subtotal": 7726.01,
+      "discount": 386.3,
+      "tax_rate": 0.1,
+      "tax": 733.97,
+      "shipping": 0.0,
+      "total": 8073.68,
+      "amount_paid": 8073.68,
+      "balance_due": 0.0,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801862317777",
+      "po_number": "PO-11962",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4913,
+  "Output_tokens": 1102,
+  "Output_thinking_tokens": 637,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004913,
+    "Output_tokens": 0.000551,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010423
+  }
+}

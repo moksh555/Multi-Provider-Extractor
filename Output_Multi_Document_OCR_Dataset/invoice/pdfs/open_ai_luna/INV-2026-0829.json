@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0829",
+      "invoice_number": "INV-2026-0829",
+      "company_name": "BrightStar Electronics",
+      "company_address": "150 Zindabazar Road, Chattogram, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "138 Agrabad C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-09",
+      "due_date": "2026-05-24",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 10.0,
+          "unit_price": 176.52,
+          "amount": 1765.2
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 366.51,
+          "amount": 1832.55
+        }
+      ],
+      "subtotal": 3597.75,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 269.83,
+      "shipping": 25.0,
+      "total": 3892.58,
+      "amount_paid": 0.0,
+      "balance_due": 3892.58,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801181045136",
+      "po_number": "PO-20742",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 269.83; recomputed tax is 251.84."
+    }
+  ],
+  "Input_tokens": 2615,
+  "Output_tokens": 511,
+  "Output_thinking_tokens": 235,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002615,
+    "Output_tokens": 0.0002555,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000517
+  }
+}

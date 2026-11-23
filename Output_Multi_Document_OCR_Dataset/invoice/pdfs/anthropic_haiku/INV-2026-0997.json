@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0997",
+      "invoice_number": "INV-2026-0997",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "33 Agrabad C/A, Sylhet, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "203 Mirpur DOHS, Dubai, UAE",
+      "invoice_date": "2026-06-17",
+      "due_date": "2026-08-01",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 4.0,
+          "unit_price": 597.01,
+          "amount": 2388.04
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 772.71,
+          "amount": 2318.13
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 762.34,
+          "amount": 8385.74
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 1.0,
+          "unit_price": 520.95,
+          "amount": 520.95
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 377.88,
+          "amount": 377.88
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 8.0,
+          "unit_price": 227.68,
+          "amount": 1821.44
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 435.89,
+          "amount": 4794.79
+        }
+      ],
+      "subtotal": 20606.97,
+      "discount": 412.14,
+      "tax_rate": 0.05,
+      "tax": 1009.74,
+      "shipping": 0.0,
+      "total": 21204.57,
+      "amount_paid": 0.0,
+      "balance_due": 21204.57,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801723969197",
+      "po_number": "PO-28698",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5023,
+  "Output_tokens": 1426,
+  "Output_thinking_tokens": 826,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005023,
+    "Output_tokens": 0.000713,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012152999999999999
+  }
+}

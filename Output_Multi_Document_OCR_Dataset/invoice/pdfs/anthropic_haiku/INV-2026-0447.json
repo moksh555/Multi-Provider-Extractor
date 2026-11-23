@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0447",
+      "invoice_number": "INV-2026-0447",
+      "company_name": "Delta Insurance Services",
+      "company_address": "83 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "138 Zindabazar Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-06",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 66.72,
+          "amount": 133.44
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 10.0,
+          "unit_price": 41.54,
+          "amount": 415.4
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 11.0,
+          "unit_price": 47.06,
+          "amount": 517.66
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 1.0,
+          "unit_price": 544.53,
+          "amount": 544.53
+        }
+      ],
+      "subtotal": 1611.03,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 80.55,
+      "shipping": 25.0,
+      "total": 1716.58,
+      "amount_paid": 0.0,
+      "balance_due": 1716.58,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801952190321",
+      "po_number": "PO-92699",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4927,
+  "Output_tokens": 1127,
+  "Output_thinking_tokens": 652,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004927,
+    "Output_tokens": 0.0005635,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010562
+  }
+}

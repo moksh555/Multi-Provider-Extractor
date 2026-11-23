@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0652",
+      "invoice_number": "INV-2026-0652",
+      "company_name": "Greenline Logistics",
+      "company_address": "166 Al Barsha, Dubai, UAE",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "148 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-05",
+      "due_date": "2026-02-04",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 415.93,
+          "amount": 1663.72
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 1.0,
+          "unit_price": 122.27,
+          "amount": 122.27
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 677.73,
+          "amount": 2033.19
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 405.11,
+          "amount": 810.22
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 10.0,
+          "unit_price": 149.3,
+          "amount": 1493.0
+        }
+      ],
+      "subtotal": 6122.4,
+      "discount": 306.12,
+      "tax_rate": 0.07,
+      "tax": 436.22,
+      "shipping": 5.0,
+      "total": 6257.5,
+      "amount_paid": 6257.5,
+      "balance_due": 0.0,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801198396237",
+      "po_number": "PO-47783",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 436.22; recomputed tax is 407.14."
+    }
+  ],
+  "Input_tokens": 2799,
+  "Output_tokens": 539,
+  "Output_thinking_tokens": 192,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027990000000000003,
+    "Output_tokens": 0.0002695,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005494
+  }
+}

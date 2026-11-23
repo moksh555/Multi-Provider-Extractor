@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0701",
+      "invoice_number": "INV-2026-0701",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "27 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "customer_name": "Bengal Motors",
+      "billing_address": "224 Uttara Sector 7, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-27",
+      "due_date": "2026-05-11",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 4.0,
+          "unit_price": 154.24,
+          "amount": 616.96
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 11.0,
+          "unit_price": 554.96,
+          "amount": 6104.56
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 215.16,
+          "amount": 1506.12
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 635.27,
+          "amount": 1270.54
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 573.28,
+          "amount": 1146.56
+        }
+      ],
+      "subtotal": 10644.74,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1064.47,
+      "shipping": 25.0,
+      "total": 11734.21,
+      "amount_paid": 6789.02,
+      "balance_due": 4945.19,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801430749320",
+      "po_number": "PO-66536",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4966,
+  "Output_tokens": 1326,
+  "Output_thinking_tokens": 790,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004966,
+    "Output_tokens": 0.000663,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011596
+  }
+}

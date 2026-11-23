@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0131",
+      "invoice_number": "INV-2026-0131",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "142 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "53 Doha Business Park, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-28",
+      "due_date": "2026-06-12",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 2.0,
+          "unit_price": 288.63,
+          "amount": 577.26
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 2.0,
+          "unit_price": 446.33,
+          "amount": 892.66
+        }
+      ],
+      "subtotal": 1469.92,
+      "discount": 29.4,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 1490.52,
+      "amount_paid": 1490.52,
+      "balance_due": 0.0,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801353831234",
+      "po_number": "PO-11206",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4877,
+  "Output_tokens": 1011,
+  "Output_thinking_tokens": 611,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048770000000000004,
+    "Output_tokens": 0.0005055,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009932
+  }
+}

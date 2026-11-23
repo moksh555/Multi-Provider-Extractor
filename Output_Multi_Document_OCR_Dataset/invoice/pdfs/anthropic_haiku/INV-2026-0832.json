@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0832",
+      "invoice_number": "INV-2026-0832",
+      "company_name": "Delta Insurance Services",
+      "company_address": "127 Road 12, Banani, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "138 Dhanmondi 27, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-05",
+      "due_date": "2026-02-19",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 683.17,
+          "amount": 3415.85
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 12.0,
+          "unit_price": 64.8,
+          "amount": 777.6
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 3.0,
+          "unit_price": 730.53,
+          "amount": 2191.59
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 227.29,
+          "amount": 1818.32
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 6.0,
+          "unit_price": 242.42,
+          "amount": 1454.52
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 3.0,
+          "unit_price": 104.6,
+          "amount": 313.8
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 2.0,
+          "unit_price": 724.37,
+          "amount": 1448.74
+        }
+      ],
+      "subtotal": 11420.42,
+      "discount": 1142.04,
+      "tax_rate": 0.05,
+      "tax": 513.92,
+      "shipping": 0.0,
+      "total": 10792.3,
+      "amount_paid": 5422.75,
+      "balance_due": 5369.55,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801669621862",
+      "po_number": "PO-49235",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5026,
+  "Output_tokens": 1397,
+  "Output_thinking_tokens": 792,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005026000000000001,
+    "Output_tokens": 0.0006985,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012011
+  }
+}

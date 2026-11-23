@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0534",
+      "invoice_number": "INV-2026-0534",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "13 Gulshan Avenue, Chattogram, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "203 Mirpur DOHS, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-12",
+      "due_date": "2026-03-19",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 12.0,
+          "unit_price": 559.61,
+          "amount": 6715.32
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 708.1,
+          "amount": 2124.3
+        }
+      ],
+      "subtotal": 8839.62,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1325.94,
+      "shipping": 10.0,
+      "total": 10175.56,
+      "amount_paid": 0.0,
+      "balance_due": 10175.56,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801132838931",
+      "po_number": "PO-08602",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4868,
+  "Output_tokens": 982,
+  "Output_thinking_tokens": 581,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004868,
+    "Output_tokens": 0.000491,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009778
+  }
+}

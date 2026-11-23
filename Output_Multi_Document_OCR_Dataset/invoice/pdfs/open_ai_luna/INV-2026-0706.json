@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0706",
+      "invoice_number": "INV-2026-0706",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "194 Road 12, Banani, Riyadh, Saudi Arabia",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "145 Sheikh Zayed Road, Doha, Qatar",
+      "invoice_date": "2026-02-23",
+      "due_date": "2026-04-09",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 268.9,
+          "amount": 806.7
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 7.0,
+          "unit_price": 188.66,
+          "amount": 1320.62
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 217.43,
+          "amount": 1087.15
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 58.05,
+          "amount": 638.55
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10.0,
+          "unit_price": 74.91,
+          "amount": 749.1
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 140.52,
+          "amount": 843.12
+        }
+      ],
+      "subtotal": 5445.24,
+      "discount": 544.52,
+      "tax_rate": 0.05,
+      "tax": 245.04,
+      "shipping": 5.0,
+      "total": 5150.76,
+      "amount_paid": 0.0,
+      "balance_due": 5150.76,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801994924594",
+      "po_number": "PO-94354",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2866,
+  "Output_tokens": 641,
+  "Output_thinking_tokens": 294,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028660000000000003,
+    "Output_tokens": 0.0003205,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006071
+  }
+}

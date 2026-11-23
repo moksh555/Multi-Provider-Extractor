@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0217",
+      "invoice_number": "INV-2026-0217",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "19 Agrabad C/A, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "77 Agrabad C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-04",
+      "due_date": "2026-06-19",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 7.0,
+          "unit_price": 70.61,
+          "amount": 494.27
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 329.46,
+          "amount": 1647.3
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 392.01,
+          "amount": 2744.07
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 11.0,
+          "unit_price": 366.14,
+          "amount": 4027.54
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 9.0,
+          "unit_price": 179.57,
+          "amount": 1616.13
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 11.0,
+          "unit_price": 594.71,
+          "amount": 6541.81
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 321.34,
+          "amount": 3856.08
+        }
+      ],
+      "subtotal": 20927.2,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1569.54,
+      "shipping": 50.0,
+      "total": 22546.74,
+      "amount_paid": 12939.25,
+      "balance_due": 9607.49,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801641940601",
+      "po_number": "PO-15063",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1569.54; recomputed tax (20927.20 - 0) × 0.07 = 1464.90."
+    }
+  ],
+  "Input_tokens": 2955,
+  "Output_tokens": 891,
+  "Output_thinking_tokens": 294,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002955,
+    "Output_tokens": 0.0004455,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000741
+  }
+}

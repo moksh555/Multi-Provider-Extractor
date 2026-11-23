@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0630",
+      "invoice_number": "INV-2026-0630",
+      "company_name": "Golden Harvest Store",
+      "company_address": "100 Road 12, Banani, Riyadh, Saudi Arabia",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "34 Doha Business Park, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-12",
+      "due_date": "2026-06-19",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 5.0,
+          "unit_price": 184.58,
+          "amount": 922.9
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 125.26,
+          "amount": 250.52
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 10.0,
+          "unit_price": 230.98,
+          "amount": 2309.8
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 4.0,
+          "unit_price": 640.0,
+          "amount": 2560.0
+        },
+        {
+          "description": "API Integration",
+          "quantity": 6.0,
+          "unit_price": 166.37,
+          "amount": 998.22
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 2.0,
+          "unit_price": 127.76,
+          "amount": 255.52
+        }
+      ],
+      "subtotal": 7296.96,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 7346.96,
+      "amount_paid": 3131.98,
+      "balance_due": 4214.98,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801284142583",
+      "po_number": "PO-16103",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2868,
+  "Output_tokens": 752,
+  "Output_thinking_tokens": 229,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028680000000000003,
+    "Output_tokens": 0.000376,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006628000000000001
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0429",
+      "invoice_number": "INV-2026-0429",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "42 Agrabad C/A, Dhaka, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "45 Sheikh Zayed Road, Doha, Qatar",
+      "invoice_date": "2026-04-02",
+      "due_date": "2026-05-17",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 726.01,
+          "amount": 3630.05
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 132.01,
+          "amount": 264.02
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 3.0,
+          "unit_price": 53.02,
+          "amount": 159.06
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 200.66,
+          "amount": 1003.3
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 6.0,
+          "unit_price": 199.96,
+          "amount": 1199.76
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 12.0,
+          "unit_price": 503.72,
+          "amount": 6044.64
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 9.0,
+          "unit_price": 48.49,
+          "amount": 436.41
+        }
+      ],
+      "subtotal": 12737.24,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1273.72,
+      "shipping": 25.0,
+      "total": 14035.96,
+      "amount_paid": 5967.77,
+      "balance_due": 8068.19,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801199116623",
+      "po_number": "PO-27920",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5008,
+  "Output_tokens": 1397,
+  "Output_thinking_tokens": 793,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005008,
+    "Output_tokens": 0.0006985,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011993
+  }
+}

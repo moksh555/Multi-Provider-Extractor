@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0873",
+      "invoice_number": "INV-2026-0873",
+      "company_name": "Greenline Logistics",
+      "company_address": "98 Road 12, Banani, Dubai, UAE",
+      "customer_name": "Bengal Motors",
+      "billing_address": "72 Dhanmondi 27, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-03",
+      "due_date": "2026-06-18",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 674.2,
+          "amount": 6742.0
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 231.13,
+          "amount": 693.39
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 5.0,
+          "unit_price": 789.27,
+          "amount": 3946.35
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 2.0,
+          "unit_price": 28.25,
+          "amount": 56.5
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 402.1,
+          "amount": 402.1
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 477.21,
+          "amount": 5249.31
+        }
+      ],
+      "subtotal": 17089.65,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2563.45,
+      "shipping": 0.0,
+      "total": 19653.1,
+      "amount_paid": 0.0,
+      "balance_due": 19653.1,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801369184643",
+      "po_number": "PO-23444",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2892,
+  "Output_tokens": 789,
+  "Output_thinking_tokens": 268,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002892,
+    "Output_tokens": 0.0003945,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006837
+  }
+}

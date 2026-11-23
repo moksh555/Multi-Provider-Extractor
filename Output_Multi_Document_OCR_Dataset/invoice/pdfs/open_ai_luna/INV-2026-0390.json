@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0390",
+      "invoice_number": "INV-2026-0390",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "87 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "204 Jumeirah Lake Towers, Dubai, UAE",
+      "invoice_date": "2026-02-19",
+      "due_date": "2026-03-21",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 351.08,
+          "amount": 1053.24
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 4.0,
+          "unit_price": 551.2,
+          "amount": 2204.8
+        },
+        {
+          "description": "API Integration",
+          "quantity": 12.0,
+          "unit_price": 112.52,
+          "amount": 1350.24
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 320.01,
+          "amount": 3520.11
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10.0,
+          "unit_price": 700.34,
+          "amount": 7003.4
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 6.0,
+          "unit_price": 844.27,
+          "amount": 5065.62
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 62.6,
+          "amount": 751.2
+        }
+      ],
+      "subtotal": 20948.61,
+      "discount": 2094.86,
+      "tax_rate": 0.1,
+      "tax": 1885.38,
+      "shipping": 5.0,
+      "total": 20744.13,
+      "amount_paid": 0.0,
+      "balance_due": 20744.13,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801597428455",
+      "po_number": "PO-94688",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2934,
+  "Output_tokens": 678,
+  "Output_thinking_tokens": 308,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029340000000000003,
+    "Output_tokens": 0.000339,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006324
+  }
+}

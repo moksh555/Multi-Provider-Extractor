@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0906",
+      "invoice_number": "INV-2026-0906",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "153 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "152 Al Barsha, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-31",
+      "due_date": "2026-06-30",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 10.0,
+          "unit_price": 498.36,
+          "amount": 4983.6
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 5.0,
+          "unit_price": 272.02,
+          "amount": 1360.1
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 11.0,
+          "unit_price": 849.81,
+          "amount": 9347.91
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 219.7,
+          "amount": 1537.9
+        },
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 208.61,
+          "amount": 625.83
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 1.0,
+          "unit_price": 33.41,
+          "amount": 33.41
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 151.03,
+          "amount": 906.18
+        }
+      ],
+      "subtotal": 18794.93,
+      "discount": 939.75,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 17855.18,
+      "amount_paid": 13197.6,
+      "balance_due": 4657.58,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801543287544",
+      "po_number": "PO-67163",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2953,
+  "Output_tokens": 648,
+  "Output_thinking_tokens": 279,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002953,
+    "Output_tokens": 0.000324,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006193
+  }
+}

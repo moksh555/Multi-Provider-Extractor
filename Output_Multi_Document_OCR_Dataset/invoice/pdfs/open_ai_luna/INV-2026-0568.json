@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0568",
+      "invoice_number": "INV-2026-0568",
+      "company_name": "Delta Insurance Services",
+      "company_address": "183 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "249 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-04-24",
+      "due_date": "2026-05-09",
+      "currency": "BDT",
+      "payment_terms": "Net 30",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 10.0,
+          "unit_price": 749.01,
+          "amount": 7490.1
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 331.49,
+          "amount": 662.98
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 1.0,
+          "unit_price": 91.32,
+          "amount": 91.32
+        },
+        {
+          "description": "Web Development",
+          "quantity": 6.0,
+          "unit_price": 766.53,
+          "amount": 4599.18
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 434.53,
+          "amount": 4779.83
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 6.0,
+          "unit_price": 428.38,
+          "amount": 2570.28
+        }
+      ],
+      "subtotal": 20193.69,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 20218.69,
+      "amount_paid": 0.0,
+      "balance_due": 20218.69,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801373409240",
+      "po_number": "PO-05374",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2887,
+  "Output_tokens": 488,
+  "Output_thinking_tokens": 135,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028869999999999997,
+    "Output_tokens": 0.000244,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005327
+  }
+}

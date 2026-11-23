@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0135",
+      "invoice_number": "INV-2026-0135",
+      "company_name": "Summit Agro Foods",
+      "company_address": "48 Uttara Sector 7, Doha, Qatar",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "75 Motijheel C/A, Doha, Qatar",
+      "invoice_date": "2026-05-28",
+      "due_date": "2026-07-12",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 612.38,
+          "amount": 4286.66
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 498.66,
+          "amount": 997.32
+        },
+        {
+          "description": "API Integration",
+          "quantity": 9.0,
+          "unit_price": 348.33,
+          "amount": 3134.97
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 5.0,
+          "unit_price": 60.55,
+          "amount": 302.75
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 8.71,
+          "amount": 8.71
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 6.0,
+          "unit_price": 100.37,
+          "amount": 602.22
+        }
+      ],
+      "subtotal": 9332.63,
+      "discount": 186.65,
+      "tax_rate": 0.07,
+      "tax": 685.95,
+      "shipping": 5.0,
+      "total": 9836.93,
+      "amount_paid": 0.0,
+      "balance_due": 9836.93,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801273333564",
+      "po_number": "PO-13981",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 685.95 does not match recomputed (9332.63 - 186.65) x 0.07 = 640.22."
+    }
+  ],
+  "Input_tokens": 4971,
+  "Output_tokens": 1496,
+  "Output_thinking_tokens": 897,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004971,
+    "Output_tokens": 0.000748,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012450999999999999
+  }
+}

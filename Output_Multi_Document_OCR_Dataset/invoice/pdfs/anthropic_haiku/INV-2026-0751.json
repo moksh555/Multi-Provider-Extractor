@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0751",
+      "invoice_number": "INV-2026-0751",
+      "company_name": "BrightStar Electronics",
+      "company_address": "115 Jumeirah Lake Towers, Doha, Qatar",
+      "customer_name": "TechPoint BD",
+      "billing_address": "186 Doha Business Park, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-27",
+      "due_date": "2026-04-13",
+      "currency": "SAR",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 8.0,
+          "unit_price": 825.64,
+          "amount": 6605.12
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 310.85,
+          "amount": 621.7
+        }
+      ],
+      "subtotal": 7226.82,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 542.01,
+      "shipping": 25.0,
+      "total": 7793.83,
+      "amount_paid": 7793.83,
+      "balance_due": 0.0,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801683623783",
+      "po_number": "PO-09268",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 542.01 does not match recomputed tax 505.88 ((7226.82 - 0) x 0.07 from printed Tax (7%)). The printed tax equals 7.5% of subtotal, not 7%."
+    }
+  ],
+  "Input_tokens": 4870,
+  "Output_tokens": 1276,
+  "Output_thinking_tokens": 792,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000487,
+    "Output_tokens": 0.000638,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011250000000000001
+  }
+}

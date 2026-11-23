@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0620",
+      "invoice_number": "INV-2026-0620",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "163 Mirpur DOHS, Dhaka, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "73 Sheikh Zayed Road, Dubai, UAE",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-08",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 579.53,
+          "amount": 2897.65
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 27.32,
+          "amount": 81.96
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 2.0,
+          "unit_price": 801.51,
+          "amount": 1603.02
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 124.79,
+          "amount": 1497.48
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 315.22,
+          "amount": 2206.54
+        }
+      ],
+      "subtotal": 8286.65,
+      "discount": 828.67,
+      "tax_rate": 0.05,
+      "tax": 372.9,
+      "shipping": 25.0,
+      "total": 7855.88,
+      "amount_paid": 0.0,
+      "balance_due": 7855.88,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801352899410",
+      "po_number": "PO-86760",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4949,
+  "Output_tokens": 1183,
+  "Output_thinking_tokens": 661,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004949,
+    "Output_tokens": 0.0005915,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010864
+  }
+}

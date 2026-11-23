@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0960",
+      "invoice_number": "INV-2026-0960",
+      "company_name": "Greenline Logistics",
+      "company_address": "113 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "28 Sheikh Zayed Road, Dubai, UAE",
+      "invoice_date": "2026-02-15",
+      "due_date": "2026-04-01",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 1.0,
+          "unit_price": 498.94,
+          "amount": 498.94
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 517.54,
+          "amount": 5692.94
+        },
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 756.26,
+          "amount": 5293.82
+        }
+      ],
+      "subtotal": 11485.7,
+      "discount": 229.71,
+      "tax_rate": 0.07,
+      "tax": 844.2,
+      "shipping": 10.0,
+      "total": 12110.19,
+      "amount_paid": 0.0,
+      "balance_due": 12110.19,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801903371930",
+      "po_number": "PO-24479",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 844.20 does not match recomputed tax 788.92, calculated as (subtotal 11485.70 - discount 229.71) x tax rate 0.07 = 788.92."
+    }
+  ],
+  "Input_tokens": 4884,
+  "Output_tokens": 1366,
+  "Output_thinking_tokens": 852,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004884,
+    "Output_tokens": 0.000683,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011714
+  }
+}

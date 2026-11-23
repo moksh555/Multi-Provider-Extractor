@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0276",
+      "invoice_number": "INV-2026-0276",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "68 Al Barsha, Riyadh, Saudi Arabia",
+      "customer_name": "Rahim Traders",
+      "billing_address": "64 Road 12, Banani, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-01",
+      "due_date": "2026-03-18",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 616.02,
+          "amount": 5544.18
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 1.0,
+          "unit_price": 20.41,
+          "amount": 20.41
+        }
+      ],
+      "subtotal": 5564.59,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 417.34,
+      "shipping": 25.0,
+      "total": 6006.93,
+      "amount_paid": 0.0,
+      "balance_due": 6006.93,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801905388747",
+      "po_number": "PO-34095",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 417.34 does not match recomputed (subtotal 5564.59 - discount 0) x tax rate 0.07 = 389.52, a difference of 27.82. The printed tax implies a rate of about 0.075."
+    }
+  ],
+  "Input_tokens": 4875,
+  "Output_tokens": 1306,
+  "Output_thinking_tokens": 813,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004875,
+    "Output_tokens": 0.000653,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011405
+  }
+}

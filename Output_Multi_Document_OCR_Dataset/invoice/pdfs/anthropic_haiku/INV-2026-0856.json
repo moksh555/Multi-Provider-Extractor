@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0856",
+      "invoice_number": "INV-2026-0856",
+      "company_name": "Golden Harvest Store",
+      "company_address": "126 Doha Business Park, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "225 Gulshan Avenue, Chattogram, Bangladesh",
+      "invoice_date": "2026-04-25",
+      "due_date": "2026-05-10",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 200.47,
+          "amount": 1804.23
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 11.0,
+          "unit_price": 243.64,
+          "amount": 2680.04
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 187.58,
+          "amount": 562.74
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 734.22,
+          "amount": 5139.54
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 8.0,
+          "unit_price": 334.24,
+          "amount": 2673.92
+        }
+      ],
+      "subtotal": 12860.47,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 964.54,
+      "shipping": 10.0,
+      "total": 13835.01,
+      "amount_paid": 0.0,
+      "balance_due": 13835.01,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801920692933",
+      "po_number": "PO-05201",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 964.54 does not match recomputed (subtotal 12860.47 - discount 0) x tax rate 0.07 = 900.23 (difference 64.31). All other line, subtotal, total, and balance due checks passed."
+    }
+  ],
+  "Input_tokens": 4948,
+  "Output_tokens": 1513,
+  "Output_thinking_tokens": 899,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004948,
+    "Output_tokens": 0.0007565,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012513
+  }
+}

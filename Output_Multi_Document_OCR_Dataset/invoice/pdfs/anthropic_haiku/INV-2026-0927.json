@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0927",
+      "invoice_number": "INV-2026-0927",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "15 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "218 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-04-23",
+      "due_date": "2026-05-08",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 184.26,
+          "amount": 1289.82
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 213.52,
+          "amount": 854.08
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 334.23,
+          "amount": 1671.15
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 8.0,
+          "unit_price": 140.78,
+          "amount": 1126.24
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 440.91,
+          "amount": 1322.73
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 4.0,
+          "unit_price": 803.42,
+          "amount": 3213.68
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 520.5,
+          "amount": 2602.5
+        }
+      ],
+      "subtotal": 12080.2,
+      "discount": 604.01,
+      "tax_rate": 0.1,
+      "tax": 1147.62,
+      "shipping": 25.0,
+      "total": 12648.81,
+      "amount_paid": 8382.19,
+      "balance_due": 4266.62,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801762008287",
+      "po_number": "PO-86207",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5012,
+  "Output_tokens": 1411,
+  "Output_thinking_tokens": 822,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005012,
+    "Output_tokens": 0.0007055,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012067
+  }
+}

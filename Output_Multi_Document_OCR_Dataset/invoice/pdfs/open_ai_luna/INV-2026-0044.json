@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0044",
+      "invoice_number": "INV-2026-0044",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "147 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "111 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-04",
+      "due_date": "2026-05-19",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 4.0,
+          "unit_price": 313.25,
+          "amount": 1253.0
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 333.31,
+          "amount": 666.62
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 9.0,
+          "unit_price": 243.52,
+          "amount": 2191.68
+        },
+        {
+          "description": "API Integration",
+          "quantity": 11.0,
+          "unit_price": 522.5,
+          "amount": 5747.5
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 339.67,
+          "amount": 679.34
+        },
+        {
+          "description": "Web Development",
+          "quantity": 9.0,
+          "unit_price": 798.59,
+          "amount": 7187.31
+        }
+      ],
+      "subtotal": 17725.45,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1772.55,
+      "shipping": 0.0,
+      "total": 19498.0,
+      "amount_paid": 19498.0,
+      "balance_due": 0.0,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801640078518",
+      "po_number": "PO-19336",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2867,
+  "Output_tokens": 562,
+  "Output_thinking_tokens": 218,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002867,
+    "Output_tokens": 0.000281,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005677
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0209",
+      "invoice_number": "INV-2026-0209",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "159 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "55 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-07",
+      "due_date": "2026-05-07",
+      "currency": "SAR",
+      "payment_terms": "Net 30",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 6.0,
+          "unit_price": 582.13,
+          "amount": 3492.78
+        },
+        {
+          "description": "Web Development",
+          "quantity": 6.0,
+          "unit_price": 695.79,
+          "amount": 4174.74
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 343.51,
+          "amount": 3778.61
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 829.21,
+          "amount": 829.21
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 10.6,
+          "amount": 21.2
+        }
+      ],
+      "subtotal": 12296.54,
+      "discount": 1229.65,
+      "tax_rate": 0.07,
+      "tax": 830.02,
+      "shipping": 50.0,
+      "total": 11946.91,
+      "amount_paid": 0.0,
+      "balance_due": 11946.91,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801781682683",
+      "po_number": "PO-66441",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 830.02; recomputed tax is 774.68."
+    }
+  ],
+  "Input_tokens": 2803,
+  "Output_tokens": 566,
+  "Output_thinking_tokens": 217,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028030000000000004,
+    "Output_tokens": 0.000283,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005633000000000001
+  }
+}

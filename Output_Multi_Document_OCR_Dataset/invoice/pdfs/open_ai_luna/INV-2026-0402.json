@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0402",
+      "invoice_number": "INV-2026-0402",
+      "company_name": "BrightStar Electronics",
+      "company_address": "52 Zindabazar Road, Dhaka, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "176 Al Barsha, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-17",
+      "due_date": "2026-03-19",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 3.0,
+          "unit_price": 347.87,
+          "amount": 1043.61
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 739.14,
+          "amount": 2956.56
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 6.0,
+          "unit_price": 454.04,
+          "amount": 2724.24
+        }
+      ],
+      "subtotal": 6724.41,
+      "discount": 336.22,
+      "tax_rate": 0.07,
+      "tax": 479.11,
+      "shipping": 50.0,
+      "total": 6917.3,
+      "amount_paid": 0.0,
+      "balance_due": 6917.3,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801189173065",
+      "po_number": "PO-99503",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 479.11; recomputed tax 447.17."
+    }
+  ],
+  "Input_tokens": 2679,
+  "Output_tokens": 602,
+  "Output_thinking_tokens": 176,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026790000000000006,
+    "Output_tokens": 0.000301,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005689
+  }
+}

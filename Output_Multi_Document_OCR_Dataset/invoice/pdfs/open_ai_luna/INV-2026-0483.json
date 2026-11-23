@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0483",
+      "invoice_number": "INV-2026-0483",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "133 Uttara Sector 7, Dubai, UAE",
+      "customer_name": "Future School",
+      "billing_address": "25 Al Barsha, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-19",
+      "due_date": "2026-05-19",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 692.73,
+          "amount": 7620.03
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 2.0,
+          "unit_price": 531.03,
+          "amount": 1062.06
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 10.0,
+          "unit_price": 382.35,
+          "amount": 3823.5
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 395.86,
+          "amount": 791.72
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 101.18,
+          "amount": 1214.16
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 7.0,
+          "unit_price": 495.99,
+          "amount": 3471.93
+        }
+      ],
+      "subtotal": 17983.4,
+      "discount": 1798.34,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 16210.06,
+      "amount_paid": 0.0,
+      "balance_due": 16210.06,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801263470777",
+      "po_number": "PO-36857",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2896,
+  "Output_tokens": 782,
+  "Output_thinking_tokens": 259,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028960000000000005,
+    "Output_tokens": 0.000391,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006806000000000001
+  }
+}

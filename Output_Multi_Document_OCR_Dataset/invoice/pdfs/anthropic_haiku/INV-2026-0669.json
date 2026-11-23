@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0669",
+      "invoice_number": "INV-2026-0669",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "147 Doha Business Park, Dubai, UAE",
+      "customer_name": "TechPoint BD",
+      "billing_address": "248 Zindabazar Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-25",
+      "due_date": "2026-07-02",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 714.46,
+          "amount": 1428.92
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 10.0,
+          "unit_price": 529.05,
+          "amount": 5290.5
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 289.77,
+          "amount": 1448.85
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 10.0,
+          "unit_price": 350.07,
+          "amount": 3500.7
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 654.24,
+          "amount": 1308.48
+        }
+      ],
+      "subtotal": 12977.45,
+      "discount": 648.87,
+      "tax_rate": 0.05,
+      "tax": 616.43,
+      "shipping": 50.0,
+      "total": 12995.01,
+      "amount_paid": 0.0,
+      "balance_due": 12995.01,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801314549085",
+      "po_number": "PO-27801",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4939,
+  "Output_tokens": 1241,
+  "Output_thinking_tokens": 726,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004939,
+    "Output_tokens": 0.0006205,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011144
+  }
+}

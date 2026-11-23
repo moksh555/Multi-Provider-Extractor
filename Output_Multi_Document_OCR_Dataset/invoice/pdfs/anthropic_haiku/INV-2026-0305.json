@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0305",
+      "invoice_number": "INV-2026-0305",
+      "company_name": "CityBanking Supplies",
+      "company_address": "112 Sheikh Zayed Road, Sylhet, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "2 Sheikh Zayed Road, Dubai, UAE",
+      "invoice_date": "2026-01-05",
+      "due_date": "2026-01-12",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 10.0,
+          "unit_price": 575.96,
+          "amount": 5759.6
+        },
+        {
+          "description": "Web Development",
+          "quantity": 9.0,
+          "unit_price": 393.43,
+          "amount": 3540.87
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 10.0,
+          "unit_price": 787.15,
+          "amount": 7871.5
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 3.0,
+          "unit_price": 167.01,
+          "amount": 501.03
+        }
+      ],
+      "subtotal": 17673.0,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1767.3,
+      "shipping": 0.0,
+      "total": 19440.3,
+      "amount_paid": 6863.83,
+      "balance_due": 12576.47,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801159013089",
+      "po_number": "PO-62192",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4938,
+  "Output_tokens": 1098,
+  "Output_thinking_tokens": 611,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004938,
+    "Output_tokens": 0.000549,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010428
+  }
+}

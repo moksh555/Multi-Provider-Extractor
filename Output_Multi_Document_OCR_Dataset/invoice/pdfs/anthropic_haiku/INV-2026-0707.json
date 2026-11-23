@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0707",
+      "invoice_number": "INV-2026-0707",
+      "company_name": "Greenline Logistics",
+      "company_address": "35 Jumeirah Lake Towers, Doha, Qatar",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "205 Motijheel C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-03-09",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 115.27,
+          "amount": 345.81
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 3.0,
+          "unit_price": 196.99,
+          "amount": 590.97
+        }
+      ],
+      "subtotal": 936.78,
+      "discount": 46.84,
+      "tax_rate": 0.07,
+      "tax": 66.75,
+      "shipping": 5.0,
+      "total": 961.69,
+      "amount_paid": 0.0,
+      "balance_due": 961.69,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801374891035",
+      "po_number": "PO-02981",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 66.75 vs recomputed (936.78 - 46.84) x 0.07 = 62.30."
+    }
+  ],
+  "Input_tokens": 4869,
+  "Output_tokens": 1199,
+  "Output_thinking_tokens": 742,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004869,
+    "Output_tokens": 0.0005995,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010864
+  }
+}

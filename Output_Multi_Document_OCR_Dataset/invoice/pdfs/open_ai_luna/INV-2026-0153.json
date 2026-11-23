@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0153",
+      "invoice_number": "INV-2026-0153",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "81 Agrabad C/A, Dhaka, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "22 Jumeirah Lake Towers, Dubai, UAE",
+      "invoice_date": "2026-06-23",
+      "due_date": "2026-06-30",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 10.0,
+          "unit_price": 438.73,
+          "amount": 4387.3
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 11.0,
+          "unit_price": 312.02,
+          "amount": 3432.22
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 726.9,
+          "amount": 8722.8
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 321.92,
+          "amount": 2253.44
+        }
+      ],
+      "subtotal": 18795.76,
+      "discount": 939.79,
+      "tax_rate": 0.05,
+      "tax": 892.8,
+      "shipping": 5.0,
+      "total": 18753.77,
+      "amount_paid": 0.0,
+      "balance_due": 18753.77,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801398074982",
+      "po_number": "PO-89481",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2756,
+  "Output_tokens": 700,
+  "Output_thinking_tokens": 259,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027560000000000003,
+    "Output_tokens": 0.00035,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006256
+  }
+}

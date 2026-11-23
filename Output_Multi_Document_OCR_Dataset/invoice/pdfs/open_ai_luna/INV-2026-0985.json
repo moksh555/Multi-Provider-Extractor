@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0985",
+      "invoice_number": "INV-2026-0985",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "69 Mirpur DOHS, Dubai, UAE",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "59 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-26",
+      "due_date": "2026-04-10",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 579.72,
+          "amount": 6376.92
+        },
+        {
+          "description": "Web Development",
+          "quantity": 5.0,
+          "unit_price": 39.3,
+          "amount": 196.5
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 10.0,
+          "unit_price": 572.79,
+          "amount": 5727.9
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 583.87,
+          "amount": 5254.83
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 657.06,
+          "amount": 5256.48
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 205.64,
+          "amount": 1028.2
+        }
+      ],
+      "subtotal": 23840.83,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 1192.04,
+      "shipping": 0.0,
+      "total": 25032.87,
+      "amount_paid": 0.0,
+      "balance_due": 25032.87,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801573250885",
+      "po_number": "PO-72439",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2888,
+  "Output_tokens": 760,
+  "Output_thinking_tokens": 236,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002888,
+    "Output_tokens": 0.00038,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006688
+  }
+}

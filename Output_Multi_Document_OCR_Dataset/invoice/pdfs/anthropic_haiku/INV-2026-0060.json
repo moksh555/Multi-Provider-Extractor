@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0060",
+      "invoice_number": "INV-2026-0060",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "72 Dhanmondi 27, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "72 Motijheel C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-30",
+      "due_date": "2026-02-14",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 184.52,
+          "amount": 2214.24
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 12.0,
+          "unit_price": 66.23,
+          "amount": 794.76
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 11.0,
+          "unit_price": 428.41,
+          "amount": 4712.51
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 4.0,
+          "unit_price": 220.76,
+          "amount": 883.04
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 364.27,
+          "amount": 4371.24
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 2.0,
+          "unit_price": 386.11,
+          "amount": 772.22
+        },
+        {
+          "description": "API Integration",
+          "quantity": 8.0,
+          "unit_price": 498.25,
+          "amount": 3986.0
+        }
+      ],
+      "subtotal": 17734.01,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2660.1,
+      "shipping": 25.0,
+      "total": 20419.11,
+      "amount_paid": 0.0,
+      "balance_due": 20419.11,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801984097859",
+      "po_number": "PO-12616",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5013,
+  "Output_tokens": 1262,
+  "Output_thinking_tokens": 667,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005013,
+    "Output_tokens": 0.000631,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011323000000000001
+  }
+}

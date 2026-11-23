@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0964",
+      "invoice_number": "INV-2026-0964",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "12 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "243 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-25",
+      "due_date": "2026-07-02",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 12.0,
+          "unit_price": 269.44,
+          "amount": 3233.28
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 1.0,
+          "unit_price": 637.12,
+          "amount": 637.12
+        },
+        {
+          "description": "Web Development",
+          "quantity": 9.0,
+          "unit_price": 101.56,
+          "amount": 914.04
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 454.07,
+          "amount": 2724.42
+        }
+      ],
+      "subtotal": 7508.86,
+      "discount": 375.44,
+      "tax_rate": 0.15,
+      "tax": 1070.01,
+      "shipping": 0.0,
+      "total": 8203.43,
+      "amount_paid": 8203.43,
+      "balance_due": 0.0,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801568844924",
+      "po_number": "PO-54879",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2753,
+  "Output_tokens": 450,
+  "Output_thinking_tokens": 151,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002753,
+    "Output_tokens": 0.000225,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005003
+  }
+}

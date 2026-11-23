@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0312",
+      "invoice_number": "INV-2026-0312",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "191 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "customer_name": "TechPoint BD",
+      "billing_address": "80 Agrabad C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-06",
+      "due_date": "2026-06-13",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 337.42,
+          "amount": 1349.68
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 11.0,
+          "unit_price": 360.81,
+          "amount": 3968.91
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 217.3,
+          "amount": 869.2
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 198.55,
+          "amount": 397.1
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 759.6,
+          "amount": 2278.8
+        }
+      ],
+      "subtotal": 8863.69,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 443.18,
+      "shipping": 0.0,
+      "total": 9306.87,
+      "amount_paid": 0.0,
+      "balance_due": 9306.87,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801791467013",
+      "po_number": "PO-16462",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4955,
+  "Output_tokens": 1269,
+  "Output_thinking_tokens": 743,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004955,
+    "Output_tokens": 0.0006345,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00113
+  }
+}

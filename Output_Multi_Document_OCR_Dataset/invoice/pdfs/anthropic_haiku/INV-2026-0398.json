@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0398",
+      "invoice_number": "INV-2026-0398",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "184 Dhanmondi 27, Dubai, UAE",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "8 Dhanmondi 27, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-27",
+      "due_date": "2026-07-11",
+      "currency": "USD",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 581.19,
+          "amount": 4068.33
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 8.0,
+          "unit_price": 410.75,
+          "amount": 3286.0
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 7.0,
+          "unit_price": 732.88,
+          "amount": 5130.16
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 4.0,
+          "unit_price": 766.06,
+          "amount": 3064.24
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 732.21,
+          "amount": 2196.63
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 651.74,
+          "amount": 3910.44
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 9.0,
+          "unit_price": 128.94,
+          "amount": 1160.46
+        }
+      ],
+      "subtotal": 22816.26,
+      "discount": 2281.63,
+      "tax_rate": 0.15,
+      "tax": 3080.19,
+      "shipping": 50.0,
+      "total": 23664.82,
+      "amount_paid": 0.0,
+      "balance_due": 23664.82,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801163196603",
+      "po_number": "PO-99641",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5000,
+  "Output_tokens": 1481,
+  "Output_thinking_tokens": 883,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005,
+    "Output_tokens": 0.0007405,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012404999999999998
+  }
+}

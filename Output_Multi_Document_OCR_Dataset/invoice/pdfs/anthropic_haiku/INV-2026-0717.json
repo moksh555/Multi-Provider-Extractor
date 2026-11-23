@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0717",
+      "invoice_number": "INV-2026-0717",
+      "company_name": "Summit Agro Foods",
+      "company_address": "188 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "139 Motijheel C/A, Dubai, UAE",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-14",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 6.0,
+          "unit_price": 28.08,
+          "amount": 168.48
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 837.3,
+          "amount": 5861.1
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 1.0,
+          "unit_price": 569.45,
+          "amount": 569.45
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 656.94,
+          "amount": 7226.34
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 2.0,
+          "unit_price": 696.74,
+          "amount": 1393.48
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 357.66,
+          "amount": 715.32
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 170.11,
+          "amount": 1360.88
+        }
+      ],
+      "subtotal": 17295.05,
+      "discount": 1729.51,
+      "tax_rate": 0.05,
+      "tax": 778.28,
+      "shipping": 5.0,
+      "total": 16348.82,
+      "amount_paid": 10526.85,
+      "balance_due": 5821.97,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801651020756",
+      "po_number": "PO-18635",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5006,
+  "Output_tokens": 1429,
+  "Output_thinking_tokens": 825,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005006,
+    "Output_tokens": 0.0007145,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012151
+  }
+}

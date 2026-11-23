@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0555",
+      "invoice_number": "INV-2026-0555",
+      "company_name": "Delta Insurance Services",
+      "company_address": "35 Gulshan Avenue, Sylhet, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "138 Zindabazar Road, Doha, Qatar",
+      "invoice_date": "2026-03-28",
+      "due_date": "2026-04-04",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 2.0,
+          "unit_price": 508.15,
+          "amount": 1016.3
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 1.0,
+          "unit_price": 256.62,
+          "amount": 256.62
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 574.02,
+          "amount": 6314.22
+        }
+      ],
+      "subtotal": 7587.14,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 758.71,
+      "shipping": 0.0,
+      "total": 8345.85,
+      "amount_paid": 0.0,
+      "balance_due": 8345.85,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801029649324",
+      "po_number": "PO-67866",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4881,
+  "Output_tokens": 1009,
+  "Output_thinking_tokens": 581,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048810000000000005,
+    "Output_tokens": 0.0005045,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009926
+  }
+}

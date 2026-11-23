@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0518",
+      "invoice_number": "INV-2026-0518",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "49 Mirpur DOHS, Chattogram, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "174 Sheikh Zayed Road, Doha, Qatar",
+      "invoice_date": "2026-06-12",
+      "due_date": "2026-07-27",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 8.0,
+          "unit_price": 293.31,
+          "amount": 2346.48
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 1.0,
+          "unit_price": 384.72,
+          "amount": 384.72
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 9.0,
+          "unit_price": 734.89,
+          "amount": 6614.01
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 680.14,
+          "amount": 2040.42
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 575.29,
+          "amount": 575.29
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 6.0,
+          "unit_price": 668.45,
+          "amount": 4010.7
+        }
+      ],
+      "subtotal": 15971.62,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1597.16,
+      "shipping": 10.0,
+      "total": 17578.78,
+      "amount_paid": 0.0,
+      "balance_due": 17578.78,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801012817231",
+      "po_number": "PO-91573",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2864,
+  "Output_tokens": 573,
+  "Output_thinking_tokens": 232,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002864,
+    "Output_tokens": 0.0002865,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005729000000000001
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0224",
+      "invoice_number": "INV-2026-0224",
+      "company_name": "Delta Insurance Services",
+      "company_address": "144 Zindabazar Road, Riyadh, Saudi Arabia",
+      "customer_name": "Future School",
+      "billing_address": "163 Agrabad C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-28",
+      "due_date": "2026-05-12",
+      "currency": "SAR",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 100.67,
+          "amount": 503.35
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 802.0,
+          "amount": 4010.0
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 4.0,
+          "unit_price": 277.31,
+          "amount": 1109.24
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 3.0,
+          "unit_price": 42.43,
+          "amount": 127.29
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 11.0,
+          "unit_price": 635.08,
+          "amount": 6985.88
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 405.47,
+          "amount": 2027.35
+        },
+        {
+          "description": "API Integration",
+          "quantity": 2.0,
+          "unit_price": 370.82,
+          "amount": 741.64
+        }
+      ],
+      "subtotal": 15504.75,
+      "discount": 775.24,
+      "tax_rate": 0.15,
+      "tax": 2209.43,
+      "shipping": 5.0,
+      "total": 16943.94,
+      "amount_paid": 16943.94,
+      "balance_due": 0.0,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801330058373",
+      "po_number": "PO-75362",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2929,
+  "Output_tokens": 617,
+  "Output_thinking_tokens": 244,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002929,
+    "Output_tokens": 0.0003085,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006014
+  }
+}

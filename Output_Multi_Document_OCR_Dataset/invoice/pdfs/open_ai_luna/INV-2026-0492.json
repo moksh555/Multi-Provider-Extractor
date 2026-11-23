@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0492",
+      "invoice_number": "INV-2026-0492",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "187 Zindabazar Road, Dubai, UAE",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "84 Al Barsha, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-25",
+      "due_date": "2026-04-09",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 6.0,
+          "unit_price": 365.73,
+          "amount": 2194.38
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 4.0,
+          "unit_price": 254.32,
+          "amount": 1017.28
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 81.78,
+          "amount": 654.24
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 633.02,
+          "amount": 5064.16
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10.0,
+          "unit_price": 689.24,
+          "amount": 6892.4
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 839.0,
+          "amount": 1678.0
+        }
+      ],
+      "subtotal": 17500.46,
+      "discount": 1750.05,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 15750.41,
+      "amount_paid": 15750.41,
+      "balance_due": 0.0,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801816237290",
+      "po_number": "PO-55000",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2868,
+  "Output_tokens": 736,
+  "Output_thinking_tokens": 228,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028680000000000003,
+    "Output_tokens": 0.000368,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006548000000000001
+  }
+}

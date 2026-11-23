@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0855",
+      "invoice_number": "INV-2026-0855",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "171 Doha Business Park, Sylhet, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "120 Road 12, Banani, Dubai, UAE",
+      "invoice_date": "2026-05-25",
+      "due_date": "2026-06-09",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 5.0,
+          "unit_price": 177.49,
+          "amount": 887.45
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 1.0,
+          "unit_price": 191.22,
+          "amount": 191.22
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 1.0,
+          "unit_price": 554.53,
+          "amount": 554.53
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 12.0,
+          "unit_price": 580.89,
+          "amount": 6970.68
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 5.0,
+          "unit_price": 215.57,
+          "amount": 1077.85
+        },
+        {
+          "description": "API Integration",
+          "quantity": 9.0,
+          "unit_price": 794.78,
+          "amount": 7153.02
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 797.65,
+          "amount": 3988.25
+        }
+      ],
+      "subtotal": 20823.0,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1561.72,
+      "shipping": 10.0,
+      "total": 22394.72,
+      "amount_paid": 0.0,
+      "balance_due": 22394.72,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801519474957",
+      "po_number": "PO-37673",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1561.72 does not equal (subtotal 20823.00 - discount 0) x printed tax rate 0.07 = recomputed 1457.61 (difference 104.11). All line amounts, subtotal, total, and balance due checks passed."
+    }
+  ],
+  "Input_tokens": 5010,
+  "Output_tokens": 1611,
+  "Output_thinking_tokens": 926,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000501,
+    "Output_tokens": 0.0008055,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0013065
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0765",
+      "invoice_number": "INV-2026-0765",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "38 Motijheel C/A, Riyadh, Saudi Arabia",
+      "customer_name": "Rahim Traders",
+      "billing_address": "228 Doha Business Park, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-15",
+      "due_date": "2026-07-30",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 12.0,
+          "unit_price": 640.56,
+          "amount": 7686.72
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 3.0,
+          "unit_price": 205.23,
+          "amount": 615.69
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 7.0,
+          "unit_price": 607.17,
+          "amount": 4250.19
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 4.0,
+          "unit_price": 701.23,
+          "amount": 2804.92
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 773.75,
+          "amount": 3868.75
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 417.56,
+          "amount": 4175.6
+        }
+      ],
+      "subtotal": 23401.87,
+      "discount": 1170.09,
+      "tax_rate": 0.07,
+      "tax": 1667.38,
+      "shipping": 0.0,
+      "total": 23899.16,
+      "amount_paid": 14182.38,
+      "balance_due": 9716.78,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801804491666",
+      "po_number": "PO-34070",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1667.38; recomputed tax 1556.22."
+    }
+  ],
+  "Input_tokens": 2900,
+  "Output_tokens": 753,
+  "Output_thinking_tokens": 369,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029,
+    "Output_tokens": 0.0003765,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006665
+  }
+}

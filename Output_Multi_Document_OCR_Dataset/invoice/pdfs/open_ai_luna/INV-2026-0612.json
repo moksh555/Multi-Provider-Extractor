@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0612",
+      "invoice_number": "INV-2026-0612",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "149 Agrabad C/A, Chattogram, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "193 Agrabad C/A, Dubai, UAE",
+      "invoice_date": "2026-04-26",
+      "due_date": "2026-06-10",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 631.14,
+          "amount": 7573.68
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 12.0,
+          "unit_price": 182.16,
+          "amount": 2185.92
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 546.98,
+          "amount": 3281.88
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 10.0,
+          "unit_price": 780.41,
+          "amount": 7804.1
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 120.05,
+          "amount": 1200.5
+        }
+      ],
+      "subtotal": 22046.08,
+      "discount": 2204.61,
+      "tax_rate": 0.15,
+      "tax": 2976.22,
+      "shipping": 25.0,
+      "total": 22842.69,
+      "amount_paid": 0.0,
+      "balance_due": 22842.69,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801927081670",
+      "po_number": "PO-52068",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2806,
+  "Output_tokens": 670,
+  "Output_thinking_tokens": 191,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028060000000000004,
+    "Output_tokens": 0.000335,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006156
+  }
+}

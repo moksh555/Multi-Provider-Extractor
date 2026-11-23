@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0436",
+      "invoice_number": "INV-2026-0436",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "10 Uttara Sector 7, Doha, Qatar",
+      "customer_name": "TechPoint BD",
+      "billing_address": "83 Gulshan Avenue, Dubai, UAE",
+      "invoice_date": "2026-06-07",
+      "due_date": "2026-07-07",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 658.87,
+          "amount": 3953.22
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 361.38,
+          "amount": 2529.66
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 474.44,
+          "amount": 2372.2
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 9.0,
+          "unit_price": 618.97,
+          "amount": 5570.73
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 349.23,
+          "amount": 3492.3
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 394.57,
+          "amount": 3945.7
+        }
+      ],
+      "subtotal": 21863.81,
+      "discount": 2186.38,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 19677.43,
+      "amount_paid": 0.0,
+      "balance_due": 19677.43,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801245854964",
+      "po_number": "PO-63351",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2886,
+  "Output_tokens": 531,
+  "Output_thinking_tokens": 191,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002886,
+    "Output_tokens": 0.0002655,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005541000000000001
+  }
+}

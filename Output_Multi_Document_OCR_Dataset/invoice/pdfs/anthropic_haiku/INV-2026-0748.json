@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0748",
+      "invoice_number": "INV-2026-0748",
+      "company_name": "Delta Insurance Services",
+      "company_address": "69 Dhanmondi 27, Dubai, UAE",
+      "customer_name": "Future School",
+      "billing_address": "84 Doha Business Park, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-21",
+      "due_date": "2026-01-28",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 11.0,
+          "unit_price": 448.63,
+          "amount": 4934.93
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 7.0,
+          "unit_price": 372.41,
+          "amount": 2606.87
+        }
+      ],
+      "subtotal": 7541.8,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 565.63,
+      "shipping": 0.0,
+      "total": 8107.43,
+      "amount_paid": 0.0,
+      "balance_due": 8107.43,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801863967151",
+      "po_number": "PO-65283",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 565.63 does not equal (subtotal 7541.80 - discount 0.00) x tax rate 0.07; recomputed tax is 527.93."
+    }
+  ],
+  "Input_tokens": 4862,
+  "Output_tokens": 1261,
+  "Output_thinking_tokens": 800,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048620000000000005,
+    "Output_tokens": 0.0006305,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011167
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0413",
+      "invoice_number": "INV-2026-0413",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "82 Mirpur DOHS, Dhaka, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "24 Zindabazar Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-23",
+      "due_date": "2026-07-07",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 134.41,
+          "amount": 403.23
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 116.46,
+          "amount": 815.22
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 597.93,
+          "amount": 2391.72
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 6.0,
+          "unit_price": 615.57,
+          "amount": 3693.42
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 12.0,
+          "unit_price": 627.7,
+          "amount": 7532.4
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 4.0,
+          "unit_price": 610.6,
+          "amount": 2442.4
+        }
+      ],
+      "subtotal": 17278.39,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1295.88,
+      "shipping": 25.0,
+      "total": 18599.27,
+      "amount_paid": 0.0,
+      "balance_due": 18599.27,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801375872411",
+      "po_number": "PO-95537",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 1295.88; recomputed tax is 1209.49."
+    }
+  ],
+  "Input_tokens": 2886,
+  "Output_tokens": 760,
+  "Output_thinking_tokens": 389,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002886,
+    "Output_tokens": 0.00038,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006686000000000001
+  }
+}

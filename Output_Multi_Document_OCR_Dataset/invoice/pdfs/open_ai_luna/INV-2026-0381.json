@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0381",
+      "invoice_number": "INV-2026-0381",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "165 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "62 Jumeirah Lake Towers, Doha, Qatar",
+      "invoice_date": "2026-01-22",
+      "due_date": "2026-02-21",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 705.27,
+          "amount": 2115.81
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 7.0,
+          "unit_price": 421.01,
+          "amount": 2947.07
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 684.02,
+          "amount": 2052.06
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 12.0,
+          "unit_price": 543.72,
+          "amount": 6524.64
+        }
+      ],
+      "subtotal": 13639.58,
+      "discount": 272.79,
+      "tax_rate": 0.07,
+      "tax": 1002.51,
+      "shipping": 25.0,
+      "total": 14394.3,
+      "amount_paid": 14394.3,
+      "balance_due": 0.0,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801607573128",
+      "po_number": "PO-07776",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 1002.51; recomputed 935.68."
+    }
+  ],
+  "Input_tokens": 2759,
+  "Output_tokens": 624,
+  "Output_thinking_tokens": 301,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027590000000000004,
+    "Output_tokens": 0.000312,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005879
+  }
+}

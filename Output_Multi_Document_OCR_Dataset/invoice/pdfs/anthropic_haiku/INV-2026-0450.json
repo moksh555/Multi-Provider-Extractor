@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0450",
+      "invoice_number": "INV-2026-0450",
+      "company_name": "Greenline Logistics",
+      "company_address": "150 Motijheel C/A, Doha, Qatar",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "242 Mirpur DOHS, Doha, Qatar",
+      "invoice_date": "2026-05-29",
+      "due_date": "2026-07-13",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 124.28,
+          "amount": 1118.52
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 9.03,
+          "amount": 27.09
+        }
+      ],
+      "subtotal": 1145.61,
+      "discount": 22.91,
+      "tax_rate": 0.07,
+      "tax": 84.2,
+      "shipping": 0.0,
+      "total": 1206.9,
+      "amount_paid": 634.35,
+      "balance_due": 572.55,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801219919002",
+      "po_number": "PO-96798",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 84.20 does not equal recomputed (subtotal 1145.61 - discount 22.91) x tax rate 0.07 = 78.59."
+    }
+  ],
+  "Input_tokens": 4867,
+  "Output_tokens": 1202,
+  "Output_thinking_tokens": 733,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048670000000000007,
+    "Output_tokens": 0.000601,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010877
+  }
+}

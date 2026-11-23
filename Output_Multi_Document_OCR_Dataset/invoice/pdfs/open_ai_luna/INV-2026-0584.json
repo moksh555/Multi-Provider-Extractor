@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0584",
+      "invoice_number": "INV-2026-0584",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "136 Al Barsha, Dubai, UAE",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "109 Gulshan Avenue, Doha, Qatar",
+      "invoice_date": "2026-02-19",
+      "due_date": "2026-02-26",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 12.0,
+          "unit_price": 594.63,
+          "amount": 7135.56
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 4.0,
+          "unit_price": 80.22,
+          "amount": 320.88
+        }
+      ],
+      "subtotal": 7456.44,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1118.47,
+      "shipping": 0.0,
+      "total": 8574.91,
+      "amount_paid": 4640.3,
+      "balance_due": 3934.61,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801002446907",
+      "po_number": "PO-04066",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2624,
+  "Output_tokens": 406,
+  "Output_thinking_tokens": 155,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026240000000000004,
+    "Output_tokens": 0.000203,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.00046540000000000004
+  }
+}

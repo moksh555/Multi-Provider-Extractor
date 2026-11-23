@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0547",
+      "invoice_number": "INV-2026-0547",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "22 Zindabazar Road, Chattogram, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "155 Jumeirah Lake Towers, Dubai, UAE",
+      "invoice_date": "2026-02-17",
+      "due_date": "2026-03-04",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 2.0,
+          "unit_price": 821.79,
+          "amount": 1643.58
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 351.69,
+          "amount": 3516.9
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 6.0,
+          "unit_price": 325.4,
+          "amount": 1952.4
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 561.45,
+          "amount": 5614.5
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 10.0,
+          "unit_price": 778.27,
+          "amount": 7782.7
+        }
+      ],
+      "subtotal": 20510.08,
+      "discount": 1025.5,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 19509.58,
+      "amount_paid": 0.0,
+      "balance_due": 19509.58,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801527783574",
+      "po_number": "PO-19432",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2815,
+  "Output_tokens": 723,
+  "Output_thinking_tokens": 239,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002815,
+    "Output_tokens": 0.0003615,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000643
+  }
+}

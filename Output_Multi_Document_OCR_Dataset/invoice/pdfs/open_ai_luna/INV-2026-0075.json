@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0075",
+      "invoice_number": "INV-2026-0075",
+      "company_name": "BrightStar Electronics",
+      "company_address": "79 Mirpur DOHS, Dhaka, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "82 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-01-08",
+      "due_date": "2026-02-07",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 92.31,
+          "amount": 276.93
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 5.0,
+          "unit_price": 457.37,
+          "amount": 2286.85
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 492.73,
+          "amount": 1970.92
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 6.0,
+          "unit_price": 795.44,
+          "amount": 4772.64
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 3.0,
+          "unit_price": 207.18,
+          "amount": 621.54
+        },
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 595.4,
+          "amount": 7144.8
+        }
+      ],
+      "subtotal": 17073.68,
+      "discount": 341.47,
+      "tax_rate": 0.15,
+      "tax": 2509.83,
+      "shipping": 25.0,
+      "total": 19267.04,
+      "amount_paid": 0.0,
+      "balance_due": 19267.04,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801735198895",
+      "po_number": "PO-10060",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2867,
+  "Output_tokens": 579,
+  "Output_thinking_tokens": 230,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002867,
+    "Output_tokens": 0.0002895,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005762
+  }
+}

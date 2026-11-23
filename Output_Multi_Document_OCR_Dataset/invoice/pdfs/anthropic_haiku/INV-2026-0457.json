@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0457",
+      "invoice_number": "INV-2026-0457",
+      "company_name": "CityBanking Supplies",
+      "company_address": "39 Zindabazar Road, Sylhet, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "227 Zindabazar Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-01-15",
+      "due_date": "2026-03-01",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 768.89,
+          "amount": 8457.79
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 9.0,
+          "unit_price": 551.61,
+          "amount": 4964.49
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 8.0,
+          "unit_price": 799.6,
+          "amount": 6396.8
+        }
+      ],
+      "subtotal": 19819.08,
+      "discount": 990.95,
+      "tax_rate": 0.05,
+      "tax": 941.41,
+      "shipping": 5.0,
+      "total": 19774.54,
+      "amount_paid": 0.0,
+      "balance_due": 19774.54,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801113509213",
+      "po_number": "PO-92849",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4910,
+  "Output_tokens": 1064,
+  "Output_thinking_tokens": 614,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000491,
+    "Output_tokens": 0.000532,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001023
+  }
+}

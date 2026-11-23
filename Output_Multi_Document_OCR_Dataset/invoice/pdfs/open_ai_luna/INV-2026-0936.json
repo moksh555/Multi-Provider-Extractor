@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0936",
+      "invoice_number": "INV-2026-0936",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "116 Uttara Sector 7, Doha, Qatar",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "18 Sheikh Zayed Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-04",
+      "due_date": "2026-05-19",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 2.0,
+          "unit_price": 664.59,
+          "amount": 1329.18
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 11.0,
+          "unit_price": 176.88,
+          "amount": 1945.68
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 1.0,
+          "unit_price": 296.91,
+          "amount": 296.91
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 463.89,
+          "amount": 3247.23
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 784.76,
+          "amount": 1569.52
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 24.99,
+          "amount": 299.88
+        }
+      ],
+      "subtotal": 8688.4,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 868.84,
+      "shipping": 0.0,
+      "total": 9557.24,
+      "amount_paid": 0.0,
+      "balance_due": 9557.24,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801693622471",
+      "po_number": "PO-16656",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2872,
+  "Output_tokens": 558,
+  "Output_thinking_tokens": 209,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002872,
+    "Output_tokens": 0.000279,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005662
+  }
+}

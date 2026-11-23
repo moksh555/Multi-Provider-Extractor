@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0956",
+      "invoice_number": "INV-2026-0956",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "170 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "208 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-12",
+      "due_date": "2026-01-19",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 7.0,
+          "unit_price": 570.29,
+          "amount": 3992.03
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 340.68,
+          "amount": 340.68
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 278.97,
+          "amount": 557.94
+        }
+      ],
+      "subtotal": 4890.65,
+      "discount": 97.81,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 4797.84,
+      "amount_paid": 4797.84,
+      "balance_due": 0.0,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801325706467",
+      "po_number": "PO-90502",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2670,
+  "Output_tokens": 572,
+  "Output_thinking_tokens": 182,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000267,
+    "Output_tokens": 0.000286,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000553
+  }
+}

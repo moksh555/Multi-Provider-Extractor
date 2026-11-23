@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0136",
+      "invoice_number": "INV-2026-0136",
+      "company_name": "Summit Agro Foods",
+      "company_address": "12 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "5 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-05",
+      "due_date": "2026-06-19",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 7.0,
+          "unit_price": 532.78,
+          "amount": 3729.46
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 9.0,
+          "unit_price": 365.11,
+          "amount": 3285.99
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 307.17,
+          "amount": 2150.19
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 517.05,
+          "amount": 3619.35
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 721.01,
+          "amount": 5768.08
+        }
+      ],
+      "subtotal": 18553.07,
+      "discount": 927.65,
+      "tax_rate": 0.05,
+      "tax": 881.27,
+      "shipping": 0.0,
+      "total": 18506.69,
+      "amount_paid": 18506.69,
+      "balance_due": 0.0,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801545395714",
+      "po_number": "PO-61799",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4967,
+  "Output_tokens": 1253,
+  "Output_thinking_tokens": 731,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004967000000000001,
+    "Output_tokens": 0.0006265,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011232
+  }
+}

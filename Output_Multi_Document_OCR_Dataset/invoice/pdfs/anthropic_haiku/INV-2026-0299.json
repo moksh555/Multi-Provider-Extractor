@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0299",
+      "invoice_number": "INV-2026-0299",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "165 Zindabazar Road, Doha, Qatar",
+      "customer_name": "Rahim Traders",
+      "billing_address": "72 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-18",
+      "due_date": "2026-02-25",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 10.0,
+          "unit_price": 649.33,
+          "amount": 6493.3
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 90.74,
+          "amount": 725.92
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 6.0,
+          "unit_price": 673.19,
+          "amount": 4039.14
+        }
+      ],
+      "subtotal": 11258.36,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 11258.36,
+      "amount_paid": 3920.31,
+      "balance_due": 7338.05,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801440552049",
+      "po_number": "PO-74656",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4910,
+  "Output_tokens": 1027,
+  "Output_thinking_tokens": 585,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000491,
+    "Output_tokens": 0.0005135,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010045
+  }
+}

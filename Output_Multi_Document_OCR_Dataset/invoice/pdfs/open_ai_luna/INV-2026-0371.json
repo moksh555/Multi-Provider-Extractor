@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0371",
+      "invoice_number": "INV-2026-0371",
+      "company_name": "CityBanking Supplies",
+      "company_address": "19 Gulshan Avenue, Dhaka, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "241 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-05",
+      "due_date": "2026-03-07",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 314.31,
+          "amount": 2828.79
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 5.0,
+          "unit_price": 629.93,
+          "amount": 3149.65
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 1.0,
+          "unit_price": 30.02,
+          "amount": 30.02
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 163.58,
+          "amount": 981.48
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 792.25,
+          "amount": 2376.75
+        }
+      ],
+      "subtotal": 9366.69,
+      "discount": 187.33,
+      "tax_rate": 0.07,
+      "tax": 688.45,
+      "shipping": 25.0,
+      "total": 9892.81,
+      "amount_paid": 0.0,
+      "balance_due": 9892.81,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801830238128",
+      "po_number": "PO-22855",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 688.45; recomputed tax is 642.56."
+    }
+  ],
+  "Input_tokens": 2803,
+  "Output_tokens": 792,
+  "Output_thinking_tokens": 286,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028030000000000004,
+    "Output_tokens": 0.000396,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006763
+  }
+}

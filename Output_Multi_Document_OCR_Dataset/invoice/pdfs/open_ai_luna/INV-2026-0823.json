@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0823",
+      "invoice_number": "INV-2026-0823",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "158 Zindabazar Road, Chattogram, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "38 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-16",
+      "due_date": "2026-05-31",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 639.4,
+          "amount": 4475.8
+        },
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 790.09,
+          "amount": 8690.99
+        },
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 100.93,
+          "amount": 1211.16
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 614.87,
+          "amount": 1844.61
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 728.92,
+          "amount": 1457.84
+        }
+      ],
+      "subtotal": 17680.4,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1326.03,
+      "shipping": 50.0,
+      "total": 19056.43,
+      "amount_paid": 0.0,
+      "balance_due": 19056.43,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801335706133",
+      "po_number": "PO-29223",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 1326.03; recomputed 1237.63."
+    }
+  ],
+  "Input_tokens": 2810,
+  "Output_tokens": 753,
+  "Output_thinking_tokens": 251,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000281,
+    "Output_tokens": 0.0003765,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006575
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0091",
+      "invoice_number": "INV-2026-0091",
+      "company_name": "BrightStar Electronics",
+      "company_address": "23 Agrabad C/A, Dubai, UAE",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "85 Jumeirah Lake Towers, Doha, Qatar",
+      "invoice_date": "2026-06-03",
+      "due_date": "2026-07-18",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 1.0,
+          "unit_price": 295.42,
+          "amount": 295.42
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 9.0,
+          "unit_price": 447.51,
+          "amount": 4027.59
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 1.0,
+          "unit_price": 763.17,
+          "amount": 763.17
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 699.99,
+          "amount": 2099.97
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 222.11,
+          "amount": 444.22
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 4.0,
+          "unit_price": 109.67,
+          "amount": 438.68
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 392.83,
+          "amount": 1571.32
+        }
+      ],
+      "subtotal": 9640.37,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 9640.37,
+      "amount_paid": 0.0,
+      "balance_due": 9640.37,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801370661845",
+      "po_number": "PO-59075",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4997,
+  "Output_tokens": 1412,
+  "Output_thinking_tokens": 822,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004997000000000001,
+    "Output_tokens": 0.000706,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012057
+  }
+}

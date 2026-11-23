@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0435",
+      "invoice_number": "INV-2026-0435",
+      "company_name": "CityBanking Supplies",
+      "company_address": "160 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "203 Gulshan Avenue, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-01",
+      "due_date": "2026-01-16",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 802.39,
+          "amount": 4011.95
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 7.0,
+          "unit_price": 376.4,
+          "amount": 2634.8
+        }
+      ],
+      "subtotal": 6646.75,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 664.68,
+      "shipping": 0.0,
+      "total": 7311.43,
+      "amount_paid": 0.0,
+      "balance_due": 7311.43,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801064964006",
+      "po_number": "PO-92008",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2619,
+  "Output_tokens": 388,
+  "Output_thinking_tokens": 133,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002619,
+    "Output_tokens": 0.000194,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004559
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0792",
+      "invoice_number": "INV-2026-0792",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "92 Doha Business Park, Riyadh, Saudi Arabia",
+      "customer_name": "TechPoint BD",
+      "billing_address": "212 Jumeirah Lake Towers, Dubai, UAE",
+      "invoice_date": "2026-01-21",
+      "due_date": "2026-02-05",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 775.32,
+          "amount": 9303.84
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 6.0,
+          "unit_price": 516.72,
+          "amount": 3100.32
+        }
+      ],
+      "subtotal": 12404.16,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 930.31,
+      "shipping": 0.0,
+      "total": 13334.47,
+      "amount_paid": 0.0,
+      "balance_due": 13334.47,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801773064280",
+      "po_number": "PO-72080",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 930.31 does not equal recomputed (subtotal 12404.16 - discount 0) x tax rate 0.07 = 868.29 (difference 62.02)."
+    }
+  ],
+  "Input_tokens": 4868,
+  "Output_tokens": 1235,
+  "Output_thinking_tokens": 759,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004868,
+    "Output_tokens": 0.0006175,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011043
+  }
+}

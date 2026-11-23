@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0345",
+      "invoice_number": "INV-2026-0345",
+      "company_name": "CityBanking Supplies",
+      "company_address": "164 Zindabazar Road, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "86 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-30",
+      "due_date": "2026-06-14",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 10.0,
+          "unit_price": 295.67,
+          "amount": 2956.7
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10.0,
+          "unit_price": 125.48,
+          "amount": 1254.8
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 341.73,
+          "amount": 4100.76
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 842.0,
+          "amount": 1684.0
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 445.48,
+          "amount": 445.48
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 1.0,
+          "unit_price": 222.47,
+          "amount": 222.47
+        }
+      ],
+      "subtotal": 10664.21,
+      "discount": 213.28,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 10475.93,
+      "amount_paid": 0.0,
+      "balance_due": 10475.93,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801976743839",
+      "po_number": "PO-58234",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4998,
+  "Output_tokens": 1240,
+  "Output_thinking_tokens": 679,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004998,
+    "Output_tokens": 0.00062,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011198
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0990",
+      "invoice_number": "INV-2026-0990",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "132 Gulshan Avenue, Sylhet, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "222 Gulshan Avenue, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-18",
+      "due_date": "2026-02-17",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 844.95,
+          "amount": 4224.75
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 378.14,
+          "amount": 2646.98
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 795.47,
+          "amount": 8750.17
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 785.24,
+          "amount": 1570.48
+        }
+      ],
+      "subtotal": 17192.38,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 17202.38,
+      "amount_paid": 12004.7,
+      "balance_due": 5197.68,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801259643930",
+      "po_number": "PO-37028",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4943,
+  "Output_tokens": 1120,
+  "Output_thinking_tokens": 637,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004943,
+    "Output_tokens": 0.00056,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010543
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0719",
+      "invoice_number": "INV-2026-0719",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "58 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "196 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-10",
+      "due_date": "2026-07-25",
+      "currency": "QAR",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 11.0,
+          "unit_price": 521.19,
+          "amount": 5733.09
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 7.0,
+          "unit_price": 721.69,
+          "amount": 5051.83
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 20.59,
+          "amount": 102.95
+        }
+      ],
+      "subtotal": 10887.87,
+      "discount": 1088.79,
+      "tax_rate": 0.1,
+      "tax": 979.91,
+      "shipping": 0.0,
+      "total": 10778.99,
+      "amount_paid": 0.0,
+      "balance_due": 10778.99,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801250521375",
+      "po_number": "PO-86441",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4910,
+  "Output_tokens": 1091,
+  "Output_thinking_tokens": 641,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000491,
+    "Output_tokens": 0.0005455,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010365
+  }
+}

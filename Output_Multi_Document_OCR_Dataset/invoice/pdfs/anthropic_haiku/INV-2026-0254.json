@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0254",
+      "invoice_number": "INV-2026-0254",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "74 Mirpur DOHS, Sylhet, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "225 Zindabazar Road, Doha, Qatar",
+      "invoice_date": "2026-06-20",
+      "due_date": "2026-07-05",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 252.86,
+          "amount": 505.72
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 8.0,
+          "unit_price": 793.53,
+          "amount": 6348.24
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 544.39,
+          "amount": 5988.29
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 7.0,
+          "unit_price": 822.14,
+          "amount": 5754.98
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 5.0,
+          "unit_price": 782.8,
+          "amount": 3914.0
+        }
+      ],
+      "subtotal": 22511.23,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 1125.56,
+      "shipping": 25.0,
+      "total": 23661.79,
+      "amount_paid": 9591.73,
+      "balance_due": 14070.06,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801488172413",
+      "po_number": "PO-29417",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4959,
+  "Output_tokens": 1277,
+  "Output_thinking_tokens": 743,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004959000000000001,
+    "Output_tokens": 0.0006385,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011344
+  }
+}

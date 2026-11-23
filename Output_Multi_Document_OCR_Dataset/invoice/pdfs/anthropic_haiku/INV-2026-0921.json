@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0921",
+      "invoice_number": "INV-2026-0921",
+      "company_name": "Summit Agro Foods",
+      "company_address": "180 Jumeirah Lake Towers, Doha, Qatar",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "156 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-02-28",
+      "due_date": "2026-03-07",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 6.0,
+          "unit_price": 431.93,
+          "amount": 2591.58
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4.0,
+          "unit_price": 580.2,
+          "amount": 2320.8
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 4.0,
+          "unit_price": 359.66,
+          "amount": 1438.64
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 419.57,
+          "amount": 3356.56
+        }
+      ],
+      "subtotal": 9707.58,
+      "discount": 485.38,
+      "tax_rate": 0.07,
+      "tax": 691.67,
+      "shipping": 10.0,
+      "total": 9923.87,
+      "amount_paid": 0.0,
+      "balance_due": 9923.87,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801562561374",
+      "po_number": "PO-14549",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 691.67 does not equal recomputed tax 645.55 ((subtotal 9707.58 - discount 485.38) x printed tax rate 0.07 = 645.55). The printed tax amount implies a rate of about 0.075, not 0.07."
+    }
+  ],
+  "Input_tokens": 4931,
+  "Output_tokens": 1572,
+  "Output_thinking_tokens": 989,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004931,
+    "Output_tokens": 0.000786,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012791
+  }
+}

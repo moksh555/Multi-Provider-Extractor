@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0603",
+      "invoice_number": "INV-2026-0603",
+      "company_name": "Golden Harvest Store",
+      "company_address": "25 Agrabad C/A, Chattogram, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "57 Al Barsha, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-08",
+      "due_date": "2026-07-08",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 546.91,
+          "amount": 3281.46
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 9.0,
+          "unit_price": 333.75,
+          "amount": 3003.75
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 25.06,
+          "amount": 125.3
+        }
+      ],
+      "subtotal": 6410.51,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 480.79,
+      "shipping": 0.0,
+      "total": 6891.3,
+      "amount_paid": 3807.79,
+      "balance_due": 3083.51,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801186014968",
+      "po_number": "PO-00491",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 480.79 vs recomputed 448.74 ((6410.51 - 0) x 0.07, from printed Tax (7%) label). The printed tax 480.79 corresponds to a 7.5% rate."
+    }
+  ],
+  "Input_tokens": 4906,
+  "Output_tokens": 1440,
+  "Output_thinking_tokens": 910,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004906,
+    "Output_tokens": 0.00072,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012106
+  }
+}

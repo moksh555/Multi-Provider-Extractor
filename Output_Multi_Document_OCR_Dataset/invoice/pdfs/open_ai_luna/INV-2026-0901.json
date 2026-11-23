@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0901",
+      "invoice_number": "INV-2026-0901",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "80 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "195 Motijheel C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-11",
+      "due_date": "2026-02-26",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 10.0,
+          "unit_price": 527.14,
+          "amount": 5271.4
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 1.0,
+          "unit_price": 698.38,
+          "amount": 698.38
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 6.0,
+          "unit_price": 234.67,
+          "amount": 1408.02
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 57.55,
+          "amount": 57.55
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 2.0,
+          "unit_price": 296.38,
+          "amount": 592.76
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 3.0,
+          "unit_price": 246.18,
+          "amount": 738.54
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 630.91,
+          "amount": 6309.1
+        }
+      ],
+      "subtotal": 15075.75,
+      "discount": 301.51,
+      "tax_rate": 0.1,
+      "tax": 1477.42,
+      "shipping": 10.0,
+      "total": 16261.66,
+      "amount_paid": 0.0,
+      "balance_due": 16261.66,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801263729832",
+      "po_number": "PO-12014",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2951,
+  "Output_tokens": 750,
+  "Output_thinking_tokens": 190,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002951,
+    "Output_tokens": 0.000375,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006701000000000001
+  }
+}

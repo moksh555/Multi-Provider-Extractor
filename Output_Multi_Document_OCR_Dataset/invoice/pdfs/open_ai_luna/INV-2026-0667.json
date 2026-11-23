@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0667",
+      "invoice_number": "INV-2026-0667",
+      "company_name": "Golden Harvest Store",
+      "company_address": "88 Uttara Sector 7, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "144 Agrabad C/A, Doha, Qatar",
+      "invoice_date": "2026-04-02",
+      "due_date": "2026-04-09",
+      "currency": "SAR",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 194.13,
+          "amount": 2329.56
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 8.0,
+          "unit_price": 14.59,
+          "amount": 116.72
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 5.0,
+          "unit_price": 735.94,
+          "amount": 3679.7
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 7.0,
+          "unit_price": 693.97,
+          "amount": 4857.79
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 656.53,
+          "amount": 7878.36
+        },
+        {
+          "description": "Web Development",
+          "quantity": 7.0,
+          "unit_price": 587.94,
+          "amount": 4115.58
+        }
+      ],
+      "subtotal": 22977.71,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 1148.89,
+      "shipping": 0.0,
+      "total": 24126.6,
+      "amount_paid": 0.0,
+      "balance_due": 24126.6,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801836668197",
+      "po_number": "PO-97122",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2864,
+  "Output_tokens": 532,
+  "Output_thinking_tokens": 192,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002864,
+    "Output_tokens": 0.000266,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005524
+  }
+}

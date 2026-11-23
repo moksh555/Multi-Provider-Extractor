@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0215",
+      "invoice_number": "INV-2026-0215",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "128 Al Barsha, Dubai, UAE",
+      "customer_name": "Bengal Motors",
+      "billing_address": "71 Al Barsha, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-24",
+      "due_date": "2026-05-24",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 571.12,
+          "amount": 6282.32
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 27.39,
+          "amount": 109.56
+        }
+      ],
+      "subtotal": 6391.88,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 6416.88,
+      "amount_paid": 6416.88,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801460539721",
+      "po_number": "PO-37854",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2606,
+  "Output_tokens": 501,
+  "Output_thinking_tokens": 152,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026060000000000005,
+    "Output_tokens": 0.0002505,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005111
+  }
+}

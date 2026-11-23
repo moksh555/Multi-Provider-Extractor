@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0325",
+      "invoice_number": "INV-2026-0325",
+      "company_name": "Greenline Logistics",
+      "company_address": "152 Uttara Sector 7, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "33 Jumeirah Lake Towers, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-06-15",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 2.0,
+          "unit_price": 650.06,
+          "amount": 1300.12
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 4.0,
+          "unit_price": 375.07,
+          "amount": 1500.28
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 8.0,
+          "unit_price": 629.69,
+          "amount": 5037.52
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 10.0,
+          "unit_price": 655.6,
+          "amount": 6556.0
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 655.12,
+          "amount": 2620.48
+        }
+      ],
+      "subtotal": 17014.4,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 850.72,
+      "shipping": 50.0,
+      "total": 17915.12,
+      "amount_paid": 17915.12,
+      "balance_due": 0.0,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801001821490",
+      "po_number": "PO-39526",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4941,
+  "Output_tokens": 1198,
+  "Output_thinking_tokens": 687,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004941,
+    "Output_tokens": 0.000599,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010931
+  }
+}

@@ -13,6 +13,3 @@ wheels/
 # Local editor and OS files
 .DS_Store
 .cursor/
-
-# Generated extraction output
-Output_Multi_Document_OCR_Dataset/

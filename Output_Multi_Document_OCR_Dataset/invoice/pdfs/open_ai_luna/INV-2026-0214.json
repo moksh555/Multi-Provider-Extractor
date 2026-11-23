@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0214",
+      "invoice_number": "INV-2026-0214",
+      "company_name": "Greenline Logistics",
+      "company_address": "60 Doha Business Park, Riyadh, Saudi Arabia",
+      "customer_name": "Bengal Motors",
+      "billing_address": "3 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-28",
+      "due_date": "2026-06-04",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 6.0,
+          "unit_price": 828.24,
+          "amount": 4969.44
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 106.81,
+          "amount": 106.81
+        }
+      ],
+      "subtotal": 5076.25,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 507.62,
+      "shipping": 25.0,
+      "total": 5608.87,
+      "amount_paid": 0.0,
+      "balance_due": 5608.87,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801341721335",
+      "po_number": "PO-17796",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2632,
+  "Output_tokens": 394,
+  "Output_thinking_tokens": 134,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002632,
+    "Output_tokens": 0.000197,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004602
+  }
+}

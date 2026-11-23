@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0514",
+      "invoice_number": "INV-2026-0514",
+      "company_name": "Delta Insurance Services",
+      "company_address": "188 Motijheel C/A, Chattogram, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "220 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-20",
+      "due_date": "2026-03-06",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 8.0,
+          "unit_price": 401.28,
+          "amount": 3210.24
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 142.42,
+          "amount": 1566.62
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 11.0,
+          "unit_price": 182.88,
+          "amount": 2011.68
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 1.0,
+          "unit_price": 355.56,
+          "amount": 355.56
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 263.39,
+          "amount": 2370.51
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 844.46,
+          "amount": 6755.68
+        }
+      ],
+      "subtotal": 16270.29,
+      "discount": 325.41,
+      "tax_rate": 0.15,
+      "tax": 2391.73,
+      "shipping": 0.0,
+      "total": 18336.61,
+      "amount_paid": 0.0,
+      "balance_due": 18336.61,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801288334731",
+      "po_number": "PO-10742",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4995,
+  "Output_tokens": 1369,
+  "Output_thinking_tokens": 808,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004995,
+    "Output_tokens": 0.0006845,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011840000000000002
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0541",
+      "invoice_number": "INV-2026-0541",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "16 Doha Business Park, Sylhet, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "205 Al Barsha, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-06",
+      "due_date": "2026-02-05",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 228.91,
+          "amount": 228.91
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 7.0,
+          "unit_price": 652.13,
+          "amount": 4564.91
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 735.76,
+          "amount": 6621.84
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 350.81,
+          "amount": 350.81
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 714.38,
+          "amount": 2143.14
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 7.0,
+          "unit_price": 650.45,
+          "amount": 4553.15
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 762.7,
+          "amount": 8389.7
+        }
+      ],
+      "subtotal": 26852.46,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 1342.62,
+      "shipping": 0.0,
+      "total": 28195.08,
+      "amount_paid": 0.0,
+      "balance_due": 28195.08,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801185756655",
+      "po_number": "PO-11179",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5010,
+  "Output_tokens": 1418,
+  "Output_thinking_tokens": 833,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000501,
+    "Output_tokens": 0.000709,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012100000000000001
+  }
+}

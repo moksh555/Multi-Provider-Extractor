@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0185",
+      "invoice_number": "INV-2026-0185",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "88 Motijheel C/A, Riyadh, Saudi Arabia",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "44 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-03-25",
+      "due_date": "2026-04-09",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 355.6,
+          "amount": 1066.8
+        },
+        {
+          "description": "Web Development",
+          "quantity": 5.0,
+          "unit_price": 324.18,
+          "amount": 1620.9
+        }
+      ],
+      "subtotal": 2687.7,
+      "discount": 134.38,
+      "tax_rate": 0.07,
+      "tax": 191.5,
+      "shipping": 0.0,
+      "total": 2744.82,
+      "amount_paid": 2744.82,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801275473104",
+      "po_number": "PO-44428",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 191.50 does not match recomputed (subtotal 2687.70 - discount 134.38) x tax rate 0.07 = 178.73 (178.7324)."
+    }
+  ],
+  "Input_tokens": 4861,
+  "Output_tokens": 1115,
+  "Output_thinking_tokens": 638,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004861,
+    "Output_tokens": 0.0005575,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010436
+  }
+}

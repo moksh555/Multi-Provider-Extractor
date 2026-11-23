@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0674",
+      "invoice_number": "INV-2026-0674",
+      "company_name": "Golden Harvest Store",
+      "company_address": "102 Sheikh Zayed Road, Dubai, UAE",
+      "customer_name": "Global Mart",
+      "billing_address": "120 Gulshan Avenue, Dhaka, Bangladesh",
+      "invoice_date": "2026-06-19",
+      "due_date": "2026-06-26",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 4.0,
+          "unit_price": 653.39,
+          "amount": 2613.56
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 210.41,
+          "amount": 1052.05
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 228.95,
+          "amount": 2518.45
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 8.0,
+          "unit_price": 120.4,
+          "amount": 963.2
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 6.0,
+          "unit_price": 402.31,
+          "amount": 2413.86
+        }
+      ],
+      "subtotal": 9561.12,
+      "discount": 191.22,
+      "tax_rate": 0.07,
+      "tax": 702.74,
+      "shipping": 25.0,
+      "total": 10097.64,
+      "amount_paid": 10097.64,
+      "balance_due": 0.0,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801413674058",
+      "po_number": "PO-32618",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 702.74; recomputed tax 655.89."
+    }
+  ],
+  "Input_tokens": 2797,
+  "Output_tokens": 820,
+  "Output_thinking_tokens": 326,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00027969999999999997,
+    "Output_tokens": 0.00041,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006896999999999999
+  }
+}

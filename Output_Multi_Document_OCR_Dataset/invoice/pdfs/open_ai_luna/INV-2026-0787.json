@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0787",
+      "invoice_number": "INV-2026-0787",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "110 Zindabazar Road, Dubai, UAE",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "36 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "currency": "SAR",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 1.0,
+          "unit_price": 121.46,
+          "amount": 121.46
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 520.57,
+          "amount": 1561.71
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 79.4,
+          "amount": 555.8
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 123.44,
+          "amount": 864.08
+        }
+      ],
+      "subtotal": 3103.05,
+      "discount": 310.31,
+      "tax_rate": 0.1,
+      "tax": 279.27,
+      "shipping": 50.0,
+      "total": 3122.01,
+      "amount_paid": 1623.67,
+      "balance_due": 1498.34,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801015184599",
+      "po_number": "PO-64033",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2740,
+  "Output_tokens": 507,
+  "Output_thinking_tokens": 204,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000274,
+    "Output_tokens": 0.0002535,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005275
+  }
+}

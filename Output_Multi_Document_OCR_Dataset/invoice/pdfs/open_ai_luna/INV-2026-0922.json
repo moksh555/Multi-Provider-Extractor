@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0922",
+      "invoice_number": "INV-2026-0922",
+      "company_name": "Golden Harvest Store",
+      "company_address": "187 Doha Business Park, Sylhet, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "81 Agrabad C/A, Dubai, UAE",
+      "invoice_date": "2026-04-02",
+      "due_date": "2026-04-17",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 9.0,
+          "unit_price": 131.11,
+          "amount": 1179.99
+        },
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 614.49,
+          "amount": 1843.47
+        },
+        {
+          "description": "API Integration",
+          "quantity": 10.0,
+          "unit_price": 822.33,
+          "amount": 8223.3
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 9.0,
+          "unit_price": 315.58,
+          "amount": 2840.22
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 2.0,
+          "unit_price": 697.54,
+          "amount": 1395.08
+        },
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 372.4,
+          "amount": 4468.8
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 4.0,
+          "unit_price": 465.58,
+          "amount": 1862.32
+        }
+      ],
+      "subtotal": 21813.18,
+      "discount": 436.26,
+      "tax_rate": 0.07,
+      "tax": 1603.27,
+      "shipping": 5.0,
+      "total": 22985.19,
+      "amount_paid": 0.0,
+      "balance_due": 22985.19,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801347403678",
+      "po_number": "PO-59552",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1603.27; recomputed tax (21813.18 - 436.26) × 0.07 = 1496.38."
+    }
+  ],
+  "Input_tokens": 2933,
+  "Output_tokens": 647,
+  "Output_thinking_tokens": 235,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029330000000000003,
+    "Output_tokens": 0.0003235,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006168
+  }
+}

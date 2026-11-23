@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0798",
+      "invoice_number": "INV-2026-0798",
+      "company_name": "Greenline Logistics",
+      "company_address": "89 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "66 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-30",
+      "due_date": "2026-06-29",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 670.34,
+          "amount": 4692.38
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 176.81,
+          "amount": 707.24
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 580.2,
+          "amount": 580.2
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 7.0,
+          "unit_price": 104.81,
+          "amount": 733.67
+        }
+      ],
+      "subtotal": 6713.49,
+      "discount": 671.35,
+      "tax_rate": 0.15,
+      "tax": 906.32,
+      "shipping": 0.0,
+      "total": 6948.46,
+      "amount_paid": 6948.46,
+      "balance_due": 0.0,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801006350274",
+      "po_number": "PO-26725",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4923,
+  "Output_tokens": 1108,
+  "Output_thinking_tokens": 632,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004923,
+    "Output_tokens": 0.000554,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010463
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0331",
+      "invoice_number": "INV-2026-0331",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "164 Uttara Sector 7, Dhaka, Bangladesh",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "160 Sheikh Zayed Road, Dubai, UAE",
+      "invoice_date": "2026-02-13",
+      "due_date": "2026-03-15",
+      "currency": "AED",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 276.23,
+          "amount": 2209.84
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 554.8,
+          "amount": 554.8
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 5.0,
+          "unit_price": 386.0,
+          "amount": 1930.0
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 6.0,
+          "unit_price": 42.06,
+          "amount": 252.36
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 75.57,
+          "amount": 831.27
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 1.0,
+          "unit_price": 118.01,
+          "amount": 118.01
+        }
+      ],
+      "subtotal": 5896.28,
+      "discount": 117.93,
+      "tax_rate": 0.15,
+      "tax": 866.75,
+      "shipping": 25.0,
+      "total": 6670.1,
+      "amount_paid": 0.0,
+      "balance_due": 6670.1,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801703930663",
+      "po_number": "PO-88743",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4964,
+  "Output_tokens": 1302,
+  "Output_thinking_tokens": 746,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004964,
+    "Output_tokens": 0.000651,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011474
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0360",
+      "invoice_number": "INV-2026-0360",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "112 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "120 Dhanmondi 27, Chattogram, Bangladesh",
+      "invoice_date": "2026-04-29",
+      "due_date": "2026-05-14",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 5.0,
+          "unit_price": 322.94,
+          "amount": 1614.7
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 8.0,
+          "unit_price": 773.71,
+          "amount": 6189.68
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 2.0,
+          "unit_price": 511.72,
+          "amount": 1023.44
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 9.0,
+          "unit_price": 472.45,
+          "amount": 4252.05
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 8.0,
+          "unit_price": 65.05,
+          "amount": 520.4
+        },
+        {
+          "description": "Web Development",
+          "quantity": 4.0,
+          "unit_price": 269.31,
+          "amount": 1077.24
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 17.31,
+          "amount": 51.93
+        }
+      ],
+      "subtotal": 14729.44,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 736.47,
+      "shipping": 0.0,
+      "total": 15465.91,
+      "amount_paid": 15465.91,
+      "balance_due": 0.0,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801750563436",
+      "po_number": "PO-33385",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5020,
+  "Output_tokens": 1319,
+  "Output_thinking_tokens": 717,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000502,
+    "Output_tokens": 0.0006595,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011615
+  }
+}

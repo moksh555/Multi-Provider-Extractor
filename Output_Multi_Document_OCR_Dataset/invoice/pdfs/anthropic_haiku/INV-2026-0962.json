@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0962",
+      "invoice_number": "INV-2026-0962",
+      "company_name": "Summit Agro Foods",
+      "company_address": "73 Agrabad C/A, Riyadh, Saudi Arabia",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "212 Gulshan Avenue, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-02",
+      "due_date": "2026-03-19",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 62.17,
+          "amount": 186.51
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 9.0,
+          "unit_price": 718.91,
+          "amount": 6470.19
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 310.87,
+          "amount": 621.74
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 2.0,
+          "unit_price": 591.66,
+          "amount": 1183.32
+        },
+        {
+          "description": "API Integration",
+          "quantity": 2.0,
+          "unit_price": 451.15,
+          "amount": 902.3
+        }
+      ],
+      "subtotal": 9364.06,
+      "discount": 187.28,
+      "tax_rate": 0.1,
+      "tax": 917.68,
+      "shipping": 0.0,
+      "total": 10094.46,
+      "amount_paid": 0.0,
+      "balance_due": 10094.46,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801637340493",
+      "po_number": "PO-51238",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4959,
+  "Output_tokens": 1201,
+  "Output_thinking_tokens": 680,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004959000000000001,
+    "Output_tokens": 0.0006005,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010964
+  }
+}

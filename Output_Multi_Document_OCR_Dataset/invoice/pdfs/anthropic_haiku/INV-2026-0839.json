@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0839",
+      "invoice_number": "INV-2026-0839",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "148 Doha Business Park, Dubai, UAE",
+      "customer_name": "Rahim Traders",
+      "billing_address": "125 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-01-11",
+      "due_date": "2026-02-25",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 4.0,
+          "unit_price": 596.52,
+          "amount": 2386.08
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 23.72,
+          "amount": 47.44
+        }
+      ],
+      "subtotal": 2433.52,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 182.51,
+      "shipping": 50.0,
+      "total": 2666.03,
+      "amount_paid": 0.0,
+      "balance_due": 2666.03,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801749249313",
+      "po_number": "PO-84895",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 182.51 does not match recomputed (subtotal 2433.52 - discount 0) x tax rate 0.07 = 170.35 (170.3464)."
+    }
+  ],
+  "Input_tokens": 4863,
+  "Output_tokens": 1176,
+  "Output_thinking_tokens": 704,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004863,
+    "Output_tokens": 0.000588,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010743
+  }
+}

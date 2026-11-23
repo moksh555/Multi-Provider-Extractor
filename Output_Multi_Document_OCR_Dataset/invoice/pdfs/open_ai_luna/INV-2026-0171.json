@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0171",
+      "invoice_number": "INV-2026-0171",
+      "company_name": "Metro Print House",
+      "company_address": "58 Mirpur DOHS, Dhaka, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "59 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-01",
+      "due_date": "2026-05-31",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 8.0,
+          "unit_price": 308.19,
+          "amount": 2465.52
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 8.0,
+          "unit_price": 393.43,
+          "amount": 3147.44
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 12.0,
+          "unit_price": 737.91,
+          "amount": 8854.92
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 6.0,
+          "unit_price": 86.79,
+          "amount": 520.74
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 3.0,
+          "unit_price": 711.03,
+          "amount": 2133.09
+        }
+      ],
+      "subtotal": 17121.71,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 1712.17,
+      "shipping": 50.0,
+      "total": 18883.88,
+      "amount_paid": 0.0,
+      "balance_due": 18883.88,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801856290719",
+      "po_number": "PO-24032",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2822,
+  "Output_tokens": 484,
+  "Output_thinking_tokens": 162,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002822,
+    "Output_tokens": 0.000242,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005242
+  }
+}

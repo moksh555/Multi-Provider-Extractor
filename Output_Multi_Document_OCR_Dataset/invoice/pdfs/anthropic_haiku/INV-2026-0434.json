@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0434",
+      "invoice_number": "INV-2026-0434",
+      "company_name": "Delta Insurance Services",
+      "company_address": "121 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "12 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-06-11",
+      "due_date": "2026-07-26",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 4.0,
+          "unit_price": 321.79,
+          "amount": 1287.16
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 5.0,
+          "unit_price": 59.96,
+          "amount": 299.8
+        }
+      ],
+      "subtotal": 1586.96,
+      "discount": 158.7,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 1478.26,
+      "amount_paid": 1478.26,
+      "balance_due": 0.0,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801823295772",
+      "po_number": "PO-77513",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4867,
+  "Output_tokens": 997,
+  "Output_thinking_tokens": 607,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048670000000000007,
+    "Output_tokens": 0.0004985,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009852
+  }
+}

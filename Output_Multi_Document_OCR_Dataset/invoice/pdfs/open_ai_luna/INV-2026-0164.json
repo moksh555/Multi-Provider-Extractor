@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0164",
+      "invoice_number": "INV-2026-0164",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "170 Doha Business Park, Doha, Qatar",
+      "customer_name": "Rahim Traders",
+      "billing_address": "221 Mirpur DOHS, Doha, Qatar",
+      "invoice_date": "2026-05-08",
+      "due_date": "2026-05-23",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 535.73,
+          "amount": 6428.76
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 314.72,
+          "amount": 1258.88
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 134.7,
+          "amount": 538.8
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 353.44,
+          "amount": 2474.08
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 179.4,
+          "amount": 1973.4
+        }
+      ],
+      "subtotal": 12673.92,
+      "discount": 1267.39,
+      "tax_rate": 0.15,
+      "tax": 1710.98,
+      "shipping": 10.0,
+      "total": 13127.51,
+      "amount_paid": 5033.97,
+      "balance_due": 8093.54,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801626411284",
+      "po_number": "PO-54601",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2805,
+  "Output_tokens": 507,
+  "Output_thinking_tokens": 183,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002805,
+    "Output_tokens": 0.0002535,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000534
+  }
+}

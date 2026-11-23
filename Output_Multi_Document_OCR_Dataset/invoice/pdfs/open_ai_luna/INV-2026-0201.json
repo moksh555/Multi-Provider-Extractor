@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0201",
+      "invoice_number": "INV-2026-0201",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "191 Mirpur DOHS, Sylhet, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "172 Doha Business Park, Dubai, UAE",
+      "invoice_date": "2026-05-05",
+      "due_date": "2026-06-19",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 3.0,
+          "unit_price": 404.4,
+          "amount": 1213.2
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 3.0,
+          "unit_price": 151.64,
+          "amount": 454.92
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10.0,
+          "unit_price": 92.63,
+          "amount": 926.3
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 458.18,
+          "amount": 916.36
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 3.0,
+          "unit_price": 73.33,
+          "amount": 219.99
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 11.0,
+          "unit_price": 238.08,
+          "amount": 2618.88
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 6.0,
+          "unit_price": 157.83,
+          "amount": 946.98
+        }
+      ],
+      "subtotal": 7296.63,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 1094.49,
+      "shipping": 50.0,
+      "total": 8441.12,
+      "amount_paid": 8441.12,
+      "balance_due": 0.0,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801854065661",
+      "po_number": "PO-64503",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2919,
+  "Output_tokens": 807,
+  "Output_thinking_tokens": 261,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029190000000000005,
+    "Output_tokens": 0.0004035,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006954000000000001
+  }
+}

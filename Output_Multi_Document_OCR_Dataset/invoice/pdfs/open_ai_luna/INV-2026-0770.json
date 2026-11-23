@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0770",
+      "invoice_number": "INV-2026-0770",
+      "company_name": "Metro Print House",
+      "company_address": "114 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "158 Motijheel C/A, Sylhet, Bangladesh",
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 3.0,
+          "unit_price": 367.59,
+          "amount": 1102.77
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 6.0,
+          "unit_price": 578.02,
+          "amount": 3468.12
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 10.0,
+          "unit_price": 437.28,
+          "amount": 4372.8
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 2.0,
+          "unit_price": 384.16,
+          "amount": 768.32
+        }
+      ],
+      "subtotal": 9712.01,
+      "discount": 485.6,
+      "tax_rate": 0.07,
+      "tax": 691.98,
+      "shipping": 25.0,
+      "total": 9943.39,
+      "amount_paid": 3835.4,
+      "balance_due": 6107.99,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801509037704",
+      "po_number": "PO-16901",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax is 691.98; recomputed tax is 645.85."
+    }
+  ],
+  "Input_tokens": 2740,
+  "Output_tokens": 729,
+  "Output_thinking_tokens": 266,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000274,
+    "Output_tokens": 0.0003645,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006385
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0116",
+      "invoice_number": "INV-2026-0116",
+      "company_name": "PrimeSoft Technologies",
+      "company_address": "145 Mirpur DOHS, Dubai, UAE",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "76 Zindabazar Road, Doha, Qatar",
+      "invoice_date": "2026-04-04",
+      "due_date": "2026-05-19",
+      "currency": "USD",
+      "payment_terms": "Due on Receipt",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 10.0,
+          "unit_price": 209.06,
+          "amount": 2090.6
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 11.0,
+          "unit_price": 822.35,
+          "amount": 9045.85
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 449.27,
+          "amount": 1797.08
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 9.0,
+          "unit_price": 137.78,
+          "amount": 1240.02
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 353.06,
+          "amount": 2118.36
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 89.05,
+          "amount": 178.1
+        }
+      ],
+      "subtotal": 16470.01,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 823.5,
+      "shipping": 50.0,
+      "total": 17343.51,
+      "amount_paid": 0.0,
+      "balance_due": 17343.51,
+      "vendor_email": "primesofttechnologies@example.com",
+      "vendor_phone": "+8801091011063",
+      "po_number": "PO-46502",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4958,
+  "Output_tokens": 1234,
+  "Output_thinking_tokens": 693,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004958,
+    "Output_tokens": 0.000617,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011128000000000002
+  }
+}

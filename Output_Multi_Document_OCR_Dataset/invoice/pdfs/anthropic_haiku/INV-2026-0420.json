@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0420",
+      "invoice_number": "INV-2026-0420",
+      "company_name": "CityBanking Supplies",
+      "company_address": "50 Al Barsha, Riyadh, Saudi Arabia",
+      "customer_name": "Rahim Traders",
+      "billing_address": "169 Road 12, Banani, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-06-19",
+      "due_date": "2026-07-19",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 10.0,
+          "unit_price": 439.91,
+          "amount": 4399.1
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 385.7,
+          "amount": 3857.0
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 78.31,
+          "amount": 156.62
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 1.0,
+          "unit_price": 623.47,
+          "amount": 623.47
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 9.0,
+          "unit_price": 535.06,
+          "amount": 4815.54
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 11.0,
+          "unit_price": 435.92,
+          "amount": 4795.12
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 789.44,
+          "amount": 7104.96
+        }
+      ],
+      "subtotal": 25751.81,
+      "discount": 515.04,
+      "tax_rate": 0.05,
+      "tax": 1261.84,
+      "shipping": 5.0,
+      "total": 26503.61,
+      "amount_paid": 26503.61,
+      "balance_due": 0.0,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801511985729",
+      "po_number": "PO-93950",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4987,
+  "Output_tokens": 1512,
+  "Output_thinking_tokens": 924,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004987,
+    "Output_tokens": 0.000756,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012547
+  }
+}

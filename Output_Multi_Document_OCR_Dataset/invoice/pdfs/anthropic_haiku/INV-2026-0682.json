@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0682",
+      "invoice_number": "INV-2026-0682",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "194 Doha Business Park, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "166 Road 12, Banani, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-18",
+      "due_date": "2026-04-02",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 2.0,
+          "unit_price": 473.05,
+          "amount": 946.1
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 9.0,
+          "unit_price": 491.2,
+          "amount": 4420.8
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 844.5,
+          "amount": 5911.5
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 10.0,
+          "unit_price": 337.44,
+          "amount": 3374.4
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 8.0,
+          "unit_price": 241.46,
+          "amount": 1931.68
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 6.0,
+          "unit_price": 784.55,
+          "amount": 4707.3
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 10.0,
+          "unit_price": 217.63,
+          "amount": 2176.3
+        }
+      ],
+      "subtotal": 23468.08,
+      "discount": 1173.4,
+      "tax_rate": 0.15,
+      "tax": 3344.2,
+      "shipping": 10.0,
+      "total": 25648.88,
+      "amount_paid": 25648.88,
+      "balance_due": 0.0,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801189401477",
+      "po_number": "PO-55320",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5009,
+  "Output_tokens": 1432,
+  "Output_thinking_tokens": 825,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005009000000000001,
+    "Output_tokens": 0.000716,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012169
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0257",
+      "invoice_number": "INV-2026-0257",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "166 Al Barsha, Dubai, UAE",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "220 Al Barsha, Doha, Qatar",
+      "invoice_date": "2026-02-01",
+      "due_date": "2026-03-18",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 3.0,
+          "unit_price": 438.7,
+          "amount": 1316.1
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 4.0,
+          "unit_price": 408.93,
+          "amount": 1635.72
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 5.0,
+          "unit_price": 570.06,
+          "amount": 2850.3
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 8.0,
+          "unit_price": 317.3,
+          "amount": 2538.4
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 332.86,
+          "amount": 2330.02
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 8.0,
+          "unit_price": 359.03,
+          "amount": 2872.24
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 31.55,
+          "amount": 94.65
+        }
+      ],
+      "subtotal": 13637.43,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 681.87,
+      "shipping": 10.0,
+      "total": 14329.3,
+      "amount_paid": 14329.3,
+      "balance_due": 0.0,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801503686099",
+      "po_number": "PO-47293",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2948,
+  "Output_tokens": 579,
+  "Output_thinking_tokens": 215,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002948,
+    "Output_tokens": 0.0002895,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005843
+  }
+}

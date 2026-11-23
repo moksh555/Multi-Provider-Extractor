@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0527",
+      "invoice_number": "INV-2026-0527",
+      "company_name": "BrightStar Electronics",
+      "company_address": "188 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "189 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-02",
+      "due_date": "2026-03-19",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 10.0,
+          "unit_price": 107.25,
+          "amount": 1072.5
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 4.0,
+          "unit_price": 301.07,
+          "amount": 1204.28
+        }
+      ],
+      "subtotal": 2276.78,
+      "discount": 227.68,
+      "tax_rate": 0.05,
+      "tax": 102.45,
+      "shipping": 0.0,
+      "total": 2151.55,
+      "amount_paid": 0.0,
+      "balance_due": 2151.55,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801954144331",
+      "po_number": "PO-85395",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4877,
+  "Output_tokens": 1021,
+  "Output_thinking_tokens": 618,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048770000000000004,
+    "Output_tokens": 0.0005105,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009982
+  }
+}

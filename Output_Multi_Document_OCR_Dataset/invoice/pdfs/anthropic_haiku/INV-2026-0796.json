@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0796",
+      "invoice_number": "INV-2026-0796",
+      "company_name": "Greenline Logistics",
+      "company_address": "12 Zindabazar Road, Riyadh, Saudi Arabia",
+      "customer_name": "Global Mart",
+      "billing_address": "200 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-31",
+      "due_date": "2026-07-15",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 1.0,
+          "unit_price": 755.23,
+          "amount": 755.23
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 6.0,
+          "unit_price": 840.35,
+          "amount": 5042.1
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 3.0,
+          "unit_price": 178.41,
+          "amount": 535.23
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 4.0,
+          "unit_price": 848.72,
+          "amount": 3394.88
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 241.33,
+          "amount": 2895.96
+        }
+      ],
+      "subtotal": 12623.4,
+      "discount": 631.17,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 12017.23,
+      "amount_paid": 0.0,
+      "balance_due": 12017.23,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801153840910",
+      "po_number": "PO-32507",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4955,
+  "Output_tokens": 1150,
+  "Output_thinking_tokens": 639,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004955,
+    "Output_tokens": 0.000575,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010704999999999998
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0680",
+      "invoice_number": "INV-2026-0680",
+      "company_name": "Metro Print House",
+      "company_address": "140 Road 12, Banani, Riyadh, Saudi Arabia",
+      "customer_name": "Global Mart",
+      "billing_address": "87 Mirpur DOHS, Dhaka, Bangladesh",
+      "invoice_date": "2026-02-22",
+      "due_date": "2026-03-01",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 2.0,
+          "unit_price": 460.2,
+          "amount": 920.4
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 8.0,
+          "unit_price": 798.72,
+          "amount": 6389.76
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 572.78,
+          "amount": 4009.46
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1.0,
+          "unit_price": 804.63,
+          "amount": 804.63
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 11.0,
+          "unit_price": 447.72,
+          "amount": 4924.92
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 4.0,
+          "unit_price": 280.51,
+          "amount": 1122.04
+        }
+      ],
+      "subtotal": 18171.21,
+      "discount": 908.56,
+      "tax_rate": 0.1,
+      "tax": 1726.26,
+      "shipping": 0.0,
+      "total": 18988.91,
+      "amount_paid": 0.0,
+      "balance_due": 18988.91,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801145900479",
+      "po_number": "PO-44704",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4978,
+  "Output_tokens": 1352,
+  "Output_thinking_tokens": 807,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004978000000000001,
+    "Output_tokens": 0.000676,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011738
+  }
+}

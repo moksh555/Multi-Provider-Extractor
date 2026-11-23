@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0749",
+      "invoice_number": "INV-2026-0749",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "30 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "215 Al Barsha, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-07",
+      "due_date": "2026-07-22",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 7.0,
+          "unit_price": 803.39,
+          "amount": 5623.73
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 7.0,
+          "unit_price": 833.3,
+          "amount": 5833.1
+        }
+      ],
+      "subtotal": 11456.83,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 572.84,
+      "shipping": 0.0,
+      "total": 12029.67,
+      "amount_paid": 0.0,
+      "balance_due": 12029.67,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801975197711",
+      "po_number": "PO-43020",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4859,
+  "Output_tokens": 885,
+  "Output_thinking_tokens": 492,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048590000000000005,
+    "Output_tokens": 0.0004425,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009284
+  }
+}

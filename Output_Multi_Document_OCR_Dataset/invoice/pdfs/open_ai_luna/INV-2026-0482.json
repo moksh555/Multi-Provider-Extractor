@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0482",
+      "invoice_number": "INV-2026-0482",
+      "company_name": "CityBanking Supplies",
+      "company_address": "31 Jumeirah Lake Towers, Sylhet, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "163 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-19",
+      "due_date": "2026-07-03",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 9.0,
+          "unit_price": 264.56,
+          "amount": 2381.04
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 1.0,
+          "unit_price": 827.39,
+          "amount": 827.39
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 566.94,
+          "amount": 1700.82
+        }
+      ],
+      "subtotal": 4909.25,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 490.93,
+      "shipping": 0.0,
+      "total": 5400.18,
+      "amount_paid": 0.0,
+      "balance_due": 5400.18,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801971687284",
+      "po_number": "PO-68539",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2694,
+  "Output_tokens": 561,
+  "Output_thinking_tokens": 159,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026940000000000004,
+    "Output_tokens": 0.0002805,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005499000000000001
+  }
+}

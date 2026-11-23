@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0160",
+      "invoice_number": "INV-2026-0160",
+      "company_name": "CityBanking Supplies",
+      "company_address": "137 Zindabazar Road, Riyadh, Saudi Arabia",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "197 Sheikh Zayed Road, Doha, Qatar",
+      "invoice_date": "2026-03-11",
+      "due_date": "2026-04-25",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 132.09,
+          "amount": 660.45
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 110.88,
+          "amount": 221.76
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 202.35,
+          "amount": 1618.8
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 1.0,
+          "unit_price": 91.87,
+          "amount": 91.87
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 2.0,
+          "unit_price": 427.43,
+          "amount": 854.86
+        }
+      ],
+      "subtotal": 3447.74,
+      "discount": 172.39,
+      "tax_rate": 0.15,
+      "tax": 491.3,
+      "shipping": 0.0,
+      "total": 3766.65,
+      "amount_paid": 0.0,
+      "balance_due": 3766.65,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801361600777",
+      "po_number": "PO-26423",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4938,
+  "Output_tokens": 1193,
+  "Output_thinking_tokens": 675,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004938,
+    "Output_tokens": 0.0005965,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010903
+  }
+}

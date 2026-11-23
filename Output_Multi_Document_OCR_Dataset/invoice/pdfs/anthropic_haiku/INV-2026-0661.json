@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0661",
+      "invoice_number": "INV-2026-0661",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "23 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "customer_name": "Bengal Motors",
+      "billing_address": "237 Gulshan Avenue, Chattogram, Bangladesh",
+      "invoice_date": "2026-01-17",
+      "due_date": "2026-02-16",
+      "currency": "BDT",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 5.0,
+          "unit_price": 617.38,
+          "amount": 3086.9
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 4.0,
+          "unit_price": 218.04,
+          "amount": 872.16
+        }
+      ],
+      "subtotal": 3959.06,
+      "discount": 79.18,
+      "tax_rate": 0.05,
+      "tax": 193.99,
+      "shipping": 5.0,
+      "total": 4078.87,
+      "amount_paid": 0.0,
+      "balance_due": 4078.87,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801310021824",
+      "po_number": "PO-56009",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4888,
+  "Output_tokens": 981,
+  "Output_thinking_tokens": 563,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004888000000000001,
+    "Output_tokens": 0.0004905,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009793000000000002
+  }
+}

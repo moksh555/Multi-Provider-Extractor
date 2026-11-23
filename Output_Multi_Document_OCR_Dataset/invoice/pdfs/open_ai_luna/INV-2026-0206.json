@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0206",
+      "invoice_number": "INV-2026-0206",
+      "company_name": "Golden Harvest Store",
+      "company_address": "113 Motijheel C/A, Dubai, UAE",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "249 Doha Business Park, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-09",
+      "due_date": "2026-05-24",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 144.71,
+          "amount": 1447.1
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 5.0,
+          "unit_price": 657.41,
+          "amount": 3287.05
+        }
+      ],
+      "subtotal": 4734.15,
+      "discount": 0.0,
+      "tax_rate": 0.1,
+      "tax": 473.41,
+      "shipping": 50.0,
+      "total": 5257.56,
+      "amount_paid": 5257.56,
+      "balance_due": 0.0,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801546669720",
+      "po_number": "PO-86666",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2613,
+  "Output_tokens": 442,
+  "Output_thinking_tokens": 192,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002613,
+    "Output_tokens": 0.000221,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004823
+  }
+}

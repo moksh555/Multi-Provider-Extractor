@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0850",
+      "invoice_number": "INV-2026-0850",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "17 Uttara Sector 7, Chattogram, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "35 Zindabazar Road, Dubai, UAE",
+      "invoice_date": "2026-06-18",
+      "due_date": "2026-08-02",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 546.11,
+          "amount": 2184.44
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 680.0,
+          "amount": 3400.0
+        },
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 9.0,
+          "unit_price": 835.36,
+          "amount": 7518.24
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 8.0,
+          "unit_price": 533.68,
+          "amount": 4269.44
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 490.82,
+          "amount": 4908.2
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 7.0,
+          "unit_price": 716.53,
+          "amount": 5015.71
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 5.0,
+          "unit_price": 401.31,
+          "amount": 2006.55
+        }
+      ],
+      "subtotal": 29302.58,
+      "discount": 2930.26,
+      "tax_rate": 0.07,
+      "tax": 1977.92,
+      "shipping": 5.0,
+      "total": 28355.24,
+      "amount_paid": 0.0,
+      "balance_due": 28355.24,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801196057210",
+      "po_number": "PO-23335",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1977.92; recomputed tax 1846.06."
+    }
+  ],
+  "Input_tokens": 2957,
+  "Output_tokens": 855,
+  "Output_thinking_tokens": 266,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002957,
+    "Output_tokens": 0.0004275,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007232
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0122",
+      "invoice_number": "INV-2026-0122",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "178 Dhanmondi 27, Dhaka, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "5 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-09",
+      "due_date": "2026-04-24",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 2.0,
+          "unit_price": 164.96,
+          "amount": 329.92
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 480.1,
+          "amount": 3840.8
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 1.0,
+          "unit_price": 216.3,
+          "amount": 216.3
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 5.0,
+          "unit_price": 288.87,
+          "amount": 1444.35
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 12.0,
+          "unit_price": 140.2,
+          "amount": 1682.4
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 304.31,
+          "amount": 3347.41
+        }
+      ],
+      "subtotal": 10861.18,
+      "discount": 543.06,
+      "tax_rate": 0.07,
+      "tax": 773.86,
+      "shipping": 50.0,
+      "total": 11141.98,
+      "amount_paid": 11141.98,
+      "balance_due": 0.0,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801295868880",
+      "po_number": "PO-52186",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 773.86 vs recomputed 722.27 ((10861.18 - 543.06) x 0.07 = 722.27, using the printed tax rate of 7%)."
+    }
+  ],
+  "Input_tokens": 4982,
+  "Output_tokens": 1711,
+  "Output_thinking_tokens": 1083,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004982000000000001,
+    "Output_tokens": 0.0008555,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0013537000000000002
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0807",
+      "invoice_number": "INV-2026-0807",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "179 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "63 Doha Business Park, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-20",
+      "due_date": "2026-06-04",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 756.33,
+          "amount": 3781.65
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 9.0,
+          "unit_price": 562.87,
+          "amount": 5065.83
+        },
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 502.78,
+          "amount": 6033.36
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 4.0,
+          "unit_price": 846.5,
+          "amount": 3386.0
+        }
+      ],
+      "subtotal": 18266.84,
+      "discount": 1826.68,
+      "tax_rate": 0.15,
+      "tax": 2466.02,
+      "shipping": 50.0,
+      "total": 18956.18,
+      "amount_paid": 5058.21,
+      "balance_due": 13897.97,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801848816713",
+      "po_number": "PO-29019",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4939,
+  "Output_tokens": 1196,
+  "Output_thinking_tokens": 711,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004939,
+    "Output_tokens": 0.000598,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010919
+  }
+}

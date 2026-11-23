@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0613",
+      "invoice_number": "INV-2026-0613",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "37 Dhanmondi 27, Sylhet, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "101 Gulshan Avenue, Dubai, UAE",
+      "invoice_date": "2026-03-30",
+      "due_date": "2026-04-06",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 10.0,
+          "unit_price": 545.97,
+          "amount": 5459.7
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 5.0,
+          "unit_price": 222.95,
+          "amount": 1114.75
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 1.0,
+          "unit_price": 245.31,
+          "amount": 245.31
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 4.0,
+          "unit_price": 61.78,
+          "amount": 247.12
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 7.0,
+          "unit_price": 760.43,
+          "amount": 5323.01
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 586.54,
+          "amount": 1173.08
+        },
+        {
+          "description": "Web Development",
+          "quantity": 4.0,
+          "unit_price": 447.9,
+          "amount": 1791.6
+        }
+      ],
+      "subtotal": 15354.57,
+      "discount": 1535.46,
+      "tax_rate": 0.05,
+      "tax": 690.96,
+      "shipping": 50.0,
+      "total": 14560.07,
+      "amount_paid": 14560.07,
+      "balance_due": 0.0,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801264430061",
+      "po_number": "PO-49344",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5007,
+  "Output_tokens": 1383,
+  "Output_thinking_tokens": 795,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005007000000000001,
+    "Output_tokens": 0.0006915,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011922
+  }
+}

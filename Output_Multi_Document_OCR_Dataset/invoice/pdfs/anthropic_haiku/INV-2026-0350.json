@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0350",
+      "invoice_number": "INV-2026-0350",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "27 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "150 Motijheel C/A, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-24",
+      "due_date": "2026-05-31",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Network Cable",
+          "quantity": 1.0,
+          "unit_price": 321.1,
+          "amount": 321.1
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 1.0,
+          "unit_price": 102.94,
+          "amount": 102.94
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 10.0,
+          "unit_price": 454.7,
+          "amount": 4547.0
+        }
+      ],
+      "subtotal": 4971.04,
+      "discount": 99.42,
+      "tax_rate": 0.05,
+      "tax": 243.58,
+      "shipping": 5.0,
+      "total": 5120.2,
+      "amount_paid": 0.0,
+      "balance_due": 5120.2,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801324264215",
+      "po_number": "PO-68068",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4896,
+  "Output_tokens": 1017,
+  "Output_thinking_tokens": 579,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004896,
+    "Output_tokens": 0.0005085,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009981
+  }
+}

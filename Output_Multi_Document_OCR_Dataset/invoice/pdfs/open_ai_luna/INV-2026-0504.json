@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0504",
+      "invoice_number": "INV-2026-0504",
+      "company_name": "BrightStar Electronics",
+      "company_address": "25 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "Rahim Traders",
+      "billing_address": "63 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-25",
+      "due_date": "2026-06-01",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 4.0,
+          "unit_price": 641.72,
+          "amount": 2566.88
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 11.0,
+          "unit_price": 388.14,
+          "amount": 4269.54
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2.0,
+          "unit_price": 99.91,
+          "amount": 199.82
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 7.0,
+          "unit_price": 484.88,
+          "amount": 3394.16
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 8.0,
+          "unit_price": 752.83,
+          "amount": 6022.64
+        }
+      ],
+      "subtotal": 16453.04,
+      "discount": 1645.3,
+      "tax_rate": 0.05,
+      "tax": 740.39,
+      "shipping": 50.0,
+      "total": 15598.13,
+      "amount_paid": 0.0,
+      "balance_due": 15598.13,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801410839777",
+      "po_number": "PO-91189",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2800,
+  "Output_tokens": 542,
+  "Output_thinking_tokens": 220,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028,
+    "Output_tokens": 0.000271,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000551
+  }
+}

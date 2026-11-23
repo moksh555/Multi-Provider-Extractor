@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0444",
+      "invoice_number": "INV-2026-0444",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "55 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "171 Mirpur DOHS, Chattogram, Bangladesh",
+      "invoice_date": "2026-04-23",
+      "due_date": "2026-05-23",
+      "currency": "QAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 781.78,
+          "amount": 9381.36
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 101.46,
+          "amount": 608.76
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 791.48,
+          "amount": 9497.76
+        }
+      ],
+      "subtotal": 19487.88,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 5.0,
+      "total": 19492.88,
+      "amount_paid": 14294.25,
+      "balance_due": 5198.63,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801654834080",
+      "po_number": "PO-41150",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2698,
+  "Output_tokens": 422,
+  "Output_thinking_tokens": 141,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002698,
+    "Output_tokens": 0.000211,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004808
+  }
+}

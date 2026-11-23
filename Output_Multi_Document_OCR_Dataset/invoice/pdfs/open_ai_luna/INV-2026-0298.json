@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0298",
+      "invoice_number": "INV-2026-0298",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "133 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "172 Gulshan Avenue, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-27",
+      "due_date": "2026-03-29",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 11.0,
+          "unit_price": 173.83,
+          "amount": 1912.13
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 8.0,
+          "unit_price": 487.44,
+          "amount": 3899.52
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 12.0,
+          "unit_price": 720.12,
+          "amount": 8641.44
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 4.0,
+          "unit_price": 632.24,
+          "amount": 2528.96
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 11.0,
+          "unit_price": 35.65,
+          "amount": 392.15
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 6.0,
+          "unit_price": 435.24,
+          "amount": 2611.44
+        }
+      ],
+      "subtotal": 19985.64,
+      "discount": 399.71,
+      "tax_rate": 0.05,
+      "tax": 979.3,
+      "shipping": 5.0,
+      "total": 20570.23,
+      "amount_paid": 0.0,
+      "balance_due": 20570.23,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801985074527",
+      "po_number": "PO-19827",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2887,
+  "Output_tokens": 810,
+  "Output_thinking_tokens": 286,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028869999999999997,
+    "Output_tokens": 0.000405,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006937
+  }
+}

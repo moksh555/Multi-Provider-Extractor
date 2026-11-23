@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0077",
+      "invoice_number": "INV-2026-0077",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "154 Gulshan Avenue, Dubai, UAE",
+      "customer_name": "Sunrise Apparel",
+      "billing_address": "37 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-01-20",
+      "due_date": "2026-02-04",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 17.6,
+          "amount": 140.8
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 4.0,
+          "unit_price": 591.65,
+          "amount": 2366.6
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 670.67,
+          "amount": 3353.35
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 1.0,
+          "unit_price": 332.96,
+          "amount": 332.96
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 752.79,
+          "amount": 2258.37
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 7.0,
+          "unit_price": 303.74,
+          "amount": 2126.18
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 2.0,
+          "unit_price": 705.86,
+          "amount": 1411.72
+        }
+      ],
+      "subtotal": 11989.98,
+      "discount": 0.0,
+      "tax_rate": 0.05,
+      "tax": 599.5,
+      "shipping": 25.0,
+      "total": 12614.48,
+      "amount_paid": 7259.44,
+      "balance_due": 5355.04,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801247002138",
+      "po_number": "PO-10993",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2936,
+  "Output_tokens": 653,
+  "Output_thinking_tokens": 279,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00029360000000000003,
+    "Output_tokens": 0.0003265,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006201000000000001
+  }
+}

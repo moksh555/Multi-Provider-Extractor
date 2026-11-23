@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0011",
+      "invoice_number": "INV-2026-0011",
+      "company_name": "SkyNet Office Mart",
+      "company_address": "42 Agrabad C/A, Dubai, UAE",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "171 Motijheel C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-14",
+      "due_date": "2026-03-16",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 518.81,
+          "amount": 5188.1
+        },
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 379.98,
+          "amount": 3039.84
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 9.0,
+          "unit_price": 406.42,
+          "amount": 3657.78
+        }
+      ],
+      "subtotal": 11885.72,
+      "discount": 237.71,
+      "tax_rate": 0.07,
+      "tax": 873.6,
+      "shipping": 50.0,
+      "total": 12571.61,
+      "amount_paid": 12571.61,
+      "balance_due": 0.0,
+      "vendor_email": "skynetofficemart@example.com",
+      "vendor_phone": "+8801626609238",
+      "po_number": "PO-10967",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax check. Printed tax 873.60 does not match recomputed tax 815.36, which is (subtotal 11885.72 - discount 237.71) x tax rate 0.07."
+    }
+  ],
+  "Input_tokens": 4898,
+  "Output_tokens": 1271,
+  "Output_thinking_tokens": 764,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004898,
+    "Output_tokens": 0.0006355,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011253
+  }
+}

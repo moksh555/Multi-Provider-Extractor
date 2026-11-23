@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0076",
+      "invoice_number": "INV-2026-0076",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "94 Sheikh Zayed Road, Chattogram, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "207 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-15",
+      "due_date": "2026-03-17",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 720.74,
+          "amount": 1441.48
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 2.0,
+          "unit_price": 322.56,
+          "amount": 645.12
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 93.07,
+          "amount": 930.7
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 6.0,
+          "unit_price": 122.89,
+          "amount": 737.34
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 12.0,
+          "unit_price": 806.8,
+          "amount": 9681.6
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 275.15,
+          "amount": 3026.65
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 12.0,
+          "unit_price": 757.04,
+          "amount": 9084.48
+        }
+      ],
+      "subtotal": 25547.37,
+      "discount": 2554.74,
+      "tax_rate": 0.05,
+      "tax": 1149.63,
+      "shipping": 25.0,
+      "total": 24167.26,
+      "amount_paid": 24167.26,
+      "balance_due": 0.0,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801251361799",
+      "po_number": "PO-39906",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4994,
+  "Output_tokens": 1391,
+  "Output_thinking_tokens": 796,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004994,
+    "Output_tokens": 0.0006955,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011949
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0666",
+      "invoice_number": "INV-2026-0666",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "196 Agrabad C/A, Doha, Qatar",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "98 Road 12, Banani, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-04",
+      "due_date": "2026-06-03",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 9.0,
+          "unit_price": 22.04,
+          "amount": 198.36
+        },
+        {
+          "description": "Web Development",
+          "quantity": 2.0,
+          "unit_price": 647.86,
+          "amount": 1295.72
+        }
+      ],
+      "subtotal": 1494.08,
+      "discount": 149.41,
+      "tax_rate": 0.15,
+      "tax": 201.7,
+      "shipping": 50.0,
+      "total": 1596.37,
+      "amount_paid": 1596.37,
+      "balance_due": 0.0,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801857775953",
+      "po_number": "PO-57287",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4868,
+  "Output_tokens": 928,
+  "Output_thinking_tokens": 529,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004868,
+    "Output_tokens": 0.000464,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009508
+  }
+}

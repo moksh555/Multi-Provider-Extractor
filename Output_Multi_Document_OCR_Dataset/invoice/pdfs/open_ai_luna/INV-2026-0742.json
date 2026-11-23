@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0742",
+      "invoice_number": "INV-2026-0742",
+      "company_name": "Delta Insurance Services",
+      "company_address": "156 Al Barsha, Doha, Qatar",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "115 Motijheel C/A, Doha, Qatar",
+      "invoice_date": "2026-01-30",
+      "due_date": "2026-03-16",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 5.0,
+          "unit_price": 512.12,
+          "amount": 2560.6
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 6.0,
+          "unit_price": 446.65,
+          "amount": 2679.9
+        }
+      ],
+      "subtotal": 5240.5,
+      "discount": 262.03,
+      "tax_rate": 0.07,
+      "tax": 373.39,
+      "shipping": 25.0,
+      "total": 5376.86,
+      "amount_paid": 3289.53,
+      "balance_due": 2087.33,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801525009751",
+      "po_number": "PO-76420",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 373.39; recomputed tax (5240.50 - 262.03) × 0.07 = 348.49."
+    }
+  ],
+  "Input_tokens": 2612,
+  "Output_tokens": 591,
+  "Output_thinking_tokens": 193,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002612,
+    "Output_tokens": 0.0002955,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005567
+  }
+}

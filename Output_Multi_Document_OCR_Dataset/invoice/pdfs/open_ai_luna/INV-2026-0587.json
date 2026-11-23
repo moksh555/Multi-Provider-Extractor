@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0587",
+      "invoice_number": "INV-2026-0587",
+      "company_name": "Golden Harvest Store",
+      "company_address": "142 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "Apex Health Ltd",
+      "billing_address": "204 Agrabad C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-03-04",
+      "due_date": "2026-04-03",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 164.33,
+          "amount": 821.65
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 658.46,
+          "amount": 3292.3
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 10.0,
+          "unit_price": 380.77,
+          "amount": 3807.7
+        }
+      ],
+      "subtotal": 7921.65,
+      "discount": 158.43,
+      "tax_rate": 0.07,
+      "tax": 582.24,
+      "shipping": 0.0,
+      "total": 8345.46,
+      "amount_paid": 0.0,
+      "balance_due": 8345.46,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801254277534",
+      "po_number": "PO-46682",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 582.24; recomputed tax (7921.65 − 158.43) × 0.07 = 543.4254 (543.43 rounded)."
+    }
+  ],
+  "Input_tokens": 2677,
+  "Output_tokens": 553,
+  "Output_thinking_tokens": 230,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002677,
+    "Output_tokens": 0.0002765,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005442
+  }
+}

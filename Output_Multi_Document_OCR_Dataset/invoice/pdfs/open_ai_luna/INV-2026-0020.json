@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0020",
+      "invoice_number": "INV-2026-0020",
+      "company_name": "Golden Harvest Store",
+      "company_address": "95 Dhanmondi 27, Riyadh, Saudi Arabia",
+      "customer_name": "Future School",
+      "billing_address": "27 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-16",
+      "due_date": "2026-05-31",
+      "currency": "AED",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Medical Gloves",
+          "quantity": 6.0,
+          "unit_price": 220.52,
+          "amount": 1323.12
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 7.0,
+          "unit_price": 736.25,
+          "amount": 5153.75
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 11.0,
+          "unit_price": 740.01,
+          "amount": 8140.11
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 7.0,
+          "unit_price": 53.64,
+          "amount": 375.48
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 6.0,
+          "unit_price": 532.26,
+          "amount": 3193.56
+        }
+      ],
+      "subtotal": 18186.02,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2727.9,
+      "shipping": 10.0,
+      "total": 20923.92,
+      "amount_paid": 0.0,
+      "balance_due": 20923.92,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801402128406",
+      "po_number": "PO-77304",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2813,
+  "Output_tokens": 450,
+  "Output_thinking_tokens": 115,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002813,
+    "Output_tokens": 0.000225,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005063
+  }
+}

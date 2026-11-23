@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0174",
+      "invoice_number": "INV-2026-0174",
+      "company_name": "CityBanking Supplies",
+      "company_address": "128 Al Barsha, Riyadh, Saudi Arabia",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "146 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-07",
+      "due_date": "2026-03-14",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 46.11,
+          "amount": 322.77
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 258.62,
+          "amount": 3103.44
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 391.11,
+          "amount": 4693.32
+        }
+      ],
+      "subtotal": 8119.53,
+      "discount": 405.98,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 7763.55,
+      "amount_paid": 7763.55,
+      "balance_due": 0.0,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801629811768",
+      "po_number": "PO-15011",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2691,
+  "Output_tokens": 554,
+  "Output_thinking_tokens": 156,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00026910000000000004,
+    "Output_tokens": 0.000277,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005461000000000001
+  }
+}

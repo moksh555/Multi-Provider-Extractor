@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0470",
+      "invoice_number": "INV-2026-0470",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "93 Motijheel C/A, Dubai, UAE",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "57 Gulshan Avenue, Dhaka, Bangladesh",
+      "invoice_date": "2026-02-27",
+      "due_date": "2026-03-29",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 793.41,
+          "amount": 2380.23
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 1.0,
+          "unit_price": 730.42,
+          "amount": 730.42
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 5.0,
+          "unit_price": 393.23,
+          "amount": 1966.15
+        }
+      ],
+      "subtotal": 5076.8,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 380.76,
+      "shipping": 0.0,
+      "total": 5457.56,
+      "amount_paid": 0.0,
+      "balance_due": 5457.56,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801460245568",
+      "po_number": "PO-38807",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax. Printed tax 380.76 does not equal (subtotal 5076.80 - discount 0) x tax rate 0.07; recomputed tax is 355.38. The printed tax implies a rate of 0.075."
+    }
+  ],
+  "Input_tokens": 4894,
+  "Output_tokens": 1365,
+  "Output_thinking_tokens": 838,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004894000000000001,
+    "Output_tokens": 0.0006825,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011719
+  }
+}

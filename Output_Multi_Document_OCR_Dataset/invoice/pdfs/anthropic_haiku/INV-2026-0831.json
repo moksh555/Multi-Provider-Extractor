@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0831",
+      "invoice_number": "INV-2026-0831",
+      "company_name": "CityBanking Supplies",
+      "company_address": "12 Agrabad C/A, Doha, Qatar",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "167 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-04-23",
+      "due_date": "2026-05-23",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 414.28,
+          "amount": 4971.36
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 2.0,
+          "unit_price": 394.21,
+          "amount": 788.42
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 2.0,
+          "unit_price": 778.12,
+          "amount": 1556.24
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 4.0,
+          "unit_price": 262.12,
+          "amount": 1048.48
+        },
+        {
+          "description": "Web Development",
+          "quantity": 4.0,
+          "unit_price": 302.48,
+          "amount": 1209.92
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 72.41,
+          "amount": 868.92
+        },
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 304.15,
+          "amount": 2433.2
+        }
+      ],
+      "subtotal": 12876.54,
+      "discount": 643.83,
+      "tax_rate": 0.07,
+      "tax": 917.45,
+      "shipping": 25.0,
+      "total": 13175.16,
+      "amount_paid": 4220.81,
+      "balance_due": 8954.35,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801165715843",
+      "po_number": "PO-48211",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 917.45 does not match recomputed tax 856.29, calculated as (subtotal 12876.54 - discount 643.83) x tax rate 0.07 = 12232.71 x 0.07."
+    }
+  ],
+  "Input_tokens": 4985,
+  "Output_tokens": 1615,
+  "Output_thinking_tokens": 947,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004985,
+    "Output_tokens": 0.0008075,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0013059999999999999
+  }
+}

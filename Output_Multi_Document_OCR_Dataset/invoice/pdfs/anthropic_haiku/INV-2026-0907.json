@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0907",
+      "invoice_number": "INV-2026-0907",
+      "company_name": "BlueRiver Trading Co.",
+      "company_address": "167 Al Barsha, Chattogram, Bangladesh",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "109 Uttara Sector 7, Chattogram, Bangladesh",
+      "invoice_date": "2026-06-14",
+      "due_date": "2026-07-14",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 11.0,
+          "unit_price": 72.6,
+          "amount": 798.6
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 12.0,
+          "unit_price": 35.32,
+          "amount": 423.84
+        }
+      ],
+      "subtotal": 1222.44,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 183.37,
+      "shipping": 50.0,
+      "total": 1455.81,
+      "amount_paid": 0.0,
+      "balance_due": 1455.81,
+      "vendor_email": "bluerivertradingco@example.com",
+      "vendor_phone": "+8801274610604",
+      "po_number": "PO-68732",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4859,
+  "Output_tokens": 978,
+  "Output_thinking_tokens": 583,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.00048590000000000005,
+    "Output_tokens": 0.000489,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009749
+  }
+}

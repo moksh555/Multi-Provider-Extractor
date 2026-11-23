@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0943",
+      "invoice_number": "INV-2026-0943",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "33 Mirpur DOHS, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "203 Al Barsha, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-21",
+      "due_date": "2026-06-05",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 205.29,
+          "amount": 1231.74
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 5.0,
+          "unit_price": 140.0,
+          "amount": 700.0
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 12.0,
+          "unit_price": 734.17,
+          "amount": 8810.04
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 5.0,
+          "unit_price": 194.3,
+          "amount": 971.5
+        }
+      ],
+      "subtotal": 11713.28,
+      "discount": 234.27,
+      "tax_rate": 0.1,
+      "tax": 1147.9,
+      "shipping": 0.0,
+      "total": 12626.91,
+      "amount_paid": 0.0,
+      "balance_due": 12626.91,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801197946382",
+      "po_number": "PO-90321",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4941,
+  "Output_tokens": 1145,
+  "Output_thinking_tokens": 654,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004941,
+    "Output_tokens": 0.0005725,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010666
+  }
+}

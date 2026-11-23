@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0352",
+      "invoice_number": "INV-2026-0352",
+      "company_name": "CityBanking Supplies",
+      "company_address": "17 Motijheel C/A, Dhaka, Bangladesh",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "144 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-07",
+      "due_date": "2026-02-14",
+      "currency": "AED",
+      "payment_terms": "Net 15",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 5.0,
+          "unit_price": 712.19,
+          "amount": 3560.95
+        },
+        {
+          "description": "API Integration",
+          "quantity": 6.0,
+          "unit_price": 782.07,
+          "amount": 4692.42
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 9.0,
+          "unit_price": 418.72,
+          "amount": 3768.48
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 12.0,
+          "unit_price": 479.68,
+          "amount": 5756.16
+        },
+        {
+          "description": "API Integration",
+          "quantity": 10.0,
+          "unit_price": 564.57,
+          "amount": 5645.7
+        }
+      ],
+      "subtotal": 23423.71,
+      "discount": 468.47,
+      "tax_rate": 0.1,
+      "tax": 2295.52,
+      "shipping": 25.0,
+      "total": 25275.76,
+      "amount_paid": 8053.71,
+      "balance_due": 17222.05,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801043562222",
+      "po_number": "PO-53995",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4941,
+  "Output_tokens": 1338,
+  "Output_thinking_tokens": 823,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004941,
+    "Output_tokens": 0.000669,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011631
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0649",
+      "invoice_number": "INV-2026-0649",
+      "company_name": "Greenline Logistics",
+      "company_address": "114 Agrabad C/A, Chattogram, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "207 Zindabazar Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-05-13",
+      "due_date": "2026-05-28",
+      "currency": "BDT",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 12.0,
+          "unit_price": 451.57,
+          "amount": 5418.84
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 222.21,
+          "amount": 2222.1
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 9.0,
+          "unit_price": 373.98,
+          "amount": 3365.82
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 5.0,
+          "unit_price": 155.96,
+          "amount": 779.8
+        }
+      ],
+      "subtotal": 11786.56,
+      "discount": 589.33,
+      "tax_rate": 0.05,
+      "tax": 559.86,
+      "shipping": 0.0,
+      "total": 11757.09,
+      "amount_paid": 7215.67,
+      "balance_due": 4541.42,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801361302385",
+      "po_number": "PO-39869",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4938,
+  "Output_tokens": 1183,
+  "Output_thinking_tokens": 695,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004938,
+    "Output_tokens": 0.0005915,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010853
+  }
+}

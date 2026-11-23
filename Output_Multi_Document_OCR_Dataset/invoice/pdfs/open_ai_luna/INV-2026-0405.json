@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0405",
+      "invoice_number": "INV-2026-0405",
+      "company_name": "CityBanking Supplies",
+      "company_address": "125 Jumeirah Lake Towers, Dubai, UAE",
+      "customer_name": "Bengal Motors",
+      "billing_address": "72 Zindabazar Road, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-05",
+      "due_date": "2026-03-22",
+      "currency": "AED",
+      "payment_terms": "Net 7",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 503.37,
+          "amount": 6040.44
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 6.0,
+          "unit_price": 671.17,
+          "amount": 4027.02
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 157.69,
+          "amount": 788.45
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 5.0,
+          "unit_price": 814.64,
+          "amount": 4073.2
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 2.0,
+          "unit_price": 692.06,
+          "amount": 1384.12
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 6.0,
+          "unit_price": 29.38,
+          "amount": 176.28
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 1.0,
+          "unit_price": 44.1,
+          "amount": 44.1
+        }
+      ],
+      "subtotal": 16533.61,
+      "discount": 1653.36,
+      "tax_rate": 0.07,
+      "tax": 1116.02,
+      "shipping": 5.0,
+      "total": 16001.27,
+      "amount_paid": 6980.58,
+      "balance_due": 9020.69,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801580268913",
+      "po_number": "PO-32345",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed 1116.02; recomputed (16533.61 − 1653.36) × 0.07 = 1041.62."
+    }
+  ],
+  "Input_tokens": 2937,
+  "Output_tokens": 958,
+  "Output_thinking_tokens": 353,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002937,
+    "Output_tokens": 0.000479,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0007727
+  }
+}

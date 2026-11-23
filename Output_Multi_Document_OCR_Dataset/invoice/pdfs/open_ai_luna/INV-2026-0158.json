@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0158",
+      "invoice_number": "INV-2026-0158",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "155 Gulshan Avenue, Dhaka, Bangladesh",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "210 Sheikh Zayed Road, Dhaka, Bangladesh",
+      "invoice_date": "2026-05-16",
+      "due_date": "2026-05-31",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 4.0,
+          "unit_price": 783.04,
+          "amount": 3132.16
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 6.0,
+          "unit_price": 595.83,
+          "amount": 3574.98
+        }
+      ],
+      "subtotal": 6707.14,
+      "discount": 670.71,
+      "tax_rate": 0.05,
+      "tax": 301.82,
+      "shipping": 0.0,
+      "total": 6338.25,
+      "amount_paid": 2977.92,
+      "balance_due": 3360.33,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801133221911",
+      "po_number": "PO-17750",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2627,
+  "Output_tokens": 574,
+  "Output_thinking_tokens": 211,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002627,
+    "Output_tokens": 0.000287,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005497
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0178",
+      "invoice_number": "INV-2026-0178",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "76 Dhanmondi 27, Sylhet, Bangladesh",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "197 Road 12, Banani, Doha, Qatar",
+      "invoice_date": "2026-03-10",
+      "due_date": "2026-03-25",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 2.0,
+          "unit_price": 666.15,
+          "amount": 1332.3
+        },
+        {
+          "description": "API Integration",
+          "quantity": 2.0,
+          "unit_price": 701.48,
+          "amount": 1402.96
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 9.0,
+          "unit_price": 96.76,
+          "amount": 870.84
+        },
+        {
+          "description": "Thermal Paper Roll",
+          "quantity": 4.0,
+          "unit_price": 775.05,
+          "amount": 3100.2
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 12.0,
+          "unit_price": 253.97,
+          "amount": 3047.64
+        }
+      ],
+      "subtotal": 9753.94,
+      "discount": 487.7,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 9276.24,
+      "amount_paid": 9276.24,
+      "balance_due": 0.0,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801481381297",
+      "po_number": "PO-08421",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2823,
+  "Output_tokens": 538,
+  "Output_thinking_tokens": 216,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028230000000000003,
+    "Output_tokens": 0.000269,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005513
+  }
+}

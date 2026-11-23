@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0804",
+      "invoice_number": "INV-2026-0804",
+      "company_name": "Royal Diagnostics Center",
+      "company_address": "156 Sheikh Zayed Road, Dubai, UAE",
+      "customer_name": "Global Mart",
+      "billing_address": "68 Gulshan Avenue, Sylhet, Bangladesh",
+      "invoice_date": "2026-06-02",
+      "due_date": "2026-06-17",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 3.0,
+          "unit_price": 537.02,
+          "amount": 1611.06
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 1.0,
+          "unit_price": 414.63,
+          "amount": 414.63
+        }
+      ],
+      "subtotal": 2025.69,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 2050.69,
+      "amount_paid": 625.64,
+      "balance_due": 1425.05,
+      "vendor_email": "royaldiagnosticscenter@example.com",
+      "vendor_phone": "+8801339284621",
+      "po_number": "PO-28422",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2608,
+  "Output_tokens": 387,
+  "Output_thinking_tokens": 143,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002608,
+    "Output_tokens": 0.0001935,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0004543
+  }
+}

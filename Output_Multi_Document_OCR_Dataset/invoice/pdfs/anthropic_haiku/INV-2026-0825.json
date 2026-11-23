@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0825",
+      "invoice_number": "INV-2026-0825",
+      "company_name": "Metro Print House",
+      "company_address": "19 Dhanmondi 27, Doha, Qatar",
+      "customer_name": "Al Noor Clinic",
+      "billing_address": "25 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-03-02",
+      "due_date": "2026-03-17",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Data Annotation Service",
+          "quantity": 10.0,
+          "unit_price": 78.7,
+          "amount": 787.0
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 655.56,
+          "amount": 6555.6
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 4.0,
+          "unit_price": 612.11,
+          "amount": 2448.44
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 8.0,
+          "unit_price": 503.82,
+          "amount": 4030.56
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 5.0,
+          "unit_price": 549.9,
+          "amount": 2749.5
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 9.0,
+          "unit_price": 515.02,
+          "amount": 4635.18
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 12.0,
+          "unit_price": 260.58,
+          "amount": 3126.96
+        }
+      ],
+      "subtotal": 24333.24,
+      "discount": 486.66,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 23856.58,
+      "amount_paid": 23856.58,
+      "balance_due": 0.0,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801782931759",
+      "po_number": "PO-30493",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4983,
+  "Output_tokens": 1405,
+  "Output_thinking_tokens": 829,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004983,
+    "Output_tokens": 0.0007025,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012008000000000001
+  }
+}

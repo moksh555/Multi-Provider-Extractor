@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0911",
+      "invoice_number": "INV-2026-0911",
+      "company_name": "Golden Harvest Store",
+      "company_address": "126 Dhanmondi 27, Dubai, UAE",
+      "customer_name": "Smart Retail LLC",
+      "billing_address": "159 Doha Business Park, Sylhet, Bangladesh",
+      "invoice_date": "2026-02-12",
+      "due_date": "2026-03-14",
+      "currency": "USD",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Wireless Mouse",
+          "quantity": 4.0,
+          "unit_price": 728.03,
+          "amount": 2912.12
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 8.0,
+          "unit_price": 179.13,
+          "amount": 1433.04
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 3.0,
+          "unit_price": 267.79,
+          "amount": 803.37
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 605.36,
+          "amount": 1816.08
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 12.0,
+          "unit_price": 839.02,
+          "amount": 10068.24
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 12.0,
+          "unit_price": 676.38,
+          "amount": 8116.56
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 11.0,
+          "unit_price": 618.14,
+          "amount": 6799.54
+        }
+      ],
+      "subtotal": 31948.95,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 2396.17,
+      "shipping": 5.0,
+      "total": 34350.12,
+      "amount_paid": 34350.12,
+      "balance_due": 0.0,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801056198564",
+      "po_number": "PO-87559",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 2396.17 does not match recomputed tax 2236.23, which is (subtotal 31948.95 - discount 0) x tax rate 0.07."
+    }
+  ],
+  "Input_tokens": 4990,
+  "Output_tokens": 1443,
+  "Output_thinking_tokens": 790,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000499,
+    "Output_tokens": 0.0007215,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012205
+  }
+}

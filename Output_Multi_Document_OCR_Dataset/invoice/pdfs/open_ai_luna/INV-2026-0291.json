@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0291",
+      "invoice_number": "INV-2026-0291",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "197 Jumeirah Lake Towers, Doha, Qatar",
+      "customer_name": "Digital Learning Hub",
+      "billing_address": "118 Road 12, Banani, Dhaka, Bangladesh",
+      "invoice_date": "2026-03-25",
+      "due_date": "2026-04-24",
+      "currency": "USD",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 12.0,
+          "unit_price": 74.32,
+          "amount": 891.84
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 345.42,
+          "amount": 2417.94
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 12.0,
+          "unit_price": 224.27,
+          "amount": 2691.24
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 7.0,
+          "unit_price": 820.66,
+          "amount": 5744.62
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 10.0,
+          "unit_price": 227.74,
+          "amount": 2277.4
+        }
+      ],
+      "subtotal": 14023.04,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2103.46,
+      "shipping": 5.0,
+      "total": 16131.5,
+      "amount_paid": 0.0,
+      "balance_due": 16131.5,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801582734747",
+      "po_number": "PO-72669",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2805,
+  "Output_tokens": 493,
+  "Output_thinking_tokens": 172,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002805,
+    "Output_tokens": 0.0002465,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005269999999999999
+  }
+}

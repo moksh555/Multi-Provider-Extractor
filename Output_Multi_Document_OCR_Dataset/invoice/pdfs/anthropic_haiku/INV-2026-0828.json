@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0828",
+      "invoice_number": "INV-2026-0828",
+      "company_name": "Summit Agro Foods",
+      "company_address": "100 Gulshan Avenue, Chattogram, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "95 Motijheel C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-05-26",
+      "due_date": "2026-07-10",
+      "currency": "AED",
+      "payment_terms": "Advance Paid",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 6.0,
+          "unit_price": 97.12,
+          "amount": 582.72
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 231.71,
+          "amount": 2780.52
+        }
+      ],
+      "subtotal": 3363.24,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 252.24,
+      "shipping": 50.0,
+      "total": 3665.48,
+      "amount_paid": 0.0,
+      "balance_due": 3665.48,
+      "vendor_email": "summitagrofoods@example.com",
+      "vendor_phone": "+8801443111724",
+      "po_number": "PO-94639",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 252.24 does not equal (subtotal 3363.24 - discount 0) x printed tax rate 0.07 = recomputed 235.43 (the printed tax corresponds to 7.5%, not the 7% label). All other checks passed: line amounts, subtotal, total, and balance due."
+    }
+  ],
+  "Input_tokens": 4861,
+  "Output_tokens": 1272,
+  "Output_thinking_tokens": 761,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004861,
+    "Output_tokens": 0.000636,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011221
+  }
+}

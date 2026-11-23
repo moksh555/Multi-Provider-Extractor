@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0480",
+      "invoice_number": "INV-2026-0480",
+      "company_name": "Greenline Logistics",
+      "company_address": "38 Zindabazar Road, Riyadh, Saudi Arabia",
+      "customer_name": "Bengal Motors",
+      "billing_address": "125 Jumeirah Lake Towers, Doha, Qatar",
+      "invoice_date": "2026-06-29",
+      "due_date": "2026-07-06",
+      "currency": "USD",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 10.0,
+          "unit_price": 521.12,
+          "amount": 5211.2
+        },
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 492.46,
+          "amount": 2462.3
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 2.0,
+          "unit_price": 556.72,
+          "amount": 1113.44
+        }
+      ],
+      "subtotal": 8786.94,
+      "discount": 439.35,
+      "tax_rate": 0.15,
+      "tax": 1252.14,
+      "shipping": 25.0,
+      "total": 9624.73,
+      "amount_paid": 0.0,
+      "balance_due": 9624.73,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801170244777",
+      "po_number": "PO-03113",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4898,
+  "Output_tokens": 1047,
+  "Output_thinking_tokens": 599,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004898,
+    "Output_tokens": 0.0005235,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010133
+  }
+}

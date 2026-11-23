@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0694",
+      "invoice_number": "INV-2026-0694",
+      "company_name": "Nova Medical Supplies",
+      "company_address": "115 Mirpur DOHS, Dubai, UAE",
+      "customer_name": "MediLife Hospital",
+      "billing_address": "34 Dhanmondi 27, Doha, Qatar",
+      "invoice_date": "2026-01-21",
+      "due_date": "2026-02-05",
+      "currency": "USD",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 4.0,
+          "unit_price": 647.69,
+          "amount": 2590.76
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 12.0,
+          "unit_price": 672.68,
+          "amount": 8072.16
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 3.0,
+          "unit_price": 750.53,
+          "amount": 2251.59
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 5.0,
+          "unit_price": 169.05,
+          "amount": 845.25
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 4.0,
+          "unit_price": 538.18,
+          "amount": 2152.72
+        }
+      ],
+      "subtotal": 15912.48,
+      "discount": 1591.25,
+      "tax_rate": 0.07,
+      "tax": 1074.09,
+      "shipping": 5.0,
+      "total": 15400.32,
+      "amount_paid": 0.0,
+      "balance_due": 15400.32,
+      "vendor_email": "novamedicalsupplies@example.com",
+      "vendor_phone": "+8801644683197",
+      "po_number": "PO-82560",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed value 1074.09; recomputed value 1002.49."
+    }
+  ],
+  "Input_tokens": 2809,
+  "Output_tokens": 562,
+  "Output_thinking_tokens": 207,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028090000000000005,
+    "Output_tokens": 0.000281,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005619
+  }
+}

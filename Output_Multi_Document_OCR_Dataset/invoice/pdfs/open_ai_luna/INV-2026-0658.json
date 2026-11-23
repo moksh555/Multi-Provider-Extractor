@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0658",
+      "invoice_number": "INV-2026-0658",
+      "company_name": "Golden Harvest Store",
+      "company_address": "44 Dhanmondi 27, Dubai, UAE",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "88 Sheikh Zayed Road, Doha, Qatar",
+      "invoice_date": "2026-04-06",
+      "due_date": "2026-04-13",
+      "currency": "QAR",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 12.0,
+          "unit_price": 202.97,
+          "amount": 2435.64
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10.0,
+          "unit_price": 601.08,
+          "amount": 6010.8
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 7.0,
+          "unit_price": 772.76,
+          "amount": 5409.32
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 6.0,
+          "unit_price": 242.28,
+          "amount": 1453.68
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 211.74,
+          "amount": 2329.14
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 7.0,
+          "unit_price": 155.13,
+          "amount": 1085.91
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 2.0,
+          "unit_price": 221.34,
+          "amount": 442.68
+        }
+      ],
+      "subtotal": 19167.17,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 1437.54,
+      "shipping": 5.0,
+      "total": 20609.71,
+      "amount_paid": 20609.71,
+      "balance_due": 0.0,
+      "vendor_email": "goldenharveststore@example.com",
+      "vendor_phone": "+8801203044258",
+      "po_number": "PO-27514",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 1437.54; recomputed tax ((19167.17 - 0) × 0.07) = 1341.70."
+    }
+  ],
+  "Input_tokens": 2950,
+  "Output_tokens": 884,
+  "Output_thinking_tokens": 291,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.000295,
+    "Output_tokens": 0.000442,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.000737
+  }
+}

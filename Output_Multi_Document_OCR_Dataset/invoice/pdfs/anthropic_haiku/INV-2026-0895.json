@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0895",
+      "invoice_number": "INV-2026-0895",
+      "company_name": "Greenline Logistics",
+      "company_address": "16 Doha Business Park, Doha, Qatar",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "24 Mirpur DOHS, Sylhet, Bangladesh",
+      "invoice_date": "2026-04-14",
+      "due_date": "2026-05-14",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Consulting Service",
+          "quantity": 4.0,
+          "unit_price": 635.1,
+          "amount": 2540.4
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 5.0,
+          "unit_price": 540.06,
+          "amount": 2700.3
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 7.0,
+          "unit_price": 362.24,
+          "amount": 2535.68
+        }
+      ],
+      "subtotal": 7776.38,
+      "discount": 388.82,
+      "tax_rate": 0.15,
+      "tax": 1108.13,
+      "shipping": 50.0,
+      "total": 8545.69,
+      "amount_paid": 0.0,
+      "balance_due": 8545.69,
+      "vendor_email": "greenlinelogistics@example.com",
+      "vendor_phone": "+8801373862431",
+      "po_number": "PO-87754",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4901,
+  "Output_tokens": 1149,
+  "Output_thinking_tokens": 709,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004901,
+    "Output_tokens": 0.0005745,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010646000000000002
+  }
+}

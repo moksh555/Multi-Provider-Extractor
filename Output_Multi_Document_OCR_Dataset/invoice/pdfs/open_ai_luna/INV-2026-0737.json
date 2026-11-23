@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0737",
+      "invoice_number": "INV-2026-0737",
+      "company_name": "Metro Print House",
+      "company_address": "52 Jumeirah Lake Towers, Chattogram, Bangladesh",
+      "customer_name": "Bengal Motors",
+      "billing_address": "16 Motijheel C/A, Chattogram, Bangladesh",
+      "invoice_date": "2026-02-08",
+      "due_date": "2026-02-23",
+      "currency": "QAR",
+      "payment_terms": "Net 30",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 9.0,
+          "unit_price": 52.64,
+          "amount": 473.76
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 5.0,
+          "unit_price": 358.24,
+          "amount": 1791.2
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 6.0,
+          "unit_price": 431.75,
+          "amount": 2590.5
+        },
+        {
+          "description": "Web Development",
+          "quantity": 3.0,
+          "unit_price": 631.63,
+          "amount": 1894.89
+        },
+        {
+          "description": "LED Monitor",
+          "quantity": 8.0,
+          "unit_price": 351.83,
+          "amount": 2814.64
+        }
+      ],
+      "subtotal": 9564.99,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 25.0,
+      "total": 9589.99,
+      "amount_paid": 9589.99,
+      "balance_due": 0.0,
+      "vendor_email": "metroprinthouse@example.com",
+      "vendor_phone": "+8801886894628",
+      "po_number": "PO-33256",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2823,
+  "Output_tokens": 615,
+  "Output_thinking_tokens": 138,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.00028230000000000003,
+    "Output_tokens": 0.0003075,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005898
+  }
+}

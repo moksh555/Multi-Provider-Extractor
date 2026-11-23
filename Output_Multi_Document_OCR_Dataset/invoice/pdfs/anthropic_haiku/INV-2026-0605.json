@@ -1,0 +1,67 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0605",
+      "invoice_number": "INV-2026-0605",
+      "company_name": "BrightStar Electronics",
+      "company_address": "35 Motijheel C/A, Chattogram, Bangladesh",
+      "customer_name": "Future School",
+      "billing_address": "48 Dhanmondi 27, Dubai, UAE",
+      "invoice_date": "2026-06-23",
+      "due_date": "2026-07-23",
+      "currency": "SAR",
+      "payment_terms": "Net 7",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "API Integration",
+          "quantity": 5.0,
+          "unit_price": 10.07,
+          "amount": 50.35
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 10.0,
+          "unit_price": 847.9,
+          "amount": 8479.0
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 4.0,
+          "unit_price": 8.4,
+          "amount": 33.6
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 12.0,
+          "unit_price": 684.8,
+          "amount": 8217.6
+        }
+      ],
+      "subtotal": 16780.55,
+      "discount": 335.61,
+      "tax_rate": 0.15,
+      "tax": 2466.74,
+      "shipping": 0.0,
+      "total": 18911.68,
+      "amount_paid": 18911.68,
+      "balance_due": 0.0,
+      "vendor_email": "brightstarelectronics@example.com",
+      "vendor_phone": "+8801703647723",
+      "po_number": "PO-42207",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4920,
+  "Output_tokens": 1106,
+  "Output_thinking_tokens": 635,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000492,
+    "Output_tokens": 0.000553,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.001045
+  }
+}

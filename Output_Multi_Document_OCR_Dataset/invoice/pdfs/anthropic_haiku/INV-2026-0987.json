@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0987",
+      "invoice_number": "INV-2026-0987",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "113 Road 12, Banani, Dhaka, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "227 Sheikh Zayed Road, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-21",
+      "due_date": "2026-03-08",
+      "currency": "AED",
+      "payment_terms": "Net 30",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 7.0,
+          "unit_price": 53.94,
+          "amount": 377.58
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 4.0,
+          "unit_price": 73.05,
+          "amount": 292.2
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 12.0,
+          "unit_price": 240.67,
+          "amount": 2888.04
+        }
+      ],
+      "subtotal": 3557.82,
+      "discount": 177.89,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 10.0,
+      "total": 3389.93,
+      "amount_paid": 0.0,
+      "balance_due": 3389.93,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801821005110",
+      "po_number": "PO-04653",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4891,
+  "Output_tokens": 1118,
+  "Output_thinking_tokens": 681,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004891,
+    "Output_tokens": 0.000559,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010481000000000002
+  }
+}

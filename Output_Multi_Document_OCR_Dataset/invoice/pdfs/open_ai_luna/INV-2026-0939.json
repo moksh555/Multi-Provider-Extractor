@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0939",
+      "invoice_number": "INV-2026-0939",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "196 Motijheel C/A, Sylhet, Bangladesh",
+      "customer_name": "Rahim Traders",
+      "billing_address": "249 Road 12, Banani, Dubai, UAE",
+      "invoice_date": "2026-06-05",
+      "due_date": "2026-07-20",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Keyboard",
+          "quantity": 9.0,
+          "unit_price": 565.17,
+          "amount": 5086.53
+        },
+        {
+          "description": "Web Development",
+          "quantity": 12.0,
+          "unit_price": 674.89,
+          "amount": 8098.68
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 8.0,
+          "unit_price": 785.95,
+          "amount": 6287.6
+        }
+      ],
+      "subtotal": 19472.81,
+      "discount": 0.0,
+      "tax_rate": 0.15,
+      "tax": 2920.92,
+      "shipping": 50.0,
+      "total": 22443.73,
+      "amount_paid": 0.0,
+      "balance_due": 22443.73,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801254858376",
+      "po_number": "PO-56848",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2693,
+  "Output_tokens": 536,
+  "Output_thinking_tokens": 137,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002693,
+    "Output_tokens": 0.000268,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0005373
+  }
+}

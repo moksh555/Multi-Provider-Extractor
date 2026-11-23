@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0430",
+      "invoice_number": "INV-2026-0430",
+      "company_name": "CityBanking Supplies",
+      "company_address": "88 Al Barsha, Sylhet, Bangladesh",
+      "customer_name": "TechPoint BD",
+      "billing_address": "74 Al Barsha, Dubai, UAE",
+      "invoice_date": "2026-03-28",
+      "due_date": "2026-04-12",
+      "currency": "BDT",
+      "payment_terms": "Due on Receipt",
+      "status": "PAID",
+      "items": [
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 12.0,
+          "unit_price": 837.14,
+          "amount": 10045.68
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 9.0,
+          "unit_price": 525.64,
+          "amount": 4730.76
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 11.0,
+          "unit_price": 799.55,
+          "amount": 8795.05
+        }
+      ],
+      "subtotal": 23571.49,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 50.0,
+      "total": 23621.49,
+      "amount_paid": 23621.49,
+      "balance_due": 0.0,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801493266611",
+      "po_number": "PO-18568",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4896,
+  "Output_tokens": 1011,
+  "Output_thinking_tokens": 585,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004896,
+    "Output_tokens": 0.0005055,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009951
+  }
+}

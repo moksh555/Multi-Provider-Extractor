@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0243",
+      "invoice_number": "INV-2026-0243",
+      "company_name": "Delta Insurance Services",
+      "company_address": "135 Road 12, Banani, Dubai, UAE",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "19 Uttara Sector 7, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-01-20",
+      "due_date": "2026-02-04",
+      "currency": "SAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Office Chair",
+          "quantity": 5.0,
+          "unit_price": 16.54,
+          "amount": 82.7
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 11.0,
+          "unit_price": 485.66,
+          "amount": 5342.26
+        },
+        {
+          "description": "API Integration",
+          "quantity": 1.0,
+          "unit_price": 106.69,
+          "amount": 106.69
+        }
+      ],
+      "subtotal": 5531.65,
+      "discount": 276.58,
+      "tax_rate": 0.07,
+      "tax": 394.13,
+      "shipping": 5.0,
+      "total": 5654.2,
+      "amount_paid": 0.0,
+      "balance_due": 5654.2,
+      "vendor_email": "deltainsuranceservices@example.com",
+      "vendor_phone": "+8801465179100",
+      "po_number": "PO-51812",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 394.13 does not match recomputed tax 367.85 ((subtotal 5531.65 - discount 276.58) x tax rate 0.07 = 367.85)."
+    }
+  ],
+  "Input_tokens": 4892,
+  "Output_tokens": 1213,
+  "Output_thinking_tokens": 704,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004892000000000001,
+    "Output_tokens": 0.0006065,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010957000000000002
+  }
+}

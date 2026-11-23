@@ -1,0 +1,55 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0454",
+      "invoice_number": "INV-2026-0454",
+      "company_name": "Atlas Engineering Ltd.",
+      "company_address": "85 Mirpur DOHS, Sylhet, Bangladesh",
+      "customer_name": "Karim Enterprise",
+      "billing_address": "56 Motijheel C/A, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-05",
+      "due_date": "2026-03-07",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Portable SSD",
+          "quantity": 9.0,
+          "unit_price": 543.71,
+          "amount": 4893.39
+        },
+        {
+          "description": "Wireless Mouse",
+          "quantity": 9.0,
+          "unit_price": 626.83,
+          "amount": 5641.47
+        }
+      ],
+      "subtotal": 10534.86,
+      "discount": 0.0,
+      "tax_rate": 0.07,
+      "tax": 790.11,
+      "shipping": 25.0,
+      "total": 11349.97,
+      "amount_paid": 8230.83,
+      "balance_due": 3119.14,
+      "vendor_email": "atlasengineeringltd@example.com",
+      "vendor_phone": "+8801064679765",
+      "po_number": "PO-32588",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 790.11 does not equal (subtotal 10534.86 - discount 0) x tax rate 0.07, recomputed tax 737.44 (737.4402)."
+    }
+  ],
+  "Input_tokens": 4887,
+  "Output_tokens": 1160,
+  "Output_thinking_tokens": 675,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004887,
+    "Output_tokens": 0.00058,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0010687000000000001
+  }
+}

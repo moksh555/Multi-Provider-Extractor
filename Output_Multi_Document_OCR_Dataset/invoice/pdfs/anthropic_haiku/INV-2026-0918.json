@@ -1,0 +1,73 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0918",
+      "invoice_number": "INV-2026-0918",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "16 Gulshan Avenue, Doha, Qatar",
+      "customer_name": "Rahim Traders",
+      "billing_address": "172 Road 12, Banani, Dhaka, Bangladesh",
+      "invoice_date": "2026-04-26",
+      "due_date": "2026-05-11",
+      "currency": "QAR",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 11.0,
+          "unit_price": 268.2,
+          "amount": 2950.2
+        },
+        {
+          "description": "Document Scanner",
+          "quantity": 5.0,
+          "unit_price": 213.46,
+          "amount": 1067.3
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 10.0,
+          "unit_price": 203.32,
+          "amount": 2033.2
+        },
+        {
+          "description": "Invoice Processing Service",
+          "quantity": 11.0,
+          "unit_price": 824.25,
+          "amount": 9066.75
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 10.0,
+          "unit_price": 240.64,
+          "amount": 2406.4
+        }
+      ],
+      "subtotal": 17523.85,
+      "discount": 876.19,
+      "tax_rate": 0.07,
+      "tax": 1248.57,
+      "shipping": 0.0,
+      "total": 17896.23,
+      "amount_paid": 5434.3,
+      "balance_due": 12461.93,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801354512029",
+      "po_number": "PO-52716",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Failed check: Tax equals (subtotal - discount) x tax rate. Printed tax 1248.57, recomputed 1165.34 (16647.66 x 0.07)."
+    }
+  ],
+  "Input_tokens": 4967,
+  "Output_tokens": 1527,
+  "Output_thinking_tokens": 935,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004967000000000001,
+    "Output_tokens": 0.0007635,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012602
+  }
+}

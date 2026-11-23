@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0310",
+      "invoice_number": "INV-2026-0310",
+      "company_name": "UrbanBuild Construction",
+      "company_address": "122 Gulshan Avenue, Riyadh, Saudi Arabia",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "72 Al Barsha, Doha, Qatar",
+      "invoice_date": "2026-03-28",
+      "due_date": "2026-04-27",
+      "currency": "BDT",
+      "payment_terms": "Advance Paid",
+      "status": "PARTIAL",
+      "items": [
+        {
+          "description": "Accounting Software License",
+          "quantity": 11.0,
+          "unit_price": 89.26,
+          "amount": 981.86
+        },
+        {
+          "description": "Web Development",
+          "quantity": 9.0,
+          "unit_price": 229.33,
+          "amount": 2063.97
+        },
+        {
+          "description": "Data Annotation Service",
+          "quantity": 7.0,
+          "unit_price": 548.81,
+          "amount": 3841.67
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 3.0,
+          "unit_price": 87.64,
+          "amount": 262.92
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 2.0,
+          "unit_price": 109.27,
+          "amount": 218.54
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 3.0,
+          "unit_price": 743.32,
+          "amount": 2229.96
+        }
+      ],
+      "subtotal": 9598.92,
+      "discount": 479.95,
+      "tax_rate": 0.07,
+      "tax": 683.92,
+      "shipping": 5.0,
+      "total": 9807.89,
+      "amount_paid": 4671.33,
+      "balance_due": 5136.56,
+      "vendor_email": "urbanbuildconstruction@example.com",
+      "vendor_phone": "+8801908539918",
+      "po_number": "PO-20736",
+      "calculation_status": "Human-Evaluation-Required",
+      "calculation_reason": "Tax check failed: printed tax 683.92 does not match recomputed tax 638.33, calculated as (subtotal 9598.92 - discount 479.95) x tax rate 0.07 = 638.33."
+    }
+  ],
+  "Input_tokens": 4980,
+  "Output_tokens": 1467,
+  "Output_thinking_tokens": 838,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.000498,
+    "Output_tokens": 0.0007335,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0012315
+  }
+}

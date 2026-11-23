@@ -1,0 +1,79 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0123",
+      "invoice_number": "INV-2026-0123",
+      "company_name": "Eastern Care Pharmacy",
+      "company_address": "107 Jumeirah Lake Towers, Riyadh, Saudi Arabia",
+      "customer_name": "Trust Finance Office",
+      "billing_address": "157 Al Barsha, Riyadh, Saudi Arabia",
+      "invoice_date": "2026-02-28",
+      "due_date": "2026-04-14",
+      "currency": "BDT",
+      "payment_terms": "Net 15",
+      "status": "UNPAID",
+      "items": [
+        {
+          "description": "Web Development",
+          "quantity": 8.0,
+          "unit_price": 464.56,
+          "amount": 3716.48
+        },
+        {
+          "description": "Printer Cartridge",
+          "quantity": 11.0,
+          "unit_price": 124.68,
+          "amount": 1371.48
+        },
+        {
+          "description": "Keyboard",
+          "quantity": 11.0,
+          "unit_price": 681.69,
+          "amount": 7498.59
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 5.0,
+          "unit_price": 587.74,
+          "amount": 2938.7
+        },
+        {
+          "description": "Portable SSD",
+          "quantity": 3.0,
+          "unit_price": 370.11,
+          "amount": 1110.33
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 11.0,
+          "unit_price": 793.61,
+          "amount": 8729.71
+        }
+      ],
+      "subtotal": 25365.29,
+      "discount": 507.31,
+      "tax_rate": 0.1,
+      "tax": 2485.8,
+      "shipping": 0.0,
+      "total": 27343.78,
+      "amount_paid": 0.0,
+      "balance_due": 27343.78,
+      "vendor_email": "easterncarepharmacy@example.com",
+      "vendor_phone": "+8801057181039",
+      "po_number": "PO-93786",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 5001,
+  "Output_tokens": 1350,
+  "Output_thinking_tokens": 780,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0005001000000000001,
+    "Output_tokens": 0.000675,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0011751
+  }
+}

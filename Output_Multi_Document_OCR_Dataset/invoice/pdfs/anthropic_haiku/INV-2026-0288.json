@@ -1,0 +1,61 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0288",
+      "invoice_number": "INV-2026-0288",
+      "company_name": "Nexus Digital Solutions",
+      "company_address": "165 Mirpur DOHS, Chattogram, Bangladesh",
+      "customer_name": "Global Mart",
+      "billing_address": "95 Dhanmondi 27, Sylhet, Bangladesh",
+      "invoice_date": "2026-05-09",
+      "due_date": "2026-05-16",
+      "currency": "QAR",
+      "payment_terms": "Net 15",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Document Scanner",
+          "quantity": 4.0,
+          "unit_price": 45.26,
+          "amount": 181.04
+        },
+        {
+          "description": "Consulting Service",
+          "quantity": 7.0,
+          "unit_price": 86.18,
+          "amount": 603.26
+        },
+        {
+          "description": "Network Cable",
+          "quantity": 11.0,
+          "unit_price": 159.46,
+          "amount": 1754.06
+        }
+      ],
+      "subtotal": 2538.36,
+      "discount": 0.0,
+      "tax_rate": 0.0,
+      "tax": 0.0,
+      "shipping": 0.0,
+      "total": 2538.36,
+      "amount_paid": 0.0,
+      "balance_due": 2538.36,
+      "vendor_email": "nexusdigitalsolutions@example.com",
+      "vendor_phone": "+8801364291351",
+      "po_number": "PO-83764",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 4899,
+  "Output_tokens": 997,
+  "Output_thinking_tokens": 566,
+  "model": "claude-haiku-5-5",
+  "Pricing": {
+    "Input_tokens": 0.0004899,
+    "Output_tokens": 0.0004985,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0009884
+  }
+}

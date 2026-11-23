@@ -1,0 +1,85 @@
+{
+  "ExtractionRequests": [
+    {
+      "invoice_id": "INV-2026-0406",
+      "invoice_number": "INV-2026-0406",
+      "company_name": "CityBanking Supplies",
+      "company_address": "198 Mirpur DOHS, Riyadh, Saudi Arabia",
+      "customer_name": "Ocean Exporters",
+      "billing_address": "26 Zindabazar Road, Sylhet, Bangladesh",
+      "invoice_date": "2026-03-14",
+      "due_date": "2026-04-28",
+      "currency": "SAR",
+      "payment_terms": "50% Advance, 50% Due",
+      "status": "OVERDUE",
+      "items": [
+        {
+          "description": "Blood Pressure Monitor",
+          "quantity": 7.0,
+          "unit_price": 386.06,
+          "amount": 2702.42
+        },
+        {
+          "description": "Accounting Software License",
+          "quantity": 12.0,
+          "unit_price": 807.44,
+          "amount": 9689.28
+        },
+        {
+          "description": "Surgical Mask Box",
+          "quantity": 3.0,
+          "unit_price": 636.89,
+          "amount": 1910.67
+        },
+        {
+          "description": "Cloud Hosting Plan",
+          "quantity": 6.0,
+          "unit_price": 720.3,
+          "amount": 4321.8
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 6.0,
+          "unit_price": 250.42,
+          "amount": 1502.52
+        },
+        {
+          "description": "Medical Gloves",
+          "quantity": 9.0,
+          "unit_price": 191.93,
+          "amount": 1727.37
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 12.0,
+          "unit_price": 465.51,
+          "amount": 5586.12
+        }
+      ],
+      "subtotal": 27440.18,
+      "discount": 1372.01,
+      "tax_rate": 0.05,
+      "tax": 1303.41,
+      "shipping": 0.0,
+      "total": 27371.58,
+      "amount_paid": 0.0,
+      "balance_due": 27371.58,
+      "vendor_email": "citybankingsupplies@example.com",
+      "vendor_phone": "+8801181686660",
+      "po_number": "PO-78544",
+      "calculation_status": "Pass",
+      "calculation_reason": null
+    }
+  ],
+  "Input_tokens": 2948,
+  "Output_tokens": 613,
+  "Output_thinking_tokens": 227,
+  "model": "gpt-6-luna",
+  "Pricing": {
+    "Input_tokens": 0.0002948,
+    "Output_tokens": 0.0003065,
+    "Cache_write_tokens": null,
+    "Cache_read_tokens": null,
+    "Total_price": 0.0006013
+  }
+}
